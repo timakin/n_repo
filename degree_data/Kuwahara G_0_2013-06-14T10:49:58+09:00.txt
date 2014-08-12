@@ -1,0 +1,185 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Isobe, Y
+   Kosaka, T
+   Kuwahara, G
+   Mikami, H
+   Saku, T
+   Kodama, S
+AF Isobe, Yoshihiro
+   Kosaka, Toru
+   Kuwahara, Go
+   Mikami, Hiroshi
+   Saku, Taro
+   Kodama, Shohta
+TI Oriented Collagen Scaffolds for Tissue Engineering
+SO MATERIALS
+LA English
+DT Article
+DE oriented collagen; three-dimensional; scaffold; biomaterial; tissue
+   engineering
+ID REGENERATION; ORIENTATION; ALIGNMENT; RECONSTRUCTION; GUIDANCE; FIBRILS;
+   DESIGN; CELLS; GELS
+AB Oriented collagen scaffolds were developed in the form of sheet, mesh and tube by arraying flow-oriented collagen string gels and dehydrating the arrayed gels. The developed collagen scaffolds can be any practical size with any direction of orientation for tissue engineering applications. The birefringence of the collagen scaffolds was quantitatively analyzed by parallel Nicols method. Since native collagen in the human body has orientations such as bone, cartilage, tendon and cornea, and the orientation has a special role for the function of human organs, the developed various types of three-dimensional oriented collagen scaffolds are expected to be useful biomaterials for tissue engineering and regenerative medicines.
+C1 Fukuoka Univ, Fac Med, Dept Regenerat Med & Transplantat, Jonan Ku, Fukuoka 8140133, Japan.
+   Atree Inc, Tokyo 1500012, Japan.
+RP Kodama, S (reprint author), Fukuoka Univ, Fac Med, Dept Regenerat Med & Transplantat, Jonan Ku, 7-45-1 Nanakuma, Fukuoka 8140133, Japan.
+EM isobe@a-tree.co.jp; t-kosaka@a-tree.co.jp; kuwahara@fukuoka-u.ac.jp;
+   mikkan0805@mac.com; saku@a-tree.co.jp; skodama@fukuoka-u.ac.jp
+CR Albu Mabrevedabrevelina Georgiana, 2011, Biomaterials Applications for Nanomedicine
+   Atala A, 2008, PEDIATR RES, V63, P569, DOI 10.1203/PDR.0b013e3181660639
+   Berthod F, 2001, MATRIX BIOL, V20, P463, DOI 10.1016/S0945-053X(01)00162-7
+   Builles N, 2010, BIOMATERIALS, V31, P8313, DOI 10.1016/j.biomaterials.2010.07.066
+   Cook James L, 2006, J Knee Surg, V19, P159
+   DICKINSON RB, 1994, ANN BIOMED ENG, V22, P342, DOI 10.1007/BF02368241
+   Duncan TJ, 2010, BIOMATERIALS, V31, P8996, DOI 10.1016/j.biomaterials.2010.08.042
+   Ehara A, 2003, BIOMATERIALS, V24, P831, DOI 10.1016/S0142-9612(02)00411-8
+   Guo C, 2007, BIOMATERIALS, V28, P1105, DOI 10.1016/j.biomaterials.2006.10.010
+   Harley BA, 2010, J BIOMED MATER RES A, V92A, P1066, DOI 10.1002/jbm.a.32361
+   Helary C., 2006, BIOMATERIALS, V27, P6411
+   JONES SJ, 1975, CELL TISSUE RES, V159, P73
+   Kirkwood JE, 2009, LANGMUIR, V25, P3200, DOI 10.1021/la803736x
+   Knight DP, 1998, J BIOMED MATER RES, V41, P185, DOI 10.1002/(SICI)1097-4636(199808)41:2<185::AID-JBM2>3.0.CO;2-E
+   Lai ES, 2011, ACTA BIOMATER, V7, P2448, DOI 10.1016/j.actbio.2011.03.012
+   Marquez SP, 2009, ACTA BIOMATER, V5, P1839, DOI 10.1016/j.actbio.2009.02.011
+   Mikami H., 2011, TERMIS EU 2011 ANN M, p45O4
+   Parenteau-Bareil R, 2010, MATERIALS, V3, P1863, DOI 10.3390/ma3031863
+   Popescu DC, 2005, ADV MATER, V17, P2324, DOI 10.1002/adma.200500039
+   RIGGS CM, 1993, ANAT EMBRYOL, V187, P239
+   Rosner BI, 2003, ANN BIOMED ENG, V31, P1383, DOI 10.1114/1.1626118
+   Thompson D.M., 2004, ANN BIOMED ENG, V32, P1121, DOI 10.1114/B:ABME.0000036648.68804.e7
+   Thompson DM, 2006, ANN BIOMED ENG, V34, P669, DOI 10.1007/s10439-005-9053-9
+   Torbet J, 2007, BIOMATERIALS, V28, P4268, DOI 10.1016/j.biomaterials.2007.05.024
+   Wilson DL, 2001, P NATL ACAD SCI USA, V98, P13660, DOI 10.1073/pnas.241323198
+   Yokota T, 2008, J THORAC CARDIOV SUR, V136, P900, DOI 10.1016/j.jtcvs.2008.02.058
+   Yost MJ, 2004, TISSUE ENG, V10, P273, DOI 10.1089/107632704322791916
+   Zeugolis DI, 2008, J APPL POLYM SCI, V108, P2886, DOI 10.1002/app.27208
+   Zhong SP, 2006, J BIOMED MATER RES A, V79A, P456, DOI 10.1002/jbm.a.30870
+NR 29
+TC 1
+Z9 1
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 1996-1944
+J9 MATERIALS
+JI Materials
+PD MAR
+PY 2012
+VL 5
+IS 3
+BP 501
+EP 511
+DI 10.3390/ma5030501
+PG 11
+WC Materials Science, Multidisciplinary
+SC Materials Science
+GA 916XF
+UT WOS:000302135800009
+ER
+
+PT J
+AU Suga, S
+   Sekiyama, A
+   Funabashi, G
+   Yamaguchi, J
+   Kimura, M
+   Tsujibayashi, M
+   Uyama, T
+   Sugiyama, H
+   Tomida, Y
+   Kuwahara, G
+   Kitayama, S
+   Fukushima, K
+   Kimura, K
+   Yokoi, T
+   Murakami, K
+   Fujiwara, H
+   Saitoh, Y
+   Plucinski, L
+   Schneider, CM
+AF Suga, S.
+   Sekiyama, A.
+   Funabashi, G.
+   Yamaguchi, J.
+   Kimura, M.
+   Tsujibayashi, M.
+   Uyama, T.
+   Sugiyama, H.
+   Tomida, Y.
+   Kuwahara, G.
+   Kitayama, S.
+   Fukushima, K.
+   Kimura, K.
+   Yokoi, T.
+   Murakami, K.
+   Fujiwara, H.
+   Saitoh, Y.
+   Plucinski, L.
+   Schneider, C. M.
+TI High resolution, low hv photoelectron spectroscopy with the use of a
+   microwave excited rare gas lamp and ionic crystal filters
+SO REVIEW OF SCIENTIFIC INSTRUMENTS
+LA English
+DT Article
+ID CORRELATED ELECTRON-SYSTEMS; TEMPERATURE-DEPENDENCE; ENERGY;
+   PHOTOEMISSION
+C1 Osaka Univ, Grad Sch Engn Sci, Osaka 5608531, Japan.
+   Japan Atom Energy Agcy, Synchrotron Radiat Res Ctr, Mikazuki, Hyogo 6795148, Japan.
+   Res Ctr Julich, Inst Solid State Res Elect Properties IFF 9, D-52425 Julich, Germany.
+RP Suga, S (reprint author), Osaka Univ, Grad Sch Engn Sci, 1-3 Machikaneyama, Osaka 5608531, Japan.
+EM ssmsuga@gmail.com
+RI Schneider, Claus/H-7453-2012
+OI Schneider, Claus/0000-0002-3920-6255
+FU MEXT, Japan [21340101, 21740229]; Alexander von Humboldt Foundation;
+   Helmholtz Association
+FX This work is supported by the Grand-in-Aid for Scientific Research from
+   MEXT, Japan (Grant Nos. 21340101 and 21740229). S.S. is much obliged to
+   the Alexander von Humboldt Foundation and Helmholtz Association for
+   their support of his research stay in Germany.
+CR Budke M, 2008, APPL PHYS LETT, V92, DOI 10.1063/1.2945641
+   Funabashi G, 2008, JPN J APPL PHYS, V47, P2265, DOI 10.1143/JJAP.47.2265
+   HUFNER S, 2007, LECT NOTES PHYS
+   Hufner S, 2003, PHOTOELECTRON SPECTR
+   Kiss T, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.057001
+   KISS T, 2008, REV SCI INSTRUM 1, V79, P23106, DOI DOI 10.1063/1.2839010
+   Mo SK, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.186403
+   PANIAGO R, 1995, SURF SCI, V336, P113, DOI 10.1016/0039-6028(95)00509-9
+   Samson J. A. R., 1967, TECHNIQUES VACUUM UL
+   Sekiyama A, 2000, NATURE, V403, P396, DOI 10.1038/35000140
+   Sekiyama A, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.156402
+   Shimoyamada A, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.026403
+   Souma S, 2007, REV SCI INSTRUM, V78, DOI 10.1063/1.2818806
+   Suga S, 2008, APPL PHYS A-MATER, V92, P479, DOI 10.1007/s00339-008-4555-6
+   Suga S, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/7/073025
+   Suga S, 2005, J PHYS SOC JPN, V74, P2880, DOI 10.1143/JPSJ.74.2880
+   Suga S, 2010, J PHYS SOC JPN, V79, DOI 10.1143/JPSJ.79.044711
+   SUMI H, 1971, J PHYS SOC JPN, V31, P342, DOI 10.1143/JPSJ.31.342
+   Taguchi M, 2005, Phys Rev Lett, V95, P177002, DOI 10.1103/PhysRevLett.95.177002
+   Takata Y, 2008, PHYS REV LETT, V101, DOI [10.1103/PhysRevLett.101.187201, 10.1103/PhysRevLett.101.137601]
+   YEH JJ, 1985, ATOM DATA NUCL DATA, V32, P1, DOI 10.1016/0092-640X(85)90016-6
+NR 21
+TC 7
+Z9 7
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0034-6748
+J9 REV SCI INSTRUM
+JI Rev. Sci. Instrum.
+PD OCT
+PY 2010
+VL 81
+IS 10
+AR 105111
+DI 10.1063/1.3488367
+PG 8
+WC Instruments & Instrumentation; Physics, Applied
+SC Instruments & Instrumentation; Physics
+GA 674NL
+UT WOS:000283753400055
+ER
+
+EF

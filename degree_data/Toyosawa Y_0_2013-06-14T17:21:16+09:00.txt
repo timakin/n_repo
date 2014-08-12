@@ -1,0 +1,116 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Tamrakar, SB
+   Mitachi, T
+   Toyosawa, Y
+AF Tamrakar, Surendra Bahadur
+   Mitachi, Toshiyuki
+   Toyosawa, Yasuo
+TI Measurement of soil tensile strength and factors affecting its
+   measurements
+SO SOILS AND FOUNDATIONS
+LA English
+DT Article
+DE compacted soil; rate effect; tensile strength; test equipment (IGC :
+   D6/D9)
+AB This paper describes the tensile strength measured for three kinds of statically compacted unsaturated soils; mixtures of clay similar to silt similar to sand, Narita-sand and Kanto loam. Specimens were directly prepared either under controlled compaction stress or under controlled dry density by statically compacting them within the tensile mold of the apparatus. Image analysis was done to show the normality of tensile force to the tensile failure plane. Tensile strengths (q(t)) were compared with the unconfined compressive strengths (q(u)) for silt similar to sand mixture, clay similar to sand mixture, clay similar to silt mixture and Narita sand, respectively. Increment in tensile strength (also q(u)/q(t) ratio) with the increase in the percentage and decrease in the size of finer soils could be seen. Effects of number of compaction layers and tensile pulling rates on the q(t) were also examined. Increase in the tensile strength with the increase in the number of compaction layers was observed; and it was suggested to prepare the unsaturated compacted specimen by 3 to 4 layers compaction. Increase in tensile strength of 0.3 kPa and 0.003 kPa per one cycle of logarithm of tensile pulling rate was observed for clay similar to sand-4 (1:3) and clay similar to sand-5 (3:1) for the pulling rate of 0.01 to 1.0 mm/min.
+C1 Hokkaido Univ, Grad Sch Engn, Lab Soil Mech, Sapporo, Hokkaido 060, Japan.
+   Japan Natl Inst Occupat Safety & Hlth, Construct Safety Div, Kawasaki, Kanagawa, Japan.
+RP Tamrakar, SB (reprint author), Hokkaido Univ, Grad Sch Engn, Lab Soil Mech, Sapporo, Hokkaido 060, Japan.
+EM tamrakar@eng.hokudai.ac.jp
+CR BARZEGAR AR, 1995, GEODERMA, V65, P93, DOI 10.1016/0016-7061(94)00028-9
+   JUNG WJ, 2001, J GEOTECHNICAL ENG J, V673, P53
+   Nahlawi H, 2004, GEOTECH TEST J, V27, P356
+   ONO N, 2003, 58 ANN M JAP SOC CIV, P337
+   SUZUKI T, 1998, 53 ANN M JAP SOC CIV, P600
+   TAMRAKAR SB, 2005, GEOTECHNICAL SPECIAL, V138
+   Tamrakar SB, 2005, SOILS FOUND, V45, P103
+   YAO S, 2002, 47 S GEOT S, P127
+NR 8
+TC 0
+Z9 0
+PU JAPANESE GEOTECHNICAL SOC
+PI TOKYO
+PA SUGAYAMA BLDG 4F, KANDA AWAJI-CHO 2-23, CHIYODA-KU, TOKYO, 101-0063,
+   JAPAN
+SN 0038-0806
+J9 SOILS FOUND
+JI Soils Found.
+PD OCT
+PY 2007
+VL 47
+IS 5
+BP 911
+EP 918
+DI 10.3208/sandf.47.911
+PG 8
+WC Engineering, Geological; Geosciences, Multidisciplinary
+SC Engineering; Geology
+GA 249XU
+UT WOS:000252264700008
+ER
+
+PT J
+AU Tamrakar, SB
+   Toyosawa, Y
+   Mitach, T
+   Itoh, K
+AF Tamrakar, SB
+   Toyosawa, Y
+   Mitach, T
+   Itoh, K
+TI Tensile strength of compacted and saturated soils using newly developed
+   tensile strength measuring apparatus
+SO SOILS AND FOUNDATIONS
+LA English
+DT Article
+DE compaction; compressive strength; tensile strength; test equipment
+ID COMPRESSION
+AB This paper describes a newly developed tensile test apparatus which could be used for measuring the tensile strength of compacted and saturated soft soils with simple and quick testing procedure. Statically compacted soils; Kanto loam, NSF clay-sand mixture and silt (CFP-100)-sand mixture, and one dimensionally consolidated saturated NSF clay are taken as test samples. Unconfined compression test and initial suction test are also performed for Kanto loam to get their relationship with tensile strength. Maximum strength for compacted Kanto loam is obtained at around 50 similar to 60% of water content for all the samples prepared at three different dry densities (rho(d) = 0.66, 0.68 and 0.70 g/cm(3)) and the average ratio of unconfined compression strength to tensile strength is found to be 12.5. But it varies differently with water content at dry and wet sides. The effect of amount of finer particles and their size on tensile strength are also observed by changing the proportions of mixtures mentioned above. With the increase in NSF clay and silt proportions, the tensile strength is increased. Increment of tensile strength in the NSF clay-sand mixture is higher than that for the silt-sand mixture. This implies that with the decrease in the size of fine particles there is an increase in tensile strength. Relationship between the tensile strength and consolidation stress for saturated NSF clay is also shown.
+C1 Natl Inst Ind Safety, Construct Div, Tokyo, Japan.
+   Hokkaido Univ, Grad Sch Engn, Struct & Geotech Div, Sapporo, Hokkaido 060, Japan.
+RP Tamrakar, SB (reprint author), Natl Inst Ind Safety, Construct Div, Tokyo, Japan.
+EM tamrakar@anken.go.jp
+CR AJAZ A, 1975, GEOTECHNIQUE, V25, P495
+   AKAGAWA S, 2001, CONDITIONS REQUIRED, V41, P133
+   BARZEGAR AR, 1995, GEODERMA, V16, P93
+   Fang H. Y., 1981, ASTM STP, P130
+   HEIBROCK G, 2003, ICSMFE, P395
+   KAWAMURA Y, 2004, P 39 JPN NAT C GEOT, P1389
+   Kohgo Y., 1993, SOILS FOUND, V33, P49
+   KRISHNAYYA AVG, 1974, GEOTECH ENG DIV, V100, P1051
+   Mitachi T, 2001, SOILS FOUND, V41, P61
+   MOSAID A, 1981, ASTM STP, V740, P207
+   NARAIN J, 1970, J SOIL MECH FDN DIV, V96, P2185
+   OHKUBO S, 2002, TUNNEL UNDERGROUND, V33, P45
+   ONO N, 2003, 58 ANN M JAP SOC CIV, P337
+   SASAKI Y, 2003, C JPN SOC CIV ENG JS, P386
+   SUZUKI T, 1998, 53 ANN M JAP SOC CIV, P600
+   Tang GX, 2000, GEOTECH TEST J, V23, P377
+   TSCHEBATORIOFF FP, 1953, P 3 ICSMFE, V1, P207
+   YAO S, 2002, 47 S GEOT S, P127
+NR 18
+TC 4
+Z9 4
+PU JAPANESE GEOTECHNICAL SOC
+PI TOKYO
+PA SUGAYAMA BLDG 4F, KANDA AWAJI-CHO 2-23, CHIYODA-KU, TOKYO, 101-0063,
+   JAPAN
+SN 0038-0806
+J9 SOILS FOUND
+JI Soils Found.
+PD DEC
+PY 2005
+VL 45
+IS 6
+BP 103
+EP 110
+PG 8
+WC Engineering, Geological; Geosciences, Multidisciplinary
+SC Engineering; Geology
+GA 008NG
+UT WOS:000235047000008
+ER
+
+EF

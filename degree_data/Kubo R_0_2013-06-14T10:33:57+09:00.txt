@@ -1,0 +1,4117 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Kubo, R
+   Ohnishi, K
+AF Kubo, Ryogo
+   Ohnishi, Kouhei
+TI Method for Bandwidth Compression and Transmission of Environmental
+   Information in Bilateral Teleoperation
+SO ELECTRICAL ENGINEERING IN JAPAN
+LA English
+DT Article
+DE bilateral control; bandwidth compression; discrete Fourier transform
+   (DFT); mode transformation; haptics
+ID TELEMANIPULATION
+AB In this paper, a novel method for bandwidth compression and transmission of environmental information is proposed for bilateral teleoperation systems with multiple degrees of freedom (MDOF). In this method, environmental information, that is, the position of end-effectors and the reaction force exerted on them, is converted into environmental modes by using discrete Fourier transform (DFT) matrices. The environmental modes to be transmitted are then selected on the basis of the communication bandwidth between master and slave robots. Bilateral control is achieved in low-frequency modal spaces, and local position control is achieved in high-frequency modal spaces. The validity of the proposed method is confirmed by performing an experiment. (C) 2011 Wiley Periodicals, Inc. Electr Eng Jpn, 178(2): 47-54, 2012; Published online in Wiley Online Library (wileyonlinelibrary.com). DOI 10.1002/eej.21206
+C1 Keio Univ, Grad Sch Sci & Technol, Doctoral Program, Tokyo 108, Japan.
+RP Kubo, R (reprint author), Keio Univ, Grad Sch Sci & Technol, Doctoral Program, Tokyo 108, Japan.
+FU JSPS [17206027]
+FX Contract grant sponsor: JSPS Grant-in-Aid for Scientific Research
+   [Fundamental Research (A) No. 17206027 R&D on Linear-motor-driven
+   multi-DOF Haptic Forceps for Non-invasive Medical Applications].
+CR ANDERSON RJ, 1989, IEEE T AUTOMAT CONTR, V34, P494, DOI 10.1109/9.24201
+   Fite KB, 2004, J DYN SYST-T ASME, V126, P650, DOI 10.1115/1.1790539
+   Hikichi K, 2003, IEICE T COMMUN, VJ86-B, P268
+   Iida W., 2004, P 8 IEEE INT WORKSH, P217
+   Kato A, 2006, IEEJ T IND APPL, V126-D, P1737, DOI 10.1541/ieejias.126.1737
+   Katsura S, 2007, IEEJ T IND APPL, V127-D, P554, DOI 10.1541/ieejias.127.554
+   Katsura S, 2004, P 11 INT POW EL MOT, V4, P129
+   Kron A, 2005, P ISIE 05 IEEE INT S, V4, P1505, DOI 10.1109/ISIE.2005.1529155
+   Kubo R., 2006, P 9 IEEE INT WORKSH, P368
+   Matsumaru T, 1999, J RSJ, V17, P1114
+   Morisawa M, 2003, P IEEE INT C IND EL, P992
+   MURAKAMI T, 1993, IEEE T IND ELECTRON, V40, P259, DOI 10.1109/41.222648
+   Natori K, 2004, IEEE IND ELEC, P2321
+   Ohnishi K, 1996, IEEE-ASME T MECH, V1, P56, DOI 10.1109/3516.491410
+   Secchi C, 2005, IEEE INTL CONF CONTR, P322
+   Shahabi C., 2002, P IEEE INT C MULT EX, V1, P657
+   Tsuji K, 2006, P 9 IEEE INT WORKSH, P329
+   Tsuji T., 2007, IEEJ Transactions on Industry Applications, V127-D, DOI 10.1541/ieejias.127.1000
+NR 18
+TC 0
+Z9 0
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0424-7760
+J9 ELECTR ENG JPN
+JI Electr. Eng. Jpn.
+PD JAN 30
+PY 2012
+VL 178
+IS 2
+BP 47
+EP 54
+DI 10.1002/eej.21206
+PG 8
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 839TA
+UT WOS:000296390900006
+ER
+
+PT J
+AU Inoue, KY
+   Matsudaira, M
+   Kubo, R
+   Nakano, M
+   Yoshida, S
+   Matsuzaki, S
+   Suda, A
+   Kunikata, R
+   Kimura, T
+   Tsurumi, R
+   Shioya, T
+   Ino, K
+   Shiku, H
+   Satoh, S
+   Esashi, M
+   Matsue, T
+AF Inoue, Kumi Y.
+   Matsudaira, Masahki
+   Kubo, Reyushi
+   Nakano, Masanori
+   Yoshida, Shinya
+   Matsuzaki, Sakae
+   Suda, Atsushi
+   Kunikata, Ryota
+   Kimura, Tatsuo
+   Tsurumi, Ryota
+   Shioya, Toshihito
+   Ino, Kosuke
+   Shiku, Hitoshi
+   Satoh, Shiro
+   Esashi, Masayoshi
+   Matsue, Tomokazu
+TI LSI-based amperometric sensor for bio-imaging and multi-point biosensing
+SO LAB ON A CHIP
+LA English
+DT Article
+ID SCANNING ELECTROCHEMICAL MICROSCOPY; HYDROGEN-PEROXIDE; BOVINE EMBRYOS;
+   SINGLE CELLS; ARRAYS
+AB We have developed an LSI-based amperometric sensor called "Bio-LSI" with 400 measurement points as a platform for electrochemical bio-imaging and multi-point biosensing. The system is comprised of a 10.4 mm x 10.4 mm CMOS sensor chip with 20 x 20 unit cells, an external circuit box, a control unit for data acquisition, and a DC power box. Each unit cell of the chip contains an operational amplifier with a switched-capacitor type I-V converter for in-pixel signal amplification. We successfully realized a wide dynamic range from +/- 1 pA to +/- 100 nA with a well-organized circuit design and operating software. In particular, in-pixel signal amplification and an original program to control the signal read-out contribute to the lower detection limit and wide detection range of Bio-LSI. The spacial resolution is 250 mu m and the temporal resolution is 18-125 ms/400 points, which depends on the desired current detection range. The coefficient of variance of the current for 400 points is within 5%. We also demonstrated the real-time imaging of a biological molecule using Bio-LSI. The LSI coated with an Os-HRP film was successfully applied to the monitoring of the changes of hydrogen peroxide concentration in a flow. The Os-HRP-coated LSI was spotted with glucose oxidase and used for bioelectrochemical imaging of the glucose oxidase (GOx)-catalyzed oxidation of glucose. Bio-LSI is a promising platform for a wide range of analytical fields, including diagnostics, environmental measurements and basic biochemistry.
+C1 Tohoku Univ, Micro Syst Integrat Ctr mSIC, Aoba Ku, Sendai, Miyagi 9800845, Japan.
+   Tohoku Univ, Grad Sch Environm Studies, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+   Tohoku Univ, Grad Sch Engn, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+   Tohoku Univ, World Premier Int Res Ctr, Adv Inst Mat Res WPI AIMR, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+   Japan Aviat Elect Ind Ltd, Shibuya Ku, Tokyo 1500043, Japan.
+   Toppan Tech Design Ctr Co Ltd, Taito Ku, Tokyo 1100016, Japan.
+RP Inoue, KY (reprint author), Tohoku Univ, Micro Syst Integrat Ctr mSIC, Aoba Ku, 519-1176 Aramaki Aza Aoba, Sendai, Miyagi 9800845, Japan.
+EM inoue@bioinfo.che.tohoku.ac.jp; matsue@bioinfo.che.tohoku.ac.jp
+RI Yoshida, Shinya/B-7781-2010
+FU Japan Science and Technology Agency; Japan Society for the Promotion of
+   Science (JSPS) [22245011]
+FX This research was supported by Special Coordination Funds for Promoting
+   Science and Technology, Creation of Innovation Centers for Advanced
+   Interdisciplinary Research Areas Program from the Japan Science and
+   Technology Agency, and partially supported by a Grant-in-Aid for
+   Scientific Research (A) (No. 22245011) from the Japan Society for the
+   Promotion of Science (JSPS).
+CR Aoyagi S, 2006, BUNSEKI KAGAKU, V55, P847, DOI 10.2116/bunsekikagaku.55.847
+   Berdondini L, 2009, LAB CHIP, V9, P2644, DOI 10.1039/b907394a
+   Ghindilis AL, 2007, BIOSENS BIOELECTRON, V22, P1853, DOI 10.1016/j.bios.2006.06.024
+   Ino K, 2011, LAB CHIP, V11, P385, DOI 10.1039/c0lc00437e
+   Inoue KY, 2010, BIOSENS BIOELECTRON, V25, P1723, DOI 10.1016/j.bios.2009.12.014
+   Joo S, 2008, CHEM REV, V108, P638, DOI 10.1021/cr068113+
+   Kasai N, 2005, SENSOR ACTUAT B-CHEM, V108, P746, DOI 10.1016/j.snb.2004.11.096
+   Kruppa P, 2010, BIOSENS BIOELECTRON, V26, P1414, DOI 10.1016/j.bios.2010.07.070
+   Lin ZY, 2009, ANGEW CHEM INT EDIT, V48, P2044, DOI 10.1002/anie.200805743
+   Mirkin MV, 2000, ANAL CHIM ACTA, V406, P119, DOI 10.1016/S0003-2670(99)00630-3
+   Rothe J, 2011, J MICROMECH MICROENG, V21, DOI 10.1088/0960-1317/21/5/054010
+   SANSEN W, 1990, SENSOR ACTUAT B-CHEM, V1, P298, DOI 10.1016/0925-4005(90)80219-P
+   Schienle M, 2004, IEEE J SOLID-ST CIRC, V39, P2438, DOI 10.1109/JSSC.2004.837084
+   SHIKU H, 1995, ANAL CHEM, V67, P312, DOI 10.1021/ac00098a014
+   Shiku H, 2004, ANAL CHIM ACTA, V522, P51, DOI 10.1016/j.aca.2004.06.054
+   Takahashi Y, 2010, J AM CHEM SOC, V132, P10118, DOI 10.1021/ja1029478
+   Takahashi Y, 2009, ANAL CHEM, V81, P2785, DOI 10.1021/ac900195m
+   VREEKE M, 1992, ANAL CHEM, V64, P3084, DOI 10.1021/ac00048a004
+   Yasukawa T, 2000, ELECTROANAL, V12, P653, DOI 10.1002/1521-4109(200005)12:9<653::AID-ELAN653>3.0.CO;2-S
+NR 19
+TC 1
+Z9 1
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1473-0197
+J9 LAB CHIP
+JI Lab Chip
+PY 2012
+VL 12
+IS 18
+BP 3481
+EP 3490
+DI 10.1039/c2lc40323d
+PG 10
+WC Biochemical Research Methods; Chemistry, Multidisciplinary; Nanoscience
+   & Nanotechnology
+SC Biochemistry & Molecular Biology; Chemistry; Science & Technology -
+   Other Topics
+GA 989TM
+UT WOS:000307583400034
+ER
+
+PT J
+AU Kubo, R
+   Kani, J
+   Ujikawa, H
+   Sakamoto, T
+   Fujimoto, Y
+   Yoshimoto, N
+   Hadama, H
+AF Kubo, Ryogo
+   Kani, Jun-ichi
+   Ujikawa, Hirotaka
+   Sakamoto, Takeshi
+   Fujimoto, Yukihiro
+   Yoshimoto, Naoto
+   Hadama, Hisaya
+TI Study and Demonstration of Sleep and Adaptive Link Rate Control
+   Mechanisms for Energy Efficient 10G-EPON
+SO JOURNAL OF OPTICAL COMMUNICATIONS AND NETWORKING
+LA English
+DT Article
+DE Adaptive link rate (ALR) control; Communication systems; Optical
+   communication; Sleep control; Passive optical network (PON); Power
+   saving
+ID OPTICAL IP NETWORKS; CONSUMPTION; PERFORMANCE; ETHERNET; DESIGN
+AB This paper describes sleep and adaptive link rate (ALR) control functions to reduce the power consumption of optical network units (ONUs) in 10 Gb/s Ethernet passive optical network (10G-EPON) systems. A hybrid mechanism that includes both sleep and ALR control functions is proposed with a view to further improving the power-saving performance. The sleep control function switches the ONU mode, i.e., active or sleep, depending on the presence or absence of traffic. The ALR control function switches the downlink rates between an optical line terminal (OLT) and an ONU, i.e., 1 Gb/s or 10 Gb/s, depending on the quantity of traffic. The proposed hybrid mechanism offers effective power management of ONUs on the basis of the traffic conditions. The proposed hybrid mechanism is validated by a numerical simulation and an experiment.
+C1 NTT Corp, NTT Access Network Serv Syst Labs, Yokosuka, Kanagawa 2390847, Japan.
+RP Kubo, R (reprint author), NTT Corp, NTT Access Network Serv Syst Labs, Yokosuka, Kanagawa 2390847, Japan.
+EM ryogo_kubo@ieee.org
+CR Aleksic S, 2009, J OPT COMMUN NETW, V1, P245, DOI 10.1364/JOCN.1.000245
+   ANANTHANARAYANA.G, 2008, P USENIX WORKSH HOTP
+   Baliga J, 2009, J LIGHTWAVE TECHNOL, V27, P2391, DOI 10.1109/JLT.2008.2010142
+   BALIGA J, 2008, OPT FIB COMM C EXP N
+   Blanquicet F., 2007, P 32 IEEE C LOC COMP, P223
+   Gunaratne C., 2005, International Journal of Network Management, V15, DOI 10.1002/nem.565
+   Davey R., 2006, IEEE Communications Magazine, V44, DOI 10.1109/MCOM.2006.1710412
+   Gunaratne C, 2008, IEEE T COMPUT, V57, P448, DOI 10.1109/TC.2007.70836
+   Gupta M., 2004, Proceedings of the 12th IEEE International Conference on Network  Protocols, DOI 10.1109/ICNP.2004.1348125
+   Gupta M, 2007, IEEE INFOCOM SER, P2451, DOI 10.1109/INFCOM.2007.299
+   Gupta M., 2003, P ACM SIGCOMM AUG, P19, DOI 10.1145/863955.863959
+   HASAN MM, 2010, OPT FIB COMM C EXP N
+   Kani J, 2009, IEEE COMMUN MAG, V47, P43, DOI 10.1109/MCOM.2009.5307465
+   Kubo R, 2010, IEICE T COMMUN, VE93B, P280, DOI 10.1587/transcom.E93.B.280
+   Kubo R., 2009, P IEEE GLOBECOM HON, P1
+   MANDIN J, 2008, 8023AV IEEE
+   Nedevschi S, 2008, P 5 USENIX S NETW SY, P323
+   REVIRIEGO P, 2010, OPT FIB COMM C EXP N
+   Shen GX, 2009, J OPT COMMUN NETW, V1, P176, DOI 10.1364/JOCN.1.000176
+   Tamura H, 2007, GLOB TELECOMM CONF, P198
+   Tatsuta T, 2007, J OPT NETW, V6, P689, DOI 10.1364/JON.6.000689
+   Tucker RS, 2009, J LIGHTWAVE TECHNOL, V27, P243, DOI 10.1109/JLT.2008.2005424
+   Wong S.-H., 2010, OPT FIB COMM C EXP N
+   Wong SW, 2009, 2009 IEEE GLOBECOM WORKSHOPS, P510
+   Zhang B., 2008, P 33 IEEE C LOC COMP, P282
+   [Anonymous], 2009, 8023AV2009 IEEE
+   *ITU T, 2009, SUPPL GPON POW CONS, V45
+NR 27
+TC 20
+Z9 20
+PU OPTICAL SOC AMER
+PI WASHINGTON
+PA 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA
+SN 1943-0620
+J9 J OPT COMMUN NETW
+JI J. Opt. Commun. Netw.
+PD SEP 1
+PY 2010
+VL 2
+IS 9
+BP 716
+EP 729
+DI 10.1364/JOCN.2.000716
+PG 14
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Optics; Telecommunications
+SC Computer Science; Optics; Telecommunications
+GA 688LS
+UT WOS:000284851400007
+ER
+
+PT J
+AU Kubo, R
+   Kani, J
+   Ujikawa, H
+   Sakamoto, T
+   Yoshimoto, N
+   Hadama, H
+AF Kubo, R.
+   Kani, J.
+   Ujikawa, H.
+   Sakamoto, T.
+   Yoshimoto, N.
+   Hadama, H.
+TI Hybrid power-saving mechanism with cyclic sleep and adaptive link rate
+   functions for 10G-EPON systems
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+AB An advanced power-saving mechanism based on a combination of a cyclic sleep function and an adaptive link rate (ALR) function for 10 Gbit/s Ethernet passive optical network (10G-EPON) systems is proposed. The cyclic sleep function varies the sleep period to optimise power-saving performance according to frame inter-arrival time. The ALR function has dual-threshold policy to prevent the frequent switching of link rates. The proposed hybrid mechanism provides effective power-saving performance on the basis of traffic conditions.
+C1 NTT Corp, NTT Access Network Serv Syst Labs, Kanagawa 2390847, Japan.
+RP Kubo, R (reprint author), NTT Corp, NTT Access Network Serv Syst Labs, 1-1 Hikarinooka, Kanagawa 2390847, Japan.
+EM ryogo_kubo@ieee.org
+CR Gunaratne C, 2008, IEEE T COMPUT, V57, P448, DOI 10.1109/TC.2007.70836
+   Kani J, 2009, IEEE COMMUN MAG, V47, P43, DOI 10.1109/MCOM.2009.5307465
+   Kubo R, 2010, IEICE T COMMUN, VE93B, P280, DOI 10.1587/transcom.E93.B.280
+   Kubo R., 2009, P IEEE GLOBECOM HON, P1
+   Wong S., 2009, P IEEE GLOBECOM WORK, P1
+   [Anonymous], 2009, 8023AV2009 IEEE
+   *ITU T, 2009, ITU T REC G S, V45
+NR 7
+TC 1
+Z9 1
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD JUN 24
+PY 2010
+VL 46
+IS 13
+BP 934
+EP U92
+DI 10.1049/el.2010.0867
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 616BK
+UT WOS:000279182500040
+ER
+
+PT J
+AU Kubo, R
+   Kani, J
+   Fujimoto, Y
+   Yoshimoto, N
+   Kumozaki, K
+AF Kubo, Ryogo
+   Kani, Jun-ichi
+   Fujimoto, Yukihiro
+   Yoshimoto, Naoto
+   Kumozaki, Kiyomi
+TI Adaptive Power Saving Mechanism for 10 Gigabit Class PON Systems
+SO IEICE TRANSACTIONS ON COMMUNICATIONS
+LA English
+DT Article
+DE passive optical network; 10G-EPON; 10G-PON; power saving; sleep control
+ID WIRELESS COMMUNICATIONS; PERFORMANCE; PERIOD
+AB This paper proposes a power saving mechanism with variable sleep period to reduce the power consumed by optical network units (ONUs) in passive optical network (PON) systems. In the PON systems based on time division multiplexing (TDM), sleep and periodic wake-Lip (SPW) control is an effective ONU power saving technique. However. the effectiveness of SPW control is fully realized only if the sleep period changes in accordance with the traffic conditions. This paper proposes an SPW control mechanism with variable sleep period. The proposed mechanism sets the sleep period according to traffic conditions, which greatly improves the power saving effect. In addition, the protocols needed between an optical line terminal (OLT) and ONUs are described on the assumption that the proposed mechanism is applied to 10 Gigabit (JOG) class PON systems, i.e. IEEE 802.3av 10G-EPON and FSAN/ITU-T 10G-PON systems. The validity of the proposed mechanism is confirmed by numerical simulations.
+C1 NTT Corp, NTT Access Network Serv Syst Labs, Yokosuka, Kanagawa 2390847, Japan.
+RP Kubo, R (reprint author), NTT Corp, NTT Access Network Serv Syst Labs, Yokosuka, Kanagawa 2390847, Japan.
+EM kubo.ryogo@lab.ntt.co.jp
+CR BALIGA J, 2008, P OFC NFOEC 2008 FEB
+   Gunaratne C., 2005, International Journal of Network Management, V15, DOI 10.1002/nem.565
+   Davey R., 2006, IEEE Communications Magazine, V44, DOI 10.1109/MCOM.2006.1710412
+   Gupta JC, 2004, PROTEIN EXPRES PURIF, V37, P1, DOI 10.1016/j.pep.2004.03.018
+   Gupta M., 2003, P ACM SIGCOMM AUG, P19, DOI 10.1145/863955.863959
+   IEEE, 2005, 80232005 IEEE
+   Jeong DG, 2006, IEEE T WIREL COMMUN, V5, P3012, DOI 10.1109/TWC.2006.04772
+   Kim MG, 2008, IEEE COMMUN LETT, V12, P106, DOI 10.1109/LCOMM.2008.071418
+   Nakanishi K, 2008, IEICE T COMMUN, VE91B, P2454, DOI 10.1093/ietcom/e91-b.8.2454
+   Tamura H., 2007, P IEEE GLOBECOM 2007, P198
+   Tatsuta T, 2007, J OPT NETW, V6, P689, DOI 10.1364/JON.6.000689
+   Wang F, 2009, IET COMMUN, V3, P257, DOI 10.1049/iet-com:20080355
+   *ITU T, 2008, ITU T REC G 984 SER
+NR 13
+TC 12
+Z9 12
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO, 105, JAPAN
+SN 0916-8516
+J9 IEICE T COMMUN
+JI IEICE Trans. Commun.
+PD FEB
+PY 2010
+VL E93B
+IS 2
+BP 280
+EP 288
+DI 10.1587/transcom.E93.B.280
+PG 9
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA 555TD
+UT WOS:000274537300007
+ER
+
+PT J
+AU Kani, J
+   Mitsui, T
+   Kubo, R
+   Okada, M
+   Fujimoto, Y
+   Yoshimoto, N
+   Kumozaki, K
+AF Kani, Jun-ichi
+   Mitsui, Takashi
+   Kubo, Ryogo
+   Okada, Mitsumasa
+   Fujimoto, Yukihiro
+   Yoshimoto, Naoto
+   Kumozaki, Kiyomi
+TI Adaptive Optical Network Unit for Point-to-Point and PON Systems Based
+   on Gigabit Ethernet
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+LA English
+DT Article
+DE Communication systems; optical communication terminals; optical
+   subscriber loops; time division multiaccess
+ID ACCESS
+AB This paper proposes an optical network unit (ONU) that works in point-to-point (P2P) optical access systems as well as passive optical network (PON) systems and so reduces the operational expenditure of optical access networks in the full FTTH era. First, we discuss its design and implementation; after clarifying the requirements for the adaptive ONU, we describe how it should work while focusing on Gigabit-Ethernet-based P2P and PON systems. Next, we study its feasibility through experiments on a prototype. Also, we provide some additional considerations regarding the implementation and future application of the adaptive ONU.
+C1 NTT Corp, NTT Access Network Serv Syst Labs, Mihama Ku, Chiba 2610023, Japan.
+RP Kani, J (reprint author), NTT Corp, NTT Access Network Serv Syst Labs, Mihama Ku, Chiba 2610023, Japan.
+EM kani.junichi@ansl.ntt.co.jp; mitsui.takashi@ansl.ntt.co.jp;
+   kubo.ryougo@ansl.ntt.co.jp; okada.mitsumasa@ansl.ntt.co.jp;
+   fujimoto.yuki-hiro@ansl.ntt.co.jp; yosimoto@ansl.ntt.co.jp;
+   kumozaki@ansl.ntt.co.jp
+CR Kani JI, 2006, IEEE J SEL TOP QUANT, V12, P661, DOI 10.1109/JSTQE.2006.876170
+   MCCAMMON K, P NAT FIB OPT ENG C, P1
+   Shinohara H, 2005, IEEE COMMUN MAG, V43, P72, DOI 10.1109/MCOM.2005.1509970
+   Tatsuta T, 2007, J OPT NETW, V6, P689, DOI 10.1364/JON.6.000689
+   [Anonymous], 2005, 8023 IEEE
+   [Anonymous], 2004, ITU T REC G 984 SER
+   *ITU T, 2009, G985 ITUT
+   *ITU T, 2001, ITU T REC G 983 SER
+NR 8
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0733-8724
+J9 J LIGHTWAVE TECHNOL
+JI J. Lightwave Technol.
+PD NOV 15
+PY 2009
+VL 27
+IS 22
+BP 5022
+EP 5028
+DI 10.1109/JLT.2009.2027216
+PG 7
+WC Engineering, Electrical & Electronic; Optics; Telecommunications
+SC Engineering; Optics; Telecommunications
+GA 494UG
+UT WOS:000269843400012
+ER
+
+PT J
+AU Kubo, R
+   Ohnishi, K
+AF Kubo, Ryogo
+   Ohnishi, Kouhei
+TI Mechanical Recognition of Unknown Environment Using Active/Passive
+   Contact Motion
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+LA English
+DT Article; Proceedings Paper
+CT 9th International Workshop on Advanced Motion Control
+CY MAR 27-29, 2006
+CL Istanbul, TURKEY
+SP IEEE Ind Elect Soc, IEEE Ind Applicat Soc, Soc Instrument & Control Engineers, FESTO, KaleAltinay, Sabanci Univ, TUBITAK
+DE Compliance control; discrete Fourier transform (DFT); disturbance
+   observer (DOB); environment recognition; environmental mode; haptics
+ID HUMANOID ROBOT; LOCALIZATION; MANIPULATOR; INFORMATION; SYSTEMS; DESIGN
+AB This paper presents a method to determine contact conditions between a planar end-effector and the environment, i.e., face-to-face, face-to-line, or face-to-point contact. First of all, two kinds of contact motion of a planar end-effector, i.e., passive and active contact motions, are described. A compliance controller is implemented to achieve the passive contact motion, and the "groping motion" is generated as the active contact motion. Then, novel robot-friendly expressions of the environment are proposed based on the concept of environmental modes. Discrete Fourier transform matrices are utilized as matrices transforming environmental information into environmental modes. In the experiments, a planar end-effector contacts with the environment with the passive and active contact motions, and the environmental data obtained from sensors are transformed into environmental modes. The profiles of the extracted environmental modes are utilized to determine the contact conditions. The validity of the proposed method is confirmed by the experimental results.
+C1 Keio Univ, Dept Syst Design Engn, Yokohama, Kanagawa 2238522, Japan.
+RP Kubo, R (reprint author), Keio Univ, Dept Syst Design Engn, Yokohama, Kanagawa 2238522, Japan.
+EM kubo@sum.sd.keio.ac.jp; ohnishi@sd.keio.ac.jp
+RI Ohnishi, Kouhei/A-6543-2011
+CR Diolaiti N, 2005, IEEE T ROBOT, V21, P925, DOI 10.1109/TRO.2005.852261
+   Dollar AM, 2006, IEEE-ASME T MECH, V11, P154, DOI 10.1109/TMECH.2006.871090
+   Ferretti G, 2004, IEEE T ROBOTIC AUTOM, V20, P488, DOI 10.1109/TRA.2004.825472
+   Kageyama T., 2002, P 7 INT WORKSH ADV M, P74
+   Katsura S, 2004, IEEE T IND ELECTRON, V51, P221, DOI 10.1109/TIE.2003.821890
+   Katsura S., 2006, IEEJ T IND APPL D, V126, P372, DOI 10.1541/ieejias.126.372
+   Katsura S, 2006, IEEE T IND ELECTRON, V53, P1688, DOI 10.1109/TIE.2006.881960
+   Katsura S, 2007, IEEE T IND ELECTRON, V54, P1537, DOI 10.1109/TIE.2007.894704
+   Kubo R., 2006, P 9 IEEE INT WORKSH, P368
+   Kubo R., 2006, P 12 INT POW EL MOT, P367
+   Lee D, 2006, IEEE T IND ELECTRON, V53, P1737, DOI 10.1109/TIE.2006.881949
+   Lefebvre T, 2005, IEEE T SYST MAN CY C, V35, P16, DOI 10.1109/TSMCC.2004.840053
+   Morita G, 2002, J ELECTROMYOGR KINES, V12, P37, DOI 10.1016/S1050-6411(01)00029-3
+   Motoi N, 2007, IEEE T IND INFORM, V3, P154, DOI 10.1109/TII.2007.898469
+   MURAKAMI T, 1993, IEEE T IND ELECTRON, V40, P259, DOI 10.1109/41.222648
+   Ohashi E, 2007, IEEE T IND ELECTRON, V54, P1632, DOI 10.1109/TIE.2007.894728
+   Ohnishi K, 1996, IEEE-ASME T MECH, V1, P56, DOI 10.1109/3516.491410
+   Saeedi P, 2006, IEEE T ROBOT, V22, P119, DOI 10.1109/TRO.2005.858856
+   SATO H, 2000, P IEEE INT C IND EL, P2437
+   Senda K., 2001, Proceedings 2001 IEEE International Symposium on Computational  Intelligence in Robotics and Automation (Cat. No.01EX515), DOI 10.1109/CIRA.2001.1013241
+   Shinozawa Takahiro Miyashita Kazuhiko, 2006, P IEEE RSJ INT C INT, P3468
+   TAKAKURA S, 1989, P IEEE IECON NOV, V2, P421
+   Takeda T, 2007, IEEE T IND ELECTRON, V54, P699, DOI 10.1109/TIE.2007.891642
+   Tsuji T, 2007, IEEE T IND ELECTRON, V54, P3335, DOI 10.1109/TIE.2007.906175
+   VUKOBRATOVIC M, 1994, IEEE T IND ELECTRON, V41, P12, DOI 10.1109/41.281603
+   Wu CJ, 2001, J INTELL ROBOT SYST, V30, P267, DOI 10.1023/A:1008154910876
+   Zhu AM, 2007, IEEE T SYST MAN CY C, V37, P610, DOI 10.1109/TSMCC.2007.897499
+NR 27
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0278-0046
+J9 IEEE T IND ELECTRON
+JI IEEE Trans. Ind. Electron.
+PD MAY
+PY 2009
+VL 56
+IS 5
+BP 1364
+EP 1374
+DI 10.1109/TIE.2008.2006936
+PG 11
+WC Automation & Control Systems; Engineering, Electrical & Electronic;
+   Instruments & Instrumentation
+SC Automation & Control Systems; Engineering; Instruments & Instrumentation
+GA 443CB
+UT WOS:000265886700005
+ER
+
+PT J
+AU Kubo, R
+   Shimono, T
+   Ohnishi, K
+AF Kubo, Ryogo
+   Shimono, Tomoyuki
+   Ohnishi, Kouhei
+TI Flexible Controller Design of Bilateral Grasping Systems Based on a
+   Multilateral Control Scheme
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+LA English
+DT Article; Proceedings Paper
+CT IEEE International Conference on Industrial Technology
+CY DEC 15-17, 2006
+CL Bombay, INDIA
+SP IEEE, IEEE Ind Elect Soc
+DE Bilateral control; discrete Fourier transform (DFT); disturbance
+   observer (DOB); grasping control; haptics; multilateral control
+ID FORCE SENSATION; TIME-DELAY; TELEOPERATION; REALIZATION; ENVIRONMENT;
+   MOTION
+AB This paper describes a novel bilateral grasping control system including master-slave robots with different degree of freedom. The master and slave controllers are designed based on a multilateral control scheme. Decoupling design of force and position controllers is realized by mode transformation using the discrete Fourier transform matrices and a disturbance observer. In the proposed system, a human operator manipulates two master robots, and three slave robots grasp an object cooperatively. The proposed system makes it possible to grasp an object tightly in the slave side and to transmit feeling of grasping to a human operator vividly. The validity of the proposed method is shown by numerical and experimental results.
+C1 Keio Univ, Dept Syst Design Engn, Yokohama, Kanagawa 2238522, Japan.
+   NTT Corp, Access Network Serv Syst Labs, Chiba 2610023, Japan.
+RP Kubo, R (reprint author), Keio Univ, Dept Syst Design Engn, Yokohama, Kanagawa 2238522, Japan.
+EM kubo@sum.sd.keio.ac.jp; shimono@sum.sd.keio.ac.jp; ohnishi@sd.keio.ac.jp
+RI Ohnishi, Kouhei/A-6543-2011
+CR ANDERSON RJ, 1989, IEEE T AUTOMAT CONTR, V34, P494, DOI 10.1109/9.24201
+   Colgate JE, 1997, J ROBOTIC SYST, V14, P37, DOI 10.1002/(SICI)1097-4563(199701)14:1<37::AID-ROB4>3.0.CO;2-V
+   Hashtrudi-Zaad K, 2002, J ROBOTIC SYST, V19, P155, DOI 10.1002/rob.10030
+   HWANG G, 2005, P IEEE RSJ INT C INT, P2179
+   Iida W., 2004, P 8 IEEE INT WORKSH, P217
+   Katsura S, 2005, IEEE T IND ELECTRON, V52, P1196, DOI 10.1109/TIE.2005.855699
+   Katsura S, 2006, IEEE T IND ELECTRON, V53, P1935, DOI 10.1109/TIE.2006.885465
+   Katsura S, 2004, P 11 INT POW EL MOT, V4, P129
+   Katsura S, 2007, IEEE T IND ELECTRON, V54, P898, DOI 10.1109/TIE.2007.892638
+   Katsura S, 2007, IEEE T IND ELECTRON, V54, P3298, DOI 10.1109/TIE.2007.904003
+   Katsura S, 2007, IEEE T IND ELECTRON, V54, P1537, DOI 10.1109/TIE.2007.894704
+   Kubo R., 2006, P 9 IEEE INT WORKSH, P368
+   KUBO R, 2006, P IEEE ICIT, P329
+   LAWRENCE DA, 1993, IEEE T ROBOTIC AUTOM, V9, P624, DOI 10.1109/70.258054
+   Li HJ, 2007, IEEE T IND ELECTRON, V54, P1227, DOI 10.1109/TIE.2007.893072
+   Matsumoto Y., 2003, P IEEE INT C IND TEC, P802
+   Morita G, 2002, J ELECTROMYOGR KINES, V12, P37, DOI 10.1016/S1050-6411(01)00029-3
+   MURAKAMI T, 1993, IEEE T IND ELECTRON, V40, P259, DOI 10.1109/41.222648
+   Ohnishi K, 1996, IEEE-ASME T MECH, V1, P56, DOI 10.1109/3516.491410
+   Shimono T, 2007, IEEE T IND ELECTRON, V54, P907, DOI 10.1109/TIE.2007.892744
+   Sirouspour S, 2005, P IEEE RSJ INT C INT, P1576
+   Tavakoli M, 2007, IEEE T SYST MAN CY B, V37, P1512, DOI 10.1109/TSMCB.2007.903700
+   Tsuji K, 2006, P 9 IEEE INT WORKSH, P329
+   Tsuji T, 2007, IEEE T IND ELECTRON, V54, P3335, DOI 10.1109/TIE.2007.906175
+NR 24
+TC 7
+Z9 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0278-0046
+J9 IEEE T IND ELECTRON
+JI IEEE Trans. Ind. Electron.
+PD JAN
+PY 2009
+VL 56
+IS 1
+BP 62
+EP 68
+DI 10.1109/TIE.2008.2007010
+PG 7
+WC Automation & Control Systems; Engineering, Electrical & Electronic;
+   Instruments & Instrumentation
+SC Automation & Control Systems; Engineering; Instruments & Instrumentation
+GA 392UA
+UT WOS:000262326500009
+ER
+
+PT J
+AU Kani, J
+   Kubo, R
+   Okada, M
+   Fujimoto, Y
+   Kumozaki, K
+AF Kani, Junichi
+   Kubo, Ryogo
+   Okada, Mitsumasa
+   Fujimoto, Yukihiro
+   Kumozaki, Kiyomi
+TI Adaptive optical network unit for point-to-point and point-to-multipoint
+   Gigabit Ethernet-based optical access networks
+SO IEICE ELECTRONICS EXPRESS
+LA English
+DT Article
+DE optical access; passive optical network; Gigabit Ethernet
+AB This paper proposes and demonstrates an optical network unit (ONU) that is adaptive in both point-to-point (P2P) and point-to-multipoint (P2MP) optical access networks (OANs) based on Gigabit Ethernet. Use of the proposed ONU makes it possible for network operators to reduce their operational expenditure (OPEX) by controlling/managing necessary inventories as well as handling troubles due to ONU mis-connection.
+C1 NTT Corp, NTT Access Network Serv Syst Labs, Mihama Ku, Chiba 2620023, Japan.
+RP Kani, J (reprint author), NTT Corp, NTT Access Network Serv Syst Labs, Mihama Ku, 1-6 Nakase, Chiba 2620023, Japan.
+EM kani.junichi@ansl.ntt.co.jp
+CR Kani JI, 2006, IEEE J SEL TOP QUANT, V12, P661, DOI 10.1109/JSTQE.2006.876170
+   MCCAMMON K, 2007, NAT FIB OPT ENG C NO
+   Shinohara H, 2005, IEEE COMMUN MAG, V43, P72, DOI 10.1109/MCOM.2005.1509970
+   Tatsuta T, 2007, J OPT NETW, V6, P689, DOI 10.1364/JON.6.000689
+   [Anonymous], 8023 IEEE
+NR 5
+TC 2
+Z9 2
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO, 105, JAPAN
+SN 1349-2543
+J9 IEICE ELECTRON EXPR
+JI IEICE Electron. Express
+PD MAY 25
+PY 2008
+VL 5
+IS 10
+BP 361
+EP 365
+DI 10.1587/elex.5.361
+PG 5
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 309NO
+UT WOS:000256467700001
+ER
+
+PT J
+AU Kubo, R
+   Ohnishi, K
+AF Kubo, Ryogo
+   Ohnishi, Kourei
+TI Attitude Control of Planar End-Effector and Estimation of Contact Point
+   Using Parallel Mechanism
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN
+LA English
+DT Article
+DE parallel mechanism; attitude control; compliance control; haptics;
+   environment recognition; reaction torque observer
+AB Recently, may robots have been utilized in unknown environment, for example, slave robots of teleoperation systems, walking, robots and so on. They are called environment-adaptive robots. It is very important for the environment-adaptive robots to contact stably and to recognize unknown environment. In this paper, a compliance controller of attitude of a planar end-effector is proposed to achieve stable contact with unknown environment. The robot utilized in this research has parallel mechanism as a whole, since the planar end-effector is supported by three arms. With the assumption that only face-to-point contact exists between the end-effector and unknown environment, an estimation method of the contact point without sensors is also proposed. Moreover, excessive stress is not exerted on the robots and the environments by means of the controller we propose, when the contact point is estimated. Our new approach of contact motion can be widely applied to the robots using parallel mechanism. The validity of the proposed method is shown by the numerical and experimental results. (C) 2008 Wiley Periodicals, Inc. Electron Comm Jpn, 91(3):28-36,2008; Published online in Wiley InterScience (www.interscience.wiley.com). DOI 10.1002/ecj.10071
+C1 Keio Univ, Tokyo 108, Japan.
+RP Kubo, R (reprint author), Keio Univ, Tokyo 108, Japan.
+FU JSPS [17206027]
+FX A part of this study was carried out under JSPS Grant-in-Aid
+   (Fundamental Research (A) 17206027, R&D on linear motor-driven multi-DOF
+   haptic forceps for non-invasive medical applications).
+CR Ferretti G, 2004, IEEE T ROBOTIC AUTOM, V20, P488, DOI 10.1109/TRA.2004.825472
+   HAYASHIDA N, P IEEE INT C IND EL, P2231
+   ISHIKAWA H, 1989, PROCEEDINGS - 1989 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOL 1-3, P98, DOI 10.1109/ROBOT.1989.99974
+   KATO I, 1987, J RSJ, V5, P18
+   Katsura S., 2003, Transactions of the Institute of Electrical Engineers of Japan,  Part D, V123-D
+   MORISAWA M, 2004, J JSPE, V70, P203
+   MURAKAMI T, 1993, IEEE T IND ELECTRON, V40, P259, DOI 10.1109/41.222648
+   MURAKAMI T, 1993, IEEJ T IND APPL D, V113, P639
+   NISHIKAWA N, 1999, T I ELECT ENG JAPA D, V119, P1507
+   Ohnishi K, 1996, IEEE-ASME T MECH, V1, P56, DOI 10.1109/3516.491410
+   Sakaki T., 1994, J ROBOTICS SOC JAPAN, V12, P489
+   Yiu Y.K., 2001, Proceedings 2001 ICRA. IEEE International Conference on Robotics  and Automation (Cat. No.01CH37164), DOI 10.1109/ROBOT.2001.933204
+   YUKOBRATOVIC M, 1994, IEEE T IND ELECTRON, V41, P12
+   *THK CO LTD, 2004, 4012004 THK CO LTD, pT1
+NR 14
+TC 0
+Z9 0
+PU SCRIPTA TECHNICA-JOHN WILEY & SONS
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158 USA
+SN 1942-9533
+J9 ELECTR COMMUN JPN
+JI Electr. Commun. Jpn.
+PD MAR
+PY 2008
+VL 91
+IS 3
+BP 28
+EP 36
+DI 10.1002/ecj.10071
+PG 9
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 454WV
+UT WOS:000266715500005
+ER
+
+PT J
+AU Akahane, Y
+   Aoyama, M
+   Sugiyama, A
+   Kubo, R
+   Ogawa, K
+   Tsuji, K
+   Yamakawal, K
+AF Akahane, Yutaka
+   Aoyama, Makoto
+   Sugiyama, Akira
+   Kubo, Ryouichi
+   Ogawa, Kanade
+   Tsuji, Koichi
+   Yamakawal, Koichi
+TI High-energy diode-pumped picosecond regenerative amplification at 999 nm
+   in wavelength with a cryogenically cooled Yb : LuILiF4 crystal
+SO OPTICS LETTERS
+LA English
+DT Article
+ID CHIRPED-PULSE AMPLIFICATION; SOLID-STATE LASERS; AVERAGE-POWER;
+   AMPLIFIER; OPERATION
+AB A diode-pumped, cryogenically cooled Yb:LuLiF4 regenerative amplifier has been developed for the first time to our knowledge. A chirped-seed pulse was amplified and compressed in the regenerative amplifier, simultaneously, which generated similar to 6 mJ, 13 ps pulses at 999 nm in wavelength without a pulse compressor. Simultaneous lasing at 999 and 1024 nun, respectively, was demonstrated, which could be used for different frequency generation in the terahertz region. (c) 2008 Optical Society of America.
+C1 Japan Atom Energy Agcy, Kizu, Kyoto 6190215, Japan.
+   Japan Atom Energy Agcy, CREST, Kizu, Kyoto 6190215, Japan.
+   Osaka Univ, Inst Laser Engn, Suita, Osaka 5650871, Japan.
+RP Akahane, Y (reprint author), Japan Atom Energy Agcy, 8-1 Umemidai, Kizu, Kyoto 6190215, Japan.
+EM akahane.yutaka@jaea.go.jp
+CR Akahane Y, 2007, OPT LETT, V32, P1899, DOI 10.1364/OL.32.001899
+   Aus der Au J, 2000, Opt Lett, V25, P859, DOI 10.1364/OL.25.000859
+   Bensalah A, 2004, J ALLOY COMPD, V380, P15, DOI 10.1016/j.jallcom.2004.03.086
+   Bibeau C, 1998, IEEE J QUANTUM ELECT, V34, P2010, DOI 10.1109/3.720241
+   Brunner F, 2002, OPT LETT, V27, P1162, DOI 10.1364/OL.27.001162
+   GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   Hildebrandt M, 2006, OPT COMMUN, V259, P796, DOI 10.1016/j.optcom.2005.09.021
+   Kawanaka J, 2003, OPT LETT, V28, P2121, DOI 10.1364/OL.28.002121
+   Kawanaka J, 2002, OPT EXPRESS, V10, P455
+   Kisel VE, 2004, OPT LETT, V29, P2491, DOI 10.1364/OL.29.002491
+   KRAENKEL C, 2007, ADV SOLID STATE PHOT
+   Krupke WF, 2000, IEEE J SEL TOP QUANT, V6, P1287, DOI 10.1109/2944.902180
+   Ogawa K, 2007, OPT EXPRESS, V15, P8598, DOI 10.1364/OE.15.008598
+   Peters R., 2007, ADV SOL STAT PHOT 20
+   Rambaldi P, 1998, OPT COMMUN, V146, P163, DOI 10.1016/S0030-4018(97)00519-1
+   Rivier S, 2006, OPT EXPRESS, V14, P11668, DOI 10.1364/OE.14.011668
+   SARUKURA N, 1995, IEEE J SEL TOP QUANT, V1, P792, DOI 10.1109/2944.473661
+   Tokita S, 2007, OPT EXPRESS, V15, P3955, DOI 10.1364/OE.15.003955
+   Yamakawa K, 2003, OPT LETT, V28, P2402, DOI 10.1364/OL.28.002402
+NR 19
+TC 2
+Z9 2
+PU OPTICAL SOC AMER
+PI WASHINGTON
+PA 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA
+SN 0146-9592
+J9 OPT LETT
+JI Opt. Lett.
+PD MAR 1
+PY 2008
+VL 33
+IS 5
+BP 494
+EP 496
+DI 10.1364/OL.33.000494
+PG 3
+WC Optics
+SC Optics
+GA 282KE
+UT WOS:000254565700028
+ER
+
+PT J
+AU Sakurai, T
+   Kubo, R
+   Watanabe, M
+   Ogi, H
+AF Sakurai, Toshiaki
+   Kubo, Ryogo
+   Watanabe, Masami
+   Ogi, Hiromi
+TI Recycling technology for a recycling society and the consumer's expected
+   consciousness: Recycling from the viewpoint of four items of home
+   appliances
+SO IEEJ TRANSACTIONS ON ELECTRICAL AND ELECTRONIC ENGINEERING
+LA English
+DT Article
+DE recycling; home appliance recycling low; recycling rate; electrical
+   appliance manufacturer
+AB The concept of 'recycling' was adopted to solve the overuse of resources by mass production and mass consumption 14 of products in the 20th century. In the latter half of the 20th century, all companies started recycling activities slowly but positively, and some of them established their own recycling plants. This article introduces the processes through which used home appliances are made into materials (for reuse), and the machines, facilities, and methods for such reuse, as well as the results of their actual application by the study of a recycling plant. It is expected that this article would motivate the readers for recycling and to consider and feet what we, consumers, should do. (C) 2007 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+C1 Yokohama Natl Univ, Grad Sch Engn, Dept Elect & Comp Engn, Div Phys Elect & Engn, Yokohama, Kanagawa 2408501, Japan.
+   NTT, Access Network Serv Syst Labs, Mihama Ku, Chiba 2610023, Japan.
+   Mitsubishi Electr Corp, Energy Syst Ctr, Power Plant Engn Sect, Chiyoda Ku, Tokyo 1008310, Japan.
+RP Sakurai, T (reprint author), Yokohama Natl Univ, Grad Sch Engn, Dept Elect & Comp Engn, Div Phys Elect & Engn, 79-5 Tokiwadai, Yokohama, Kanagawa 2408501, Japan.
+EM tsakurai@fujilab.dnj.ynu.ac.jp
+NR 0
+TC 1
+Z9 1
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 1931-4973
+J9 IEEJ T ELECTR ELECTR
+JI IEEJ Trans. Electr. Electron. Eng.
+PD JAN
+PY 2008
+VL 3
+IS 1
+BP 1
+EP 4
+DI 10.1002/tee.20224
+PG 4
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 250HJ
+UT WOS:000252290300001
+ER
+
+PT J
+AU Umeda, K
+   Takeuchi, M
+   Yamada, H
+   Kubo, R
+   Yoshino, Y
+AF Umeda, K
+   Takeuchi, M
+   Yamada, H
+   Kubo, R
+   Yoshino, Y
+TI Improvement of thickness uniformity and crystallinity of AlN films
+   prepared by off-axis sputtering
+SO VACUUM
+LA English
+DT Article; Proceedings Paper
+CT 8th International Symposium on Sputtering and Plasma Processes
+CY JUN 08-10, 2005
+CL Kanazawa, JAPAN
+DE AlN; off-axis sputtering; crystallinity; residual stress
+ID DEPOSITION; FREQUENCY; TRANSPORT; STRESS
+AB We improved both the thickness uniformity and crystallinity of Aluminum nitride (AlN) films deposited by off-axis sputtering. The results in thickness uniformity and X-ray rocking curve full-width at half-maximum (FWHM) of AlN (0002) are achieved to be +/- 0.2% and 1.4 degrees, respectively on a 100 mm, Si (100) substrate. The residual stress can be controlled from tensile to compressive by varying sputtering parameters such as gas pressure, RF power and DC bias voltage applied to a substrate without degradation in the crystallinity and thickness uniformity. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Murata Mfg Co Ltd, Nagaokakyo, Kyoto 6178555, Japan.
+RP Umeda, K (reprint author), Murata Mfg Co Ltd, 1-10-1 Higashikoutari, Nagaokakyo, Kyoto 6178555, Japan.
+EM k_umeda@murata.co.jp
+CR Dubois MA, 2001, J APPL PHYS, V89, P6389, DOI 10.1063/1.1359162
+   JACCODIN.RJ, 1966, J APPL PHYS, V37, P2429, DOI 10.1063/1.1708831
+   Jang HW, 2003, J APPL PHYS, V94, P2957, DOI 10.1063/1.1598273
+   KINBARA A, SPUTTERING PHENOMENA
+   LAMBERT C, 2004, 2 INT S AC WAV DEV F, P169
+   Lee SH, 2003, THIN SOLID FILMS, V435, P193, DOI 10.1016/S0040-6090(03)00353-5
+   PARITOSH F, 2002, J APPL PHYS, V91, P1963
+   SHERIDAN TE, 1990, J VAC SCI TECHNOL A, V8, P30, DOI 10.1116/1.577093
+   SMITH PC, 1999, J VAC SCI TECHNOL A, V17, P3442
+   THORNTON JA, 1986, J VAC SCI TECHNOL A, V4, P3059, DOI 10.1116/1.573628
+   Yoshino Y, 2002, VACUUM, V66, P467, DOI 10.1016/S0042-207X(02)00117-3
+   Zhu S, 2001, J CRYST GROWTH, V225, P522, DOI 10.1016/S0022-0248(01)00946-0
+   Zhu S, 2000, J MATER RES, V15, P1125, DOI 10.1557/JMR.2000.0160
+NR 13
+TC 5
+Z9 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0042-207X
+J9 VACUUM
+JI Vacuum
+PD MAY 31
+PY 2006
+VL 80
+IS 7
+BP 658
+EP 661
+DI 10.1016/j.vacuum.2005.11.024
+PG 4
+WC Materials Science, Multidisciplinary; Physics, Applied
+SC Materials Science; Physics
+GA 056NB
+UT WOS:000238529300004
+ER
+
+PT J
+AU Hashimoto, K
+   Xu, HP
+   Mukaigawa, T
+   Kubo, R
+   Zhu, H
+   Noda, M
+   Okuyama, M
+AF Hashimoto, K
+   Xu, HP
+   Mukaigawa, T
+   Kubo, R
+   Zhu, H
+   Noda, M
+   Okuyama, M
+TI Si monolithic microbolometers of ferroelectric BST thin film combined
+   with readout FET for uncooled infrared image sensor
+SO SENSORS AND ACTUATORS A-PHYSICAL
+LA English
+DT Article
+DE dielectric bolometer mode; detector pixel; Si-bulk micromachining;
+   ferroelectric thin film; pulsed laser ablation; infrared image sensor
+ID DIELECTRIC BOLOMETER MODE; DETECTOR; CAPACITORS
+AB A silicon monolithic ferroelectric thin-him bolometer coupled with a readout FET has been developed for uncooled infrared imaging applications by means of Si-bulk micromachining and pulsed-laser-deposited (PLD) barium strontium titanate Ba1-xSrxTiO3 (BST) thin films. It is a new type of dielectric bolometer (DB) mode based on the strong temperature dependence of capacitance upon the ferroelectric phase transition. The pixel circuit is a serial pair of capacitors where a sensing capacitor is fabricated on a thermally isolated membrane and a reference capacitor on bulk area. And a new purse-biased-operation mode has been implemented to sense the voltage change at the interface node between sensitive and the reference capacitors. In order to avoid crack and deformation on the thermally insulated structure, a stress-balanced structure by multi-layered membrane has been adopted, where the ferroelectric capacitor is formed on a triple layer of NSG/SiN/SiO2-stacked films. A BST (75/25) film on membrane is found to show positive temperature-coefficient of dielectric constant (TCD) ranging from 1 to 6%/K.
+   Upon infrared irradiation on the membrane part, a capacitance difference arising from a temperature rise is significantly induced within the two capacitors. Thermal signals have been confirmed with one pixel bolometer tested under an infrared light irradiation. A new monolithic process flow is developed to combine an n-MOSFET process and a Si-bulk micromachining process, and ferroelectric capacitors on the stress-balanced membrane are able to be formed monolithically with MOSFETs for source-follower output buffer. The pixel structure also shows a simple configuration, and is very effective in reducing their pixel size and then increasing the pixel density. Finally, it is especially noted that the operation in the detector pixel in the DB mode is confirmed on the monolithically integrated device structure. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Technol Res Inst Osaka Prefecture, SEIS Project, Osaka 5941157, Japan.
+   Matsushita Elect Ind Co Ltd, Human Environm Syst Dev Ctr, Moriguchi, Osaka 5708501, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Toyonaka, Osaka 5608531, Japan.
+   Hochiki Co Ltd, Res & Dev Labs, Machida, Tokyo 1940004, Japan.
+   Murata Mfg Co Ltd, Div Res & Dev, Shiga 5202393, Japan.
+RP Hashimoto, K (reprint author), Technol Res Inst Osaka Prefecture, SEIS Project, 2-7-1 Ayumino, Osaka 5941157, Japan.
+CR Belcher JF, 1998, P SOC PHOTO-OPT INS, V3436, P611, DOI 10.1117/12.328061
+   Fujitsuka N, 1998, SENSOR ACTUAT A-PHYS, V66, P237, DOI 10.1016/S0924-4247(98)00050-8
+   HANSON C, 1992, P SOC PHOTO-OPT INS, V1735, P17, DOI 10.1117/12.138624
+   HASHIMOTO K, 1998, P TECH DIG 16 SENS S, P69
+   Hashimoto K, 1997, JPN J APPL PHYS 1, V36, P3553, DOI 10.1143/JJAP.36.3553
+   Hashimoto K., 2000, Transactions of the Institute of Electrical Engineers of Japan,  Part E, V120-E
+   Kruse P. W., 1997, UNCOOLED INFRARED IM, V47
+   Noda M, 1999, SENSOR ACTUAT A-PHYS, V77, P39, DOI 10.1016/S0924-4247(99)00046-1
+   Noda M, 1998, P SOC PHOTO-OPT INS, V3436, P660, DOI 10.1117/12.328066
+   OKUYAMA M, 1987, P 4 INT C SOL STAT S, P500
+   Owen R, 1996, P SOC PHOTO-OPT INS, V2746, P101, DOI 10.1117/12.243053
+   Radford W, 1998, P SOC PHOTO-OPT INS, V3379, P22, DOI 10.1117/12.317595
+   TAKAYAMA R, 1987, J APPL PHYS, V61, P411, DOI 10.1063/1.338839
+   Tanaka A, 1996, IEEE T ELECTRON DEV, V43, P1844, DOI 10.1109/16.543017
+   UENO M, 1995, P SOC PHOTO-OPT INS, V2552, P636, DOI 10.1117/12.218260
+   Watton R, 1998, P SOC PHOTO-OPT INS, V3436, P541, DOI 10.1117/12.328053
+   Watton R., 1994, Integrated Ferroelectrics, V4, DOI 10.1080/10584589408018672
+   WOOD RA, 1993, P SOC PHOTO-OPT INS, V2020, P322
+   XU H, 1999, P 9 INT C SOL STAT S, P398
+   YAMAKA E, 1988, J VAC SCI TECHNOL A, V6, P2921, DOI 10.1116/1.575452
+NR 20
+TC 28
+Z9 30
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0924-4247
+J9 SENSOR ACTUAT A-PHYS
+JI Sens. Actuator A-Phys.
+PD JAN 20
+PY 2001
+VL 88
+IS 1
+BP 10
+EP 19
+DI 10.1016/S0924-4247(00)00486-6
+PG 10
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 394FM
+UT WOS:000166513500002
+ER
+
+PT J
+AU Noda, M
+   Zhu, H
+   Xu, HP
+   Mukaigawa, T
+   Hashimoto, K
+   Kiyomoto, T
+   Kubo, R
+   Tanaka, H
+   Usuki, T
+   Okuyama, M
+AF Noda, M
+   Zhu, H
+   Xu, HP
+   Mukaigawa, T
+   Hashimoto, K
+   Kiyomoto, T
+   Kubo, R
+   Tanaka, H
+   Usuki, T
+   Okuyama, M
+TI A new dielectric bolometer mode of detector pixel for uncooled infrared
+   image sensor with ferroelectric BST thin film prepared by metal-organic
+   decomposition
+SO INTEGRATED FERROELECTRICS
+LA English
+DT Article; Proceedings Paper
+CT 12th International Symposium on Integrated Ferroelectrics
+CY MAR 12-15, 2000
+CL AACHEN, GERMANY
+SP German Natl Sci Fdn, Minist Educ, Sci & Res Northrhine Westphalia, Res Ctr Julich, RWTH Aachen Univ, AIXACCT Syst GmbH, Aachen, AIXTRON AG, Aachen, Infineon Technologies, Munich, Gordon & Breach
+DE dielectric bolometer; detector; infrared image sensor; ferroelectric
+   thin film; Ba(1-x)Sr(x)TiO(3)(BST); Metal-Organic-Decomposition(MOD)
+AB A Ba(1-x)Sr(x)TiO(3)(Bi/Sr=75/25) ferroelectric thin film for detector pixel of uncooled infrared (IR) image sensor was prepared by metalorganic decomposition (MOD) with final annealing. at 700 to 800 degreesC. The films electrical characteristics such as temperature dependence of capacitance and insulation are very good from the viewpoints of spatial uniformity and stability against thermal cycling. The MOD film was applied to our proposed dielectric bolometer (DB) mode of IR detector that has merits in 1) room temperature operation, 2) chopperless, 3) low power dissipation, and 4) high sensitivity. Finally, the DB-mode operation in the detector pixel was confirmed on the integrated device structure, and the resultant voltage sensitivity (R(v)) and specific detectivity (D*) were observed to be 0.4 kV/W and 9.8x10(7) cmHz(1/2)/W with noise voltage (V(n)) of 100 nV, respectively, where the detector size was 200 mum(2). Excellent output linearity against IR power down to 0.5 mW/cm(2) and an IR image from IR source with average power of 6 mW/cm(2). were also obtained.
+C1 Osaka Prefecture Super Eye Image Sensor Project, Izumi 5941157, Japan.
+RP Noda, M (reprint author), Osaka Prefecture Super Eye Image Sensor Project, 2-7-1 Ayumino, Izumi 5941157, Japan.
+CR BALCERAK RS, 1999, SPIE INFRARED TECHNO, V3498, P110
+   Belcher JF, 1998, P SOC PHOTO-OPT INS, V3436, P611, DOI 10.1117/12.328061
+   BRADY J, 1999, SPIE INFRARED TECHNO, V3498, P161
+   HANSON C, 1992, P SOC PHOTO-OPT INS, V1735, P17, DOI 10.1117/12.138624
+   NODA M, 1999, SPIE INFRARED TECHNO, V3498, P565
+   Noda M, 1999, SENSOR ACTUAT A-PHYS, V77, P39, DOI 10.1016/S0924-4247(99)00046-1
+   Owen R, 1996, P SOC PHOTO-OPT INS, V2746, P101, DOI 10.1117/12.243053
+   RADFORD W, 1999, SPIE INFRARED TECHNO, V3498, P119
+   TAKADA Y, 1998, 16 SENS S, P231
+   Watton R, 1998, P SOC PHOTO-OPT INS, V3436, P541, DOI 10.1117/12.328053
+   Watton R., 1994, Integrated Ferroelectrics, V4, DOI 10.1080/10584589408018672
+   XU H, 1999, TRANSDUCERS 99, P398
+NR 12
+TC 5
+Z9 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1058-4587
+J9 INTEGR FERROELECTR
+JI Integr. Ferroelectr.
+PY 2001
+VL 35
+IS 1-4
+BP 1761
+EP 1769
+PG 9
+WC Engineering, Electrical & Electronic; Physics, Applied; Physics,
+   Condensed Matter
+SC Engineering; Physics
+GA 411XJ
+UT WOS:000167524700005
+ER
+
+PT J
+AU Fujita, M
+   Sano, E
+   Kubo, R
+   Kawashima, T
+   Yamanaka, M
+   Izawa, Y
+   Nakai, S
+   Yamanaka, C
+AF Fujita, M
+   Sano, E
+   Kubo, R
+   Kawashima, T
+   Yamanaka, M
+   Izawa, Y
+   Nakai, S
+   Yamanaka, C
+TI New potential of a direct laser-diode-pumped Yb : YAG laser
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+DE Yb : YAG; femtosecond laser amplifier; LD pump
+ID PULSES; FEMTOSECOND; GENERATION
+AB A wide range of tunability (1030-1100 nm) was demonstrated with an Yb:YAG laser crystal. The measured bandwidth of Deltav similar to 70 nm corresponds to the Fourier-limited pulse width of Deltat similar to 17 fs. This result indicates a new potential of the Yb:YAG as a direct laser-diode (LD)-pumped femtosecond laser amplifier.
+C1 Inst Laser Technol, Suita, Osaka 5650871, Japan.
+   Inst Laser Engn, Suita, Osaka 5650871, Japan.
+RP Fujita, M (reprint author), Inst Laser Technol, 2-6 Yamada Oka, Suita, Osaka 5650871, Japan.
+CR Barty CPJ, 1996, OPT LETT, V21, P668, DOI 10.1364/OL.21.000668
+   Fermann ME, 1997, APPL PHYS B-LASERS O, V65, P259, DOI 10.1007/s003400050272
+   Gura T, 1997, SCIENCE, V276, P1988, DOI 10.1126/science.276.5321.1988
+   Hangyo M, 1996, APPL PHYS LETT, V69, P2122, DOI 10.1063/1.117175
+   Honninger C, 1997, APPL PHYS B-LASERS O, V65, P423, DOI 10.1007/s003400050291
+   Keller U, 1996, IEEE J SEL TOP QUANT, V2, P435, DOI 10.1109/2944.571743
+   Miura K, 1997, APPL PHYS LETT, V71, P3329, DOI 10.1063/1.120327
+   Nolte S, 1997, J OPT SOC AM B, V14, P2716, DOI 10.1364/JOSAB.14.002716
+   SUMIDA DS, 1994, OSA PROC, V20, P100
+   Wallace J, 1999, LASER FOCUS WORLD, V35, pS7
+NR 10
+TC 0
+Z9 0
+PU INST PURE APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG, 4-24-8 SHINBASHI, MINATO-KU TOKYO, 105-004, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD DEC 15
+PY 2000
+VL 39
+IS 12B
+BP L1300
+EP L1301
+DI 10.1143/JJAP.39.L1300
+PG 2
+WC Physics, Applied
+SC Physics
+GA 399NZ
+UT WOS:000166820400014
+ER
+
+PT J
+AU Xu, HP
+   Zhu, H
+   Hashimoto, K
+   Kiyomoto, T
+   Mukaigawa, T
+   Kubo, R
+   Yoshino, Y
+   Noda, M
+   Suzuki, Y
+   Okuyama, M
+AF Xu, HP
+   Zhu, H
+   Hashimoto, K
+   Kiyomoto, T
+   Mukaigawa, T
+   Kubo, R
+   Yoshino, Y
+   Noda, M
+   Suzuki, Y
+   Okuyama, M
+TI Preparation of BST ferroelectric thin film by pulsed laser ablation for
+   dielectric bolometers
+SO VACUUM
+LA English
+DT Article; Proceedings Paper
+CT 5th International Symposium on Sputtering and Plasma Precesses (ISSP 99)
+CY JUN 16-18, 1999
+CL KANAZAWA, JAPAN
+SP Japan Soc Appl Phys
+ID CAPACITORS
+AB Ferroelectric Ba0.75Sr0.25TiO3 (BST) thin film has been prepared for the development of a new-type dielectric bolometer using its temperature dependence of dielectric constant around the Curie temperature (T-c). Pulsed laser deposition method has been employed to deposit BST films on a Pt/Ti/NSG(nondoped silicon glass)/SiN/SiO/Si(100) substrate. For a better understanding of how to obtain BST thin films with a high-and-sharp dielectric peak around the T-c, X-ray diffraction, atomic force microscopy, D-E hysteresis and C-T characteristics were measured. It was found that the primary factors determining the dielectric behaviors of BST films are grain size and film thickness. BST films with thickness down to 0.6 mum prepared at a substrate temperature of more than 550 degreesC showed some potential, and the crack-free I mum-thick highly oriented BST films with some degree of epitaxy can be a good candidate for such ferroelectric microbolometer application. (C) 2000 Elsevier Science Ltd. All rights reserved.
+C1 Technol Res Inst Osaka Prefecture, Osaka Prefecture Super Eye Image Sensor Project, Osaka 5941157, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Toyonaka, Osaka 5608531, Japan.
+   Matsushita Elect Ind Co Ltd, Human Environm Syst Dev Ctr, Moriguchi, Osaka 5708501, Japan.
+   Hochiki Corp, R&D Labs, Fundamental Res Sect, Machida, Tokyo 1948577, Japan.
+   Murata Mfg Co Ltd, R&D Div, Grp 3, Shiga 5202393, Japan.
+RP Xu, HP (reprint author), Technol Res Inst Osaka Prefecture, Osaka Prefecture Super Eye Image Sensor Project, 2-7-1 Ayumino, Osaka 5941157, Japan.
+CR ABE K, 1995, J APPL PHYS, V77, P6461, DOI 10.1063/1.359120
+   Belcher JF, 1998, P SOC PHOTO-OPT INS, V3436, P611, DOI 10.1117/12.328061
+   Chen PC, 1998, JPN J APPL PHYS 1, V37, P5112, DOI 10.1143/JJAP.37.5112
+   FREY MH, 1993, APPL PHYS LETT, V63, P2753, DOI 10.1063/1.110324
+   Kurchania R, 1999, J MATER RES, V14, P1852, DOI 10.1557/JMR.1999.0249
+   SWARTZ SL, 1990, IEEE T ELECTR INSUL, V25, P935, DOI 10.1109/14.59868
+   TAKADA T, 1994, Patent No. 0535060609
+   XU JJ, 1989, IEEE T ULTRASON FERR, V36, P307, DOI 10.1109/58.19168
+NR 8
+TC 21
+Z9 23
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0042-207X
+J9 VACUUM
+JI Vacuum
+PD NOV-DEC
+PY 2000
+VL 59
+IS 2-3
+BP 628
+EP 634
+DI 10.1016/S0042-207X(00)00326-2
+PG 7
+WC Materials Science, Multidisciplinary; Physics, Applied
+SC Materials Science; Physics
+GA 371BE
+UT WOS:000165157100036
+ER
+
+PT J
+AU Noda, M
+   Xu, HP
+   Mukaigawa, T
+   Zhu, H
+   Hashimoto, K
+   Kishihara, H
+   Kubo, R
+   Usuki, T
+   Okuyama, M
+AF Noda, M
+   Xu, HP
+   Mukaigawa, T
+   Zhu, H
+   Hashimoto, K
+   Kishihara, H
+   Kubo, R
+   Usuki, T
+   Okuyama, M
+TI Development of Si monolithic ferroelectric microbolometer using
+   pulsed-laser-deposited (Ba, Sr)TiO3 thin-film for uncooled chopperless
+   infrared sensing
+SO SENSORS AND MATERIALS
+LA English
+DT Article
+DE BST ferroelectric thin film; dielectric bolometer; ferroelectric
+   microbolometer; thermal image sensing; uncooled infrared image sensor;
+   micromachining; thermal isolation membranes; monolithic process; pulsed
+   laser deposition; grain-size effect
+AB (Ba0.75Sr0.25)TiO3 (BST) has been prepared at 520 degreesC in thin-film form by pulsed laser deposition and shows a large temperature coefficient of dielectric constant (TCD) adequate for application in a dielectric bolometer imager. Pixels of capacitance-capacitance (C-C) balanced BST thin-film microbolometers have also been fabricated by integrating Si-bulk micromachining and ferroelectric thin-film processing. The film shows bolometric behavior with TCD values of 1%/K, which is much lower than that in bulk, but chopperless operation of pixels of microbolometers so fabricated was confirmed. Finally, the dielectric bolometer (DB)-mode operation in the detector pixel was confirmed for the integrated device structure, and the resultant voltage sensitivity (R-v) and specific detectivity (D-*) were observed and calculated to be about 0.8 kV/W and 1.6 x 10(8) cmHz(1/2)/W with a noise voltage (V-n) of 100 nV, respectively, when the detector size was 200 mum square and the top IR absorber was Au-black.
+C1 Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Toyonaka, Osaka 5608531, Japan.
+   Technol Res Inst Osaka Prefecture, Osaka 5941157, Japan.
+   Hochiki Corp, Fundamental Res Sect, R&D Labs, Machida, Tokyo 1940004, Japan.
+   Matsushita Elect Ind Co Ltd, Human Environm Syst Dev Ctr, Moriguchi, Osaka 5708501, Japan.
+   Shimazu Corp, Seika, Kyoto 6190237, Japan.
+   Murata Mfg Co Ltd, R&D Div, Shiga 5202393, Japan.
+   Sanyo Elect Co Ltd, New Mat Res Ctr, Hirakata, Osaka 5738534, Japan.
+CR Balcerak RS, 1999, P SOC PHOTO-OPT INS, V3698, P110, DOI 10.1117/12.354510
+   Kruse P. W., 1997, UNCOOLED INFRARED IM, V47
+   Noda M, 1999, SENSOR ACTUAT A-PHYS, V77, P39, DOI 10.1016/S0924-4247(99)00046-1
+   Radford W, 1999, P SOC PHOTO-OPT INS, V3698, P119, DOI 10.1117/12.354511
+   WITTER DE, 1994, TI TECHNICAL J   SEP, P19
+   XU H, 2000, IN PRESS VACUUM
+   XU H, 1999, P TRANSDUCERS 99, V1, P398
+NR 7
+TC 4
+Z9 4
+PU MYU K K
+PI TOKYO
+PA SCIENTIFIC PUBLISHING DIV, 2-32-3 SENDAGI, BUNKYO-KU, TOKYO, 113, JAPAN
+SN 0914-4935
+J9 SENSOR MATER
+JI Sens. Mater.
+PY 2000
+VL 12
+IS 6
+BP 375
+EP 388
+PG 14
+WC Instruments & Instrumentation; Materials Science, Multidisciplinary
+SC Instruments & Instrumentation; Materials Science
+GA 399TD
+UT WOS:000166827700004
+ER
+
+PT J
+AU Noda, M
+   Hashimoto, K
+   Kubo, R
+   Tanaka, H
+   Mukaigawa, T
+   Xu, HP
+   Okuyama, M
+AF Noda, M
+   Hashimoto, K
+   Kubo, R
+   Tanaka, H
+   Mukaigawa, T
+   Xu, HP
+   Okuyama, M
+TI A new type of dielectric bolometer mode of detector pixel using
+   ferroelectric thin film capacitors for infrared image sensor
+SO SENSORS AND ACTUATORS A-PHYSICAL
+LA English
+DT Article
+DE dielectric bolometer mode; detector pixel; ferroelectric thin film;
+   infrared image sensor; circuit simulation
+AB We have developed a new type of detector pixel circuit operated in an infrared image sensor of dielectric bolometer mode. The detector pixel consists of capacitors of ferroelectric BST (Ba1-xSrxTiO3) thin film, whose dielectric constant changes drastically with temperature. Our proposed circuit is a serially connected capacitor-capacitor, where one capacitor is composed of a BST ferroelectric thin film irradiated by infrared light and the other is nonirradiated one. BST film has been prepared on Si membrane structure by Pulsed Laser Deposition method (PLD). Dielectric constant of the BST film, which is about 450 at 25 degrees C, changes by about 1 to 10%/K at ambient temperature. As a result of on-board evaluation of the assembled circuit with a source-follower output, the output level is about 40 mV when a relative capacitance change in the capacitor is about 3%. On the other hand, in PSPICE circuit simulations, the output level is about 25 mV when a relative capacitance change in the capacitor of about 100 pF is 1%, The simulated relationship between the output voltage of the assembled circuit and capacitance change of the BST film agrees well with that in the experimental results. It is considered that the circuit has enough output signal level for input of conventional operational amplifier. Voltage responsivity R-v, and specific detectivity D* estimated from temperature change of dielectric constant are 50 kV/W and 6.5 X 10(9) cm Hz(1/2).W-1, respectively, which means high-sensitivity compared to the other type of IR sensors. The pixel structure also shows a simple configuration, and is very effective in reducing their pixel size and then increasing the pixel density. (C) 1999 Elsevier Science S.A. All rights reserved.
+C1 Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Area Mat & Device Phys, Toyonaka, Osaka 560, Japan.
+   Osaka Prefecture SEIS Project, Izumi 5941157, Japan.
+   Matsushita Elect Ind Co Ltd, Human Environm Syst Dev Ctr, Osaka 5708501, Japan.
+   Murata Mfg Co Ltd, R&D Div, Shiga 5202393, Japan.
+   Yamatake Corp, Res & Dev Headquaters, R&D Dept 1, Fujisawa, Kanagawa 2518522, Japan.
+   Hochiki Corp, Res & Dev Labs, Fundamental Res Sect, Tokyo 1940004, Japan.
+RP Noda, M (reprint author), Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Area Mat & Device Phys, 1-3 Machikaneyama Cho, Toyonaka, Osaka 560, Japan.
+CR HANSON C, 1992, P SOC PHOTO-OPT INS, V1735, P17, DOI 10.1117/12.138624
+   HASHIMOTO K, 1998, 16 SENS S, P69
+   KRUSE P, 1997, SEMICONDUCT SEMIMET, V47, P144
+   NODA M, 1998, SPIE INFRARED TECHNO, V24, P660
+   Owen R, 1996, P SOC PHOTO-OPT INS, V2746, P101, DOI 10.1117/12.243053
+   Radford W, 1996, P SOC PHOTO-OPT INS, V2746, P82, DOI 10.1117/12.243062
+   TAKADA Y, 1998, 16 SENS S, P231
+   Tanaka A, 1996, IEEE T ELECTRON DEV, V43, P1844, DOI 10.1109/16.543017
+   UENO M, 1995, P SOC PHOTO-OPT INS, V2552, P636, DOI 10.1117/12.218260
+   Watton R., 1994, Integrated Ferroelectrics, V4, DOI 10.1080/10584589408018672
+NR 10
+TC 51
+Z9 58
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0924-4247
+J9 SENSOR ACTUAT A-PHYS
+JI Sens. Actuator A-Phys.
+PD SEP 28
+PY 1999
+VL 77
+IS 1
+BP 39
+EP 44
+DI 10.1016/S0924-4247(99)00046-1
+PG 6
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 256PF
+UT WOS:000083733500007
+ER
+
+PT J
+AU Kubo, R
+   Ogura, W
+   Saito, T
+   Yasui, Y
+AF Kubo, R
+   Ogura, W
+   Saito, T
+   Yasui, Y
+TI The Gauss-Knorrer map for the Rosochatius dynamical system
+SO PHYSICS LETTERS A
+LA English
+DT Article
+DE nonlinear integrable systems; Rosochatius; Gauss-Knorrer map; duality
+ID INTEGRABLE SYSTEMS; ONE-PARTICLE; POTENTIALS; EQUATIONS; MOTION; JACOBI
+AB We found a nonlinear integrable system dual to the Rosochatius dynamical system in arbitrary dimensions by means of the Gauss-Knorrer map. The relationship between the Rosochatius system and its dual system is elucidated from the point of view of constrained Hamilonian systems. Dirac brackets for dynamical variables and conserved quantities for the dual system are derived explicitly. (C) 1999 Elsevier Science B.V.
+C1 Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+   Osaka Univ, Dept Phys, Suita, Osaka 565, Japan.
+   Kwansei Gakuin Univ, Dept Phys, Nishinomiya, Hyogo 662, Japan.
+   Osaka City Univ, Dept Phys, Osaka 558, Japan.
+RP Kubo, R (reprint author), Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+CR Ablowitz M. J., 1991, SOLITONS NONLINEAR E
+   ADLER M, 1988, COMMUN MATH PHYS, V113, P659, DOI 10.1007/BF01223242
+   CEWEN C, 1995, SOLITON THEORY ITS A
+   DEIFT P, 1980, COMMUN MATH PHYS, V74, P141, DOI 10.1007/BF01197756
+   Dirac P. A. M., 1967, LECT QUANTUM MECH
+   DUBROVIN BA, 1981, RUSS MATH SURV+, V36, P11, DOI 10.1070/RM1981v036n02ABEH002596
+   Ferapontov EV, 1997, J GEOM PHYS, V21, P169, DOI 10.1016/S0393-0440(96)00013-7
+   GURARIE D, 1995, J MATH PHYS, V36, P5355, DOI 10.1063/1.531347
+   Henneaux M., 1992, QUANTIZATION GAUGE S
+   JACOBI CGJ, 1884, GESAMMELTE WERKE S
+   KNORRER H, 1982, J REINE ANGEW MATH, V334, P69
+   Korteweg D., 1895, PHILOS MAG, V539, P422
+   MIURA RM, 1968, J MATH PHYS, V9, P1202, DOI 10.1063/1.1664700
+   MOSER J, 1981, INTEGRAL HAMILTONIAN
+   MOSER J, 1979, GEOMETRY QUADRICS SP, P147
+   Mumford D., 1983, TATA LECT THETA
+   Neumann C., 1859, J REINE ANGEW MATH, V56, P45
+   RAGNISCO O, 1996, PROGR NONLINEAR DIFF
+   RATIU TS, 1982, AIP C P, V88, P109
+   Rosochatius E, 1877, THESIS U GOTTINGEN B
+   SEMENOVTIANSHAN.MA, 1994, DYNAMICAL SYSTEMS, V7
+   UHLENBECK KK, 1982, LECT NOTES MATH, V949, P146
+   VESELOV AP, 1994, MATH Z, V216, P337, DOI 10.1007/BF02572325
+   WOJCIECHOWSKI S, 1985, PHYS SCRIPTA, V31, P433, DOI 10.1088/0031-8949/31/6/001
+   WOJCIECHOWSKI S, 1985, PHYS LETT A, V107, P106, DOI 10.1016/0375-9601(85)90725-X
+NR 25
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD JAN 4
+PY 1999
+VL 251
+IS 1
+BP 6
+EP 12
+DI 10.1016/S0375-9601(98)00860-3
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA 158BY
+UT WOS:000078097200002
+ER
+
+PT J
+AU Xu, HP
+   Kubo, R
+   Yoshino, Y
+   Noda, M
+   Okuyama, M
+AF Xu, HP
+   Kubo, R
+   Yoshino, Y
+   Noda, M
+   Okuyama, M
+TI Oriented Sr0.48Ba0.51La0.01Nb2O6 thin films prepared on
+   Pt/Ti/SiO2/Si(100) substrate by pulsed laser deposition
+SO FERROELECTRICS
+LA English
+DT Article
+DE La-modified strontium barium niobate; ferroelectric thin film; pulsed
+   laser deposition; dielectric bolometer
+AB Highly oriented thin films of La-modified SBN (Sr0.48Ba0.51La0.01Nb2O6 : SBLN) have been repeatably prepared on Pt/Ti/SiO2/Si(100) substrate at 600 degrees C and 13 Pa by pulsed laser deposition. The orientation depends on the gas ambient during deposition, such that the ambient N2O gas favors the c-axis orientation while O-2 gas favors [311]-orientation. Electrical characterization shows a low leakage current density in these films. Both the films exhibit slim P - E hysteresis loops, while the polarization at the same electric field of the (001)-films is much larger than that of (311)-films. These films also have good fatigue endurance up to 10(9) switching cycles. Large temperature dependence of P-E hysteresis and dielectric constant have been observed, and show good reproducibility against thermal cycles. In the temperature range from 80 degrees C to 120 degrees C, the average temperature change rate of dielectric constant is about 100 K-1 at 1 kHz, suggesting that these SBLN films are adequate for dielectric micro-bolometers.
+C1 Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Suita, Osaka 565, Japan.
+RP Xu, HP (reprint author), Osaka Univ, Grad Sch Engn Sci, Dept Phys Sci, Suita, Osaka 565, Japan.
+CR Aoki K, 1996, JPN J APPL PHYS 1, V35, P2210, DOI 10.1143/JJAP.35.2210
+   BYER RL, 1972, FERROELECTRICS, V3, P333, DOI 10.1080/00150197208235326
+   GLASS AM, 1969, J APPL PHYS, V40, P4699, DOI 10.1063/1.1657277
+   KULWICHI BM, 1992, P 8 IEEE INT S APPL, V1
+   LIU ST, 1975, J ELECTRON MATER, V4, P91, DOI 10.1007/BF02657838
+   LIU Y, 1996, MATER RES SOC S P, V317, P131
+   Watton R., 1994, Integrated Ferroelectrics, V4, DOI 10.1080/10584589408018672
+   WHATMORE RW, 1993, SPIE, V2020, P391
+NR 8
+TC 0
+Z9 0
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING RG1 8JL, BERKS, ENGLAND
+SN 0015-0193
+J9 FERROELECTRICS
+JI Ferroelectrics
+PY 1998
+VL 219
+IS 1-4
+BP 651
+EP 658
+PG 8
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter
+SC Materials Science; Physics
+GA 263BJ
+UT WOS:000084102500004
+ER
+
+PT J
+AU Kubo, R
+AF Kubo, R
+TI Supersymmetric quantum mechanics and solvable Feynman path integrals
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID INVARIANT POTENTIALS
+AB Using the methods of supersymmetric quantum mechanics, we derive superpartners of some solvable non-relativistic potentials in one dimension. We pay our special attention to the shape-invariance of the superpotentials. We also demonstrate the supersymmetric relationships between some class of solvable path integrals and the WKB-exact path integrals. We give a formalism to find new solvable path integrals from some other known supersymmetric partners on the basis of supersymmetric quantum mechanics.
+RP Kubo, R (reprint author), KYOTO UNIV,YUKAWA INST THEORET PHYS,KYOTO 60601,JAPAN.
+CR BARCLAY DT, 1991, PHYS LETT A, V157, P357, DOI 10.1016/0375-9601(91)90869-A
+   BARGMANN V, 1949, REV MOD PHYS, V21, P488, DOI 10.1103/RevModPhys.21.488
+   COOPER F, 1987, PHYS REV D, V36, P2458, DOI 10.1103/PhysRevD.36.2458
+   Darboux G., 1882, CR HEBD ACAD SCI, V94, P1456
+   DAS A, 1993, FIELD THEORY PATH IN
+   DAS A, 1990, PHYS REV D, V41, P3241, DOI 10.1103/PhysRevD.41.3241
+   GENDENSHTEIN LE, 1983, JETP LETT+, V38, P356
+   GROSCHE C, 1996, PATH INTEGRALS HYPER
+   HULL TE, 1951, REV MOD PHYS, V23, P21
+   KOSTELECKY VA, 1985, PHYS REV D, V32, P2627
+   LEVAI G, 1989, J PHYS A-MATH GEN, V22, P689, DOI 10.1088/0305-4470/22/6/020
+   LEVAI G, 1994, LECT NOTE PHYS, V427, P107
+   MORETTE C, 1951, PHYS REV, V81, P848, DOI 10.1103/PhysRev.81.848
+   Pauli W., 1973, SELECTED TOPICS FIEL
+   Reid W.T., 1972, RICCATI DIFFERENTIAL
+   Schrodinger E., 1940, Proceedings of the Royal Irish Academy, Section A (Mathematical, Astronomical and Physical Science), V46
+   Schrodinger E., 1940, P R IRISH ACAD     A, V46, P183
+   Schrodinger E., 1941, Proceedings of the Royal Irish Academy, Section A (Mathematical, Astronomical and Physical Science), V47
+   SINGH CA, 1992, PHYS LETT A, V171, P249, DOI 10.1016/0375-9601(92)90636-Z
+   SUKUMAR CV, 1985, J PHYS A-MATH GEN, V18, P2917, DOI 10.1088/0305-4470/18/15/020
+   Van Vllck JH, 1928, P NATL ACAD SCI USA, V14, P178
+   WITTEN E, 1981, NUCL PHYS B, V188, P513, DOI 10.1016/0550-3213(81)90006-7
+NR 22
+TC 1
+Z9 1
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD AUG
+PY 1997
+VL 98
+IS 2
+BP 507
+EP 520
+DI 10.1143/PTP.98.507
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA XX765
+UT WOS:A1997XX76500016
+ER
+
+PT J
+AU TANAKA, K
+   KUBO, R
+   OHWADA, K
+   UMEDA, A
+   UEDA, K
+   USUDA, T
+AF TANAKA, K
+   KUBO, R
+   OHWADA, K
+   UMEDA, A
+   UEDA, K
+   USUDA, T
+TI MEASUREMENT OF PIEZOELECTRIC CONSTANT OF ZNO THIN-FILM ON SI
+   MICROSTRUCTURE
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article; Proceedings Paper
+CT 12th Meeting on Ferroelectric Materials and Their Applications (FMA-12)
+CY MAY 24-27, 1995
+CL TYOTO, JAPAN
+DE PIEZOELECTRIC CONSTANT; ZNO FILM; SILICON MICROSTRUCTURE
+AB The piezoelectric constant of a zinc oxide thin film on a silicon fixed beam was evaluated by a new method using a metal bar (Davies' bar) and a laser interferometer. The beam was fabricated by silicon micromachining techniques, and the ZnO film was deposited on it by rf sputtering. The film attached to the end of the Davies' bar was accelerated by striking the other end of the bar with a projectile, and the piezoelectric constant of the film was calculated from the strain and the electric charge. A reasonable value of epsilon(31)=0.43 C/m(2) was obtained for the test specimen.
+C1 MINIST INT TRADE & IND,AIST,NATL RES LAB METROL,TSUKUBA,IBARAKI 305,JAPAN.
+RP TANAKA, K (reprint author), MURATA MFG CO LTD,YOKOHAMA RES & DEV CTR,YOKOHAMA,KANAGAWA 226,JAPAN.
+CR CARLOTTI G, 1987 ULTR S, P295
+   DAVIES RM, 1948, PHILOS TR R SOC S-A, V240, P375, DOI 10.1098/rsta.1948.0001
+   TOYAMA M, 1994, SENSOR ACTUAT A-PHYS, V45, P125, DOI 10.1016/0924-4247(94)00828-0
+   UMEDA A, 1992, ASME WAM DSC, V40, P69
+   UMEDA A, 1995, 72TH JSME SPRING ANN
+NR 5
+TC 12
+Z9 12
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD SEP
+PY 1995
+VL 34
+IS 9B
+BP 5230
+EP 5232
+DI 10.1143/JJAP.34.5230
+PG 3
+WC Physics, Applied
+SC Physics
+GA TF804
+UT WOS:A1995TF80400034
+ER
+
+PT J
+AU KUBO, R
+   SAITO, T
+AF KUBO, R
+   SAITO, T
+TI GEOMETRIC ACTIONS AND THE MAURER-CARTAN EQUATION ON COADJOINT ORBITS OF
+   INFINITE-DIMENSIONAL LIE-GROUPS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID VIRASORO GROUP; QUANTIZATION; SUPERGRAVITY
+AB The Maurer-Cartan equation for the BRST-like opperator Omega is derived on coadjoint orbits of some infinite-dimensional Lie groups. Its form is preserved even when the algebra has a central extension. The symplectic two-form on coadjoint orbits can be expressed in terms of Omega. By inserting solutions Omega of the Maurer-Cartan equation into the symplectic two-form, we obtain geometric actions for some conformal groups.
+C1 KYOTO PREFECTURAL UNIV MED,DEPT PHYS,KYOTO 603,JAPAN.
+RP KUBO, R (reprint author), KYOTO UNIV,YUKAWA INST THEORET PHYS,UJI RES CTR,UJI 611,JAPAN.
+CR ALEKSEEV A, 1989, NUCL PHYS B, V323, P719, DOI 10.1016/0550-3213(89)90130-2
+   ALEKSEEV A, 1990, COMMUN MATH PHYS, V128, P197, DOI 10.1007/BF02097053
+   AOYAMA S, 1989, PHYS LETT B, V228, P355, DOI 10.1016/0370-2693(89)91558-X
+   ARATYN H, 1990, PHYS LETT B, V242, P377, DOI 10.1016/0370-2693(90)91778-A
+   ARATYN H, 1990, PHYS LETT B, V234, P307, DOI 10.1016/0370-2693(90)91932-2
+   ARATYN H, 1990, PHYS LETT B, V240, P127, DOI 10.1016/0370-2693(90)90420-B
+   CRNKOVIC C, 1987, NUCL PHYS B, V288, P419, DOI 10.1016/0550-3213(87)90221-5
+   Crnkovic C., 1987, 300 YEARS GRAVITATIO
+   DELIUS GW, 1990, INT J MOD PHYS A, V5, P3943, DOI 10.1142/S0217751X90001690
+   GRISARU MT, 1988, PHYS LETT B, V205, P486, DOI 10.1016/0370-2693(88)90983-5
+   Kirillov A.A, 1976, ELEMENTS THEORY REPR
+   KOSTANT B, 1970, LECTURE NOTES MATH, V170
+   KUBO R, 1993, PHYS REV D, V47, P2591, DOI 10.1103/PhysRevD.47.2591
+   KUBO R, 1993, PROG THEOR PHYS, V90, P1167, DOI 10.1143/PTP.90.1167
+   KUBO R, 1994, PROG THEOR PHYS, V91, P1239, DOI 10.1143/PTP.91.1239
+   POLYAKOV AM, 1987, MOD PHYS LETT A, V2, P893, DOI 10.1142/S0217732387001130
+   POLYAKOV AM, 1988, MOD PHYS LETT A, V3, P1213, DOI 10.1142/S0217732388001458
+   WITTEN E, 1988, COMMUN MATH PHYS, V114, P1, DOI 10.1007/BF01218287
+NR 18
+TC 0
+Z9 0
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD JAN
+PY 1995
+VL 93
+IS 1
+BP 229
+EP 246
+DI 10.1143/PTP.93.229
+PG 18
+WC Physics, Multidisciplinary
+SC Physics
+GA QE907
+UT WOS:A1995QE90700017
+ER
+
+PT J
+AU TOYAMA, M
+   KUBO, R
+   TAKATA, E
+   TANAKA, K
+   OHWADA, K
+AF TOYAMA, M
+   KUBO, R
+   TAKATA, E
+   TANAKA, K
+   OHWADA, K
+TI CHARACTERIZATION OF PIEZOELECTRIC PROPERTIES OF PZT THIN-FILMS DEPOSITED
+   ON SI BY ECR SPUTTERING
+SO SENSORS AND ACTUATORS A-PHYSICAL
+LA English
+DT Article
+DE ELECTRON CYCLOTRON RESONANCE; LEAD ZIRCONATE TITANATE; PIEZOELECTRIC
+   PROPERTIES; SILICON
+ID RESONANCE MICROWAVE PLASMA; CYCLOTRON
+AB Ferroelectric lead zirconate titanate (PZT) thin films are deposited at a low substrate temperature (530-590-degrees-C) by an electron cyclotron resonance (ECR) sputtering method using two targets:  a ceramic PZT and a lead metal target.  Si wafers are employed as substrates.  The piezoelectric constant epsilon31 is 2.1 C m-2 without poling treatment for a PZT film deposited at 550-degrees-C.
+RP TOYAMA, M (reprint author), MURATA MFG CO LTD,YOKOHAMA RES & DEV CTR,1-18-1 HAKUSAN,MIDORI KU,YOKOHAMA 226,JAPAN.
+CR ABE T, 1994, JAN P IEEE MICR EL M, P164
+   ADACHI M, 1987, JPN J APPL PHYS 1, V26, P550, DOI 10.1143/JJAP.26.550
+   BELSICK JR, 1993, J APPL PHYS, V74, P6851, DOI 10.1063/1.355086
+   BERLINCOURT DA, 1964, PHYS ACOUSTICS, V1, P198
+   DESCHANVRES JL, 1992, SENSOR ACTUAT A-PHYS, V33, P43, DOI 10.1016/0924-4247(92)80223-P
+   FUJII T, 1991, JPN J APPL PHYS 1, V30, P1248, DOI 10.1143/JJAP.30.1248
+   KADOTA M, 1993, JPN J APPL PHYS 1, V32, P2341, DOI 10.1143/JJAP.32.2341
+   KIDOH H, 1991, JPN J APPL PHYS 1, V30, P2167, DOI 10.1143/JJAP.30.2167
+   MATSUOKA M, 1989, J VAC SCI TECHNOL A, V7, P2975, DOI 10.1116/1.576302
+   MATSUOKA M, 1989, JPN J APPL PHYS 2, V28, pL503, DOI 10.1143/JJAP.28.L503
+   MELNICK BM, 1991, FERROELECTRICS, V116, P79
+   NAKAGAWA T, 1982, JPN J APPL PHYS 2, V21, pL655, DOI 10.1143/JJAP.21.L655
+   NIKANORO.SP, 1972, FIZ TVERD TELA+, V13, P2516
+   OKUYAMA M, 1988, SENSOR MATER, V1, P13
+   POLLA DL, 1986, IEEE ELECTR DEVICE L, V7, P254, DOI 10.1109/EDL.1986.26363
+   SCHILLER P, 1993, 7 INT C SOL STAT SEN, P154
+   SREENIVAS K, 1994, J APPL PHYS, V75, P232, DOI 10.1063/1.355889
+   TAKATA E, 1993, J VAC SOC JPN, V36, P357
+NR 18
+TC 29
+Z9 29
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0924-4247
+J9 SENSOR ACTUAT A-PHYS
+JI Sens. Actuator A-Phys.
+PD NOV
+PY 1994
+VL 45
+IS 2
+BP 125
+EP 129
+DI 10.1016/0924-4247(94)00828-0
+PG 5
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA PX503
+UT WOS:A1994PX50300007
+ER
+
+PT J
+AU KONISI, G
+   KUBO, R
+   SAITO, T
+AF KONISI, G
+   KUBO, R
+   SAITO, T
+TI N=1 AND 2 SUPERSTRINGS AS SUPERTOPOLOGICAL MODELS ON HIGHER-GENUS SUPER
+   RIEMANN SURFACES
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID CONFORMAL FIELD-THEORIES; AFFINE CONNECTIONS; TOPOLOGICAL GRAVITY;
+   STRINGS; SYSTEMS
+AB On arbitrary higher-genus super Riemann surfaces we show that the N = 1 and 2 superstrings realize supertopological algebras which are superfield extensions of the twisted N = 2 superconformal algebra. Some restrictions on their dimensions are found for both N = 1 and 2 superstrings. Superaffine and superprojective connections are automatically introduced into the algebras, so that they guarantee coordinate-independence of the algebras.
+C1 KYOTO UNIV,UJI RES CTR,UJI,KYOTO 611,JAPAN.
+   KYOTO PREF UNIV MED,DEPT PHYS,TAISHOGUN,KYOTO 603,JAPAN.
+RP KONISI, G (reprint author), KWANSEI GAKUIN UNIV,DEPT PHYS,NISHINOMIYA,HYOGO 662,JAPAN.
+CR BERSHADSKY M, 1993, NUCL PHYS B, V401, P304, DOI 10.1016/0550-3213(93)90306-A
+   BONORA L, 1989, COMMUN MATH PHYS, V123, P329, DOI 10.1007/BF01238861
+   CRANE L, 1988, COMMUN MATH PHYS, V113, P601, DOI 10.1007/BF01223239
+   DIJKGRAAF R, 1991, NUCL PHYS B, V352, P59, DOI 10.1016/0550-3213(91)90129-L
+   DIVECCHIA P, 1985, PHYS LETT B, V162, P327, DOI 10.1016/0370-2693(85)90932-3
+   EGUCHI T, 1990, MOD PHYS LETT A, V5, P1693, DOI 10.1142/S0217732390001943
+   FRIEDAN D, 1985, WORKSHOP UNIFIED STR
+   FUJIKAWA K, 1991, NUCL PHYS B, V361, P539, DOI 10.1016/0550-3213(91)90272-Y
+   GOMIS J, 1992, PHYS LETT B, V278, P266, DOI 10.1016/0370-2693(92)90191-6
+   KRICHEVER IM, 1987, FUNK ANAL PRIL, V21, P46
+   KRICHEVER IM, 1987, FUNK ANAL PRIL, V21, P47
+   KUBO R, 1990, PROG THEOR PHYS, V84, P1240, DOI 10.1143/PTP.84.1240
+   KUBO R, 1989, PROG THEOR PHYS, V82, P118
+   LONISI G, 1992, PROG THEOR PHYS, V87, P1065
+   LUGO A, 1989, NUCL PHYS B, V322, P210, DOI 10.1016/0550-3213(89)90491-4
+   MATSUDA S, 1990, MOD PHYS LETT A, V5, P841, DOI 10.1142/S0217732390000937
+   MATSUDA S, 1990, 1989 P KEK WORKSH TO, P87
+   NOJIRI S, 1991, PHYS LETT B, V262, P419, DOI 10.1016/0370-2693(91)90615-W
+   NOJIRI S, 1991, PHYS LETT B, V264, P57, DOI 10.1016/0370-2693(91)90703-S
+   SAITO T, 1993, PROG THEOR PHYS, V89, P719, DOI 10.1143/PTP.89.719
+   SAITO T, 1993, PROG THEOR PHYS SUPP, P73
+   SAITO T, 1993, PROG THEOR PHYS, V89, P731, DOI 10.1143/PTP.89.731
+   SAITO T, 1993, PROG THEOR PHYS, V90, P1131, DOI 10.1143/PTP.90.1131
+   TOYOTA N, 1992, PHYS LETT B, V282, P314, DOI 10.1016/0370-2693(92)90645-K
+   WITTEN E, 1988, COMMUN MATH PHYS, V118, P411, DOI 10.1007/BF01466725
+   WITTEN E, 1988, COMMUN MATH PHYS, V117, P353, DOI 10.1007/BF01223371
+   YOSHII H, 1992, PHYS LETT B, V275, P70, DOI 10.1016/0370-2693(92)90852-U
+   YOSHII H, 1991, PHYS LETT B, V259, P279, DOI 10.1016/0370-2693(91)90829-F
+NR 28
+TC 0
+Z9 0
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD JUL
+PY 1994
+VL 92
+IS 1
+BP 249
+EP 264
+DI 10.1143/PTP.92.249
+PG 16
+WC Physics, Multidisciplinary
+SC Physics
+GA NZ358
+UT WOS:A1994NZ35800017
+ER
+
+PT J
+AU KUBO, R
+   SAITO, T
+AF KUBO, R
+   SAITO, T
+TI GENERALIZED BRST OPERATORS AS EXTENDED MAURER-CARTAN FORMS ON COADJOINT
+   ORBITS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID VIRASORO GROUP; STRING THEORY; GEOMETRY; QUANTIZATION
+AB Algebraic and geometric features of the BRST operators are studied on coadjoint orbits of some infinite dimensional Lie groups. Special attention is paid upon central extensions of groups. An extended form of the Maurer-Cartan equation for the BRST operator OMEGA is derived and the geometrical foundation of the BRST formalism is explored by making use of the method of extended coadjoint orbits. Some geometric actions are found as an application of our method.
+C1 KYOTO PREF UNIV MED,DEPT PHYS,KYOTO 603,JAPAN.
+RP KUBO, R (reprint author), KYOTO UNIV,YUKAWA INST THEORET PHYS,UJI RES CTR,UJI,KYOTO 611,JAPAN.
+CR ABRAHAM R, 1985, F MECHANICS
+   ALDROVANDI E, SISSAREF4791FM PREPR
+   ALEKSEEV A, 1989, NUCL PHYS B, V323, P719, DOI 10.1016/0550-3213(89)90130-2
+   ALEKSEEV A, 1990, COMMUN MATH PHYS, V128, P197, DOI 10.1007/BF02097053
+   BERSHADSKY M, 1989, COMMUN MATH PHYS, V126, P49, DOI 10.1007/BF02124331
+   BOWICK MJ, 1987, NUCL PHYS B, V293, P348, DOI 10.1016/0550-3213(87)90076-9
+   BOWICK MJ, 1988, P J HOPKIND WORKSHOP, P11
+   BOWICK MJ, 1987, PHYS REV LETT, V58, P535, DOI 10.1103/PhysRevLett.58.535
+   Brown KS, 1982, COHOMOLOGY GROUPS
+   CRNKOVIC C, 1987, NUCL PHYS B, V288, P419, DOI 10.1016/0550-3213(87)90221-5
+   Crnkovic C., 1987, 300 YEARS GRAVITATIO
+   DELIUS GW, 1990, INT J MOD PHYS A, V5, P3943, DOI 10.1142/S0217751X90001690
+   Guillemin V., 1990, SYMPLECTIC TECHNIQUE
+   Kirillov A.A, 1976, ELEMENTS THEORY REPR
+   KOSTANT B, 1970, LECTURE NOTES MATH, V170
+   KRICHEVER IM, 1987, FUNK ANAL PRIL, V21, P46
+   KRICHEVER LM, 1988, FUNK ANAL PRIL, V21, P47
+   KUBO R, 1993, PHYS REV D, V47, P2591, DOI 10.1103/PhysRevD.47.2591
+   KUBO R, 1993, PROG THEOR PHYS, V90, P1167, DOI 10.1143/PTP.90.1167
+   Nakanishi N., 1990, COVARIANT OPERATOR F
+   POLYAKOV AM, 1984, PHYS LETT B, V141, P223, DOI 10.1016/0370-2693(84)90206-5
+   Pressley A., 1986, LOOP GROUPS
+   SAITO T, 1992, STUDIA HUMANA NATURA, V26
+   SEGAL G, 1981, COMMUN MATH PHYS, V80, P301, DOI 10.1007/BF01208274
+   Souriau J. M., 1970, STRUCTURE SYSTEMES D
+   WITTEN E, 1988, COMMUN MATH PHYS, V114, P1, DOI 10.1007/BF01218287
+NR 26
+TC 2
+Z9 2
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD JUN
+PY 1994
+VL 91
+IS 6
+BP 1239
+EP 1257
+DI 10.1143/PTP.91.1239
+PG 19
+WC Physics, Multidisciplinary
+SC Physics
+GA NV534
+UT WOS:A1994NV53400011
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI GAUSS LAW COMMUTATORS IN ANOMALOUS GAUGE-THEORIES FROM A GEOMETRICAL
+   POINT-OF-VIEW
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID ZUMINO-WITTEN MODEL; COADJOINT ORBITS; CHIRAL ANOMALIES; SCHWINGER
+   TERMS; COVARIANT ANOMALIES; CURRENT-ALGEBRA; HOLOMORPHIC GEOMETRY;
+   VIRASORO GROUP; STRING THEORY; QUANTIZATION
+AB A new method of deriving the commutation relations for Gauss law operators is studied in anomalous gauge theories. We use the method of coadjoint orbits extensively. Instead of dealing with the Gauss law operators explicitly, we consider the Becchi-Rouet-Stora-Tyutin (BRST) operator on a coadjoint orbit associated with anomalous gauge theories. We derive a basic equation satisfied by the BRST operator. The equation for the BRST operator plays a fundamental role in our formulation and it precisely reproduces the Schwinger terms in commutation relations for the Gauss law operators.
+RP KUBO, R (reprint author), KYOTO UNIV,YUKAWA INST THEORET PHYS,UJI RES CTR,UJI,KYOTO 611,JAPAN.
+CR ABRAHAM R, 1985, F MECHANICS
+   ABUD M, 1990, NUCL PHYS B, V339, P687, DOI 10.1016/0550-3213(90)90204-Q
+   ALEKSEEV A, 1989, NUCL PHYS B, V323, P719, DOI 10.1016/0550-3213(89)90130-2
+   ALEKSEEV A, 1990, COMMUN MATH PHYS, V128, P197, DOI 10.1007/BF02097053
+   ALEKSEEV AY, 1988, THEOR MATH PHYS, V73, P1149
+   NELSON P, 1985, COMMUN MATH PHYS, V99, P103, DOI 10.1007/BF01466595
+   BARDEEN WA, 1984, NUCL PHYS B, V244, P421, DOI 10.1016/0550-3213(84)90322-5
+   BARMOSHE D, 1991, PHYS LETT B, V254, P115, DOI 10.1016/0370-2693(91)90406-G
+   BECCHI C, 1974, PHYS LETT B, VB 52, P344, DOI 10.1016/0370-2693(74)90058-6
+   BECCHI C, 1976, ANN PHYS-NEW YORK, V98, P287, DOI 10.1016/0003-4916(76)90156-1
+   BOWICK MJ, 1987, NUCL PHYS B, V293, P348, DOI 10.1016/0550-3213(87)90076-9
+   BOWICK MJ, 1987, PHYS REV LETT, V58, P535, DOI 10.1103/PhysRevLett.58.535
+   BOWICK MJ, 1988, FRONTIERS PARTICLE P
+   DAVIS AC, 1987, PHYS LETT B, V194, P415, DOI 10.1016/0370-2693(87)91075-6
+   DEAZCARRAGA JA, 1990, ANN PHYS-NEW YORK, V202, P1, DOI 10.1016/0003-4916(90)90338-O
+   DEAZCARRAGA JA, 1991, Z PHYS C PART FIELDS, V49, P627
+   DELIUS GW, 1990, INT J MOD PHYS A, V5, P3943, DOI 10.1142/S0217751X90001690
+   FADDEEV LD, 1984, PHYS LETT B, V145, P81, DOI 10.1016/0370-2693(84)90952-3
+   FADDEEV LD, 1984, TEOR MAT NAUK, V60, P206
+   FLOREANINI R, 1989, INT J MOD PHYS A, V4, P4581, DOI 10.1142/S0217751X89001953
+   FUJIKAWA K, 1987, PHYS LETT B, V188, P115, DOI 10.1016/0370-2693(87)90716-7
+   FUJIKAWA K, 1986, PHYS LETT B, V171, P424, DOI 10.1016/0370-2693(86)91432-2
+   FUJIWARA T, 1988, MOD PHYS LETT A, V3, P1585, DOI 10.1142/S0217732388001896
+   FUJIWARA T, 1985, PHYS LETT B, V152, P103, DOI 10.1016/0370-2693(85)91148-7
+   FUJIWARA T, 1985, PHYS LETT B, V155, P91, DOI 10.1016/0370-2693(85)91037-8
+   Guillemin V., 1990, SYMPLECTIC TECHNIQUE
+   HOSONO S, 1988, MOD PHYS LETT A, V3, P901, DOI 10.1142/S0217732388001070
+   HOSONO S, 1988, PHYS REV D, V38, P1296, DOI 10.1103/PhysRevD.38.1296
+   INAMOTO T, 1992, PHYS REV D, V45, P1276, DOI 10.1103/PhysRevD.45.1276
+   JACKIW R, 1984, RELATIVITY GROUPS TO, V40
+   JACKIW R, 1985, CURRENT ALGEBRAS ANO
+   JO S, 1985, NUCL PHYS B, V259, P616, DOI 10.1016/0550-3213(85)90004-5
+   JO SG, 1987, PHYS REV D, V35, P3179, DOI 10.1103/PhysRevD.35.3179
+   JO SG, 1985, PHYS LETT B, V163, P353, DOI 10.1016/0370-2693(85)90295-3
+   KIEW TD, 1989, PHYS LETT B, V223, P72
+   Kirillov A.A, 1976, ELEMENTS THEORY REPR
+   KOBAYASHI M, 1986, NUCL PHYS B, V273, P607, DOI 10.1016/0550-3213(86)90380-9
+   KOBAYASHI M, 1985, PHYS LETT B, V159, P315, DOI 10.1016/0370-2693(85)90258-8
+   KOSTANT B, 1987, ANN PHYS-NEW YORK, V176, P49, DOI 10.1016/0003-4916(87)90178-3
+   KOSTANT B, 1970, LECTURE NOTES MATH, V170
+   IIDA S, 1987, PHYS LETT B, V184, P242, DOI 10.1016/0370-2693(87)90575-2
+   KURATSUJI H, 1988, PHYS REV D, V37, P441, DOI 10.1103/PhysRevD.37.441
+   MANES J, 1985, COMMUN MATH PHYS, V102, P157, DOI 10.1007/BF01208825
+   MICKELSSON J, 1985, PHYS REV D, V32, P436, DOI 10.1103/PhysRevD.32.436
+   Mickelsson J., 1989, CURRENT ALGEBRAS GRO
+   MICKELSSON J, 1987, COMMUN MATH PHYS, V112, P653, DOI 10.1007/BF01225379
+   MITRA P, 1988, PHYS REV LETT, V60, P265, DOI 10.1103/PhysRevLett.60.265
+   MITRA P, 1988, PHYS LETT B, V214, P105, DOI 10.1016/0370-2693(88)90460-1
+   MITRA P, 1987, PHYS LETT B, V188, P111, DOI 10.1016/0370-2693(87)90715-5
+   NIEMI AJ, 1985, PHYS REV LETT, V55, P927, DOI 10.1103/PhysRevLett.55.927
+   NISHIKAWA T, 1988, NUCL PHYS B, V308, P544, DOI 10.1016/0550-3213(88)90577-9
+   OTTO FS, 1989, PHYS LETT B, V231, P299, DOI 10.1016/0370-2693(89)90218-9
+   PERCACCI R, 1988, PHYS LETT B, V201, P256, DOI 10.1016/0370-2693(88)90224-9
+   PERCACCI R, 1989, INT J MOD PHYS A, V4, P4177, DOI 10.1142/S0217751X89001722
+   Pressley A., 1986, LOOP GROUPS
+   RAJEEV SG, 1988, NATO ASI SERIES B, V175
+   RAJEEV SG, 1984, PHYS REV D, V29, P2944, DOI 10.1103/PhysRevD.29.2944
+   SCHWIEBERT C, 1990, PHYS LETT B, V241, P223, DOI 10.1016/0370-2693(90)91283-H
+   SCHWIEBERT C, 1990, PHYS LETT B, V242, P415, DOI 10.1016/0370-2693(90)91785-A
+   SEGAL G, 1981, COMMUN MATH PHYS, V80, P301, DOI 10.1007/BF01208274
+   FADDEEV LD, 1986, PHYS LETT B, V167, P225, DOI 10.1016/0370-2693(86)90604-0
+   SONODA H, 1986, NUCL PHYS B, V266, P410, DOI 10.1016/0550-3213(86)90097-0
+   Souriau J. M., 1970, STRUCTURE SYSTEMES D
+   STORA R, 1983, NATO ADV STUDY I S B, V115
+   TSUTSUI I, 1989, PHYS LETT B, V229, P51, DOI 10.1016/0370-2693(89)90154-8
+   TYUTIN IV, 1976 LEB I REP
+   WITTEN E, 1988, COMMUN MATH PHYS, V114, P1, DOI 10.1007/BF01218287
+   ZHANG YZ, 1989, PHYS REV LETT, V62, P2221, DOI 10.1103/PhysRevLett.62.2221
+   ZHANG YZ, 1989, PHYS LETT B, V219, P439, DOI 10.1016/0370-2693(89)91091-5
+   ZUMINO B, 1984, NUCL PHYS B, V239, P477, DOI 10.1016/0550-3213(84)90259-1
+   ZUMINO B, 1983, RELATIVITY GROUPS TO, V2
+   ZUMINO B, 1987, NATO ASI SERIES B, V150
+NR 72
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD MAR 15
+PY 1993
+VL 47
+IS 6
+BP 2591
+EP 2597
+DI 10.1103/PhysRevD.47.2591
+PG 7
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA KT972
+UT WOS:A1993KT97200048
+ER
+
+PT J
+AU SETTE, A
+   CEMAN, S
+   KUBO, RT
+   SAKAGUCHI, K
+   APPELLA, E
+   HUNT, DF
+   DAVIS, TA
+   MICHEL, H
+   SHABANOWITZ, J
+   RUDERSDORF, R
+   GREY, HM
+   DEMARS, R
+AF SETTE, A
+   CEMAN, S
+   KUBO, RT
+   SAKAGUCHI, K
+   APPELLA, E
+   HUNT, DF
+   DAVIS, TA
+   MICHEL, H
+   SHABANOWITZ, J
+   RUDERSDORF, R
+   GREY, HM
+   DEMARS, R
+TI INVARIANT CHAIN PEPTIDES IN MOST HLA-DR MOLECULES OF AN
+   ANTIGEN-PROCESSING MUTANT
+SO SCIENCE
+LA English
+DT Article
+ID MAJOR HISTOCOMPATIBILITY COMPLEX; CLASS-I; BINDING SITE; T-CELLS;
+   REGION; GENE; SPECIFICITY; MUTATIONS; MHC
+AB Class II major histocompatibility complexes bind peptides in an endosome-like compartment. When the class II null cell line 721.174 was transfected with class II DR3 genes, DR molecules were produced in normal amounts. However, the DR molecules were abnormally conformed and unstable because deletion of an antigen-processing gene had impaired intracellular formation of most class II-peptide complexes. Yet, 70 percent of the DR molecules still bore peptides, 80 percent of which were 21- to 24-amino acid fragments of the class II-associated invariant chain. These peptides were rare on DR3 from control cells. Thus, a defect in the main antigen-processing pathway revealed a process in which DR molecules bind long peptides derived from proteins present in the same compartment.
+C1 UNIV WISCONSIN,GENET LAB,MADISON,WI 53706.
+   NCI,BETHESDA,MD 20892.
+   UNIV VIRGINIA,DEPT CHEM,CHARLOTTESVILLE,VA 22901.
+RP SETTE, A (reprint author), CYTEL,3525 JOHN HOPKINS COURT,SAN DIEGO,CA 92121, USA.
+CR BJORKMAN PJ, 1987, NATURE, V329, P512, DOI 10.1038/329512a0
+   BODMER JG, 1992, TISSUE ANTIGENS, V39, P161, DOI 10.1111/j.1399-0039.1992.tb01932.x
+   BRACIALE TJ, 1991, IMMUNOL TODAY, V12, P124, DOI 10.1016/0167-5699(91)90096-C
+   Brodsky F M, 1992, Trends Cell Biol, V2, P109, DOI 10.1016/0962-8924(92)90015-F
+   BROWN JH, 1988, NATURE, V332, P845, DOI 10.1038/332845a0
+   CEMAN S, 1992, J IMMUNOL, V149, P754
+   CEMAN S, UNPUB
+   CHICZ RM, 1992, NATURE, V358, P764, DOI 10.1038/358764a0
+   COTNER T, 1991, J IMMUNOL, V146, P414
+   DEMARS R, 1984, HUM IMMUNOL, V11, P77, DOI 10.1016/0198-8859(84)90047-8
+   DEMARS R, 1983, HUM IMMUNOL, V8, P123, DOI 10.1016/0198-8859(83)90008-3
+   DeMars R, 1992, Trends Cell Biol, V2, P81, DOI 10.1016/0962-8924(92)90077-Z
+   DENAGEL DC, 1992, IMMUNOL TODAY, V13, P86, DOI 10.1016/0167-5699(92)90147-Y
+   ERLICH H, 1986, HUM IMMUNOL, V16, P205, DOI 10.1016/0198-8859(86)90049-2
+   GARRETT TPJ, 1989, NATURE, V342, P692, DOI 10.1038/342692a0
+   HENDERSON RA, 1992, SCIENCE, V255, P1264, DOI 10.1126/science.1546329
+   HUNT DF, 1991, TECHNIQUES PROTEIN C, V2, P441
+   HUNT DF, 1992, SCIENCE, V256, P1817, DOI 10.1126/science.1319610
+   LAMB CA, 1992, J IMMUNOL, V148, P3478
+   LANZAVECCHIA A, 1992, NATURE, V357, P249, DOI 10.1038/357249a0
+   LONG EO, 1992, NEW BIOL, V4, P274
+   MALNATI MS, 1992, NATURE, V357, P702, DOI 10.1038/357702a0
+   MELLINS E, 1991, J EXP MED, V174, P1607, DOI 10.1084/jem.174.6.1607
+   MELLINS E, 1990, NATURE, V343, P71, DOI 10.1038/343071a0
+   MONACO JJ, 1992, IMMUNOL TODAY, V13, P173, DOI 10.1016/0167-5699(92)90122-N
+   NEEFJES JJ, 1992, IMMUNOL TODAY, V13, P179, DOI 10.1016/0167-5699(92)90123-O
+   OSULLIVAN D, 1990, J IMMUNOL, V145, P1799
+   RIBERBY JM, 1992, J IMMUNOL, V148, P2856
+   RUDENSKY AY, 1991, NATURE, V353, P622, DOI 10.1038/353622a0
+   SADEGHNASSERI S, 1992, IMMUNOL TODAY, V13, P43, DOI 10.1016/0167-5699(92)90131-P
+   SETTE A, 1992, J IMMUNOL, V148, P844
+   SETTE A, 1989, J IMMUNOL, V142, P35
+   SIDNEY J, 1992, J IMMUNOL, V149, P2634
+   SPIES T, 1990, NATURE, V348, P744, DOI 10.1038/348744a0
+   STERN LJ, 1992, CELL, V68, P465, DOI 10.1016/0092-8674(92)90184-E
+   Teyton L, 1992, Trends Cell Biol, V2, P52, DOI 10.1016/0962-8924(92)90163-H
+   TROWSDALE J, 1991, IMMUNOL TODAY, V12, P443, DOI 10.1016/0167-5699(91)90017-N
+   VANSCHOOTEN WCA, 1989, EUR J IMMUNOL, V19, P2075
+   WEI ML, 1992, NATURE, V356, P443, DOI 10.1038/356443a0
+NR 39
+TC 201
+Z9 201
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD DEC 11
+PY 1992
+VL 258
+IS 5089
+BP 1801
+EP 1804
+DI 10.1126/science.1465617
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA KB964
+UT WOS:A1992KB96400041
+ER
+
+PT J
+AU GREGORIO, CC
+   KUBO, RT
+   BANKERT, RB
+   REPASKY, EA
+AF GREGORIO, CC
+   KUBO, RT
+   BANKERT, RB
+   REPASKY, EA
+TI TRANSLOCATION OF SPECTRIN AND PROTEIN-KINASE-C TO A CYTOPLASMIC
+   AGGREGATE UPON LYMPHOCYTE-ACTIVATION
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID T-CELL ACTIVATION; MEMBRANE; HETEROGENEITY; POLARITY; INSITU
+AB We have previously reported that mammalian tissue lymphocytes exhibit significant heterogeneity with respect to the subcellular distribution of spectrin and that this phenomenon may result from a dynamic behavior of spectrin in response to activation signals. Here, we further characterize the involvement of spectrin in lymphocyte activation by examining its relationship with protein kinase C (PKC). PKC isoenzymes are a family of cytosolic kinases that translocate from the soluble to particulate fraction upon cell stimulation. It is reported here that activation of lymph node T cells through the antigen-specific receptor, or direct activation of PKC by phorbol esters, results in a striking increase in cells expressing a cytoplasmic aggregate of spectrin. Additionally, a concurrent increase in cells expressing aggregates of the beta-II isozyme of PKC is observed. Immunofluorescence staining revealed that spectrin and PKC-beta-II are colocalized in untreated lymphocytes and that these two proteins are coincidentally translocated to the same focal aggregate within the cytoplasm following stimulation. This redistribution of spectrin and PKC-beta is blocked by pretreatment with calphostin C, a specific inhibitor of PKC. Solubility studies showed that there is an increase of both proteins in the detergent-insoluble fraction of lymphocytes upon activation, and immunoprecipitation studies indicated that the soluble form of these molecules may be associated directly or indirectly as part of a complex of proteins. These data indicate that the positioning of the spectrin-based cytoskeleton is sensitive to activation signals and may play a role in the function or positioning of PKC-beta-II.
+C1 ROSWELL PK CANC INST,DEPT MOLEC IMMUNOL,BUFFALO,NY 14263.
+   NATL JEWISH CTR IMMUNOL & RESP MED,DEPT MED,DENVER,CO 80206.
+CR BENNETT V, 1990, Current Opinion in Cell Biology, V2, P51, DOI 10.1016/S0955-0674(05)80030-4
+   BERRY N, 1989, J IMMUNOL, V143, P1407
+   BERRY N, 1990, EUR J BIOCHEM, V189, P205, DOI 10.1111/j.1432-1033.1990.tb15478.x
+   BLACK JD, 1988, J CELL BIOL, V106, P97, DOI 10.1083/jcb.106.1.97
+   BURN P, 1988, TRENDS BIOCHEM SCI, V13, P79, DOI 10.1016/0968-0004(88)90043-6
+   CHEN ZZ, 1987, J IMMUNOL, V138, P2345
+   GREENBERG ME, 1983, CELL, V33, P767, DOI 10.1016/0092-8674(83)90019-3
+   HAEST CWM, 1982, BIOCHIM BIOPHYS ACTA, V694, P331, DOI 10.1016/0304-4157(82)90001-6
+   HOCEVAR BA, 1991, J BIOL CHEM, V266, P28
+   JULIUS MH, 1973, EUR J IMMUNOL, V3, P645, DOI 10.1002/eji.1830031011
+   KOBAYASHI E, 1989, BIOCHEM BIOPH RES CO, V159, P548, DOI 10.1016/0006-291X(89)90028-4
+   KOBAYASHI T, 1991, J CELL BIOL, V113, P235, DOI 10.1083/jcb.113.2.235
+   KUBO RT, 1989, J IMMUNOL, V142, P2736
+   Lee J K, 1987, Cell Tissue Res, V247, P195, DOI 10.1007/BF00216562
+   LEE JK, 1988, CELL, V55, P807, DOI 10.1016/0092-8674(88)90136-5
+   MOCHLYROSEN D, 1990, CELL REGUL, V1, P693
+   NELSON WJ, 1986, J CELL BIOL, V103, P1751, DOI 10.1083/jcb.103.5.1751
+   NELSON WJ, 1983, P NATL ACAD SCI-BIOL, V80, P1626, DOI 10.1073/pnas.80.6.1626
+   NIGG EA, 1985, CELL, V41, P1039, DOI 10.1016/S0092-8674(85)80084-2
+   NISHIZUKA Y, 1988, NATURE, V334, P661, DOI 10.1038/334661a0
+   PERRIN D, 1987, NATURE, V326, P498, DOI 10.1038/326498a0
+   REPASKY EA, 1984, J CELL BIOL, V99, P350, DOI 10.1083/jcb.99.1.350
+   SIKORSKI AF, 1991, J CELL BIOL, V114, P313, DOI 10.1083/jcb.114.2.313
+   SUBBARAO NK, 1991, BIOCHIM BIOPHYS ACTA, V1063, P147, DOI 10.1016/0005-2736(91)90364-E
+NR 24
+TC 77
+Z9 77
+PU NATL ACAD PRESS
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUN 1
+PY 1992
+VL 89
+IS 11
+BP 4947
+EP 4951
+DI 10.1073/pnas.89.11.4947
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HX168
+UT WOS:A1992HX16800035
+ER
+
+PT J
+AU OBRIEN, RL
+   FU, YX
+   CRANFILL, R
+   DALLAS, A
+   ELLIS, C
+   REARDON, C
+   LANG, J
+   CARDING, SR
+   KUBO, R
+   BORN, W
+AF OBRIEN, RL
+   FU, YX
+   CRANFILL, R
+   DALLAS, A
+   ELLIS, C
+   REARDON, C
+   LANG, J
+   CARDING, SR
+   KUBO, R
+   BORN, W
+TI HEAT-SHOCK PROTEIN HSP60-REACTIVE GAMMA-DELTA-CELLS - A LARGE,
+   DIVERSIFIED LYMPHOCYTE-T SUBSET WITH HIGHLY FOCUSED SPECIFICITY
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID RECEPTOR-DELTA; ANTIGEN RECEPTOR; MONOCLONAL-ANTIBODY; EXPRESSION;
+   GENES; DISTINCT; THYMOCYTES; IDENTIFICATION; RECOGNITION; EPITHELIUM
+AB Previously, we detected a subset of gamma-delta-T cells in the newborn mouse thymus that responded to the mycobacterial heat shock protein Hsp60, as well as with what seemed to be a self-antigen. All of these cells expressed V-gamma-1, most often in association with V-delta-6+. It was not clear, however, whether similar, mature gamma-delta-cells with Hsp60 reactivity are common outside of the thymus, or rather, whether they are largely eliminated during development. From the data presented here, we estimate that gamma-delta-cells responding to Hsp60 comprise 10-20% of normal splenic and lymph node gamma-delta-T cells. Such cells, derived from adult spleen, always express a V-gamma-1-J-gamma-4-C-gamma-4-gamma-chain, although not all cells with this gamma-chain show Hsp60 reactivity. Many of these V-gamma-1+ cells also express V-delta-6-J-delta-1-C-delta, though fewer than in V-gamma-1+ cells from the newborn thymus. Extensive diversity is evident in both the gamma- and delta-chain junctional amino acids of the receptors of these cells, indicating that they may largely develop in the thymus of older animals or undergo peripheral expansion. Finally, we found that all such cells responding to both a putative self-antigen and to mycobacterial Hsp60 respond to a 17-amino acid synthetic peptide representing amino acids 180-196 of the Mycobacterium leprae Hsp60 sequence. This report demonstrates that a large subset of Hsp60-reactive peripheral lymphoid gamma-delta-T cells preexists in normal adult mice, all members of which respond to a single segment of this common heat shock protein.
+C1 UNIV COLORADO,HLTH SCI CTR,DEPT MICROBIOL,DENVER,CO 80262.
+   UNIV COLORADO,HLTH SCI CTR,DEPT BIOCHEM,DENVER,CO 80262.
+   UNIV PENN,SCH MED,DEPT MICROBIOL,PHILADELPHIA,PA 19104.
+RP OBRIEN, RL (reprint author), NATL JEWISH CTR IMMUNOL & RESP MED,DEPT MED,1400 JACKSON ST,DENVER,CO 80206, USA.
+CR ARDEN B, 1985, NATURE, V316, P783, DOI 10.1038/316783a0
+   ASARNOW DM, 1989, NATURE, V341, P60, DOI 10.1038/341060a0
+   ASARNOW DM, 1988, CELL, V55, P837, DOI 10.1016/0092-8674(88)90139-0
+   AUFFRAY C, 1980, EUR J BIOCHEM, V107, P303
+   BILL J, 1989, J EXP MED, V169, P115, DOI 10.1084/jem.169.1.115
+   BLUESTONE JA, 1988, J EXP MED, V168, P1899, DOI 10.1084/jem.168.5.1899
+   BORN W, 1990, SCIENCE, V249, P67, DOI 10.1126/science.1695022
+   BRENNER MB, 1986, NATURE, V322, P145, DOI 10.1038/322145a0
+   BUCY RP, 1988, J IMMUNOL, V141, P2200
+   CARDING SR, 1990, J EXP MED, V172, P1225, DOI 10.1084/jem.172.4.1225
+   CHIEN YH, 1987, NATURE, V330, P722, DOI 10.1038/330722a0
+   CHIEN YH, 1987, NATURE, V327, P677, DOI 10.1038/327677a0
+   ELLIOTT JF, 1988, NATURE, V331, P627
+   EZQUERRA A, 1990, J IMMUNOL, V145, P1311
+   GARMAN RD, 1986, CELL, V45, P733, DOI 10.1016/0092-8674(86)90787-7
+   HAPP MP, 1989, NATURE, V342, P696, DOI 10.1038/342696a0
+   HERMAN A, 1991, ANNU REV IMMUNOL, V9, P745, DOI 10.1146/annurev.immunol.9.1.745
+   HIRT W, 1990, EUR J IMMUNOL, V20, P265, DOI 10.1002/eji.1830200206
+   ITOHARA S, 1989, P NATL ACAD SCI USA, V86, P5094, DOI 10.1073/pnas.86.13.5094
+   IWAMOTO A, 1986, J EXP MED, V163, P1203, DOI 10.1084/jem.163.5.1203
+   KAPPLER JW, 1981, J EXP MED, V153, P1198, DOI 10.1084/jem.153.5.1198
+   KORMAN AJ, 1988, J EXP MED, V168, P1021, DOI 10.1084/jem.168.3.1021
+   KUBO RT, 1989, J IMMUNOL, V142, P2736
+   LEO O, 1987, P NATL ACAD SCI USA, V84, P1374, DOI 10.1073/pnas.84.5.1374
+   Mackay C R, 1989, Int Immunol, V1, P540, DOI 10.1093/intimm/1.5.540
+   Maniatis T., 1982, MOL CLONING
+   MCCONNELL TJ, 1989, J IMMUNOL, V142, P2924
+   MOSMANN T, 1983, J IMMUNOL METHODS, V65, P55, DOI 10.1016/0022-1759(83)90303-4
+   OBRIEN RL, 1989, CELL, V57, P667, DOI 10.1016/0092-8674(89)90135-9
+   OBRIEN RL, 1991, IMMUNOL REV, V121, P155, DOI 10.1111/j.1600-065X.1991.tb00827.x
+   OETTGEN HC, 1986, NATURE, V320, P272, DOI 10.1038/320272a0
+   PARDOLL DM, 1987, NATURE, V326, P79, DOI 10.1038/326079a0
+   PELKONEN J, 1987, EMBO J, V6, P1941
+   ROBERTS K, 1991, J EXP MED, V173, P231, DOI 10.1084/jem.173.1.231
+   TAKAGAKI Y, 1989, J IMMUNOL, V142, P2112
+   WHITE BA, 1982, J BIOL CHEM, V257, P8569
+   WHITE J, 1989, J IMMUNOL, V143, P1822
+   WYSOCKI LJ, 1978, P NATL ACAD SCI USA, V75, P2844, DOI 10.1073/pnas.75.6.2844
+NR 38
+TC 145
+Z9 146
+PU NATL ACAD PRESS
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAY 15
+PY 1992
+VL 89
+IS 10
+BP 4348
+EP 4352
+DI 10.1073/pnas.89.10.4348
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HU977
+UT WOS:A1992HU97700027
+ER
+
+PT J
+AU CHOI, YW
+   KOTZIN, B
+   LAFFERTY, J
+   WHITE, J
+   PIGEON, M
+   KUBO, R
+   KAPPLER, J
+   MARRACK, P
+AF CHOI, YW
+   KOTZIN, B
+   LAFFERTY, J
+   WHITE, J
+   PIGEON, M
+   KUBO, R
+   KAPPLER, J
+   MARRACK, P
+TI A METHOD FOR PRODUCTION OF ANTIBODIES TO HUMAN T-CELL RECEPTOR
+   BETA-CHAIN VARIABLE REGIONS
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID MAJOR HISTOCOMPATIBILITY COMPLEX; STAPHYLOCOCCAL ENTEROTOXIN-B;
+   IMMUNOGENIC PEPTIDES; ANTIGEN RECEPTOR; RECOGNITION; REPERTOIRE;
+   TOLERANCE; MICE; MHC; IA
+AB Mouse T-cell hybridomas bearing human V-beta elements were produced by transfection of human/mouse hybrid T-cell receptor beta-chain genes into a mouse T-cell hybridoma lacking an endogenous beta-chain gene.  These hybridomas were entirely mouse in origin except for the human V-beta region.  These cells were used to immunize mice against human V-beta elements.  Mouse monoclonal antibodies have thus been generated against human V-beta-13.1 and -13.2.  We expect that the method outlined in this paper will be useful in the production of monoclonal antibodies specific for other human V-beta or V-alpha elements.
+C1 UNIV COLORADO,HLTH SCI CTR,NATL JEWISH CTR IMMUNOL & RESP MED,DEPT PEDIAT,DENVER,CO 80206.
+   UNIV COLORADO,HLTH SCI CTR,DEPT BIOCHEM BIOPHYS & GENET,DENVER,CO 80206.
+   UNIV COLORADO,HLTH SCI CTR,DEPT MICROBIOL & IMMUNOL,DENVER,CO 80206.
+   UNIV COLORADO,HLTH SCI CTR,DEPT MED,DENVER,CO 80206.
+RP CHOI, YW (reprint author), UNIV COLORADO,HLTH SCI CTR,HOWARD HUGHES MED INST,DEPT MED,DIV BASIC IMMUNOL,DENVER,CO 80206, USA.
+CR ABE R, 1988, J IMMUNOL, V140, P4132
+   ACHAORBEA H, 1991, NATURE, V350, P207, DOI 10.1038/350207a0
+   ACHAORBEA H, 1988, CELL, V54, P263, DOI 10.1016/0092-8674(88)90558-2
+   BABBITT BP, 1985, NATURE, V317, P359, DOI 10.1038/317359a0
+   BEKOFF MC, 1987, J IMMUNOL, V139, P3189
+   BJORKMAN PJ, 1987, NATURE, V329, P512, DOI 10.1038/329512a0
+   BUUS S, 1987, SCIENCE, V235, P1353, DOI 10.1126/science.2435001
+   CHOI YW, 1991, NATURE, V350, P203, DOI 10.1038/350203a0
+   CHOI YW, 1990, J EXP MED, V172, P981, DOI 10.1084/jem.172.3.981
+   CHOI YW, 1989, P NATL ACAD SCI USA, V86, P8941, DOI 10.1073/pnas.86.22.8941
+   CHOI YW, 1990, NATURE, V346, P471, DOI 10.1038/346471a0
+   DAVIS M, 1985, ANNU REV IMMUNOL, V4, P529
+   DYSON PJ, 1991, NATURE, V349, P531, DOI 10.1038/349531a0
+   FRANKEL WN, 1991, NATURE, V349, P526, DOI 10.1038/349526a0
+   HEDRICK SM, 1982, CELL, V30, P141, DOI 10.1016/0092-8674(82)90020-4
+   HERMAN A, 1991, ANNU REV IMMUNOL, V9, P745, DOI 10.1146/annurev.immunol.9.1.745
+   JANEWAY CA, 1989, IMMUNOL REV, V107, P61, DOI 10.1111/j.1600-065X.1989.tb00003.x
+   KAPPLER J, 1989, SCIENCE, V244, P811, DOI 10.1126/science.2524876
+   KAPPLER JW, 1988, NATURE, V332, P35, DOI 10.1038/332035a0
+   KAPPLER JW, 1987, CELL, V49, P263, DOI 10.1016/0092-8674(87)90567-8
+   KAPPLER JW, 1987, CELL, V49, P273, DOI 10.1016/0092-8674(87)90568-X
+   KAWABE Y, 1990, J EXP MED, V172, P1065, DOI 10.1084/jem.172.4.1065
+   KUBO RT, 1989, J IMMUNOL, V142, P2736
+   LI YX, 1990, J EXP MED, V171, P221, DOI 10.1084/jem.171.1.221
+   MACDONALD HR, 1988, NATURE, V335, P174, DOI 10.1038/335174a0
+   MAECKER HT, 1989, J IMMUNOL, V142, P1395
+   MARRACK P, 1988, IMMUNOL TODAY, V9, P308, DOI 10.1016/0167-5699(88)91324-2
+   MARRACK P, 1991, NATURE, V349, P524, DOI 10.1038/349524a0
+   PALIARD X, 1991, SCIENCE, V253, P325, DOI 10.1126/science.1857971
+   PULLEN AM, 1990, CELL, V61, P1365, DOI 10.1016/0092-8674(90)90700-O
+   PULLEN AM, 1990, J EXP MED, V171, P49, DOI 10.1084/jem.171.1.49
+   PULLEN AM, 1988, NATURE, V335, P796, DOI 10.1038/335796a0
+   RELLAHAN BL, 1990, J EXP MED, V172, P1091, DOI 10.1084/jem.172.4.1091
+   SCHANTZ EJ, 1972, BIOCHEMISTRY-US, V11, P360, DOI 10.1021/bi00753a009
+   STULMAN M, 1978, NATURE, V276, P269
+   TOWNSEND ARM, 1986, CELL, V44, P959, DOI 10.1016/0092-8674(86)90019-X
+   TOYONAGA B, 1987, ANNU REV IMMUNOL, V5, P585, DOI 10.1146/annurev.immunol.5.1.585
+   WHITE J, 1989, CELL, V56, P27, DOI 10.1016/0092-8674(89)90980-X
+   WHITE J, 1983, J IMMUNOL, V130, P1033
+   WOODLAND DL, 1991, NATURE, V349, P529, DOI 10.1038/349529a0
+   YSSEL H, 1986, EUR J IMMUNOL, V16, P1187, DOI 10.1002/eji.1830161002
+NR 41
+TC 36
+Z9 36
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD OCT
+PY 1991
+VL 88
+IS 19
+BP 8357
+EP 8361
+DI 10.1073/pnas.88.19.8357
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GH805
+UT WOS:A1991GH80500016
+ER
+
+PT J
+AU KUBO, R
+   OJIMA, S
+AF KUBO, R
+   OJIMA, S
+TI QUANTUM-FIELD THEORY ON HIGHER-GENUS RIEMANN SURFACES .2. BOSONIC
+   SYSTEMS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID CHIRAL BOSONIZATION; STRING THEORY; OPERATOR
+AB Quantum field theory for closed bosonic string systems is formulated on arbitrary higher-genus Riemann surfaces in global operator formalism.  Canonical commutation relations between bosonic string field X-mu and their conjugate momenta P-nu are derived in the framework of conventional quantum field theory.  Problems arising in quantizing bosonic systems are considered in detail.  Applying the method exploited in the preceding paper we calculate Ward-Takahashi identities.
+C1 OSAKA UNIV,DEPT PHYS,TOYONAKA,OSAKA 560,JAPAN.
+RP KUBO, R (reprint author), KYOTO UNIV,YUKAWA INST THEORET PHYS,UJI RES CTR,UJI,KYOTO 611,JAPAN.
+CR BONORA L, 1989, COMMUN MATH PHYS, V123, P329, DOI 10.1007/BF01238861
+   EGUCHI T, 1987, PHYS LETT B, V187, P127, DOI 10.1016/0370-2693(87)90084-0
+   FORSTER O, 1981, LECTURES RIEMANN SUR
+   FRIEDAN D, 1986, NUCL PHYS B, V271, P93, DOI 10.1016/0550-3213(86)90356-1
+   GINSPARG P, HUTP88A054 HARV U PR
+   KRICHEVER IM, 1987, FUNK ANAL PRIL, V21, P46
+   KRICHEVER LM, 1988, FUNK ANAL PRIL, V21, P47
+   KUBO R, 1989, PROG THEOR PHYS, V82, P1188, DOI 10.1143/PTP.82.1188
+   LUGO A, 1989, NUCL PHYS B, V322, P210, DOI 10.1016/0550-3213(89)90491-4
+   SAITO T, 1989, PHYS LETT B, V220, P93, DOI 10.1016/0370-2693(89)90019-1
+   VERLINDE E, 1987, NUCL PHYS B, V288, P357, DOI 10.1016/0550-3213(87)90219-7
+NR 11
+TC 4
+Z9 4
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD DEC
+PY 1990
+VL 84
+IS 6
+BP 1240
+EP 1251
+DI 10.1143/PTP.84.1240
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA ER766
+UT WOS:A1990ER76600022
+ER
+
+PT J
+AU TAKAHASHI, N
+   HANYU, Y
+   MUSHA, T
+   KUBO, R
+   MATSUMOTO, G
+AF TAKAHASHI, N
+   HANYU, Y
+   MUSHA, T
+   KUBO, R
+   MATSUMOTO, G
+TI GLOBAL BIFURCATION STRUCTURE IN PERIODICALLY STIMULATED GIANT-AXONS OF
+   SQUID
+SO PHYSICA D
+LA English
+DT Article
+C1 ELECTROTECH LAB,MOLEC & CELLULAR NEUROSCI SECT,TSUKUBA,IBARAKI 305,JAPAN.
+   TOKYO INST TECHNOL,GRAD SCH NAGATSUTA,MIDORI KU,YOKOHAMA,KANAGAWA 227,JAPAN.
+   KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+CR AIHARA K, 1987, CHAOS BIOL SYSTEMS, P121
+   Aihara K, 1986, CHAOS, P257
+   ASCOLI C, 1977, BIOPHYS J, V19, P219
+   BAK P, 1986, PHYS TODAY, V22, P38
+   BELAIR J, 1986, J MATH BIOL, V24, P217
+   BERGE P, 1986, ORDER CHAOS DETERMIS
+   BROWN SE, 1984, PHYS REV LETT, V52, P2277, DOI 10.1103/PhysRevLett.52.2277
+   BURG JP, 1967, 37TH ANN M SOC EXPL
+   CAIANIELLO ER, 1961, J THEOR BIOL, V1, P204, DOI 10.1016/0022-5193(61)90046-7
+   FEIGENBAUM MJ, 1978, J STAT PHYS, V19, P25, DOI 10.1007/BF01020332
+   FEIGENBAUM MJ, 1979, J STAT PHYS, V21, P669, DOI 10.1007/BF01107909
+   FEIN AP, 1985, PHYS SCRIPTA, VT9, P79, DOI 10.1088/0031-8949/1985/T9/012
+   FLAHERTY J, 1987, STUD APPL MATH, V58, P5
+   GLASS L, 1980, J THEOR BIOL, V86, P455, DOI 10.1016/0022-5193(80)90345-8
+   GLASS L, 1982, PHYS REV LETT, V48, P1772, DOI 10.1103/PhysRevLett.48.1772
+   GLASS L, 1984, PHYS REV A, V29, P1348, DOI 10.1103/PhysRevA.29.1348
+   GLASS L, 1983, PHYSICA D, V7, P89, DOI 10.1016/0167-2789(83)90119-7
+   GLASS L, 1979, J MATH BIOL, V7, P339, DOI 10.1007/BF00275153
+   GUEVARA MR, 1982, J MATH BIOL, V14, P1, DOI 10.1007/BF02154750
+   GUEVARA MR, 1981, SCIENCE, V214, P1350, DOI 10.1126/science.7313693
+   HANYU, UNPUB
+   HARMON LD, 1961, KYBERNETIK, V1, P89, DOI 10.1007/BF00290179
+   HIRSCH JE, 1982, PHYS LETT A, V87, P391, DOI 10.1016/0375-9601(82)90165-7
+   HIRSCH JE, 1982, PHYS REV A, V25, P519, DOI 10.1103/PhysRevA.25.519
+   Hodgkin A. L., 1964, CONDUCTION NERVOUS I
+   HODGKIN AL, 1952, J PHYSIOL-LONDON, V117, P500
+   HOLDEN AV, 1976, BIOL CYBERN, V21, P1, DOI 10.1007/BF00326666
+   ICHIKAWA M, UNPUB J NEUROSCI
+   JENSEN MH, 1984, PHYS REV A, V30, P1960, DOI 10.1103/PhysRevA.30.1960
+   KANEKO K, 1984, CHAOS STATISTICAL ME, P83
+   KANEKO K, 1983, PROG THEOR PHYS, V69, P403, DOI 10.1143/PTP.69.403
+   KANEKO K, 1982, PROG THEOR PHYS, V68, P669, DOI 10.1143/PTP.68.669
+   KEENER JP, 1981, SIAM J APPL MATH, V41, P503, DOI 10.1137/0141042
+   KNIGHT BW, 1972, J GEN PHYSIOL, V59, P734, DOI 10.1085/jgp.59.6.734
+   MARTIN S, 1986, PHYS REV LETT, V56, P1522, DOI 10.1103/PhysRevLett.56.1522
+   MASELKO J, 1986, J CHEM PHYS, V85, P6430
+   MASELKO J, 1985, PHYS SCRIPTA, VT9, P35, DOI 10.1088/0031-8949/1985/T9/004
+   MATSUMOTO G, 1976, BIOL BULL, V150, P279, DOI 10.2307/1540474
+   MATSUMOTO G, 1980, BIOL BULL, V159, P319, DOI 10.2307/1541096
+   MATSUMOTO G, 1987, PHYS LETT A, V123, P162, DOI 10.1016/0375-9601(87)90696-7
+   MATSUMOTO G, 1987, CHAOS BIOL SYSTEMS, P143
+   Matsumoto G., 1984, J THEOR NEUROBIOL, V3, P1
+   MATSUMOTO G, 1981, NERVE MEMBRANE BIOCH, P203
+   NAGUMO J, 1972, KYBERNETIK, V10, P155, DOI 10.1007/BF00290514
+   NEMOTO I, 1975, BIOPHYS J, V15, P469, DOI 10.1016/S0006-3495(75)85831-0
+   OSTLUND S, 1983, PHYSICA D, V8, P303, DOI 10.1016/0167-2789(83)90229-4
+   PEREZ R, 1982, PHYS LETT A, V90, P441, DOI 10.1016/0375-9601(82)90391-7
+   PERKEL DH, 1964, SCIENCE, V145, P61, DOI 10.1126/science.145.3627.61
+   POMEAU Y, 1980, COMMUN MATH PHYS, V74, P189, DOI 10.1007/BF01197757
+   RESCIGNO A, 1972, B MATH BIOPHYS, V32, P337
+   SANO M, 1983, PHYS LETT A, V97, P73, DOI 10.1016/0375-9601(83)90513-3
+   STAVANS J, 1985, PHYS REV LETT, V55, P596, DOI 10.1103/PhysRevLett.55.596
+   TASAKI I, 1968, NERVE EXCITATION MAC
+   Thompson J. M. T., 1986, NONLINEAR DYNAMICS C
+   TSUDA I, 1981, PROG THEOR PHYS, V66, P1985, DOI 10.1143/PTP.66.1985
+   YAMAGUCHI M, 1982, LECTURE NOTES BIOMAT, V45, P171
+   YOSHIZAWA S, 1982, BIOL CYBERN, V45, P23, DOI 10.1007/BF00387210
+NR 57
+TC 75
+Z9 75
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-2789
+J9 PHYSICA D
+JI Physica D
+PD JUL
+PY 1990
+VL 43
+IS 2-3
+BP 318
+EP 334
+DI 10.1016/0167-2789(90)90140-K
+PG 17
+WC Mathematics, Applied; Physics, Multidisciplinary; Physics, Mathematical
+SC Mathematics; Physics
+GA DT576
+UT WOS:A1990DT57600010
+ER
+
+PT J
+AU HAPP, MP
+   KUBO, RT
+   PALMER, E
+   BORN, WK
+   OBRIEN, RL
+AF HAPP, MP
+   KUBO, RT
+   PALMER, E
+   BORN, WK
+   OBRIEN, RL
+TI LIMITED RECEPTOR REPERTOIRE IN A MYCOBACTERIA-REACTIVE SUBSET OF
+   GAMMA-DELTA-LYMPHOCYTES
+SO NATURE
+LA English
+DT Article
+C1 HOWARD HUGHES MED INST,DENVER,CO 80206.
+   NATL JEWISH CTR IMMUNOL & RESP MED,DEPT MED,DENVER,CO 80206.
+   UNIV COLORADO,HLTH SCI CTR,DEPT MICROBIOL & IMMUNOL,DENVER,CO 80262.
+RP HAPP, MP (reprint author), NATL JEWISH CTR IMMUNOL & RESP MED,DEPT PEDIAT,DIV BASIC SCI,DENVER,CO 80206, USA.
+CR ABE R, 1988, NATURE, V335, P827, DOI 10.1038/335827a0
+   ARDEN B, 1985, NATURE, V316, P783, DOI 10.1038/316783a0
+   ASARNOW DM, 1988, CELL, V55, P837, DOI 10.1016/0092-8674(88)90139-0
+   BILL J, 1989, J EXP MED, V169, P115, DOI 10.1084/jem.169.1.115
+   BLUESTONE JA, 1988, J EXP MED, V168, P1899, DOI 10.1084/jem.168.5.1899
+   CHIEN YH, 1987, NATURE, V330, P722, DOI 10.1038/330722a0
+   CHIEN YH, 1987, NATURE, V327, P677, DOI 10.1038/327677a0
+   ELLIOTT JF, 1988, NATURE, V331, P627
+   HAPP MP, 1989, EUR J IMMUNOL, V19, P1317, DOI 10.1002/eji.1830190725
+   HAREGEWOIN A, 1989, NATURE, V340, P309, DOI 10.1038/340309a0
+   HASKINS K, 1983, J EXP MED, V157, P1149, DOI 10.1084/jem.157.4.1149
+   HOLOSHITZ J, 1989, NATURE, V339, P226, DOI 10.1038/339226a0
+   IWAMOTO A, 1986, J EXP MED, V163, P1203, DOI 10.1084/jem.163.5.1203
+   JANEWAY CA, 1988, J IMMUNOGENET, V15, P161
+   JANIS EM, 1989, SCIENCE, V244, P713, DOI 10.1126/science.2524098
+   KANAGAWA O, 1989, CELL IMMUNOL, V119, P412, DOI 10.1016/0008-8749(89)90255-4
+   KAPPLER JW, 1988, NATURE, V332, P35, DOI 10.1038/332035a0
+   KORMAN AJ, 1988, J EXP MED, V168, P1021, DOI 10.1084/jem.168.3.1021
+   KUBO RT, 1983, MOL IMMUNOL, V20, P67, DOI 10.1016/0161-5890(83)90106-2
+   KUMAGAI N, 1987, J IMMUNOL, V139, P1393
+   MACDONALD HR, 1988, NATURE, V332, P40, DOI 10.1038/332040a0
+   MARUSICGALESIC S, 1989, J IMMUNOL, V142, P28
+   MCCONNELL TJ, 1989, J IMMUNOL, V142, P2924
+   MODLIN RL, 1989, NATURE, V339, P544, DOI 10.1038/339544a0
+   OBRIEN RL, 1989, CELL, V57, P667, DOI 10.1016/0092-8674(89)90135-9
+   OETTGEN HC, 1986, NATURE, V320, P272, DOI 10.1038/320272a0
+   OKAZAKI K, 1988, EMBO J, V7, P1669
+   PULLEN AM, 1988, NATURE, V335, P796, DOI 10.1038/335796a0
+   RIVAS A, 1989, J IMMUNOL, V142, P1840
+   TAKAGAKI Y, 1989, J IMMUNOL, V142, P2112
+   VIDOVIC D, 1989, Z NATURE, V340, P646
+   WHITE J, 1989, CELL, V56, P27, DOI 10.1016/0092-8674(89)90980-X
+   YAGUE J, 1988, NUCLEIC ACIDS RES, V16, P11355, DOI 10.1093/nar/16.23.11355
+NR 33
+TC 163
+Z9 164
+PU MACMILLAN MAGAZINES LTD
+PI LONDON
+PA PORTERS SOUTH, 4 CRINAN ST, LONDON, ENGLAND N1 9XW
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD DEC 7
+PY 1989
+VL 342
+IS 6250
+BP 696
+EP 698
+DI 10.1038/342696a0
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CC926
+UT WOS:A1989CC92600069
+ER
+
+PT J
+AU KUBO, R
+   OJIMA, S
+   PAUL, SK
+   YOSHII, H
+AF KUBO, R
+   OJIMA, S
+   PAUL, SK
+   YOSHII, H
+TI QUANTUM-FIELD THEORY ON HIGHER-GENUS RIEMANN SURFACES - B-C SYSTEMS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+C1 OSAKA UNIV, DEPT PHYS, TOYONAKA, OSAKA 560, JAPAN.
+   INST PHYS, BHUBANESWAR 751007, ORISSA, INDIA.
+RP KUBO, R (reprint author), HIROSHIMA UNIV, THEORET PHYS RES INST, TAKEHARA, HIROSHIMA 725, JAPAN.
+CR ALVAREZGAUME L, 1986, COMMUN MATH PHYS, V106, P1, DOI 10.1007/BF01210925
+   Alvarez Gaume L., 1988, Nuclear Physics B, Particle Physics, VB303, DOI 10.1016/0550-3213(88)90391-4
+   ALVAREZGAUME L, 1986, PHYS LETT B, V178, P41, DOI 10.1016/0370-2693(86)90466-1
+   BONORA L, 1988, PHYS LETT B, V206, P444, DOI 10.1016/0370-2693(88)91607-3
+   BONORA L, 1988, PHYS LETT B, V208, P440, DOI 10.1016/0370-2693(88)90644-2
+   BONORA L, 1988, PHYS LETT B, V205, P53, DOI 10.1016/0370-2693(88)90397-8
+   BONORA L, 1989, COMMUN MATH PHYS, V123, P329, DOI 10.1007/BF01238861
+   BONORA L, 1989, PHYS LETT B, V216, P313, DOI 10.1016/0370-2693(89)91121-0
+   BOST JB, 1986, PHYS REV LETT, V57, P725
+   COHEN A, 1987, NUCL PHYS B, V281, P127, DOI 10.1016/0550-3213(87)90250-1
+   EGUCHI T, 1987, PHYS LETT B, V187, P127, DOI 10.1016/0370-2693(87)90084-0
+   EGUCHI T, 1987, NUCL PHYS B, V282, P308, DOI 10.1016/0550-3213(87)90686-9
+   FRIEDAN D, 1986, NUCL PHYS B, V271, P93, DOI 10.1016/0550-3213(86)90356-1
+   FRIEDAN D, RECENT ADV FIELD THE
+   GINSPARG P, HUTP88A054 HARV U PR
+   KONISHI G, PREPRINT KN SUPERALG
+   KONISHI G, PREPRINT KN ALGEBRAS
+   KRICHEVER IM, 1988, FUNK ANAL PRIL, P47
+   KRICHEVER IM, 1987, FUNK ANAL PRIL, V21, P46
+   KUBO R, 1989, MOD PHYS LETT A, V4, P1423, DOI 10.1142/S0217732389001623
+   LUGO A, TRIESTE PREPRINT
+   MEZINCESCU L, UMTG144 PREPR
+   MOORE G, 1986, PHYS LETT B, V176, P369, DOI 10.1016/0370-2693(86)90180-2
+   NEPOMECHIE RI, UMTG145 PREPR
+   RUSSO J, TRIESTE PREPRINT
+   SAITO T, 1989, PHYS LETT B, V220, P93, DOI 10.1016/0370-2693(89)90019-1
+   VERLINDE E, 1987, NUCL PHYS B, V288, P357, DOI 10.1016/0550-3213(87)90219-7
+NR 27
+TC 6
+Z9 6
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD DEC
+PY 1989
+VL 82
+IS 6
+BP 1188
+EP 1200
+DI 10.1143/PTP.82.1188
+PG 13
+WC Physics, Multidisciplinary
+SC Physics
+GA CH444
+UT WOS:A1989CH44400015
+ER
+
+PT J
+AU SMITH, H
+   CHEN, IM
+   KUBO, R
+   TUNG, KSK
+AF SMITH, H
+   CHEN, IM
+   KUBO, R
+   TUNG, KSK
+TI NEONATAL THYMECTOMY RESULTS IN A REPERTOIRE ENRICHED IN T-CELLS DELETED
+   IN ADULT THYMUS
+SO SCIENCE
+LA English
+DT Article
+C1 WASHINGTON UNIV,SCH MED,DEPT PATHOL,DIV LAB MED,ST LOUIS,MO 63110.
+   WASHINGTON UNIV,SCH MED,DEPT MED,ST LOUIS,MO 63110.
+   NATL JEWISH CTR IMMUNOL & RESP MED,DIV BASIC IMMUNOL,DENVER,CO 80206.
+CR ABE R, 1989, IMMUNOL REV, V107, P5, DOI 10.1111/j.1600-065X.1989.tb00001.x
+   ACHAORBEA H, 1988, CELL, V54, P263, DOI 10.1016/0092-8674(88)90558-2
+   ACHAORBEA H, 1989, ANNU REV IMMUNOL, V7, P371, DOI 10.1146/annurev.immunol.7.1.371
+   BILL J, 1989, J EXP MED, V169, P1405, DOI 10.1084/jem.169.4.1405
+   FRY AM, 1988, NATURE, V335, P830, DOI 10.1038/335830a0
+   GAO EK, 1988, NATURE, V336, P176, DOI 10.1038/336176a0
+   HASKINS K, 1984, J EXP MED, V160, P452, DOI 10.1084/jem.160.2.452
+   JANEWAY CA, 1988, IMMUNOL TODAY, V9, P125, DOI 10.1016/0167-5699(88)91189-9
+   JENKINS MK, 1988, SCIENCE, V241, P1655, DOI 10.1126/science.3262237
+   JENKINSON EJ, 1985, TRANSPLANTATION, V39, P331, DOI 10.1097/00007890-198503000-00030
+   KANAGAWA O, 1989, CELL IMMUNOL, V119, P412, DOI 10.1016/0008-8749(89)90255-4
+   KAPPLER JW, 1988, NATURE, V332, P35, DOI 10.1038/332035a0
+   KAPPLER JW, 1987, CELL, V49, P263, DOI 10.1016/0092-8674(87)90567-8
+   KAPPLER JW, 1987, CELL, V49, P273, DOI 10.1016/0092-8674(87)90568-X
+   KOJIMA A, 1976, LAB INVEST, V34, P550
+   KOJIMA A, 1980, LAB INVEST, V42, P387
+   KUBO RT, 1989, J IMMUNOL, V142, P2736
+   KUMAR V, 1989, ANNU REV IMMUNOL, V7, P657, DOI 10.1146/annurev.immunol.7.1.657
+   LO D, 1986, IMMUNOL RES, V5, P221, DOI 10.1007/BF02919203
+   MACDONALD HR, 1988, J EXP MED, V167, P2005, DOI 10.1084/jem.167.6.2005
+   MARKMANN J, 1988, NATURE, V336, P476, DOI 10.1038/336476a0
+   MARRACK P, 1988, NATURE, V332, P840, DOI 10.1038/332840a0
+   NISHIZUK.Y, 1969, SCIENCE, V166, P753, DOI 10.1126/science.166.3906.753
+   SAKAGUCHI S, 1989, J IMMUNOL, V142, P471
+   SCHNEIDER R, 1989, J EXP MED, V169, P2149, DOI 10.1084/jem.169.6.2149
+   SMITH HT, UNPUB
+   TAGUCHI O, 1980, CLIN EXP IMMUNOL, V42, P324
+   TAGUCHI O, 1981, CLIN EXP IMMUNOL, V46, P425
+   TUNG KSK, 1987, AM J PATHOL, V126, P293
+   TUNG KSK, 1987, AM J PATHOL, V126, P303
+   VONBOEHMER H, 1986, NATURE, V320, P626, DOI 10.1038/320626a0
+NR 31
+TC 151
+Z9 153
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD AUG 18
+PY 1989
+VL 245
+IS 4919
+BP 749
+EP 752
+DI 10.1126/science.2788921
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AL146
+UT WOS:A1989AL14600039
+ER
+
+PT J
+AU KUBO, R
+   OJIMA, S
+   PAUL, SK
+AF KUBO, R
+   OJIMA, S
+   PAUL, SK
+TI RELATIONS BETWEEN VIRASORO ALGEBRA AND KRICHEVER-NOVIKOV ALGEBRA ON A
+   TORUS
+SO MODERN PHYSICS LETTERS A
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,HIROSHIMA 725,JAPAN.
+NR 0
+TC 2
+Z9 2
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA JOURNAL DEPT PO BOX 128 FARRER ROAD, SINGAPORE 9128, SINGAPORE
+SN 0217-7323
+J9 MOD PHYS LETT A
+JI Mod. Phys. Lett. A
+PD AUG 10
+PY 1989
+VL 4
+IS 15
+BP 1423
+EP 1430
+DI 10.1142/S0217732389001623
+PG 8
+WC Physics, Nuclear; Physics, Particles & Fields; Physics, Mathematical
+SC Physics
+GA AK916
+UT WOS:A1989AK91600004
+ER
+
+PT J
+AU TANIMURA, Y
+   KUBO, R
+AF TANIMURA, Y
+   KUBO, R
+TI TIME-DEPENDENT SPECTRUM OF A 2-LEVEL SYSTEM COUPLED TO A HEAT BATH
+   DRIVEN BY PULSED LASER
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+RI TANIMURA, YOSHITAKA/E-2050-2011
+CR AIHARA M, 1983, SOLID STATE COMMUN, V46, P751, DOI 10.1016/0038-1098(83)90219-3
+   CARLSTEN JL, 1977, PHYS REV A, V15, P1029, DOI 10.1103/PhysRevA.15.1029
+   CHIKAMA T, 1984, J PHYS SOC JPN, V53, P991, DOI 10.1143/JPSJ.53.991
+   COOPER J, 1980, PHYS REV A, V22, P535, DOI 10.1103/PhysRevA.22.535
+   CZUB J, 1983, J PHYS B-AT MOL OPT, V16, P3171, DOI 10.1088/0022-3700/16/17/010
+   EBERLY JH, 1980, J PHYS B-AT MOL OPT, V13, P217, DOI 10.1088/0022-3700/13/2/011
+   EBERLY JH, 1977, J OPT SOC AM, V67, P1252, DOI 10.1364/JOSA.67.001252
+   KNIGHT PL, 1980, PHYS REP, V66, P21, DOI 10.1016/0370-1573(80)90119-2
+   Mollow B.R., 1969, Physical Review, V188, DOI 10.1103/PhysRev.188.1969
+   MOLLOW BR, 1969, ANN PHYS-NEW YORK, V52, P464, DOI 10.1016/0003-4916(69)90289-9
+   MOLLOW BR, 1977, PHYS REV A, V15, P1023, DOI 10.1103/PhysRevA.15.1023
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1987, PHYS REV A, V35, P2493, DOI 10.1103/PhysRevA.35.2493
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   TANIMURA Y, 1989, J PHYS SOC JPN, V58, P1199, DOI 10.1143/JPSJ.58.1199
+   TANIMURA Y, 1986, J PHYS SOC JPN, V55, P4550, DOI 10.1143/JPSJ.55.4550
+   TANIMURA Y, 1989, J PHYS SOC JPN, V58, P1850, DOI 10.1143/JPSJ.58.1850
+   TANIMURA Y, 1989, J PHYS SOC JPN, V58, P101, DOI 10.1143/JPSJ.58.101
+   TSUNETSUGU H, 1986, J PHYS SOC JPN, V55, P3636, DOI 10.1143/JPSJ.55.3636
+NR 19
+TC 4
+Z9 4
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD AUG
+PY 1989
+VL 58
+IS 8
+BP 3001
+EP 3012
+DI 10.1143/JPSJ.58.3001
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA AT812
+UT WOS:A1989AT81200052
+ER
+
+PT J
+AU AUGUSTIN, A
+   KUBO, RT
+   SIM, GK
+AF AUGUSTIN, A
+   KUBO, RT
+   SIM, GK
+TI RESIDENT PULMONARY LYMPHOCYTES EXPRESSING THE GAMMA-DELTA T-CELL
+   RECEPTOR
+SO NATURE
+LA English
+DT Article
+C1 UNIV COLORADO,HLTH SCI CTR,DEPT MICROBIOL & IMMUNOL,DENVER,CO 80262.
+   UNIV COLORADO,HLTH SCI CTR,DEPT PATHOL,DENVER,CO 80262.
+   BASEL INST IMMUNOL,CH-4005 BASEL,SWITZERLAND.
+RP AUGUSTIN, A (reprint author), NATL JEWISH CTR IMMUNOL & RESP MED,DEPT MED,DENVER,CO 80206, USA.
+CR ASARNOW DM, 1988, CELL, V55, P837, DOI 10.1016/0092-8674(88)90139-0
+   BONNEVILLE M, 1988, NATURE, V336, P479, DOI 10.1038/336479a0
+   BORST J, 1987, NATURE, V325, P683, DOI 10.1038/325683a0
+   BRENNER MB, 1987, NATURE, V325, P689, DOI 10.1038/325689a0
+   CHIEN Y, 1987, NATURE, V328, P677
+   CRON RQ, 1988, J IMMUNOL, V141, P1074
+   DOBBS LG, 1986, AM REV RESPIR DIS, V134, P141
+   ELLIOTT JF, 1988, NATURE, V331, P627
+   GOODMAN T, 1987, NATURE, V325, P689
+   HOWE RC, 1989, EUR J IMMUNOL, V19, P25, DOI 10.1002/eji.1830190105
+   JANEWAY CA, 1988, NATURE, V333, P804, DOI 10.1038/333804a0
+   KUBO R, IN PRESS J IMMUN
+   KUBO RT, 1986, MOL IMMUNOL, V23, P869, DOI 10.1016/0161-5890(86)90072-6
+   KUZIEL WA, 1987, NATURE, V328, P263, DOI 10.1038/328263a0
+   MATIS LA, 1987, NATURE, V330, P262, DOI 10.1038/330262a0
+   ORME IM, 1987, J IMMUNOL, V138, P4414
+   PARDOLL DM, 1987, NATURE, V326, P79, DOI 10.1038/326079a0
+   RAULET DH, 1989, ANNU REV IMMUNOL, V7, P175, DOI 10.1146/annurev.immunol.7.1.175
+   SAITO H, 1984, NATURE, V309, P757, DOI 10.1038/309757a0
+   STINGL G, 1987, P NATL ACAD SCI USA, V84, P4586, DOI 10.1073/pnas.84.13.4586
+   WILSON GS, 1975, TOPLEY WILSONS PRINC
+NR 21
+TC 265
+Z9 265
+PU MACMILLAN MAGAZINES LTD
+PI LONDON
+PA PORTERS SOUTH, 4 CRINAN ST, LONDON, ENGLAND N1 9XW
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD JUL 20
+PY 1989
+VL 340
+IS 6230
+BP 239
+EP 241
+DI 10.1038/340239a0
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AG040
+UT WOS:A1989AG04000061
+ER
+
+PT J
+AU ITOHARA, S
+   NAKANISHI, N
+   KANAGAWA, O
+   KUBO, R
+   TONEGAWA, S
+AF ITOHARA, S
+   NAKANISHI, N
+   KANAGAWA, O
+   KUBO, R
+   TONEGAWA, S
+TI MONOCLONAL-ANTIBODIES SPECIFIC TO NATIVE MURINE T-CELL
+   RECEPTOR-GAMMA-DELTA - ANALYSIS OF GAMMA-DELTA-T-CELLS DURING THYMIC
+   ONTOGENY AND IN PERIPHERAL LYMPHOID ORGANS
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+C1 MIT,CTR CANC RES,CAMBRIDGE,MA 02139.
+   ELI LILLY & CO,RES LABS,LA JOLLA,CA 92037.
+   NATL JEWISH CTR,DENVER,CO 80206.
+   MIT,DEPT BIOL,CAMBRIDGE,MA 02139.
+RP ITOHARA, S (reprint author), MIT,HOWARD HUGHES MED INST,CAMBRIDGE,MA 02139, USA.
+RI Itohara, Shigeyoshi/I-8769-2012
+CR BANK I, 1986, NATURE, V322, P179, DOI 10.1038/322179a0
+   BLUESTONE JA, 1987, NATURE, V326, P82, DOI 10.1038/326082a0
+   BONNEVILLE M, 1988, NATURE, V336, P479, DOI 10.1038/336479a0
+   BORST J, 1988, J EXP MED, V167, P1625, DOI 10.1084/jem.167.5.1625
+   BRENNER MB, 1987, NATURE, V325, P689, DOI 10.1038/325689a0
+   BRENNER MB, 1986, NATURE, V322, P145, DOI 10.1038/322145a0
+   BUCY PR, 1989, J IMMUNOL, V142, P3045
+   CHEN CH, 1988, EUR J IMMUNOL, V18, P539, DOI 10.1002/eji.1830180408
+   CHEN CH, 1989, P NATL ACAD SCI USA, V86, P2351, DOI 10.1073/pnas.86.7.2351
+   CHIEN YH, 1987, NATURE, V327, P677, DOI 10.1038/327677a0
+   CRISPE IN, 1986, EUR J IMMUNOL, V16, P1283
+   GOODMAN T, 1988, NATURE, V333, P855, DOI 10.1038/333855a0
+   GREEN EL, 1966, BIOL LABORATORY MOUS, P353
+   HAVRAN WL, 1988, NATURE, V335, P443, DOI 10.1038/335443a0
+   HAYDAY AC, 1985, CELL, V40, P259, DOI 10.1016/0092-8674(85)90140-0
+   HEILIG JS, 1986, NATURE, V322, P836, DOI 10.1038/322836a0
+   HOULDEN BA, 1988, J IMMUNOL, V141, P3753
+   ITO K, 1989, P NATL ACAD SCI USA, V86, P631, DOI 10.1073/pnas.86.2.631
+   JANEWAY CA, 1988, NATURE, V335, P208, DOI 10.1038/335208a0
+   KUBO RT, 1989, J IMMUNOL, V142, P2736
+   KUZIEL WA, 1987, NATURE, V328, P263, DOI 10.1038/328263a0
+   LANE RD, 1985, J IMMUNOL METHODS, V81, P223, DOI 10.1016/0022-1759(85)90207-8
+   LEO O, 1987, P NATL ACAD SCI USA, V84, P1374, DOI 10.1073/pnas.84.5.1374
+   LEW AM, 1986, SCIENCE, V234, P1401, DOI 10.1126/science.3787252
+   MAEDA K, 1987, P NATL ACAD SCI USA, V84, P6536, DOI 10.1073/pnas.84.18.6536
+   NAKANISHI N, 1987, NATURE, V325, P720, DOI 10.1038/325720a0
+   PARDOLL DM, 1987, NATURE, V326, P79, DOI 10.1038/326079a0
+   SAITO H, 1984, NATURE, V309, P757, DOI 10.1038/309757a0
+   SOWDER JT, 1988, J EXP MED, V167, P315, DOI 10.1084/jem.167.2.315
+   STINGL G, 1987, P NATL ACAD SCI USA, V84, P2430, DOI 10.1073/pnas.84.8.2430
+   TAKAGAKI Y, 1989, J IMMUNOL, V142, P2112
+   TONEGAWA S, 1983, NATURE, V302, P575, DOI 10.1038/302575a0
+NR 32
+TC 303
+Z9 304
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL
+PY 1989
+VL 86
+IS 13
+BP 5094
+EP 5098
+DI 10.1073/pnas.86.13.5094
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AE158
+UT WOS:A1989AE15800061
+ER
+
+PT J
+AU TANIMURA, Y
+   SUZUKI, T
+   KUBO, R
+AF TANIMURA, Y
+   SUZUKI, T
+   KUBO, R
+TI 2ND ORDER OPTICAL PROCESS OF A 3-LEVEL SYSTEM IN CONTACT WITH A NEARLY
+   GAUSSIAN-MARKOFFIAN NOISE BATH
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP TANIMURA, Y (reprint author), KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+RI TANIMURA, YOSHITAKA/E-2050-2011
+CR EBERLY JH, 1977, J OPT SOC AM, V67, P1252, DOI 10.1364/JOSA.67.001252
+   FEYNMAN RP, 1963, ANN PHYS-NEW YORK, V24, P118, DOI 10.1016/0003-4916(63)90068-X
+   KUBO R, 1976, LECTURE NOTES PHYSIC, V57, P304
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TANIMURA Y, 1989, J PHYS SOC JPN, V58, P1199, DOI 10.1143/JPSJ.58.1199
+   TANIMURA Y, 1986, J PHYS SOC JPN, V55, P4550, DOI 10.1143/JPSJ.55.4550
+   TANIMURA Y, 1989, J PHYS SOC JPN, V58, P101, DOI 10.1143/JPSJ.58.101
+NR 7
+TC 8
+Z9 8
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD MAY
+PY 1989
+VL 58
+IS 5
+BP 1850
+EP 1859
+DI 10.1143/JPSJ.58.1850
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA AD837
+UT WOS:A1989AD83700050
+ER
+
+PT J
+AU TANIMURA, Y
+   KUBO, R
+AF TANIMURA, Y
+   KUBO, R
+TI 2-TIME CORRELATION-FUNCTIONS OF A SYSTEM COUPLED TO A HEAT BATH WITH A
+   GAUSSIAN-MARKOFFIAN INTERACTION
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP TANIMURA, Y (reprint author), KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+RI TANIMURA, YOSHITAKA/E-2050-2011
+CR Agarwal G S, 1974, SPRINGER TRACTS MODE, V70
+   CHIKAMA T, 1984, J PHYS SOC JPN, V53, P991, DOI 10.1143/JPSJ.53.991
+   FEYNMAN RP, 1963, ANN PHYS-NEW YORK, V24, P118, DOI 10.1016/0003-4916(63)90068-X
+   Mollow B.R., 1969, Physical Review, V188, DOI 10.1103/PhysRev.188.1969
+   MOLLOW BR, 1969, ANN PHYS-NEW YORK, V52, P464, DOI 10.1016/0003-4916(69)90289-9
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   TANIMURA Y, 1986, J PHYS SOC JPN, V55, P4550, DOI 10.1143/JPSJ.55.4550
+   TANIMURA Y, 1989, J PHYS SOC JPN, V58, P101, DOI 10.1143/JPSJ.58.101
+   TANIMURA Y, 1989, IN PRESS J PHYS SOC, V58
+   TSUNETSUGU H, 1986, J PHYS SOC JPN, V55, P3636, DOI 10.1143/JPSJ.55.3636
+NR 11
+TC 21
+Z9 21
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD APR
+PY 1989
+VL 58
+IS 4
+BP 1199
+EP 1206
+DI 10.1143/JPSJ.58.1199
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA U8703
+UT WOS:A1989U870300013
+ER
+
+PT J
+AU UOZUMI, Y
+   OHGAKI, H
+   KUBO, R
+   SAJIMA, T
+   MOTOMURA, T
+   IJIRI, H
+   MATOBA, M
+   KOORI, N
+   SAKAE, T
+AF UOZUMI, Y
+   OHGAKI, H
+   KUBO, R
+   SAJIMA, T
+   MOTOMURA, T
+   IJIRI, H
+   MATOBA, M
+   KOORI, N
+   SAKAE, T
+TI POSITION SENSING WITH MAGIC GAS-MIXTURE IN THE TRANSITION REGION FROM
+   THE PROPORTIONAL TO THE SELF-QUENCHING STREAMER MODE
+SO IEEE TRANSACTIONS ON NUCLEAR SCIENCE
+LA English
+DT Article
+C1 KYUSHU UNIV,FAC ENGN,DEPT NUCL ENGN,FUKUOKA 812,JAPAN.
+RP UOZUMI, Y (reprint author), KYUSHU UNIV,GRAD SCH ENGN SCI,KASUGA,FUKUOKA 816,JAPAN.
+CR ALEKSEEV GD, 1978, NUCL INSTRUM METHODS, V153, P157, DOI 10.1016/0029-554X(78)90632-8
+   ATAC M, 1982, NUCL INSTRUM METHODS, V200, P345, DOI 10.1016/0167-5087(82)90453-7
+   BREHIN S, 1975, NUCL INSTRUM METHODS, V123, P225, DOI 10.1016/0029-554X(75)90003-8
+   KAMETANI H, 1984, JPN J APPL PHYS 2, V23, pL922, DOI 10.1143/JJAP.23.L922
+   KOORI N, 1986, NUCL INSTRUM METH A, V243, P486, DOI 10.1016/0168-9002(86)90985-X
+   OHGAKI H, 1987, IEEE T NUCL SCI, V34, P110, DOI 10.1109/TNS.1987.4337311
+   OHGAKI H, 1986, IEEE T NUCL SCI, V33, P381, DOI 10.1109/TNS.1986.4337124
+   PALLADINO V, 1975, NUCL INSTRUM METHODS, V128, P323, DOI 10.1016/0029-554X(75)90682-5
+NR 8
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9499
+J9 IEEE T NUCL SCI
+JI IEEE Trans. Nucl. Sci.
+PD FEB
+PY 1989
+VL 36
+IS 1
+BP 218
+EP 222
+DI 10.1109/23.34438
+PN Part 1
+PG 5
+WC Engineering, Electrical & Electronic; Nuclear Science & Technology
+SC Engineering; Nuclear Science & Technology
+GA T3775
+UT WOS:A1989T377500044
+ER
+
+PT J
+AU TANIMURA, Y
+   KUBO, R
+AF TANIMURA, Y
+   KUBO, R
+TI TIME EVOLUTION OF A QUANTUM SYSTEM IN CONTACT WITH A NEARLY
+   GAUSSIAN-MARKOFFIAN NOISE BATH
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP TANIMURA, Y (reprint author), KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+RI TANIMURA, YOSHITAKA/E-2050-2011
+CR ANDERSON PW, 1954, J PHYS SOC JPN, V9, P316, DOI 10.1143/JPSJ.9.316
+   CALDEIRA AO, 1983, PHYSICA A, V121, P587, DOI 10.1016/0378-4371(83)90013-4
+   CALDEIRA AO, 1983, ANN PHYS-NEW YORK, V149, P374, DOI 10.1016/0003-4916(83)90202-6
+   FEYNMAN RP, 1963, ANN PHYS-NEW YORK, V24, P118, DOI 10.1016/0003-4916(63)90068-X
+   GRABERT H, 1988, PHYS REP, V168, P115, DOI 10.1016/0370-1573(88)90023-3
+   Kubo R., 1985, STATISTICAL PHYSICS
+   KUBO R, 1957, J PHYS SOC JPN, V12, P570, DOI 10.1143/JPSJ.12.570
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1954, J PHYS SOC JPN, V9, P935, DOI 10.1143/JPSJ.9.935
+   KUBO R, 1969, J PHYS SOC JPN, VS 26, P1
+   Leggett A. J., 1980, PROG THEOR PHYS SUPP, V69, P80, DOI 10.1143/PTPS.69.80
+   MARTINIS JM, 1987, PHYS REV B, V35, P4682, DOI 10.1103/PhysRevB.35.4682
+   MOLLOW BR, 1969, ANN PHYS-NEW YORK, V52, P464, DOI 10.1016/0003-4916(69)90289-9
+   Negele J W, 1987, QUANTUM MANY PARTICL
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TSUNETSUGU H, 1986, J PHYS SOC JPN, V55, P3636, DOI 10.1143/JPSJ.55.3636
+NR 16
+TC 147
+Z9 148
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JAN
+PY 1989
+VL 58
+IS 1
+BP 101
+EP 114
+DI 10.1143/JPSJ.58.101
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA T6166
+UT WOS:A1989T616600022
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI GEOMETRY, HEAT-EQUATION AND PATH-INTEGRALS ON THE POINCARE UPPER
+   HALF-PLANE
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,HIROSHIMA 725,JAPAN.
+CR ALVAREZ O, 1983, NUCL PHYS B, V216, P125, DOI 10.1016/0550-3213(83)90490-X
+   BALAZS NL, 1986, PHYS REP, V143, P109, DOI 10.1016/0370-1573(86)90159-6
+   COURANT R, 1961, METHODS MATH PHYSICS, V1
+   DHOKER E, 1986, COMMUN MATH PHYS, V104, P537, DOI 10.1007/BF01211063
+   DeWitt B.S., 1975, Physics Reports. Physics Letters Section C, V19c, DOI 10.1016/0370-1573(75)90051-4
+   DEWITT BS, 1957, REV MOD PHYS, V29, P377, DOI 10.1103/RevModPhys.29.377
+   DHOKER E, 1986, NUCL PHYS B, V269, P205, DOI 10.1016/0550-3213(86)90372-X
+   DHOKER H, 1986, PHYS REV LETT, V56, P912
+   FRIEDAN D, 1984, RECENT ADV FIELD THE
+   Gardiner C W, 1983, HDB STOCHASTIC METHO
+   GILBERT G, 1986, NUCL PHYS B, V277, P102, DOI 10.1016/0550-3213(86)90434-7
+   Green M. B., 1987, SUPERSTRING THEORY
+   Green M. B., 1986, UNIFIED STRING THEOR
+   HEJHAL DA, 1976, DUKE MATH J, V43, P441, DOI 10.1215/S0012-7094-76-04338-6
+   HEJHAL DA, 1976, LECTURE NOTES MATH, V548
+   Ito K., 1951, MEM AM MATH SOC, V4, P51
+   Kac M, 1959, PROBABILITY RELATED
+   MCKEAN HP, 1972, COMMUN PUR APPL MATH, V25, P225, DOI 10.1002/cpa.3160250302
+   NAMAZIE MA, 1986, NUCL PHYS B, V277, P332, DOI 10.1016/0550-3213(86)90445-1
+   POLCHINSKI J, 1986, COMMUN MATH PHYS, V104, P37, DOI 10.1007/BF01210791
+   POLYAKOV AM, 1981, PHYS LETT B, V103, P207, DOI 10.1016/0370-2693(81)90743-7
+   POLYAKOV AM, 1981, PHYS LETT B, V103, P211, DOI 10.1016/0370-2693(81)90744-9
+   SCHULMAN LS, 1981, TECHNIQUES APPLICATI
+   SCHWARZ JH, 1985, SUPERSTRINGS 1ST 15
+   Selberg A., 1956, J INDIAN MATH SOC, V20, P47
+   STEINER F, 1987, PHYS LETT B, V188, P447, DOI 10.1016/0370-2693(87)91646-7
+   Terras A., 1985, HARMONIC ANAL SYMMET, VI
+   [Anonymous], 1984, GROUPS GEOMETRIC ANA
+NR 28
+TC 6
+Z9 6
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD JAN
+PY 1988
+VL 79
+IS 1
+BP 217
+EP 226
+DI 10.1143/PTP.79.217
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA L8337
+UT WOS:A1988L833700020
+ER
+
+PT J
+AU BORN, W
+   MILES, C
+   WHITE, J
+   OBRIEN, R
+   FREED, JH
+   MARRACK, P
+   KAPPLER, J
+   KUBO, RT
+AF BORN, W
+   MILES, C
+   WHITE, J
+   OBRIEN, R
+   FREED, JH
+   MARRACK, P
+   KAPPLER, J
+   KUBO, RT
+TI PEPTIDE SEQUENCES OF T-CELL RECEPTOR DELTA-CHAIN AND GAMMA-CHAIN ARE
+   IDENTICAL TO PREDICTED X-PROTEINS AND GAMMA-PROTEINS
+SO NATURE
+LA English
+DT Article
+C1 NATL JEWISH CTR IMMUNOL & RESP MED,DEPT MED,DENVER,CO.
+   UNIV COLORADO,HLTH SCI CTR,DEPT BIOCHEM,DENVER,CO 80262.
+   UNIV COLORADO,HLTH SCI CTR,DEPT BIOPHYS & GENET,DENVER,CO 80262.
+   UNIV COLORADO,HLTH SCI CTR,DEPT MICROBIOL & IMMUNOL,DENVER,CO 80262.
+   UNIV COLORADO,HLTH SCI CTR,DEPT MED,DENVER,CO 80262.
+RP BORN, W (reprint author), HOWARD HUGHES MED INST,DENVER,CO 80206, USA.
+CR ACUTO O, 1983, J EXP MED, V158, P1368, DOI 10.1084/jem.158.4.1368
+   ACUTO O, 1984, P NATL ACAD SCI-BIOL, V81, P3851, DOI 10.1073/pnas.81.12.3851
+   ALLISON JP, 1982, J IMMUNOL, V129, P2293
+   BARTH E, 1984, NATURE, V316, P517
+   BECKER DM, 1985, NATURE, V317, P430, DOI 10.1038/317430a0
+   BEHLKE MA, 1986, P NATL ACAD SCI USA, V83, P767, DOI 10.1073/pnas.83.3.767
+   BLUESTONE JA, 1987, NATURE, V326, P82, DOI 10.1038/326082a0
+   BORST J, 1987, NATURE, V325, P683, DOI 10.1038/325683a0
+   BRENNER MB, 1986, NATURE, V322, P145, DOI 10.1038/322145a0
+   CHIEN Y, IN PRESS NATURE
+   CHIEN Y, 1984, NATURE, V312, P31, DOI 10.1038/312031a0
+   CHIEN YH, 1987, NATURE, V327, P677, DOI 10.1038/327677a0
+   GARMAN RD, 1986, CELL, V45, P733, DOI 10.1016/0092-8674(86)90787-7
+   HANNUM CH, 1984, NATURE, V312, P65, DOI 10.1038/312065a0
+   HASKINS K, 1983, J EXP MED, V157, P1149, DOI 10.1084/jem.157.4.1149
+   HAYDAY AC, 1985, CELL, V40, P259, DOI 10.1016/0092-8674(85)90140-0
+   HEDRICK SM, 1984, NATURE, V308, P149, DOI 10.1038/308149a0
+   HEDRICK SM, 1984, NATURE, V308, P153, DOI 10.1038/308153a0
+   IWAMOTO A, 1986, J EXP MED, V163, P1203, DOI 10.1084/jem.163.5.1203
+   Kabat E., 1987, SEQUENCES PROTEINS I
+   KAPPLER J, 1983, CELL, V35, P295, DOI 10.1016/0092-8674(83)90232-5
+   KAPPLER J, 1983, CELL, V34, P727, DOI 10.1016/0092-8674(83)90529-9
+   KONIGSBERG WH, 1983, METHOD ENZYMOL, V91, P254
+   KUBO RT, 1986, MOL IMMUNOL, V23, P869, DOI 10.1016/0161-5890(86)90072-6
+   LEO O, 1987, P NATL ACAD SCI USA, V84, P1374, DOI 10.1073/pnas.84.5.1374
+   LEW AM, 1986, SCIENCE, V234, P1401, DOI 10.1126/science.3787252
+   LINDSTEN T, 1987, J EXP MED, V166, P761, DOI 10.1084/jem.166.3.761
+   MCINTYRE BW, 1983, CELL, V34, P739, DOI 10.1016/0092-8674(83)90530-5
+   MEUER SC, 1983, J EXP MED, V157, P705, DOI 10.1084/jem.157.2.705
+   MEUER SC, 1983, NATURE, V303, P808, DOI 10.1038/303808a0
+   MOINGEON P, 1987, NATURE, V325, P723, DOI 10.1038/325723a0
+   OETTGEN HC, 1986, NATURE, V320, P272, DOI 10.1038/320272a0
+   PARDOLL DM, 1987, NATURE, V326, P79, DOI 10.1038/326079a0
+   SAITO H, 1984, NATURE, V312, P36, DOI 10.1038/312036a0
+   SIM GK, 1984, NATURE, V312, P771
+   Smyth DG, 1967, METHOD ENZYMOL, VXI, P214
+   YANAGI Y, 1984, NATURE, V308, P145, DOI 10.1038/308145a0
+NR 37
+TC 79
+Z9 79
+PU MACMILLAN MAGAZINES LTD
+PI LONDON
+PA PORTERS SOUTH, 4 CRINAN ST, LONDON, ENGLAND N1 9XW
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD DEC 10
+PY 1987
+VL 330
+IS 6148
+BP 572
+EP 574
+DI 10.1038/330572a0
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA L1841
+UT WOS:A1987L184100063
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI PATH INTEGRATION ON THE UPPER HALF-PLANE
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,TAKEHARA 725,JAPAN.
+CR Abers E.S., 1973, Physics Reports. Physics Letters Section C, V9C, DOI 10.1016/0370-1573(73)90027-6
+   ALVAREZ O, 1983, NUCL PHYS B, V216, P125, DOI 10.1016/0550-3213(83)90490-X
+   DHOKER E, 1986, COMMUN MATH PHYS, V104, P537, DOI 10.1007/BF01211063
+   DEWITT BS, 1957, REV MOD PHYS, V29, P377, DOI 10.1103/RevModPhys.29.377
+   DHOKER E, 1986, NUCL PHYS B, V269, P205, DOI 10.1016/0550-3213(86)90372-X
+   DHOKER H, 1986, PHYS REV LETT, V56, P912
+   FEYNMAN RP, 1948, REV MOD PHYS, V20, P367, DOI 10.1103/RevModPhys.20.367
+   FEYNMAN RP, 1965, QUANTUM MECHANICS PA
+   Gardiner C W, 1983, HDB STOCHASTIC METHO
+   GILBERT G, 1986, NUCL PHYS B, V277, P125
+   HEJHAL DA, 1976, DUKE MATH J, V43, P441, DOI 10.1215/S0012-7094-76-04338-6
+   HEJHAL DA, 1976, LECTURE NOTES MATH, V548
+   MCKEAN HP, 1972, COMMUN PUR APPL MATH, V25, P225, DOI 10.1002/cpa.3160250302
+   NAMAZIE MA, 1986, NUCL PHYS B, V277, P332, DOI 10.1016/0550-3213(86)90445-1
+   POLYAKOV AM, 1981, PHYS LETT B, V103, P207, DOI 10.1016/0370-2693(81)90743-7
+   POLYAKOV AM, 1981, PHYS LETT B, V103, P211, DOI 10.1016/0370-2693(81)90744-9
+   SCHULMAN LS, 1981, TECHNIQUES APPLICATI
+   Selberg A., 1956, J INDIAN MATH SOC, V20, P47
+   STEINER F, 1987, PHYS LETT B, V188, P447, DOI 10.1016/0370-2693(87)91646-7
+NR 19
+TC 2
+Z9 2
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD OCT
+PY 1987
+VL 78
+IS 4
+BP 755
+EP 759
+DI 10.1143/PTP.78.755
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA K6913
+UT WOS:A1987K691300008
+ER
+
+PT J
+AU KUBO, R
+   ENDO, T
+   KAMOHARA, S
+   SHIMIZU, M
+   FUJII, M
+   TAKANO, H
+AF KUBO, R
+   ENDO, T
+   KAMOHARA, S
+   SHIMIZU, M
+   FUJII, M
+   TAKANO, H
+TI LONG-TIME SPIN RELAXATION IN ZERO-FIELD
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KUBO, R (reprint author), KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,1-14 HIYOSHI,3-CHOME,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+CR HAYANO RS, 1979, PHYS REV B, V20, P850, DOI 10.1103/PhysRevB.20.850
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1981, HYPERFINE INTERACT, V8, P731, DOI 10.1007/BF01037553
+   KUBO R, 1967, 14TH P C AMP LJUBLJ, P810
+   TOYABE T, 1966, THESIS U TOKYO
+NR 5
+TC 5
+Z9 5
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD MAR
+PY 1987
+VL 56
+IS 3
+BP 1172
+EP 1177
+DI 10.1143/JPSJ.56.1172
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA H6746
+UT WOS:A1987H674600046
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI REMARKS ON THE TIME TRANSFORMATION OF PATH-INTEGRAL MEASURES
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,TAKEHARA,HIROSHIMA 725,JAPAN.
+CR ALBEVERI.S, 1974, J MATH PHYS, V15, P1745, DOI 10.1063/1.1666536
+   ALBEVERIO SA, 1976, LECT NOTES MATH, V523, P1
+   BEREZIN FA, 1966, METHOD 2ND QUANTIZAT
+   FINKELSTEIN R, 1986, PHYS REV D, V33, P1666, DOI 10.1103/PhysRevD.33.1666
+   FUJIKAWA K, 1980, PHYS REV D, V21, P2848, DOI 10.1103/PhysRevD.21.2848
+   FUJIKAWA K, 1979, PHYS REV LETT, V42, P1195, DOI 10.1103/PhysRevLett.42.1195
+   FUJIKAWA K, 1980, PHYS REV LETT, V44, P1733, DOI 10.1103/PhysRevLett.44.1733
+   INOMATA A, 1986, PATH INTEGRALS MEV M
+   Kac M, 1959, PROBABILITY RELATED
+   Risken H., 1984, FOKKERPLANCK EQUATIO
+   SCHULMAN LS, 1981, TECHNIQUES APPLICATI
+NR 11
+TC 1
+Z9 1
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD FEB
+PY 1987
+VL 77
+IS 2
+BP 201
+EP 205
+DI 10.1143/PTP.77.201
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA G2466
+UT WOS:A1987G246600004
+ER
+
+PT J
+AU TANIMURA, Y
+   TAKANO, H
+   KUBO, R
+AF TANIMURA, Y
+   TAKANO, H
+   KUBO, R
+TI 2ND-ORDER OPTICAL PROCESS OF A RANDOMLY MODULATED MULTILEVEL ATOM
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP TANIMURA, Y (reprint author), KEIO UNIV,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+RI TANIMURA, YOSHITAKA/E-2050-2011
+CR HUBER DL, 1969, PHYS REV, V178, P93, DOI 10.1103/PhysRev.178.93
+   HUBER DL, 1968, PHYS REV, V170, P418, DOI 10.1103/PhysRev.170.418
+   HUBER DL, 1967, PHYS REV, V158, P843, DOI 10.1103/PhysRev.158.843
+   HUBER DL, 1970, PHYS REV B, V1, P3409, DOI 10.1103/PhysRevB.1.3409
+   KOTANI A, 1976, J PHYS SOC JPN, V41, P1699, DOI 10.1143/JPSJ.41.1699
+   KUBO R, 1976, PHYSICS HIGHLY EXCIT, P304
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1985, PURE APPL CHEM, V57, P201, DOI 10.1351/pac198557020201
+   MUKAMEL S, 1977, J CHEM PHYS, V66, P2462, DOI 10.1063/1.434242
+   MUKAMEL S, 1979, J CHEM PHYS, V71, P2884, DOI 10.1063/1.438689
+   MUKAMEL S, 1975, PHYS REV A, V12, P947, DOI 10.1103/PhysRevA.12.947
+   NITZAN A, 1972, J CHEM PHYS, V57, P2870, DOI 10.1063/1.1678679
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P742, DOI 10.1143/JPSJ.44.742
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P728, DOI 10.1143/JPSJ.44.728
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P1522, DOI 10.1143/JPSJ.43.1522
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   TAKAGAWARA T, 1976, THESIS U TOKYO
+   TOYOZAWA Y, 1976, J PHYS SOC JPN, V41, P400, DOI 10.1143/JPSJ.41.400
+NR 19
+TC 7
+Z9 7
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD DEC
+PY 1986
+VL 55
+IS 12
+BP 4550
+EP 4565
+DI 10.1143/JPSJ.55.4550
+PG 16
+WC Physics, Multidisciplinary
+SC Physics
+GA G6990
+UT WOS:A1986G699000052
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI BROWNIAN-MOTION AND NONEQUILIBRIUM STATISTICAL-MECHANICS
+SO SCIENCE
+LA English
+DT Article
+C1 UNIV TOKYO,ANAT 2,TOKYO 113,JAPAN.
+RP KUBO, R (reprint author), KEIO UNIV,FAC SCI & TECHNOL,3-14-1 HIYOSHI,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+CR ABRIKOSOV AA, 1963, METHOD QUANTUM FIELD
+   ANDERSON PW, 1953, REV MOD PHYS, V25, P269, DOI 10.1103/RevModPhys.25.269
+   Balescu R., 1975, EQUILIBRIUM NONEQUIL
+   BLOEMBERGEN N, 1948, PHYS REV, V73, P679, DOI 10.1103/PhysRev.73.679
+   BOLTZMANN LE, 1912, VORLESUNGEN GASTHEOR
+   Brown R., 1828, PHILOS MAG, V4, P161, DOI DOI 10.1080/14786442808674769
+   CALLEN HB, 1952, PHYS REV, V86, P702, DOI 10.1103/PhysRev.86.702
+   de Groot S.R., 1962, NONEQUILIBRIUM THERM
+   Einstein A, 1906, ANN PHYS-BERLIN, V19, P371
+   Einstein A, 1905, ANN PHYS-BERLIN, V17, P891
+   Einstein A, 1905, ANN PHYS-BERLIN, V17, P132
+   FURTH R, 1956, INVESTIGATION THEORY
+   Green H. S, 1952, MOL THEORY FLUIDS
+   GREEN MS, 1952, J CHEM PHYS, V20, P1281, DOI 10.1063/1.1700722
+   GREEN MS, 1954, J CHEM PHYS, V22, P398
+   HAYANO RS, 1979, PHYS REV B, V20, P850, DOI 10.1103/PhysRevB.20.850
+   KUBO R, 1955, PROG THEOR PHYS, V13, P160, DOI 10.1143/PTP.13.160
+   Kubo R., 1967, MAGNETIC RESONANCE R, P810
+   KUBO R, 1957, J PHYS SOC JPN, V12, P570, DOI 10.1143/JPSJ.12.570
+   Kubo R., 1965, Solid State Physics, V17
+   KUBO R, 1966, REP PROG PHYS, V29, P255, DOI 10.1088/0034-4885/29/1/306
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1979, SOLID STATE COMMUN, V32, P1, DOI 10.1016/0038-1098(79)90986-4
+   KUBO R, 1959, J PHYS SOC JPN, V14, P56, DOI 10.1143/JPSJ.14.56
+   KUBO R, 1954, 1953 P INT C THEOR P
+   KUBO R, 1952, PHYS REV, V86, P929, DOI 10.1103/PhysRev.86.929
+   KUBO R, 1954, J PHYS SOC JPN, V9, P888, DOI 10.1143/JPSJ.9.888
+   Kubo R., 1985, STAT PHYS
+   MORI H, 1965, PROG THEOR PHYS, V33, P424
+   Nyquist H, 1928, PHYS REV, V32, P110, DOI 10.1103/PhysRev.32.110
+   Onsager L, 1931, PHYS REV, V38, P2265, DOI 10.1103/PhysRev.38.2265
+   Onsager L, 1931, PHYS REV, V37, P405, DOI 10.1103/PhysRev.37.405
+   Prigogine I., 1961, INTRO THERMODYNAMICS
+   RICHAYZEN G, 1980, GREENS FUNCTIONS CON
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P742, DOI 10.1143/JPSJ.44.742
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P728, DOI 10.1143/JPSJ.44.728
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P1522, DOI 10.1143/JPSJ.43.1522
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   TAKAHASI H, 1952, J PHYS SOC JPN, V7, P439, DOI 10.1143/JPSJ.7.439
+   VANKAMPE.NG, 1971, PHYS NORV, V5, P279
+NR 41
+TC 45
+Z9 45
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUL 18
+PY 1986
+VL 233
+IS 4761
+BP 330
+EP 334
+DI 10.1126/science.233.4761.330
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA D1257
+UT WOS:A1986D125700030
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI 5-DIMENSIONAL FORMULATION OF QUANTUM-FIELD THEORY WITH AN INVARIANT
+   PARAMETER
+SO NUOVO CIMENTO DELLA SOCIETA ITALIANA DI FISICA A-NUCLEI PARTICLES AND
+   FIELDS
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV, THEORET PHYS RES INST, HIROSHIMA 725, JAPAN.
+CR Barut A. O., 1964, ELECTRODYNAMICS CLAS
+   BARUT AO, 1978, PHYS LETT B, V73, P310, DOI 10.1016/0370-2693(78)90522-1
+   COOKE JH, 1968, PHYS REV, V166, P1293, DOI 10.1103/PhysRev.166.1293
+   DAVIDON WC, 1955, PHYS REV, V97, P1131, DOI 10.1103/PhysRev.97.1131
+   DAVIDON WC, 1961, NUOVO CIMENTO, V20, P1090
+   ENATSU H, 1963, PROG THEOR PHYS, V30, P236, DOI 10.1143/PTP.30.236
+   FANCHI JR, 1979, PHYS REV D, V20, P3108, DOI 10.1103/PhysRevD.20.3108
+   FEYNMAN RP, 1950, PHYS REV, V80, P440, DOI 10.1103/PhysRev.80.440
+   FEYNMAN RP, 1951, PHYS REV, V84, P108, DOI 10.1103/PhysRev.84.108
+   Fock V., 1937, Physikalische Zeitschrift der Sowjetunion, V12
+   GREENBER.DM, 1970, J MATH PHYS, V11, P2341, DOI 10.1063/1.1665401
+   GREENBER.DM, 1970, J MATH PHYS, V11, P2329, DOI 10.1063/1.1665400
+   GREENBER.DM, 1974, J MATH PHYS, V15, P395, DOI 10.1063/1.1666658
+   GREENBER.DM, 1974, J MATH PHYS, V15, P406, DOI 10.1063/1.1666659
+   HORWITZ LP, 1982, PHYS REV D, V26, P819, DOI 10.1103/PhysRevD.26.819
+   HORWITZ LP, 1975, HELV PHYS ACTA, V48, P546
+   HOSTLER L, 1980, J MATH PHYS, V21, P2461, DOI 10.1063/1.524683
+   HOSTLER L, 1981, J MATH PHYS, V22, P2307, DOI 10.1063/1.524767
+   NAMBU Y, 1950, PROG THEOR PHYS, V5, P82
+   NAMBU Y, 1952, PROG THEOR PHYS, V7, P595, DOI 10.1143/PTP.7.595
+   NISHIJIMA K, 1969, FIELDS PARTICLES
+   PIRON C, 1978, HELV PHYS ACTA, V51, P146
+   REUSE F, 1978, HELV PHYS ACTA, V51, P157
+   SCHWINGER J, 1951, PHYS REV, V82, P664, DOI 10.1103/PhysRev.82.664
+   Stuckelberg E., 1942, HELV PHYS ACTA, V15, P23
+   Stuckelberg E. C. G., 1941, HELV PHYS ACTA, V14, P322
+NR 26
+TC 22
+Z9 22
+PU EDITRICE COMPOSITORI BOLOGNA
+PI BOLOGNA
+PA VIA STALINGRADO 97/2, I-40128 BOLOGNA, ITALY
+SN 1124-1861
+J9 NUOVO CIMENTO A
+JI Nuovo Cimento Soc. Ital. Fis. A-Nucl. Part. Fields
+PY 1985
+VL 85
+IS 4
+BP 293
+EP 309
+DI 10.1007/BF02902737
+PG 17
+WC Physics, Particles & Fields
+SC Physics
+GA AFR79
+UT WOS:A1985AFR7900001
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI RELATION BETWEEN THE KULISH-FADDEEV MODEL AND THE GRAMMER-YENNIE
+   PERTURBATION-THEORY IN THE INFRARED PROBLEM IN QUANTUM ELECTRODYNAMICS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,HIROSHIMA 725,JAPAN.
+CR ABRIKOSOV AA, 1956, SOV PHYS JETP-USSR, V3, P71
+   ALTES CPK, 1976, NUCL PHYS B, V106, P237
+   Bloch F, 1937, PHYS REV, V52, P54, DOI 10.1103/PhysRev.52.54
+   BOGOLJUBOV NN, 1956, NUOVO CIMENTO, V3, P845, DOI 10.1007/BF02823486
+   FRADKIN ES, QUANTUM FIELD THEORY, V29, P1
+   FRADKIN ES, 1966, NUCL PHYS, V76, P588, DOI 10.1016/0029-5582(66)90200-8
+   Fried H. M., 1972, FUNCTIONAL METHODS M
+   GRAMMER G, 1973, PHYS REV D, V8, P4332, DOI 10.1103/PhysRevD.8.4332
+   HARADA K, 1981, NUCL PHYS B, V191, P181, DOI 10.1016/0550-3213(81)90294-7
+   JOHNSON K, 1959, PHYS REV LETT, V3, P351, DOI 10.1103/PhysRevLett.3.351
+   KUBO R, 1981, PROG THEOR PHYS, V66, P1816, DOI 10.1143/PTP.66.1816
+   Kulish P. P., 1971, THEOR MATH PHYS, V4, P745, DOI 10.1007/BF01066485
+   LEHMANN H, 1955, NUOVO CIMENTO, V1, P205, DOI 10.1007/BF02731765
+   POPOV VN, 1977, CERN TH2424 PREPR
+   SOLOVIEV LD, 1963, JETP, V17, P209
+   STAPP HP, 1983, PHYS REV D, V28, P1386, DOI 10.1103/PhysRevD.28.1386
+   SWANSON MS, 1982, PHYS REV D, V25, P2086, DOI 10.1103/PhysRevD.25.2086
+   YENNIE DR, 1961, ANN PHYS-NEW YORK, V13, P379, DOI 10.1016/0003-4916(61)90151-8
+   ZWANZIGER D, 1975, PHYS REV D, V11, P3504, DOI 10.1103/PhysRevD.11.3504
+   ZWANZIGER D, 1975, PHYS REV D, V11, P3481, DOI 10.1103/PhysRevD.11.3481
+NR 20
+TC 2
+Z9 2
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1985
+VL 73
+IS 5
+BP 1235
+EP 1244
+DI 10.1143/PTP.73.1235
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA AKA72
+UT WOS:A1985AKA7200014
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI INTERMEDIATE STATE INTERACTIONS IN OPTICAL PROCESSES
+SO PURE AND APPLIED CHEMISTRY
+LA English
+DT Article
+RP KUBO, R (reprint author), KEIO UNIV, FAC SCI & TECHNOL, DEPT PHYS, 3-14-1 HIYOSHI, KOHOKU KU, YOKOHAMA, KANAGAWA 223, JAPAN.
+CR GRABERT H, 1982, SPRINGER TR MOD PHYS, V95, pR7
+   Heitler W., 1954, QUANTUM THEORY RAD
+   HUBER DL, 1969, PHYS REV, V178, P93, DOI 10.1103/PhysRev.178.93
+   HUBER DL, 1968, PHYS REV, V170, P418, DOI 10.1103/PhysRev.170.418
+   HUBER DL, 1967, PHYS REV, V158, P843, DOI 10.1103/PhysRev.158.843
+   HUBER DL, 1970, PHYS REV B, V1, P3409, DOI 10.1103/PhysRevB.1.3409
+   KOTANI A, 1976, J PHYS SOC JPN, V41, P1699, DOI 10.1143/JPSJ.41.1699
+   KUBO R, 1976, PHYSICS HIGHLY EXCIT, P304
+   KUBO R, 1957, J PHYS SOC JPN, V12, P570, DOI 10.1143/JPSJ.12.570
+   KUBO R, UNPUB
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1954, J PHYS SOC JPN, V9, P935, DOI 10.1143/JPSJ.9.935
+   KUBO R, 1979, SOLID STATE COMMUN, V33, P1
+   Mollow B.R., 1969, Physical Review, V188, DOI 10.1103/PhysRev.188.1969
+   MUKAMEL S, 1977, J CHEM PHYS, V66, P2462, DOI 10.1063/1.434242
+   MUKAMEL S, 1979, J CHEM PHYS, V71, P2884, DOI 10.1063/1.438689
+   MUKAMEL S, 1975, PHYS REV A, V12, P947, DOI 10.1103/PhysRevA.12.947
+   NAKAJIMA S, 1958, PROG THEOR PHYS, V20, P948, DOI 10.1143/PTP.20.948
+   NITZAN A, 1972, J CHEM PHYS, V57, P2870, DOI 10.1063/1.1678679
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P742, DOI 10.1143/JPSJ.44.742
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P728, DOI 10.1143/JPSJ.44.728
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P1522, DOI 10.1143/JPSJ.43.1522
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   TAKAGAWARA T, 1976, THESIS U TOKYO
+   TOYOZAWA Y, 1976, J PHYS SOC JPN, V41, P400, DOI 10.1143/JPSJ.41.400
+   ZWANZIG R, 1961, PHYS REV, V124, P983, DOI 10.1103/PhysRev.124.983
+   ZWANZIG R, 1960, J CHEM PHYS, V33, P1338, DOI 10.1063/1.1731409
+NR 28
+TC 12
+Z9 12
+PU INT UNION PURE APPLIED CHEMISTRY
+PI RES TRIANGLE PK
+PA 104 TW ALEXANDER DR, PO BOX 13757, RES TRIANGLE PK, NC 27709-3757 USA
+SN 0033-4545
+J9 PURE APPL CHEM
+JI Pure Appl. Chem.
+PY 1985
+VL 57
+IS 2
+BP 201
+EP 213
+DI 10.1351/pac198557020201
+PG 13
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA ABC47
+UT WOS:A1985ABC4700004
+ER
+
+PT J
+AU CHIKAMA, T
+   SAIKAWA, K
+   KUBO, R
+AF CHIKAMA, T
+   SAIKAWA, K
+   KUBO, R
+TI OPTICAL-RESPONSE OF A RANDOMLY MODULATED 2-LEVEL ATOM
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT PHYS,TOKYO 113,JAPAN.
+   KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,YOKOHAMA,KANAGAWA 223,JAPAN.
+   SHINSHU UNIV,FAC SCI,DEPT PHYS,MATSUMOTO,NAGANO 390,JAPAN.
+CR COHENTANNOUDJI C, 1977, J PHYS B-AT MOL OPT, V10, P345, DOI 10.1088/0022-3700/10/3/005
+   COHENTANNOUDJI C, 1977, J PHYS B-AT MOL OPT, V10, P365, DOI 10.1088/0022-3700/10/3/006
+   GROVE RE, 1977, PHYS REV A, V35, P227
+   HANAMURA E, 1983, J PHYS SOC JPN, V52, P2258, DOI 10.1143/JPSJ.52.2258
+   HANAMURA E, 1983, J PHYS SOC JPN, V52, P2267, DOI 10.1143/JPSJ.52.2267
+   Hartig W., 1973, Applied Physics, V1, DOI 10.1007/BF00889549
+   HARTIG W, 1976, Z PHYS A-HADRON NUCL, V278, P205, DOI 10.1007/BF01409169
+   HAYANO RS, 1979, PHYS REV B, V20, P850, DOI 10.1103/PhysRevB.20.850
+   KIMBLE HJ, 1976, PHYS REV A, V13, P2123, DOI 10.1103/PhysRevA.13.2123
+   Kubo R., 1967, MAGNETIC RESONANCE R, P810
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1979, SOLID STATE COMMUN, V32, P1, DOI 10.1016/0038-1098(79)90986-4
+   Kubo R., 1962, FLUCTUATION RELAXATI
+   KUBO R, 1963, J MATH PHYS, V4, P174, DOI 10.1063/1.1703941
+   KUSHIDA T, 1979, SOLID STATE COMMUN, V32, P33, DOI 10.1016/0038-1098(79)90992-X
+   KUSHIDA T, 1979, SOLID STATE COMMUN, V32, P209, DOI 10.1016/0038-1098(79)90123-6
+   Mollow B.R., 1969, Physical Review, V188, DOI 10.1103/PhysRev.188.1969
+   MOLLOW BR, 1975, PHYS REV A, V12, P1919, DOI 10.1103/PhysRevA.12.1919
+   SCHUDA F, 1974, J PHYS B-AT MOL OPT, V7, pL198, DOI 10.1088/0022-3700/7/7/002
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P1522, DOI 10.1143/JPSJ.43.1522
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   WU FY, 1975, PHYS REV LETT, V35, P1426, DOI 10.1103/PhysRevLett.35.1426
+   ZAIDI HR, 1981, CAN J PHYS, V59, P737
+NR 24
+TC 4
+Z9 4
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1984
+VL 53
+IS 3
+BP 991
+EP 1000
+DI 10.1143/JPSJ.53.991
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA SQ167
+UT WOS:A1984SQ16700021
+ER
+
+PT J
+AU KITAGAWA, S
+   ENDO, J
+   KUBO, R
+   KAMETANI, F
+AF KITAGAWA, S
+   ENDO, J
+   KUBO, R
+   KAMETANI, F
+TI INHIBITORY EFFECTS OF 4,4'-DIISOTHIOCYANOSTILBENE-2,2'-DISULFONATE(DIDS)
+   ON THE ADP-STIMULATED AGGREGATION OF GEL-FILTERED BOVINE BLOOD-PLATELETS
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+RP KITAGAWA, S (reprint author), UNIV TOKUSHIMA,FAC PHARMACEUT SCI,TOKUSHIMA 770,JAPAN.
+CR BORN GVR, 1964, J PHYSIOL-LONDON, V170, P397
+   CABANTCH.ZI, 1972, J MEMBRANE BIOL, V10, P311, DOI 10.1007/BF01867863
+   CABANTCHIK ZI, 1978, BIOCHIM BIOPHYS ACTA, V515, P239
+   CHARO IF, 1977, J CLIN INVEST, V60, P866, DOI 10.1172/JCI108841
+   DETWILER TC, 1973, BIOCHEMISTRY-US, V12, P2462, DOI 10.1021/bi00737a015
+   FEINBERG H, 1977, BIOCHIM BIOPHYS ACTA, V470, P317, DOI 10.1016/0005-2736(77)90109-2
+   FEINMAN RD, 1977, J LAB CLIN MED, V90, P125
+   GREIL W, 1972, FEBS LETT, V26, P271, DOI 10.1016/0014-5793(72)80590-8
+   IMANDT L, 1980, HAEMOSTASIS, V9, P276
+   KITAGAWA S, 1982, BIOCHEM BIOPH RES CO, V104, P1371, DOI 10.1016/0006-291X(82)91401-2
+   NIGGLI V, 1982, FEBS LETT, V138, P164, DOI 10.1016/0014-5793(82)80432-8
+   OWEN NE, 1980, AM J PHYSIOL, V239, pH483
+   PAZOLES CJ, 1978, J BIOL CHEM, V253, P3962
+   POLLARD HB, 1977, P NATL ACAD SCI USA, V74, P5295, DOI 10.1073/pnas.74.12.5295
+   SHIP S, 1977, J MEMBRANE BIOL, V33, P311, DOI 10.1007/BF01869522
+   Shulman N R, 1978, Trans Assoc Am Physicians, V91, P104
+   TANGEN O, 1971, THROMB DIATH HAEMOST, V25, P268
+   WAISMAN DM, 1981, J BIOL CHEM, V256, P420
+NR 18
+TC 7
+Z9 7
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PY 1983
+VL 111
+IS 1
+BP 306
+EP 311
+DI 10.1016/S0006-291X(83)80152-1
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA QF898
+UT WOS:A1983QF89800045
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI FLUCTUATION, RESPONSE, AND RELAXATION - THE LINEAR RESPONSE THEORY
+   REVISITED
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article
+RP KUBO, R (reprint author), KEIO UNIV,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+CR CALLEN HB, 1951, PHYS REV, V83, P34, DOI 10.1103/PhysRev.83.34
+   GIBBS W, 1902, ELEMENTARY PRINCIPLE, pCH7
+   GREEN MS, 1952, J CHEM PHYS, V20, P1281, DOI 10.1063/1.1700722
+   KUBO R, 1957, J PHYS SOC JPN, V12, P1203, DOI 10.1143/JPSJ.12.1203
+   KUBO R, 1957, J PHYS SOC JPN, V12, P570, DOI 10.1143/JPSJ.12.570
+   KUBO R, 1966, REP PROG PHYS, V29, P255, DOI 10.1088/0034-4885/29/1/306
+   KUBO R, 1954, J PHYS SOC JPN, V9, P888, DOI 10.1143/JPSJ.9.888
+   TAKAHASI H, 1952, J PHYS SOC JPN, V7, P439, DOI 10.1143/JPSJ.7.439
+NR 8
+TC 3
+Z9 3
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0020-7608
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PY 1982
+SU 16
+BP 25
+EP 32
+PG 8
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Physics, Atomic, Molecular & Chemical
+SC Chemistry; Mathematics; Physics
+GA PQ596
+UT WOS:A1982PQ59600005
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI A STOCHASTIC-THEORY OF SPIN RELAXATION
+SO HYPERFINE INTERACTIONS
+LA English
+DT Article
+RP KUBO, R (reprint author), KYOTO UNIV,RES INST FUNDAMENTAL PHYS,KYOTO 606,JAPAN.
+CR ANDERSON PW, 1954, J PHYS SOC JPN, V9, P316, DOI 10.1143/JPSJ.9.316
+   ANDERSON PW, 1953, REV MOD PHYS, V25, P269, DOI 10.1103/RevModPhys.25.269
+   FIORY AT, 1981, HYPERFINE INTERACT, V8, P777, DOI 10.1007/BF01037561
+   HAYANO RS, 1979, PHYS REV B, V20, P19
+   KEHR KW, 1978, Z PHYS B CON MAT, V32, P49, DOI 10.1007/BF01322186
+   Kubo R., 1966, MAGNETIC RESONANCE R, P810
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1979, SOLID STATE COMMUN, V32, P1, DOI 10.1016/0038-1098(79)90986-4
+   KUBO R, 1954, J PHYS SOC JPN, V9, P935, DOI 10.1143/JPSJ.9.935
+   SCHENCK A, 1976, NUCLEAR PARTICLE PHY, P159
+   WALSTEDT RE, 1974, PHYS REV B, V9, P4857, DOI 10.1103/PhysRevB.9.4857
+   Wang M.C., 1945, Reviews of Modern Physics, V17, DOI 10.1103/RevModPhys.17.323
+NR 12
+TC 82
+Z9 82
+PU BALTZER SCI PUBL BV
+PI AMSTERDAM
+PA ASTERWEG 1A, 1031 HL AMSTERDAM, NETHERLANDS
+SN 0304-3843
+J9 HYPERFINE INTERACT
+JI Hyperfine Interact.
+PY 1981
+VL 8
+IS 4-6
+BP 731
+EP 738
+DI 10.1007/BF01037553
+PG 8
+WC Physics, Atomic, Molecular & Chemical; Physics, Condensed Matter;
+   Physics, Nuclear
+SC Physics
+GA LH591
+UT WOS:A1981LH59100069
+ER
+
+PT J
+AU HARADA, K
+   KUBO, R
+AF HARADA, K
+   KUBO, R
+TI INFRARED SINGULARITY IN THE ELECTRON PROPAGATOR IN QUANTUM
+   ELECTRODYNAMICS
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+RP HARADA, K (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,TAKEHARA,HIROSHIMA 725,JAPAN.
+CR ABRIKOSOV AA, 1956, SOV PHYS JETP-USSR, V3, P71
+   Bloch F, 1937, PHYS REV, V52, P54, DOI 10.1103/PhysRev.52.54
+   BOGOLIUBOV NN, 1959, INTRO THEORY QUANTIZ, P503
+   BOGOLJUBOV NN, 1956, NUOVO CIMENTO, V3, P845, DOI 10.1007/BF02823486
+   FRADKIN ES, QUANTUM FIELD THEORY, V29, P1
+   FRADKIN ES, 1966, NUCL PHYS, V76, P588, DOI 10.1016/0029-5582(66)90200-8
+   Fried H. M., 1972, FUNCTIONAL METHODS M
+   GRAMMER G, 1973, PHYS REV D, V8, P4332, DOI 10.1103/PhysRevD.8.4332
+   HAGEN CR, 1963, PHYS REV, V130, P813, DOI 10.1103/PhysRev.130.813
+   JOHNSON K, 1959, PHYS REV LETT, V3, P351, DOI 10.1103/PhysRevLett.3.351
+   KIBBLE TWB, 1968, J MATH PHYS, V9, P315, DOI 10.1063/1.1664582
+   KIBBLE TWB, 1968, PHYS REV, V173, P1527, DOI 10.1103/PhysRev.173.1527
+   KIBBLE TWB, 1968, PHYS REV, V174, P1882, DOI 10.1103/PhysRev.174.1882
+   KIBBLE TWB, 1968, PHYS REV, V175, P1624, DOI 10.1103/PhysRev.175.1624
+   Korthals Altes C.P., 1976, Nuclear Physics B, VB106, DOI 10.1016/0550-3213(76)90380-1
+   Kulish P. P., 1971, THEOR MATH PHYS, V4, P745, DOI 10.1007/BF01066485
+   POPOV VN, 1977, CERN TH2424 PREPR
+   SOLOVIEV LD, 1963, JETP, V17, P209
+   SVIDZINSKII AV, 1957, JETP SOV PHYS, V4, P179
+   YENNIE DR, 1961, ANN PHYS-NEW YORK, V13, P379, DOI 10.1016/0003-4916(61)90151-8
+   ZWANZIGER D, 1975, PHYS REV D, V11, P3504, DOI 10.1103/PhysRevD.11.3504
+   ZWANZIGER D, 1975, PHYS REV D, V11, P3481, DOI 10.1103/PhysRevD.11.3481
+NR 22
+TC 7
+Z9 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PY 1981
+VL 191
+IS 1
+BP 181
+EP 188
+DI 10.1016/0550-3213(81)90294-7
+PG 8
+WC Physics, Particles & Fields
+SC Physics
+GA MP328
+UT WOS:A1981MP32800012
+ER
+
+PT J
+AU KUBO, R
+AF KUBO, R
+TI INFRARED PHASE-FACTORS IN QUANTUM ELECTRODYNAMICS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP KUBO, R (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,HIROSHIMA 725,JAPAN.
+CR Bloch F, 1937, PHYS REV, V52, P54, DOI 10.1103/PhysRev.52.54
+   Bogoliubov N.N., 1959, INTRO THEORY QUANTIZ
+   FRADKIN ES, 1960, QUANTUM FIELD THEORY, V29, P1
+   FRADKIN ES, 1966, NUCL PHYS, V76, P588, DOI 10.1016/0029-5582(66)90200-8
+   GRAMMER G, 1973, PHYS REV D, V8, P4332, DOI 10.1103/PhysRevD.8.4332
+   HARADA K, 1981, NUCL PHYS B, V191, P181, DOI 10.1016/0550-3213(81)90294-7
+   KINOSHITA T, 1950, PROG THEOR PHYS, V5, P1045
+   Korthals Altes C.P., 1976, Nuclear Physics B, VB106, DOI 10.1016/0550-3213(76)90380-1
+   Kulish P. P., 1971, THEOR MATH PHYS, V4, P745, DOI 10.1007/BF01066485
+   NAKANISHI N, 1958, PROG THEOR PHYS, V19, P159, DOI 10.1143/PTP.19.159
+   YENNIE DR, 1961, ANN PHYS-NEW YORK, V13, P379, DOI 10.1016/0003-4916(61)90151-8
+   ZWANZIGER D, 1975, PHYS REV D, V11, P3504, DOI 10.1103/PhysRevD.11.3504
+   ZWANZIGER D, 1975, PHYS REV D, V11, P3481, DOI 10.1103/PhysRevD.11.3481
+NR 13
+TC 4
+Z9 4
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1981
+VL 66
+IS 5
+BP 1816
+EP 1826
+DI 10.1143/PTP.66.1816
+PG 11
+WC Physics, Multidisciplinary
+SC Physics
+GA MT795
+UT WOS:A1981MT79500022
+ER
+
+PT J
+AU MATSUDA, H
+   KUBO, R
+AF MATSUDA, H
+   KUBO, R
+TI GAUGE INDEPENDENCE OF TRANSITION AMPLITUDES IN QUANTUM ELECTRODYNAMICS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP MATSUDA, H (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,HIROSHIMA 725,JAPAN.
+CR BIALYNIC.I, 1967, PHYS REV, V155, P1414, DOI 10.1103/PhysRev.155.1414
+   Bialynicki-Birula I., 1970, Physical Review D (Particles and Fields), V2, DOI 10.1103/PhysRevD.2.2877
+   BLEULER K, 1950, HELV PHYS ACTA, V23, P567
+   CVITANOVIC P, 1976, PHYS REV LETT, V37, P1528, DOI 10.1103/PhysRevLett.37.1528
+   FEYNMAN RP, 1949, PHYS REV, V76, P769, DOI 10.1103/PhysRev.76.769
+   FUKUDA T, RRK7822
+   GUPTA SN, 1950, P PHYS SOC LOND A, V63, P681, DOI 10.1088/0370-1298/63/7/301
+   JOHNSON K, 1959, PHYS REV LETT, V3, P351, DOI 10.1103/PhysRevLett.3.351
+   LANDAU LD, 1956, SOV PHYS JETP-USSR, V2, P69
+   Landau L.D., 1954, Doklady Akademii Nauk SSSR, V95
+   LAUTRUP B, 1976, NUCL PHYS B, V105, P23, DOI 10.1016/0550-3213(76)90058-4
+   Lautrup B, 1967, K DAN VIDENSK SELSK, V35, P1
+   LEHMANN H, 1957, NUOVO CIMENTO, V6, P319, DOI 10.1007/BF02832508
+   LEHMANN H, 1955, NUOVO CIMENTO, V1, P1425
+   NAKANISHI N, 1974, PROG THEOR PHYS, V52, P1929, DOI 10.1143/PTP.52.1929
+   NAKANISH.N, 1966, PROG THEOR PHYS, V35, P1111, DOI 10.1143/PTP.35.1111
+   STROCCHI F, 1974, J MATH PHYS, V15, P2198, DOI 10.1063/1.1666601
+   STROCCHI F, 1967, PHYS REV, V162, P1429, DOI 10.1103/PhysRev.162.1429
+   Tatur S., 1970, Acta Physica Polonica A, VA37
+   YOKOYAMA K, 1974, PROG THEOR PHYS, V51, P1956, DOI 10.1143/PTP.51.1956
+   YOKOYAMA K, 1978, PROG THEOR PHYS, V59, P1699, DOI 10.1143/PTP.59.1699
+   YOKOYAMA K, 1974, PROG THEOR PHYS, V52, P290, DOI 10.1143/PTP.52.290
+   YOKOYAMA K, 1978, PHYS LETT B, V79, P79, DOI 10.1016/0370-2693(78)90440-9
+   ZWANZIGER D, 1978, PHYS REV D, V17, P457, DOI 10.1103/PhysRevD.17.457
+NR 24
+TC 2
+Z9 2
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1980
+VL 63
+IS 1
+BP 275
+EP 286
+DI 10.1143/PTP.63.275
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA JF703
+UT WOS:A1980JF70300025
+ER
+
+PT J
+AU FUKUDA, T
+   KUBO, R
+   YOKOYAMA, K
+AF FUKUDA, T
+   KUBO, R
+   YOKOYAMA, K
+TI POSSIBLE SITUATION FOR GAUGE INDEPENDENCE OF WAVEFUNCTION
+   RENORMALIZATION-CONSTANTS IN GAUGE-FIELD THEORIES
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP FUKUDA, T (reprint author), HIROSHIMA UNIV,THEORET PHYS RES INST,HIROSHIMA 725,JAPAN.
+CR Abers E.S., 1973, Physics Reports. Physics Letters Section C, V9C, DOI 10.1016/0370-1573(73)90027-6
+   BOGOLIUBOV NN, 1959, INTRO THEORY QUANTIZ, P403
+   FRIED HM, 1958, PHYS REV, V112, P1391, DOI 10.1103/PhysRev.112.1391
+   Gelfand I. M., 1964, GENERALIZED FUNCTION, V1
+   GROSS DJ, 1973, PHYS REV D, V8, P3633, DOI 10.1103/PhysRevD.8.3633
+   JOHNSON K, 1959, PHYS REV LETT, V3, P351, DOI 10.1103/PhysRevLett.3.351
+   KIBBLE TWB, 1967, PHYS REV, V155, P1554, DOI 10.1103/PhysRev.155.1554
+   KUBO R, 1975, PROG THEOR PHYS, V53, P871, DOI 10.1143/PTP.53.871
+   LANDAU LD, 1956, SOV PHYS JETP-USSR, V2, P69
+   NAKANISH.N, 1974, PROG THEOR PHYS, V51, P952, DOI 10.1143/PTP.51.952
+   SOLOVEV LD, 1956, SOV PHYS DOKL, V1, P536
+   YOKOYAMA K, 1978, QUANTUM ELECTRODYNAM
+   YOKOYAMA KI, 1978, PROG THEOR PHYS, V60, P1167, DOI 10.1143/PTP.60.1167
+   YOKOYAMA K, 1974, PROG THEOR PHYS, V51, P1956, DOI 10.1143/PTP.51.1956
+   YOKOYAMA K, 1974, PROG THEOR PHYS, V52, P1669, DOI 10.1143/PTP.52.1669
+   YOKOYAMA K, 1978, PROG THEOR PHYS, V59, P1699, DOI 10.1143/PTP.59.1699
+   YOKOYAMA K, 1974, PROG THEOR PHYS, V52, P290, DOI 10.1143/PTP.52.290
+   YOKOYAMA K, 1978, PHYS LETT B, V79, P79, DOI 10.1016/0370-2693(78)90440-9
+   YOKOYAMA KI, 1976, PROG THEOR PHYS, V55, P910, DOI 10.1143/PTP.55.910
+   Zumino B., 1961, Lectures on Field Theory and the Many-Body Problem
+   ZWANZIGER D, 1978, PHYS REV D, V17, P457, DOI 10.1103/PhysRevD.17.457
+NR 21
+TC 11
+Z9 11
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1980
+VL 63
+IS 4
+BP 1384
+EP 1392
+DI 10.1143/PTP.63.1384
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA JR851
+UT WOS:A1980JR85100027
+ER
+
+PT J
+AU TERANISHI, N
+   KUBO, R
+AF TERANISHI, N
+   KUBO, R
+TI IMPURITY PINNING OF ONE-DIMENSIONAL CHARGE-DENSITY WAVES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR BARDEEN J, 1973, SOLID STATE COMMUN, V13, P357, DOI 10.1016/0038-1098(73)90608-X
+   COLEMAN MJ, 1976, PHYS REV LETT, V37, P1500
+   FROHLICH H, 1954, PROC R SOC LON SER-A, V223, P296, DOI 10.1098/rspa.1954.0116
+   FUKUYAMA H, 1976, J PHYS SOC JPN, V41, P513, DOI 10.1143/JPSJ.41.513
+   FUKUYAMA H, 1978, PHYS REV B, V17, P535, DOI 10.1103/PhysRevB.17.535
+   HEEGER AJ, 1974, ONE DIMENSIONAL COND, P151
+   KOEHLER TR, 1977, PHYS REV B, V16, P5263, DOI 10.1103/PhysRevB.16.5263
+   LEE PA, 1974, SOLID STATE COMMUN, V14, P703, DOI 10.1016/0038-1098(74)90868-0
+   Peierls R., 1955, QUANTUM THEORY SOLID
+NR 9
+TC 51
+Z9 51
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1979
+VL 47
+IS 3
+BP 720
+EP 728
+DI 10.1143/JPSJ.47.720
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA HU743
+UT WOS:A1979HU74300005
+ER
+
+PT J
+AU HAYANO, RS
+   UEMURA, YJ
+   IMAZATO, J
+   NISHIDA, N
+   YAMAZAKI, T
+   KUBO, R
+AF HAYANO, RS
+   UEMURA, YJ
+   IMAZATO, J
+   NISHIDA, N
+   YAMAZAKI, T
+   KUBO, R
+TI ZERO-FIELD AND LOW-FIELD SPIN RELAXATION STUDIED BY POSITIVE MUONS
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+C1 TRIUMF,VANCOUVER,BC,CANADA.
+RP HAYANO, RS (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR ANDERSON PW, 1953, REV MOD PHYS, V25, P269, DOI 10.1103/RevModPhys.25.269
+   BLOEMBERGEN N, 1948, PHYS REV, V73, P679, DOI 10.1103/PhysRev.73.679
+   CAMANI M, 1977, PHYS REV LETT, V39, P836, DOI 10.1103/PhysRevLett.39.836
+   DOYAMA M, COMMUNICATION
+   HARTMANN O, 1977, PHYS REV LETT, V39, P832, DOI 10.1103/PhysRevLett.39.832
+   HAYANO RS, 1978, PHYS REV LETT, V41, P1743, DOI 10.1103/PhysRevLett.41.1743
+   HAYANO RS, 1978, PHYS REV LETT, V41, P421, DOI 10.1103/PhysRevLett.41.421
+   KEHR KW, UNPUBLISHED
+   Kubo R., 1967, MAGNETIC RESONANCE R, P810
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1954, J PHYS SOC JPN, V9, P935, DOI 10.1143/JPSJ.9.935
+   KUBO R, 1954, J PHYS SOC JPN, V9, P888, DOI 10.1143/JPSJ.9.888
+   SLICHTER CP, 1963, PRINCIPLES MAGNETIC
+   TOYABE T, 1966, THESIS U TOKYO
+   VANVLECK JH, 1956, NUOVO CIM          S, V3, P993
+   VANVLECK JH, 1948, PHYS REV, V74, P1168, DOI 10.1103/PhysRev.74.1168
+   Wang M.C., 1945, Reviews of Modern Physics, V17, DOI 10.1103/RevModPhys.17.323
+   YAMAZAKI T, 1979, HYPERFINE INTERACT, V6, P115, DOI 10.1007/BF01028779
+   YASUOKA H, 1978, J PHYS SOC JPN, V44, P842, DOI 10.1143/JPSJ.44.842
+NR 19
+TC 494
+Z9 494
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0163-1829
+J9 PHYS REV B
+JI Phys. Rev. B
+PY 1979
+VL 20
+IS 3
+BP 850
+EP 859
+DI 10.1103/PhysRevB.20.850
+PG 10
+WC Physics, Condensed Matter
+SC Physics
+GA HK069
+UT WOS:A1979HK06900002
+ER
+
+PT J
+AU KUBO, R
+   TAKAGAHARA, T
+   HANAMURA, E
+AF KUBO, R
+   TAKAGAHARA, T
+   HANAMURA, E
+TI STOCHASTIC THEORY OF 2ND ORDER OPTICAL PROCESSES
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT APPL PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP KUBO, R (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR BENREUVEN A, 1976, PHYS REV A, V13, P1402, DOI 10.1103/PhysRevA.13.1402
+   HIZHNYAK.V, 1967, PHYS STATUS SOLIDI, V21, P755, DOI 10.1002/pssb.19670210237
+   HUBER DL, 1969, PHYS REV, V178, P93, DOI 10.1103/PhysRev.178.93
+   HUBER DL, 1968, PHYS REV, V170, P418, DOI 10.1103/PhysRev.170.418
+   HUBER DL, 1967, PHYS REV, V158, P843, DOI 10.1103/PhysRev.158.843
+   HUBER DL, 1970, PHYS REV B, V1, P3409, DOI 10.1103/PhysRevB.1.3409
+   KOTANI A, 1976, J PHYS SOC JPN, V41, P1699, DOI 10.1143/JPSJ.41.1699
+   Kubo R., 1962, FLUCTUATION RELAXATI, P23
+   Kubo R., 1969, Stochastic processes in chemical physics
+   KUBO R, 1976, LECTURE NOTES PHYSIC, V57, P304
+   KUSUNOKI M, 1976, PROG THEOR PHYS, V55, P692, DOI 10.1143/PTP.55.692
+   KUSUNOKI M, 1978, PROG THEOR PHYS, V60, P71, DOI 10.1143/PTP.60.71
+   MUKAMEL S, 1976, J CHEM PHYS, V64, P3971, DOI 10.1063/1.432028
+   MUKAMEL S, 1975, PHYS REV A, V12, P947, DOI 10.1103/PhysRevA.12.947
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P742, DOI 10.1143/JPSJ.44.742
+   TAKAGAHARA T, 1978, J PHYS SOC JPN, V44, P728, DOI 10.1143/JPSJ.44.728
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P1522, DOI 10.1143/JPSJ.43.1522
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P811, DOI 10.1143/JPSJ.43.811
+   TAKAGAHARA T, 1977, J PHYS SOC JPN, V43, P802, DOI 10.1143/JPSJ.43.802
+   TEHVER IY, 1976, SOV PHYS JETP, V42, P305
+   TOYOZAWA Y, 1976, J PHYS SOC JPN, V41, P400, DOI 10.1143/JPSJ.41.400
+NR 21
+TC 19
+Z9 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1979
+VL 32
+IS 1
+BP 1
+EP 6
+DI 10.1016/0038-1098(79)90986-4
+PG 6
+WC Physics, Condensed Matter
+SC Physics
+GA HG706
+UT WOS:A1979HG70600002
+ER
+
+EF

@@ -1,0 +1,3053 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Tomoyori, K
+   Nakamura, T
+   Makabe, K
+   Maki, K
+   Saeki, K
+   Kuwajima, K
+AF Tomoyori, Katsuaki
+   Nakamura, Takashi
+   Makabe, Koki
+   Maki, Kosuke
+   Saeki, Kimiko
+   Kuwajima, Kunihiro
+TI Sequential four-state folding/unfolding of goat alpha-lactalbumin and
+   its N-terminal variants
+SO PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS
+LA English
+DT Article
+DE protein folding; a-lactalbumin; stopped flow; circular dichroism;
+   folding intermediate
+ID MOLTEN GLOBULE STATE; CIRCULAR-DICHROISM SPECTROSCOPY; CANINE MILK
+   LYSOZYME; EGG-WHITE LYSOZYME; HYDROGEN-EXCHANGE; TRANSITION-STATE;
+   FOLDING PATHWAY; CALCIUM-BINDING; HEN LYSOZYME; GUANIDINE-HYDROCHLORIDE
+AB Equilibria and kinetics of folding/unfolding of a-lactalbumin and its two N-terminal variants were studied by circular dichroism spectroscopy. The two variants were wild-type recombinant and Glu1-deletion (E1M) variants expressed in Escherichia coli. The presence of an extra methionine at the N terminus in recombinant a-lactalbumin destabilized the protein by 2 kcal/mol, while the stability was recovered in the E1M variant in which Glu1 was replaced by Met1. Kinetic folding/unfolding reactions of the proteins, induced by stopped-flow concentration jumps of guanidine hydrochloride, indicated the presence of a burst-phase in refolding, and gave chevron plots with significant curvatures in both the folding and unfolding limbs. The folding-limb curvature was interpreted in terms of accumulation of the burst-phase intermediate. However, there was no burst phase observed in the unfolding kinetics to interpret the unfolding-limb curvature. We thus assumed a sequential four-state mechanism, in which the folding from the burst-phase intermediate takes place via two transition states separated by a high-energy intermediate. We estimated changes in the free energies of the burst-phase intermediate and two transition states, caused by the N-terminal variations and also by the presence of stabilizing calcium ions. The F values at the N terminus and at the Ca2+-binding site thus obtained increased successively during folding, demonstrating the validity of the sequential mechanism. The stability and the folding behavior of the E1M variant were essentially identical to those of the authentic protein, allowing us to use this variant as a pseudo-wild-type a-lactalbumin in future studies. Proteins 2012; (c) 2012 Wiley Periodicals, Inc.
+C1 Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, Okazaki, Aichi 4448787, Japan.
+   Natl Inst Nat Sci, Inst Mol Sci, Okazaki, Aichi 4448787, Japan.
+   Univ Tokyo, Dept Phys, Sch Sci, Bunkyo Ku, Tokyo 1130033, Japan.
+   Grad Univ Adv Studies Sokendai, Dept Funct Mol Sci, Sch Phys Sci, Okazaki, Aichi 4448787, Japan.
+RP Kuwajima, K (reprint author), Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, 5-1 Higashiyama, Okazaki, Aichi 4448787, Japan.
+EM kuwajima@ims.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+   [15076201, 20107009]
+FX Grant sponsor: Ministry of Education, Culture, Sports, Science and
+   Technology of Japan (Grants-in-Aid for Scientific Research on Priority
+   Areas (Grant # 15076201) and on Innovative Areas (Grant # 20107009)).
+CR Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   Arai M, 2002, J MOL BIOL, V321, P121, DOI 10.1016/S0022-2836(02)00566-1
+   Bachmann A, 2002, BIOPHYS CHEM, V96, P141, DOI 10.1016/S0301-4622(02)00020-0
+   Bachmann A, 2001, J MOL BIOL, V306, P375, DOI 10.1006/jmbi.2000.4399
+   Bai YW, 2006, CHEM REV, V106, P1757, DOI 10.1021/cr040432i
+   Bai YW, 2003, BIOCHEM BIOPH RES CO, V305, P785, DOI 10.1016/S0006-291X(03)00800-3
+   Baldwin RL, 2010, PROTEINS, V78, P2725, DOI 10.1002/prot.22803
+   Bilsel O, 2000, ADV PROTEIN CHEM, V53, P153
+   Bowman GR, 2011, CURR OPIN STRUC BIOL, V21, P4, DOI 10.1016/j.sbi.2010.10.006
+   BRODBECK U, 1967, J BIOL CHEM, V242, P1391
+   Bushmarina NA, 2006, PROTEIN SCI, V15, P659, DOI 10.1110/ps.051904206
+   CERVONE F, 1973, BIOCHIM BIOPHYS ACTA, V295, P555, DOI 10.1016/0005-2795(73)90053-6
+   CHAFFOTTE AF, 1992, BIOCHEMISTRY-US, V31, P9694, DOI 10.1021/bi00155a024
+   Chaudhuri TK, 2000, BIOCHEMISTRY-US, V39, P15643, DOI 10.1021/bi001735j
+   Chaudhuri TK, 2004, J MOL BIOL, V336, P825, DOI 10.1016/j.jmb.2003.12.051
+   Chaudhuri TK, 1999, J MOL BIOL, V285, P1179, DOI 10.1006/jmbi.1998.2362
+   Chedad A, 2005, BIOCHEMISTRY-US, V44, P15129, DOI 10.1021/bi0512400
+   Chedad A, 2004, PROTEINS, V57, P345, DOI 10.1002/prot.20212
+   Chowdhury FA, 2005, PROTEIN SCI, V14, P89, DOI 10.1110/ps.04977905
+   Clark AC, 2008, ARCH BIOCHEM BIOPHYS, V469, P1, DOI 10.1016/j.abb.2007.10.007
+   DOLGIKH DA, 1981, FEBS LETT, V136, P311, DOI 10.1016/0014-5793(81)80642-4
+   Enoki S, 2006, J MOL BIOL, V361, P969, DOI 10.1016/j.jmb.2006.07.009
+   FERSHT AR, 1992, J MOL BIOL, V224, P771, DOI 10.1016/0022-2836(92)90561-W
+   Hagen SJ, 2010, CURR PROTEIN PEPT SC, V11, P385
+   HAMANO M, 1986, J BIOCHEM-TOKYO, V100, P1617
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   HIREL PH, 1989, P NATL ACAD SCI USA, V86, P8247, DOI 10.1073/pnas.86.21.8247
+   HOOKE SD, 1994, BIOCHEMISTRY-US, V33, P5867, DOI 10.1021/bi00185a026
+   Ishikawa N, 1998, PROTEIN ENG, V11, P333, DOI 10.1093/protein/11.5.333
+   Jackson SE, 1998, FOLD DES, V3, pR81, DOI 10.1016/S1359-0278(98)00033-9
+   JENNINGS PA, 1993, SCIENCE, V262, P892, DOI 10.1126/science.8235610
+   Jha SK, 2009, P NATL ACAD SCI USA, V106, P12289, DOI 10.1073/pnas.0905744106
+   Jonsson T, 1996, BIOCHEMISTRY-US, V35, P4795, DOI 10.1021/bi953056s
+   Kamagata K, 2006, J MOL BIOL, V357, P1647, DOI 10.1016/j.jmb.2006.01.072
+   Kamagata K, 2004, J MOL BIOL, V339, P951, DOI 10.1016/j.jmb.2004.04.015
+   Kikuchi M, 1998, PROTEIN SCI, V7, P2150
+   KIM PS, 1990, ANNU REV BIOCHEM, V59, P631, DOI 10.1146/annurev.biochem.59.1.631
+   Kobashigawa Y, 2000, PROTEINS, V40, P579, DOI 10.1002/1097-0134(20000901)40:4<579::AID-PROT40>3.0.CO;2-1
+   Krantz BA, 2002, J MOL BIOL, V324, P359, DOI 10.1016/S0022-2836(02)01029-X
+   KRONMAN MJ, 1989, CRIT REV BIOCHEM MOL, V24, P565, DOI 10.3109/10409238909080054
+   KUWAJIMA K, 1989, J MOL BIOL, V206, P547, DOI 10.1016/0022-2836(89)90500-7
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   KUWAJIMA K, 1980, BIOCHIM BIOPHYS ACTA, V623, P389, DOI 10.1016/0005-2795(80)90268-8
+   KUWAJIMA K, 1988, BIOCHEMISTRY-US, V27, P7419, DOI 10.1021/bi00419a037
+   Kuwajima K., 2009, P13, DOI 10.1007/978-3-540-88787-4_2
+   Laurents DV, 1997, BIOCHEMISTRY-US, V36, P1496, DOI 10.1021/bi962198z
+   LIN TY, 1970, BIOCHEMISTRY-US, V9, P984, DOI 10.1021/bi00806a038
+   Lindorff-Larsen K, 2011, SCIENCE, V334, P517, DOI 10.1126/science.1208351
+   Lowe AR, 2007, P NATL ACAD SCI USA, V104, P2679, DOI 10.1073/pnas.0604653104
+   Matagne A, 2000, J MOL BIOL, V297, P193, DOI 10.1006/jmbi.2000.3540
+   MATOUSCHEK A, 1989, NATURE, V340, P122, DOI 10.1038/340122a0
+   MCKENZIE HA, 1991, ADV PROTEIN CHEM, V41, P173, DOI 10.1016/S0065-3233(08)60198-9
+   MITANI M, 1986, J BIOL CHEM, V261, P8824
+   Mizuguchi M, 1998, J MOL BIOL, V283, P265, DOI 10.1006/jmbi.1998.2100
+   MOROZOVA LA, 1995, NAT STRUCT BIOL, V2, P871, DOI 10.1038/nsb1095-871
+   Nakamura T, 2010, J MOL BIOL, V396, P1361, DOI 10.1016/j.jmb.2010.01.021
+   Nakatani H, 2007, BIOCHEMISTRY-US, V46, P5238, DOI 10.1021/bi602464v
+   NITTA K, 1993, INT J PEPT PROT RES, V41, P118
+   Onuchic JN, 2000, ADV PROTEIN CHEM, V53, P87
+   Oroguchi T, 2005, J MOL BIOL, V354, P164, DOI 10.1016/j.jmb.2005.09.061
+   Oroguchi T, 2007, J MOL BIOL, V371, P1354, DOI 10.1016/j.jmb.2007.06.023
+   Otzen DE, 1999, BIOCHEMISTRY-US, V38, P6499, DOI 10.1021/bi982819j
+   Pace C N, 1986, Methods Enzymol, V131, P266
+   Permyakov SE, 2005, PROTEIN ENG DES SEL, V18, P425, DOI 10.1093/protein/gzi051
+   Pike ACW, 1996, STRUCTURE, V4, P691, DOI 10.1016/S0969-2126(96)00075-5
+   Ptitsyn OB, 1995, ADV PROTEIN CHEM, V47, P83, DOI 10.1016/S0065-3233(08)60546-X
+   RADFORD SE, 1992, NATURE, V358, P302, DOI 10.1038/358302a0
+   Raschke TM, 1999, NAT STRUCT BIOL, V6, P825
+   Redfield C, 2004, METHODS, V34, P121, DOI 10.1016/j.ymeth.2004.03.009
+   Reiner A, 2010, P NATL ACAD SCI USA, V107, P4955, DOI 10.1073/pnas.0910001107
+   Saeki K, 2004, J MOL BIOL, V341, P589, DOI 10.1016/j.jmb.2004.06.010
+   Sanchez IE, 2003, J MOL BIOL, V325, P367, DOI 10.1016/S0022-2836(02)01230-5
+   Schanda P, 2007, P NATL ACAD SCI USA, V104, P11257, DOI 10.1073/pnas.0702069104
+   SCHULMAN BA, 1995, J MOL BIOL, V253, P651, DOI 10.1006/jmbi.1995.0579
+   Scott KA, 2004, J MOL BIOL, V344, P207, DOI 10.1016/j.jmb.2004.09.023
+   SEGAWA T, 1983, J BIOCHEM-TOKYO, V93, P1321
+   Silow M, 1999, BIOCHEMISTRY-US, V38, P13006, DOI 10.1021/bi9909997
+   Tanford C, 1970, Adv Protein Chem, V24, P1, DOI 10.1016/S0065-3233(08)60241-7
+   Uchiyama H, 1995, PROTEIN ENG, V8, P1153, DOI 10.1093/protein/8.11.1153
+   VANDAEL H, 1993, BIOCHEMISTRY-US, V32, P11886, DOI 10.1021/bi00095a018
+   Vanhooren A, 2005, PROTEINS, V60, P118, DOI 10.1002/prot.20496
+   Veprintsev DB, 1999, PROTEINS, V37, P65, DOI 10.1002/(SICI)1097-0134(19991001)37:1<65::AID-PROT7>3.0.CO;2-2
+   Went HM, 2004, FEBS LETT, V567, P333, DOI 10.1016/j.febslet.2004.04.089
+   Yoda T, 2001, PROTEINS, V42, P49, DOI 10.1002/1097-0134(20010101)42:1<49::AID-PROT60>3.0.CO;2-Z
+NR 85
+TC 1
+Z9 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0887-3585
+J9 PROTEINS
+JI Proteins
+PD AUG
+PY 2012
+VL 80
+IS 9
+BP 2191
+EP 2206
+DI 10.1002/prot.24109
+PG 16
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 981JG
+UT WOS:000306962300006
+ER
+
+PT J
+AU Chen, J
+   Yagi, H
+   Sormanni, P
+   Vendruscolo, M
+   Makabe, K
+   Nakamura, T
+   Goto, Y
+   Kuwajima, K
+AF Chen, Jin
+   Yagi, Hisashi
+   Sormanni, Pietro
+   Vendruscolo, Michele
+   Makabe, Koki
+   Nakamura, Takashi
+   Goto, Yuji
+   Kuwajima, Kunihiro
+TI Fibrillogenic propensity of the GroEL apical domain: A Janus-faced
+   minichaperone
+SO FEBS LETTERS
+LA English
+DT Article
+DE GroEL apical domain; beta(2)-Microglobulin; Amyloid; Fibril; Molecular
+   chaperone
+ID AMYLOID FIBRIL FORMATION; INTRINSICALLY-DISORDERED-PROTEINS;
+   ALPHA-B-CRYSTALLIN; MOLECULAR CHAPERONES; POLYPEPTIDE BINDING; CATARACT
+   FORMATION; SUBSTRATE-BINDING; IN-VITRO; AGGREGATION; POLYMERIZATION
+AB The chaperonin GroEL plays an essential role in promoting protein folding and in protecting against misfolding and aggregation in the cellular environment. In this study, we report that both GroEL and its isolated apical domain form amyloid-like fibrils under physiological conditions, and that the fibrillation of the apical domain is accelerated under acidic conditions. We also found, however, that despite its fibrillation propensity, the apical domain exhibits a pronounced inhibitory effect on the fibril growth of beta(2)-microglobulin. Thus, the analysis of the behaviour of the apical domain reveals how aggregation and chaperone-mediated anti-aggregation processes can be closely related.
+   Structured summary of protein interactions:
+   groEL and groEL bind by circular dichroism (View interaction)
+   beta 2m and beta 2m bind by transmission electron microscopy (View interaction)
+   beta 2m and beta 2m bind by fluorescence technology (View interaction)
+   groEL and groEL bind by transmission electron microscopy (View interaction)
+   groEL and groEL bind by nuclear magnetic resonance (View interaction)
+   groEL and groEL bind by fluorescence technology (View interaction) (C) 2012 Federation of European Biochemical Societies. Published by Elsevier B. V. All rights reserved.
+C1 Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, Okazaki, Aichi 4448787, Japan.
+   Natl Inst Nat Sci, Inst Mol Sci, Okazaki, Aichi 4448787, Japan.
+   Osaka Univ, Inst Prot Res, Suita, Osaka 5650871, Japan.
+   Univ Cambridge, Dept Chem, Cambridge CB2 1EW, England.
+   Grad Univ Adv Studies Sokendai, Sch Phys Sci, Dept Funct Mol Sci, Okazaki, Aichi 4448787, Japan.
+RP Chen, J (reprint author), Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, 5-1 Higashiyama, Okazaki, Aichi 4448787, Japan.
+EM jinchen@ims.ac.jp; hisashi@protein.osaka-u.ac.jp; ps589@cam.ac.uk;
+   mv245@cam.ac.uk; makabe@ims.ac.jp; nakarat@ims.ac.jp;
+   ygoto@protein.osaka-u.ac.jp; kuwajima@ims.ac.jp
+RI Vendruscolo, Michele/F-5901-2012
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+   [20107009]; Japan Society for the Promotion of Science [20370066];
+   Takeda Science Foundation
+FX We thank Dr. Arthur Laganowsky and Professor David Eisenberg (University
+   of California Los Angeles) providing us Human alpha B-crystallin
+   expression plasmid. We thank Professor Yuji Goto's lab members for the
+   assistances. We thank Dr. Antonio Trovato and Professor Flavio Seno
+   (Padova University) providing us raw data of PASTA analysis. This work
+   was supported by Grants-in-Aid for Scientific Research in Innovative
+   Areas (project number: 20107009) from the Ministry of Education,
+   Culture, Sports, Science and Technology of Japan, and for Scientific
+   Research (B) (project number: 20370066) from the Japan Society for the
+   Promotion of Science. We acknowledge financial support from Takeda
+   Science Foundation.
+CR Ashcroft AE, 2002, J BIOL CHEM, V277, P33115, DOI 10.1074/jbc.M203398200
+   Chatellier J, 1998, P NATL ACAD SCI USA, V95, P9861, DOI 10.1073/pnas.95.17.9861
+   Chen J, 2011, J MOL BIOL, V410, P343, DOI 10.1016/j.jmb.2011.05.018
+   Chen J, 2010, J MOL BIOL, V398, P122, DOI 10.1016/j.jmb.2010.02.022
+   Chiti F, 2006, ANNU REV BIOCHEM, V75, P333, DOI 10.1146/annurev.biochem.75.101304.123901
+   Dekker C., 2010, PROTEINS, V79, P1172
+   Derkatch IL, 2004, P NATL ACAD SCI USA, V101, P12934, DOI 10.1073/pnas.0404968101
+   Fandrich M, 2001, NATURE, V410, P165, DOI 10.1038/35065514
+   FENTON WA, 1994, NATURE, V371, P614, DOI 10.1038/371614a0
+   Golbik R, 1998, J MOL BIOL, V276, P505, DOI 10.1006/jmbi.1997.1538
+   Goldschmidt L, 2010, P NATL ACAD SCI USA, V107, P3487, DOI 10.1073/pnas.0915166107
+   Grason JP, 2008, P NATL ACAD SCI USA, V105, P17339, DOI 10.1073/pnas.0807418105
+   Higurashi T, 2005, J MOL BIOL, V351, P1057, DOI 10.1016/j.jmb.2005.07.006
+   Horovitz A, 2005, CURR OPIN STRUC BIOL, V15, P646, DOI 10.1016/j.sbi.2005.10.001
+   Horwich AL, 2006, CHEM REV, V106, P1917, DOI 10.1021/cr040435v
+   Hoshino M, 2002, NAT STRUCT BIOL, V9, P332, DOI 10.1038/nsb792
+   Illingworth M, 2011, J BIOL CHEM, V286, P30401, DOI 10.1074/jbc.M111.255935
+   Iwasa H, 2011, J BIOL CHEM, V286, P21796, DOI 10.1074/jbc.M111.228445
+   Knowles TPJ, 2007, P NATL ACAD SCI USA, V104, P10016, DOI 10.1073/pnas.0610659104
+   Kosinski-Collins MS, 2003, PROTEIN SCI, V12, P480, DOI 10.1110/ps.0225503
+   Laganowsky A, 2010, PROTEIN SCI, V19, P1031, DOI 10.1002/pro.380
+   Lin Z, 2006, CRIT REV BIOCHEM MOL, V41, P211, DOI 10.1080/10409230600760382
+   Linding R, 2004, J MOL BIOL, V342, P345, DOI 10.1016/j.jmb.2004.06.088
+   Meehan S, 2004, J BIOL CHEM, V279, P3413, DOI 10.1074/jbc.M308203200
+   Meehan S, 2007, J MOL BIOL, V372, P470, DOI 10.1016/j.jmb.2007.06.060
+   NAIKI H, 1989, ANAL BIOCHEM, V177, P244, DOI 10.1016/0003-2697(89)90046-8
+   Olzscha H, 2011, CELL, V144, P67, DOI 10.1016/j.cell.2010.11.050
+   Pechmann S, 2009, P NATL ACAD SCI USA, V106, P10159, DOI 10.1073/pnas.0812414106
+   Pertinhez TA, 2001, FEBS LETT, V495, P184, DOI 10.1016/S0014-5793(01)02384-5
+   Pettersson-Kastberg J, 2009, J MOL BIOL, V394, P994, DOI 10.1016/j.jmb.2009.09.026
+   Fernandez-Escamilla AM, 2004, NAT BIOTECHNOL, V22, P1302, DOI 10.1038/nbt1012
+   Shammas SL, 2011, BIOPHYS J, V101, P1681, DOI 10.1016/j.bpj.2011.07.056
+   Shi XD, 2011, FEBS LETT, V585, P3396, DOI 10.1016/j.febslet.2011.09.042
+   SLUZKY V, 1991, P NATL ACAD SCI USA, V88, P9377, DOI 10.1073/pnas.88.21.9377
+   Smoot AL, 2001, BIOCHEMISTRY-US, V40, P4484, DOI 10.1021/bi001822b
+   Tanaka N, 1999, J MOL BIOL, V292, P173, DOI 10.1006/jmbi.1999.3041
+   Tartaglia GG, 2007, TRENDS BIOCHEM SCI, V32, P204, DOI 10.1016/j.tibs.2007.03.005
+   Tartaglia GG, 2008, J MOL BIOL, V380, P425, DOI 10.1016/j.jmb.2008.05.013
+   Thorn DC, 2005, BIOCHEMISTRY-US, V44, P17027, DOI 10.1021/bi051352r
+   Trent JD, 1997, P NATL ACAD SCI USA, V94, P5383, DOI 10.1073/pnas.94.10.5383
+   Trovato A, 2006, PLOS COMPUT BIOL, V2, P1608, DOI 10.1371/journal.pcbi.0020170
+   Usui K, 2004, PROTEIN SCI, V13, P134, DOI 10.1110/ps.03264204
+   Walter S, 2002, ANGEW CHEM INT EDIT, V41, P1098, DOI 10.1002/1521-3773(20020402)41:7<1098::AID-ANIE1098>3.0.CO;2-9
+   Xue WF, 2008, P NATL ACAD SCI USA, V105, P8926, DOI 10.1073/pnas.0711664105
+   Zahn R, 1996, P NATL ACAD SCI USA, V93, P15024, DOI 10.1073/pnas.93.26.15024
+NR 45
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD APR 24
+PY 2012
+VL 586
+IS 8
+BP 1120
+EP 1127
+DI 10.1016/j.febslet.2012.03.019
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA 929ZX
+UT WOS:000303106100006
+ER
+
+PT J
+AU Rathnayaka, T
+   Tawa, M
+   Nakamura, T
+   Sohya, S
+   Kuwajima, K
+   Yohda, M
+   Kuroda, Y
+AF Rathnayaka, Tharangani
+   Tawa, Minako
+   Nakamura, Takashi
+   Sohya, Shihori
+   Kuwajima, Kunihiro
+   Yohda, Masafumi
+   Kuroda, Yutaka
+TI Solubilization and folding of a fully active recombinant Gaussia
+   luciferase with native disulfide bonds by using a SEP-Tag
+SO BIOCHIMICA ET BIOPHYSICA ACTA-PROTEINS AND PROTEOMICS
+LA English
+DT Article
+DE Bioluminescence; Protein folding; Protein solubility; Aggregation;
+   Disulfide bond
+ID ESCHERICHIA-COLI; IN-VIVO; RENILLA-RENIFORMIS; PROTEIN; BIOLUMINESCENCE;
+   EXPRESSION; REPORTER; PRINCEPS; CULTURE; VARIANT
+AB Gaussia luciferase (GLuc) is the smallest known bioluminescent protein and is attracting much attention as a potential reporter protein. However, its 10 disulfide bond forming cysteines have hampered the efficient production of recombinant GLuc and thus limited its use in bio-imaging application. Here, we demonstrate that the addition of a short solubility enhancement peptide tag (SEP-Tag) to the C-terminus of GLuc (GLuc-C9D) significantly increased the fraction of soluble protein at a standard expression temperature. The expression time was much shorter, and the final yield of GLuc-C9D was significantly higher than with our previous pCold expression system. Reversed phase HPLC indicated that the GLuc-C9D variant folded with a single disulfide bond pattern after proper oxidization. Further, the thermal denaturation of GLuc-C9D was completely reversible, and its secondary structure content remained unchanged until 40 degrees C as assessed by CD spectroscopy. The H-1-NMR spectrum of GLuc indicated sharp well dispersed peaks typical for natively folded proteins. GLuc-C9D bioluminescence activity was strong and fully retained even after incubation at high temperatures. These results suggest that solubilization using SEP-Tags can be useful for producing large quantities of proteins containing multiple disulfide bonds. (C) 2011 Published by Elsevier B.V.
+C1 Tokyo Univ Agr & Technol, Grad Sch Engn, Dept Biotechnol & Life Sci, Koganei, Tokyo 1848588, Japan.
+   Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, Okazaki, Aichi 4448787, Japan.
+   Natl Inst Nat Sci, Inst Mol Sci, Okazaki, Aichi 4448787, Japan.
+RP Kuroda, Y (reprint author), Tokyo Univ Agr & Technol, Grad Sch Engn, Dept Biotechnol & Life Sci, 2-24-16 Nakamachi, Koganei, Tokyo 1848588, Japan.
+EM ykuroda@cc.tuat.ac.jp
+RI Yohda, Masafumi/A-5149-2013
+FU Yoneyama Rotary Foundation; Hitachi Ltd; JSPS
+FX We thank Dr. Teppei Ebina for computational help, Ryota Tanaka and
+   Takuma Seki for protein expression and purification, and Patricia S.
+   McGahan for English proofreading. T.R. was supported by a scholarship
+   from the Yoneyama Rotary Foundation. This study was supported by a
+   research grant from Hitachi Ltd to Y.M. and Y.K, and a JSPS
+   Grants-in-Aid for Scientific Research to Y.K.
+CR ANDRADE MA, 1993, PROTEIN ENG, V6, P383, DOI 10.1093/protein/6.4.383
+   ANFINSEN CB, 1973, SCIENCE, V181, P223, DOI 10.1126/science.181.4096.223
+   Baneyx F, 2004, NAT BIOTECHNOL, V22, P1399, DOI 10.1038/nbt1029
+   BOYNE AF, 1972, ANAL BIOCHEM, V46, P639, DOI 10.1016/0003-2697(72)90335-1
+   de Marco A, 2009, MICROB CELL FACT, V8, DOI 10.1186/1475-2859-8-26
+   Goerke AR, 2008, METAB ENG, V10, P187, DOI 10.1016/j.ymben.2008.04.001
+   Inouye S, 2008, BIOCHEM BIOPH RES CO, V376, P448, DOI 10.1016/j.bbrc.2008.08.149
+   Inouye S, 2008, BIOCHEM BIOPH RES CO, V365, P96, DOI 10.1016/j.bbrc.2007.10.152
+   Islam MM, 2008, P NATL ACAD SCI USA, V105, P15334, DOI 10.1073/pnas.0802699105
+   Islam MM, 2009, PROTEINS, V77, P962, DOI 10.1002/prot.22522
+   Kato A, 2007, BIOPOLYMERS, V85, P12, DOI 10.1002/bip.20596
+   Loening AM, 2007, J MOL BIOL, V374, P1017, DOI 10.1016/j.jmb.2007.09.078
+   LOENING AM, 2007, NAT METHODS, V7, P5
+   LORENZ WW, 1991, P NATL ACAD SCI USA, V88, P4438, DOI 10.1073/pnas.88.10.4438
+   Maguire CA, 2009, ANAL CHEM, V81, P7102, DOI 10.1021/ac901234r
+   Nakatsu T, 2006, NATURE, V440, P372, DOI 10.1038/nature04542
+   Patel KG, 2009, BIOCHEM BIOPH RES CO, V390, P971, DOI 10.1016/j.bbrc.2009.10.087
+   Rathnayaka T, 2010, BBA-PROTEINS PROTEOM, V1804, P1902, DOI 10.1016/j.bbapap.2010.04.014
+   Remy I, 2006, NAT METHODS, V3, P977, DOI 10.1038/nmeth979
+   SELIGER HH, 1960, ARCH BIOCHEM BIOPHYS, V88, P136, DOI 10.1016/0003-9861(60)90208-3
+   Shapiro E, 2005, PROTEIN ENG DES SEL, V18, P581, DOI 10.1093/protein/gzi066
+   Shimomura O, 2006, BIOLUMINESCENCE: CHEMICAL PRINCIPLES AND METHODS, P1
+   Tannous BA, 2005, MOL THER, V11, P435, DOI 10.1016/j.ymthe.2004.10.016
+   Tannous BA, 2009, NAT PROTOC, V4, P582, DOI 10.1038/nprot.2009.28
+   Verhaegen M, 2002, ANAL CHEM, V74, P4378, DOI 10.1021/ac025742k
+   WEISSMAN JS, 1991, SCIENCE, V253, P1386, DOI 10.1126/science.1716783
+   Welsh DK, 2005, CURR OPIN BIOTECH, V16, P73, DOI 10.1016/j.copbio.2004.12.006
+NR 27
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-9639
+J9 BBA-PROTEINS PROTEOM
+JI BBA-Proteins Proteomics
+PD DEC
+PY 2011
+VL 1814
+IS 12
+BP 1775
+EP 1778
+DI 10.1016/j.bbapap.2011.09.001
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 866EL
+UT WOS:000298363200020
+ER
+
+PT J
+AU Kuwajima, K
+   Hyodo, M
+   Hyde, AFL
+AF Kuwajima, Keiji
+   Hyodo, Masayuki
+   Hyde, Adrian F. L.
+TI Pile Bearing Capacity Factors and Soil Crushabiity
+SO JOURNAL OF GEOTECHNICAL AND GEOENVIRONMENTAL ENGINEERING
+LA English
+DT Article
+ID ONE-DIMENSIONAL COMPRESSION; CARBONATE SAND; STRENGTH; BEHAVIOR
+AB The existence of large magnitude stresses at the tip of a bearing pile is a well known phenomenon leading to crushing of soil grains and thus affecting pile behavior. Classical foundation design calculations which assume that the soil fails in shear and neglect volume change can be safely used where stress levels or particle strengths prevent crushing, however in the case of weak grains or high foundation stresses consideration should be given to the effects of grain crushing and the resulting volumetric compression. Model pile tests have been carried out in two skeletal carbonate sands and a standard silica sand with the aim of examining the variation of skin friction and end bearing capacities with degree of penetration. The mobilization of the strength of crushable soils requires a much higher strain level while at the same time the end bearing pressure on the model piles exceeded 10 MPa inducing considerable particle breakage. The peak skin friction for all sands occurred at a settlement normalized by pile diameter, S/D, of less than 0.1. At this point the carbonate sands generally had lower skin friction values than the silica sand. Further displacement caused a rapid decrease in skin friction for all three materials. At higher lateral stresses the less crushable Toyoura silica sand generated higher skin frictions. Samples of Chiibishi sand were sectioned and photographed. It was observed that a spherical plastic zone was formed at the base of the pile which expanded with increasing S/D and a degraded layer of broken particles developed around the pile as S/D increased. Large values of the Marsal particle breakage factor were restricted to a zone extending outwards to one pile radius. An end bearing capacity modification factor has been proposed to adapt the conventional bearing capacity equation for soil crushability. This modification factor is a function of soil compressibility and degree of penetration. The factor was shown to decrease with increasing soil compressibility and increase with normalized penetration S/D.
+C1 Yamaguchi Univ, Dept Civil Engn, Ube, Yamaguchi 7558611, Japan.
+   Tokuyama Coll Technol, Shunan City, Yamaguchi 7458585, Japan.
+   Univ Sheffield, Dept Civil & Struct Engn, Sheffield S1 3JD, S Yorkshire, England.
+RP Kuwajima, K (reprint author), Univ Sheffield, Dept Civil & Struct Engn, Mappin St, Sheffield S1 3JD, S Yorkshire, England.
+EM kuwajima@tokuyama.ac.jp; hyodo@yamaguchi-u.ac.jp;
+   a.f.l.hyde@sheffield.ac.uk
+CR AIREY DW, 1991, GEOTECHNIQUE, V41, P101
+   BOLTON MD, 1986, GEOTECHNIQUE, V36, P65
+   Bopp PA, 1997, J GEOTECH GEOENVIRON, V123, P671, DOI 10.1061/(ASCE)1090-0241(1997)123:7(671)
+   Coop MR, 2004, GEOTECHNIQUE, V54, P157, DOI 10.1680/geot.54.3.157.36347
+   COOP MR, 1990, GEOTECHNIQUE, V40, P607
+   Garnier J., 2007, INT J PHYS MODELLING, V7, P1
+   GOLIGHTLY CR, 1988, P INT C CALC SED PER, V1, P173
+   GOLIGHTLY CR, 1989, THESIS U BRADFORD BR
+   HARDIN BO, 1985, J GEOTECH ENG-ASCE, V111, P1177
+   HYDE AFL, 1994, P INT S PREF DEF CHA, V2, P1201
+   Hyodo M, 1998, GEOTECHNIQUE, V48, P527
+   Hyodo M, 1996, SOIL DYN EARTHQ ENG, V15, P331, DOI 10.1016/0267-7261(96)00003-6
+   Hyodo M, 2002, SOILS FOUND, V42, P63
+   Lehane BM, 2005, GEOTECHNIQUE, V55, P709, DOI 10.1680/geot.2005.55.10.709
+   Marsal R. J., 1965, P 6 INT C SOIL MECH, V3, P310
+   McDonald CJ, 1998, INT J MED INFORM, V48, P5, DOI 10.1016/S1386-5056(97)00102-0
+   McDowell GR, 2001, GEOTECHNIQUE, V51, P173, DOI 10.1680/geot.51.2.173.40287
+   McDowell GR, 2002, GEOTECHNIQUE, V52, P299, DOI 10.1680/geot.52.4.299.41018
+   Meyerhof G. G., 1976, J GEOTECHNICAL ENG D, V102, P197
+   Miura N., 1979, SOILS FOUND, V19, P1
+   Nakata Y, 2001, SOILS FOUND, V41, P69
+   Nakata Y, 2001, SOILS FOUND, V41, P39
+   Nakata Y, 1999, GEOTECHNIQUE, V49, P567
+   Reissner H., 1924, P 1 INT C APPL MECH, P295
+   TANAKA K, 1995, P JAPANESE SOC CIVIL, P99
+   Tarantino A, 2005, GEOTECHNIQUE, V55, P575, DOI 10.1680/geot.2005.55.8.575
+   White DJ, 2004, GEOTECHNIQUE, V54, P375, DOI 10.1680/geot.2004.54.6.375
+   Yasufuku N, 1995, GEOTECHNIQUE, V45, P663
+   YASUFUKU N, 1994, P JAPANESE SOC CIVIL, P191
+NR 29
+TC 3
+Z9 4
+PU ASCE-AMER SOC CIVIL ENGINEERS
+PI RESTON
+PA 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN 1090-0241
+J9 J GEOTECH GEOENVIRON
+JI J. Geotech. Geoenviron. Eng.
+PD JUL
+PY 2009
+VL 135
+IS 7
+BP 901
+EP 913
+DI 10.1061/(ASCE)GT.1943-5606.0000057
+PG 13
+WC Engineering, Geological; Geosciences, Multidisciplinary
+SC Engineering; Geology
+GA 458VN
+UT WOS:000267054400005
+ER
+
+PT J
+AU Tsukamoto, S
+   Yamashita, T
+   Yamada, Y
+   Fujiwara, K
+   Maki, K
+   Kuwajima, K
+   Matsumura, Y
+   Kihara, H
+   Tsuge, H
+   Ikeguchi, M
+AF Tsukamoto, Seiichi
+   Yamashita, Takako
+   Yamada, Yoshiteru
+   Fujiwara, Kazuo
+   Maki, Kosuke
+   Kuwajima, Kunihiro
+   Matsumura, Yoshitaka
+   Kihara, Hiroshi
+   Tsuge, Hideaki
+   Ikeguchi, Masamichi
+TI Non-native alpha-helix formation is not necessary for folding of
+   lipocalin: Comparison of burst-phase folding between tear lipocalin and
+   beta-lactoglobulin
+SO PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS
+LA English
+DT Article
+DE homologous proteins; molten globule; circular dichroism; small-angle
+   X-ray scattering; stopped-flow
+ID FLOW CIRCULAR-DICHROISM; MOLTEN GLOBULE STATE; X-RAY-SCATTERING;
+   RIBONUCLEASE-A; EMPIRICAL PARAMETERS; CRYSTAL-STRUCTURE; PROTEIN FAMILY;
+   INTERMEDIATE; PATHWAY; LACTALBUMIN
+AB Tear lipocalin and beta-lactoglobulin are members of the lipocalin superfamily. They have similar tertiary structures but unusually low overall sequence similarity. Non-native helical structures are formed during the early stage of beta-lactoglobulin folding. To address whether the non-native helix formation is found in the folding of other lipocalin superfamily proteins, the folding kinetics of a tear lipocalin variant were investigated by stoppedflow methods measuring the time-dependent changes in circular dichroism (CD) spectrum and small-angle X-ray scattering (SAXS). CD spectrum showed that extensive secondary structures are not formed during a burst-phase (within a measurement dead time). The SAXS data showed that the radius of gyration becomes much smaller than in the unfolded state during the burst-phase, indicating that the molecule is collapsed during an early stage of folding. Therefore, non-native helix formation is not general for folding of all lipocalin family members. The non-native helix content in the burst-phase folding appears to depend on helical propensities of the amino acid sequence.
+C1 Soka Univ, Dept Bioinformat, Tokyo 1928577, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, Okazaki, Aichi 4448787, Japan.
+   Kansai Med Univ, Dept Phys, Osaka 5731136, Japan.
+   Tokushima Bunri Univ, Inst Hlth Sci, Yamashiro, Tokushima 7708514, Japan.
+RP Ikeguchi, M (reprint author), Soka Univ, Dept Bioinformat, 1-236 Tangi Cho, Tokyo 1928577, Japan.
+EM ikeguchi@t.soka.ac.jp
+FU Scientific Research on Priority Areas [16041240, 18031036]; Ministry of
+   Education, Culture, Sports, Science, and Technology of Japan; Photon
+   Factory at the High Energy Accelerator Research Organization, Tsukuba,
+   Japan [2005G300]
+FX Grants-in-Aid for Scientific Research on Priority Areas; Grant numbers:
+   16041240, 18031036; Grant sponsor: Ministry of Education, Culture,
+   Sports, Science, and Technology of Japan; Grant sponsor: Photon Factory
+   at the High Energy Accelerator Research Organization, Tsukuba, Japan;
+   Grant number: 2005G300.
+CR AMEMIYA Y, 1995, REV SCI INSTRUM, V66, P2290, DOI 10.1063/1.1145667
+   Arai M, 2002, J MOL BIOL, V321, P121, DOI 10.1016/S0022-2836(02)00566-1
+   Breustedt DA, 2005, J BIOL CHEM, V280, P484, DOI 10.1074/jbc.M410466200
+   Creuzenet C, 1998, PROTEIN EXPRES PURIF, V14, P254, DOI 10.1006/prep.1998.0960
+   Dalessio PM, 2000, BIOCHEMISTRY-US, V39, P860, DOI 10.1021/bi991937j
+   Dalessio PM, 2005, BIOCHEMISTRY-US, V44, P3082, DOI 10.1021/bi048124u
+   ELIEZER D, 1993, BIOPHYS J, V65, P912
+   Flower DR, 2000, BBA-PROTEIN STRUCT M, V1482, P9, DOI 10.1016/S0167-4838(00)00148-5
+   Flower DR, 1996, BIOCHEM J, V318, P1
+   FLOWER DR, 1993, PROTEIN SCI, V2, P753
+   Fujiwara K, 1999, BIOCHEMISTRY-US, V38, P4455, DOI 10.1021/bi982683p
+   Gasymov OK, 1999, BBA-PROTEIN STRUCT M, V1433, P307, DOI 10.1016/S0167-4838(99)00133-8
+   Gasymov OK, 1998, BBA-PROTEIN STRUCT M, V1386, P145, DOI 10.1016/S0167-4838(98)00092-2
+   GILL SC, 1989, ANAL BIOCHEM, V182, P319, DOI 10.1016/0003-2697(89)90602-7
+   Greene LH, 2003, FEBS LETT, V553, P39, DOI 10.1016/S0014-5793(03)00925-6
+   Gunasekaran K, 2001, CURR OPIN STRUC BIOL, V11, P83, DOI 10.1016/S0959-440X(00)00173-1
+   Hamada D, 1996, NAT STRUCT BIOL, V3, P868, DOI 10.1038/nsb1096-868
+   HO SN, 1989, GENE, V77, P51, DOI 10.1016/0378-1119(89)90358-2
+   Hoedemaeker FJ, 2002, ACTA CRYSTALLOGR D, V58, P480, DOI 10.1107/S0907444902000616
+   HOLLECKER M, 1983, J MOL BIOL, V168, P409, DOI 10.1016/S0022-2836(83)80026-6
+   Houry WA, 1996, BIOCHEMISTRY-US, V35, P10125, DOI 10.1021/bi960617m
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   IKEGUCHI M, 1986, BIOCHEMISTRY-US, V25, P6965, DOI 10.1021/bi00370a034
+   Inaba K, 2000, J MOL BIOL, V302, P219, DOI 10.1006/jmbi.2000.4024
+   JENNINGS PA, 1993, SCIENCE, V262, P892, DOI 10.1126/science.8235610
+   Kamagata K, 2004, J MOL BIOL, V339, P951, DOI 10.1016/j.jmb.2004.04.015
+   KIHARA H, 1999, DEV STAT FLOW CELL M
+   Kimura T, 2005, J MOL BIOL, V350, P349, DOI 10.1016/j.jmb.2005.04.074
+   Kobayashi T, 2000, J MOL BIOL, V299, P757, DOI 10.1006/jmbi.2000.3761
+   Krantz BA, 2002, J MOL BIOL, V324, P359, DOI 10.1016/S0022-2836(02)01029-X
+   Krishna MMG, 2007, PROTEIN SCI, V16, P449, DOI 10.1110/ps.06255907
+   KUWAJIMA K, 1985, BIOCHEMISTRY-US, V24, P874, DOI 10.1021/bi00325a010
+   Kuwajima K, 1996, J MOL BIOL, V264, P806, DOI 10.1006/jmbi.1996.0678
+   KUWAJIMA K, 1987, FEBS LETT, V221, P115, DOI 10.1016/0014-5793(87)80363-0
+   Kuwata K, 2001, NAT STRUCT BIOL, V8, P151, DOI 10.1038/84145
+   Li JS, 2007, BIOCHEMISTRY-US, V46, P5072, DOI 10.1021/bi0618262
+   MUNOZ V, 1994, NAT STRUCT BIOL, V1, P399, DOI 10.1038/nsb0694-399
+   Munoz V, 1997, BIOPOLYMERS, V41, P495, DOI 10.1002/(SICI)1097-0282(19970415)41:5<495::AID-BIP2>3.0.CO;2-H
+   MUNOZ V, 1995, J MOL BIOL, V245, P275, DOI 10.1006/jmbi.1994.0023
+   MUNOZ V, 1995, J MOL BIOL, V245, P297, DOI 10.1006/jmbi.1994.0024
+   Nakagawa K, 2007, J MOL BIOL, V367, P1205, DOI 10.1016/j.jmb.2007.01.053
+   Nakagawa K, 2006, BIOCHEMISTRY-US, V45, P15468, DOI 10.1021/bi061420p
+   Nishimura C, 2005, J MOL BIOL, V351, P383, DOI 10.1016/j.jmb.2005.06.017
+   Nishimura C, 2000, NAT STRUCT BIOL, V7, P679, DOI 10.1038/77985
+   Oksanen E, 2006, ACTA CRYSTALLOGR D, V62, P1369, DOI 10.1107/S0907444906031519
+   Oliveira KMG, 2001, EUR J BIOCHEM, V268, P477, DOI 10.1046/j.1432-1327.2001.01918.x
+   Qi PX, 1998, NAT STRUCT BIOL, V5, P882, DOI 10.1038/2321
+   Raschke TM, 1997, NAT STRUCT BIOL, V4, P298, DOI 10.1038/nsb0497-298
+   RIDDLES PW, 1979, ANAL BIOCHEM, V94, P75, DOI 10.1016/0003-2697(79)90792-9
+   Wang Y, 2008, J MOL BIOL, V377, P1576, DOI 10.1016/j.jmb.2008.02.009
+   Welker E, 2004, P NATL ACAD SCI USA, V101, P17681, DOI 10.1073/pnas.0407999101
+   Yamada Y, 2005, J MOL BIOL, V350, P338, DOI 10.1016/j.jmb.2005.05.003
+   YAMADA Y, 2002, J APPL CRYSTALLOGR, V40, pS213
+NR 53
+TC 6
+Z9 7
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0887-3585
+J9 PROTEINS
+JI Proteins
+PD JUL
+PY 2009
+VL 76
+IS 1
+BP 226
+EP 236
+DI 10.1002/prot.22340
+PG 11
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 449ZO
+UT WOS:000266370100018
+ER
+
+PT J
+AU Ishii, T
+   Murayama, Y
+   Katano, A
+   Maki, K
+   Kuwajima, K
+   Sano, M
+AF Ishii, Takaaki
+   Murayama, Yoshihiro
+   Katano, Atsuto
+   Maki, Kosuke
+   Kuwajima, Kunihiro
+   Sano, Masaki
+TI Probing force-induced unfolding intermediates of a single staphylococcal
+   nuclease molecule and the effect of ligand binding
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Atomic force microscope (AFM); Staphylococcal nuclease (SNase);
+   Mechanical unfolding; Unfolding intermediate; Ligand-binding complex
+ID HYDROGEN-EXCHANGE; MULTIPLE PATHWAYS; ENERGY LANDSCAPE; DENATURED STATE;
+   MOLTEN GLOBULE; SPECTROSCOPY; NMR; EQUILIBRIUM; TITIN
+AB Single-molecule manipulation techniques have given experimental access to unfolding intermediates of proteins that are inaccessible in conventional experiments. A detailed characterization of the intermediates is a challenging problem that provides new possibilities for directly probing the energy landscape of proteins. We investigated single-molecule mechanical unfolding of a small globular protein, staphylococcal nuclease (SNase), using atomic force microscopy. The unfolding trajectories of the protein displayed sub-molecular and stochastic behavior with typical lengths corresponding to the size of the unfolded substructures. Our results support the view that the single protein unfolds along multiple pathways as suggested in recent theoretical studies. Moreover, we found the drastic change, caused by the ligand and inhibitor bindings, in the mechanical unfolding dynamics. (C) 2008 Elsevier Inc. All rights reserved.
+C1 Univ Tokyo, Dept Phys, Grad Sch Sci, Bunkyo Ku, Tokyo 1130033, Japan.
+   Tokyo Univ Agr & Technol, Dept Appl Phys, Grad Sch Engn, Koganei, Tokyo 1848588, Japan.
+   Nagoya Univ, Grad Sch Sci, Chikusa Ku, Nagoya, Aichi 4648602, Japan.
+   Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, Okazaki, Aichi 4448787, Japan.
+   Natl Inst Nat Sci, Inst Mol Sci, Okazaki, Aichi 4448787, Japan.
+   Grad Univ Adv Studies SOKENDAI, Dept Funct Mol Sci, Sch Phys Sci, Okazaki, Aichi 4448787, Japan.
+RP Ishii, T (reprint author), Univ Tokyo, Dept Phys, Grad Sch Sci, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM takaaki@daisy.phys.s.u-tokyo.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+FX We thank K. Saeki for help in the protein preparation, H. Sekiguchi for
+   providing us with technical information, S. Otsuka and Y. Nanjo for help
+   in building the AFM apparatuses. This work was supported by a
+   Grant-in-Aid for Scientific Research (KAKENHI) on Priority Areas "Water
+   and Biomolecules" and "Soft Matter Physics" from the Ministry of
+   Education, Culture, Sports, Science and Technology of Japan.
+CR Anfinsen C B, 1975, Adv Protein Chem, V29, P205, DOI 10.1016/S0065-3233(08)60413-1
+   Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   Cecconi C, 2005, SCIENCE, V309, P2057, DOI 10.1126/science.1116702
+   COTTON FA, 1979, P NATL ACAD SCI USA, V76, P2551, DOI 10.1073/pnas.76.6.2551
+   Dietz H, 2004, P NATL ACAD SCI USA, V101, P16192, DOI 10.1073/pnas.0404549101
+   Dill KA, 1997, NAT STRUCT BIOL, V4, P19, DOI DOI 10.1038/NSB0197-10
+   FLORIN EL, 1995, BIOSENS BIOELECTRON, V10, P895, DOI 10.1016/0956-5663(95)99227-C
+   Gillespie JR, 1997, J MOL BIOL, V268, P158, DOI 10.1006/jmbi.1997.0954
+   Goldbeck RA, 1999, P NATL ACAD SCI USA, V96, P2782, DOI 10.1073/pnas.96.6.2782
+   Hertadi R, 2003, J MOL BIOL, V333, P993, DOI 10.1016/j.jmb.2003.09.010
+   Jackson SE, 1998, FOLD DES, V3, pR81, DOI 10.1016/S1359-0278(98)00033-9
+   JACOBS MD, 1994, P NATL ACAD SCI USA, V91, P449, DOI 10.1073/pnas.91.2.449
+   Kamagata K, 2003, J MOL BIOL, V332, P1143, DOI 10.1016/j.jmb.2003.07.002
+   KUNKEL TA, 1985, P NATL ACAD SCI USA, V82, P488, DOI 10.1073/pnas.82.2.488
+   LEVINTHA.C, 1968, J CHIM PHYS PCB, V65, P44
+   Maki K, 1999, BIOCHEMISTRY-US, V38, P2213, DOI 10.1021/bi981962+
+   Marko JF, 1995, MACROMOLECULES, V28, P8759, DOI 10.1021/ma00130a008
+   Nelson ED, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.051906
+   Oberhauser AF, 2001, P NATL ACAD SCI USA, V98, P468, DOI 10.1073/pnas.021321798
+   Ptitsyn OB, 1995, ADV PROTEIN CHEM, V47, P83, DOI 10.1016/S0065-3233(08)60546-X
+   RADFORD SE, 1992, NATURE, V358, P302, DOI 10.1038/358302a0
+   Rief M, 1997, SCIENCE, V276, P1109, DOI 10.1126/science.276.5315.1109
+   SAKANE I, 2001, THESIS U TOKYO
+   Socci ND, 1998, PROTEINS, V32, P136, DOI 10.1002/(SICI)1097-0134(19980801)32:2<136::AID-PROT2>3.0.CO;2-J
+   SUGAWARA T, 1991, BIOCHEMISTRY-US, V30, P2698, DOI 10.1021/bi00224a018
+   TANIUCHI H, 1969, J BIOL CHEM, V244, P3864
+   Walkenhorst WF, 2002, PROTEIN SCI, V11, P82, DOI 10.1101/ps.28202
+   Wang T, 2001, BIOCHEM BIOPH RES CO, V285, P9, DOI 10.1006/bbrc.2001.5118
+   Wang Y, 1995, BIOCHEMISTRY-US, V34, P15895, DOI 10.1021/bi00049a004
+   Wright CF, 2003, NAT STRUCT BIOL, V10, P658, DOI 10.1038/nsb947
+   Yi Q, 2000, J MOL BIOL, V299, P1341, DOI 10.1006/jmbi.2000.3816
+NR 31
+TC 6
+Z9 6
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD OCT 31
+PY 2008
+VL 375
+IS 4
+BP 586
+EP 591
+DI 10.1016/j.bbrc.2008.08.073
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 356HL
+UT WOS:000259769200020
+ER
+
+PT J
+AU Inobe, T
+   Takahashi, K
+   Maki, K
+   Enoki, S
+   Kamagata, K
+   Kadooka, A
+   Arai, M
+   Kuwajima, K
+AF Inobe, Tomonao
+   Takahashi, Kazunobu
+   Maki, Kosuke
+   Enoki, Sawako
+   Kamagata, Kiyoto
+   Kadooka, Akio
+   Arai, Munehito
+   Kuwajima, Kunihiro
+TI Asymmetry of the GroEL-GroES complex under physiological conditions as
+   revealed by small-angle X-ray scattering
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+ID CHAPERONIN GROEL; ALPHA-LACTALBUMIN; CRYSTAL-STRUCTURE;
+   ESCHERICHIA-COLI; CONFORMATIONAL-CHANGES; ALLOSTERIC TRANSITION;
+   NEUTRON-SCATTERING; IMAGE INTENSIFIER; FUNCTIONAL CYCLE; ATP HYDROLYSIS
+AB Despite the well-known functional importance of GroEL-GroES complex formation during the chaperonin cycle, the stoichiometry of the complex has not been clarified. The complex can occur either as an asymmetric 1:1 GroEL-GroES complex or as a symmetric 1:2 GroEL-GroES complex, although it remains uncertain which type is predominant under physiological conditions. To resolve this question, we studied the structure of the GroEL-GroES complex under physiological conditions by small-angle x-ray scattering, which is a powerful technique to directly observe the structure of the protein complex in solution. We evaluated molecular structural parameters, the radius of gyration and the maximum dimension of the complex, from the x-ray scattering patterns under various nucleotide conditions (3 mM ADP, 3 mM ATPgS, and 3 mM ATP in 10 mM MgCl2 and 100 mM KCl) at three different temperatures (10 degrees C, 25 degrees C, and 37 degrees C). We then compared the experimentally observed scattering patterns with those calculated from the known x-ray crystallographic structures of the GroEL-GroES complex. The results clearly demonstrated that the asymmetric complex must be the major species stably present in solution under physiological conditions. On the other hand, in the presence of ATP (3 mM) and beryllium fluoride (10mM NaF and 300 mu m BeCl2), we observed the formation of a stable symmetric complex, suggesting the existence of a transiently formed symmetric complex during the chaperonin cycle.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Japan Sci & Technol Agcy, CREST, Tokyo 1130033, Japan.
+   Natl Inst Nat Sci, Okazaki Inst Integrat Biosci, Okazaki, Aichi 4448787, Japan.
+   Grad Univ Adv Studies, Sch Phys Sci, Dept Funct Mol Sci, SOKENDAI, Okazaki, Aichi 4448787, Japan.
+RP Kuwajima, K (reprint author), Univ Tokyo, Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+EM kuwajima@ims.ac.jp
+RI Arai, Munehito/A-1258-2012
+CR AMEMIYA Y, 1995, REV SCI INSTRUM, V66, P2290, DOI 10.1063/1.1145667
+   Aoki K, 1997, J BIOL CHEM, V272, P32158, DOI 10.1074/jbc.272.51.32158
+   Arai M, 2002, J MOL BIOL, V321, P121, DOI 10.1016/S0022-2836(02)00566-1
+   Azem A, 1995, P NATL ACAD SCI USA, V92, P12021, DOI 10.1073/pnas.92.26.12021
+   Behlke J, 1997, BIOCHEMISTRY-US, V36, P5149, DOI 10.1021/bi962755h
+   Beissinger M, 1999, J MOL BIOL, V289, P1075, DOI 10.1006/jmbi.1999.2780
+   Ben-Zvi AP, 1998, P NATL ACAD SCI USA, V95, P15275, DOI 10.1073/pnas.95.26.15275
+   Ben-Zvi AP, 1999, P NATL ACAD SCI USA, V96, P5890
+   BRAIG K, 1994, NATURE, V371, P578, DOI 10.1038/371578a0
+   Chaudhry C, 2003, EMBO J, V22, P4877, DOI 10.1093/emboj/cdg477
+   CHEN S, 1994, NATURE, V371, P261, DOI 10.1038/371261a0
+   COMBEAU C, 1988, J BIOL CHEM, V263, P17429
+   Corrales FJ, 1996, FOLD DES, V1, P265, DOI 10.1016/S1359-0278(96)00040-5
+   DIAMANT S, 1995, J BIOL CHEM, V270, P28387
+   Doniach S, 2001, CHEM REV, V101, P1763, DOI 10.1021/cr990071k
+   ENGEL A, 1995, SCIENCE, V269, P832, DOI 10.1126/science.7638600
+   Fenton WA, 2003, Q REV BIOPHYS, V36, P229, DOI 10.1017/S0033583503003883
+   FISHER AJ, 1995, BIOCHEMISTRY-US, V34, P8960, DOI 10.1021/bi00028a004
+   Gorovits BM, 1997, J BIOL CHEM, V272, P26999, DOI 10.1074/jbc.272.43.26999
+   Grallert H, 2001, J STRUCT BIOL, V135, P95, DOI 10.1006/jsbi.2001.4387
+   Hayer-Hartl MK, 1999, BIOL CHEM, V380, P531, DOI 10.1515/BC.1999.068
+   HAYERHARTL MK, 1994, EMBO J, V13, P3192
+   HAYERHARTL MK, 1995, SCIENCE, V269, P836, DOI 10.1126/science.7638601
+   Higurashi T, 2003, J MOL BIOL, V333, P605, DOI 10.1016/j.jmb.2003.08.056
+   Horowitz PM, 1999, P NATL ACAD SCI USA, V96, P2682, DOI 10.1073/pnas.96.6.2682
+   IGARASHI Y, 1995, BIOPHYS CHEM, V53, P259, DOI 10.1016/0301-4622(94)00107-U
+   Iizuka R, 2005, J BIOL CHEM, V280, P40375, DOI 10.1074/jbc.M506785200
+   Inobe T, 2001, BBA-PROTEIN STRUCT M, V1545, P160, DOI 10.1016/S0167-4838(00)00274-0
+   Inobe T, 2003, J MOL BIOL, V327, P183, DOI 10.1016/S0022-2836(03)00087-1
+   Inobe T, 2003, J MOL BIOL, V329, P121, DOI 10.1016/S0022-2836(03)00409-1
+   ISHII N, 1992, FEBS LETT, V299, P169, DOI 10.1016/0014-5793(92)80240-H
+   Ito K, 2005, JPN J APPL PHYS 1, V44, P8684, DOI 10.1143/JJAP.44.8684
+   AZEM A, 1994, SCIENCE, V265, P653, DOI 10.1126/science.7913553
+   Krueger S, 2003, J STRUCT BIOL, V141, P240, DOI 10.1016/S1047-8477(03)00002-9
+   LANGER T, 1992, EMBO J, V11, P4757
+   Llorca O, 1996, J BIOL CHEM, V271, P68
+   LLORCA O, 1994, FEBS LETT, V345, P181, DOI 10.1016/0014-5793(94)00432-3
+   Llorca O, 1997, FEBS LETT, V405, P195, DOI 10.1016/S0014-5793(97)00186-5
+   Llorca O, 1997, J STRUCT BIOL, V118, P31, DOI 10.1006/jsbi.1996.3832
+   Lorimer GH, 1996, FASEB J, V10, P5
+   Makio T, 1999, J MOL BIOL, V293, P125, DOI 10.1006/jmbi.1999.3142
+   Makio T, 2001, J MOL BIOL, V312, P555, DOI 10.1006/jmbi.2001.4959
+   Maruta S, 1998, EUR J BIOCHEM, V252, P520, DOI 10.1046/j.1432-1327.1998.2520520.x
+   Mayhew M, 1996, NATURE, V379, P420, DOI 10.1038/379420a0
+   OKAZAKI A, 1994, NAT STRUCT BIOL, V1, P439, DOI 10.1038/nsb0794-439
+   Ranson NA, 2006, NAT STRUCT MOL BIOL, V13, P147, DOI 10.1038/nsmb1046
+   Roessle M, 2000, J APPL CRYSTALLOGR, V33, P548, DOI 10.1107/S0021889800001369
+   Rye HS, 1997, NATURE, V388, P792, DOI 10.1038/42047
+   Rye HS, 1999, CELL, V97, P325, DOI 10.1016/S0092-8674(00)80742-4
+   SAIBIL HR, 1993, CURR BIOL, V3, P265, DOI 10.1016/0960-9822(93)90176-O
+   Saibil HR, 2002, TRENDS BIOCHEM SCI, V27, P627, DOI 10.1016/S0968-0004(02)02211-9
+   SCHMIDT M, 1994, SCIENCE, V265, P656, DOI 10.1126/science.7913554
+   Sigler PB, 1998, ANNU REV BIOCHEM, V67, P581, DOI 10.1146/annurev.biochem.67.1.581
+   Sparrer H, 1997, J BIOL CHEM, V272, P14080, DOI 10.1074/jbc.272.22.14080
+   Sparrer H, 1997, P NATL ACAD SCI USA, V94, P1096, DOI 10.1073/pnas.94.4.1096
+   Stegmann R, 1998, J STRUCT BIOL, V121, P30, DOI 10.1006/jsbi.1997.3938
+   Svergun D, 1995, J APPL CRYSTALLOGR, V28, P768, DOI 10.1107/S0021889895007047
+   SVERGUN DI, 1992, J APPL CRYSTALLOGR, V25, P495, DOI 10.1107/S0021889892001663
+   Taguchi H, 2004, J BIOL CHEM, V279, P45737, DOI 10.1074/jbc.M406795200
+   Thirumalai D, 2001, ANNU REV BIOPH BIOM, V30, P245, DOI 10.1146/annurev.biophys.30.1.245
+   Thiyagarajan P, 1996, STRUCTURE, V4, P79, DOI 10.1016/S0969-2126(96)00011-1
+   TOEROEK Z, 1996, J BIOL CHEM, V271, P16180
+   VACHETTE P, 2000, STRUCTURE DYNAMICS B, P199
+   Wang J, 2003, J MOL BIOL, V327, P843, DOI 10.1016/S0022-2836(03)00184-0
+   WEISSMAN JS, 1995, CELL, V83, P577, DOI 10.1016/0092-8674(95)90098-5
+   Xu ZH, 1997, NATURE, V388, P741
+   Young JC, 2004, NAT REV MOL CELL BIO, V5, P781, DOI 10.1038/nrm1492
+NR 67
+TC 5
+Z9 5
+PU BIOPHYSICAL SOC
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998 USA
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD FEB 15
+PY 2008
+VL 94
+IS 4
+BP 1392
+EP 1402
+DI 10.1529/biophysj.107.114710
+PG 11
+WC Biophysics
+SC Biophysics
+GA 254PE
+UT WOS:000252597700027
+ER
+
+PT J
+AU Kato, A
+   Maki, K
+   Ebina, T
+   Kuwajima, K
+   Soda, K
+   Kuroda, Y
+AF Kato, Atsushi
+   Maki, Kosuke
+   Ebina, Teppei
+   Kuwajima, Kunihiro
+   Soda, Kunitsugu
+   Kuroda, Yutaka
+TI Mutational analysis of protein solubility enhancement using short
+   peptide tags
+SO BIOPOLYMERS
+LA English
+DT Article
+DE NMR; protein solubility; aggregation; poly Arg tag; poly Lys tag;
+   solubility enhancement peptide (SEP) tag
+ID ESCHERICHIA-COLI; STRUCTURAL PROTEOMICS; DESIGNED PROTEIN; BINDING
+   PROTEIN; AFFINITY TAGS; NMR; PURIFICATION; CRYSTALLIZATION; FUSION;
+   SPECTROSCOPY
+AB Protein aggregation is a common phenomenon. The preparation of highly concentrated protein samples, typically required for biophysical measurements, often involves a time consuming and tedious testing of solvent conditions for improving protein solubility. Here, in a systematic analysis, I we have determined the increase in solubility upon the addition of SEP-tags (solubility enhancement peptide tags) containing, one, three, and five lysines or arginines (or six arginines) to either the N or C terminus of our low solubility model protein, bovine pancreatic trypsin inhibitor variant, BPTI-22 (a BPTI variant containing 22 alanines). As anticipated, the BPTI-22 solubility increased in direct relation to the number of charged residues contained in the SEP-tag, and without altering either the activity or the structure of the protein. The largest solubility increases were of 4.2-, 4.8-, and 6.2-folds produced by the addition, at the C terminus, of five lysine (BPTI-22-C5K), five and six arginine residues (BPTI-22-C5R and BPTI-22-C6R), respectively. ne increased solubility of the tagged BPTI-22 yielded higher quality NMR spectra (hetero single quantum correlation HSQC spectra, with respect of the signal-to-noise and line shapes) in, a much shorter time than for the untagged BPTI-22. Furthermore, tagged samples remained soluble for over ten days, as observed by their HSQC spectra. We believe that lysine- and arginine-based SEP-tags may provide an effective and versatile method for enhancing protein solubility. (c) 2006 Wiley Periodicals, Inc.
+C1 Tokyo Univ Agr & Technol, Grad Sch Engn, Dept Biotechnol & Life Sci, Koganei, Tokyo 1848588, Japan.
+   Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   Nagaoka Univ Technol, Dept Bioengn, Nagaoka, Niigata 9402188, Japan.
+RP Kuroda, Y (reprint author), Tokyo Univ Agr & Technol, Grad Sch Engn, Dept Biotechnol & Life Sci, 2-24-16 Nakamachi, Koganei, Tokyo 1848588, Japan.
+EM ykuroda@cc.tuat.ac.jp
+CR BIANCHI E, 1994, J MOL BIOL, V236, P649, DOI 10.1006/jmbi.1994.1174
+   Bucher MH, 2002, ACTA CRYSTALLOGR D, V58, P392, DOI 10.1107/S0907444901021187
+   Card PB, 2005, METHOD ENZYMOL, V394, P3
+   Christendat D, 2000, NAT STRUCT BIOL, V7, P903
+   DELAGLIO F, 1995, J BIOMOL NMR, V6, P277, DOI 10.1007/BF00197809
+   Derewenda ZS, 2004, METHODS, V34, P354, DOI 10.1016/j.ymeth.2004.03.024
+   DIGUAN C, 1988, GENE, V67, P21, DOI 10.1016/0378-1119(88)90004-2
+   Golovanov AP, 2004, J AM CHEM SOC, V126, P8933, DOI 10.1021/ja049297h
+   Hammarstrom M, 2002, PROTEIN SCI, V11, P313, DOI 10.1110/ps.22102
+   Hondoh T, 2006, PROTEIN SCI, V15, P871, DOI 10.1110/ps.051880406
+   Howe PWA, 2004, J BIOMOL NMR, V30, P283, DOI 10.1007/s10858-004-3739-4
+   Igarashi S, 2004, J BIOCHEM BIOPH METH, V61, P331, DOI 10.1016/j.jbbm.2004.06.009
+   Jancarik J, 2004, ACTA CRYSTALLOGR D, V60, P1670, DOI 10.1107/S0907444904010972
+   Johnson Bruce A, 2004, Methods Mol Biol, V278, P313
+   Kassell B., 1970, METHOD ENZYMOL, V19, P844
+   KAY LE, 1992, J AM CHEM SOC, V114, P10663, DOI 10.1021/ja00052a088
+   Koradi R, 1996, J MOL GRAPHICS, V14, P51, DOI 10.1016/0263-7855(96)00009-4
+   Kuroda Y, 2000, J MOL BIOL, V298, P493, DOI 10.1006/jmbi.2000.3622
+   KYTE J, 1982, J MOL BIOL, V157, P105, DOI 10.1016/0022-2836(82)90515-0
+   Lilie H, 1998, CURR OPIN BIOTECH, V9, P497, DOI 10.1016/S0958-1669(98)80035-9
+   Mosavi LK, 2003, PROTEIN ENG, V16, P739, DOI 10.1093/protein/gzg098
+   PALMER AG, 1991, J MAGN RESON, V93, P151, DOI 10.1016/0022-2364(91)90036-S
+   Park SH, 2003, J MOL BIOL, V333, P409, DOI 10.1016/j.jmb.2003.08.048
+   PERONA JJ, 1993, J MOL BIOL, V230, P919, DOI 10.1006/jmbi.1993.1210
+   SASSENFELD HM, 1984, BIO-TECHNOL, V2, P76, DOI 10.1038/nbt0184-76
+   SCHEIN CH, 1990, BIO-TECHNOL, V8, P308, DOI 10.1038/nbt0490-308
+   SMITH DB, 1988, GENE, V67, P31, DOI 10.1016/0378-1119(88)90005-4
+   Tsumoto K, 2004, BIOTECHNOL PROGR, V20, P1301, DOI 10.1021/bp0498793
+   Tyler RC, 2005, PROTEINS, V59, P633, DOI 10.1002/prot.20436
+   Waugh DS, 2005, TRENDS BIOTECHNOL, V23, P316, DOI 10.1016/j.tibtech.2005.03.012
+   Yee A, 2003, ACCOUNTS CHEM RES, V36, P183, DOI 10.1021/ar010126g
+   Yee A, 2002, P NATL ACAD SCI USA, V99, P1825, DOI 10.1073/pnas.042684599
+   Zhang YB, 2004, PROTEIN EXPRES PURIF, V36, P207, DOI 10.1016/j.pep.2004.04.020
+   Zhou CZ, 2004, CURR GENOMICS, V5, P37, DOI 10.2174/1389202043490050
+   Zhou P, 2001, J BIOMOL NMR, V20, P11, DOI 10.1023/A:1011258906244
+NR 35
+TC 19
+Z9 20
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0006-3525
+J9 BIOPOLYMERS
+JI Biopolymers
+PD JAN
+PY 2007
+VL 85
+IS 1
+BP 12
+EP 18
+DI 10.1002/bip.20596
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 122JN
+UT WOS:000243222300003
+ER
+
+PT J
+AU Kuwajima, K
+   Inobe, T
+   Arai, M
+AF Kuwajima, K
+   Inobe, T
+   Arai, M
+TI The allosteric transition of the chaperonin GroEL from Escherichia coli
+   as studied by solution X-ray scattering
+SO MACROMOLECULAR RESEARCH
+LA English
+DT Article
+DE allosteric transition; chaperonin GroEL; X-ray scattering
+ID KINETIC-ANALYSIS; COMPLEXES; BINDING; CYCLE; ATP; ADP
+AB This is a short review article Of Our recent Studies on the ATP-induced, allosteric conformational transition of the chaperonin GroEL complex by solution X-ray scattering. We used synchrotron X-ray scattering with a two-dimensional, charge-coupled, device-based X-ray detector to study ( 1) the specificity of the chaperonin GroEL for its ligand that induced the allosteric transition, and (2) the identification of the allosteric transition of GroEL in its complicated kinetics induced by ATP. Due to the dramatically increased sensitivity of the X-ray scattering technique based on the use of the two dimensional X-ray detector and synchrotron radiation, different allosteric conformational states of GroEL populated under different conditions were clearly distinguished from each other. It was concluded that solution X-ray scattering is an extremely powerful tool for investigating the equilibrium and kinetics of cooperative conformational transitions of oligomeric protein complex, especially when combined with other spectroscopic techniques such as fluorescence spectroscopy.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+RP Kuwajima, K (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM kuwajima@phys.s.u-tokyo.ac.jp
+RI Arai, Munehito/A-1258-2012
+CR Arai M, 2002, J MOL BIOL, V321, P121, DOI 10.1016/S0022-2836(02)00566-1
+   Cliff MJ, 1999, J MOL BIOL, V293, P667, DOI 10.1006/jmbi.1999.3138
+   Corrales FJ, 1996, FOLD DES, V1, P265, DOI 10.1016/S1359-0278(96)00040-5
+   Glatter O, 1982, SMALL ANGLE XRAY SCA
+   Horovitz A, 1998, CURR OPIN STRUC BIOL, V8, P93, DOI 10.1016/S0959-440X(98)80015-8
+   Inobe T, 2001, BBA-PROTEIN STRUCT M, V1545, P160, DOI 10.1016/S0167-4838(00)00274-0
+   Inobe T, 2003, J MOL BIOL, V327, P183, DOI 10.1016/S0022-2836(03)00087-1
+   Inobe T, 2004, J MOL BIOL, V339, P199, DOI 10.1016/j.jmb.2004.03.026
+   Inobe T, 2003, J MOL BIOL, V329, P121, DOI 10.1016/S0022-2836(03)00409-1
+   ITO K, 2000, J JPN SOC SYNCHROTRO, V13, P372
+   AZEM A, 1994, SCIENCE, V265, P653, DOI 10.1126/science.7913553
+   Kuwajima K, 2002, SPECTROSC-INT J, V16, P127
+   LLORCA O, 1994, FEBS LETT, V345, P181, DOI 10.1016/0014-5793(94)00432-3
+   Roseman AM, 1996, CELL, V87, P241, DOI 10.1016/S0092-8674(00)81342-2
+   Saibil H R, 2001, Adv Protein Chem, V59, P45
+   SCHMIDT M, 1994, SCIENCE, V265, P656, DOI 10.1126/science.7913554
+   Sigler PB, 1998, ANNU REV BIOCHEM, V67, P581, DOI 10.1146/annurev.biochem.67.1.581
+   Svergun D, 1995, J APPL CRYSTALLOGR, V28, P768, DOI 10.1107/S0021889895007047
+   YIFRACH O, 1995, BIOCHEMISTRY-US, V34, P5303, DOI 10.1021/bi00016a001
+   Yifrach O, 1998, BIOCHEMISTRY-US, V37, P7083, DOI 10.1021/bi980370o
+NR 20
+TC 1
+Z9 1
+PU POLYMER SOC KOREA
+PI SEOUL
+PA ROOM 601, HATCHON BUILDING, 831 YEOKSAM-DONG, KANGNAM-KU, SEOUL 135-792,
+   SOUTH KOREA
+SN 1598-5032
+J9 MACROMOL RES
+JI Macromol. Res.
+PD APR
+PY 2006
+VL 14
+IS 2
+BP 166
+EP 172
+PG 7
+WC Polymer Science
+SC Polymer Science
+GA 041HI
+UT WOS:000237444900007
+ER
+
+PT J
+AU Ali, SA
+   Iwabuchi, N
+   Matsui, T
+   Hirota, K
+   Kidokoro, S
+   Arai, M
+   Kuwajima, K
+   Schuck, P
+   Arisaka, F
+AF Ali, SA
+   Iwabuchi, N
+   Matsui, T
+   Hirota, K
+   Kidokoro, S
+   Arai, M
+   Kuwajima, K
+   Schuck, P
+   Arisaka, F
+TI Reversible and fast association equilibria of a molecular chaperone,
+   gp57A, of bacteriophage T4
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+ID SIZE-DISTRIBUTION ANALYSIS; SHORT TAIL FIBERS; ESCHERICHIA-COLI;
+   CRYSTAL-STRUCTURE; COILED-COILS; ANALYTICAL ULTRACENTRIFUGATION;
+   SEDIMENTATION ANALYSIS; SECONDARY STRUCTURE; CIRCULAR-DICHROISM;
+   SELF-ASSOCIATION
+AB The association of a molecular chaperone, gp57A, of bacteriophage T4, which facilitates formation of the long and short tail fibers, was investigated by analytical ultracentrifugation, differential scanning microcalorimetry, and stopped-flow circular dichroism (CD) to establish the association scheme of the protein. Gp57A is an oligomeric alpha-helix protein with 79 amino acids. Analysis of the sedimentation velocity data by direct boundary modeling with Lamm equation solutions together with a more detailed boundary analysis incorporating association schemes led us to conclude that at least three oligomeric species of gp57A are in reversible and fast association equilibria and that a 3(mer)(mer)(mer)(-6)(-12) model described the data best. On the other hand, differential scanning microcalorimetry revealed a highly reversible two-step transition of dissociation/denaturation, both of which accompanied decrease in CD at 222 nm. The melting curve analysis revealed that it is consistent with a 6(mer)(mer)(mer)(-3)(-1) model. The refolding/association kinetics of gp57A measured by stopped-flow CD was consistent with the interpretation that the bimolecular reaction from trimer to hexamer was preceded by a fast alpha-helix formation in the dead-time. Trimer or hexamer is likely the functional oligomeric state of gp57A.
+C1 Tokyo Inst Technol, Grad Sch Biosci & Biotechnol, Midori Ku, Yokohama, Kanagawa 2268501, Japan.
+   Nagaoka Univ Technol, Dept Bioengn, Niigata, Japan.
+   RIKEN, Genome Sci Ctr, Yokohama, Kanagawa, Japan.
+   Tokyo Inst Technol, Precis & Intelligence Lab, Yokohama, Kanagawa 227, Japan.
+   Natl Inst Adv Ind Sci & Technol, Inst Biol Resources & Funct, Ibaraki, Japan.
+   Univ Tokyo, Grad Sch Sci, Tokyo 113, Japan.
+   NIH, Div Bioengn & Phys Sci, ORS, Bethesda, MD 20892 USA.
+RP Arisaka, F (reprint author), Tokyo Inst Technol, Grad Sch Biosci & Biotechnol, Midori Ku, 4259 Nagatsuta, Yokohama, Kanagawa 2268501, Japan.
+RI Arai, Munehito/A-1258-2012
+CR Arai M, 1996, FOLD DES, V1, P275, DOI 10.1016/S1359-0278(96)00041-7
+   BISHOP R J, 1974, Journal of Supramolecular Structure, V2, P196, DOI 10.1002/jss.400020214
+   Burda MR, 1999, EUR J BIOCHEM, V265, P771, DOI 10.1046/j.1432-1327.1999.00782.x
+   COX DJ, 1969, ARCH BIOCHEM BIOPHYS, V129, P106, DOI 10.1016/0003-9861(69)90157-X
+   DAM J, 2003, IN PRESS METHODS ENZ
+   DELANO WL, 1994, PROTEINS, V20, P105, DOI 10.1002/prot.340200202
+   DICKSON RC, 1973, J MOL BIOL, V79, P633, DOI 10.1016/0022-2836(73)90068-5
+   HARBURY PB, 1994, NATURE, V371, P80, DOI 10.1038/371080a0
+   HARBURY PB, 1993, SCIENCE, V262, P1401, DOI 10.1126/science.8248779
+   Hashemolhosseini S, 1996, J BACTERIOL, V178, P6258
+   HENNING U, 1979, J BACTERIOL, V137, P664
+   KELLS SS, 1974, J MOL BIOL, V83, P473, DOI 10.1016/0022-2836(74)90508-7
+   KIDOKORO SI, 1988, BIOPOLYMERS, V27, P271, DOI 10.1002/bip.360270208
+   KING J, 1971, J MOL BIOL, V62, P465, DOI 10.1016/0022-2836(71)90148-3
+   KUWAJIMA K, 1987, FEBS LETT, V221, P115, DOI 10.1016/0014-5793(87)80363-0
+   Lamm O., 1929, ARK MAT ASTRON FYS, V21B, P1
+   LOVEJOY B, 1993, SCIENCE, V259, P1288, DOI 10.1126/science.8446897
+   MASON WS, 1972, J MOL BIOL, V66, P445, DOI 10.1016/0022-2836(72)90426-3
+   Matsui T, 1997, J BACTERIOL, V179, P1846
+   MCLACHLAN AD, 1975, J MOL BIOL, V98, P293, DOI 10.1016/S0022-2836(75)80119-7
+   MILLA ME, 1994, BIOCHEMISTRY-US, V33, P1125, DOI 10.1021/bi00171a011
+   MUTOH N, 1978, J BACTERIOL, V136, P6913
+   Nakagawa T., 1980, Recent Developments in Statistical Inference and Data Analysis.  Proceedings of the International Conference in Statistics
+   PARRY DAD, 1982, BIOSCIENCE REP, V2, P1017, DOI 10.1007/BF01122170
+   Perugini MA, 2000, J BIOL CHEM, V275, P36758, DOI 10.1074/jbc.M005565200
+   PREHM P, 1976, J MOL BIOL, V101, P277, DOI 10.1016/0022-2836(76)90377-6
+   PROVENCHER SW, 1981, BIOCHEMISTRY-US, V20, P33, DOI 10.1021/bi00504a006
+   REVEL HR, 1976, VIROLOGY, V72, P255, DOI 10.1016/0042-6822(76)90328-7
+   RIEDE I, 1987, MOL GEN GENET, V206, P110, DOI 10.1007/BF00326544
+   Rivas G, 1999, BIOCHEMISTRY-US, V38, P9379, DOI 10.1021/bi990355z
+   SCHUCK P, 2003, IN PRESS ANAL BIOCH
+   Schuck P, 1998, BIOPHYS J, V75, P1503
+   Schuck P, 1999, BIOPHYS J, V76, P2288
+   Schuck P, 2002, BIOPHYS J, V82, P1096
+   Schuck P, 2000, BIOPHYS J, V78, P1606
+   SIMON LD, 1967, VIROLOGY, V32, P279, DOI 10.1016/0042-6822(67)90277-2
+   Steinfeld J. I., 1989, CHEM KINETICS DYNAMI
+   STUDIER FW, 1986, J MOL BIOL, V189, P113, DOI 10.1016/0022-2836(86)90385-2
+   VANRAAIJ MJ, 1999, NATURE, V401, P1049
+   van Raaij MJ, 2001, J MOL BIOL, V314, P1137, DOI 10.1006/jmbi.2001.5204
+   WILSON IA, 1981, NATURE, V289, P366, DOI 10.1038/289366a0
+   WOOD WB, 1994, MOL BIOL BACTERIOP T, V4, P282
+   WOOD WB, 1973, VIRUS RES, P303
+   ZHU BY, 1993, PROTEIN SCI, V2, P383
+NR 44
+TC 10
+Z9 10
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998 USA
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD OCT
+PY 2003
+VL 85
+IS 4
+BP 2606
+EP 2618
+DI 10.1016/S0006-3495(03)74683-9
+PG 13
+WC Biophysics
+SC Biophysics
+GA 726AQ
+UT WOS:000185575400049
+ER
+
+PT J
+AU Nakao, M
+   Arai, M
+   Koshiba, T
+   Nitta, K
+   Kuwajima, K
+AF Nakao, M
+   Arai, M
+   Koshiba, T
+   Nitta, K
+   Kuwajima, K
+TI Folding mechanism of canine milk lysozyme studied by circular dichroism
+   and fluorescence spectroscopy
+SO SPECTROSCOPY-AN INTERNATIONAL JOURNAL
+LA English
+DT Article; Proceedings Paper
+CT 1st International Conference on Biomedical Spectroscopy
+CY JUL 07-10, 2002
+CL CARDIFF, WALES
+ID MOLTEN GLOBULE STATE; ALPHA-LACTALBUMIN; GUANIDINE-HYDROCHLORIDE;
+   HYDROGEN-EXCHANGE; EQUINE LYSOZYME; PROTEIN; INTERMEDIATE; EQUILIBRIUM;
+   STABILITY; KINETICS
+AB We have studied the guanidine hydrochloride-induced equilibrium unfolding and the kinetics of refolding of canine milk lysozyme by circular dichroism and fluorescence spectroscopy. The thermodynamic analysis of the equilibrium unfolding measured by circular dichroism and fluorescence has shown that unfolding is represented by a three-state mechanism and that the intermediate state of canine milk lysozyme is remarkably more stable than the intermediates observed in other lysozyme and alpha-lactalbumin. In the kinetic refolding of this protein, there are at least two kinetic intermediates; a burst-phase intermediate accumulated within the dead time (4 ms) of the measurement and an intermediate that has been observed during the kinetics with a rate constant of 10-20 s(-1) after the burst phase. This result is apparently in contrast with those previously observed in the kinetic refolding of alpha-lactalbumin and equine lysozyme that show only the burst-phase intermediate. The relationship between the extraordinarily stable equilibrium molten globule and the kinetic folding intermediates will be discussed.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   Hokkaido Univ, Grad Sch Sci, Div Biol Sci, Kita Ku, Sapporo, Hokkaido 0600810, Japan.
+RI Arai, Munehito/A-1258-2012
+CR Arai M, 1996, FOLD DES, V1, P275, DOI 10.1016/S1359-0278(96)00041-7
+   Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   IKEGUCHI M, 1986, BIOCHEMISTRY-US, V25, P6965, DOI 10.1021/bi00370a034
+   Kikuchi M, 1998, PROTEIN SCI, V7, P2150
+   KIM PS, 1990, ANNU REV BIOCHEM, V59, P631, DOI 10.1146/annurev.biochem.59.1.631
+   Kobashigawa Y, 2000, PROTEINS, V40, P579, DOI 10.1002/1097-0134(20000901)40:4<579::AID-PROT40>3.0.CO;2-1
+   Koshiba T, 2000, BIOCHEMISTRY-US, V39, P3248, DOI 10.1021/bi991525a
+   Koshiba T, 1999, PROTEIN ENG, V12, P429, DOI 10.1093/protein/12.5.429
+   Kuwajima K, 1996, FASEB J, V10, P102
+   KUWAJIMA K, 1985, BIOCHEMISTRY-US, V24, P874, DOI 10.1021/bi00325a010
+   KUWAJIMA K, 1989, J MOL BIOL, V206, P547, DOI 10.1016/0022-2836(89)90500-7
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   Mizuguchi M, 1998, J MOL BIOL, V283, P265, DOI 10.1006/jmbi.1998.2100
+   MOROZOVA LA, 1995, NAT STRUCT BIOL, V2, P871, DOI 10.1038/nsb1095-871
+   MorozovaRoche LA, 1997, J MOL BIOL, V268, P903, DOI 10.1006/jmbi.1997.0996
+   Pace C N, 1986, Methods Enzymol, V131, P266
+   PTITSYN OB, 1995, TRENDS BIOCHEM SCI, V20, P376, DOI 10.1016/S0968-0004(00)89081-7
+   SCHULMAN BA, 1995, J MOL BIOL, V253, P651, DOI 10.1006/jmbi.1995.0579
+NR 20
+TC 3
+Z9 3
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0712-4813
+J9 SPECTROSC-INT J
+JI Spectr.-Int. J.
+PY 2003
+VL 17
+IS 2-3
+BP 183
+EP 193
+PG 11
+WC Biochemical Research Methods; Spectroscopy
+SC Biochemistry & Molecular Biology; Spectroscopy
+GA 665MB
+UT WOS:000182123800008
+ER
+
+PT J
+AU Kamagata, K
+   Kuwajima, K
+AF Kamagata, K
+   Kuwajima, K
+TI Parallel folding pathway of proline-free staphylococcal nuclease studied
+   by the stopped-flow double-jump method
+SO SPECTROSCOPY-AN INTERNATIONAL JOURNAL
+LA English
+DT Article; Proceedings Paper
+CT 1st International Conference on Biomedical Spectroscopy
+CY JUL 07-10, 2002
+CL CARDIFF, WALES
+ID RECOMBINANT ALPHA-LACTALBUMIN; HYDROGEN-EXCHANGE; ESCHERICHIA-COLI;
+   PEPTIDE-BONDS; INTERMEDIATE; KINETICS; ISOMERIZATION; METHIONINE;
+   PROTEINS; RESIDUE
+AB The folding mechanism of proline-free staphylococcal nuclease (SNase (pro(-))) (P11A, P31A, P42A, P47T, P56A, P117G) was investigated using the double-jump stopped-flow method (interrupted refolding). This method has enabled us to specifically monitor the amount of the native molecules during the refolding. The results indicate that the middle and slow phases observed in the refolding kinetics represent the formation of the native state (I-M-->N, I-S-->N) and that the folding mechanism of SNase (pro(-)) is not represented by a single sequential pathway, but at least two parallel pathways are required for interpreting the results.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+CR ADAMS JM, 1968, J MOL BIOL, V33, P571, DOI 10.1016/0022-2836(68)90307-0
+   BENBASSAT A, 1987, J BACTERIOL, V169, P751
+   Bieri O, 1999, BIOCHEMISTRY-US, V38, P12460, DOI 10.1021/bi9909703
+   BRANDTS JF, 1975, BIOCHEMISTRY-US, V14, P4953, DOI 10.1021/bi00693a026
+   BRISSETTE P, 1989, ANAL BIOCHEM, V181, P234, DOI 10.1016/0003-2697(89)90235-2
+   Chaudhuri TK, 1999, J MOL BIOL, V285, P1179, DOI 10.1006/jmbi.1998.2362
+   HYNES TR, 1991, PROTEINS, V10, P92, DOI 10.1002/prot.340100203
+   Ikura T, 1997, BIOCHEMISTRY-US, V36, P6529, DOI 10.1021/bi963174v
+   Ishikawa N, 1998, PROTEIN ENG, V11, P333, DOI 10.1093/protein/11.5.333
+   JACOBS MD, 1994, P NATL ACAD SCI USA, V91, P449, DOI 10.1073/pnas.91.2.449
+   KIEFHABER T, 1995, P NATL ACAD SCI USA, V92, P9029, DOI 10.1073/pnas.92.20.9029
+   KUWAJIMA K, 1991, FEBS LETT, V290, P135, DOI 10.1016/0014-5793(91)81243-2
+   Maki K, 1999, BIOCHEMISTRY-US, V38, P2213, DOI 10.1021/bi981962+
+   MARCKER K, 1964, J MOL BIOL, V8, P835
+   Nishimura C, 2000, J MOL BIOL, V299, P1133, DOI 10.1006/jmbi.2000.3804
+   ODEFEY C, 1995, J MOL BIOL, V245, P69, DOI 10.1006/jmbi.1994.0007
+   Pappenberger G, 2001, NAT STRUCT BIOL, V8, P452, DOI 10.1038/87624
+   PAUL C, 1980, ANAL BIOCHEM, V10, P442
+   SCHECHTE.AN, 1970, SCIENCE, V167, P886, DOI 10.1126/science.167.3919.886
+   Scherer G, 1998, J AM CHEM SOC, V120, P5568, DOI 10.1021/ja980181t
+   SUGAWARA T, 1991, BIOCHEMISTRY-US, V30, P2698, DOI 10.1021/bi00224a018
+   TAKEDA M, 1968, P NATL ACAD SCI USA, V60, P1487, DOI 10.1073/pnas.60.4.1487
+   Walkenhorst WF, 2002, PROTEIN SCI, V11, P82, DOI 10.1101/ps.28202
+   Walkenhorst William F., 1997, Biochemistry, V36, P5795, DOI 10.1021/bi9700476
+   Wildegger G, 1997, J MOL BIOL, V270, P294, DOI 10.1006/jmbi.1997.1030
+NR 25
+TC 1
+Z9 1
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0712-4813
+J9 SPECTROSC-INT J
+JI Spectr.-Int. J.
+PY 2003
+VL 17
+IS 2-3
+BP 203
+EP 212
+PG 10
+WC Biochemical Research Methods; Spectroscopy
+SC Biochemistry & Molecular Biology; Spectroscopy
+GA 665MB
+UT WOS:000182123800010
+ER
+
+PT J
+AU Kuwajima, K
+   Makio, T
+   Inobe, T
+AF Kuwajima, K
+   Makio, T
+   Inobe, T
+TI Chaperonin-affected folding of globular proteins
+SO JOURNAL OF BIOLOGICAL PHYSICS
+LA English
+DT Article
+DE chaperonin; GroEL; molecular chaperone; protein folding
+ID ALPHA-LACTALBUMIN; NUCLEOTIDE-BINDING; GROEL; ATP; ADP; POLYPEPTIDE;
+   KINETICS; AFFINITY; COMPLEX; MUTANTS
+AB We studied the effect of GroEL on the kinetic refolding of alpha-lactalbumin by stopped-flow fluorescence techniques. We used wild-type GroEL and its ATPase-defficient mutant D398A, and studied the binding constants between GroEL and the molten globule folding intermediate at various concentrations of ADP and ATP. The results are compared with titration of GroEL with the nucleotides, ADP, ATP-analogs (ATP-gammaS and AMP-PNP) and ATP, which have shown that both ADP and the ATP analogs are bound to GroEL in a non-cooperative manner but that ATP shows a cooperative effect. Similarly, the binding constant between GroEL and the folding intermediate decreased in a cooperative manner with an increase in ATP concentration although it showed non-cooperative decrease with respect to ADP concentration. It is shown that the allosteric control of GroEL by the nucleotides is responsible for the above behavior of GroEL and that the observed difference between the ATP- and ADP-induced transitions of GroEL is brought about by a small difference in an allosteric parameter (the ratio of the nucleotide affinities of GroEL in the high-affinity and the low-affinity states), i.e., 4.1 for ATP and 2.6 for ADP.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+CR Bukau B, 1998, CELL, V92, P351, DOI 10.1016/S0092-8674(00)80928-9
+   Fenton WA, 1997, PROTEIN SCI, V6, P743
+   Inobe T, 2001, BBA-PROTEIN STRUCT M, V1545, P160, DOI 10.1016/S0167-4838(00)00274-0
+   Katsumata K, 1996, J MOL BIOL, V264, P643, DOI 10.1006/jmbi.1996.0666
+   Katsumata K, 1996, J MOL BIOL, V258, P827, DOI 10.1006/jmbi.1996.0290
+   KAWATA Y, 1994, FEBS LETT, V345, P229, DOI 10.1016/0014-5793(94)00456-0
+   KOSHLAND DE, 1966, BIOCHEMISTRY-US, V5, P365, DOI 10.1021/bi00865a047
+   Makio T, 1999, J MOL BIOL, V293, P125, DOI 10.1006/jmbi.1999.3142
+   Makio T, 2001, J MOL BIOL, V312, P555, DOI 10.1006/jmbi.2001.4959
+   MONOD J, 1965, J MOL BIOL, V12, P88
+   Rye HS, 1999, CELL, V97, P325, DOI 10.1016/S0092-8674(00)80742-4
+   Sparrer H, 1996, J MOL BIOL, V258, P74, DOI 10.1006/jmbi.1996.0235
+   STANIFORTH RA, 1994, BIOCHEM J, V300, P651
+   Terada TP, 1999, BBA-PROTEIN STRUCT M, V1431, P269, DOI 10.1016/S0167-4838(99)00049-7
+   Tsurupa GP, 1998, J MOL BIOL, V277, P733, DOI 10.1006/jmbi.1998.1630
+   VIITANEN PV, 1991, BIOCHEMISTRY-US, V30, P9716, DOI 10.1021/bi00104a021
+   WEISSMAN JS, 1995, CELL, V83, P577, DOI 10.1016/0092-8674(95)90098-5
+   YIFRACH O, 1995, BIOCHEMISTRY-US, V34, P5303, DOI 10.1021/bi00016a001
+   Yifrach O, 1996, J MOL BIOL, V255, P356, DOI 10.1006/jmbi.1996.0028
+   Yifrach O, 2000, P NATL ACAD SCI USA, V97, P1521, DOI 10.1073/pnas.040449997
+NR 20
+TC 0
+Z9 0
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0092-0606
+J9 J BIOL PHYS
+JI J. Biol. Phys.
+PY 2002
+VL 28
+IS 2
+BP 77
+EP 93
+DI 10.1023/A:1019993102869
+PG 17
+WC Biophysics
+SC Biophysics
+GA 588JB
+UT WOS:000177697400001
+ER
+
+PT J
+AU Kuwajima, K
+   Arai, M
+   Inobe, T
+   Ito, K
+   Nakao, M
+   Maki, K
+   Kamagata, K
+   Kihara, H
+   Amemiya, Y
+AF Kuwajima, K
+   Arai, M
+   Inobe, T
+   Ito, K
+   Nakao, M
+   Maki, K
+   Kamagata, K
+   Kihara, H
+   Amemiya, Y
+TI The use of the time-resolved X-ray solution scattering for studies of
+   globular proteins
+SO SPECTROSCOPY-AN INTERNATIONAL JOURNAL
+LA English
+DT Article; Proceedings Paper
+CT 1st International Conference on Biomedical Spectroscopy
+CY JUL 07-10, 2002
+CL CARDIFF, WALES
+ID ALPHA-LACTALBUMIN; CHAPERONIN GROEL; MOLTEN GLOBULE; KINETIC-ANALYSIS;
+   BINDING; STATE; ATP; ADP
+AB In order to improve the low signal-to-noise ratio of the time-resolved small-angle X-ray scattering, we have used a two-dimensional X-ray detector with a beryllium-windowed X-ray image intensifier and a charge-coupled device as an image sensor, and applied this to studies on (1) the kinetic folding reaction of alpha-lactalbumin, which accumulates the molten globule-like intermediate at an early stage of refolding and (2) the cooperative conformational transition of Escherichia coli chaperonin GroEL induced by ATP, which occurs in an allosteric manner between the close and open conformational states. In the alpha-lactalbumin reaction, we have firmly established the equivalence between the kinetic intermediate and the equilibrium molten globule state, and obtained further information about dehydration from the highly hydrated folding intermediate during a late stage of refolding. In the chaperonin study, we have successfully observed the kinetics of the allosteric transition of GroEL that occurs with a rate constant of about 3-4 s(-1) at 5degreesC. The combination of the time-resolved X-ray scattering with other spectroscopic techniques such as circular dichroism and intrinsic fluorescence is thus very effective in understanding the conformational transitions of proteins and protein complexes.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   NIAIST, Inst Mol Cell Biol, Tsukuba, Ibaraki 3058566, Japan.
+   Kansai Med Univ, Dept Phys, Hirakata, Osaka 5731136, Japan.
+   Univ Tokyo, Grad Sch Frontier Sci, Dept Adv Mat Sci, Bunkyo Ku, Tokyo 1138656, Japan.
+EM kuwajima@phys.s.u-tokyo.ac.jp
+RI Arai, Munehito/A-1258-2012
+CR AMEMIYA Y, 1995, REV SCI INSTRUM, V66, P2290, DOI 10.1063/1.1145667
+   AMEMIYA Y, 1983, NUCL INSTRUM METHODS, V208, P471, DOI 10.1016/0167-5087(83)91170-5
+   Arai M, 1999, INT CONGR SER, V1194, P31
+   Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   Arai M, 2002, J MOL BIOL, V321, P121, DOI 10.1016/S0022-2836(02)00566-1
+   Arai M, 1998, J MOL BIOL, V275, P149, DOI 10.1006/jmbi.1997.1456
+   BRAIG K, 1995, NAT STRUCT BIOL, V2, P1083, DOI 10.1038/nsb1295-1083
+   Cliff MJ, 1999, J MOL BIOL, V293, P667, DOI 10.1006/jmbi.1999.3138
+   Doniach S, 2001, CHEM REV, V101, P1763, DOI 10.1021/cr990071k
+   Fenton WA, 1997, PROTEIN SCI, V6, P743
+   Glatter O, 1982, SMALL ANGLE XRAY SCA
+   Inobe T, 2001, BBA-PROTEIN STRUCT M, V1545, P160, DOI 10.1016/S0167-4838(00)00274-0
+   Ito K., 2001, PHOTON FACTORY ACTIV, V18, P275
+   ITO K, 2000, J JPN SOC SYNCHROTRO, V13, P372
+   Kataoka M, 1997, PROTEIN SCI, V6, P422
+   Koradi R, 1996, J MOL GRAPHICS, V14, P51, DOI 10.1016/0263-7855(96)00009-4
+   KUWAJIMA K, 1985, BIOCHEMISTRY-US, V24, P874, DOI 10.1021/bi00325a010
+   Makio T, 1999, J MOL BIOL, V293, P125, DOI 10.1006/jmbi.1999.3142
+   Makio T, 2001, J MOL BIOL, V312, P555, DOI 10.1006/jmbi.2001.4959
+   Pace C N, 1986, Methods Enzymol, V131, P266
+   Ptitsyn OB, 1995, ADV PROTEIN CHEM, V47, P83, DOI 10.1016/S0065-3233(08)60546-X
+   Semisotnov GV, 1996, J MOL BIOL, V262, P559, DOI 10.1006/jmbi.1996.0535
+   Svergun DI, 1998, P NATL ACAD SCI USA, V95, P2267, DOI 10.1073/pnas.95.5.2267
+   Xu ZH, 1997, NATURE, V388, P741
+   YIFRACH O, 1995, BIOCHEMISTRY-US, V34, P5303, DOI 10.1021/bi00016a001
+   Yifrach O, 1998, BIOCHEMISTRY-US, V37, P7083, DOI 10.1021/bi980370o
+NR 26
+TC 2
+Z9 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0712-4813
+J9 SPECTROSC-INT J
+JI Spectr.-Int. J.
+PY 2002
+VL 16
+IS 3-4
+SI SI
+BP 127
+EP 138
+PG 12
+WC Biochemical Research Methods; Spectroscopy
+SC Biochemistry & Molecular Biology; Spectroscopy
+GA 618WA
+UT WOS:000179439200005
+ER
+
+PT J
+AU Horii, K
+   Saito, M
+   Yoda, T
+   Tsumoto, K
+   Matsushima, M
+   Kuwajima, K
+   Kumagai, I
+AF Horii, K
+   Saito, M
+   Yoda, T
+   Tsumoto, K
+   Matsushima, M
+   Kuwajima, K
+   Kumagai, I
+TI Contribution of Thr29 to the thermodynamic stability of goat
+   alpha-lactalbumin as determined by experimental and theoretical
+   approaches
+SO PROTEINS-STRUCTURE FUNCTION AND GENETICS
+LA English
+DT Article
+DE protein stability; X-ray crystallography; free energy calculation;
+   molecular dynamics simulation
+ID FREE-ENERGY CALCULATIONS; MOLTEN GLOBULE STATE; MOLECULAR-DYNAMICS
+   SIMULATIONS; CAVITY-FILLING MUTATIONS; ACID SIDE-CHAINS; PROTEIN
+   STABILITY; T4 LYSOZYME; HYDROPHOBIC-INTERACTION; CRYSTAL-STRUCTURES;
+   1.7-A RESOLUTION
+AB The Thr29 residue in the hydrophobic core of goat alpha -lactalbumin (alpha -LA) was substituted with Val (Thr29Val) and Ile (Thr29Ile) to investigate the contribution of Thr29 to the thermodynamic stability of the protein. We carried out protein stability measurements, X-ray crystallographic analyses, and free energy calculations based on molecular dynamics simulation. The equilibrium unfolding transitions induced by guanidine hydrochloride demonstrated that the Thr29Val and Thr29Ile, mutants were, respectively, 1.9 and 3.2 kcal/mol more stable than the wild-type protein (WT). The overall structures of the mutants were almost identical to that of WT, in spite of the disruption of the hydrogen bonding between the sidechain O-H group of Thr29 and the main-chain C=O group of Glu25. To analyze the stabilization mechanism of the mutants, we performed free energy calculations. The calculated free energy differences were in good agreement with the experimental values. The stabilization of the mutants was mainly caused by solvation loss in the denatured state. Futhermore, the O-H group of Thr29 favorably interacts with the C=O group of Glu25 to form hydrogen bonds and, simultaneously, unfavorably interacts electrostatically with the main-chain C=O group of Thr29. The difference in the free energy profile of the unfolding path between WT and the Thr29Ile mutant is discussed in light of our experimental and theoretical results. (C) 2001 Wiley-Liss, Inc.
+C1 Tohoku Univ, Grad Sch Engn, Dept Biomol Engn, Sendai, Miyagi 9808579, Japan.
+   Hirosaki Univ, Fac Sci & Technol, Hirosaki, Aomori, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 113, Japan.
+   Rat Drug Design Lab, Fukushima, Japan.
+RP Kumagai, I (reprint author), Tohoku Univ, Grad Sch Engn, Dept Biomol Engn, Sendai, Miyagi 9808579, Japan.
+CR ACHARYA KR, 1989, J MOL BIOL, V208, P99, DOI 10.1016/0022-2836(89)90091-0
+   ACHARYA KR, 1991, J MOL BIOL, V221, P571
+   Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   BENNETT CH, 1976, J COMPUT PHYS, V22, P245, DOI 10.1016/0021-9991(76)90078-4
+   Berendsen H. J. C., 1981, INTERMOLECULAR FORCE, P331
+   BORESCH S, 1994, PROTEINS, V20, P25, DOI 10.1002/prot.340200105
+   Brooks III C L, 1988, PROTEINS THEORETICAL
+   BRUNGER AT, 1992, NATURE, V355, P472, DOI 10.1038/355472a0
+   BRUNGER AT, 1990, ACTA CRYSTALLOGR A, V46, P46, DOI 10.1107/S0108767389009633
+   BRUNGER AT, 1996, XPLOR SYSTEM XRAY CR
+   Chaudhuri TK, 1999, J MOL BIOL, V285, P1179, DOI 10.1006/jmbi.1998.2362
+   CORNELL WD, 1995, J AM CHEM SOC, V117, P5179, DOI 10.1021/ja00124a002
+   DANG LX, 1989, J AM CHEM SOC, V111, P8505, DOI 10.1021/ja00204a027
+   FERSHT AR, 1993, CURR OPIN STRUC BIOL, V3, P75, DOI 10.1016/0959-440X(93)90205-Y
+   Forge V, 1999, J MOL BIOL, V288, P673, DOI 10.1006/jmbi.1999.2687
+   GRAY TM, 1984, J MOL BIOL, V175, P75, DOI 10.1016/0022-2836(84)90446-7
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   JANIN J, 1978, J MOL BIOL, V125, P357, DOI 10.1016/0022-2836(78)90408-4
+   KELLIS JT, 1989, BIOCHEMISTRY-US, V28, P4914, DOI 10.1021/bi00437a058
+   KOLLMAN P, 1993, CHEM REV, V93, P2395, DOI 10.1021/cr00023a004
+   Kono H, 2000, PROTEINS, V38, P197, DOI 10.1002/(SICI)1097-0134(20000201)38:2<197::AID-PROT8>3.0.CO;2-B
+   KRAULIS PJ, 1991, J APPL CRYSTALLOGR, V24, P946, DOI 10.1107/S0021889891004399
+   KUMAGAI I, 1990, PROTEIN ENG, V3, P449, DOI 10.1093/protein/3.5.449
+   KUNKEL TA, 1987, METHOD ENZYMOL, V154, P367
+   Kuwajima K, 1996, FASEB J, V10, P102
+   KUWAJIMA K, 1980, BIOCHIM BIOPHYS ACTA, V623, P389, DOI 10.1016/0005-2795(80)90268-8
+   LINDAHL L, 1984, ANAL BIOCHEM, V140, P394, DOI 10.1016/0003-2697(84)90184-2
+   MARK AE, 1994, J MOL BIOL, V240, P167, DOI 10.1006/jmbi.1994.1430
+   Matthews BW, 1996, FASEB J, V10, P35
+   MATTHEWS BW, 1995, ADV PROTEIN CHEM, V46, P249, DOI 10.1016/S0065-3233(08)60337-X
+   MCKENZIE HA, 1991, ADV PROTEIN CHEM, V41, P173, DOI 10.1016/S0065-3233(08)60198-9
+   OTWINOWSKI Z, 1993, DENZO FILM PROCESSIN
+   Pace CN, 1996, FASEB J, V10, P75
+   Pace C N, 1986, Methods Enzymol, V131, P266
+   PEARLMAN DA, 1995, AMBER VERSION 4 1
+   Pike ACW, 1996, STRUCTURE, V4, P691, DOI 10.1016/S0969-2126(96)00075-5
+   PREVOST M, 1991, P NATL ACAD SCI USA, V88, P10880, DOI 10.1073/pnas.88.23.10880
+   PRIVALOV PL, 1988, ADV PROTEIN CHEM, V39, P191
+   RICHARDSON RH, 1980, J BIOL CHEM, V255, P3377
+   ROUSSEL A, 1992, TURBO FRODO VERSION
+   SAITO M, 1990, J COMPUT CHEM, V11, P76, DOI 10.1002/jcc.540110109
+   SAITO M, 1994, J CHEM PHYS, V101, P4055, DOI 10.1063/1.468411
+   SAITO M, 1995, CHEM PHYS LETT, V236, P156, DOI 10.1016/0009-2614(95)00181-3
+   Saito M, 2000, J PHYS CHEM B, V104, P3705, DOI 10.1021/jp991717f
+   Saito M, 1999, PROTEIN ENG, V12, P1097, DOI 10.1093/protein/12.12.1097
+   SAITO M, 1992, MOL SIMULAT, V8, P321, DOI 10.1080/08927029208022487
+   SANGER F, 1977, NATURE, V265, P687, DOI 10.1038/265687a0
+   Sauer RT, 1996, FASEB J, V10, P42
+   SAWANO H, 1992, FEBS LETT, V303, P11, DOI 10.1016/0014-5793(92)80466-T
+   Shi Y Y, 1993, Protein Eng, V6, P289
+   STUDIER FW, 1986, J MOL BIOL, V189, P113, DOI 10.1016/0022-2836(86)90385-2
+   Sugita Y, 1998, FOLD DES, V3, P173, DOI 10.1016/S1359-0278(98)00025-X
+   TIDOR B, 1991, BIOCHEMISTRY-US, V30, P3217, DOI 10.1021/bi00227a009
+   Uchiyama H, 1995, PROTEIN ENG, V8, P1153, DOI 10.1093/protein/8.11.1153
+   Wang L, 1998, PROTEINS, V32, P438, DOI 10.1002/(SICI)1097-0134(19980901)32:4<438::AID-PROT4>3.0.CO;2-C
+   WOLFENDEN R, 1981, BIOCHEMISTRY-US, V20, P849, DOI 10.1021/bi00507a030
+   YODA T, 2000, PROTEINS, V42, P49
+NR 58
+TC 8
+Z9 8
+PU WILEY-LISS
+PI NEW YORK
+PA DIV JOHN WILEY & SONS INC, 605 THIRD AVE, NEW YORK, NY 10158-0012 USA
+SN 0887-3585
+J9 PROTEINS
+JI Proteins
+PD OCT 1
+PY 2001
+VL 45
+IS 1
+BP 16
+EP 29
+DI 10.1002/prot.1119
+PG 14
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 469PZ
+UT WOS:000170825200004
+ER
+
+PT J
+AU Inobe, T
+   Makio, T
+   Takasu-Ishikawa, E
+   Terada, TP
+   Kuwajima, K
+AF Inobe, T
+   Makio, T
+   Takasu-Ishikawa, E
+   Terada, TP
+   Kuwajima, K
+TI Nucleotide binding to the chaperonin GroEL: non-cooperative binding of
+   ATP analogs and ADP, and cooperative effect of ATP
+SO BIOCHIMICA ET BIOPHYSICA ACTA-PROTEIN STRUCTURE AND MOLECULAR ENZYMOLOGY
+LA English
+DT Article
+DE chaperonin; cooperativity; nucleotide titration; allosteric effect;
+   isothermal titration calorimetry
+ID ALPHA-LACTALBUMIN; ESCHERICHIA-COLI; CONFORMATIONAL-CHANGES;
+   CRYSTAL-STRUCTURE; ADENOSINE 5'-TRIPHOSPHATE; KINETIC-ANALYSIS; PROTEIN;
+   HYDROLYSIS; RELEASE; MECHANISM
+AB Chaperonin-assisted protein folding proceeds through cycles of ATP binding and hydrolysis by GroEL, which undergoes a large structural change by the ATP binding or hydrolysis. One of the main concerns of GroEL is the mechanism of the productive and cooperative structural change of GroEL induced by the nucleotide. We studied the cooperative nature of GroEL by nucleotide titration using isothermal titration calorimetry and fluorescence spectroscopy. Our results indicated that the binding of ADP and ATP analogs to a single ring mutant (SR1), as well as that to GroEL, was non-cooperative. Only ATP induces an apparently cooperative conformational change in both proteins. Furthermore, the fluorescence changes of pyrene-labeled GroEL indicated that GroEL has two kinds of nucleotide binding sites. The fluorescence titration result fits well with a model in which two kinds of binding sites are both non-cooperative and independent of each other. These results suggest that the binding and hydrolysis of ATP may be necessary for the cooperative transition of GroEL. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+RP Kuwajima, K (reprint author), Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+CR Aharoni A, 1996, J MOL BIOL, V258, P732, DOI 10.1006/jmbi.1996.0282
+   Ben-Zvi AP, 1998, P NATL ACAD SCI USA, V95, P15275, DOI 10.1073/pnas.95.26.15275
+   Boisvert DC, 1996, NAT STRUCT BIOL, V3, P170, DOI 10.1038/nsb0296-170
+   BRAIG K, 1994, NATURE, V371, P578, DOI 10.1038/371578a0
+   BRAIG K, 1995, NAT STRUCT BIOL, V2, P1083, DOI 10.1038/nsb1295-1083
+   BUCHNER J, 1991, BIOCHEMISTRY-US, V30, P1586, DOI 10.1021/bi00220a020
+   Bukau B, 1998, CELL, V92, P351, DOI 10.1016/S0092-8674(00)80928-9
+   BURSTON SG, 1995, J MOL BIOL, V249, P138, DOI 10.1006/jmbi.1995.0285
+   Chatellier J, 1999, J MOL BIOL, V292, P163, DOI 10.1006/jmbi.1999.3040
+   Churchich JE, 1997, J BIOL CHEM, V272, P19645, DOI 10.1074/jbc.272.32.19645
+   Clark AC, 1999, PROTEIN SCI, V8, P2166
+   Cliff MJ, 1999, J MOL BIOL, V293, P667, DOI 10.1006/jmbi.1999.3138
+   Corrales FJ, 1996, P NATL ACAD SCI USA, V93, P4509, DOI 10.1073/pnas.93.9.4509
+   FENTON WA, 1994, NATURE, V371, P614, DOI 10.1038/371614a0
+   Fenton WA, 1997, PROTEIN SCI, V6, P743
+   Galan A, 1999, EUR J BIOCHEM, V259, P347, DOI 10.1046/j.1432-1327.1999.00045.x
+   GRAY TE, 1991, FEBS LETT, V292, P254, DOI 10.1016/0014-5793(91)80878-7
+   Horovitz A, 1998, CURR OPIN STRUC BIOL, V8, P93, DOI 10.1016/S0959-440X(98)80015-8
+   HOROVITZ A, 1993, J MOL BIOL, V231, P58, DOI 10.1006/jmbi.1993.1256
+   Horst M, 1996, PROTEIN SCI, V5, P759
+   ITO K, 1991, MOL MICROBIOL, V5, P2243, DOI 10.1111/j.1365-2958.1991.tb02154.x
+   JACKSON GS, 1993, BIOCHEMISTRY-US, V32, P2554, DOI 10.1021/bi00061a013
+   Kad NM, 1998, J MOL BIOL, V278, P267, DOI 10.1006/jmbi.1998.1704
+   Katsumata K, 1996, J MOL BIOL, V264, P643, DOI 10.1006/jmbi.1996.0666
+   Katsumata K, 1996, J MOL BIOL, V258, P827, DOI 10.1006/jmbi.1996.0290
+   Kawata Y, 1999, BIOCHEMISTRY-US, V38, P15731, DOI 10.1021/bi9909750
+   LIN ZL, 1995, J BIOL CHEM, V270, P1011
+   Lin ZL, 1996, P NATL ACAD SCI USA, V93, P1977, DOI 10.1073/pnas.93.5.1977
+   Makio T, 1999, J MOL BIOL, V293, P125, DOI 10.1006/jmbi.1999.3142
+   OKAZAKI A, 1994, NAT STRUCT BIOL, V1, P439, DOI 10.1038/nsb0794-439
+   Press W. H., 1992, NUMERICAL RECIPES FO, V77, P678
+   Roseman AM, 1996, CELL, V87, P241, DOI 10.1016/S0092-8674(00)81342-2
+   Shtilerman M, 1999, SCIENCE, V284, P822, DOI 10.1126/science.284.5415.822
+   Sigler PB, 1998, ANNU REV BIOCHEM, V67, P581, DOI 10.1146/annurev.biochem.67.1.581
+   Sparrer H, 1997, J BIOL CHEM, V272, P14080, DOI 10.1074/jbc.272.22.14080
+   Terada TP, 1999, BBA-PROTEIN STRUCT M, V1431, P269, DOI 10.1016/S0167-4838(99)00049-7
+   TODD MJ, 1993, BIOCHEMISTRY-US, V32, P8560, DOI 10.1021/bi00084a024
+   Tsurupa GP, 1998, J MOL BIOL, V277, P733, DOI 10.1006/jmbi.1998.1630
+   Wang JD, 1998, P NATL ACAD SCI USA, V95, P12163, DOI 10.1073/pnas.95.21.12163
+   WEISSMAN JS, 1995, CELL, V83, P577, DOI 10.1016/0092-8674(95)90098-5
+   WEISSMAN JS, 1994, CELL, V78, P693, DOI 10.1016/0092-8674(94)90533-9
+   YIFRACH O, 1994, J MOL BIOL, V243, P397, DOI 10.1006/jmbi.1994.1667
+   YIFRACH O, 1995, BIOCHEMISTRY-US, V34, P5303, DOI 10.1021/bi00016a001
+   Yifrach O, 1996, J MOL BIOL, V255, P356, DOI 10.1006/jmbi.1996.0028
+   Yifrach O, 1998, BIOCHEMISTRY-US, V37, P7083, DOI 10.1021/bi980370o
+NR 45
+TC 34
+Z9 34
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-4838
+J9 BBA-PROTEIN STRUCT M
+JI Biochim. Biophys. Acta-Protein Struct. Molec. Enzym.
+PD FEB 9
+PY 2001
+VL 1545
+IS 1-2
+BP 160
+EP 173
+DI 10.1016/S0167-4838(00)00274-0
+PG 14
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 403ZJ
+UT WOS:000167072700018
+ER
+
+PT J
+AU Yoda, T
+   Saito, M
+   Arai, M
+   Horii, K
+   Tsumoto, K
+   Matsushima, M
+   Kumagai, I
+   Kuwajima, K
+AF Yoda, T
+   Saito, M
+   Arai, M
+   Horii, K
+   Tsumoto, K
+   Matsushima, M
+   Kumagai, I
+   Kuwajima, K
+TI Folding-unfolding of goat alpha-lactalbumin studied by stopped-flow
+   circular dichroism and molecular dynamics simulations
+SO PROTEINS-STRUCTURE FUNCTION AND GENETICS
+LA English
+DT Article
+DE protein folding; transition state; hydrophobic core; high-temperature
+   simulation; early stage of unfolding
+ID MOLTEN GLOBULE STATE; TRANSITION-STATE; GUINEA-PIG; SECONDARY STRUCTURE;
+   HYDROGEN-EXCHANGE; 1.7-A RESOLUTION; HYDROPHOBIC CORE; RAPID FORMATION;
+   PROTEIN; INTERMEDIATE
+AB Folding reaction of goat alpha -lactalbumin has been studied by stopped-flow circular dichroism and molecular dynamics simulations. The effects of four single mutations and a double mutation on the stability of the protein under a native condition were studied. The mutations were introduced into residues located at a hydrophobic core in the alpha -domain of the molecule. Here we show that an amino acid substitution (T29I) increases the native-state stability of goat alpha -lactalbumin against the guanidine hydrochloride-induced unfolding by 3.5 kcal/mol. Kinetic refolding and unfolding of wild-type and mutant goat alpha -lactalbumin measured by stopped-flow circular dichroism showed that the local structure around the Thr29 side chain was not constructed in the transition state of the folding reaction. To characterize the local structural change around the Thr29 side chain to an atomic level of resolution, we performed high-temperature (at 400 K and 600 K) molecular dynamics simulations and studied the structural change at an initial stage of unfolding observed in the simulation trajectories. The Thr29 portion of the molecule experienced structural disruption accompanied with the loss of inter-residue contacts and with the water molecule penetration in the 400-K simulation as well as in four of the six 600-K simulations. Disruption of the N-terminal portion was also observed and was consistent with the results of kinetic refolding/unfolding experiments shown in our previous report. Proteins 2001;42:49-65. (C) 2000 Wiley-Liss, Inc.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   Hirosaki Univ, Fac Sci & Technol, Hirosaki, Aomori, Japan.
+   Tohoku Univ, Dept Biomol Engn, Aoba Ku, Sendai, Miyagi 980, Japan.
+   Rat Drug Design Labs, Fukushima, Japan.
+RP Kuwajima, K (reprint author), Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+RI Arai, Munehito/A-1258-2012
+CR ACHARYA KR, 1989, J MOL BIOL, V208, P99, DOI 10.1016/0022-2836(89)90091-0
+   ACHARYA KR, 1991, J MOL BIOL, V221, P571
+   ALEXANDRESCU AT, 1993, BIOCHEMISTRY-US, V32, P1707, DOI 10.1021/bi00058a003
+   Arai M, 1996, FOLD DES, V1, P275, DOI 10.1016/S1359-0278(96)00041-7
+   Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   BAUM J, 1989, BIOCHEMISTRY-US, V28, P7, DOI 10.1021/bi00427a002
+   BERENDSEN HJC, 1984, J CHEM PHYS, V81, P3684, DOI 10.1063/1.448118
+   Caflisch A, 1999, STRUCT FOLD DES, V7, P477, DOI 10.1016/S0969-2126(99)80064-1
+   Case D., 1997, AMBER 5, V5
+   Chaudhuri TK, 1999, J MOL BIOL, V285, P1179, DOI 10.1006/jmbi.1998.2362
+   CHYAN CL, 1993, BIOCHEMISTRY-US, V32, P5681, DOI 10.1021/bi00072a025
+   CORNELL WD, 1995, J AM CHEM SOC, V117, P5179, DOI 10.1021/ja00124a002
+   Daggett V, 1996, J MOL BIOL, V257, P430, DOI 10.1006/jmbi.1996.0173
+   Forge V, 1999, J MOL BIOL, V288, P673, DOI 10.1006/jmbi.1999.2687
+   Fulton KF, 1999, J MOL BIOL, V291, P445, DOI 10.1006/jmbi.1999.2942
+   HILL RL, 1975, ADV ENZYMOL RAMB, V43, P411
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   Hubbard SJ, 1993, NACCESS COMPUTER PRO
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   IKEGUCHI M, 1986, BIOCHEMISTRY-US, V25, P6965, DOI 10.1021/bi00370a034
+   ITZHAKI LS, 1995, J MOL BIOL, V254, P260, DOI 10.1006/jmbi.1995.0616
+   JORGENSEN WL, 1983, J CHEM PHYS, V79, P926, DOI 10.1063/1.445869
+   KABSCH W, 1983, BIOPOLYMERS, V22, P2577, DOI 10.1002/bip.360221211
+   Kataoka M, 1997, PROTEIN SCI, V6, P422
+   Kazmirski SL, 1998, J MOL BIOL, V277, P487, DOI 10.1006/jmbi.1998.1634
+   KRAULIS PJ, 1991, J APPL CRYSTALLOGR, V24, P946, DOI 10.1107/S0021889891004399
+   Kuwajima K, 1996, FASEB J, V10, P102
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1980, BIOCHIM BIOPHYS ACTA, V623, P389, DOI 10.1016/0005-2795(80)90268-8
+   KUWAJIMA K, 1987, FEBS LETT, V221, P115, DOI 10.1016/0014-5793(87)80363-0
+   Lazaridis T, 1997, SCIENCE, V278, P1928, DOI 10.1126/science.278.5345.1928
+   Li AJ, 1996, J MOL BIOL, V257, P412, DOI 10.1006/jmbi.1996.0172
+   Li AJ, 1998, J MOL BIOL, V275, P677, DOI 10.1006/jmbi.1997.1484
+   LINDAHL L, 1984, ANAL BIOCHEM, V140, P394, DOI 10.1016/0003-2697(84)90184-2
+   MCKENZIE HA, 1991, ADV PROTEIN CHEM, V41, P173, DOI 10.1016/S0065-3233(08)60198-9
+   Merritt EA, 1997, METHOD ENZYMOL, V277, P505, DOI 10.1016/S0076-6879(97)77028-9
+   Murphy LR, 1998, J BIOMOL STRUCT DYN, V16, P355
+   Pace C N, 1986, Methods Enzymol, V131, P266
+   Pike ACW, 1996, STRUCTURE, V4, P691, DOI 10.1016/S0969-2126(96)00075-5
+   Ptitsyn OB, 1995, ADV PROTEIN CHEM, V47, P83, DOI 10.1016/S0065-3233(08)60546-X
+   RYCKAERT JP, 1977, J COMPUT PHYS, V23, P327, DOI 10.1016/0021-9991(77)90098-5
+   SAITO M, 1994, J CHEM PHYS, V101, P4055, DOI 10.1063/1.468411
+   Saito M, 1999, PROTEIN ENG, V12, P1097, DOI 10.1093/protein/12.12.1097
+   SAITO M, 1992, MOL SIMULAT, V8, P321, DOI 10.1080/08927029208022487
+   SCHULMAN BA, 1995, J MOL BIOL, V253, P651, DOI 10.1006/jmbi.1995.0579
+   SERRANO L, 1992, J MOL BIOL, V224, P805, DOI 10.1016/0022-2836(92)90563-Y
+   SHARP KA, 1991, BIOCHEMISTRY-US, V30, P9686, DOI 10.1021/bi00104a017
+   Smith LJ, 1999, PROTEINS, V36, P77, DOI 10.1002/(SICI)1097-0134(19990701)36:1<77::AID-PROT7>3.0.CO;2-X
+   Song JX, 1998, J MOL BIOL, V280, P167, DOI 10.1006/jmbi.1998.1826
+   TiradoRives J, 1997, BIOCHEMISTRY-US, V36, P7313, DOI 10.1021/bi970096i
+   Tsai J, 1999, J MOL BIOL, V291, P215, DOI 10.1006/jmbi.1999.2949
+   Uchiyama H, 1995, PROTEIN ENG, V8, P1153, DOI 10.1093/protein/8.11.1153
+   VANGUNSTEREN WF, 1990, ANGEW CHEM INT EDIT, V29, P992, DOI 10.1002/anie.199009921
+   Wu LC, 1998, J MOL BIOL, V280, P175, DOI 10.1006/jmbi.1998.1825
+   YUTANI K, 1992, J MOL BIOL, V228, P347, DOI 10.1016/0022-2836(92)90824-4
+NR 55
+TC 10
+Z9 11
+PU WILEY-LISS
+PI NEW YORK
+PA DIV JOHN WILEY & SONS INC, 605 THIRD AVE, NEW YORK, NY 10158-0012 USA
+SN 0887-3585
+J9 PROTEINS
+JI Proteins
+PD JAN 1
+PY 2001
+VL 42
+IS 1
+BP 49
+EP 65
+DI 10.1002/1097-0134(20010101)42:1<49::AID-PROT60>3.0.CO;2-Z
+PG 17
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 386TG
+UT WOS:000166077200006
+ER
+
+PT J
+AU Kobashigawa, Y
+   Demura, M
+   Koshiba, T
+   Kumaki, Y
+   Kuwajima, K
+   Nitta, K
+AF Kobashigawa, Y
+   Demura, M
+   Koshiba, T
+   Kumaki, Y
+   Kuwajima, K
+   Nitta, K
+TI Hydrogen exchange study of canine milk lysozyme: Stabilization mechanism
+   of the molten globule
+SO PROTEINS-STRUCTURE FUNCTION AND GENETICS
+LA English
+DT Article
+DE alpha-lactalbumin; Ca2+-binding lysozyme; cooperativity; folding; NMR;
+   stability; unfolding
+ID HUMAN ALPHA-LACTALBUMIN; FOLDED APOMYOGLOBIN INTERMEDIATE; EQUINE
+   LYSOZYME; STRUCTURAL CHARACTERIZATION; CHEMICAL-SHIFTS; CALCIUM-BINDING;
+   3-STATE DENATURATION; CIRCULAR-DICHROISM; PROTEIN STRUCTURES;
+   HETERONUCLEAR NMR
+AB The native state H-1, N-15 resonance assignment of 123 of the 128 nonproline residues of canine milk lysozyme has enabled measurements of the amide hydrogen exchange of over 70 amide hydrogens in the molten globule state. To elucidate the mechanism of protein folding, the molten globule state has been studied as a model of the folding intermediate state. Lysozyme and alpha-lactalbumin are homologous to each other, but their equilibrium unfolding mechanisms differ. Generally, the folding mechanism of lysozyme obeys a two-state model, whereas that of alpha-lactalbumin follows a three-state model. Exceptions to this rule are equine and canine milk lysozymes, which exhibit a partially unfolded state during the equilibrium unfolding; this state resembles the molten globule state of alpha-lactalbumin but with extreme stability. Study of the molten globules of alpha-lactalbumin and equine milk lysozyme showed that the stabilities of their alpha-helices are similar, despite the differences in the thermodynamic stability of their molten globule states, On the other hand, our hydrogen exchange study of the molten globule of canine milk lysozyme showed that the alpha-helices are more stabilized than in alpha-lactalbumin or equine milk lysozyme and that this enhanced stability is caused by the strengthened cooperative interaction between secondary structure elements. Thus, our results underscore the importance of the cooperative interaction in the stability of the molten globule state. (C) 2000 Wiley-Liss, Inc.
+C1 Hokkaido Univ, Grad Sch Sci, Div Biol Sci, Sapporo, Hokkaido 0600810, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 113, Japan.
+RP Nitta, K (reprint author), Hokkaido Univ, Grad Sch Sci, Div Biol Sci, Sapporo, Hokkaido 0600810, Japan.
+RI Demura, Makoto/F-5272-2011
+CR ALEXANDRESCU AT, 1993, BIOCHEMISTRY-US, V32, P1707, DOI 10.1021/bi00058a003
+   ANFINSEN CB, 1973, SCIENCE, V181, P223, DOI 10.1126/science.181.4096.223
+   ANILKUMAR ERR, 1980, BIOCHEM BIOPH RES CO, V95, P1
+   Arai M, 2000, ADV PROTEIN CHEM, V53, P209
+   ASAKURA T, 1991, J MAGN RESON, V93, P355, DOI 10.1016/0022-2364(91)90011-H
+   BAI Y, 1993, PROTEINS, V2, P869
+   Balbach J, 1996, SCIENCE, V274, P1161, DOI 10.1126/science.274.5290.1161
+   BALBACH J, 1995, NAT STRUCT BIOL, V2, P865, DOI 10.1038/nsb1095-865
+   BARRICK D, 1993, PROTEIN SCI, V2, P869
+   BARTELS C, 1995, J BIOMOL NMR, V6, P1, DOI 10.1007/BF00417486
+   BAUM J, 1989, BIOCHEMISTRY-US, V28, P7, DOI 10.1021/bi00427a002
+   BAX A, 1985, J MAGN RESON, V65, P353
+   BAX A, 1983, J MAGN RESON, V55, P301, DOI 10.1016/0022-2364(83)90241-X
+   BREW K, 1970, J BIOL CHEM, V245, P4570
+   Chaudhuri TK, 1999, J MOL BIOL, V285, P1179, DOI 10.1006/jmbi.1998.2362
+   CHYAN CL, 1993, BIOCHEMISTRY-US, V32, P5681, DOI 10.1021/bi00072a025
+   DELAGLIO F, 1995, J BIOMOL NMR, V6, P277, DOI 10.1007/BF00197809
+   Demarest SJ, 1999, BIOCHEMISTRY-US, V38, P7380, DOI 10.1021/bi990320z
+   Demarest SJ, 1998, J MOL BIOL, V283, P279, DOI 10.1006/jmbi.1998.2099
+   DRISCOLL PC, 1990, BIOCHEMISTRY-US, V29, P3542, DOI 10.1021/bi00466a018
+   Forge V, 1999, J MOL BIOL, V288, P673, DOI 10.1006/jmbi.1999.2687
+   GRIESINGER C, 1988, J AM CHEM SOC, V110, P7870, DOI 10.1021/ja00231a044
+   GRIKO YV, 1995, J MOL BIOL, V252, P447, DOI 10.1006/jmbi.1995.0510
+   GRIKO YV, 1994, BIOCHEMISTRY-US, V33, P1889, DOI 10.1021/bi00173a036
+   HAEZEBROUCK P, 1995, J MOL BIOL, V246, P382, DOI 10.1006/jmbi.1994.0093
+   HIRAOKA Y, 1985, INT J PEPT PROT RES, V26, P252
+   HUGHSON FM, 1990, SCIENCE, V249, P1544, DOI 10.1126/science.2218495
+   HUGHSON FM, 1991, BIOCHEMISTRY-US, V30, P4113, DOI 10.1021/bi00231a001
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   Ishikawa N, 1998, PROTEIN ENG, V11, P333, DOI 10.1093/protein/11.5.333
+   JEENER J, 1979, J CHEM PHYS, V71, P4546, DOI 10.1063/1.438208
+   JENNINGS PA, 1993, SCIENCE, V262, P892, DOI 10.1126/science.8235610
+   KAY LE, 1989, J MAGN RESON, V84, P72, DOI 10.1016/0022-2364(89)90006-1
+   KAY LE, 1992, J AM CHEM SOC, V114, P10663, DOI 10.1021/ja00052a088
+   Kikuchi M, 1998, PROTEIN SCI, V7, P2150
+   Kim S, 1999, J MOL BIOL, V294, P551, DOI 10.1006/jmbi.1999.3250
+   Kobashigawa Y, 1999, PROTEIN SCI, V8, P2765
+   Koshiba T, 2000, BIOCHEMISTRY-US, V39, P3248, DOI 10.1021/bi991525a
+   Koshiba T, 1999, PROTEIN ENG, V12, P429, DOI 10.1093/protein/12.5.429
+   KRAULIS PJ, 1991, J APPL CRYSTALLOGR, V24, P946, DOI 10.1107/S0021889891004399
+   KURODA Y, 1993, BIOCHEMISTRY-US, V32, P1219, DOI 10.1021/bi00056a004
+   Kuwajima K, 1996, FASEB J, V10, P102
+   KUWAJIMA K, 1977, J MOL BIOL, V114, P241, DOI 10.1016/0022-2836(77)90208-X
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1986, INT J PEPT PROT RES, V27, P18
+   MARION D, 1989, BIOCHEMISTRY-US, V28, P6150, DOI 10.1021/bi00441a004
+   Markley JL, 1998, J MOL BIOL, V280, P933, DOI 10.1006/jmbi.1998.1852
+   Mine S, 1997, PROTEIN ENG, V10, P1333, DOI 10.1093/protein/10.11.1333
+   Mizuguchi M, 1998, J MOL BIOL, V283, P265, DOI 10.1006/jmbi.1998.2100
+   MOROZOVA LA, 1995, NAT STRUCT BIOL, V2, P871, DOI 10.1038/nsb1095-871
+   MorozovaRoche LA, 1997, J MOL BIOL, V268, P903, DOI 10.1006/jmbi.1997.0996
+   MUNOZ V, 1994, NAT STRUCT BIOL, V1, P399, DOI 10.1038/nsb0694-399
+   NITTA K, 1987, FEBS LETT, V223, P405, DOI 10.1016/0014-5793(87)80328-9
+   NITTA K, 1989, EUR J BIOCHEM, V182, P111, DOI 10.1111/j.1432-1033.1989.tb14806.x
+   NITTA K, 1993, INT J PEPT PROT RES, V41, P118
+   Nozaki Y, 1972, Methods Enzymol, V26, P43
+   PENG ZY, 1994, BIOCHEMISTRY-US, V33, P2136, DOI 10.1021/bi00174a021
+   Ptitsyn Oleg B., 1992, P243
+   QASBA PK, 1984, NATURE, V308, P377, DOI 10.1038/308377a0
+   RANCE M, 1983, BIOCHEM BIOPH RES CO, V117, P479, DOI 10.1016/0006-291X(83)91225-1
+   Reymond MT, 1997, PROTEIN SCI, V6, P706
+   Schulman BA, 1997, NAT STRUCT BIOL, V4, P630, DOI 10.1038/nsb0897-630
+   SCHULMAN BA, 1995, J MOL BIOL, V253, P651, DOI 10.1006/jmbi.1995.0579
+   Shimizu A, 1996, J BIOCHEM-TOKYO, V119, P947
+   SMITH LJ, 1994, STRUCTURE, V2, P703, DOI 10.1016/S0969-2126(00)00071-X
+   SWEET RM, 1983, J MOL BIOL, V171, P479, DOI 10.1016/0022-2836(83)90041-4
+   TSUGE H, 1991, BIOCHIM BIOPHYS ACTA, V1078, P77, DOI 10.1016/0167-4838(91)90095-H
+   VANDAEL H, 1993, BIOCHEMISTRY-US, V32, P11886, DOI 10.1021/bi00095a018
+   WALTHO JP, 1993, BIOCHEMISTRY-US, V32, P6337, DOI 10.1021/bi00076a006
+   WILLIAMSON MP, 1992, J BIOMOL NMR, V2, P83, DOI 10.1007/BF02192802
+   WILLIAMSON MP, 1995, J MOL BIOL, V247, P541, DOI 10.1016/S0022-2836(05)80135-4
+   WU LC, 1995, NAT STRUCT BIOL, V2, P281, DOI 10.1038/nsb0495-281
+   Wuthrich K., 1986, NMR PROTEINS NUCL AC
+   YUTANI K, 1992, J MOL BIOL, V228, P347, DOI 10.1016/0022-2836(92)90824-4
+NR 74
+TC 27
+Z9 29
+PU WILEY-LISS
+PI NEW YORK
+PA DIV JOHN WILEY & SONS INC, 605 THIRD AVE, NEW YORK, NY 10158-0012 USA
+SN 0887-3585
+J9 PROTEINS
+JI Proteins
+PD SEP 1
+PY 2000
+VL 40
+IS 4
+BP 579
+EP 589
+DI 10.1002/1097-0134(20000901)40:4<579::AID-PROT40>3.0.CO;2-1
+PG 11
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 345ZA
+UT WOS:000088844300005
+ER
+
+PT J
+AU Motojima, F
+   Makio, T
+   Aoki, K
+   Makino, Y
+   Kuwajima, K
+   Yoshida, M
+AF Motojima, F
+   Makio, T
+   Aoki, K
+   Makino, Y
+   Kuwajima, K
+   Yoshida, M
+TI Hydrophilic residues at the apical domain of GroEL contribute to GroES
+   finding but attenuate polypeptide binding
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+ID CHAPERONIN GROEL; DIHYDROFOLATE-REDUCTASE; PROTEIN; MECHANISM; RELEASE;
+   CYCLE; HYDROLYSIS; COMPLEX; MODEL; ATP
+AB The GroES binding site at the apical domain of GroEL, mostly consisting of hydrophobic residues, overlaps largely with the substrate poly-peptide binding site. Essential contribution of hydrophobic interaction to the binding of both GroES and polypeptide was exemplified by the mutant GroEL(L237Q) which lost the ability to bind either of them. The binding site, however, contains three hydrophilic residues, E238, T261, and N265. For GroES binding N265 is essential since GroEL(N265A) is unable to bind GroES. E238 contributes to rapid GroES binding to GroEL because GroEL(E238A) is extremely sluggish in GroES binding. Polypeptide binding was not impaired by any mutations of E238A, T261A, and N365A. Rather, these mutants, especially GroEL(N265A), showed stronger polypeptide binding affinity than wild-type GroEL. Thus, these hydrophilic residues have a dual role; they help GroES binding on one hand but attenuate polypeptide binding on the other hand. (C) 2000 Academic Press.
+C1 Tokyo Inst Technol, Resources Utilizat Res Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Univ Tokyo, Dept Phys, Sch Sci, Bunkyo Ku, Tokyo 113, Japan.
+RP Yoshida, M (reprint author), Tokyo Inst Technol, Resources Utilizat Res Lab, Midori Ku, Nagatsuta 4259, Yokohama, Kanagawa 2268503, Japan.
+CR Aoki K, 1997, J BIOL CHEM, V272, P32158, DOI 10.1074/jbc.272.51.32158
+   BRAIG K, 1995, NAT STRUCT BIOL, V2, P1083, DOI 10.1038/nsb1295-1083
+   BUCHNER J, 1991, BIOCHEMISTRY-US, V30, P1586, DOI 10.1021/bi00220a020
+   Buckle AM, 1997, P NATL ACAD SCI USA, V94, P3571, DOI 10.1073/pnas.94.8.3571
+   Clark AC, 1996, BIOCHEMISTRY-US, V35, P5893, DOI 10.1021/bi953051v
+   CORRALES FJ, 1995, P NATL ACAD SCI USA, V92, P5326, DOI 10.1073/pnas.92.12.5326
+   COYLE JE, 1997, FOLDING DESIGN, V2, pR93
+   FENTON WA, 1994, NATURE, V371, P614, DOI 10.1038/371614a0
+   GELADOPOULOS TP, 1991, ANAL BIOCHEM, V192, P112, DOI 10.1016/0003-2697(91)90194-X
+   GOLOUBINOFF P, 1989, NATURE, V337, P44, DOI 10.1038/337044a0
+   HayerHartl MK, 1996, EMBO J, V15, P6111
+   JACKSON GS, 1993, BIOCHEMISTRY-US, V32, P2554, DOI 10.1021/bi00061a013
+   Katsumata K, 1996, J MOL BIOL, V258, P827, DOI 10.1006/jmbi.1996.0290
+   Kuzmic P, 1996, ANAL BIOCHEM, V237, P260, DOI 10.1006/abio.1996.0238
+   Makino Y, 1997, J BIOL CHEM, V272, P12468, DOI 10.1074/jbc.272.19.12468
+   MARTIN J, 1991, NATURE, V352, P36, DOI 10.1038/352036a0
+   MILLER DM, 1992, BIOCHIM BIOPHYS ACTA, V1121, P286, DOI 10.1016/0167-4838(92)90158-A
+   Roseman AM, 1996, CELL, V87, P241, DOI 10.1016/S0092-8674(00)81342-2
+   Rye HS, 1997, NATURE, V388, P792, DOI 10.1038/42047
+   Sakikawa C, 1999, J BIOL CHEM, V274, P21251, DOI 10.1074/jbc.274.30.21251
+   SAYLE RA, 1995, TRENDS BIOCHEM SCI, V20, P374, DOI 10.1016/S0968-0004(00)89080-5
+   SCHMIDT M, 1994, SCIENCE, V265, P656, DOI 10.1126/science.7913554
+   VIITANEN PV, 1991, BIOCHEMISTRY-US, V30, P9716, DOI 10.1021/bi00104a021
+   WEISSMAN JS, 1995, CELL, V83, P577, DOI 10.1016/0092-8674(95)90098-5
+   Xu ZH, 1997, NATURE, V388, P741
+NR 25
+TC 29
+Z9 29
+PU ACADEMIC PRESS INC
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD JAN 27
+PY 2000
+VL 267
+IS 3
+BP 842
+EP 849
+DI 10.1006/bbrc.1999.2020
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 280YR
+UT WOS:000085131800029
+ER
+
+PT J
+AU Terada, TP
+   Kuwajima, K
+AF Terada, TP
+   Kuwajima, K
+TI Thermodynamics of nucleotide binding to the chaperonin GroEL studied by
+   isothermal titration calorimetry: evidence for noncooperative nucleotide
+   binding
+SO BIOCHIMICA ET BIOPHYSICA ACTA-PROTEIN STRUCTURE AND MOLECULAR ENZYMOLOGY
+LA English
+DT Article
+DE chaperonin; protein folding; isothermal titration calorimetry;
+   nucleotide binding; cooperativity; allosteric effect
+ID ALPHA-LACTALBUMIN; CRYSTAL-STRUCTURE; ESCHERICHIA-COLI; ATP HYDROLYSIS;
+   CONFORMATIONAL-CHANGES; CYCLE; PROTEINS; RELEASE; COOPERATIVITY;
+   POLYPEPTIDE
+AB We characterized the thermodynamics of binding reactions of nucleotides ADP and ATP gamma S (a nonhydrolyzable analog of ATP) to GroEL in a temperature range of 5 degrees C to 35 degrees C by isothermal titration calorimetry. Analysis with a noncooperative binding model has shown that the bindings of nucleotides are driven enthalpically with binding constants of 7 x 10(3) M-1 and 4 x 10(4) M-1 for ADP and ATP gamma S, respectively, at 26 degrees C and that the heat capacity change Delta C-p is about 100 cal/mol K for both the nucleotides. The stoichiometries of binding were about 8 and 9 molecules for ADP and ATP gamma S, respectively, per GroEL tetradecamer at 5 degrees C, and both increased with temperature to reach about 14 (ADP) and 12 (ATP gamma S) for both nucleotides at 35 degrees C. The absence of initial increase of binding heat as well as Hill coefficient less than 1.2, which were obtained from the fitting to the model curve by assuming positive cooperativity, showed that there was virtually no positive cooperativity in the nucleotide bindings. Incorporating a difference in affinity for the nucleotide (ADP and ATP gamma S) between the two rings of GroEL into the noncooperative binding model improved the goodness of fitting and the difference in the affinity increased with decreasing temperature. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+RP Kuwajima, K (reprint author), Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+CR Aharoni A, 1996, J MOL BIOL, V258, P732, DOI 10.1006/jmbi.1996.0282
+   BADCOE IG, 1991, BIOCHEMISTRY-US, V30, P9195, DOI 10.1021/bi00102a010
+   BEVINGTON PR, 1969, DATA REDUCTION ERROR, P234
+   Boisvert DC, 1996, NAT STRUCT BIOL, V3, P170, DOI 10.1038/nsb0296-170
+   Braig K, 1998, CURR OPIN STRUC BIOL, V8, P159, DOI 10.1016/S0959-440X(98)80033-X
+   BRAIG K, 1994, NATURE, V371, P578, DOI 10.1038/371578a0
+   BUCHNER J, 1991, BIOCHEMISTRY-US, V30, P1586, DOI 10.1021/bi00220a020
+   Buckle AM, 1997, P NATL ACAD SCI USA, V94, P3571, DOI 10.1073/pnas.94.8.3571
+   Bukau B, 1998, CELL, V92, P351, DOI 10.1016/S0092-8674(00)80928-9
+   BURSTON SG, 1995, J MOL BIOL, V249, P138, DOI 10.1006/jmbi.1995.0285
+   CANTOR DCR, 1980, BIOPHYSICAL CHEM 3, P863
+   FENTON WA, 1994, NATURE, V371, P614, DOI 10.1038/371614a0
+   Fenton WA, 1997, PROTEIN SCI, V6, P743
+   Fisher HF, 1995, METHOD ENZYMOL, V259, P194
+   FREIRE E, 1990, ANAL CHEM, V62, P950
+   Gibbons DL, 1996, J BIOL CHEM, V271, P238
+   GOLOUBINOFF P, 1989, NATURE, V342, P884, DOI 10.1038/342884a0
+   GOROVITS BM, 1995, J BIOL CHEM, V270, P28551
+   GRAY TE, 1991, FEBS LETT, V292, P254, DOI 10.1016/0014-5793(91)80878-7
+   HayerHartl MK, 1996, EMBO J, V15, P6111
+   HAYERHARTL MK, 1994, EMBO J, V13, P3192
+   Horst M, 1996, PROTEIN SCI, V5, P759
+   ITO K, 1991, MOL MICROBIOL, V5, P2243, DOI 10.1111/j.1365-2958.1991.tb02154.x
+   JACKSON GS, 1993, BIOCHEMISTRY-US, V32, P2554, DOI 10.1021/bi00061a013
+   Kad NM, 1998, J MOL BIOL, V278, P267, DOI 10.1006/jmbi.1998.1704
+   Katsumata K, 1996, J MOL BIOL, V264, P643, DOI 10.1006/jmbi.1996.0666
+   Katsumata K, 1996, J MOL BIOL, V258, P827, DOI 10.1006/jmbi.1996.0290
+   KOSHLAND DE, 1966, BIOCHEMISTRY-US, V5, P365, DOI 10.1021/bi00865a047
+   Ladbury JE, 1996, CHEM BIOL, V3, P791, DOI 10.1016/S1074-5521(96)90063-0
+   LIN ZL, 1995, J BIOL CHEM, V270, P1011
+   Lin ZL, 1996, P NATL ACAD SCI USA, V93, P1977, DOI 10.1073/pnas.93.5.1977
+   MONOD J, 1965, J MOL BIOL, V12, P88
+   MURAI N, 1995, J BIOL CHEM, V270, P19957
+   MURPHY KP, 1992, J MOL BIOL, V227, P293, DOI 10.1016/0022-2836(92)90699-K
+   MURPHY KP, 1992, ADV PROTEIN CHEM, V43, P313, DOI 10.1016/S0065-3233(08)60556-2
+   OKAZAKI A, 1994, NAT STRUCT BIOL, V1, P439, DOI 10.1038/nsb0794-439
+   Perrett S, 1997, J MOL BIOL, V269, P892, DOI 10.1006/jmbi.1997.1081
+   PRESS WH, 1992, FORTRAN 77 ART SCI C, P678
+   Ranson NA, 1998, BIOCHEM J, V333, P233
+   Roseman AM, 1996, CELL, V87, P241, DOI 10.1016/S0092-8674(00)81342-2
+   Sigler PB, 1998, ANNU REV BIOCHEM, V67, P581, DOI 10.1146/annurev.biochem.67.1.581
+   SPOLAR RS, 1989, P NATL ACAD SCI USA, V86, P8382, DOI 10.1073/pnas.86.21.8382
+   STANIFORTH RA, 1994, BIOCHEM J, V300, P651
+   Surin AK, 1997, FEBS LETT, V405, P260, DOI 10.1016/S0014-5793(97)00199-3
+   Taguchi H, 1997, J BIOL CHEM, V272, P18155, DOI 10.1074/jbc.272.29.18155
+   TODD MJ, 1993, BIOCHEMISTRY-US, V32, P8560, DOI 10.1021/bi00084a024
+   TODD MJ, 1994, SCIENCE, V265, P659, DOI 10.1126/science.7913555
+   Tsurupa GP, 1998, J MOL BIOL, V277, P733, DOI 10.1006/jmbi.1998.1630
+   WEISSMAN JS, 1994, CELL, V78, P693, DOI 10.1016/0092-8674(94)90533-9
+   White HE, 1997, NAT STRUCT BIOL, V4, P690, DOI 10.1038/nsb0997-690
+   WISEMAN T, 1989, ANAL BIOCHEM, V179, P131, DOI 10.1016/0003-2697(89)90213-3
+   YIFRACH O, 1994, J MOL BIOL, V243, P397, DOI 10.1006/jmbi.1994.1667
+   YIFRACH O, 1995, BIOCHEMISTRY-US, V34, P5303, DOI 10.1021/bi00016a001
+   Yifrach O, 1996, J MOL BIOL, V255, P356, DOI 10.1006/jmbi.1996.0028
+NR 54
+TC 19
+Z9 19
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-4838
+J9 BBA-PROTEIN STRUCT M
+JI Biochim. Biophys. Acta-Protein Struct. Molec. Enzym.
+PD MAY 18
+PY 1999
+VL 1431
+IS 2
+BP 269
+EP 281
+DI 10.1016/S0167-4838(99)00049-7
+PG 13
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 203CR
+UT WOS:000080690500001
+ER
+
+PT J
+AU Arai, M
+   Kuwajima, K
+AF Arai, M
+   Kuwajima, K
+TI Rapid formation of a molten globule intermediate in refolding of
+   alpha-lactalbumin
+SO FOLDING & DESIGN
+LA English
+DT Article
+DE alpha-lactalbumin; folding pathway; hydrophobic interaction; molten
+   globule; protein folding
+ID FOLDED APOMYOGLOBIN INTERMEDIATE; HYDROGEN-EXCHANGE; FOLDING PATHWAY;
+   HEN LYSOZYME; STATE; STABILITY; PROTEINS; FLUORESCENCE; EQUILIBRIUM;
+   MECHANISM
+AB Background: The molten globule state is an intermediate between the native and the fully unfolded states; of globular proteins and is purported to be an obligatory on-pathway intermediate of protein folding. The molten globule state of alpha-lactalbumin has been best characterized, but two major issues have yet to be clarified. At which stage of the kinetic refolding is the molten globule state stably organized? And what is the major driving force that stabilizes the molten globule state? We address these questions in this paper.
+   Results: We have investigated the refolding kinetics of oc-lactalbumin using stopped-flow CD and fluorescence, acrylamide quenching and pulsed hydrogen exchange NMR techniques. A burst-phase intermediate was observed to form within 15 ms. The intermediate was characterized by pronounced, hydrogen-bonded secondary structure, exposure of hydrophobic surfaces and the absence of tertiary structure. Furthermore, the stability of the secondary structure is the same as that in the equilibrium molten globule state.
+   Conclusions: The burst-phase intermediate in alpha-lactalbumin refolding is identical with the molten globule state, Two different models, the hydrophobic collapse model and the secondary-structure coalescence model, of protein folding are discussed on the basis of the present results. The importance of solvent-separated hydrophobic interactions that stabilize the molten globule state is proposed. (C) Current Biology Ltd
+C1 UNIV TOKYO, SCH SCI, DEPT PHYS, BUNKYO KU, TOKYO 113, JAPAN.
+RI Arai, Munehito/A-1258-2012
+CR ALEXANDRESCU AT, 1993, BIOCHEMISTRY-US, V32, P1707, DOI 10.1021/bi00058a003
+   ANTONINO LC, 1991, P NATL ACAD SCI USA, V88, P7715, DOI 10.1073/pnas.88.17.7715
+   BAI YW, 1994, PROTEINS, V20, P4, DOI 10.1002/prot.340200103
+   BALBACH J, 1995, NAT STRUCT BIOL, V2, P865, DOI 10.1038/nsb1095-865
+   BALDWIN RL, 1993, CURR OPIN STRUC BIOL, V3, P84, DOI 10.1016/0959-440X(93)90206-Z
+   BALDWIN RL, 1995, J BIOMOL NMR, V5, P103
+   BUCK M, 1994, J MOL BIOL, V237, P247, DOI 10.1006/jmbi.1994.1228
+   CASH DJ, 1981, ANAL BIOCHEM, V112, P39, DOI 10.1016/0003-2697(81)90257-8
+   CHYAN CL, 1993, BIOCHEMISTRY-US, V32, P5681, DOI 10.1021/bi00072a025
+   DILL KA, 1985, BIOCHEMISTRY-US, V24, P1501, DOI 10.1021/bi00327a032
+   DILL KA, 1990, BIOCHEMISTRY-US, V29, P7133, DOI 10.1021/bi00483a001
+   DILL KA, 1995, PROTEIN SCI, V4, P561
+   EFTINK MR, 1981, ANAL BIOCHEM, V114, P199, DOI 10.1016/0003-2697(81)90474-7
+   EFTINK MR, 1976, BIOCHEMISTRY-US, V15, P672, DOI 10.1021/bi00648a035
+   ELIEZER D, 1995, SCIENCE, V270, P487, DOI 10.1126/science.270.5235.487
+   ENGELHARD M, 1995, PROTEIN SCI, V4, P1553
+   FERSHT AR, 1995, P NATL ACAD SCI USA, V92, P10869, DOI 10.1073/pnas.92.24.10869
+   HIRAOKA Y, 1985, INT J PEPT PROT RES, V26, P252
+   HUGHSON FM, 1990, SCIENCE, V249, P1544, DOI 10.1126/science.2218495
+   HUGHSON FM, 1991, BIOCHEMISTRY-US, V30, P4113, DOI 10.1021/bi00231a001
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   IKEGUCHI M, 1986, BIOCHEMISTRY-US, V25, P6965, DOI 10.1021/bi00370a034
+   Israelachvili J, 1996, NATURE, V379, P219, DOI 10.1038/379219a0
+   JENNINGS PA, 1993, SCIENCE, V262, P892, DOI 10.1126/science.8235610
+   Katsumata K, 1996, J MOL BIOL, V258, P827, DOI 10.1006/jmbi.1996.0290
+   KURODA Y, 1993, BIOCHEMISTRY-US, V32, P1219, DOI 10.1021/bi00056a004
+   Kuwajima K, 1996, FASEB J, V10, P102
+   Kuwajima Kunihiro, 1992, Current Opinion in Biotechnology, V3, P462, DOI 10.1016/0958-1669(92)90072-Q
+   KUWAJIMA K, 1985, BIOCHEMISTRY-US, V24, P874, DOI 10.1021/bi00325a010
+   KUWAJIMA K, 1989, J MOL BIOL, V206, P547, DOI 10.1016/0022-2836(89)90500-7
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   KUWAJIMA K, 1987, FEBS LETT, V221, P115, DOI 10.1016/0014-5793(87)80363-0
+   LALA AK, 1992, J BIOL CHEM, V267, P19914
+   LOH SN, 1995, P NATL ACAD SCI USA, V92, P5446, DOI 10.1073/pnas.92.12.5446
+   NITTA K, 1991, J CHROMATOGR, V585, P173, DOI 10.1016/0021-9673(91)85073-O
+   OKAZAKI A, 1994, NAT STRUCT BIOL, V1, P439, DOI 10.1038/nsb0794-439
+   PANGALI C, 1979, J CHEM PHYS, V71, P2975, DOI 10.1063/1.438701
+   PENG ZY, 1994, BIOCHEMISTRY-US, V33, P2136, DOI 10.1021/bi00174a021
+   PRATT LR, 1977, J CHEM PHYS, V67, P3683, DOI 10.1063/1.435308
+   PTITSYN OB, 1987, J PROTEIN CHEM, V6, P273
+   Ptitsyn OB, 1995, ADV PROTEIN CHEM, V47, P83, DOI 10.1016/S0065-3233(08)60546-X
+   Ptitsyn Oleg B., 1992, P243
+   PTITSYN OB, 1990, FEBS LETT, V262, P20, DOI 10.1016/0014-5793(90)80143-7
+   RADFORD SE, 1992, NATURE, V358, P302, DOI 10.1038/358302a0
+   SCHULMAN BA, 1995, J MOL BIOL, V253, P651, DOI 10.1006/jmbi.1995.0579
+   SEMISOTNOV GV, 1987, FEBS LETT, V224, P9, DOI 10.1016/0014-5793(87)80412-X
+   SEMISOTNOV GV, 1991, BIOPOLYMERS, V31, P119, DOI 10.1002/bip.360310111
+   Shimizu A, 1996, J BIOCHEM-TOKYO, V119, P947
+   SOMMERS PB, 1980, BIOPHYS CHEM, V11, P217, DOI 10.1016/0301-4622(80)80024-X
+   SOMMERS PB, 1973, BIOCHEM BIOPH RES CO, V52, P98, DOI 10.1016/0006-291X(73)90959-5
+   Uchiyama H, 1995, PROTEIN ENG, V8, P1153, DOI 10.1093/protein/8.11.1153
+   WU LC, 1995, NAT STRUCT BIOL, V2, P281, DOI 10.1038/nsb0495-281
+   YANG JJ, 1995, J MOL BIOL, V252, P483, DOI 10.1006/jmbi.1995.0513
+   YUTANI K, 1992, J MOL BIOL, V228, P347, DOI 10.1016/0022-2836(92)90824-4
+   ZICHI DA, 1985, J CHEM PHYS, V83, P797, DOI 10.1063/1.449495
+NR 55
+TC 133
+Z9 134
+PU CURRENT BIOLOGY LTD
+PI LONDON
+PA 34-42 CLEVELAND STREET, LONDON, ENGLAND W1P 6LB
+SN 1359-0278
+J9 FOLD DES
+JI Fold. Des.
+PY 1996
+VL 1
+IS 4
+BP 275
+EP 287
+DI 10.1016/S1359-0278(96)00041-7
+PG 13
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA WC405
+UT WOS:A1996WC40500006
+ER
+
+PT J
+AU KALNIN, NN
+   KUWAJIMA, K
+AF KALNIN, NN
+   KUWAJIMA, K
+TI KINETIC FOLDING AND UNFOLDING OF STAPHYLOCOCCAL NUCLEASE AND ITS 6
+   MUTANTS STUDIED BY STOPPED-FLOW CIRCULAR-DICHROISM
+SO PROTEINS-STRUCTURE FUNCTION AND GENETICS
+LA English
+DT Article
+DE PROTEIN FOLDING; FOLDING INTERMEDIATE; DENATURATION; PROTEIN STABILITY
+ID ALPHA-LACTALBUMIN; AMINO-ACIDS; FREE-ENERGY; PROTEIN; STATE; STABILITY;
+   PATHWAYS; LYSOZYME; EXCHANGE; BOND
+AB Kinetics of refolding and unfolding of staphylococcal. nuclease and its six mutants, each carrying single or double amino acid substitutions, are studied by stopped-flow circular dichroism measurements, A transient kinetic intermediate formed within 10 ms after refolding starts possesses a substantial part of the N-domain core beta-structure, whereas helices are formed at the later stages, The structure of the kinetic intermediate is less organized than the structure that is known to be formed by a nuclease 1-136 fragment. Only the refolding kinetics are affected by the mutations in all the mutants except two in which the mutations have changed the native structure. From this result and also from the locations of the mutation sites, the major N-terminal domain of the nuclease in the transition state of folding has a structure nearly identical to the native one, On the other hand, the minor C-terminal domain has previously been shown to be still disorganized in the transition state. The effects of the amino acid substitutions on the stability of the native and the transition states are in good agreement with the changes in the hydration free energy, expected for the corresponding amino acid replacements in the unfolded polypeptide. Since side chains of all the mutated residues are not accessible to solvent in the native structure, the result suggests that it is the unfolded state that is mainly affected by the mutations. (C) 1995 Wiley-Liss, Inc.
+C1 UNIV TOKYO,SCH SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+   UNIV TOKYO,SCH SCI,DEPT PHYS,TOKYO 113,JAPAN.
+CR ALEXANDRESCU AT, 1994, BIOCHEMISTRY-US, V33, P1063, DOI 10.1021/bi00171a004
+   BALDWIN RL, 1993, CURR OPIN STRUC BIOL, V3, P84, DOI 10.1016/0959-440X(93)90206-Z
+   BALDWIN RL, 1994, BIOESSAYS, V16, P207, DOI 10.1002/bies.950160312
+   CARRA JH, 1994, BIOCHEMISTRY-US, V33, P10842, DOI 10.1021/bi00201a035
+   CHAFFOTTE AF, 1992, BIOCHEMISTRY-US, V31, P9694, DOI 10.1021/bi00155a024
+   CHRISTENSEN H, 1994, MECH PROTEIN FOLDING, P55
+   CUATRECA.P, 1967, J BIOL CHEM, V242, P1541
+   ELOVE GA, 1992, BIOCHEMISTRY-US, V31, P6876, DOI 10.1021/bi00145a003
+   FERSHT AR, 1994, P NATL ACAD SCI USA, V91, P10426, DOI 10.1073/pnas.91.22.10426
+   FLANAGAN JM, 1993, BIOCHEMISTRY-US, V32, P10359, DOI 10.1021/bi00090a011
+   Goldenberg DP, 1989, PROTEIN STRUCTURE PR, P225
+   GREEN SM, 1992, BIOCHEMISTRY-US, V31, P5717, DOI 10.1021/bi00140a005
+   GRIKO YV, 1994, J MOL BIOL, V243, P93, DOI 10.1006/jmbi.1994.1632
+   HAGIHARA Y, 1994, J MOL BIOL, V237, P336, DOI 10.1006/jmbi.1994.1234
+   HOOKE SD, 1994, BIOCHEMISTRY-US, V33, P5867, DOI 10.1021/bi00185a026
+   IKEGUCHI M, 1992, BIOCHEMISTRY-US, V31, P12695, DOI 10.1021/bi00165a021
+   ITZHAKI LS, 1994, BIOCHEMISTRY-US, V33, P5212, DOI 10.1021/bi00183a026
+   JACOBS MD, 1994, P NATL ACAD SCI USA, V91, P449, DOI 10.1073/pnas.91.2.449
+   JENNINGS PA, 1993, SCIENCE, V262, P892, DOI 10.1126/science.8235610
+   KUWAJIMA K, 1993, FEBS LETT, V334, P265, DOI 10.1016/0014-5793(93)80691-M
+   Kuwajima Kunihiro, 1992, Current Opinion in Biotechnology, V3, P462, DOI 10.1016/0958-1669(92)90072-Q
+   KUWAJIMA K, 1989, J MOL BIOL, V206, P547, DOI 10.1016/0022-2836(89)90500-7
+   KUWAJIMA K, 1988, BIOCHEMISTRY-US, V37, P7419
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   KUWAJIMA K, 1991, FEBS LETT, V290, P135, DOI 10.1016/0014-5793(91)81243-2
+   LOLL PJ, 1989, PROTEINS, V5, P183, DOI 10.1002/prot.340050302
+   Matouschek A., 1994, MECHANISMS PROTEIN F, P137
+   MATTHEWS CR, 1993, ANNU REV BIOCHEM, V62, P653, DOI 10.1146/annurev.bi.62.070193.003253
+   OGASAHARA K, 1994, J MOL BIOL, V236, P1227, DOI 10.1016/0022-2836(94)90023-X
+   OOBATAKE M, 1992, PROGR BIOPHYS MOL BI, V59, P237
+   Pace C N, 1986, Methods Enzymol, V131, P266
+   PAUL C, 1980, ANAL BIOCHEM, V101, P442, DOI 10.1016/0003-2697(80)90211-0
+   PRIVALOV PL, 1993, J MOL BIOL, V232, P660, DOI 10.1006/jmbi.1993.1417
+   PTITSYN OB, 1994, PROTEIN ENG, V7, P593, DOI 10.1093/protein/7.5.593
+   RADFORD SE, 1992, NATURE, V358, P302, DOI 10.1038/358302a0
+   RICHMOND TJ, 1984, J MOL BIOL, V178, P63, DOI 10.1016/0022-2836(84)90231-6
+   Roder H., 1994, MECH PROTEIN FOLDING, P26
+   SANTORO MM, 1992, BIOCHEMISTRY-US, V31, P4901, DOI 10.1021/bi00135a022
+   SCHELLMAN JA, 1987, ANNU REV BIOPHYS BIO, V16, P115, DOI 10.1146/annurev.biophys.16.1.115
+   SERRANO L, 1992, J MOL BIOL, V224, P805, DOI 10.1016/0022-2836(92)90563-Y
+   SHORTLE D, 1989, BIOCHEMISTRY-US, V28, P936, DOI 10.1021/bi00429a003
+   SHORTLE D, 1993, STRUCTURE, V1, P121, DOI 10.1016/0969-2126(93)90027-E
+   SHORTLE D, 1986, Proteins Structure Function and Genetics, V1, P81, DOI 10.1002/prot.340010113
+   SHORTLE D, 1990, BIOCHEMISTRY-US, V29, P8033, DOI 10.1021/bi00487a007
+   SUGAWARA T, 1991, BIOCHEMISTRY-US, V30, P2698, DOI 10.1021/bi00224a018
+   TANAKA A, 1993, PROTEIN SCI, V2, P567
+   TUCKER PW, 1978, MOL CELL BIOCHEM, V22, P67, DOI 10.1007/BF00496235
+NR 47
+TC 23
+Z9 23
+PU WILEY-LISS
+PI NEW YORK
+PA DIV JOHN WILEY & SONS INC 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0887-3585
+J9 PROTEINS
+JI Proteins
+PD OCT
+PY 1995
+VL 23
+IS 2
+BP 163
+EP 176
+DI 10.1002/prot.340230206
+PG 14
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TC176
+UT WOS:A1995TC17600005
+ER
+
+PT J
+AU IGARASHI, Y
+   KIMURA, K
+   ICHIMURA, K
+   MATSUZAKI, S
+   IKURA, T
+   KUWAJIMA, K
+   KIHARA, H
+AF IGARASHI, Y
+   KIMURA, K
+   ICHIMURA, K
+   MATSUZAKI, S
+   IKURA, T
+   KUWAJIMA, K
+   KIHARA, H
+TI SOLUTION X-RAY-SCATTERING STUDY ON THE CHAPERONIN GROEL FROM
+   ESCHERICHIA-COLI
+SO BIOPHYSICAL CHEMISTRY
+LA English
+DT Article
+DE MOLECULAR CHAPERONE; GROEL; ESCHERICHIA COLI; MODEL ANALYSIS; SOLUTION
+   X-RAY SCATTERING
+ID PROTEINS
+AB The molecular architecture of native GroEL has been studied by solution X-ray scattering. The radius of gyration for the native molecule was estimated to be 66.0 Angstrom in 50 mM Tris-HCl, 100 mM KCI at pH 7.5 and 25 degrees C. The maximum dimension was estimated to be 170 Angstrom based on the pair distance distribution function. A cylindrical structure or two heptameric rings was found to be the best for native GroEL among structures examined by using a multi-sphere model analysis in which the radius of constituent sphere was 6 Angstrom. The results of the model analysis show that the radius of GroEL is 68.0 Angstrom and the height is 150.7 Angstrom. Unexpectedly, the central penetrating hole through GroEL was not confirmed in the best-fit structure.
+C1 DOKKYO UNIV,SCH MED,DIV MED ELECTR,MIBU,TOCHIGI 32102,JAPAN.
+   UNIV TOKYO,SCH SCI,DEPT PHYS,TOKYO 113,JAPAN.
+   KANSAI MED UNIV,PHYS LAB,HIRAKATA,OSAKA 573,JAPAN.
+RP IGARASHI, Y (reprint author), DOKKYO UNIV,SCH MED,DEPT BIOCHEM,MIBU,TOCHIGI 32102,JAPAN.
+CR AMEMIYA Y, 1983, NUCL INSTRUM METHODS, V208, P471, DOI 10.1016/0167-5087(83)91170-5
+   BOCHKAREVA ES, 1992, J BIOL CHEM, V267, P6796
+   BRAIG K, 1993, P NATL ACAD SCI USA, V90, P3978, DOI 10.1073/pnas.90.9.3978
+   FISHER MT, 1992, BIOCHEMISTRY-US, V31, P3955, DOI 10.1021/bi00131a010
+   HEMMINGSEN SM, 1988, NATURE, V333, P330, DOI 10.1038/333330a0
+   HENDRIX RW, 1979, J MOL BIOL, V129, P375, DOI 10.1016/0022-2836(79)90502-3
+   HOHN T, 1979, J MOL BIOL, V129, P359, DOI 10.1016/0022-2836(79)90501-1
+   HUTCHINSON EG, 1989, EMBO J, V8, P1485
+   IGARASHI T, 1990, BIOCHEMISTRY-US, V29, P5727, DOI 10.1021/bi00476a013
+   ITO K, 1991, MOL MICROBIOL, V5, P2243, DOI 10.1111/j.1365-2958.1991.tb02154.x
+   KIMURA K, 1990, BIOPHYS CHEM, V38, P23, DOI 10.1016/0301-4622(90)80036-7
+   Kratky O., 1982, SMALL ANGLE XRAY SCA, P119
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LANGER T, 1992, EMBO J, V11, P4757
+   LANZETTA PA, 1979, ANAL BIOCHEM, V100, P95, DOI 10.1016/0003-2697(79)90115-5
+   MARTIN J, 1993, NATURE, V366, P228, DOI 10.1038/366228a0
+   MARTIN J, 1991, NATURE, V352, P36, DOI 10.1038/352036a0
+   MIZOBATA T, 1992, J BIOL CHEM, V267, P17773
+   PERKINS SJ, 1983, J MOL BIOL, V168, P847, DOI 10.1016/S0022-2836(83)80078-3
+   PERKINS SJ, 1991, J MOL BIOL, V221, P1345, DOI 10.1016/0022-2836(91)90937-2
+   SAIBIL HR, 1993, CURR BIOL, V3, P265, DOI 10.1016/0960-9822(93)90176-O
+   SPANGFORT MD, 1993, FEBS LETT, V320, P160, DOI 10.1016/0014-5793(93)80083-7
+   ZAHN R, 1993, J MOL BIOL, V229, P579, DOI 10.1006/jmbi.1993.1062
+   ZWICKL P, 1990, J STRUCT BIOL, V103, P197, DOI 10.1016/1047-8477(90)90037-D
+NR 24
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0301-4622
+J9 BIOPHYS CHEM
+JI Biophys. Chem.
+PD FEB
+PY 1995
+VL 53
+IS 3
+BP 259
+EP 266
+DI 10.1016/0301-4622(94)00107-U
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Biophysics; Chemistry
+GA QL975
+UT WOS:A1995QL97500011
+ER
+
+PT J
+AU OKAZAKI, A
+   IKURA, T
+   NIKAIDO, K
+   KUWAJIMA, K
+AF OKAZAKI, A
+   IKURA, T
+   NIKAIDO, K
+   KUWAJIMA, K
+TI THE CHAPERONIN GROEL DOES NOT RECOGNIZE APO-ALPHA-LACTALBUMIN IN THE
+   MOLTEN GLOBULE STATE
+SO NATURE STRUCTURAL BIOLOGY
+LA English
+DT Article
+ID ESCHERICHIA-COLI; RIBULOSEBISPHOSPHATE CARBOXYLASE;
+   DIHYDROFOLATE-REDUCTASE; PROTEIN; ATP; INVITRO; SYNTHETASE; HYDROLYSIS
+AB We investigate here the interaction between GroEL and two kinds of non-native alpha-lactalbumin. alpha-lactalbumin is a Ca2+-binding protein which assumes a molten globule state in the absence of Ca2+ (apo-alpha-lactalbumin) at neutral pH. Our results, obtained by molecular-sieve chromatography and hydrogen-exchange measurements, show that apo-alpha-lactalbumin in this molten globule state is not bound to GroEL either in the absence or in the presence of KCl. On the other hand, we show by molecular-sieve chromatography that alpha-lactalbumin, in which the four disulphide bonds are fully reduced, is bound to GroEL when 50 mM KCl is present. The results demonstrate that the protein state recognized by GroEL is more unfolded and expanded than the typical molten globule state of alpha-lactalbumin.
+RP OKAZAKI, A (reprint author), UNIV TOKYO,SCH SCI,DEPT PHYS,BUNKYO KU,7-3-1 HONGO,TOKYO 113,JAPAN.
+CR ANFINSEN CB, 1973, SCIENCE, V181, P223, DOI 10.1126/science.181.4096.223
+   BADCOE IG, 1991, BIOCHEMISTRY-US, V30, P9195, DOI 10.1021/bi00102a010
+   BREW K, 1968, P NATL ACAD SCI USA, V59, P491, DOI 10.1073/pnas.59.2.491
+   BRUNSCHIER R, 1993, J BIOL CHEM, V268, P2767
+   BUCHNER J, 1991, BIOCHEMISTRY-US, V30, P1586, DOI 10.1021/bi00220a020
+   ELLIS RJ, 1991, ANNU REV BIOCHEM, V60, P321, DOI 10.1146/annurev.bi.60.070191.001541
+   FISHER MT, 1992, BIOCHEMISTRY-US, V31, P3955, DOI 10.1021/bi00131a010
+   GETHING MJ, 1992, NATURE, V355, P33, DOI 10.1038/355033a0
+   GOLOUBINOFF P, 1989, NATURE, V342, P884, DOI 10.1038/342884a0
+   GRAY TE, 1993, J MOL BIOL, V232, P1197, DOI 10.1006/jmbi.1993.1471
+   HEMMINGSEN SM, 1988, NATURE, V333, P330, DOI 10.1038/333330a0
+   HENDRIX RW, 1979, J MOL BIOL, V129, P375, DOI 10.1016/0022-2836(79)90502-3
+   HILL RL, 1975, ADV ENZYMOL RAMB, V43, P411
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   HIRAOKA Y, 1985, INT J PEPT PROT RES, V26, P252
+   ITO K, 1991, MOL MICROBIOL, V5, P2243, DOI 10.1111/j.1365-2958.1991.tb02154.x
+   JAENICKE R, 1991, BIOCHEMISTRY-US, V30, P3147, DOI 10.1021/bi00227a001
+   JENTOFT N, 1979, J BIOL CHEM, V254, P4359
+   KUBO T, 1993, J BIOL CHEM, V268, P19346
+   KUMAR AA, 1980, BIOCHEMISTRY-US, V19, P667, DOI 10.1021/bi00545a010
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   LAMINET AA, 1990, EMBO J, V9, P2315
+   LORIMER GH, 1993, PHILOS T ROY SOC B, V339, P297, DOI 10.1098/rstb.1993.0028
+   MARTIN J, 1991, NATURE, V352, P36, DOI 10.1038/352036a0
+   MENDOZA JA, 1991, J BIOL CHEM, V266, P13044
+   PRICE NC, 1991, FEBS LETT, V292, P9, DOI 10.1016/0014-5793(91)80821-J
+   SCHREIER AA, 1977, ANAL BIOCHEM, V83, P178, DOI 10.1016/0003-2697(77)90523-1
+   SOMMERS PB, 1980, BIOPHYS CHEM, V11, P217, DOI 10.1016/0301-4622(80)80024-X
+   TODD MJ, 1993, BIOCHEMISTRY-US, V32, P8560, DOI 10.1021/bi00084a024
+   VANDERVIES SM, 1992, BIOCHEMISTRY-US, V31, P3635, DOI 10.1021/bi00129a012
+   VIITANEN PV, 1990, BIOCHEMISTRY-US, V29, P5665, DOI 10.1021/bi00476a003
+   VIITANEN PV, 1991, BIOCHEMISTRY-US, V30, P9716, DOI 10.1021/bi00104a021
+   YUTANI K, 1992, J MOL BIOL, V228, P347, DOI 10.1016/0022-2836(92)90824-4
+   ZHENG XX, 1993, J BIOL CHEM, V268, P7489
+   Zhi Wang, 1992, Protein Science, V1, P522
+NR 35
+TC 90
+Z9 90
+PU NATURE PUBLISHING CO
+PI NEW YORK
+PA 345 PARK AVE SOUTH, NEW YORK, NY 10010-1707
+SN 1072-8368
+J9 NAT STRUCT BIOL
+JI Nat. Struct. Biol.
+PD JUL
+PY 1994
+VL 1
+IS 7
+BP 439
+EP 446
+DI 10.1038/nsb0794-439
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA PH950
+UT WOS:A1994PH95000009
+ER
+
+PT J
+AU KUWAJIMA, K
+   SEMISOTNOV, GV
+   FINKELSTEIN, AV
+   SUGAI, S
+   PTITSYN, OB
+AF KUWAJIMA, K
+   SEMISOTNOV, GV
+   FINKELSTEIN, AV
+   SUGAI, S
+   PTITSYN, OB
+TI SECONDARY STRUCTURE OF GLOBULAR-PROTEINS AT THE EARLY AND THE FINAL
+   STAGES IN PROTEIN-FOLDING
+SO FEBS LETTERS
+LA English
+DT Article
+DE PROTEIN FOLDING; FOLDING INTERMEDIATE; SECONDARY STRUCTURE; CIRCULAR
+   DICHROISM
+ID ULTRAVIOLET CIRCULAR-DICHROISM; ALPHA-LACTALBUMIN; MOLTEN GLOBULE;
+   INTERMEDIATE; EQUILIBRIUM; SPECTRA; STATE
+AB The ellipticities for an early transient intermediate in refolding observed by kinetic circular dichroism measurements at 220-225 nm for 14 different proteins are summarized, and the ellipticity values are compared with those for the final native proteins and also with the ellipticities expected from a physical theory of protein and polypeptide secondary structure. The results show that a substantial part of the protein secondary structure is in general formed in the earliest detectable intermediate in refolding and that the ellipticities in both the native and the intermediate states are consistent with the physical theory of protein secondary structure.
+C1 HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+   RUSSIAN ACAD SCI,INST PROTEIN RES,PUSHCHINO 142292,RUSSIA.
+   SOKA UNIV,FAC ENGN,DEPT BIOENGN,TOKYO 192,JAPAN.
+RP KUWAJIMA, K (reprint author), UNIV TOKYO,SCH SCI,DEPT PHYS,HONGO 7-3-1,BUNKYO KU,TOKYO 113,JAPAN.
+CR ACHARYA KR, 1991, J MOL BIOL, V221, P571
+   BERNSTEIN FC, 1977, EUR J BIOCHEM, V80, P319, DOI 10.1111/j.1432-1033.1977.tb11885.x
+   BOLOTINA I A, 1987, Molekulyarnaya Biologiya (Moscow), V21, P1625
+   BOLOTINA I A, 1980, Molekulyarnaya Biologiya (Moscow), V14, P891
+   FINKELSTEIN AV, 1991, PROTEINS, V10, P287, DOI 10.1002/prot.340100403
+   FINKELSTEIN AV, 1983, PROGRAM ALB PROTEIN
+   FISHER WR, 1973, J BIOL CHEM, V248, P3188
+   GILMANSHIN RI, 1987, FEBS LETT, V223, P327, DOI 10.1016/0014-5793(87)80313-7
+   GOLDBERG ME, 1990, FEBS LETT, V263, P51, DOI 10.1016/0014-5793(90)80703-L
+   IKEGUCHI M, 1992, BIOCHEMISTRY-US, V31, P12695, DOI 10.1021/bi00165a021
+   KABSCH W, 1983, BIOPOLYMERS, V22, P2577, DOI 10.1002/bip.360221211
+   KIM PS, 1990, ANNU REV BIOCHEM, V59, P631, DOI 10.1146/annurev.biochem.59.1.631
+   Kuwajima Kunihiro, 1992, Current Opinion in Biotechnology, V3, P462, DOI 10.1016/0958-1669(92)90072-Q
+   KUWAJIMA K, 1985, BIOCHEMISTRY-US, V24, P874, DOI 10.1021/bi00325a010
+   KUWAJIMA K, 1991, BIOCHEMISTRY-US, V30, P7693, DOI 10.1021/bi00245a005
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   KUWAJIMA K, 1988, BIOCHEMISTRY-US, V27, P7419, DOI 10.1021/bi00419a037
+   KUWAJIMA K, 1987, FEBS LETT, V221, P115, DOI 10.1016/0014-5793(87)80363-0
+   MANNING MC, 1989, BIOCHEMISTRY-US, V28, P8609, DOI 10.1021/bi00447a051
+   MATOUSCHEK A, 1992, J MOL BIOL, V224, P819, DOI 10.1016/0022-2836(92)90564-Z
+   PAPIZ MZ, 1986, NATURE, V324, P383, DOI 10.1038/324383a0
+   PTITSYN OB, 1987, J PROTEIN CHEM, V6, P273
+   PTITSYN OB, 1980, Q REV BIOPHYS, V13, P339
+   Ptitsyn Oleg B., 1992, P243
+   PTITSYN OB, 1983, BIOPOLYMERS, V22, P15, DOI 10.1002/bip.360220105
+   PTITSYN OB, 1991, CONFORMATIONS FORCES, P155
+   RODRIGUEZROMERO A, 1989, BIOCHIM BIOPHYS ACTA, V998, P21, DOI 10.1016/0167-4838(89)90113-1
+   SEMISOTNOV GV, 1991, EUR J BIOCHEM, V202, P1083, DOI 10.1111/j.1432-1033.1991.tb16474.x
+   SEMISOTNOV GV, 1991, BIOPOLYMERS, V31, P119, DOI 10.1002/bip.360310111
+   SUGAWARA T, 1991, BIOCHEMISTRY-US, V30, P2698, DOI 10.1021/bi00224a018
+   TASHIAN RE, 1980, BIOPHYSICS PHYSL CAR, P165
+   Woody R. W., 1985, PEPTIDES ANAL SYNTHE, V7, P15
+NR 32
+TC 47
+Z9 47
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD NOV 22
+PY 1993
+VL 334
+IS 3
+BP 265
+EP 268
+DI 10.1016/0014-5793(93)80691-M
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA MH650
+UT WOS:A1993MH65000004
+ER
+
+PT J
+AU KUWAJIMA, K
+   OKAYAMA, N
+   YAMAMOTO, K
+   ISHIHARA, T
+   SUGAI, S
+AF KUWAJIMA, K
+   OKAYAMA, N
+   YAMAMOTO, K
+   ISHIHARA, T
+   SUGAI, S
+TI THE PRO117 TO GLYCINE MUTATION OF STAPHYLOCOCCAL NUCLEASE SIMPLIFIES THE
+   UNFOLDING FOLDING KINETICS
+SO FEBS LETTERS
+LA English
+DT Article
+DE STAPHYLOCOCCAL NUCLEASE; FOLDING MECHANISM; PROLINE ISOMERIZATION;
+   STOPPED-FLOW TECHNIQUE; CIRCULAR DICHROISM; SITE-DIRECTED MUTAGENESIS
+ID MAGNETIC-RESONANCE; PROTEIN-STRUCTURE; AMINO-ACID; STABILITY; PROLINE
+AB Kinetics of unfolding and refolding of a staphylococcal nuclease mutant, in which Pro117 is replaced by glycine, have been investigated by stopped-flow circular dichroism, and the results are compared with those for the wild-type protein.  In contrast to the biphasic unfolding of the wild-type nuclease, the unfolding of the mutant is represented by a single-phase reaction, indicating that the biphasic unfolding for the wild-type protein is caused by cis-trans isomerization about the proyl peptide bond in the native state.  The proline mutation also simplifies the kinetic refolding.  Importance of the results in elucidating the folding mechanism is discussed.
+RP KUWAJIMA, K (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+CR ALEXANDRESCU AT, 1990, BIOCHEMISTRY-US, V29, P4516, DOI 10.1021/bi00471a003
+   BRANDTS JF, 1975, BIOCHEMISTRY-US, V14, P4953, DOI 10.1021/bi00693a026
+   CHENG HN, 1977, BIOPOLYMERS, V16, P1465, DOI 10.1002/bip.1977.360160707
+   EVANS PA, 1989, BIOCHEMISTRY-US, V28, P362, DOI 10.1021/bi00427a050
+   FINCH PW, 1986, NUCLEIC ACIDS RES, V14, P7695, DOI 10.1093/nar/14.19.7695
+   KIM PS, 1990, ANNU REV BIOCHEM, V59, P631, DOI 10.1146/annurev.biochem.59.1.631
+   KUWAJIMA K, 1989, PROTEINS, V6, P87, DOI 10.1002/prot.340060202
+   MATOUSCHEK A, 1990, NATURE, V346, P440, DOI 10.1038/346440a0
+   PRIVALOV PL, 1988, ADV PROTEIN CHEM, V39, P191
+   SAMBROOK J, 1989, MOL CLONING LABORATO
+   SERPERSU EH, 1986, BIOCHEMISTRY-US, V25, P68, DOI 10.1021/bi00349a011
+   SHORTLE D, 1989, J BIOL CHEM, V264, P5315
+   SHORTLE D, 1983, GENE, V22, P181, DOI 10.1016/0378-1119(83)90102-6
+   SUGAWARA T, 1991, BIOCHEMISTRY-US, V30, P2698, DOI 10.1021/bi00224a018
+   TUCKER PW, 1979, MOL CELL BIOCHEM, V23, P131
+NR 15
+TC 46
+Z9 46
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD SEP 23
+PY 1991
+VL 290
+IS 1-2
+BP 135
+EP 138
+DI 10.1016/0014-5793(91)81243-2
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA GJ553
+UT WOS:A1991GJ55300033
+ER
+
+PT J
+AU PERMYAKOV, EA
+   GRISHCHENKO, VM
+   KALINICHENKO, LP
+   ORLOV, NY
+   KUWAJIMA, K
+   SUGAI, S
+AF PERMYAKOV, EA
+   GRISHCHENKO, VM
+   KALINICHENKO, LP
+   ORLOV, NY
+   KUWAJIMA, K
+   SUGAI, S
+TI CALCIUM-REGULATED INTERACTIONS OF HUMAN ALPHA-LACTALBUMIN WITH BEE VENOM
+   MELITTIN
+SO BIOPHYSICAL CHEMISTRY
+LA English
+DT Article
+DE ALPHA-LACTALBUMIN; MELITTIN; CA2+-REGULATED INTERACTION
+ID TROPONIN-C; BINDING; CALMODULIN; FLUORESCENCE; ASSOCIATION
+AB Affinity chromatography, fluorescence and circular dichroism spectroscopy methods have been used to study the interaction of melittin, a 26-residue peptide from bee venom, with Ca2+-binding alpha-lactalbumin from human milk.  It has been revealed that melittin binds to the apo- and acidic states of alpha-lactalbumin while the presence of Ca2+ makes the interaction essentially weaker.  The association constant for the complex of melittin with apo-alpha-lactalbumin determined from spectropolarimetric melittin-titration data is 2 x 10(7) M-1.  The complexation of alpha-lactalbumin with melittin decreases its affinity to Ca2+ by three orders of magnitude.  The interaction of apo-alpha-lactalbumin with melttin causes some changes in the environment of its aromatic amino acid residues and drastically alters the conformation of melittin, increasing its alpha-helical content but leaving its single tryptophan residue accessible to water.  In the case of the acidic state of alpha-lactalbumin the interaction does not induce an increase in alpha-helical content of melittin.
+C1 HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+RP PERMYAKOV, EA (reprint author), ACAD SCI USSR,INST BIOL PHYS,PUSHCHINO 142292,USSR.
+CR CADAY CG, 1986, BIOCHEM BIOPH RES CO, V135, P419, DOI 10.1016/0006-291X(86)90011-2
+   COX JA, 1985, J BIOL CHEM, V260, P2527
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   KAPLANAS R I, 1975, Biokhimiya, V40, P584
+   KINCAID RL, 1985, BIOCHEM BIOPH RES CO, V133, P1
+   KING TP, 1976, ARCH BIOCHEM BIOPHYS, V172, P661, DOI 10.1016/0003-9861(76)90121-1
+   MALENCIK DA, 1984, BIOCHEMISTRY-US, V23, P2420, DOI 10.1021/bi00306a016
+   MALENCIK DA, 1988, BIOCHEMISTRY-US, V27, P1941, DOI 10.1021/bi00406a021
+   MURAKAMI K, 1983, BIOCHEMISTRY-US, V22, P3370, DOI 10.1021/bi00283a010
+   MUSCI G, 1985, BIOCHEMISTRY-US, V24, P3852, DOI 10.1021/bi00336a006
+   PERMYAKOV E A, 1989, Molekulyarnaya Biologiya (Moscow), V23, P693
+   PERMYAKOV EA, 1988, BIOPHYS CHEM, V32, P37, DOI 10.1016/0301-4622(88)85031-2
+   PERMYAKOV EA, 1977, BIOCHIM BIOPHYS ACTA, V491, P149, DOI 10.1016/0005-2795(77)90050-2
+   PERMYAKOV EA, 1981, BIOCHEM BIOPH RES CO, V100, P191, DOI 10.1016/S0006-291X(81)80081-2
+   PERMYAKOV EA, 1985, BIOPHYS CHEM, V21, P21, DOI 10.1016/0301-4622(85)85003-1
+   REICH JG, 1972, EUR J BIOCHEM, V26, P368, DOI 10.1111/j.1432-1033.1972.tb01776.x
+   STEINER RF, 1987, ARCH BIOCHEM BIOPHYS, V254, P342, DOI 10.1016/0003-9861(87)90110-X
+NR 17
+TC 12
+Z9 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0301-4622
+J9 BIOPHYS CHEM
+JI Biophys. Chem.
+PD FEB
+PY 1991
+VL 39
+IS 2
+BP 111
+EP 117
+DI 10.1016/0301-4622(91)85012-F
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Biophysics; Chemistry
+GA EY147
+UT WOS:A1991EY14700001
+ER
+
+PT J
+AU GOLDBERG, ME
+   SEMISOTNOV, GV
+   FRIGUET, B
+   KUWAJIMA, K
+   PTITSYN, OB
+   SUGAI, S
+AF GOLDBERG, ME
+   SEMISOTNOV, GV
+   FRIGUET, B
+   KUWAJIMA, K
+   PTITSYN, OB
+   SUGAI, S
+TI AN EARLY IMMUNOREACTIVE FOLDING INTERMEDIATE OF THE TRYPTOPHAN
+   SYNTHASE-BETA-2 SUBUNIT IS A MOLTEN GLOBULE
+SO FEBS LETTERS
+LA English
+DT Article
+C1 ACAD SCI USSR,INST PROT RES,PUSHCHINO 142292,USSR.
+   HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+RP GOLDBERG, ME (reprint author), INST PASTEUR,UNITE BIOCHIM CELLULAIRE,CNRS,URA 1129,28 RUE DR ROUX,F-75724 PARIS 15,FRANCE.
+CR BLOND S, 1986, Proteins Structure Function and Genetics, V1, P247, DOI 10.1002/prot.340010307
+   BLOND S, 1985, J MOL BIOL, V182, P597, DOI 10.1016/0022-2836(85)90245-1
+   BLOND S, 1987, P NATL ACAD SCI USA, V84, P1147, DOI 10.1073/pnas.84.5.1147
+   BLONDELGUINDI S, 1990, BIOCHEMISTRY
+   BOLOTINA I A, 1987, Molekulyarnaya Biologiya (Moscow), V21, P1625
+   DOLGIKH DA, 1985, EUR BIOPHYS J BIOPHY, V13, P109
+   DOLGIKH DA, 1984, FEBS LETT, V165, P88, DOI 10.1016/0014-5793(84)80020-4
+   DOLGIKH DA, 1981, FEBS LETT, V136, P311, DOI 10.1016/0014-5793(81)80642-4
+   GILMANSHIN RI, 1987, FEBS LETT, V223, P327, DOI 10.1016/0014-5793(87)80313-7
+   GOTO Y, 1989, BIOCHEMISTRY-US, V28, P945, DOI 10.1021/bi00429a004
+   HOGBERGRAIBAUD A, 1977, BIOCHEMISTRY-US, V16, P4014, DOI 10.1021/bi00637a012
+   KRONMAN MJ, 1966, BIOCHEMISTRY-US, V5, P1970, DOI 10.1021/bi00870a026
+   KUWAJIMA K, 1989, IN PRESS PROT STRUCT
+   KUWAJIMA K, 1989, J MOL BIOL, V206, P547, DOI 10.1016/0022-2836(89)90500-7
+   KUWAJIMA K, 1988, BIOCHEMISTRY-US, V27, P7419, DOI 10.1021/bi00419a037
+   KUWAJIMA K, 1987, FEBS LETT, V221, P115, DOI 10.1016/0014-5793(87)80363-0
+   MURRYBRELIER, 1990, IN PRESS P STRUCT FU
+   MURRYBRELIER A, 1988, BIOCHEMISTRY-US, V27, P7633, DOI 10.1021/bi00420a010
+   OHGUSHI M, 1983, FEBS LETT, V164, P21, DOI 10.1016/0014-5793(83)80010-6
+   PTITSYN OB, 1987, J PROTEIN CHEM, V6, P273
+   PTITSYN OB, 1990, IN PRESS FEBS LETT
+   RODIONOVA N A, 1989, Molekulyarnaya Biologiya (Moscow), V23, P683
+   Sears D.W., 1973, PHYSICAL PRINCIPLE C, P445
+   SEMISOTNOV GV, 1987, FEBS LETT, V224, P9, DOI 10.1016/0014-5793(87)80412-X
+   ZETINA CR, 1980, J MOL BIOL, V137, P401, DOI 10.1016/0022-2836(80)90165-5
+NR 25
+TC 88
+Z9 88
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD APR 9
+PY 1990
+VL 263
+IS 1
+BP 51
+EP 56
+DI 10.1016/0014-5793(90)80703-L
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA DA099
+UT WOS:A1990DA09900013
+ER
+
+PT J
+AU HARUSHIMA, Y
+   KUWAJIMA, K
+   SUGAI, S
+AF HARUSHIMA, Y
+   KUWAJIMA, K
+   SUGAI, S
+TI HYDROGEN-EXCHANGE OF THE TRYPTOPHAN RESIDUES IN BOVINE ALPHA-LACTALBUMIN
+   STUDIED BY UV SPECTROSCOPY
+SO BIOPOLYMERS
+LA English
+DT Article
+RP HARUSHIMA, Y (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+CR Barksdale A D, 1982, Methods Biochem Anal, V28, P1, DOI 10.1002/9780470110485.ch1
+   DOLGIKH DA, 1985, EUR BIOPHYS J BIOPHY, V13, P109
+   Englander S.W., 1984, Q REV BIOPHYS, V16, P521
+   HILL RL, 1975, ADV ENZYMOL RAMB, V43, P411
+   HIRAOKA Y, 1984, INT J PEPT PROT RES, V23, P535
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   HIRAOKA Y, 1985, INT J PEPT PROT RES, V26, P252
+   HVIDT AASE, 1966, ADVANCE PROTEIN CHEM, V21, P287, DOI 10.1016/S0065-3233(08)60129-1
+   IKEGUCHI M, 1986, J BIOCHEM-TOKYO, V99, P1191
+   IKEGUCHI M, 1986, BIOCHEMISTRY-US, V25, P6965, DOI 10.1021/bi00370a034
+   IMOTO T, 1981, J BIOCHEM-TOKYO, V90, P335
+   KRONMAN MJ, 1981, J BIOL CHEM, V256, P8582
+   KRONMAN MJ, 1964, BIOCHEMISTRY-US, V3, P1145, DOI 10.1021/bi00896a024
+   KUWAJIMA K, 1978, BIOPHYS CHEM, V8, P247, DOI 10.1016/0301-4622(78)87006-9
+   KUWAJIMA K, 1981, J BIOCHEM-TOKYO, V89, P759
+   KUWAJIMA K, 1985, BIOCHEMISTRY-US, V24, P874, DOI 10.1021/bi00325a010
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1986, INT J PEPT PROT RES, V27, P18
+   MITANI M, 1986, J BIOL CHEM, V261, P8824
+   MURAKAMI K, 1982, BIOCHEMISTRY-US, V21, P5488, DOI 10.1021/bi00265a017
+   NAKANISH.M, 1974, J MOL BIOL, V83, P379, DOI 10.1016/0022-2836(74)90286-1
+   NAKANISHI M, 1978, J AM CHEM SOC, V100, P1273, DOI 10.1021/ja00472a040
+   NAKANISHI M, 1978, J AM CHEM SOC, V100, P272, DOI 10.1021/ja00469a046
+   OHTA S, 1977, EUR J BIOCHEM, V78, P599, DOI 10.1111/j.1432-1033.1977.tb11773.x
+   PERMYAKOV EA, 1981, BIOCHEM BIOPH RES CO, V100, P191, DOI 10.1016/S0006-291X(81)80081-2
+   PERMYAKOV EA, 1985, BIOPHYS CHEM, V21, P21, DOI 10.1016/0301-4622(85)85003-1
+   PFEIL W, 1987, BIOCHIM BIOPHYS ACTA, V911, P114, DOI 10.1016/0167-4838(87)90277-9
+   PFEIL W, 1985, STUD BIOPHYS, V109, P163
+   RODER H, 1985, BIOCHEMISTRY-US, V24, P7396, DOI 10.1021/bi00346a055
+   SEGAWA SI, 1981, BIOPOLYMERS, V20, P1691, DOI 10.1002/bip.1981.360200810
+   SHEWALE JG, 1984, J BIOL CHEM, V259, P4947
+   SOMMERS PB, 1980, BIOPHYS CHEM, V11, P217, DOI 10.1016/0301-4622(80)80024-X
+   STUART DI, 1986, NATURE, V324, P84, DOI 10.1038/324084a0
+   TAKASE K, 1978, J BIOCHEM-TOKYO, V83, P371
+   TAKESADA H, 1976, BIOPOLYMERS, V15, P1929, DOI 10.1002/bip.1976.360151005
+   WAELDER SF, 1977, BIOPOLYMERS, V16, P623, DOI 10.1002/bip.1977.360160311
+   WARME PK, 1974, BIOCHEMISTRY-US, V13, P768, DOI 10.1021/bi00701a020
+   WEDIN RE, 1982, BIOCHEMISTRY-US, V21, P1098, DOI 10.1021/bi00534a042
+   WOODWARD C, 1982, MOL CELL BIOCHEM, V48, P135, DOI 10.1007/BF00421225
+NR 39
+TC 10
+Z9 10
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0006-3525
+J9 BIOPOLYMERS
+JI Biopolymers
+PD APR
+PY 1988
+VL 27
+IS 4
+BP 629
+EP 644
+DI 10.1002/bip.360270407
+PG 16
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA M8360
+UT WOS:A1988M836000006
+ER
+
+PT J
+AU KUWAJIMA, K
+   YAMAYA, H
+   MIWA, S
+   SUGAI, S
+   NAGAMURA, T
+AF KUWAJIMA, K
+   YAMAYA, H
+   MIWA, S
+   SUGAI, S
+   NAGAMURA, T
+TI RAPID FORMATION OF SECONDARY STRUCTURE FRAMEWORK IN PROTEIN FOLDING
+   STUDIED BY STOPPED-FLOW CIRCULAR-DICHROISM
+SO FEBS LETTERS
+LA English
+DT Article
+C1 UNISOKU INC,HIRAKATA,OSAKA 57301,JAPAN.
+RP KUWAJIMA, K (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+CR AUER HE, 1986, BIOPOLYMERS, V25, P1607, DOI 10.1002/bip.360250904
+   CERVONE F, 1973, BIOCHIM BIOPHYS ACTA, V295, P555, DOI 10.1016/0005-2795(73)90053-6
+   DOLGIKH DA, 1984, FEBS LETT, V165, P88, DOI 10.1016/0014-5793(84)80020-4
+   FINKELSTEIN AV, 1978, BIOORG KHIM+, V4, P340
+   FISHER WR, 1973, J BIOL CHEM, V248, P3188
+   GRUENEWALD B, 1979, BIOPHYS CHEM, V9, P137, DOI 10.1016/0301-4622(79)87008-8
+   HARTMAN R, 1974, J MOL BIOL, V90, P415, DOI 10.1016/0022-2836(74)90225-3
+   IKEGUCHI M, 1986, BIOCHEMISTRY-US, V25, P6965, DOI 10.1021/bi00370a034
+   Labhardt A M, 1986, Methods Enzymol, V131, P126
+   NAGAMURA T, 1985, J BIOCHEM BIOPH METH, V11, P277, DOI 10.1016/0165-022X(85)90009-0
+   PAPIZ MZ, 1986, NATURE, V324, P383, DOI 10.1038/324383a0
+   RIDGE JA, 1981, BIOCHEMISTRY-US, V20, P1622, DOI 10.1021/bi00509a033
+   ROSSMANN MG, 1981, ANNU REV BIOCHEM, V50, P497, DOI 10.1146/annurev.bi.50.070181.002433
+NR 13
+TC 236
+Z9 236
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD AUG 31
+PY 1987
+VL 221
+IS 1
+BP 115
+EP 118
+DI 10.1016/0014-5793(87)80363-0
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA J9752
+UT WOS:A1987J975200023
+ER
+
+PT J
+AU KUWAJIMA, K
+   MATSUSHIMA, T
+   NITTA, K
+   SUGAI, S
+AF KUWAJIMA, K
+   MATSUSHIMA, T
+   NITTA, K
+   SUGAI, S
+TI PH-JUMP TITRATION OF THE TYROSYL GROUPS OF BOVINE PLASMA-ALBUMIN
+SO BIOPOLYMERS
+LA English
+DT Article
+RP KUWAJIMA, K (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+CR ARVIDSSON EO, 1972, BIOPOLYMERS, V11, P2195
+   AVRUCH J, 1969, BIOCHEMISTRY-US, V8, P1855, DOI 10.1021/bi00833a012
+   BREWER JM, 1977, BIOCHEM BIOPH RES CO, V76, P572, DOI 10.1016/0006-291X(77)90762-8
+   BROWN JR, 1976, FED PROC, V35, P2141
+   CHAMPAGNE M, 1957, J CHIM PHYS PCB, V54, P393
+   DECKER RV, 1967, J BIOL CHEM, V242, P1526
+   Donovan J W, 1973, Methods Enzymol, V27, P525
+   DUGAICZYK A, 1982, P NATL ACAD SCI-BIOL, V79, P71, DOI 10.1073/pnas.79.1.71
+   EFTINK MR, 1977, BIOCHEMISTRY-US, V16, P5546, DOI 10.1021/bi00644a024
+   EIGEN M, 1964, ANGEW CHEM INT EDIT, V3, P1, DOI 10.1002/anie.196400011
+   Foster J. F., 1977, ALBUMIN STRUCTURE FU, P53
+   HARMSEN BJM, 1971, BIOCHEMISTRY-US, V10, P3217
+   HERSKOVITS TT, 1962, J BIOL CHEM, V237, P2481
+   Imoto T, 1972, ENZYMES, V7, P665, DOI 10.1016/S1874-6047(08)60465-5
+   INAGAKI F, 1978, EUR J BIOCHEM, V89, P433, DOI 10.1111/j.1432-1033.1978.tb12546.x
+   JACOBSEN J, 1980, BIOCHIM BIOPHYS ACTA, V623, P199, DOI 10.1016/0005-2795(80)90021-5
+   JACODZINSKI LL, 1981, P NATL ACAD SCI US, V78, P3521
+   KATZ S, 1973, J BIOL CHEM, V248, P4840
+   KESSLER LW, 1969, J PHYS CHEM-US, V73, P4256, DOI 10.1021/j100846a037
+   KITA N, 1976, BIOCHIM BIOPHYS ACTA, V427, P350, DOI 10.1016/0005-2795(76)90310-X
+   KOREN R, 1982, BIOCHIM BIOPHYS ACTA, V703, P42, DOI 10.1016/0167-4838(82)90008-5
+   KRONMAN MJ, 1970, FINE STRUCTURE PROTE, P271
+   KRONMAN MJ, 1957, ARCH BIOCHEM BIOPHYS, V72, P205, DOI 10.1016/0003-9861(57)90187-X
+   KUWAJIMA K, 1981, J BIOCHEM-TOKYO, V89, P759
+   KUWAJIMA K, 1979, BIOCHEMISTRY-US, V18, P878, DOI 10.1021/bi00572a022
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1980, BIOCHIM BIOPHYS ACTA, V623, P389, DOI 10.1016/0005-2795(80)90268-8
+   LAKOWICZ JR, 1973, BIOCHEMISTRY-US, V12, P4171, DOI 10.1021/bi00745a021
+   LAWN RM, 1981, NUCLEIC ACIDS RES, V9, P6103, DOI 10.1093/nar/9.22.6103
+   LI LK, 1966, BIOCHEMISTRY-US, V5, P2043, DOI 10.1021/bi00870a036
+   MALAN PG, 1970, BIOCHEMISTRY-US, V9, P3205, DOI 10.1021/bi00818a013
+   MARTIN CJ, 1982, BIOPOLYMERS, V21, P1657, DOI 10.1002/bip.360210814
+   MELOUN B, 1975, FEBS LETT, V58, P134, DOI 10.1016/0014-5793(75)80242-0
+   MOORE WE, 1968, BIOCHEMISTRY-US, V7, P3409, DOI 10.1021/bi00850a015
+   MORAVEK L, 1979, COLLECT CZECH CHEM C, V44, P1657
+   MUROGA Y, 1981, BIOPHYS CHEM, V13, P97, DOI 10.1016/0301-4622(81)80029-4
+   NOEL JKF, 1972, J BIOL CHEM, V247, P7391
+   NOZAKI Y, 1967, J AM CHEM SOC, V89, P742, DOI 10.1021/ja00980a003
+   Nozaki Y, 1972, Methods Enzymol, V26, P43
+   PERLMAN RL, 1967, J BIOL CHEM, V242, P2416
+   RAJ T, 1974, BIOCHEMISTRY-US, V13, P3336, DOI 10.1021/bi00713a024
+   REED RG, 1980, BIOCHEM J, V191, P867
+   RICHARDS F. M., 1971, ENZYMES, V4, P647
+   ROXBY R, 1971, BIOCHEMISTRY-US, V10, P3348, DOI 10.1021/bi00794a005
+   RUDOLPH R, 1975, BIOPHYS CHEM, V3, P226, DOI 10.1016/0301-4622(75)80014-7
+   SHAHID F, 1982, J BIOL CHEM, V257, P5618
+   SOGAMI M, 1973, J BIOCHEM-TOKYO, V73, P323
+   SOGAMI M, 1982, INT J PEPT PROT RES, V19, P263
+   STEINHAR.J, 1973, BIOCHEMISTRY-US, V12, P2798, DOI 10.1021/bi00739a004
+   STEINHAR.J, 1973, BIOCHEMISTRY-US, V12, P1789, DOI 10.1021/bi00733a020
+   TANFORD C, 1962, ADV PROTEIN CHEM, V17, P69
+   TANFORD C, 1955, J AM CHEM SOC, V77, P6421, DOI 10.1021/ja01629a003
+   TANFORD C, 1952, J AM CHEM SOC, V74, P2509, DOI 10.1021/ja01130a017
+   TAYLOR RP, 1978, BIOPHYS CHEM, V7, P293, DOI 10.1016/0301-4622(78)85006-6
+   TONOMURA B, 1978, ANAL BIOCHEM, V84, P370, DOI 10.1016/0003-2697(78)90054-4
+   VIJAI KK, 1967, BIOCHEMISTRY-US, V6, P1152, DOI 10.1021/bi00856a027
+   WILLIAMS EJ, 1959, J AM CHEM SOC, V81, P865, DOI 10.1021/ja01513a030
+   ZURAWSKI VR, 1974, BIOCHEMISTRY-US, V13, P3465, DOI 10.1021/bi00714a007
+NR 58
+TC 4
+Z9 4
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0006-3525
+J9 BIOPOLYMERS
+JI Biopolymers
+PY 1984
+VL 23
+IS 7
+BP 1347
+EP 1365
+PG 19
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA SY534
+UT WOS:A1984SY53400017
+ER
+
+PT J
+AU KUWAJIMA, K
+   KIM, PS
+   BALDWIN, RL
+AF KUWAJIMA, K
+   KIM, PS
+   BALDWIN, RL
+TI STRATEGY FOR TRAPPING INTERMEDIATES IN THE FOLDING OF RIBONUCLEASE AND
+   FOR USING H-1-NMR TO DETERMINE THEIR STRUCTURES
+SO BIOPOLYMERS
+LA English
+DT Article
+RP KUWAJIMA, K (reprint author), STANFORD UNIV, MED CTR, DEPT BIOCHEM, STANFORD, CA 94305 USA.
+CR BIERZYNSKI A, 1982, P NATL ACAD SCI-BIOL, V79, P2470, DOI 10.1073/pnas.79.8.2470
+   BRANDTS JF, 1975, BIOCHEMISTRY-US, V14, P4953, DOI 10.1021/bi00693a026
+   BROWN JE, 1971, BIOCHEMISTRY-US, V10, P470, DOI 10.1021/bi00779a019
+   COOK KH, 1979, P NATL ACAD SCI USA, V76, P6157, DOI 10.1073/pnas.76.12.6157
+   CREIGHTON TE, 1978, PROG BIOPHYS MOL BIO, V33, P231
+   ENGLANDER SW, 1980, BIOPHYS J, V32, P577
+   ENGLANDE.SW, 1972, ANNU REV BIOCHEM, V41, P903, DOI 10.1146/annurev.bi.41.070172.004351
+   GAREL JR, 1973, P NATL ACAD SCI USA, V70, P3347, DOI 10.1073/pnas.70.12.3347
+   KIM PS, 1980, BIOCHEMISTRY-US, V19, P6124, DOI 10.1021/bi00567a027
+   KLOTZ IM, 1962, J AM CHEM SOC, V84, P3461, DOI 10.1021/ja00877a009
+   KONISHI Y, 1981, BIOCHEMISTRY-US, V20, P3945, DOI 10.1021/bi00517a001
+   KOSSIAKOFF AA, 1982, NATURE, V296, P713, DOI 10.1038/296713a0
+   NALL BT, 1978, J MOL BIOL, V118, P317, DOI 10.1016/0022-2836(78)90231-0
+   NIU CH, 1980, J BIOL CHEM, V255, P2036
+   POLAND D, 1970, THEORY HELIX COIL TR, P85
+   SCHERAGA HA, 1978, PURE APPL CHEM, V50, P315, DOI 10.1351/pac197850040315
+   SCHMID FX, 1981, EUR J BIOCHEM, V114, P111
+   SCHMID FX, 1979, J MOL BIOL, V135, P199, DOI 10.1016/0022-2836(79)90347-4
+   SCHMID FX, 1978, P NATL ACAD SCI USA, V75, P4764, DOI 10.1073/pnas.75.10.4764
+   SCHMID FX, 1982, BIOCHEMISTRY
+   SCHMID FX, 1981, EUR J BIOCHEM, V114, P105
+   SCHMID FX, 1979, J MOL BIOL, V133, P285, DOI 10.1016/0022-2836(79)90536-9
+   SCHREIER AA, 1976, J MOL BIOL, V105, P409, DOI 10.1016/0022-2836(76)90101-7
+   SUSI H, 1964, J BIOL CHEM, V239, P3051
+   TSONG TY, 1978, BIOPOLYMERS, V17, P1669, DOI 10.1002/bip.1978.360170705
+   WAGNER G, 1982, J MOL BIOL, V155, P347, DOI 10.1016/0022-2836(82)90009-2
+   WAGNER G, 1982, J MOL BIOL, V160, P343, DOI 10.1016/0022-2836(82)90180-2
+   WLODAWER A, 1982, P NATL ACAD SCI-BIOL, V79, P1418, DOI 10.1073/pnas.79.5.1418
+   WOODWARD C, 1982, MOL CELL BIOCHEM, V48, P135, DOI 10.1007/BF00421225
+   WUTHRICH K, 1982, J MOL BIOL, V155, P311, DOI 10.1016/0022-2836(82)90007-9
+NR 30
+TC 20
+Z9 20
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0006-3525
+J9 BIOPOLYMERS
+JI Biopolymers
+PY 1983
+VL 22
+IS 1
+BP 59
+EP 67
+DI 10.1002/bip.360220111
+PG 9
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA QB345
+UT WOS:A1983QB34500009
+ER
+
+PT J
+AU IZUMI, Y
+   MIYAKE, Y
+   KUWAJIMA, K
+   SUGAI, S
+   INOUE, K
+   IIZUMI, M
+   KATANO, S
+AF IZUMI, Y
+   MIYAKE, Y
+   KUWAJIMA, K
+   SUGAI, S
+   INOUE, K
+   IIZUMI, M
+   KATANO, S
+TI FOLDING UNFOLDING OF ALPHA-LACTALBUMIN
+SO PHYSICA B & C
+LA English
+DT Article
+C1 HOKKAIDO UNIV,FAC ENGN,SAPPORO,HOKKAIDO 060,JAPAN.
+   JAPAN ATOM ENERGY RES INST,TOKAI RES ESTAB,TOKAI,IBARAKI 31911,JAPAN.
+RP IZUMI, Y (reprint author), HOKKAIDO UNIV,FAC SCI,SAPPORO,HOKKAIDO 060,JAPAN.
+CR DOLGIKH DA, 1981, FEBS LETT, V136, P311, DOI 10.1016/0014-5793(81)80642-4
+   IZUMI Y, 1978, COLLOID POLYM SCI, V256, P1, DOI 10.1007/BF01746684
+   IZUMI Y, 1972, POLYM J, V3, P647
+   KRIGBAUM WR, 1970, BIOCHEMISTRY-US, V9, P1216, DOI 10.1021/bi00807a024
+   KUWAJIMA K, 1981, J BIOCHEM-TOKYO, V89, P759
+   KUWAJIMA K, 1977, J MOL BIOL, V114, P241, DOI 10.1016/0022-2836(77)90208-X
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   LUZZATI V, 1960, ACTA CRYSTALLOGR, V13, P939, DOI 10.1107/S0365110X60002284
+NR 8
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA B & C
+PY 1983
+VL 120
+IS 1-3
+BP 444
+EP 448
+DI 10.1016/0378-4363(83)90424-2
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA RA547
+UT WOS:A1983RA54700096
+ER
+
+PT J
+AU SEGAWA, T
+   KUWAJIMA, K
+   SUGAI, S
+AF SEGAWA, T
+   KUWAJIMA, K
+   SUGAI, S
+TI KINETIC CORRELATIONS BETWEEN THE DISULFIDE BOND REDUCTION AND THE
+   INDUCED CONFORMATIONAL CHANGE OF PROTEINS
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+RP SEGAWA, T (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,SAPPORO,HOKKAIDO 060,JAPAN.
+CR ACHARYA AS, 1978, BIOCHEMISTRY-US, V17, P3064, DOI 10.1021/bi00608a019
+   ANANTHAN.VS, 1969, BIOCHEMISTRY-US, V8, P3723, DOI 10.1021/bi00837a035
+   ANANTHAN.VS, 1969, BIOCHEMISTRY-US, V8, P3717, DOI 10.1021/bi00837a034
+   ANFINSEN CB, 1966, HARVEY LECT, V61, P91
+   BLOW D M, 1974, Nature (London), V249, P54, DOI 10.1038/249054a0
+   CLELAND WW, 1964, BIOCHEMISTRY-US, V3, P480, DOI 10.1021/bi00892a002
+   CREIGHTON TE, 1978, PROG BIOPHYS MOL BIO, V33, P231
+   CREIGHTON TE, 1977, J MOL BIOL, V113, P313, DOI 10.1016/0022-2836(77)90144-9
+   CREIGHTON TE, 1975, J MOL BIOL, V96, P767, DOI 10.1016/0022-2836(75)90151-5
+   DIBELLA FP, 1969, J BIOL CHEM, V244, P2824
+   ELLMAN GL, 1959, ARCH BIOCHEM BIOPHYS, V82, P70, DOI 10.1016/0003-9861(59)90090-6
+   GAREL JR, 1978, J MOL BIOL, V118, P331, DOI 10.1016/0022-2836(78)90232-2
+   HIRAOKA Y, 1980, BIOCHEM BIOPH RES CO, V95, P1098, DOI 10.1016/0006-291X(80)91585-5
+   HIRAOKA Y, 1980, JUL S BIOM STRUCT NA
+   IKEDA K, 1968, J BIOCHEM-TOKYO, V63, P521
+   IYER KS, 1973, J BIOL CHEM, V248, P707
+   KITA N, 1977, BIOCH BIOPHYS ACTA, V427, P350
+   KNIGHTS RJ, 1976, J BIOL CHEM, V251, P222
+   KOIDE T, 1973, EUR J BIOCHEM, V32, P417, DOI 10.1111/j.1432-1033.1973.tb02624.x
+   KRESS LF, 1967, J BIOL CHEM, V242, P4925
+   KRONMAN MJ, 1964, BIOCHEMISTRY-US, V3, P1145, DOI 10.1021/bi00896a024
+   KUWAJIMA K, 1977, J MOL BIOL, V114, P241, DOI 10.1016/0022-2836(77)90208-X
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1980, BIOCHIM BIOPHYS ACTA, V623, P389, DOI 10.1016/0005-2795(80)90268-8
+   NITTA K, 1977, BIOCHIM BIOPHYS ACTA, V490, P200, DOI 10.1016/0005-2795(77)90120-9
+   NITTA K, 1977, BIOPOLYMERS, V16, P703, DOI 10.1002/bip.1977.360160318
+   Nozaki Y, 1972, Methods Enzymol, V26, P43
+   PLUNKETT G, 1980, J BIOL CHEM, V255, P2752
+   SHECHTER Y, 1973, BIOCHEMISTRY-US, V12, P3407, DOI 10.1021/bi00742a007
+   STEINER RF, 1965, BIOCHIM BIOPHYS ACTA, V100, P111, DOI 10.1016/0304-4165(65)90433-2
+   WARME PK, 1974, BIOCHEMISTRY-US, V13, P768, DOI 10.1021/bi00701a020
+   YAMAMOTO M, 1967, J BIOCHEM-TOKYO, V62, P141
+NR 32
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1981
+VL 668
+IS 1
+BP 89
+EP 97
+DI 10.1016/0005-2795(81)90152-5
+PG 9
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA LK946
+UT WOS:A1981LK94600010
+ER
+
+PT J
+AU HIRAOKA, Y
+   SEGAWA, T
+   KUWAJIMA, K
+   SUGAI, S
+   MURAI, N
+AF HIRAOKA, Y
+   SEGAWA, T
+   KUWAJIMA, K
+   SUGAI, S
+   MURAI, N
+TI ALPHA-LACTALBUMIN - A CALCIUM METALLOPROTEIN
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+C1 YAGAI KAGAKU CO,HIGASHI KU,SAPPORO 065,JAPAN.
+RP HIRAOKA, Y (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+CR BAREL AO, 1972, BIOCHIM BIOPHYS ACTA, V257, P288, DOI 10.1016/0005-2795(72)90281-4
+   BREW K, 1970, J BIOL CHEM, V245, P4570
+   BREW K, 1969, NATURE, V222, P671, DOI 10.1038/222671a0
+   BREW K, 1968, P NATL ACAD SCI USA, V59, P491, DOI 10.1073/pnas.59.2.491
+   BRODBECK U, 1967, J BIOL CHEM, V242, P1391
+   BROWNE WJ, 1969, J MOL BIOL, V42, P65, DOI 10.1016/0022-2836(69)90487-2
+   EVANS MTA, 1980, APPL PROTEIN CHEM, P31
+   GALLO AA, 1971, BIOCHEM BIOPH RES CO, V43, P1232, DOI 10.1016/S0006-291X(71)80004-9
+   Hill R. L., 1974, Lysozyme., P55
+   HILL RL, 1975, ADV ENZYMOL RAMB, V43, P411
+   HOPP TP, 1979, BIOCHEMISTRY-US, V18, P5182, DOI 10.1021/bi00590a024
+   IKEDA K, 1973, J BIOCHEM-TOKYO, V73, P307
+   JONES R, 1974, EUR J BIOCHEM, V47, P271, DOI 10.1111/j.1432-1033.1974.tb03691.x
+   JORI G, 1971, BIOCHIM BIOPHYS ACTA, V236, P749, DOI 10.1016/0005-2795(71)90260-1
+   KRETSINGER RH, 1976, INT REV CYTOL, V46, P323, DOI 10.1016/S0074-7696(08)60994-8
+   KUWAJIMA K, 1978, BIOPHYS CHEM, V8, P247, DOI 10.1016/0301-4622(78)87006-9
+   KUWAJIMA K, BIOCH BIOPHYS ACTA
+   KUWAJIMA K, 1977, J MOL BIOL, V114, P241, DOI 10.1016/0022-2836(77)90208-X
+   KUWAJIMA K, 1979, BIOCHEMISTRY-US, V18, P878, DOI 10.1021/bi00572a022
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, UNPUBLISHED
+   Levine BA, 1977, CALCIUM BINDING PROT, P29
+   MACGILLIVRAY RTA, 1979, ARCH BIOCHEM BIOPHYS, V197, P404, DOI 10.1016/0003-9861(79)90262-5
+   MCDONALD CC, 1969, BIOCHEM BIOPH RES CO, V35, P43, DOI 10.1016/0006-291X(69)90480-X
+   NITTA K, 1977, BIOCHIM BIOPHYS ACTA, V490, P200, DOI 10.1016/0005-2795(77)90120-9
+   NOZAKA M, 1978, BIOCHEMISTRY-US, V17, P3753, DOI 10.1021/bi00611a013
+   PERKINS SJ, 1979, BIOCHEM J, V181, P21
+   PRASAD R, 1979, J BIOL CHEM, V254
+   SECEMSKI II, 1974, J BIOL CHEM, V249, P2932
+   SOMMERS PB, 1980, BIOPHYS CHEM, V11, P217, DOI 10.1016/0301-4622(80)80024-X
+   TAKASE K, 1976, AGR BIOL CHEM TOKYO, V40, P1273
+   TAKESADA H, 1973, J MOL BIOL, V77, P605, DOI 10.1016/0022-2836(73)90226-X
+   TEICHBER.VI, 1974, J MOL BIOL, V87, P357, DOI 10.1016/0022-2836(74)90155-7
+   VALLEE BL, 1970, PROTEINS, V5, P1
+   WARME PK, 1974, BIOCHEMISTRY-US, V13, P768, DOI 10.1021/bi00701a020
+   WILLIS J. B., 1963, METHODS BIOCHEM ANALYSIS, V11, P1
+NR 36
+TC 247
+Z9 249
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PY 1980
+VL 95
+IS 3
+BP 1098
+EP 1104
+DI 10.1016/0006-291X(80)91585-5
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA KD806
+UT WOS:A1980KD80600027
+ER
+
+PT J
+AU KUWAJIMA, K
+   NITTA, K
+   SUGAI, S
+AF KUWAJIMA, K
+   NITTA, K
+   SUGAI, S
+TI INTRAMOLECULAR PERTURBATION OF TRYPTOPHANS INDUCED BY THE PROTONATION OF
+   IONIZABLE GROUPS IN GOAT ALPHA-LACTALBUMIN
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+RP KUWAJIMA, K (reprint author), HOKKAIDO UNIV,FAC SCI,DEPT POLYMER SCI,KITA KU,SAPPORO,HOKKAIDO 060,JAPAN.
+CR ANDREWS LJ, 1972, BIOCHEMISTRY-US, V11, P1875, DOI 10.1021/bi00760a023
+   BLAKE CCF, 1967, P ROY SOC B-BIOL SCI, V167, P365, DOI 10.1098/rspb.1967.0034
+   BRANDTS JF, 1977, P NATL ACAD SCI USA, V74, P4178, DOI 10.1073/pnas.74.10.4178
+   BREW K, 1970, J BIOL CHEM, V245, P4570
+   BROWNE WJ, 1969, J MOL BIOL, V42, P65, DOI 10.1016/0022-2836(69)90487-2
+   DONOVAN JW, 1967, BIOCHEMISTRY-US, V6, P3918, DOI 10.1021/bi00864a038
+   DONOVAN JW, 1969, PHYSICAL PRINCIPLE A, P101
+   DONOVAN JW, 1961, J AM CHEM SOC, V83, P2686, DOI 10.1021/ja01473a022
+   HAGERMAN PJ, 1976, BIOCHEMISTRY-US, V15, P1462, DOI 10.1021/bi00652a017
+   Hill R. L., 1974, Lysozyme., P55
+   IMOTO T, 1975, J BIOL CHEM, V250, P8275
+   ITANI N, 1975, J BIOCHEM-TOKYO, V78, P705
+   KITA N, 1976, BIOCHIM BIOPHYS ACTA, V427, P350, DOI 10.1016/0005-2795(76)90310-X
+   KRONMAN MJ, 1972, BIOCHIM BIOPHYS ACTA, V285, P124, DOI 10.1016/0005-2795(72)90186-9
+   KRONMAN MJ, 1970, FINE STRUCTURE PROTE, P271
+   KRONMAN MJ, 1972, BIOCHIM BIOPHYS ACTA, V285, P145, DOI 10.1016/0005-2795(72)90187-0
+   KUWAJIMA K, 1979, BIOCHEMISTRY-US, V18, P878, DOI 10.1021/bi00572a022
+   KUWAJIMA K, 1976, J MOL BIOL, V106, P359, DOI 10.1016/0022-2836(76)90091-7
+   KUWAJIMA K, 1975, J BIOCHEM-TOKYO, V78, P205
+   KUWAJIMA K, 1980, P S DYNAMIC PROPERTI
+   NOZAKA M, 1978, BIOCHEMISTRY-US, V17, P3753, DOI 10.1021/bi00611a013
+   ROBBINS FM, 1970, BIOCHIM BIOPHYS ACTA, V221, P234, DOI 10.1016/0005-2795(70)90263-1
+   SOMMERS PB, 1973, THESIS STATE U NEW Y
+   WARME PK, 1974, BIOCHEMISTRY-US, V13, P768, DOI 10.1021/bi00701a020
+NR 24
+TC 25
+Z9 25
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1980
+VL 623
+IS 2
+BP 389
+EP 401
+DI 10.1016/0005-2795(80)90268-8
+PG 13
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA JZ857
+UT WOS:A1980JZ85700017
+ER
+
+EF

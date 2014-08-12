@@ -1,0 +1,1480 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Ishimura, D
+   Kakiuchi, Y
+AF Ishimura, Daisuke
+   Kakiuchi, Yuya
+TI Chronology and processes of fluvial terrace formation in northeastern
+   Kinki district, southwest Japan, based on cryptotephra analysis
+SO QUATERNARY INTERNATIONAL
+LA English
+DT Article
+ID LAKE BIWA; NEW-ZEALAND; NORTH-ISLAND; RECORD; UPLIFT; REGION; RIVER;
+   DEFORMATION; PENINSULA; MARGIN
+AB Kinki district is a tectonically active area in southwest Japan. This area is located far from active volcanoes, and eolian deposits covering fluvial terrace deposits are not as thick as those in Kanto district. Thus, terrace chronology and processes of terrace formation previously were poorly established in Kinki district. Cryptotephra analysis identified invisible tephra horizons in eolian deposits covering fluvial terrace deposits in Takashima, Sekigahara and Inabe regions, including the Kikai-Akahoya tephra (K-Ah: 7.3 ka), Aira-Tn tephra (AT: 26-29 ka) and Kikai-Tozurahara tephra (K-Tz: 95 ka) horizons. Taisanjino 1 terrace in Takashima and Md1 terrace in Inabe were formed during Marine Isotope Stage (MIS) 5e, and Nakano terrace in Takashima, L2 terrace in Sekigahara and L2 terrace in Inabe were formed during MIS 2, based on their ages and geomorphic features. Aggradational terraces formed during MIS 2 exhibit similar geomorphic features among the three regions, although these regions have different base-levels of erosion and active fault movements. This means that the terrace formation during MIS 2 was mainly affected by climate changes, not by base-level changes and active fault movements. The main factor of terrace formation during glacial periods was the decrease in precipitation and water discharge due to climate changes, because the study area was not affected by glacial and periglacial processes during MIS 2. This indicates that aggradational terraces formed during glacial periods not only in glacial and periglacial areas but also in non-glacial and non-periglacial areas. From processes of terrace formation during MIS 5e, the tectonic base-level descent was important for terrace formation during interglacial periods, because terraces were formed during MIS 5e by active fault movements in the Takashima region despite small lake-level changes. Uplift rates of the Kamidera and Kuwana faults were 1.08 mm/y and >0.5 mm/y, respectively, based on the height of terrace surfaces formed during MIS 5e. (C) 2011 Elsevier Ltd and INQUA. All rights reserved.
+C1 Kyoto Univ, Dept Geophys, Grad Sch Sci, Sakyo Ku, Kyoto 6068502, Japan.
+   Japan Management Assoc Res Inst Inc, Tokyo 1050011, Japan.
+RP Ishimura, D (reprint author), Kyoto Univ, Dept Geophys, Grad Sch Sci, Sakyo Ku, Kitashirakawa Oiwake Cho, Kyoto 6068502, Japan.
+EM ishimura@kugi.kyoto-u.ac.jp
+FU Japan Society for the Promotion of Science [20650155, 18300315]
+FX We are grateful to Hiroyuki Tsutsumi for his helpful advice and
+   encouragement during the course of this research. Comments by Keiji
+   Takemura and Noelynna T. Ramos improved an early version of the
+   manuscript. We thank Shigeru Sueoka, Jeffrey S. Perez, Taihei Nishikawa,
+   Kunihiko Kobata, Masaharu Takiguchi, and Shin Saito for their assistance
+   in drilling surveys. We also thank Atsumasa Okada for his advice and
+   support. The landowners of the drilling sites are also thanked for
+   allowing us to conduct our surveys on their properties. The two
+   anonymous reviewers provided constructive comments that greatly improved
+   the manuscript. This research was supported by Grant-in-Aid for
+   Scientific Research by Japan Society for the Promotion of Science to
+   Hiroyuki Tsutsumi (grant no. 20650155) and Atsumasa Okada (grant no.
+   18300315).
+CR Berryman K, 2000, NEW ZEAL J GEOL GEOP, V43, P229
+   BERRYMAN KR, 1993, TECTONICS, V12, P1365, DOI 10.1029/93TC01543
+   Burbank DW, 1996, NATURE, V379, P505, DOI 10.1038/379505a0
+   Chappell J., 1994, J GEOGR, V103, P828
+   CHAPPELL J, 1974, GEOL SOC AM BULL, V85, P553
+   Eden DN, 2001, GEOMORPHOLOGY, V38, P133, DOI 10.1016/S0169-555X(00)00077-5
+   HATANAKA K, 1985, J FACULTY LIT KITA B, V18, P29
+   Hayashi R, 2010, QUATERNARY RES, V74, P91, DOI 10.1016/j.yqres.2010.04.008
+   Heki K, 2001, GEOPHYS RES LETT, V28, P2313, DOI 10.1029/2000GL012537
+   HIRAKAWA K, 1974, GEOGR REV JPN, V47, P607
+   Huzita K, 1962, J GEOSCI-OSAKA CITY, V6, P103
+   IKEDA H, 1979, LAND LIFE SHIGA, P1
+   Ishimura Daisuke, 2010, Quaternary Research (Tokyo), V49, P255
+   Ishiyama T, 2004, J GEOPHYS RES-SOL EA, V109, DOI 10.1029/2003JB002547
+   Ishiyama T, 2007, J GEOPHYS RES-SOL EA, V112, DOI 10.1029/2006JB004377
+   ITO M, 1984, GEOGRAPHICAL REV J A, V57, P282
+   KAIZUKA SOHEI, 1962, QUATERNARY RES, V2, P159
+   KAIZUKA S, 1977, QUATERNARY RES, V8, P32, DOI 10.1016/0033-5894(77)90055-2
+   Kakiuchi Yuya, 2010, Quaternary Research (Tokyo), V49, P219, DOI 10.4116/jaqua.49.219
+   KATAOKA K, 1997, QUATERNARY RES, V36, P263
+   KAWABE T, 1989, EARTH SCI, V43, P402
+   KOMATSUBARA T, 2010, J GEOGR, V119, P683
+   KOMATSUBARA T, 1998, B GEOLOGICAL SURVEY, V49, P447
+   KOMATSUBARA T, 2006, EARTH MONTHLY EXTRA, V54, P165
+   Kuwae M, 2002, PALAEOGEOGR PALAEOCL, V183, P261, DOI 10.1016/S0031-0182(01)00490-4
+   Litchfield NJ, 2005, GEOMORPHOLOGY, V68, P291, DOI 10.1016/j.geomorph.2004.12.001
+   MACHIDA H, 1980, GEOGRAPHY JAPAN, P29
+   Machida H., 2003, ATLAS TEPHRA JAPAN
+   MAKINOUCHI T, 2001, J GEOL SOC JPN, V107, P283
+   Matsu'ura T, 2008, GEOMORPHOLOGY, V95, P384, DOI 10.1016/j.geomorph.2007.06.011
+   MEYERS PA, 1993, QUATERNARY RES, V39, P154, DOI 10.1006/qres.1993.1019
+   MIYAKE N, 2003, JAPANESE J PALYNOLOG, V49, P1
+   Miyake Nao, 2005, Quaternary Research (Tokyo), V44, P275
+   MIYATA Y, 1990, J GEOLOGICAL SOC JAP, V96, P839
+   Miyoshi N, 1999, REV PALAEOBOT PALYNO, V104, P267, DOI 10.1016/S0034-6667(98)00058-X
+   Miyoshi Takaynki, 2008, Quaternary Research (Tokyo), V47, P223
+   Nagahashi Yoshitaka, 2004, Quaternary Research (Tokyo), V43, P15
+   NAGAOKA S, 1986, Quaternary Research (Tokyo), V25, P139
+   Nakajima J, 2007, J GEOPHYS RES-SOL EA, V112, DOI 10.1029/2006JB004770
+   Nakamura Y, 2008, GEOMORPHOLOGY, V99, P59, DOI 10.1016/j.geomorph.2007.10.004
+   Nakata T., 2002, DIGITAL ACTIVE FAULT
+   Ogura H., 1992, Quaternary Research (Tokyo), V31, P179
+   OHASHI T, 1978, EARTH SCI ED, V31, P75
+   Ono Y, 1984, GEOGRAPHICAL REV J B, V57B, P87
+   OTA Y, 2004, GEOMORPHOLOGY KINKI, V6
+   OTA Y, 1991, QUATERNARY RES, V30, P175
+   Pazzaglia FJ, 2001, AM J SCI, V301, P385, DOI 10.2475/ajs.301.4-5.385
+   Research Group for Active Faults in Japan, 1991, ACT FAULTS JAP SHEET
+   Satoguchi Yasufumi, 2006, Quaternary Research (Tokyo), V45, P29
+   SUGAI T, 1993, GEOMORPHOLOGY, V6, P243, DOI 10.1016/0169-555X(93)90049-8
+   Tajikara M., 2005, QUATERNARY RES, V44, P229
+   TAKAHARA H, 1986, Japanese Journal of Ecology, V36, P105
+   TAKEMURA K, 1990, PALAEOGEOGR PALAEOCL, V78, P185, DOI 10.1016/0031-0182(90)90213-Q
+   TAKEMURA K, 1985, MEM FS KYOTO U GM, V51, P21
+   TOGO M, 1971, GEOGR REV JPN, V44, P194
+   Toyoda K, 2003, QUATERN INT, V105, P57, DOI 10.1016/S1040-6182(02)00151-9
+   TSUKAHARA H, 1991, J SEISMOL SOC JPN, V44, P221
+   TuZino T, 2010, J PALEOLIMNOL, V43, P273, DOI 10.1007/s10933-009-9331-x
+   Xiao JL, 1997, QUATERNARY RES, V48, P48, DOI 10.1006/qres.1997.1893
+   YOKOYAMA T, 1984, LAKE BIWA, P43
+   Yonekura N, 2001, INTRO JAPANESE GEOMO, V1
+   YOSHIDA F, 1991, ACTIVE FAULT RES, V9, P53
+   *NOB PLAIN QUAT RE, 1977, MEM GEOL SOC JAP, V14, P161
+NR 63
+TC 1
+Z9 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1040-6182
+J9 QUATERN INT
+JI Quat. Int.
+PD DEC 20
+PY 2011
+VL 246
+BP 190
+EP 202
+DI 10.1016/j.quaint.2011.08.039
+PG 13
+WC Geography, Physical; Geosciences, Multidisciplinary
+SC Physical Geography; Geology
+GA 864WG
+UT WOS:000298270600018
+ER
+
+PT J
+AU Jin, M
+   Fujiwara, E
+   Kakiuchi, Y
+   Okabe, M
+   Satouh, Y
+   Baba, SA
+   Chiba, K
+   Hirohashi, N
+AF Jin, Mayuko
+   Fujiwara, Eiji
+   Kakiuchi, Yasutaka
+   Okabe, Masaru
+   Satouh, Yuhkoh
+   Baba, Shoji A.
+   Chiba, Kazuyoshi
+   Hirohashi, Noritaka
+TI Most fertilizing mouse spermatozoa begin their acrosome reaction before
+   contact with the zona pellucida during in vitro fertilization
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE sperm-egg interaction; acrosomal exocytosis; real-time imaging; video
+   microscopy
+ID CUMULUS-OOPHORUS; HUMAN-SPERM; EXTRACELLULAR-MATRIX; STALLION
+   SPERMATOZOA; GAMETE INTERACTIONS; MACAQUE SPERM; PROGESTERONE;
+   EXOCYTOSIS; HAMSTER; INVITRO
+AB To fuse with oocytes, spermatozoa of eutherian mammals must pass through extracellular coats, the cumulus cell layer, and the zona pellucida (ZP). It is generally believed that the acrosome reaction (AR) of spermatozoa, essential for zona penetration and fusion with oocytes, is triggered by sperm contact with the zona pellucida. Therefore, in most previous studies of sperm-oocyte interactions in the mouse, the cumulus has been removed before insemination to facilitate the examination of sperm-zona interactions. We used transgenic mouse spermatozoa, which enabled us to detect the onset of the acrosome reaction using fluorescence microscopy. We found that the spermatozoa that began the acrosome reaction before reaching the zona were able to penetrate the zona and fused with the oocyte's plasma membrane. In fact, most fertilizing spermatozoa underwent the acrosome reaction before reaching the zona pellucida of cumulus-enclosed oocytes, at least under the experimental conditions we used. The incidence of in vitro fertilization of cumulus-free oocytes was increased by coincubating oocytes with cumulus cells, suggesting an important role for cumulus cells and their matrix in natural fertilization.
+C1 Ochanomizu Univ, Dept Biol Sci, Tokyo 1128610, Japan.
+   Ochanomizu Univ, Dept Genet Counseling, Tokyo 1128610, Japan.
+   Ochanomizu Univ, Glycosci Inst, Tokyo 1128610, Japan.
+   Documentary Channel Co, Kawaguchi, Saitama 3330844, Japan.
+   Osaka Univ, Res Inst Microbial Dis, Suita, Osaka 5650871, Japan.
+   Osaka Univ, Frontier Res Ctr, World Premier Int Res Ctr WPI, Suita, Osaka 5650871, Japan.
+RP Hirohashi, N (reprint author), Ochanomizu Univ, Dept Biol Sci, Tokyo 1128610, Japan.
+EM hirohashi.noritaka@ocha.ac.jp
+RI Satouh, Yuhkoh/A-9917-2009; Okabe, Masaru/B-8686-2008
+OI Okabe, Masaru/0000-0002-0803-9044
+FU Japan Society for the Promotion of Science
+FX We are grateful to Professor R. Yanagimachi for his invaluable advice
+   during the preparation of the manuscript. We thank Drs. V. D. Vacquier
+   and G. L. Gerton for critically reading the original manuscript. Thanks
+   are due to Drs. T. Sato, T. Kojima, K. Ishii, T. Ebisawa, J. Otsuki, N.
+   Kawano, F. Nakaya, and T. Nishiyama for their technical support. We are
+   indebted to Drs. T. Baba, M. Yamashita, and M. G. Buffone for providing
+   us with antibodies. A long-term free loan of a supersensitive 3EM-CCD
+   camera (NC-R550b) was granted by NEC and the cell culture system for
+   microscopy was a gift from Taiei Electric. This study was supported by
+   the Japan Society for the Promotion of Science (N.H.).
+CR AUSTIN CR, 1958, P ROY SOC B-BIOL SCI, V149, P234, DOI 10.1098/rspb.1958.0065
+   AUSTIN CR, 1959, NATURE, V183, P908, DOI 10.1038/183908a0
+   Baibakov B, 2007, DEVELOPMENT, V134, P933, DOI 10.1242/dev.02752
+   Baltes P, 1998, ANDROLOGIA, V30, P249
+   BARROS C, 1967, J CELL BIOL, V34, pC1, DOI 10.1083/jcb.34.3.C1
+   Bedford JM, 1997, J REPROD FERTIL, V110, P127
+   BLEIL JD, 1983, DEV BIOL, V95, P317, DOI 10.1016/0012-1606(83)90032-5
+   Buffone MG, 2009, J CELL PHYSIOL, V220, P611, DOI 10.1002/jcp.21781
+   Buffone MG, 2008, INT J DEV BIOL, V52, P511, DOI 10.1387/ijdb.072532mb
+   Cheng FP, 1996, J ANDROL, V17, P674
+   CHERR GN, 1986, DEV BIOL, V114, P119, DOI 10.1016/0012-1606(86)90388-X
+   CUMMINS JM, 1982, GAMETE RES, V5, P239, DOI 10.1002/mrd.1120050304
+   FLORMAN HM, 1982, DEV BIOL, V91, P121, DOI 10.1016/0012-1606(82)90015-X
+   Gahlay G, 2010, SCIENCE, V329, P216, DOI 10.1126/science.1188178
+   Hasuwa H, 2010, EXP ANIM TOKYO, V59, P105
+   Hong SJ, 2009, FERTIL STERIL, V92, P971, DOI 10.1016/j.fertnstert.2008.07.1760
+   Hoodbhoy T, 2004, REPRODUCTION, V127, P417, DOI 10.1530/rep.1.00181
+   Hunter RHF, 1996, MOL REPROD DEV, V44, P417, DOI 10.1002/(SICI)1098-2795(199607)44:3<417::AID-MRD15>3.0.CO;2-X
+   KALLAJOKI M, 1986, INT J ANDROL, V9, P181, DOI 10.1111/j.1365-2605.1986.tb00881.x
+   Kopf GS, 1991, ELEMENTS MAMMALIAN F, P153
+   KUZAN FB, 1984, FERTIL STERIL, V41, P766
+   Litscher ES, 2009, MOL REPROD DEV, V76, P933, DOI 10.1002/mrd.21046
+   Liu CY, 1996, P NATL ACAD SCI USA, V93, P5431, DOI 10.1073/pnas.93.11.5431
+   Meizel S, 1997, DEV BIOL, V182, P67, DOI 10.1006/dbio.1997.8477
+   MELENDREZ CS, 1994, MOL REPROD DEV, V39, P433
+   MEYERS SA, 1995, J ANDROL, V16, P47
+   Nakanishi T, 1999, FEBS LETT, V449, P277, DOI 10.1016/S0014-5793(99)00433-0
+   OSMAN RA, 1989, BIOCHEM BIOPH RES CO, V160, P828, DOI 10.1016/0006-291X(89)92508-4
+   Rankin T, 1996, DEVELOPMENT, V122, P2903
+   ROLDAN ERS, 1994, SCIENCE, V266, P1578, DOI 10.1126/science.7985030
+   Sabeur K, 1998, ZYGOTE, V6, P103, DOI 10.1017/S0967199498000021
+   SALING PM, 1979, J CELL BIOL, V83, P544, DOI 10.1083/jcb.83.3.544
+   Salustri A, 2004, DEVELOPMENT, V131, P1577, DOI 10.1242/dev.01056
+   Schroer SC, 2000, ZYGOTE, V8, P107, DOI 10.1017/S0967199400000885
+   Shimada M, 2008, DEVELOPMENT, V135, P2001, DOI 10.1242/dev.020461
+   STOREY BT, 1984, BIOL REPROD, V31, P1119, DOI 10.1095/biolreprod31.5.1119
+   Tanii I, 2011, REPRODUCTION, V141, P163, DOI 10.1530/REP-10-0201
+   TESARIK J, 1988, HUM REPROD, V3, P129
+   Therien I, 2003, BIOL REPROD, V69, P1408, DOI 10.1095/biolreprod.103.017855
+   Tollner TL, 2003, BIOL REPROD, V68, P664, DOI 10.1095/biolreprod.102.009175
+   Toyoda Yutaka, 1993, P111
+   VandeVoort CA, 1997, BIOL REPROD, V56, P1307, DOI 10.1095/biolreprod56.5.1307
+   YANAGIMACHI R, 1984, GAMETE RES, V9, P1, DOI 10.1002/mrd.1120090102
+   YANAGIMA.R, 1966, J REPROD FERTIL, V11, P359
+   Yanagimachi R., 1994, P189
+   Yin L, 2009, CELL MOL LIFE SCI, V66, P900, DOI 10.1007/s00018-009-8482-2
+NR 46
+TC 56
+Z9 57
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 22
+PY 2011
+VL 108
+IS 12
+BP 4892
+EP 4896
+DI 10.1073/pnas.1018202108
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 739JC
+UT WOS:000288712200041
+ER
+
+PT J
+AU Saito, W
+   Kakiuchi, Y
+   Nitta, T
+   Saito, Y
+   Noda, T
+   Fujimoto, H
+   Yoshioka, A
+   Ohno, T
+   Yamaguchi, M
+AF Saito, Wataru
+   Kakiuchi, Yorito
+   Nitta, Tomohiro
+   Saito, Yasunobu
+   Noda, Takao
+   Fujimoto, Hidetoshi
+   Yoshioka, Akira
+   Ohno, Tetsuya
+   Yamaguchi, Masakazu
+TI Field-Plate Structure Dependence of Current Collapse Phenomena in
+   High-Voltage GaN-HEMTs
+SO IEEE ELECTRON DEVICE LETTERS
+LA English
+DT Article
+DE GaN; HEMT; high voltage; power semiconductor device
+ID ALGAN/GAN HFETS; OPERATION; GATE
+AB Four types of the field-plate ( FP) structure were fabricated to discuss the relation between the current collapse phenomena and the electric-field peak in high-voltage GaN-HEMTs. The ON-resistance increase caused by current collapse phenomena is dramatically reduced by the single-gate-FP and dual-FP structures compared with the source-FP structure, because the gate-edge electric field was reduced by the gate-FP electrode. The dual-FP structure was slightly more effective to suppress the collapse phenomena than the single-gate-FP structure, because the two-step FP structure relaxes the electric-field concentration at the FP edge. These results show that the gate-edge peak strongly affects the ON-resistance modulation. Although the FP edge peak also causes the collapse phenomena, its influence is weak.
+C1 Toshiba Co Ltd, Semiconductor Co, Kawasaki, Kanagawa 2128583, Japan.
+RP Saito, W (reprint author), Toshiba Co Ltd, Semiconductor Co, Kawasaki, Kanagawa 2128583, Japan.
+EM wataru3.saito@toshiba.co.jp; yorito.kakiuchi@toshiba.co.jp;
+   tomohiro.nitta@toshiba.co.jp; yasunobu.saito@toshiba.co.jp;
+   takao.noda@toshiba.co.jp; hidetosi.fujimoto@toshiba.co.jp;
+   akira2.yoshioka@toshiba.co.jp; tetsuya.ohno@toshiba.co.jp;
+   masakazu.yamaguchi@toshiba.co.jp
+CR FEILER W, 1992, IEEE T ELECTRON DEV, V39, P1514, DOI 10.1109/16.137334
+   Ikeda N, 2009, PROC INT SYMP POWER, P251, DOI 10.1109/ISPSD.2009.5158049
+   Kaneko N, 2009, PROC INT SYMP POWER, P25, DOI 10.1109/ISPSD.2009.5157992
+   Karmalkar S, 2001, SOLID STATE ELECTRON, V45, P1645, DOI 10.1016/S0038-1101(01)00158-7
+   Mishra UK, 2002, P IEEE, V90, P1022, DOI 10.1109/JPROC.2002.1021567
+   MOK PKT, 1994, IEEE T ELECTRON DEV, V41, P246, DOI 10.1109/16.277371
+   Saito W, 2007, IEEE T ELECTRON DEV, V54, P1825, DOI 10.1109/TED.2007.901150
+   Saito W, 2007, INT EL DEVICES MEET, P869, DOI 10.1109/IEDM.2007.4419087
+   Selvaraj SL, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2730751
+   Tipirneni N, 2007, IEEE ELECTR DEVICE L, V28, P784, DOI 10.1109/LED.2007.903910
+   Zhang N.-Q., 2001, IEDM, P589
+   [Anonymous], 2002, ISE TCAD MAN 11
+NR 12
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0741-3106
+J9 IEEE ELECTR DEVICE L
+JI IEEE Electron Device Lett.
+PD JUL
+PY 2010
+VL 31
+IS 7
+BP 659
+EP 661
+DI 10.1109/LED.2010.2048741
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 650EX
+UT WOS:000281833100009
+ER
+
+PT J
+AU Nakano, M
+   Kakiuchi, Y
+   Shimada, Y
+   Ohyama, M
+   Ogiwara, Y
+   Sasaki-Higashiyama, N
+   Yano, N
+   Ikeda, F
+   Yamada, E
+   Iwamatsu, A
+   Kobayashi, K
+   Nishiyama, K
+   Ichikawa, S
+   Kaji, K
+   Ide, T
+   Murofushi, H
+   Murakami-Murofushi, K
+AF Nakano, Mariko
+   Kakiuchi, Yasutaka
+   Shimada, Yukiko
+   Ohyama, Mika
+   Ogiwara, Yasuko
+   Sasaki-Higashiyama, Narie
+   Yano, Naoko
+   Ikeda, Fumi
+   Yamada, Ei
+   Iwamatsu, Akihiro
+   Kobayashi, Kazuo
+   Nishiyama, Kiyoto
+   Ichikawa, Sohsuke
+   Kaji, Kazuhiko
+   Ide, Toshinori
+   Murofushi, Hiromu
+   Murakami-Murofushi, Kimiko
+TI MOV10 as a novel telomerase-associated protein
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE MOV10; Telomerase; Telomere DNA; Cancer; Germ cell
+ID CATALYTIC SUBUNIT; HTERT; DNA; IDENTIFICATION; KINASE; CELLS; BINDS; HTR
+AB A novel telomerase-associated protein was isolated from porcine testis. The 115-kDa protein, purified with telomerase activity, was molecular cloned using human cDNA library, and identified as MOV10. The expression levels of both MOV10 mRNA and MOV10 protein in cancer cells were 2-3 times higher than that of the normal cells, and MOV10 mRNA was highly expressed in human testis and ovary. The anti-MOV10 antibody precipitated the telomerase activity from cancer cell extracts, and inhibited the telomerase activity in vitro. Sf9-expressed MOV10 protein bound to G-rich strand of both single-and double-stranded telomere-sequenced DNA, but not to single C-rich strand. ChIP assay showed the binding of MOV10 to telomere region in vivo. These data suggest that MOV10 is involved in the progression of telomerase-catalyzing reaction via the interaction of telomerase protein and telomere DNA. (C) 2009 Elsevier Inc. All rights reserved.
+C1 Ochanomizu Univ, Fac Sci, Dept Biol, Bunkyo Ku, Tokyo 1128610, Japan.
+   AnGes MG Inc, Tokyo 1080014, Japan.
+   Prot Res Network Inc, Yokohama, Kanagawa 2360004, Japan.
+   Kirin Brewery Co Ltd, Prod Dev Sect, Gunma 3700013, Japan.
+   Kikuchi Res Ctr, Chemosero Therapeut Res Inst, Kumamoto 8691298, Japan.
+   Univ Shizuoka, Shizuoka 4228526, Japan.
+   Hiroshima Univ, Grad Sch Biomed Sci, Dept Med Sci, Hiroshima 7398511, Japan.
+   Yamaguchi Univ, Grad Sch Med, Dept Appl Mol Biosci, Yamaguchi 7538511, Japan.
+RP Kakiuchi, Y (reprint author), Ochanomizu Univ, Fac Sci, Dept Biol, Bunkyo Ku, 2-1-1 Otsuka, Tokyo 1128610, Japan.
+EM kakiuchi.yasutaka@ocha.ac.jp
+CR Banik SSR, 2004, J BIOL CHEM, V279, P51745, DOI 10.1074/jbc.M408131200
+   Boule JB, 2005, NATURE, V438, P57, DOI 10.1038/nature04091
+   BRYAN TM, 1995, EMBO J, V14, P4240
+   Cairney CJ, 2008, BIOCHIMIE, V90, P13, DOI 10.1016/j.biochi.2007.07.025
+   Chai WH, 2002, J BIOL CHEM, V277, P47242, DOI 10.1074/jbc.M208542200
+   GREIDER CW, 1985, CELL, V43, P405, DOI 10.1016/0092-8674(85)90170-9
+   Haendeler J, 2003, FEBS LETT, V536, P180, DOI 10.1016/S0014-5793(03)00058-9
+   Harrington L, 1997, SCIENCE, V275, P973, DOI 10.1126/science.275.5302.973
+   Haussecker D, 2008, NAT STRUCT MOL BIOL, V15, P714, DOI 10.1038/nsmb.1440
+   Hickson ID, 2003, NAT REV CANCER, V3, P169, DOI 10.1038/nrc1012
+   Holt SE, 1999, GENE DEV, V13, P817, DOI 10.1101/gad.13.7.817
+   Kharbanda S, 2000, CURR BIOL, V10, P568, DOI 10.1016/S0960-9822(00)00483-8
+   Khurts S, 2004, J BIOL CHEM, V279, P51508, DOI 10.1074/jbc.M407643200
+   KIM NW, 1994, SCIENCE, V266, P2011, DOI 10.1126/science.7605428
+   Lange T, 1994, P NATL ACAD SCI USA, V91, P2882
+   Lee GE, 2004, J BIOL CHEM, V279, P34750, DOI 10.1074/jbc.M401843200
+   Meister G, 2005, CURR BIOL, V15, P2149, DOI 10.1016/j.cub.2005.10.048
+   MORIN GB, 1989, CELL, V59, P521, DOI 10.1016/0092-8674(89)90035-4
+   OPRESKO P, 2005, J BIOL CHEM, V37, P32069
+   Opresko PL, 2003, CARCINOGENESIS, V24, P791, DOI 10.1093/carcin/bgg034
+   Pleschke JM, 2000, J BIOL CHEM, V275, P40974, DOI 10.1074/jbc.M006520200
+   Seimiya H, 2000, EMBO J, V19, P2652, DOI 10.1093/emboj/19.11.2652
+   SHULZ VP, 1994, CELL, V76, P145
+   SKARMA HW, 1995, P NATL ACAD SCI USA, V92, P12343
+   Smogorzewska A, 2004, ANNU REV BIOCHEM, V73, P177, DOI 10.1146/annurev.biochem.73.071403.160049
+NR 25
+TC 4
+Z9 4
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD OCT 16
+PY 2009
+VL 388
+IS 2
+BP 328
+EP 332
+DI 10.1016/j.bbrc.2009.08.002
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 555SI
+UT WOS:000274534300028
+ER
+
+PT J
+AU Saito, W
+   Nitta, T
+   Kakiuchi, Y
+   Saito, Y
+   Tsuda, K
+   Omura, I
+   Yamaguchi, M
+AF Saito, Wataru
+   Nitta, Tomohiro
+   Kakiuchi, Yorito
+   Saito, Yasunobu
+   Tsuda, Kunio
+   Omura, Ichiro
+   Yamaguchi, Masakazu
+TI A 120-W boost converter operation using a high-voltage GaN-HEMT
+SO IEEE ELECTRON DEVICE LETTERS
+LA English
+DT Article
+DE GaN; HEMT; high voltage; power semiconductor device
+AB A boost converter with a 940-V/4.4 A GaN-HEMT as the main switching device was demonstrated to show the possibility of using high-voltage GaN-HEMTs in power electronic applications. The demonstrated circuit achieved an output power of 122 W and a power efficiency of 94.2% under a drain peak voltage as high as 350 V and a switching frequency of 1 MHz. The dual field-plate structure realized high-voltage switching operation with high power efficiency as dynamic on-resistance was suppressed by an increase of the current collapse phenomena.
+C1 Semicond Co, Toshiba Corp, Kawasaki, Kanagawa 2128583, Japan.
+   Toshiba Res & Dev Ctr, Kawasaki, Kanagawa 2128583, Japan.
+RP Saito, W (reprint author), Semicond Co, Toshiba Corp, Kawasaki, Kanagawa 2128583, Japan.
+EM wataru3.saito@toshiba.co.jp
+CR Boutros KS, 2006, INT SYM POW SEMICOND, P321
+   Hikita M, 2005, IEEE T ELECTRON DEV, V52, P1963, DOI 10.1109/TED.2005.854265
+   Iwakami S, 2004, JPN J APPL PHYS 2, V43, pL831, DOI 10.1143/JJAP.43.L831
+   Mishra UK, 2002, P IEEE, V90, P1022, DOI 10.1109/JPROC.2002.1021567
+   Pytel SG, 2004, IEEE POWER ELECTRON, P579
+   Saito W, 2007, IEEE T ELECTRON DEV, V54, P1825, DOI 10.1109/TED.2007.901150
+   SAITO W, 2006, P CS IC S, P253
+   Saito W, 2003, IEEE T ELECTRON DEV, V50, P2528, DOI 10.1109/TED.2003.819248
+   Shimin G., 2000, ELECTRON LETT, V36, P2043
+   TSUKUDA M, 2005, P INT POW EL C IPEC, P1184
+   Yoshida S, 2003, SOLID STATE ELECTRON, V47, P589, DOI 10.1016/S0038-1101(02)00419-7
+   Zhang N.-Q., 2001, IEDM, P589
+NR 12
+TC 37
+Z9 38
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0741-3106
+J9 IEEE ELECTR DEVICE L
+JI IEEE Electron Device Lett.
+PD JAN
+PY 2008
+VL 29
+IS 1
+BP 8
+EP 10
+DI 10.1109/LED.2007.910796
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 247RT
+UT WOS:000252098100002
+ER
+
+PT J
+AU Saito, W
+   Nitta, T
+   Kakiuchi, Y
+   Saito, Y
+   Tsuda, K
+   Omura, I
+   Yamaguchi, M
+AF Saito, Wataru
+   Nitta, Tomohiro
+   Kakiuchi, Yorito
+   Saito, Yasunobu
+   Tsuda, Kunio
+   Omura, Ichiro
+   Yamaguchi, Masakazu
+TI On-resistance modulation of high voltage GaNHEMT on sapphire substrate
+   under high applied voltage
+SO IEEE ELECTRON DEVICE LETTERS
+LA English
+DT Article
+DE Gallium nitride (GaN); high-electron mobility transistor (HEMT); high
+   voltage; power semiconductor device
+ID OPERATION; DEVICE
+AB The 620-V/1.4-A GaN high-electron mobility transistors on sapphire substrate were fabricated and the ON-resistance modulations caused by current collapse phenomena were measured under high applied voltage. Since the fabricated devices had insulating substrates, no field-plate (FP) effect was expected and the ON-resistance increases of these devices were larger than those on an n-SiC substrate even with the same source-FP structure. The dual-FP structure, which was a combination of gate FP and source FP, was effective in suppressing the ON-resistance increase due to minimization of the gate-edge electric field concentration. The ON-resistance after the applied voltage of 250 V decreased by twice that at low drain voltage by the dual-FP structure.
+C1 Toshiba Co Ltd, Kawasaki, Kanagawa 2128583, Japan.
+   Toshiba Res & Dev Ctr, Kawasaki, Kanagawa 2128583, Japan.
+RP Saito, W (reprint author), Toshiba Co Ltd, Kawasaki, Kanagawa 2128583, Japan.
+EM wataru3.saito@toshiba.co.jp
+CR Ando Y, 2003, IEEE ELECTR DEVICE L, V24, P289, DOI 10.1109/LED.2003.812532
+   Ando Y, 2005, INT EL DEVICES MEET, P585
+   Hikita M, 2005, IEEE T ELECTRON DEV, V52, P1963, DOI 10.1109/TED.2005.854265
+   Iwakami S, 2004, JPN J APPL PHYS 2, V43, pL831, DOI 10.1143/JJAP.43.L831
+   Mishra UK, 2002, P IEEE, V90, P1022, DOI 10.1109/JPROC.2002.1021567
+   Nomura T, 2006, INT SYM POW SEMICOND, P313
+   Pytel SG, 2004, IEEE POWER ELECTRON, P579
+   Saito W, 2005, IEEE T ELECTRON DEV, V52, P106, DOI 10.1109/TED.2004.841338
+   Saito W, 2005, INT EL DEVICES MEET, P597
+   Saito W, 2004, SOLID STATE ELECTRON, V48, P1555, DOI 10.1016/j.sse.2003.10.003
+   Zhang N.-Q., 2001, IEDM, P589
+NR 11
+TC 14
+Z9 14
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0741-3106
+J9 IEEE ELECTR DEVICE L
+JI IEEE Electron Device Lett.
+PD AUG
+PY 2007
+VL 28
+IS 8
+BP 676
+EP 678
+DI 10.1109/LED.2007.901665
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 194AD
+UT WOS:000248315400003
+ER
+
+PT J
+AU Saito, W
+   Kakiuchi, Y
+   Saito, Y
+   Tsuda, K
+   Omura, I
+   Yamaguchi, M
+AF Saito, Wataru
+   Kakiuchi, Yorito
+   Saito, Yasunobu
+   Tsuda, Kunio
+   Omura, Ichiro
+   Yamaguchi, Masakazu
+TI Suppression of dynamic on-resistance increase and gate charge
+   measurements in high-voltage GaN-HEMTs with optimized field-plate
+   structure
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+DE GaN; high voltage; high-electron mobility transistor (HEMT); power
+   semiconductor device
+ID ALGAN/GAN; SUBSTRATE; OPERATION; DEVICE
+AB The dynamic on-resistance increase associated with the current collapse phenomena in high-voltage GaN highelectron-mobility transistors (HEMTs) has been suppressed by employing an optimized field-plate (FP) structure. The fabricated GaN-HEMTs of 600 V/4.7 A and 940 V/4.4 A for powerelectronics applications employ a dual-FP structure consisting of a short-gate FP underneath a long-source FP. The measured onresistance shows minimal increase during high-voltage switching due to increased electric-field uniformity between the gate and drain as a result of using the dual FP. The gate-drain charge Q(gd) for the fabricated devices has also been measured to provide a basis for discussion of the ability of high-speed switching operation. Although Q(gd/A) (A: active device area) was almost the same as that of the conventional Si-power MOSFETs, R(ON)A was dramatically reduced to about a seventh of the reported 600-V Si-MOSFET value. Therefore, R(ON)Q(gd) for 600-V device was reduced to 0.32 Omega nC, which was approximately a sixth of that for the Si-power MOSFETs. The high-voltage GaN-HEMTs have significant advantages over silicon-power MOSFETs in terms of both the reduced on-resistance and the high-speed switching capability.
+C1 Toshiba Co Ltd, Semicond Co, Discrete Semicond Dev Dept, Kawasaki, Kanagawa 2128583, Japan.
+   Toshiba Res & Dev Ctr, Kawasaki, Kanagawa 2128583, Japan.
+RP Saito, W (reprint author), Toshiba Co Ltd, Semicond Co, Discrete Semicond Dev Dept, Kawasaki, Kanagawa 2128583, Japan.
+EM wataru3.saito@toshiba.co.jp
+CR Ando Y, 2005, INT EL DEVICES MEET, P585
+   BALIGA BJ, POWER SEMICONDUCTOR
+   DORA Y, 2005, P TECH DIG DRC, P191
+   Hikita M, 2005, IEEE T ELECTRON DEV, V52, P1963, DOI 10.1109/TED.2005.854265
+   Hueting R. J. E., 2002, P ISPSD, P177
+   Iwakami S, 2004, JPN J APPL PHYS 2, V43, pL831, DOI 10.1143/JJAP.43.L831
+   Karmalkar S, 2001, SOLID STATE ELECTRON, V45, P1645, DOI 10.1016/S0038-1101(01)00158-7
+   Kobayashi T., 2001, Proceedings of the 13th International Symposium on Power  Semiconductor Devices & ICs. IPSD '01 (IEEE Cat. No.01CH37216), DOI 10.1109/ISPSD.2001.934646
+   Mishra UK, 2002, P IEEE, V90, P1022, DOI 10.1109/JPROC.2002.1021567
+   Nomura T, 2006, INT SYM POW SEMICOND, P313
+   Saito W, 2005, IEEE T ELECTRON DEV, V52, P106, DOI 10.1109/TED.2004.841338
+   Saito W, 2005, INT EL DEVICES MEET, P597
+   Saito W, 2006, INT SYM POW SEMICOND, P293
+   Saito W, 2004, SOLID STATE ELECTRON, V48, P1555, DOI 10.1016/j.sse.2003.10.003
+   Sodhi R., 1999, P 11 INT S POW SEM D, P241
+   Xing HL, 2004, IEEE ELECTR DEVICE L, V25, P161, DOI 10.1109/LED.2004.824845
+   Zhang N.-Q., 2001, IEDM, P589
+   *ISE INT SYST ENG, 2002, ISE TCAD MAN
+NR 18
+TC 32
+Z9 35
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PD AUG
+PY 2007
+VL 54
+IS 8
+BP 1825
+EP 1830
+DI 10.1109/TED.2007.901150
+PG 6
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 195CR
+UT WOS:000248390600003
+ER
+
+PT J
+AU Kakiuchi, Y
+   Kitajima, A
+   Hamaguchi, K
+   Kashiwabara, T
+AF Kakiuchi, Yosuke
+   Kitajima, Akira
+   Hamaguchi, Kiyoharu
+   Kashiwabara, Toshinobu
+TI A monitor generation method for formal monitor-based verification
+   considering input constraints
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN PART III-FUNDAMENTAL ELECTRONIC
+   SCIENCE
+LA English
+DT Article
+DE formal verification; monitor-based verification; AMBA; monitor circuit
+   generation
+AB Various kinds of methods have been proposed for hardware module interface verification. We Focus on monitor-based formal verification. In our approach, to verify interface specifications more comprehensively, we describe specifications of a module interface in a specification language based on regular expressions, and then behavioral models are constructed. Next, a monitor circuit is generated. This method prevents monitor circuits from involving errors because of automated monitor generation. Usually, input constraints must also be given for a design, when each module is verified one by one, because undesirable input patterns may be provided. Instead of giving input constraints, we propose a method of monitor generation including input constraints. Input constraints are extracted from specification of interfaces. Therefore, verification of individual modules becomes less difficult. We show an experimental result on formal verification of circuits compliant to the AMBA AHB bus protocol. (c) 2007 Wiley Periodicals, Inc.
+C1 Osaka Univ, Grad Sch Informat Sci & Technol, Toyonaka, Osaka 5608531, Japan.
+   Osaka Electrocommun Univ, Fac Informat Sci & Technol, Neyagawa, Osaka 5728530, Japan.
+RP Kakiuchi, Y (reprint author), Osaka Univ, Grad Sch Informat Sci & Technol, Toyonaka, Osaka 5608531, Japan.
+CR Ara K., 2003, Proceedings Design, Automation and Test in Europe Conference and  Exhibition
+   KAKIUCHI Y, 2004, WORKSH SYNTH SYST IN, P282
+   LIN HM, 2004, P AS S PAC DES AUT C, P328
+   Roychoudhury A., 2003, Proceedings Design, Automation and Test in Europe Conference and  Exhibition
+   SHIMIZU K, 2000, P 3 INT C FORM METH, P335
+   [Anonymous], 1999, AMBA SPEC REV 2 0
+   *HIT LTD, 2002, COMP WRAPP LANG SPEC
+NR 7
+TC 0
+Z9 0
+PU SCRIPTA TECHNICA-JOHN WILEY & SONS
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158 USA
+SN 1042-0967
+J9 ELECTRON COMM JPN 3
+JI Electron. Commun. Jpn. Pt. III-Fundam. Electron. Sci.
+PY 2007
+VL 90
+IS 12
+BP 19
+EP 26
+DI 10.1002/ecjc.20360
+PG 8
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 186BQ
+UT WOS:000247754500003
+ER
+
+PT J
+AU Kakiuchi, Y
+   Sasaki, N
+   Satoh-Masuoka, M
+   Murofushi, H
+   Murakami-Murofushi, K
+AF Kakiuchi, Y
+   Sasaki, N
+   Satoh-Masuoka, M
+   Murofushi, H
+   Murakami-Murofushi, K
+TI A novel pyrazolone,
+   4,4-dichloro-1-(2,4-dichlorophenyl)-3-methyl-5-pyrazolone, as a potent
+   catalytic inhibitor of human telomerase
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE telomere; telomerase inhibitor; anticancer drug; pyrazolone; TRAP assay
+ID HUMAN CANCER-CELLS; HUMAN TUMOR-CELLS; G-QUADRUPLEX; IN-VITRO; ASSAY;
+   VIVO; IDENTIFICATION; DERIVATIVES; SENESCENCE; ACTIVATION
+AB A new derivative of 1-phenyl-3-methyl-5-pyrazol one, 4,4-dichloro-1-(2,4-dichlorophenyl)-3-methyl-5-pyrazolone, named TELIN. was chemically synthesized and identified as a potent inhibitor of human telomerase in the cell-free telomeric repeat amplification protocol. TELIN inhibited telomerase activity at submicromolar level with IC50 of similar to0.3 muM. Kinetic studies revealed that TELIN does not bind to DNA but to telomerase protein, and the mode of inhibition by this substance was competitive-noncompetitive mixed-type with respect to the TS primer, whereas it was uncompetitive or noncompetitive-uncompetitive mixed-type with respect to the three deoxyribonucleosides. These results demonstrate that TELIN is a specific potent catalytic blocker of telomerase, and is considered to be a valuable substance for medical treatment of cancer and related diseases. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Ochanomizu Univ, Fac Sci, Dept Biol, Bunkyo Ku, Tokyo 1128610, Japan.
+   Sosei Co Ltd, Chiyoda Ku, Tokyo 1020082, Japan.
+   Yamaguchi Univ, Fac Sci, Dept Phys Biol & Informat, Yamaguchi 7538511, Japan.
+RP Murakami-Murofushi, K (reprint author), Ochanomizu Univ, Fac Sci, Dept Biol, Bunkyo Ku, 2-1-1 Otsuka, Tokyo 1128610, Japan.
+EM murofush@cc.ocha.ac.jp
+CR Al-Haiza Mohamed Ali, 2001, Acta Pharmaceutica (Zagreb), V51, P251
+   Argyle DJ, 2003, VET PATHOL, V40, P1, DOI 10.1354/vp.40-1-1
+   Bodnar AG, 1998, SCIENCE, V279, P349, DOI 10.1126/science.279.5349.349
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1006/abio.1976.9999
+   Cairns D, 2002, BIOORGAN MED CHEM, V10, P803, DOI 10.1016/S0968-0896(01)00337-6
+   Caprio V, 2000, BIOORG MED CHEM LETT, V10, P2063, DOI 10.1016/S0960-894X(00)00378-4
+   Chandrasekharan NV, 2002, P NATL ACAD SCI USA, V99, P13926, DOI 10.1073/pnas.16248699
+   CHENG Y, 1973, BIOCHEM PHARMACOL, V22, P2099
+   DIXON M, 1953, BIOCHEM J, V55, P170
+   Duan WH, 2001, MOL CANCER THER, V1, P103
+   Giridharan P, 2002, BRIT J CANCER, V87, P98, DOI 10.1038/sj.bjc.6600422
+   Gowan SM, 2001, MOL PHARMACOL, V60, P981
+   Gowan SM, 2002, MOL PHARMACOL, V61, P1154, DOI 10.1124/mol.61.5.1154
+   GREIDER CW, 1989, NATURE, V337, P331, DOI 10.1038/337331a0
+   Harrington L, 2003, CANCER LETT, V194, P139, DOI 10.1016/S0304-3835(02)00701-2
+   Himly M, 2003, J ALLERGY CLIN IMMUN, V111, P882, DOI 10.1067/mai.2003.163
+   Hiyama E, 2003, CANCER LETT, V194, P221, DOI 10.1016/S0304-3835(02)00709-7
+   Izbicka E, 1999, CANCER RES, V59, P639
+   Kang K, 2000, EXP MOL MED, V32, P146
+   Kern JT, 2002, BIOCHEMISTRY-US, V41, P11379, DOI 10.1021/bi0263107
+   Kim JH, 2003, MOL PHARMACOL, V63, P1117, DOI 10.1124/mol.63.5.1117
+   Kim JH, 2003, BIOCHEM J, V373, P523, DOI 10.1042/BJ20030363
+   Kim MY, 2002, J AM CHEM SOC, V124, P2098, DOI 10.1021/ja017308q
+   KIM NW, 1994, SCIENCE, V266, P2011, DOI 10.1126/science.7605428
+   Levy M., 2000, THORAX, V55, P72
+   Li AY, 2002, CHEM BIOL, V9, P1017, DOI 10.1016/S1074-5521(02)00223-5
+   Lu Q, 2002, BIOORG MED CHEM LETT, V12, P1375, DOI 10.1016/S0960-894X(02)00158-0
+   Masutomi K, 2003, CANCER LETT, V194, P163, DOI 10.1016/S0304-3835(02)00703-6
+   Mergny JL, 2001, P NATL ACAD SCI USA, V98, P3062, DOI 10.1073/pnas.051620698
+   MORIN GB, 1989, CELL, V59, P521, DOI 10.1016/0092-8674(89)90035-4
+   Naasani I, 1999, CANCER RES, V59, P4004
+   Naasani I, 2003, CANCER RES, V63, P824
+   Oda M, 2002, BIOCHEM J, V367, P329, DOI 10.1042/BJ20021089
+   Pascolo E, 2002, J BIOL CHEM, V277, P15566, DOI 10.1074/jbc.M201266200
+   Ramachandran C, 2002, CANCER LETT, V184, P1, DOI 10.1016/S0304-3835(02)00192-1
+   Read M, 2001, P NATL ACAD SCI USA, V98, P4844, DOI 10.1073/pnas.081560598
+   Rezler EM, 2002, CURR OPIN PHARMACOL, V2, P415, DOI 10.1016/S1471-4892(02)00182-0
+   Riou JF, 2002, P NATL ACAD SCI USA, V99, P2672, DOI 10.1073/pnas.052698099
+   Rossetti L, 2002, BIOORG MED CHEM LETT, V12, P2527, DOI 10.1016/S0960-894X(02)00504-8
+   Rowley PT, 2000, ANTICANCER RES, V20, P4419
+   Saretzki G, 2003, CANCER LETT, V194, P209, DOI 10.1016/S0304-3835(02)00708-5
+   Sasaki S, 2001, BIOORG MED CHEM LETT, V11, P2581, DOI 10.1016/S0960-894X(01)00507-8
+   Seimiya H, 2002, MOL CANCER THER, V1, P657
+   Shimada Y, 1997, BIOCHEM BIOPH RES CO, V232, P492, DOI 10.1006/bbrc.1997.6327
+   Szatmari I, 2000, ANAL BIOCHEM, V282, P80, DOI 10.1006/abio.2000.4589
+   Wadhwa R, 2002, CANCER RES, V62, P4434
+   Wong JMY, 2003, LANCET, V362, P983, DOI 10.1016/S0140-6736(03)14369-3
+   Zhang XL, 1999, GENE DEV, V13, P2388, DOI 10.1101/gad.13.18.2388
+NR 48
+TC 22
+Z9 26
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD AUG 6
+PY 2004
+VL 320
+IS 4
+BP 1351
+EP 1358
+DI 10.1016/j.bbrc.2004.06.094
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 841IL
+UT WOS:000222923400045
+ER
+
+PT J
+AU Nagaya, S
+   Komura, K
+   Kashima, N
+   Kawashima, H
+   Unisuga, S
+   Kakiuchi, Y
+AF Nagaya, S
+   Komura, K
+   Kashima, N
+   Kawashima, H
+   Unisuga, S
+   Kakiuchi, Y
+TI Development of the composite superconducting magnetic bearing for
+   superconducting flywheel
+SO PHYSICA C-SUPERCONDUCTIVITY AND ITS APPLICATIONS
+LA English
+DT Article; Proceedings Paper
+CT 15th International Symposium on Superconductivity (ISS 2002)
+CY NOV 11-13, 2002
+CL YOKOHAMA, JAPAN
+DE superconducting magnetic bearing; superconductor; permanent magnet;
+   composed bearings
+AB Superconducting magnetic bearing for flywheel requires the characteristics such as higher stiffness, lower loss and higher stability. There are two types of superconducting magnetic bearings, one is axial gap type and another is radial gap type and the characteristics of these types are quite different. We think that the supporting system of superconducting flywheel should support the rotor at one position near the center of gravity to minimize the cooling energy loss. We propose that the bearing composed of axial gap type and radial gap type is necessary from the result of this investigation, because the characteristics about both types of bearings should be compensated each other. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Mitsubishi Heavy Ind Co Ltd, Takasago Machinery Works, Takasago, Hyogo 6768686, Japan.
+   Chubu Elect Power Co Inc, Elect Power R&D Ctr, Nagoya, Aichi 4598522, Japan.
+RP Kakiuchi, Y (reprint author), Mitsubishi Heavy Ind Co Ltd, Takasago Machinery Works, 2-1-1 Shinhama,Arai Cho, Takasago, Hyogo 6768686, Japan.
+CR Nagaya S, 2001, PHYSICA C, V357, P866, DOI 10.1016/S0921-4534(01)00428-2
+   SASANO Y, 1998, P ISS 97, P1309
+NR 2
+TC 2
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4534
+J9 PHYSICA C
+JI Physica C
+PD OCT
+PY 2003
+VL 392
+BP 719
+EP 722
+DI 10.1016/S0921-4534(03)01015-3
+PN Part 1
+PG 4
+WC Physics, Applied
+SC Physics
+GA 726PE
+UT WOS:000185607400147
+ER
+
+PT J
+AU Nagaya, S
+   Kashima, N
+   Kawashima, H
+   Kakiuchi, Y
+   Hoshino, A
+   Isobe, S
+AF Nagaya, S
+   Kashima, N
+   Kawashima, H
+   Kakiuchi, Y
+   Hoshino, A
+   Isobe, S
+TI Development of the axial gap type motor/generator for the flywheel with
+   superconducting magnetic bearings
+SO PHYSICA C-SUPERCONDUCTIVITY AND ITS APPLICATIONS
+LA English
+DT Article
+DE Flywheel energy storage system; CFRP; superconducting flywheel
+AB Flywheel with superconducting magnetic bearings requires the characteristics for the motor/generator such as lower loss, higher efficiency, lower bearing load and more displacement tolerance of the radial directions. We developed an extremely flat shape axial gap type motor/generator which consists of a rotor with permanent magnets and slotless windings to satisfy these characteristics. We introduced the system for adjusting intensity of the excitation to decrease the eddy current loss during the storage and to get the controllability of electromotive force for variable speed operation during charging and discharging. We manufactured the motor/generator of output power 17 kW at 10,000 rpm. It was tested to perform the fundamental functions of motor and generator at partial speeds up to 4000 rpm.
+C1 Chubu Elect Power Co Inc, Elect Power R&D Ctr, Midori ku, Nagoya, Aichi 459-8522, Japan.
+   Mitsubishi Heavy Ind Co Ltd, Nagoya R&D Ctr, Nakamura Ku, Nagoya, Aichi 453-8515, Japan.
+RP Kakiuchi, Y (reprint author), Mitsubishi Heavy Ind Co Ltd, Takasago Machinery Works, 2-1-1 Shinhama,Arai-cho, Takasago, Hyogo 676-8686, Japan.
+NR 0
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4534
+J9 PHYSICA C
+JI Physica C
+PD OCT
+PY 2003
+VL 392
+BP 764
+EP 768
+DI 10.1016/S0921-4534(03)01009-8
+PN Part 1
+PG 5
+WC Physics, Applied
+SC Physics
+GA 726PE
+UT WOS:000185607400156
+ER
+
+PT J
+AU Nagaya, S
+   Komura, K
+   Kashima, N
+   Kawashima, H
+   Kakiuchi, Y
+   Minami, M
+AF Nagaya, S
+   Komura, K
+   Kashima, N
+   Kawashima, H
+   Kakiuchi, Y
+   Minami, M
+TI Improvement and enlarging of the CFRP flywheel with superconducting
+   magnetic bearings
+SO PHYSICA C-SUPERCONDUCTIVITY AND ITS APPLICATIONS
+LA English
+DT Article
+DE Flywheel energy storage system; CFRP; superconducting flywheel
+AB Superconducting flywheel usually adopts carbon fiber resin mold plastic (CFRP) material that has the basic characteristics such as higher strength and lighter weight. Stabilized rotation of flywheel requires lower unbalance individually about flywheel and supporting disc. And supporting disc is needed to steadily follow the expansion of the inside diameter on the flywheel by centrifugal force and keep the concentricity of the flywheel and its own rotating axis. We developed the flywheel rotor, which was composed of CFRP flywheel, and partially spherical supporting disc made of high strength aluminum. They were combined with expanse fitting each other and most precisely machined to realize the extremely precise axial symmetric shape and enable to be supported and driven at the point near the center of gravity. We manufactured and confirmed that the flywheel rotor rotated up to peripheral speed of 628 m/s quietly without permanent set.
+C1 Chubu Elect Power Co Inc, Elect Power R&D Ctr, Midori Ku, Nagoya, Aichi 459-8522, Japan.
+   Mitsubishi Heavy Ind Co Ltd, Takasago R&D Ctr, Takasago, Hyogo 676-8686, Japan.
+RP Kakiuchi, Y (reprint author), Mitsubishi Heavy Ind Co Ltd, Takasago Machinery Works, 2-1-1 Shinhama,Arai-cho, Takasago, Hyogo 676-8686, Japan.
+NR 0
+TC 2
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4534
+J9 PHYSICA C
+JI Physica C
+PD OCT
+PY 2003
+VL 392
+BP 769
+EP 772
+DI 10.1016/S0921-4534(03)01008-6
+PN Part 1
+PG 4
+WC Physics, Applied
+SC Physics
+GA 726PE
+UT WOS:000185607400157
+ER
+
+PT J
+AU Nagaya, S
+   Kashima, N
+   Minami, M
+   Kawashima, H
+   Unisuga, S
+   Kakiuchi, Y
+   Ishigaki, H
+AF Nagaya, S
+   Kashima, N
+   Minami, M
+   Kawashima, H
+   Unisuga, S
+   Kakiuchi, Y
+   Ishigaki, H
+TI Study on characteristics of high temperature superconducting magnetic
+   thrust bearing for 25 kW h flywheel
+SO PHYSICA C
+LA English
+DT Article; Proceedings Paper
+CT 13th International Symposium on Superconductivity (ISS 2000)
+CY OCT 14-16, 2000
+CL TOKYO, JAPAN
+DE superconducting magnetic bearing; cryogenic refrigerator; spring
+   coefficient; damping coefficient
+AB An axial air gap type thrust bearing of the outer diameter of 620 nun for 25 kW h flywheel which combined with the permanent magnet of Nd-Fe-B and 10 pieces of high temperature YBaCuO superconductors of the diameter of 150 mm directly cooled by the refrigerator was fabricated, and its performance tests were conducted. Load capacity which could support a planned rotor weight of 8.2 kN was confirmed, and also the stiffness of the radial direction and the axial direction were measured in case of several initial cooling conditions. Spring and damping coefficients in zero field cooling were also measured in the tapping test, and it was found that axial spring coefficients were about 10 times as large as radial spring coefficients, though damping coefficients were almost the same. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Mitsubishi Heavy Ind Co Ltd, Takasago R&D Ctr 1 1, Takasago, Hyogo 6768686, Japan.
+   Chubu Elect Power Co Inc, Elect Power Res & Dev Ctr 20 1, Midori Ku, Nagoya, Aichi 4598522, Japan.
+   Mitsubishi Heavy Ind Co Ltd, Takasago Machinery Works 1 1, Takasago, Hyogo 6768686, Japan.
+   Himeji Inst Technol, Himeji, Hyogo 6712201, Japan.
+RP Minami, M (reprint author), Mitsubishi Heavy Ind Co Ltd, Takasago R&D Ctr 1 1, 2 Chome,Shinhama Arai Cho, Takasago, Hyogo 6768686, Japan.
+CR HULL JR, 1995, IEEE T APPL SUPERCON, V5, P626, DOI 10.1109/77.402628
+   KAWASHIMA H, 1999, P ISS 99, P797
+   MINAMI M, 1999, 4 NES C OS U, P349
+NR 3
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4534
+J9 PHYSICA C
+JI Physica C
+PD AUG
+PY 2001
+VL 357
+BP 866
+EP 869
+DI 10.1016/S0921-4534(01)00428-2
+PN 1
+PG 4
+WC Physics, Applied
+SC Physics
+GA 463FX
+UT WOS:000170467400213
+ER
+
+PT J
+AU Kakiuchi, Y
+   Takahashi, T
+   Murakami, A
+   Ueda, T
+AF Kakiuchi, Y
+   Takahashi, T
+   Murakami, A
+   Ueda, T
+TI Bight irradiation induces fragmentation of the plasmodium, a novel
+   photomorphogenesis in the true slime mold Physarum polycephalum: Action
+   spectra and evidence for involvement of the phytochrome
+SO PHOTOCHEMISTRY AND PHOTOBIOLOGY
+LA English
+DT Article
+ID LIGHT; PHOTOAVOIDANCE; SPORULATION; GENERATION; GENE
+AB A new photomorphogenesis was found in the plasmodium of the true slime mold Physarum polycephalum: the plasmodium broke temporarily into equal-sized spherical pieces, each containing about eight nuclei, about 5 h after irradiation with light, Action spectroscopic study showed that UVA, blue and far-red lights were effective, while red light inhibited the far-red-induced fragmentation. Difference absorption spectra of both the Living plasmodium and the plasmodial homogenate after alternate irradiation,vith far-red and red light gave two extremes at 750 and 680 nm, which agreed with those for the induction and inhibition of the fragmentation, respectively. A kinetic model similar to that of phytochrome action explained quantitatively the fluence rate-response curves of the fragmentation. Our results indicate that one of the photoreceptors for the plasmodial fragmentation is a phytochrome.
+C1 Hokkaido Univ, Res Inst Elect Sci, Sapporo, Hokkaido 0600812, Japan.
+   Japan Adv Inst Sci & Technol, Tatsunokuchi, Ishikawa, Japan.
+   Kobe Univ, Res Ctr Inland Seas, Awaji, Japan.
+RP Ueda, T (reprint author), Hokkaido Univ, Res Inst Elect Sci, Sapporo, Hokkaido 0600812, Japan.
+CR Alexopoulos C.J., 1979, INTRO MYCOLOGY
+   Ashworth J.M., 1975, BIOL SLIME MOULDS
+   Carlile M.J, 1994, FUNGI
+   CORNEJO J, 1992, J BIOL CHEM, V267, P14790
+   Davis SJ, 1999, SCIENCE, V286, P2517, DOI 10.1126/science.286.5449.2517
+   Dove W. F., 1980, GROWTH DIFFERENTIATI
+   FIGUEROA FL, 1989, BOT ACTA, V102, P178
+   FUCSHANSKY L, 1983, PHOTOMORPHOGENESIS, P69
+   Gray WD, 1968, BIOL MYXOMYCETES
+   GRILL R, 1972, PLANTA, V108, P185, DOI 10.1007/BF00384108
+   HATO M, 1976, Cell Structure and Function, V1, P269
+   ISHIGAMI M, 1987, J CELL BIOL, V105, P381, DOI 10.1083/jcb.105.1.381
+   JUMP JA, 1954, AM J BOT, V41, P561, DOI 10.2307/2438716
+   Kakiuchi Y, 1999, PROTOPLASMA, V206, P131, DOI 10.1007/BF01279259
+   KOLUKISAOGLU HU, 1993, FEBS LETT, V334, P95, DOI 10.1016/0014-5793(93)81689-W
+   Kroneder R, 1999, CURR GENET, V36, P86, DOI 10.1007/s002940050476
+   Mancinelli Alberto L., 1994, P211
+   MOONEY JL, 1990, GENE DEV, V4, P1473, DOI 10.1101/gad.4.9.1473
+   Nakagaki T, 1996, PHOTOCHEM PHOTOBIOL, V64, P859, DOI 10.1111/j.1751-1097.1996.tb01847.x
+   Okamoto H, 1997, PLANT PHYSIOL, V115, P79, DOI 10.1104/pp.115.1.79
+   RAUB TJ, 1982, CELL BIOL PHYSARUM D, V2, P21
+   RUYTERS G, 1991, BIOCHEM PHYSIOL PFL, V187, P97
+   SAUER HW, 1982, DEV BIOL PHYSARUM
+   STAROSTZIK C, 1995, FEBS LETT, V370, P146, DOI 10.1016/0014-5793(95)00820-Y
+   TAYLOR AO, 1967, PLANT PHYSIOL, V42, P762, DOI 10.1104/pp.42.6.762
+   UEDA T, 1978, EXP CELL RES, V116, P55, DOI 10.1016/0014-4827(78)90064-2
+   UEDA T, 1988, PHOTOCHEM PHOTOBIOL, V48, P705, DOI 10.1111/j.1751-1097.1988.tb02884.x
+   WATANABE M, 1982, PHOTOCHEM PHOTOBIOL, V36, P491, DOI 10.1111/j.1751-1097.1982.tb04407.x
+   Wilde A, 1997, FEBS LETT, V406, P89, DOI 10.1016/S0014-5793(97)00248-2
+NR 29
+TC 5
+Z9 5
+PU AMER SOC PHOTOBIOLOGY
+PI AUGUSTA
+PA BIOTECH PARK, 1021 15TH ST, SUITE 9, AUGUSTA, GA 30901-3158 USA
+SN 0031-8655
+J9 PHOTOCHEM PHOTOBIOL
+JI Photochem. Photobiol.
+PD MAR
+PY 2001
+VL 73
+IS 3
+BP 324
+EP 329
+DI 10.1562/0031-8655(2001)073<0324:LIIFOT>2.0.CO;2
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 415GX
+UT WOS:000167713800017
+ER
+
+PT J
+AU Nishihori, K
+   Kitaura, Y
+   Tanabe, Y
+   Mihara, H
+   Yoshimura, M
+   Nitta, T
+   Kakiuchi, Y
+   Uchitomi, N
+AF Nishihori, K
+   Kitaura, Y
+   Tanabe, Y
+   Mihara, H
+   Yoshimura, M
+   Nitta, T
+   Kakiuchi, Y
+   Uchitomi, N
+TI A self-aligned gate AlGaAs/GaAs heterostructure field-effect transistor
+   with an ion-implanted buried-channel for use in high efficiency power
+   amplifiers
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE GaAs power FET; buried channel; heterostructure; self-aligned gate;
+   ion-implantation; personal handy-phone system; efficiency
+ID DOPED-CHANNEL; GAAS; VOLTAGE; MISFETS; DEVICE
+AB In this paper we report on a self-aligned gate buried-channel Al0.22Ga0.78As/GaAs heterostructure field-effect transistor (BC-HFET). The BC-HFET comprises a selectively ion-implanted channel and an undoped i-AlGaAs surface layer. In order to realize the buried channel heterostructure, a combined process of ion-implantation and epitaxial growth is developed. The postimplantation annealing before the epitaxial growth successfully reduces the interdiffusion at the heterointerface between the ion-implanted GaAs channel and the AlGaAs surface layer. The BC-HFET overcomes the disadvantages of a low breakdown voltage which exists in conventional self-aligned gate MESFETs. The BC-HFET exhibits a high breakdown voltage of 8 V and a high Schottky barrier height of 0.75 eV. The l-mm-wide power BC-HFET demonstrates an output power of 18.2 dBm and a drain efficiency of 50% at a low adjacent channel leakage power of -59 dBc for a 1.9-GHz pi/4-shifted quadrature phase shift keying (QPSK) modulated input, for use as Personal Handy-phone System handsets.
+C1 Toshiba Corp, Microwave Solid State Div, Ctr Res & Dev, Saiwai Ku, Kawasaki, Kanagawa 2108581, Japan.
+RP Nishihori, K (reprint author), Toshiba Corp, Microwave Solid State Div, Ctr Res & Dev, Saiwai Ku, 1 Komukai Toshiba Cho, Kawasaki, Kanagawa 2108581, Japan.
+CR FUJIMOTO H, 1995, ELECTRON LETT, V31, P137, DOI 10.1049/el:19950070
+   HIDA H, 1989, IEEE T ELECTRON DEV, V36, P2223, DOI 10.1109/16.40903
+   HIROSE M, 1996, IEEE GAAS IC S, P237
+   HYUGA F, 1992, APPL PHYS LETT, V60, P1963, DOI 10.1063/1.107112
+   INOMATA H, 1986, JPN J APPL PHYS 2, V25, pL731, DOI 10.1143/JJAP.25.L731
+   KASAI K, 1995, IEEE GAAS IC S, P59
+   KAWAI NJ, 1984, ELECTRON LETT, V20, P47, DOI 10.1049/el:19840033
+   KIM B, 1984, IEEE ELECTR DEVICE L, V5, P494, DOI 10.1109/EDL.1984.26000
+   KIM B, 1986, IEEE ELECTR DEVICE L, V7, P638
+   MATSUNAGA T, 1992, P INT S GAAS REL COM, P773
+   MILLER DL, 1985, J APPL PHYS, V57, P1922, DOI 10.1063/1.334425
+   NAGAOKA M, 1994, JPN J APPL PHYS 1, V33, P767, DOI 10.1143/JJAP.33.767
+   NISHIHORI K, 1995, JPN J APPL PHYS 1, V34, P1241, DOI 10.1143/JJAP.34.1241
+   NISHIHORI K, 1995, INT C SOL STAT DEV M, P950
+   REYNOLDS CL, 1992, IEEE T ELECTRON DEV, V39, P2459, DOI 10.1109/16.163458
+   SADWICK LP, 1992, IEEE T ELECTRON DEV, V39, P50, DOI 10.1109/16.108211
+   SUGIURA H, 1985, JPN J APPL PHYS 1, V24, P1493, DOI 10.1143/JJAP.24.1493
+   YAMAMOTO K, 1996, IEEE ISSCC, P340
+   Yang MT, 1996, IEEE T ELECTRON DEV, V43, P1174
+NR 19
+TC 1
+Z9 1
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO, 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD JUN
+PY 1998
+VL 37
+IS 6A
+BP 3200
+EP 3204
+DI 10.1143/JJAP.37.3200
+PG 5
+WC Physics, Applied
+SC Physics
+GA 104AL
+UT WOS:000074990000004
+ER
+
+PT J
+AU Nakagaki, T
+   Umemura, S
+   Kakiuchi, Y
+   Ueda, T
+AF Nakagaki, T
+   Umemura, S
+   Kakiuchi, Y
+   Ueda, T
+TI Action spectrum for sporulation and photoavoidance in the plasmodium of
+   Physarum polycephalum, as modified differentially by temperature and
+   starvation
+SO PHOTOCHEMISTRY AND PHOTOBIOLOGY
+LA English
+DT Article
+ID FLAVIN-LIKE FLUORESCENCE; EUGLENA-GRACILIS; ISOLATED FLAGELLA;
+   PTERIN-LIKE; BLUE-LIGHT; UV; GENE
+AB The plasmodium of the myxomycete Physarum polycephalum sporulates in bright natural environments, suggesting a relationship between photobehavior and sporulation. Thus, the action spectra for two light-dependent phenomena as well as the effects of other environmental conditions have been studied. Sporulation like photoavoidance responded to UVC (near 270 nm) and near IR (near 750 nm) in addition to the well-documented UVA (near 350 nm) and blue (near 460 nm) regions. Sporulation and photoavoidance had similar sensitivities in the shorter wavelengths, while the former was about 100 times more sensitive in near IR. The plasmodium moved away from light in a wide spectral range. Starvation and high temperature at 31 degrees C (25 degrees C in standard conditions) reduced photoavoidance to UVA and to blue light, respectively. A high fluence rate of WC suppressed the rhythmic contraction of the plasmodium, and the action spectrum peaked at 270 nm. These results indicate that the Physarum plasmodium may stay at brighter places not by positive phototaxis but by weakening the negative phototaxis to sunlight or by other possible taxes such as hydrotaxis. There may be at least four different photosystems in the plasmodium.
+RP Nakagaki, T (reprint author), NAGOYA UNIV,GRAD SCH HUMAN INFORMAT,NAGOYA,AICHI 464,JAPAN.
+CR AHMAD M, 1993, NATURE, V366, P162, DOI 10.1038/366162a0
+   ALEXOPOULOS CJ, 1979, INTRO MYCOLOGY, P61
+   BRODHUN B, 1990, PHOTOCHEM PHOTOBIOL, V52, P862
+   CAMP W. G., 1936, BULL TORREY BOT CLUB, V63, P205, DOI 10.2307/2480903
+   DANIEL JW, 1962, J BACTERIOL, V83, P234
+   GALLAND P, 1990, PHOTOCHEM PHOTOBIOL, V51, P675
+   Gray WD, 1938, AM J BOT, V25, P511, DOI 10.2307/2436680
+   GRAY WD, 1968, BIOL MYXOMYCETES, P192
+   HADER DP, 1987, GEN PHOTOBIOLOGY, P83
+   HARTMANN KM, 1983, BIOPHYSICS-USSR, P115
+   LIN C, 1995, P NATL ACAD SCI USA, V92, P8423, DOI 10.1073/pnas.92.18.8423
+   LIN CT, 1995, SCIENCE, V269, P968, DOI 10.1126/science.7638620
+   RAKOCZY L, 1966, ACTA SOC BOT POL, V36, P315
+   RAKOCZY L, 1971, Acta Societatis Botanicorum Poloniae, V40, P483
+   RAKOCZY L, 1965, ACTA SOC BOT POL, V34, P153
+   RAKOCZY L., 1962, ACTA SOC BOT POLON, V31, P651
+   RAKOCZY L, 1980, BLUE LIGHT SYNDROME, P570
+   RAKOCZY L, 1973, ACTA SOC BOT POL, V86, P141
+   RAKOCZY L., 1963, ACTA SOC BOT POLON, V32, P393
+   SCHMIDT W, 1990, PLANTA, V182, P375, DOI 10.1007/BF02411388
+   Schreckenbach T., 1984, P463
+   SINESHCHEKOV VA, 1994, J PHOTOCH PHOTOBIO B, V23, P225, DOI 10.1016/1011-1344(94)07002-4
+   SUGAI M, 1990, PLANT CELL PHYSIOL, V31, P415
+   UEDA T, 1986, EXP CELL RES, V162, P486, DOI 10.1016/0014-4827(86)90352-6
+   UEDA T, 1988, PHOTOCHEM PHOTOBIOL, V48, P705, DOI 10.1111/j.1751-1097.1988.tb02884.x
+   WATANABE M, 1995, CRC HDB ORGANIC PHOT, P1260
+   WATANABE M, 1982, PHOTOCHEM PHOTOBIOL, V36, P491, DOI 10.1111/j.1751-1097.1982.tb04407.x
+NR 27
+TC 13
+Z9 13
+PU AMER SOC PHOTOBIOLOGY
+PI AUGUSTA
+PA BIOTECH PARK, 1021 15TH ST, SUITE 9, AUGUSTA, GA 30901-3158
+SN 0031-8655
+J9 PHOTOCHEM PHOTOBIOL
+JI Photochem. Photobiol.
+PD NOV
+PY 1996
+VL 64
+IS 5
+BP 859
+EP 862
+DI 10.1111/j.1751-1097.1996.tb01847.x
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA VT662
+UT WOS:A1996VT66200021
+ER
+
+PT J
+AU NAKAJIMA, S
+   HAYASHI, H
+   OMOTE, Y
+   YAMAZAKI, Y
+   HIRATA, S
+   MAEDA, T
+   KUBO, Y
+   TAKEMURA, T
+   KAKIUCHI, Y
+   SHINDO, Y
+   KOSHIMIZU, K
+   SAKATA, I
+AF NAKAJIMA, S
+   HAYASHI, H
+   OMOTE, Y
+   YAMAZAKI, Y
+   HIRATA, S
+   MAEDA, T
+   KUBO, Y
+   TAKEMURA, T
+   KAKIUCHI, Y
+   SHINDO, Y
+   KOSHIMIZU, K
+   SAKATA, I
+TI THE TUMOR-LOCALIZING PROPERTIES OF PORPHYRIN DERIVATIVES
+SO JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY B-BIOLOGY
+LA English
+DT Article
+C1 HOKKAIDO UNIV,INST APPL ELECT,DEPT CHEM,SAPPORO,HOKKAIDO 060,JAPAN.
+   KYOTO UNIV,DEPT FOOD SCI & TECHNOL,KYOTO 606,JAPAN.
+   TOYO HAKKA CO LTD,OKAYAMA 71903,JAPAN.
+RP NAKAJIMA, S (reprint author), ASAHIKAWA MED COLL,DEPT SURG,ASAHIKAWA 078,JAPAN.
+CR DOUGHERTY TJ, 1978, CANCER RES, V38, P3628
+   ELFAR MA, 1986, CANCER RES, V46, P4390
+   GARBO GM, 1985, ANAL BIOCHEM, V151, P70, DOI 10.1016/0003-2697(85)90054-5
+   HAYATA H, 1982, CHEST, V81, P269
+   HISAZUMI H, 1983, J UROLOGY, V130, P685
+   JORI G, 1980, MED BIOL ENV, V8, P140
+   KAKIUCHI Y, 1984, JPN SOC ME BE, V22, P798
+   KESSEL D, 1983, CANCER RES, V43, P994
+   NAKAJIMA S, 1987, PHOTOCHEM PHOTOBIOL, V40, P783
+   RIMINGTON C, 1987, INT J BIOCHEM, V19, P315, DOI 10.1016/0020-711X(87)90004-8
+   SAKATA I, 1962, Patent No. 47872
+   SAKATA I, 1963, Patent No. 13997
+   UEDA N, 1984, PEPTIDES, V5, P423, DOI 10.1016/0196-9781(84)90247-X
+   1836, Patent No. 340549
+   1963, Patent No. 196586
+   1960, Patent No. 92287
+   1836, Patent No. 746386
+   1964, Patent No. 61481
+   1989, Patent No. 4849207
+   1836, Patent No. 375482
+   1986, Patent No. 4604241
+   1146615
+   1961, Patent No. 7279
+   1961, Patent No. 83185
+NR 24
+TC 34
+Z9 34
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 1011-1344
+J9 J PHOTOCH PHOTOBIO B
+JI J. Photochem. Photobiol. B-Biol.
+PD NOV
+PY 1990
+VL 7
+IS 2-4
+BP 189
+EP 198
+DI 10.1016/1011-1344(90)85156-Q
+PG 10
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA EG305
+UT WOS:A1990EG30500006
+ER
+
+PT J
+AU NAKAJIMA, S
+   HAYASHI, H
+   OHSHIMA, K
+   YAMAZAKI, K
+   KUBO, Y
+   SAMEJIMA, N
+   KAKIUCHI, Y
+   SHINDOH, Y
+   KOSHIMIZU, H
+   SAKATA, I
+   YAMAUCHI, H
+AF NAKAJIMA, S
+   HAYASHI, H
+   OHSHIMA, K
+   YAMAZAKI, K
+   KUBO, Y
+   SAMEJIMA, N
+   KAKIUCHI, Y
+   SHINDOH, Y
+   KOSHIMIZU, H
+   SAKATA, I
+   YAMAUCHI, H
+TI TUMOR IMAGING WITH [IN-111] MONO-DTPA-ETHYLENEGLYCOL-GA-DEUTEROPORPHYRIN
+SO PHOTOCHEMISTRY AND PHOTOBIOLOGY
+LA English
+DT Article
+C1 TOYO HAKKA CO LTD,OKAYAMA 71903,JAPAN.
+   HOKKAIDO UNIV,INST APPL ELECTR,DEPT PHYSIOL,SAPPORO,HOKKAIDO 060,JAPAN.
+   KYOTO UNIV,SCH AGR,DEPT FOOD SCI & TECHNOL,KYOTO 606,JAPAN.
+   NIHON MEDIPHYS,CHIBA 29902,JAPAN.
+RP NAKAJIMA, S (reprint author), ASAHIKAWA MED COLL,DEPT SURG 1,ASAHIKAWA 078,JAPAN.
+CR DOUGHERTY TJ, 1978, CANCER RES, V38, P3628
+   DOUGHERTY TJ, 1983, ADV EXP MED BIOL, V160, P3
+   FOSTER N, 1985, J NUCL MED, V26, P756
+   HAYATA Y, 1982, CHEST, V81, P269, DOI 10.1378/chest.81.3.269
+   KAKIUCHI Y, 1984, JPN SOC ME BE, V22, P798
+   KESSEL D, 1983, CANCER RES, V43, P994
+   NAKAJIMA S, 1982, IGAKUNOAYUMI, V122, P256
+   NAKAJIMA S, 1984, ONCOLOGIA, V9, P151
+   POLICARD A, 1924, COMPT REND SOC BIOL, V91, P1432
+   UEDA N, 1984, PEPTIDES, V5, P423, DOI 10.1016/0196-9781(84)90247-X
+   VANLAMSWEERDE AL, 1983, CANCER RES, V43, P5314
+NR 11
+TC 16
+Z9 16
+PU AMER SOC PHOTOBIOLOGY
+PI AUGUSTA
+PA BIOTECH PARK, 1021 15TH ST, SUITE 9, AUGUSTA, GA 30901-3158
+SN 0031-8655
+J9 PHOTOCHEM PHOTOBIOL
+JI Photochem. Photobiol.
+PD NOV
+PY 1987
+VL 46
+IS 5
+BP 783
+EP 788
+DI 10.1111/j.1751-1097.1987.tb04848.x
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA L1921
+UT WOS:A1987L192100036
+ER
+
+PT J
+AU ARAISO, T
+   SHINDO, Y
+   ARAI, T
+   NITTA, J
+   KIKUCHI, Y
+   KAKIUCHI, Y
+   KOYAMA, T
+AF ARAISO, T
+   SHINDO, Y
+   ARAI, T
+   NITTA, J
+   KIKUCHI, Y
+   KAKIUCHI, Y
+   KOYAMA, T
+TI VISCOSITY AND ORDER IN ERYTHROCYTE-MEMBRANES STUDIES WITH NANOSECOND
+   FLUOROMETRY
+SO BIORHEOLOGY
+LA English
+DT Article
+RP ARAISO, T (reprint author), HOKKAIDO UNIV,APPL ELECT RES INST,DIV PHYSIOL,SAPPORO,HOKKAIDO 060,JAPAN.
+CR ALONI B, 1974, BIOCHIM BIOPHYS ACTA, V348, P438, DOI 10.1016/0005-2760(74)90223-9
+   BABA Y, 1979, DIABETES, V28, P1138, DOI 10.2337/diabetes.28.12.1138
+   BLOOM JA, 1983, BIOPHYS J, V42, P295
+   BRAASCH D, 1971, PFLUG ARCH EUR J PHY, V329, P167, DOI 10.1007/BF00586990
+   CHEN LA, 1977, J BIOL CHEM, V252, P2163
+   DEMBO M, 1979, BIOCHIM BIOPHYS ACTA, V522, P201
+   DODGE JT, 1963, ARCH BIOCHEM BIOPHYS, V100, P119, DOI 10.1016/0003-9861(63)90042-0
+   FAIRBANK.G, 1971, BIOCHEMISTRY-US, V10, P2606, DOI 10.1021/bi00789a030
+   GLATZ P, 1978, ANAL BIOCHEM, V87, P187, DOI 10.1016/0003-2697(78)90584-5
+   HILDENBRAND K, 1979, BIOCHIM BIOPHYS ACTA, V553, P365, DOI 10.1016/0005-2736(79)90292-X
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KIKUCHI Y, 1981, JPN J PHYSIOL, V31, P903
+   KINOSITA K, 1984, ADV BIOPHYS, V17, P147, DOI 10.1016/0065-227X(84)90027-3
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   KOPPEL DE, 1981, P NATL ACAD SCI-BIOL, V78, P3576, DOI 10.1073/pnas.78.6.3576
+   KOPPEL DE, 1980, BIOPHYS J, V30, P187
+   Koyama T, 1984, Biorheology Suppl, V1, P323
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LAKOWICZ JR, 1979, BIOCHEMISTRY-US, V18, P508, DOI 10.1021/bi00570a021
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   MITCHISON JM, 1954, J EXP BIOL, V31, P443
+   PETERS K, 1977, ANNU REV BIOCHEM, V46, P523, DOI 10.1146/annurev.bi.46.070177.002515
+   RUDY B, 1972, BIOCHIM BIOPHYS ACTA, V288, P231, DOI 10.1016/0005-2736(72)90242-8
+   SCHMIDSC.H, 1969, J APPL PHYSIOL, V26, P674
+   SHINITZKY M, 1978, BIOCHIM BIOPHYS ACTA, V515, P367, DOI 10.1016/0304-4157(78)90010-2
+   SHINITZK.M, 1974, J MOL BIOL, V85, P603, DOI 10.1016/0022-2836(74)90318-0
+   STECK TL, 1972, J MOL BIOL, V66, P295, DOI 10.1016/0022-2836(72)90481-0
+   TEITEL P, 1967, NOUV REV FR HEMATOL, V7, P195
+NR 29
+TC 20
+Z9 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0006-355X
+J9 BIORHEOLOGY
+JI Biorheology
+PY 1986
+VL 23
+IS 5
+BP 467
+EP 483
+PG 17
+WC Biophysics; Engineering, Biomedical; Hematology
+SC Biophysics; Engineering; Hematology
+GA E9479
+UT WOS:A1986E947900004
+ER
+
+PT J
+AU KOYAMA, T
+   KIKUCHI, Y
+   HORIMOTO, M
+   KAKIUCHI, Y
+   TSUSHIMA, N
+   NITTA, J
+AF KOYAMA, T
+   KIKUCHI, Y
+   HORIMOTO, M
+   KAKIUCHI, Y
+   TSUSHIMA, N
+   NITTA, J
+TI WHITE BLOOD-CELL ADHESION TO ENDOTHELIUM AND RHEOLOGICAL BEHAVIOR IN
+   MICRO-VESSELS OF OVER-INFLATED FROGS LUNG
+SO BIORHEOLOGY
+LA English
+DT Article
+C1 SAPPORO TONAN HOSP,SAPPORO,JAPAN.
+   SAPPORO SEISHU WOMENS COLL,SAPPORO,JAPAN.
+RP KOYAMA, T (reprint author), HOKKAIDO UNIV,APPL ELECT RES INST,SAPPORO,HOKKAIDO 060,JAPAN.
+CR ASANO M, 1975, MICROVASC RES, V9, P64, DOI 10.1016/0026-2862(75)90052-7
+   ASANO M, 1981, 4TH P INT C BIORH TO, pP49
+   Bagge U, 1977, ADV MICROCIRCULAT, V7, P1
+   BAKER M, 1974, MICROVASC RES, V7, P131, DOI 10.1016/0026-2862(74)90043-0
+   BRANEMARK PI, 1968, RHEOLOGICAL ASPECTS, P161
+   BRANEMARK PL, 1962, BIORHEOL, V1, P139
+   Clark ER, 1936, AM J ANAT, V59, P123, DOI 10.1002/aja.1000590106
+   ERICSON LE, 1973, ADV MICROCIRCULAT, V5, P72
+   FRY DL, 1968, CIRC RES, V22, P165
+   FUNG YC, 1969, J APPL PHYSIOL, V26, P472
+   HOCHMUTH RM, 1972, T AM SOC ART INT ORG, V18, P325
+   HORIMOTO M, 1981, RESP PHYSIOL, V43, P31, DOI 10.1016/0034-5687(81)90086-4
+   HORIMOTO M, 1979, RESP PHYSIOL, V37, P45, DOI 10.1016/0034-5687(79)90091-4
+   LICHTMAN MA, 1973, J CLIN INVEST, V52, P350, DOI 10.1172/JCI107191
+   NICOLL PA, 1946, ANN NY ACAD SCI, V46, P697, DOI 10.1111/j.1749-6632.1946.tb31698.x
+   PALMER A. A., 1959, QUART JOUR EXPTL PHYSIOL, V44, P149
+   SCHMIDSCHOENBEI.GW, 1975, CIRC RES, V36, P173
+   WILSON JW, 1972, ADV MICROCIRC KARGER, V4, P197
+NR 18
+TC 6
+Z9 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0006-355X
+J9 BIORHEOLOGY
+JI Biorheology
+PY 1982
+VL 19
+IS 1-2
+BP 221
+EP 228
+PG 8
+WC Biophysics; Engineering, Biomedical; Hematology
+SC Biophysics; Engineering; Hematology
+GA NK662
+UT WOS:A1982NK66200021
+ER
+
+PT J
+AU KAKIUCHI, Y
+   HUGHES, GM
+   ARAI, T
+   HORIMOTO, M
+   KIKUCHI, Y
+   KOYAMA, T
+AF KAKIUCHI, Y
+   HUGHES, GM
+   ARAI, T
+   HORIMOTO, M
+   KIKUCHI, Y
+   KOYAMA, T
+TI A MICROANALYSIS OF COLLOID OSMOTIC-PRESSURE
+SO EXPERIENTIA
+LA English
+DT Article
+RP KAKIUCHI, Y (reprint author), HOKKAIDO UNIV,DIV PHYSIOL,APPL ELECT RES INST,SAPPORO,HOKKAIDO 060,JAPAN.
+CR HANSEN AT, 1961, ACTA PHYSIOL SCAND, V53, P197, DOI 10.1111/j.1748-1716.1961.tb02278.x
+   KAKIUCHI Y, 1979, AM J PHYSIOL, V236, pF419
+   Landis EM, 1963, HDB PHYSIOLOGY     2, P961
+   WIEDERHI.CA, 1973, J APPL PHYSIOL, V35, P432
+NR 4
+TC 3
+Z9 3
+PU BIRKHAUSER VERLAG AG
+PI BASEL
+PA PO BOX 133 KLOSTERBERG 23, CH-4010 BASEL, SWITZERLAND
+SN 0014-4754
+J9 EXPERIENTIA
+JI Experientia
+PY 1981
+VL 37
+IS 4
+BP 376
+EP 377
+DI 10.1007/BF01959870
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA LL653
+UT WOS:A1981LL65300027
+ER
+
+EF

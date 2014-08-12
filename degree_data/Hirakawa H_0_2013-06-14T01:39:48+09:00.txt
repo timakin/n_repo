@@ -1,0 +1,4041 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Hirakawa, H
+   Haga, T
+   Nagamune, T
+AF Hirakawa, Hidehiko
+   Haga, Tomoaki
+   Nagamune, Teruyuki
+TI Artificial Protein Complexes for Biocatalysis
+SO TOPICS IN CATALYSIS
+LA English
+DT Article
+DE Cascade reaction; Chemoselective protein ligation; DNA scaffold;
+   Multienzyme; Protein conjugation; Protein scaffold; Self-assembly;
+   Site-specific
+ID P450CAM MONOOXYGENASE SYSTEM; UBIQUITIN-LIKE MODIFIERS; MICROBIAL
+   TRANSGLUTAMINASE; RECOMBINANT PROTEINS; POLYKETIDE BIOSYNTHESIS;
+   MULTIENZYME COMPLEXES; BIENZYMATIC CASCADE; ENZYMATIC-REACTIONS; NITRILE
+   HYDRATASE; CHEMICAL LIGATION
+AB In nature, the macromolecular organization of multienzyme complexes has important implications for the specificity, regulation and overall efficiency of biochemical reactions. Artificial multienzyme complexes mimicking natural multienzyme organization would represent promising biocatalysts. In this review, we will give an overview of current developments and successes in the field of multienzyme complex formation using DNA scaffolds, synthetic protein scaffolds and self-assembling protein scaffolds.
+C1 Univ Tokyo, Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, Tokyo 1138656, Japan.
+   Univ Tokyo, Dept Bioengn, Sch Engn, Bunkyo Ku, Tokyo 1138656, Japan.
+RP Nagamune, T (reprint author), Univ Tokyo, Dept Bioengn, Sch Engn, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138656, Japan.
+EM nagamune@bio.t.u-tokyo.ac.jp
+RI Hirakawa, Hidehiko/A-3089-2013
+OI Hirakawa, Hidehiko/0000-0003-0623-8573
+CR Agapakis Christina M, 2010, J Biol Eng, V4, P3, DOI 10.1186/1754-1611-4-3
+   Antos JM, 2009, J AM CHEM SOC, V131, P10800, DOI 10.1021/ja902681k
+   Becker CFW, 2005, ANGEW CHEM INT EDIT, V44, P7635, DOI 10.1002/anie.200502908
+   Bernhardt R, 2006, J BIOTECHNOL, V124, P128, DOI 10.1016/j.jbiotec.2006.01.026
+   Blaschke UK, 2000, TETRAHEDRON, V56, P9461, DOI 10.1016/S0040-4020(00)00830-9
+   Bruggink A, 2003, ORG PROCESS RES DEV, V7, P622, DOI 10.1021/op0340311
+   BULOW L, 1991, TRENDS BIOTECHNOL, V9, P226, DOI 10.1016/0167-7799(91)90075-S
+   Bundy BC, 2010, BIOCONJUGATE CHEM, V21, P255, DOI 10.1021/bc9002844
+   Burbulis I, 2005, NAT METHODS, V2, P31, DOI 10.1038/NMETH729
+   CHANG TMS, 1985, METHOD ENZYMOL, V112, P195
+   Cotton GJ, 1999, J AM CHEM SOC, V121, P1100, DOI 10.1021/ja983804b
+   Dasgupta S, 2011, J BIOL CHEM, V286, P23996, DOI 10.1074/jbc.M111.247650
+   De Mot R, 2002, TRENDS MICROBIOL, V10, P502, DOI 10.1016/S0966-842X(02)02458-7
+   Duckworth BP, 2007, ANGEW CHEM INT EDIT, V46, P8819, DOI 10.1002/anie.200701942
+   Dueber JE, 2009, NAT BIOTECHNOL, V27, P753, DOI 10.1038/nbt.1557
+   Dunn MF, 2008, TRENDS BIOCHEM SCI, V33, P254, DOI 10.1016/j.tibs.2008.04.008
+   Eisenreich W, 2004, CELL MOL LIFE SCI, V61, P1401, DOI 10.1007/s00018-004-3381-z
+   El-Zahab B, 2004, BIOTECHNOL BIOENG, V87, P178, DOI 10.1002/bit.20131
+   Erkelenz M, 2011, J AM CHEM SOC, V133, P16111, DOI 10.1021/ja204993s
+   Fierobe HP, 2005, J BIOL CHEM, V280, P16325, DOI 10.1074/jbc.M414449200
+   Fierobe HP, 2001, J BIOL CHEM, V276, P21257, DOI 10.1074/jbc.M102082200
+   Fontes CMGA, 2010, ANNU REV BIOCHEM, V79, P655, DOI 10.1146/annurev-biochem-091208-085603
+   Frank RAW, 2005, STRUCTURE, V13, P1119, DOI 10.1016/j.str.2005.04.021
+   Gilbert HJ, 2007, MOL MICROBIOL, V63, P1568, DOI 10.1111/j.1365-2958.2007.05640.x
+   Good MC, 2011, SCIENCE, V332, P680, DOI 10.1126/science.1198701
+   Grunewald J, 2006, MICROBIOL MOL BIOL R, V70, P121, DOI 10.1128/MMBR.70.1.121-146.2006
+   Hackenberger CPR, 2008, ANGEW CHEM INT EDIT, V47, P10030, DOI 10.1002/anie.200801313
+   Heyman A, 2007, J BIOTECHNOL, V131, P433, DOI 10.1016/j.jbiotec.2007.07.940
+   Heyman A, 2007, NANO LETT, V7, P1575, DOI 10.1021/nl070450q
+   Hirakawa H, 2010, CHEMBIOCHEM, V11, P1517, DOI 10.1002/cbic.201000226
+   Hirakawa H, 2007, PROTEIN ENG DES SEL, V20, P453, DOI 10.1039/protein/gzm045
+   Ichinose H, 2004, LANGMUIR, V20, P5564, DOI 10.1021/la049752n
+   Leibundgut M, 2008, CURR OPIN STRUC BIOL, V18, P714, DOI 10.1016/j.sbi.2008.09.008
+   Jiang YJ, 2009, J MATER CHEM, V19, P9068, DOI 10.1039/b914268a
+   Jongsma MA, 2006, PROTEOMICS, V6, P2650, DOI 10.1002/pmic.200500654
+   Kamiya N, 2003, ENZYME MICROB TECH, V33, P492, DOI 10.1016/S0141-0229(03)00154-6
+   Kamiya N, 2003, BIOCONJUGATE CHEM, V14, P351, DOI 10.1021/bc025610y
+   Keighron JD, 2010, LANGMUIR, V26, P18992, DOI 10.1021/la1040882
+   Kitaoka M, 2011, CHEM-EUR J, V17, P5387, DOI 10.1002/chem.201003744
+   Koglin A, 2009, NAT PROD REP, V26, P987, DOI 10.1039/b904543k
+   Kreft O, 2007, ANGEW CHEM INT EDIT, V46, P5605, DOI 10.1002/anie.200701173
+   Lankin VZ, 2002, BIOCHEMISTRY-MOSCOW+, V67, P566, DOI 10.1023/A:1015502429453
+   Leng Y, 2010, ANGEW CHEM INT EDIT, V49, P7243, DOI 10.1002/anie.201002452
+   Lombard J, 2011, BMC EVOL BIOL, V11, DOI 10.1186/1471-2148-11-232
+   Lovrinovic M, 2005, MOL BIOSYST, V1, P64, DOI 10.1039/b503839a
+   Lovrinovic M, 2003, CHEM COMMUN, P822, DOI 10.1039/b212294d
+   Maier T, 2008, SCIENCE, V321, P1315, DOI 10.1126/science.1161269
+   Mao HY, 2004, J AM CHEM SOC, V126, P2670, DOI 10.1021/ja039915e
+   Mateo C, 2006, TETRAHEDRON-ASYMMETR, V17, P320, DOI 10.1016/j.tetasy.2006.01.020
+   Matsumoto R, 2010, PHYS CHEM CHEM PHYS, V12, P13904, DOI 10.1039/c0cp00556h
+   Matsumoto T, 2011, J BIOTECHNOL, V152, P37, DOI 10.1016/j.jbiotec.2011.01.008
+   MCGARVEY DJ, 1995, PLANT CELL, V7, P1015, DOI 10.2307/3870054
+   Meier JL, 2009, CHEM SOC REV, V38, P2012, DOI 10.1039/b805115c
+   Men D, 2009, NANO LETT, V9, P2246, DOI 10.1021/nl9003464
+   Meyer FM, 2011, METAB ENG, V13, P18, DOI 10.1016/j.ymben.2010.10.001
+   Michizoe J, 2005, J BIOSCI BIOENG, V99, P12, DOI 10.1263/jbb.99.012
+   Miles EW, 1999, J BIOL CHEM, V274, P12193, DOI 10.1074/jbc.274.18.12193
+   Mitsuzawa S, 2009, J BIOTECHNOL, V143, P139, DOI 10.1016/j.jbiotec.2009.06.019
+   Mohlmann S, 2011, CHEMBIOCHEM, V12, P1774, DOI 10.1002/cbic.201100002
+   Moon TS, 2010, METAB ENG, V12, P298, DOI 10.1016/j.ymben.2010.01.003
+   Morais S, 2010, J BIOTECHNOL, V147, P205, DOI 10.1016/j.jbiotec.2010.04.012
+   Morais S, 2010, MBIO, V1, DOI 10.1128/mBio.00285-10
+   Muller J, 2008, BIOCHEM BIOPH RES CO, V377, P62, DOI 10.1016/j.bbrc.2008.09.078
+   Muona M, 2008, CHEMBIOCHEM, V9, P2958, DOI 10.1002/cbic.200800604
+   Nielsen KA, 2008, PHYTOCHEMISTRY, V69, P88, DOI 10.1016/j.phytochem.2007.06.033
+   Niemeyer CM, 2002, CHEMBIOCHEM, V3, P242, DOI 10.1002/1439-7633(20020301)3:2/3<242::AID-CBIC242>3.0.CO;2-F
+   Pantarotto D, 2008, CHEM COMMUN, P1533, DOI 10.1039/b715310d
+   Piperberg G, 2009, J AM CHEM SOC, V131, P8724, DOI 10.1021/ja900718m
+   Plaxton WC, 1996, ANNU REV PLANT PHYS, V47, P185, DOI 10.1146/annurev.arplant.47.1.185
+   Pritz S, 2007, J ORG CHEM, V72, P3909, DOI 10.1021/jo0623311
+   Qi W, 2009, BIOMACROMOLECULES, V10, P1212, DOI 10.1021/bm801502r
+   Ricca E, 2011, ADV SYNTH CATAL, V353, P2239, DOI 10.1002/adsc.201100256
+   Ryan JD, 2008, BIOTECHNOL BIOENG, V99, P1311, DOI 10.1002/bit.21772
+   Sacca B, 2010, ANGEW CHEM INT EDIT, V49, P9378, DOI 10.1002/anie.201005931
+   Sakamoto T, 2010, BIOCONJUGATE CHEM, V21, P2227, DOI 10.1021/bc100206z
+   Santacoloma PA, 2011, ORG PROCESS RES DEV, V15, P203, DOI 10.1021/op1002159
+   Shen B, 2003, CURR OPIN CHEM BIOL, V7, P285, DOI 10.1016/S1367-5931(03)00020-6
+   Shi JF, 2011, ACS APPL MATER INTER, V3, P881, DOI 10.1021/am101241u
+   Shi JX, 2005, J AM CHEM SOC, V127, P6198, DOI 10.1021/ja042287w
+   Sibbesen O, 1996, J BIOL CHEM, V271, P22462
+   Smolle M, 2006, BIOCHEM SOC T, V34, P815
+   Sommer S, 2011, ANGEW CHEM INT EDIT, V50, P9888, DOI 10.1002/anie.201102531
+   Staunton J, 2001, NAT PROD REP, V18, P380, DOI 10.1039/a909079g
+   SUSS KH, 1993, P NATL ACAD SCI USA, V90, P5514, DOI 10.1073/pnas.90.12.5514
+   Takazawa T, 2004, BIOTECHNOL BIOENG, V86, P399, DOI 10.1002/bit.20019
+   Takeda S, 2005, TETRAHEDRON LETT, V46, P2235, DOI 10.1016/j.tetlet.2005.02.018
+   Takeda S, 2004, BIOORG MED CHEM LETT, V14, P2407, DOI 10.1016/j.bmcl.2004.03.023
+   Takeda S, 2008, ORG BIOMOL CHEM, V6, P2187, DOI 10.1039/b720013g
+   Tanaka T, 2005, FEBS LETT, V579, P2092, DOI 10.1016/j.febslet.2005.02.064
+   Tanaka T, 2004, BIOCONJUGATE CHEM, V15, P491, DOI 10.1021/bc034209o
+   Tanaka T, 2008, CHEMBIOCHEM, V9, P802, DOI 10.1002/cbic.200700614
+   Tepper AWJW, 2010, J AM CHEM SOC, V132, P6550, DOI 10.1021/ja101515y
+   THAUER RK, 1988, EUR J BIOCHEM, V176, P497, DOI 10.1111/j.1432-1033.1988.tb14307.x
+   Thoden JB, 1997, BIOCHEMISTRY-US, V36, P6305, DOI 10.1021/bi970503q
+   Tominaga J, 2007, CHEM COMMUN, P401, DOI 10.1039/b613793h
+   Tong L, 2005, CELL MOL LIFE SCI, V62, P1784, DOI 10.1007/s00018-005-5121-4
+   van de Velde F, 2000, BIOTECHNOL BIOENG, V69, P286, DOI 10.1002/1097-0290(20000805)69:3<286::AID-BIT6>3.3.CO;2-I
+   van Dongen SFM, 2009, CHEM-EUR J, V15, P1107, DOI 10.1002/chem.200802114
+   van Pelt S, 2009, ADV SYNTH CATAL, V351, P397, DOI 10.1002/adsc.200800625
+   Vriezema DM, 2007, ANGEW CHEM INT EDIT, V46, P7378, DOI 10.1002/anie.200701125
+   Weikart ND, 2010, CHEMBIOCHEM, V11, P774, DOI 10.1002/cbic.200900738
+   Wilner OI, 2009, NAT NANOTECHNOL, V4, P249, DOI [10.1038/nnano.2009.50, 10.1038/NNANO.2009.50]
+   Winkel-Shirley B, 2001, PLANT PHYSIOL, V126, P485, DOI 10.1104/pp.126.2.485
+   Xiao JP, 2009, ORG LETT, V11, P4144, DOI 10.1021/ol9016468
+   Xu R, 1999, P NATL ACAD SCI USA, V96, P388, DOI 10.1073/pnas.96.2.388
+   Yamamura Y, 2011, CHEM COMMUN, V47, P4742, DOI 10.1039/c0cc05334a
+   Yokoyama K, 2004, APPL MICROBIOL BIOT, V64, P447, DOI 10.1007/s00253-003-1539-5
+   Zhang L, 2011, GREEN CHEM, V13, P300, DOI 10.1039/c0gc00432d
+   Zuger S, 2005, NAT BIOTECHNOL, V23, P736, DOI 10.1038/nbt1097
+NR 109
+TC 0
+Z9 0
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1022-5528
+J9 TOP CATAL
+JI Top. Catal.
+PD NOV
+PY 2012
+VL 55
+IS 16-18
+BP 1124
+EP 1137
+DI 10.1007/s11244-012-9900-5
+PG 14
+WC Chemistry, Applied; Chemistry, Physical
+SC Chemistry
+GA 043JO
+UT WOS:000311539700008
+ER
+
+PT J
+AU Hirakawa, H
+   Harwood, CS
+   Pechter, KB
+   Schaefer, AL
+   Greenberg, EP
+AF Hirakawa, Hidetada
+   Harwood, Caroline S.
+   Pechter, Kieran B.
+   Schaefer, Amy L.
+   Greenberg, E. Peter
+TI Antisense RNA that affects Rhodopseudomonas palustris quorum-sensing
+   signal receptor expression
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE bacterial communication; translational control
+ID PSEUDOMONAS-AERUGINOSA; AGROBACTERIUM-TUMEFACIENS; TRANSCRIPTION FACTOR;
+   VIBRIO-FISCHERI; GENE-REGULATION; ANTI-ACTIVATOR; BACTERIA; PROTEIN;
+   TRANSLATION; MUTAGENESIS
+AB Quorum sensing in the bacterium Rhodopseudomonas palustris involves the RpaI signal synthase, which produces p-coumaroyl-homoserine lactone (pC-HSL) and RpaR, which is a pC-HSL-dependent transcriptional activator. There is also an antisense rpaR transcript (asrpaR) of unknown function. Recent RNAseq studies have revealed that bacterial antisense RNAs are abundant, but little is known about the function of these molecules. Because asrpaR expression is quorum sensing dependent, we sought to characterize its production and function. We show that asrpaR is approximately 300-600 bases and is produced in response to pC-HSL and RpaR. There is an RpaR-binding site centered 51.5 bp from the mapped asrpaR transcript start site. We show that asrpaR overexpression reduces RpaR levels, rpaI expression, and pC-HSL production. We also generated an asrpaR mutant, which shows elevated RpaR levels, and elevated rpaI expression. Thus, asrpaR inhibits rpaR translation, and this inhibition results in suppression of RpaR-dependent rpaI expression and, thus, pC-HSL production. The R. palustris asrpaR represents an antisense RNA for which an activity can be measured and for which a distinct regulatory circuit related to a function is elucidated. It also represents yet another subtle regulatory layer for acyl-homoserine lactone quorum-sensing signal-responsive transcription factors.
+C1 Univ Washington, Sch Med, Dept Microbiol, Seattle, WA 98195 USA.
+RP Greenberg, EP (reprint author), Univ Washington, Sch Med, Dept Microbiol, Seattle, WA 98195 USA.
+EM epgreen@uw.edu
+FU Army Research Office [W911NF-09-1-0350]; Japan Society for the Promotion
+   of Science; Uehara Memorial Foundation; Cell Science Research Foundation
+FX We thank Chongle Pan for help with the proteomics analysis. Support was
+   received from Army Research Office Grant W911NF-09-1-0350. H.H. was
+   supported by fellowships from the Japan Society for the Promotion of
+   Science, the Uehara Memorial Foundation, and the Cell Science Research
+   Foundation.
+CR BLOMBERG P, 1990, EMBO J, V9, P2331
+   Bouvier M, 2008, MOL CELL, V32, P827, DOI 10.1016/j.molcel.2008.10.027
+   Chai Y, 2001, MOL MICROBIOL, V40, P414, DOI 10.1046/j.1365-2958.2001.02385.x
+   CHOI SH, 1991, P NATL ACAD SCI USA, V88, P11115, DOI 10.1073/pnas.88.24.11115
+   Darfeuille F, 2007, MOL CELL, V26, P381, DOI 10.1016/j.molcel.2007.04.003
+   Egland KA, 1999, MOL MICROBIOL, V31, P1197, DOI 10.1046/j.1365-2958.1999.01261.x
+   Filiatrault MJ, 2010, J BACTERIOL, V192, P2359, DOI 10.1128/JB.01445-09
+   Fuqua C, 1996, ANNU REV MICROBIOL, V50, P727, DOI 10.1146/annurev.micro.50.1.727
+   Georg J, 2011, MICROBIOL MOL BIOL R, V75, P286, DOI 10.1128/MMBR.00032-10
+   Georg J, 2009, MOL SYST BIOL, V5, DOI 10.1038/msb.2009.63
+   Hirakawa H, 2011, J BACTERIOL, V193, P2598, DOI 10.1128/JB.01479-10
+   Hoang TT, 2000, PLASMID, V43, P59, DOI 10.1006/plas.1999.1441
+   HORTON RM, 1995, MOL BIOTECHNOL, V3, P93, DOI 10.1007/BF02789105
+   HWANG IY, 1995, J BACTERIOL, V177, P449
+   Kawano M, 2007, MOL MICROBIOL, V64, P738, DOI 10.1111/j.1365-2958.2007.05688.x
+   KIM MK, 1991, FEMS MICROBIOL LETT, V83, P199, DOI 10.1111/j.1574-6968.1991.tb04441.x
+   KOVACH ME, 1995, GENE, V166, P175, DOI 10.1016/0378-1119(95)00584-1
+   Larimer FW, 2004, NAT BIOTECHNOL, V22, P55, DOI 10.1038/nbt923
+   Lee EJ, 2010, MOL MICROBIOL, V76, P1020, DOI 10.1111/j.1365-2958.2010.07161.x
+   Lee JH, 2006, MOL MICROBIOL, V59, P602, DOI 10.1111/j.1365-2958.2005.04960.x
+   Majdalani N, 1998, P NATL ACAD SCI USA, V95, P12462, DOI 10.1073/pnas.95.21.12462
+   McKinlay JB, 2010, P NATL ACAD SCI USA, V107, P11669, DOI 10.1073/pnas.1006175107
+   Pan C, 2008, MOL CELL PROTEOMICS, V7, P938, DOI 10.1074/mcp.M700147-MCP200
+   PRENTKI P, 1984, GENE, V29, P303, DOI 10.1016/0378-1119(84)90059-3
+   QUANDT J, 1993, GENE, V127, P15, DOI 10.1016/0378-1119(93)90611-6
+   Rey FE, 2007, APPL ENVIRON MICROB, V73, P1665, DOI 10.1128/AEM.02565-06
+   Schaefer AL, 2008, NATURE, V454, P595, DOI 10.1038/nature07088
+   Schu DJ, 2009, J BACTERIOL, V191, P7402, DOI 10.1128/JB.00994-09
+   Seet Q, 2011, MOL MICROBIOL, V80, P951, DOI 10.1111/j.1365-2958.2011.07622.x
+   Siehnel R, 2010, P NATL ACAD SCI USA, V107, P7916, DOI 10.1073/pnas.0908511107
+   Silby MW, 2008, PLOS GENET, V4, DOI 10.1371/journal.pgen.1000094
+   Simon R, 1983, BIOTECHNOLOGY, V1, P37
+   Su SC, 2008, J BACTERIOL, V190, P4398, DOI 10.1128/JB.01684-07
+   Swiderska A, 2001, J BIOL CHEM, V276, P49449, DOI 10.1074/jbc.M107881200
+   Thomason MK, 2010, ANNU REV GENET, V44, P167, DOI 10.1146/annurev-genet-102209-163523
+   Tsai CS, 2011, MOL MICROBIOL, V80, P556, DOI 10.1111/j.1365-2958.2011.07595.x
+   Waters CM, 2005, ANNU REV CELL DEV BI, V21, P319, DOI 10.1146/annurev.cellbio.21.012704.131001
+   Zhu J, 2003, APPL ENVIRON MICROB, V69, P6949, DOI 10.1128/AEM.69.11.6949-6953.2003
+   Zhu J, 1998, J BACTERIOL, V180, P5398
+NR 39
+TC 2
+Z9 2
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 24
+PY 2012
+VL 109
+IS 30
+BP 12141
+EP 12146
+DI 10.1073/pnas.1200243109
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 981TD
+UT WOS:000306992700056
+ER
+
+PT J
+AU Sato, S
+   Tabata, S
+   Hirakawa, H
+   Asamizu, E
+   Shirasawa, K
+   Isobe, S
+   Kaneko, T
+   Nakamura, Y
+   Shibata, D
+   Aoki, K
+   Egholm, M
+   Knight, J
+   Bogden, R
+   Li, CB
+   Shuang, Y
+   Xu, X
+   Pan, SK
+   Cheng, SF
+   Liu, X
+   Ren, YY
+   Wang, J
+   Albiero, A
+   Dal Pero, F
+   Todesco, S
+   Van Eck, J
+   Buels, RM
+   Bombarely, A
+   Gosselin, JR
+   Huang, MY
+   Leto, JA
+   Menda, N
+   Strickler, S
+   Mao, LY
+   Gao, S
+   Tecle, IY
+   York, T
+   Zheng, Y
+   Vrebalov, JT
+   Lee, J
+   Zhong, SL
+   Mueller, LA
+   Stiekema, WJ
+   Ribeca, P
+   Alioto, T
+   Yang, WC
+   Huang, SW
+   Du, YC
+   Zhang, ZH
+   Gao, JC
+   Guo, YM
+   Wang, XX
+   Li, Y
+   He, J
+   Li, CY
+   Cheng, ZK
+   Zuo, JR
+   Ren, JF
+   Zhao, JH
+   Yan, LH
+   Jiang, HL
+   Wang, B
+   Li, HS
+   Li, ZJ
+   Fu, FY
+   Chen, BT
+   Han, B
+   Feng, Q
+   Fan, DL
+   Wang, Y
+   Ling, HQ
+   Xue, YBA
+   Ware, D
+   McCombie, WR
+   Lippman, ZB
+   Chia, JM
+   Jiang, K
+   Pasternak, S
+   Gelley, L
+   Kramer, M
+   Anderson, LK
+   Chang, SB
+   Royer, SM
+   Shearer, LA
+   Stack, SM
+   Rose, JKC
+   Xu, YM
+   Eannetta, N
+   Matas, AJ
+   McQuinn, R
+   Tanksley, SD
+   Camara, F
+   Guigo, R
+   Rombauts, S
+   Fawcett, J
+   Van de Peer, Y
+   Zamir, D
+   Liang, CB
+   Spannagl, M
+   Gundlach, H
+   Bruggmann, R
+   Mayer, K
+   Jia, ZQ
+   Zhang, JH
+   Ye, ZBA
+   Bishop, GJ
+   Butcher, S
+   Lopez-Cobollo, R
+   Buchan, D
+   Filippis, I
+   Abbott, J
+   Dixit, R
+   Singh, M
+   Singh, A
+   Pal, JK
+   Pandit, A
+   Singh, PK
+   Mahato, AK
+   Dogra, V
+   Gaikwad, K
+   Sharma, TR
+   Mohapatra, T
+   Singh, NK
+   Causse, M
+   Rothan, C
+   Schiex, T
+   Noirot, C
+   Bellec, A
+   Klopp, C
+   Delalande, C
+   Berges, H
+   Mariette, J
+   Frasse, P
+   Vautrin, S
+   Zouine, M
+   Latche, A
+   Rousseau, C
+   Regad, F
+   Pech, JC
+   Philippot, M
+   Bouzayen, M
+   Pericard, P
+   Osorio, S
+   del Carmen, AF
+   Monforte, A
+   Granell, A
+   Fernandez-Munoz, R
+   Conte, M
+   Lichtenstein, G
+   Carrari, F
+   De Bellis, G
+   Fuligni, F
+   Peano, C
+   Grandillo, S
+   Termolino, P
+   Pietrella, M
+   Fantini, E
+   Falcone, G
+   Fiore, A
+   Giuliano, G
+   Lopez, L
+   Facella, P
+   Perrotta, G
+   Daddiego, L
+   Bryan, G
+   Orozco, M
+   Pastor, X
+   Torrents, D
+   van Schriek, KNVMGM
+   Feron, RMC
+   van Oeveren, J
+   de Heer, P
+   daPonte, L
+   Jacobs-Oomen, S
+   Cariaso, M
+   Prins, M
+   van Eijk, MJT
+   Janssen, A
+   van Haaren, MJJ
+   Jo, SH
+   Kim, J
+   Kwon, SY
+   Kim, S
+   Koo, DH
+   Lee, S
+   Hur, CG
+   Clouser, C
+   Rico, A
+   Hallab, A
+   Gebhardt, C
+   Klee, K
+   Jocker, A
+   Warfsmann, J
+   Gobel, U
+   Kawamura, S
+   Yano, K
+   Sherman, JD
+   Fukuoka, H
+   Negoro, S
+   Bhutty, S
+   Chowdhury, P
+   Chattopadhyay, D
+   Datema, E
+   Smit, S
+   Schijlen, EWM
+   van de Belt, J
+   van Haarst, JC
+   Peters, SA
+   van Staveren, MJ
+   Henkens, MHC
+   Mooyman, PJW
+   Hesselink, T
+   van Ham, RCHJ
+   Jiang, GY
+   Droege, M
+   Choi, D
+   Kang, BC
+   Kim, BD
+   Park, M
+   Kim, S
+   Yeom, SI
+   Lee, YH
+   Choi, YD
+   Li, GC
+   Gao, JW
+   Liu, YS
+   Huang, SX
+   Fernandez-Pedrosa, V
+   Collado, C
+   Zuniga, S
+   Wang, GP
+   Cade, R
+   Dietrich, RA
+   Rogers, J
+   Knapp, S
+   Fei, ZJ
+   White, RA
+   Thannhauser, TW
+   Giovannoni, JJ
+   Botella, MA
+   Gilbert, L
+   Gonzalez, R
+   Goicoechea, JL
+   Yu, Y
+   Kudrna, D
+   Collura, K
+   Wissotski, M
+   Wing, R
+   Schoof, H
+   Meyers, BC
+   Gurazada, AB
+   Green, PJ
+   Mathur, S
+   Vyas, S
+   Solanke, AU
+   Kumar, R
+   Gupta, V
+   Sharma, AK
+   Khurana, P
+   Khurana, JP
+   Tyagi, AK
+   Dalmay, T
+   Mohorianu, I
+   Walts, B
+   Chamala, S
+   Barbazuk, WB
+   Li, JP
+   Guo, H
+   Lee, TH
+   Wang, YP
+   Zhang, D
+   Paterson, AH
+   Wang, XY
+   Tang, HB
+   Barone, A
+   Chiusano, ML
+   Ercolano, MR
+   D'Agostino, N
+   Di Filippo, M
+   Traini, A
+   Sanseverino, W
+   Frusciante, L
+   Seymour, GB
+   Elharam, M
+   Fu, Y
+   Hua, A
+   Kenton, S
+   Lewis, J
+   Lin, SP
+   Najar, F
+   Lai, HS
+   Qin, BF
+   Qu, CM
+   Shi, RH
+   White, D
+   White, J
+   Xing, YB
+   Yang, KQ
+   Yi, J
+   Yao, ZY
+   Zhou, LP
+   Roe, BA
+   Vezzi, A
+   D'Angelo, M
+   Zimbello, R
+   Schiavon, R
+   Caniato, E
+   Rigobello, C
+   Campagna, D
+   Vitulo, N
+   Valle, G
+   Nelson, DR
+   De Paoli, E
+   Szinay, D
+   de Jong, HH
+   Bai, YL
+   Visser, RGF
+   Lankhorst, RMK
+   Beasley, H
+   McLaren, K
+   Nicholson, C
+   Riddle, C
+   Gianese, G
+AF Sato, Shusei
+   Tabata, Satoshi
+   Hirakawa, Hideki
+   Asamizu, Erika
+   Shirasawa, Kenta
+   Isobe, Sachiko
+   Kaneko, Takakazu
+   Nakamura, Yasukazu
+   Shibata, Daisuke
+   Aoki, Koh
+   Egholm, Michael
+   Knight, James
+   Bogden, Robert
+   Li, Changbao
+   Shuang, Yang
+   Xu, Xun
+   Pan, Shengkai
+   Cheng, Shifeng
+   Liu, Xin
+   Ren, Yuanyuan
+   Wang, Jun
+   Albiero, Alessandro
+   Dal Pero, Francesca
+   Todesco, Sara
+   Van Eck, Joyce
+   Buels, Robert M.
+   Bombarely, Aureliano
+   Gosselin, Joseph R.
+   Huang, Minyun
+   Leto, Jonathan A.
+   Menda, Naama
+   Strickler, Susan
+   Mao, Linyong
+   Gao, Shan
+   Tecle, Isaak Y.
+   York, Thomas
+   Zheng, Yi
+   Vrebalov, Julia T.
+   Lee, JeMin
+   Zhong, Silin
+   Mueller, Lukas A.
+   Stiekema, Willem J.
+   Ribeca, Paolo
+   Alioto, Tyler
+   Yang, Wencai
+   Huang, Sanwen
+   Du, Yongchen
+   Zhang, Zhonghua
+   Gao, Jianchang
+   Guo, Yanmei
+   Wang, Xiaoxuan
+   Li, Ying
+   He, Jun
+   Li, Chuanyou
+   Cheng, Zhukuan
+   Zuo, Jianru
+   Ren, Jianfeng
+   Zhao, Jiuhai
+   Yan, Liuhua
+   Jiang, Hongling
+   Wang, Bao
+   Li, Hongshuang
+   Li, Zhenjun
+   Fu, Fuyou
+   Chen, Bingtang
+   Han, Bin
+   Feng, Qi
+   Fan, Danlin
+   Wang, Ying
+   Ling, Hongqing
+   Xue, Yongbiao
+   Ware, Doreen
+   McCombie, W. Richard
+   Lippman, Zachary B.
+   Chia, Jer-Ming
+   Jiang, Ke
+   Pasternak, Shiran
+   Gelley, Laura
+   Kramer, Melissa
+   Anderson, Lorinda K.
+   Chang, Song-Bin
+   Royer, Suzanne M.
+   Shearer, Lindsay A.
+   Stack, Stephen M.
+   Rose, Jocelyn K. C.
+   Xu, Yimin
+   Eannetta, Nancy
+   Matas, Antonio J.
+   McQuinn, Ryan
+   Tanksley, Steven D.
+   Camara, Francisco
+   Guigo, Roderic
+   Rombauts, Stephane
+   Fawcett, Jeffrey
+   Van de Peer, Yves
+   Zamir, Dani
+   Liang, Chunbo
+   Spannagl, Manuel
+   Gundlach, Heidrun
+   Bruggmann, Remy
+   Mayer, Klaus
+   Jia, Zhiqi
+   Zhang, Junhong
+   Ye, Zhibiao
+   Bishop, Gerard J.
+   Butcher, Sarah
+   Lopez-Cobollo, Rosa
+   Buchan, Daniel
+   Filippis, Ioannis
+   Abbott, James
+   Dixit, Rekha
+   Singh, Manju
+   Singh, Archana
+   Pal, Jitendra Kumar
+   Pandit, Awadhesh
+   Singh, Pradeep Kumar
+   Mahato, Ajay Kumar
+   Dogra, Vivek
+   Gaikwad, Kishor
+   Sharma, Tilak Raj
+   Mohapatra, Trilochan
+   Singh, Nagendra Kumar
+   Causse, Mathilde
+   Rothan, Christophe
+   Schiex, Thomas
+   Noirot, Celine
+   Bellec, Arnaud
+   Klopp, Christophe
+   Delalande, Corinne
+   Berges, Helene
+   Mariette, Jerome
+   Frasse, Pierre
+   Vautrin, Sonia
+   Zouine, Mohamed
+   Latche, Alain
+   Rousseau, Christine
+   Regad, Farid
+   Pech, Jean-Claude
+   Philippot, Murielle
+   Bouzayen, Mondher
+   Pericard, Pierre
+   Osorio, Sonia
+   Fernandez del Carmen, Asuncion
+   Monforte, Antonio
+   Granell, Antonio
+   Fernandez-Munoz, Rafael
+   Conte, Mariana
+   Lichtenstein, Gabriel
+   Carrari, Fernando
+   De Bellis, Gianluca
+   Fuligni, Fabio
+   Peano, Clelia
+   Grandillo, Silvana
+   Termolino, Pasquale
+   Pietrella, Marco
+   Fantini, Elio
+   Falcone, Giulia
+   Fiore, Alessia
+   Giuliano, Giovanni
+   Lopez, Loredana
+   Facella, Paolo
+   Perrotta, Gaetano
+   Daddiego, Loretta
+   Bryan, Glenn
+   Orozco, Modesto
+   Pastor, Xavier
+   Torrents, David
+   van Schriek, Keygene N. V. Marco G. M.
+   Feron, Richard M. C.
+   van Oeveren, Jan
+   de Heer, Peter
+   daPonte, Lorena
+   Jacobs-Oomen, Saskia
+   Cariaso, Mike
+   Prins, Marcel
+   van Eijk, Michiel J. T.
+   Janssen, Antoine
+   van Haaren, Mark J. J.
+   Jo, Sung-Hwan
+   Kim, Jungeun
+   Kwon, Suk-Yoon
+   Kim, Sangmi
+   Koo, Dal-Hoe
+   Lee, Sanghyeob
+   Hur, Cheol-Goo
+   Clouser, Christopher
+   Rico, Alain
+   Hallab, Asis
+   Gebhardt, Christiane
+   Klee, Kathrin
+   Joecker, Anika
+   Warfsmann, Jens
+   Goebel, Ulrike
+   Kawamura, Shingo
+   Yano, Kentaro
+   Sherman, Jamie D.
+   Fukuoka, Hiroyuki
+   Negoro, Satomi
+   Bhutty, Sarita
+   Chowdhury, Parul
+   Chattopadhyay, Debasis
+   Datema, Erwin
+   Smit, Sandra
+   Schijlen, Eliog. W. M.
+   van de Belt, Jose
+   van Haarst, Jan C.
+   Peters, Sander A.
+   van Staveren, Marjo J.
+   Henkens, Marleen H. C.
+   Mooyman, Paul J. W.
+   Hesselink, Thamara
+   van Ham, Roeland C. H. J.
+   Jiang, Guoyong
+   Droege, Marcus
+   Choi, Doil
+   Kang, Byung-Cheol
+   Kim, Byung Dong
+   Park, Minkyu
+   Kim, Seungill
+   Yeom, Seon-In
+   Lee, Yong-Hwan
+   Choi, Yang-Do
+   Li, Guangcun
+   Gao, Jianwei
+   Liu, Yongsheng
+   Huang, Shengxiong
+   Fernandez-Pedrosa, Victoria
+   Collado, Carmen
+   Zuniga, Sheila
+   Wang, Guoping
+   Cade, Rebecca
+   Dietrich, Robert A.
+   Rogers, Jane
+   Knapp, Sandra
+   Fei, Zhangjun
+   White, Ruth A.
+   Thannhauser, Theodore W.
+   Giovannoni, James J.
+   Angel Botella, Miguel
+   Gilbert, Louise
+   Gonzalez, Ramon
+   Goicoechea, Jose Luis
+   Yu, Yeisoo
+   Kudrna, David
+   Collura, Kristi
+   Wissotski, Marina
+   Wing, Rod
+   Schoof, Heiko
+   Meyers, Blake C.
+   Gurazada, Aishwarya Bala
+   Green, Pamela J.
+   Mathur, Saloni
+   Vyas, Shailendra
+   Solanke, Amolkumar U.
+   Kumar, Rahul
+   Gupta, Vikrant
+   Sharma, Arun K.
+   Khurana, Paramjit
+   Khurana, Jitendra P.
+   Tyagi, Akhilesh K.
+   Dalmay, Tamas
+   Mohorianu, Irina
+   Walts, Brandon
+   Chamala, Srikar
+   Barbazuk, W. Brad
+   Li, Jingping
+   Guo, Hui
+   Lee, Tae-Ho
+   Wang, Yupeng
+   Zhang, Dong
+   Paterson, Andrew H.
+   Wang, Xiyin
+   Tang, Haibao
+   Barone, Amalia
+   Chiusano, Maria Luisa
+   Ercolano, Maria Raffaella
+   D'Agostino, Nunzio
+   Di Filippo, Miriam
+   Traini, Alessandra
+   Sanseverino, Walter
+   Frusciante, Luigi
+   Seymour, Graham B.
+   Elharam, Mounir
+   Fu, Ying
+   Hua, Axin
+   Kenton, Steven
+   Lewis, Jennifer
+   Lin, Shaoping
+   Najar, Fares
+   Lai, Hongshing
+   Qin, Baifang
+   Qu, Chunmei
+   Shi, Ruihua
+   White, Douglas
+   White, James
+   Xing, Yanbo
+   Yang, Keqin
+   Yi, Jing
+   Yao, Ziyun
+   Zhou, Liping
+   Roe, Bruce A.
+   Vezzi, Alessandro
+   D'Angelo, Michela
+   Zimbello, Rosanna
+   Schiavon, Riccardo
+   Caniato, Elisa
+   Rigobello, Chiara
+   Campagna, Davide
+   Vitulo, Nicola
+   Valle, Giorgio
+   Nelson, David R.
+   De Paoli, Emanuele
+   Szinay, Dora
+   de Jong, Hans H.
+   Bai, Yuling
+   Visser, Richard G. F.
+   Lankhorst, Rene M. Klein
+   Beasley, Helen
+   McLaren, Karen
+   Nicholson, Christine
+   Riddle, Claire
+   Gianese, Giulio
+CA Tomato Genome Consortium
+TI The tomato genome sequence provides insights into fleshy fruit evolution
+SO NATURE
+LA English
+DT Article
+ID LYCOPERSICON-ESCULENTUM; GENE; DIVERSIFICATION; ARABIDOPSIS; PATTERNS;
+   ORTHOLOG; HISTORY; SORGHUM; POTATO
+AB Tomato (Solanum lycopersicum) is a major crop plant and a model system for fruit development. Solanum is one of the largest angiosperm genera(1) and includes annual and perennial plants from diverse habitats. Here we present a high-quality genome sequence of domesticated tomato, a draft sequence of its closest wild relative, Solanum pimpinellifolium(2), and compare them to each other and to the potato genome (Solanum tuberosum). The two tomato genomes show only 0.6% nucleotide divergence and signs of recent admixture, but show more than 8% divergence from potato, with nine large and several smaller inversions. In contrast to Arabidopsis, but similar to soybean, tomato and potato small RNAs map predominantly to gene-rich chromosomal regions, including gene promoters. The Solanum lineage has experienced two consecutive genome triplications: one that is ancient and shared with rosids, and a more recent one. These triplications set the stage for the neofunctionalization of genes controlling fruit characteristics, such as colour and fleshiness.
+C1 Kazusa DNA Res Inst, Kisarazu, Chiba 2920818, Japan.
+   454 Life Sci, Branford, CT 06405 USA.
+   Amplicon Express Inc, Pullman, WA 99163 USA.
+   Beijing Acad Agr & Forestry Sci, Beijing Vegetable Res Ctr, Beijing 100097, Peoples R China.
+   BGI Shenzhen, Shenzhen 518083, Peoples R China.
+   Chinese Acad Sci, Natl Ctr Gene Res, Shanghai 200233, Peoples R China.
+   BMR Genom SrL, I-35131 Padua, Italy.
+   Cornell Univ, Boyce Thompson Inst Plant Res, Ithaca, NY 14853 USA.
+   Ctr BioSyst Genom, NL-6700 AB Wageningen, Netherlands.
+   CNAG, Barcelona 08028, Spain.
+   China Agr Univ, Coll Agron & Biotechnol, Dept Vegetable Sci, Beijing 100193, Peoples R China.
+   Chinese Acad Agr Sci, Inst Vegetables & Flowers, Sinodutch Joint Lab Hort Genom Technol, Key Lab Hort Crops Genet Improvement,Minist Agr, Beijing 100081, Peoples R China.
+   Chinese Acad Sci, Inst Genet & Dev Biol, State Key Lab Plant Genom, Beijing 100101, Peoples R China.
+   Chinese Acad Sci, Inst Genet & Dev Biol, Natl Ctr Plant Gene Res, Beijing 100101, Peoples R China.
+   Chinese Acad Sci, Wuhan Bot Garden, Wuhan 430074, Peoples R China.
+   Chinese Acad Sci, Inst Genet & Dev Biol, State Key Lab Plant Cell & Chromosome Engn, Beijing 100101, Peoples R China.
+   Chinese Acad Sci, Inst Genet & Dev Biol, Mol & Dev Biol Lab, Beijing 100080, Peoples R China.
+   Cold Spring Harbor Lab, Cold Spring Harbor, NY 11724 USA.
+   Colorado State Univ, Dept Biol, Ft Collins, CO 80523 USA.
+   Natl Taiwan Univ, Dept Agron, Taipei 107, Taiwan.
+   Cornell Univ, Dept Plant Biol, Ithaca, NY 14853 USA.
+   Univ Pompeu Fabra, CRG, Genome Bioinformat Lab, GRIB IMIM, Barcelona 08003, Spain.
+   Univ Ghent VIB, Dept Plant Biotechnol & Bioinformat, Dept Plant Syst Biol, B-9052 Ghent, Belgium.
+   Hebrew Univ Jerusalem, Fac Agr, IL-76100 Rehovot, Israel.
+   Heilongjiang Acad Agr Sci, Inst Ind Crops, Harbin 150086, Peoples R China.
+   Helmholtz Ctr Hlth & Environm, Inst Bioinformat & Syst Biol MIPS, D-85764 Neuherberg, Germany.
+   Henan Agr Univ, Coll Hort, Zhengzhou 450002, Peoples R China.
+   Huazhong Agr Univ, Natl Key Lab Crop Genet Improvement, Wuhan 430070, Peoples R China.
+   Univ London Imperial Coll Sci Technol & Med, Dept Life Sci, London SW7 1AZ, England.
+   Indian Agr Res Inst, NRC Plant Biotechnol, New Delhi 110012, India.
+   INRA, Genet & Ameliorat Fruits & Legumes UR1052, F-84143 Montfavet, France.
+   INRA, F-33883 Villenave Dornon, France.
+   INRA, Unite Biometrie & Intelligence Artificielle UR 87, F-31320 Castanet Tolosan, France.
+   INRA CNRGV, F-31326 Castanet Tolosan, France.
+   INRA, Biometrie & Intelligence Artificielle UR875, F-31326 Castanet Tolosan, France.
+   Univ Toulouse, Inst Natl Polytech Toulouse ENSAT, F-31326 Castanet Tolosan, France.
+   Inst Biol Mol & Celular Plantas CSIC UPV, Valencia 46022, Spain.
+   Univ Malaga, CSIC, UMA, IHSM,Inst Hortofruticultura Subtrop & Mediterrane, Algarrobo Costa 29750, Malaga, Spain.
+   Natl Res Council Italy, Inst Biomed Technol, I-20090 Milan, Italy.
+   Natl Res Council Italy, Inst Plant Genet, Res Div Portici, I-80055 Naples, Italy.
+   ENEA, Casaccia Res Ctr, I-00123 Rome, Italy.
+   Scuola Super Sant Anna, I-56127 Pisa, Italy.
+   ENEA, Trisaia Res Ctr, I-75026 Rotondella, Matera, Italy.
+   James Hutton Inst, Dundee DD2 5DA, Scotland.
+   Barcelona Supercomp Ctr, Barcelona 08034, Spain.
+   Inst Biomed Res, Barcelona 08028, Spain.
+   Pg Lluis Co, ICREA, Barcelona 08010, Spain.
+   Keygene NV, NL-6708 PW Wageningen, Netherlands.
+   Korea Res Inst Biosci & Biotechnol, Plant Syst Engn Res Ctr, Taejon 305806, South Korea.
+   Life Technol, Beverly, MA 01915 USA.
+   Life Technol, F-91943 Courtaboeuf 3, France.
+   Max Planck Inst Plant Breeding Res, D-50829 Cologne, Germany.
+   Meiji Univ, Sch Agr, Tama Ku, Kawasaki, Kanagawa 2148571, Japan.
+   Montana State Univ, Dept Plant Sci & Plant Pathol, Bozeman, MT 59717 USA.
+   NARO Inst Vegetable & Tea Sci, Tsu, Mie 5142392, Japan.
+   Natl Inst Plant Genome Res, New Delhi 110067, India.
+   Plant Res Int, Business Unit Biosci, NL-6708 PB Wageningen, Netherlands.
+   Qingdao Agr Univ, Inst Plant Genet Engn, Qingdao 266109, Peoples R China.
+   Roche Appl Sci, D-82377 Penzberg, Germany.
+   Seoul Natl Univ, Dept Plant Sci, Seoul 151921, South Korea.
+   Seoul Natl Univ, Plant Genom & Breeding Inst, Seoul 151921, South Korea.
+   Seoul Natl Univ, Dept Agr Biotechnol, Seoul 151921, South Korea.
+   Seoul Natl Univ, Crop Funct Genom Ctr, Coll Agr & Life Sci, Seoul 151921, South Korea.
+   Shandong Acad Agr Sci, High Tech Res Ctr, Jinan 250000, Shandong, Peoples R China.
+   Shandong Acad Agr Sci, Inst Vegetables, Jinan 250100, Shandong, Peoples R China.
+   Sichuan Univ, Sch Life Sci, Chengdu 610064, Sichuan, Peoples R China.
+   Sistemas Genom, Paterna 46980, Valencia, Spain.
+   S China Agr Univ, Coll Hort, Guangzhou 510642, Guangdong, Peoples R China.
+   Syngenta Biotechnol Inc, Res Triangle Pk, NC 27709 USA.
+   Genome Anal Ctr, Norwich NR4 7UH, Norfolk, England.
+   Nat Hist Museum, Dept Bot, London SW7 5BD, England.
+   USDA ARS, Robert W Holley Ctr, Ithaca, NY 14853 USA.
+   Inst Hortofruticultura Subtrop & Mediterranea, Dept Biol Mol & Bioquim, Malaga 29071, Spain.
+   Univ Pompeu Fabra, Ctr Regulacio Genom, E-08003 Barcelona, Spain.
+   Univ Arizona, Sch Plant Sci, Inst Collaborat Res BIO 5, Arizona Genom Inst, Tucson, AZ 85721 USA.
+   Univ Bonn, Inst Crop Sci & Resource Conservat, D-53115 Bonn, Germany.
+   Univ Delaware, Dept Plant & Soil Sci, Newark, DE 19711 USA.
+   Univ Delaware, Delaware Biotechnol Inst, Newark, DE 19711 USA.
+   Univ Delhi S Campus, Interdisciplinary Ctr Plant Genom, New Delhi 110021, India.
+   Univ Delhi S Campus, Dept Plant Mol Biol, New Delhi 110021, India.
+   Univ E Anglia, Sch Biol Sci, Norwich NR4 7TJ, Norfolk, England.
+   Univ E Anglia, Sch Comp Sci, Norwich NR4 7TJ, Norfolk, England.
+   UF Genet Inst, Gainesville, FL 32610 USA.
+   Dept Biol, Gainesville, FL 32610 USA.
+   Univ Georgia, Plan Genome Mapping Lab, Athens, GA 30602 USA.
+   Hebei United Univ, Sch Life Sci, Ctr Genom & Computat Biol, Tangshan 063000, Hebei, Peoples R China.
+   Hebei United Univ, Sch Sci, Tangshan 063000, Hebei, Peoples R China.
+   J Craig Venter Inst, Rockville, MD 20850 USA.
+   Univ Naples Federico II, Dept Soil Plant Environm & Anim Prod Sci, I-80055 Naples, Italy.
+   Univ Nottingham, Div Plant & Crop Sci, Loughborough LE12 5RD, Leics, England.
+   Univ Oklahoma, Dept Chem & Biochem, Stephenson Res & Technol Ctr, Norman, OK 73019 USA.
+   Univ Padua, CRIBI, I-35131 Padua, Italy.
+   Univ Tennessee, Hlth Sci Ctr, Dept Microbiol Immunol & Biochem, Memphis, TN 38163 USA.
+   Univ Udine, Dept Agr & Environm Sci, I-33100 Udine, Italy.
+   Wageningen Univ, Genet Lab, NL-6708 PB Wageningen, Netherlands.
+   Wageningen Univ, Lab Plant Breeding, NL-6708 PB Wageningen, Netherlands.
+   Wellcome Trust Sanger Inst Hinxton, Cambridge CB10 1SA, England.
+   Ylichron SrL, Casaccia Res Ctr, I-00123 Rome, Italy.
+RP Sato, S (reprint author), Kazusa DNA Res Inst, 2-6-7 Kazusa Kamatari, Kisarazu, Chiba 2920818, Japan.
+RI MONFORTE, Antonio/B-4784-2009; Matas Arroyo, Antonio Javier/A-9325-2008;
+   Wang, Yupeng/B-7986-2009; Menda, Naama/G-2915-2012; Meyers,
+   Blake/B-6535-2012; Choi, Doil/F-5002-2011; Van de Peer,
+   Yves/D-4388-2009; Visser, Richard/B-3423-2012; Yang, Wencai/G-6517-2011;
+   Knapp, Sandra/A-4856-2011; Yeom, Seon-In/D-5420-2013; Filippis,
+   Ioannis/D-7687-2013; Bombarely, Aureliano/C-6580-2009; Lee, Je
+   Min/F-2976-2013
+OI Matas Arroyo, Antonio Javier/0000-0003-4348-3930; Wang,
+   Yupeng/0000-0002-3002-8069; Van de Peer, Yves/0000-0003-4327-3730;
+   Visser, Richard/0000-0002-0213-4016; Yeom, Seon-In/0000-0002-8385-0179; 
+FU Argentina: INTA; Argentina: CONICET; Belgium: Flemish Institute for
+   Biotechnology; Belgium: Ghent University; China: The State Key
+   Laboratory of Plant Genomics, Institute of Genetics and Developmental
+   Biology, Chinese Academy of Sciences; Ministry of Science and Technology
+   [2006AA10A116, 2004CB720405, 2006CB101907, 2007DFB30080]; Ministry of
+   Agriculture [2007-Z5]; National Natural Science Foundation [36171319];
+   Postdoctoral Science Foundation [20070420446]; European Union [EU-SOL PL
+   016214]; France: Institute National de la Recherche Agronomique; France:
+   Agence Nationale de la Recherche; Germany: the Max Planck Society;
+   India: Department of Biotechnology, Government of India; Indian Council
+   of Agricultural Research; Italy: Ministry of Research; Ministry of
+   Agriculture; FILAS foundation; ENEA; CNR-ENEA [L. 191/2009]; Japan:
+   Kazusa DNA Research Institute Foundation; Japan: National Institute of
+   Vegetable and Tea Science; Korea: KRIBB; Korea: Crop Functional Genomics
+   Research Center (CFGC), MEST; Netherlands: Centre for
+   BioSystemsGenomics, Netherlands Organization for Scientific Research;
+   Spain: Fundacion Genoma Espana; Cajamar; FEPEX; Fundacion Seneca; ICIA;
+   IFAPA; Fundacion Manrique de Lara; Instituto Nacional de Bioinformatica;
+   UK: BBSRC [BB/C509731/1]; DEFRA; SEERAD; USA: NSF [DBI-0116076,
+   DBI-0421634, DBI-0606595, IOS-0923312, DBI-0820612, DBI-0605659,
+   DEB-0316614, DBI 0849896, MCB 1021718]; USDA [2007-02773,
+   2007-35300-19739]; USDA-ARS; NSF
+FX This work was supported by: Argentina: INTA and CONICET. Belgium:
+   Flemish Institute for Biotechnology and Ghent University. China: The
+   State Key Laboratory of Plant Genomics, Institute of Genetics and
+   Developmental Biology, Chinese Academy of Sciences; Ministry of Science
+   and Technology (2006AA10A116, 2004CB720405, 2006CB101907, 2007DFB30080)
+   Ministry of Agriculture ('948' Program: 2007-Z5); National Natural
+   Science Foundation (36171319); Postdoctoral Science Foundation
+   (20070420446). European Union: FP6 Integrated Project EU-SOL PL 016214.
+   France: Institute National de la Recherche Agronomique and Agence
+   Nationale de la Recherche. Germany: the Max Planck Society. India:
+   Department of Biotechnology, Government of India; Indian Council of
+   Agricultural Research. Italy: Ministry of Research (FIRB-SOL,
+   FIRB-Parallelomics, ItaLyco and GenoPOM projects); Ministry of
+   Agriculture (Agronanotech and Biomassval projects); FILAS foundation;
+   ENEA; CNR-ENEA project L. 191/2009. Japan: Kazusa DNA Research Institute
+   Foundation and National Institute of Vegetable and Tea Science. Korea:
+   KRIBB Basic Research Fund and Crop Functional Genomics Research Center
+   (CFGC), MEST. Netherlands: Centre for BioSystemsGenomics, Netherlands
+   Organization for Scientific Research. Spain: Fundacion Genoma Espana;
+   Cajamar; FEPEX; Fundacion Seneca; ICIA; IFAPA; Fundacion Manrique de
+   Lara; Instituto Nacional de Bioinformatica. UK: BBSRC grant
+   BB/C509731/1; DEFRA; SEERAD. USA: NSF (DBI-0116076; DBI-0421634;
+   DBI-0606595; IOS-0923312; DBI-0820612; DBI-0605659; DEB-0316614; DBI
+   0849896 and MCB 1021718); USDA (2007-02773 and 2007-35300-19739);
+   USDA-ARS. We acknowledge the Potato Genome Sequencing Consortium for
+   sharing data before publication; potato RNA-Seq data was provided by C.
+   R. Buell from the NSF-funded Potato Genome Sequence and Annotation
+   project; tomato RNA-Seq data by the USDA-funded SolCAP project, N. Sinha
+   and J. Maloof; the Amplicon Express team for BAC pooling services;
+   construction of the Whole Genome Profiling (WGP) physical map was
+   supported by EnzaZaden, RijkZwaan, Vilmorin&Cie, and Takii & Co. Keygene
+   N. V. owns patents and patent applications covering its AFLP and Whole
+   Genome Profiling technologies; AFLP and Keygene are registered
+   trademarks of Keygene N. V. The following individuals are also
+   acknowledged for their contribution to the work described: J. Park, B.
+   Wang, C. Niu, D. Liu, F. Cojutti, S. Pescarolo, A. Zambon, G. Xiao, J.
+   Chen, J. Shi, L. Zhang, L. Zeng, M. Caccamo, D. Bolser, D. Martin, M.
+   Gonzalez, P. A. Bedinger, P. A. Covey, P. Pachori, R. R. Pousada, S.
+   Hakim, S. Sims, V. Cahais, W. Long, X. Zhou, Y. Lu, W. Haso, C. Lai, S.
+   Lepp, C. Peluso, H. Teramu, H. De Jong, R. Lizarralde, E. R. May and Z.
+   Li. M. Zabeau is thanked for his support and encouragement and S. van
+   den Brink for her secretarial support. We dedicate this work to the late
+   C. Rick who pioneered tomato genetics, collection of wild germplasm and
+   the distribution of seed and knowledge.
+CR Aagaard JE, 2006, J MOL EVOL, V63, P493, DOI 10.1007/s00239-005-0306-x
+   Kaul S, 2000, NATURE, V408, P796
+   Barker MS, 2008, MOL BIOL EVOL, V25, P2445, DOI 10.1093/molbev/msn187
+   Corbesier L, 2007, SCIENCE, V316, P1030, DOI 10.1126/science.1141752
+   Frodin DG, 2004, TAXON, V53, P753, DOI 10.2307/4135449
+   HOWE HF, 1982, ANNU REV ECOL SYST, V13, P201, DOI 10.1146/annurev.es.13.110182.001221
+   Jaillon O, 2007, NATURE, V449, P463, DOI 10.1038/nature06148
+   Klee HJ, 2011, ANNU REV GENET, V45, P41, DOI 10.1146/annurev-genet-110410-132507
+   Krieger U, 2010, NAT GENET, V42, P459, DOI 10.1038/ng.550
+   Lifschitz E, 2006, P NATL ACAD SCI USA, V103, P6398, DOI 10.1073/pnas.0601620103
+   MICHAELSON MJ, 1991, AM J BOT, V78, P183, DOI 10.2307/2445241
+   Mohorianu I, 2011, PLANT J, V67, P232, DOI 10.1111/j.1365-313X.2011.04586.x
+   Moore MJ, 2010, P NATL ACAD SCI USA, V107, P4623, DOI 10.1073/pnas.0907801107
+   Navarro C, 2011, NATURE, V478, P119, DOI 10.1038/nature10431
+   Ozminkowsi R., 2004, REP TOMATO GENET COO, V54, P26
+   Paterson AH, 2009, NATURE, V457, P551, DOI 10.1038/nature07723
+   Peralta IE, 2008, SYST BOT MONOGR, V84, P1
+   Peterson DG, 1998, GENOME, V41, P346, DOI 10.1139/gen-41-3-346
+   Pnueli L, 1998, DEVELOPMENT, V125, P1979
+   Ranc N, 2008, BMC PLANT BIOL, V8, DOI 10.1186/1471-2229-8-130
+   Rick C., 1978, SCI AM, V239, P76
+   RICK CM, 1960, P NATL ACAD SCI USA, V46, P78, DOI 10.1073/pnas.46.1.78
+   Stockey RA, 2009, AM J BOT, V96, P3, DOI 10.3732/ajb.0800402
+   Swigonova Z, 2004, GENOME RES, V14, P1916, DOI 10.1101/gr.2332504
+   Tang HB, 2008, SCIENCE, V320, P486, DOI 10.1126/science.1153917
+   Vicente AR, 2007, J SCI FOOD AGR, V87, P1435, DOI 10.1002/jsfa.2837
+   Xu X, 2011, NATURE, V475, P189, DOI 10.1038/nature10158
+   ZAMIR D, 1988, MOL GEN GENET, V213, P254, DOI 10.1007/BF00339589
+NR 28
+TC 93
+Z9 94
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD MAY 31
+PY 2012
+VL 485
+IS 7400
+BP 635
+EP 641
+DI 10.1038/nature11119
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 949WP
+UT WOS:000304608000047
+ER
+
+PT J
+AU Matsutani, M
+   Hirakawa, H
+   Nishikura, M
+   Soemphol, W
+   Ali, IAI
+   Yakushi, T
+   Matsushita, K
+AF Matsutani, Minenosuke
+   Hirakawa, Hideki
+   Nishikura, Mitsuteru
+   Soemphol, Wichai
+   Ali, Ibnaof Ali Ibnaof
+   Yakushi, Toshiharu
+   Matsushita, Kazunobu
+TI Increased number of Arginine-based salt bridges contributes to the
+   thermotolerance of thermotolerant acetic acid bacteria, Acetobacter
+   tropicalis SKU1100
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Thermotolerant acetic acid bacteria; Acetobacter pasteurianus;
+   Acetobacter tropicalis; Comparative modeling
+ID PROTEIN SUBCELLULAR-LOCALIZATION; PARTICLE MESH EWALD; SP-NOV.;
+   MOLECULAR-DYNAMICS; GEN. NOV.; PELLICLE FORMATION; THERMAL-STABILITY;
+   ADENYLATE KINASES; THERMOSTABILITY; POLYSACCHARIDE
+AB Thermotolerant acetic acid bacteria (AAB), Acetobacter tropicalis SKU1100, can grow above 40 degrees C. To investigate the basis of its thermotolerance, we compared the genome of A. tropicalis SKU1100 with that of mesophilic AAB strain Acetobacter pasteurianus IFO3283-01. The comparative genomic study showed that amino acid substitutions from large to small residue and Lys to Arg occur in many orthologous genes. Furthermore, comparative modeling study was carried out with the orthologous proteins between SKU1100 and IFO3283-01 strains, indicating that the number of Arg-based salt bridges increased in protein models. Since it has been reported that Arg-based salt bridges are important factor for thermo-stability of protein structure, our results strongly suggest that the increased number of Arg-based salt bridges may contributes to the thermotolerance of A. tropicalis SKU1100 (the thermo-stability of proteins in A. tropicalis SKU1100). (C) 2011 Elsevier Inc. All rights reserved.
+C1 Yamaguchi Univ, Fac Agr, Dept Biol Chem, Yamaguchi 7538315, Japan.
+   Kazusa DNA Res Inst, Dept Plant Genome Res, Lab Plant Genome Informat, Chiba 2920818, Japan.
+   Khon Kaen Univ, Dept Sci & Technol, Nongkhai 43000, Thailand.
+RP Matsushita, K (reprint author), Yamaguchi Univ, Fac Agr, Dept Biol Chem, Yamaguchi 7538315, Japan.
+EM kazunobu@yamaguchi-u.ac.jp
+FU Program for Promoting Basic Research Activities for Innovative
+   Biosciences (PROBRAIN)
+FX This work was supported by the Program for Promoting Basic Research
+   Activities for Innovative Biosciences (PROBRAIN).
+CR Altschul SF, 1997, NUCLEIC ACIDS RES, V25, P3389, DOI 10.1093/nar/25.17.3389
+   Azuma Y, 2009, NUCLEIC ACIDS RES, V37, P5768, DOI 10.1093/nar/gkp612
+   Bae E, 2005, J BIOL CHEM, V280, P30943, DOI 10.1074/jbc.M504216200
+   Bae E, 2004, J BIOL CHEM, V279, P28202, DOI 10.1074/jbc.M401865200
+   BERENDSEN HJC, 1984, J CHEM PHYS, V81, P3684, DOI 10.1063/1.448118
+   BERENDSEN HJC, 1995, COMPUT PHYS COMMUN, V91, P43, DOI 10.1016/0010-4655(95)00042-E
+   Cleenwerck I, 2002, INT J SYST EVOL MICR, V52, P1551, DOI 10.1099/ijs.0.02064-0
+   DARDEN T, 1993, J CHEM PHYS, V98, P10089, DOI 10.1063/1.464397
+   Deeraksa A, 2005, MICROBIOL-SGM, V151, P4111, DOI 10.1099/mic.0.28350-0
+   Deeraksa A, 2006, BIOSCI BIOTECH BIOCH, V70, P2536, DOI 10.1271/bbb.60143
+   DeLano W.L., 2002, PYMOL MOL GRAPHICS S
+   ESSMANN U, 1995, J CHEM PHYS, V103, P8577, DOI 10.1063/1.470117
+   ESWAR N, 2006, CURRENT PROTOCOLS S, V15
+   Fiser A, 2000, PROTEIN SCI, V9, P1753
+   Gardy JL, 2003, NUCLEIC ACIDS RES, V31, P3613, DOI 10.1093/nar/gkg602
+   Gardy JL, 2005, BIOINFORMATICS, V21, P617, DOI 10.1093/bioinformatics/bti057
+   Greenberg DE, 2006, INT J SYST EVOL MICR, V56, P2609, DOI 10.1099/ijs.0.64412-0
+   Jojima Y, 2004, INT J SYST EVOL MICR, V54, P2263, DOI 10.1099/ijs.0.02911-0
+   Kanchanarach W, 2010, APPL MICROBIOL BIOT, V85, P741, DOI 10.1007/s00253-009-2203-5
+   Larkin MA, 2007, BIOINFORMATICS, V23, P2947, DOI 10.1093/bioinformatics/btm404
+   Lindahl E, 2001, J MOL MODEL, V7, P306
+   Liu J, 2008, J MOL GRAPH MODEL, V27, P529, DOI 10.1016/j.jmgm.2008.09.004
+   Loganathan P, 2004, INT J SYST EVOL MICR, V54, P1185, DOI 10.1099/ijs.0.02817-0
+   Manaia CM, 2002, INT J SYST EVOL MICR, V52, P2203, DOI 10.1099/ijs.0.02059-0
+   Marti-Renom MA, 2000, ANNU REV BIOPH BIOM, V29, P291, DOI 10.1146/annurev.biophys.29.1.291
+   Moonmangmee S, 2002, BIOSCI BIOTECH BIOCH, V66, P777, DOI 10.1271/bbb.66.777
+   Ndoye B, 2006, ENZYME MICROB TECH, V39, P916, DOI 10.1016/j.enzmictec.2006.01.020
+   Nishio Y, 2003, GENOME RES, V13, P1572, DOI 10.1101/gr.1285603
+   Ohkuri T, 2003, PROTEIN ENG, V16, P615, DOI 10.1093/protein/gzg071
+   PACE CN, 1992, J MOL BIOL, V226, P29, DOI 10.1016/0022-2836(92)90121-Y
+   Saeki A, 1997, BIOSCI BIOTECH BIOCH, V61, P138
+   SALI A, 1993, J MOL BIOL, V234, P779, DOI 10.1006/jmbi.1993.1626
+   Sikorski J, 2008, MICROBIOL-SGM, V154, P2416, DOI 10.1099/mic.0.2007/016105-0
+   van der Spoel D., 2005, GROMACS USER MANUAL
+   Vieille C, 2001, MICROBIOL MOL BIOL R, V65, P1, DOI 10.1128/MMBR.65.1.1-43.2001
+   Yukphan P, 2005, J GEN APPL MICROBIOL, V51, P301, DOI 10.2323/jgam.51.301
+NR 36
+TC 2
+Z9 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD MAY 27
+PY 2011
+VL 409
+IS 1
+BP 120
+EP 124
+DI 10.1016/j.bbrc.2011.04.126
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 774IY
+UT WOS:000291380100020
+ER
+
+PT J
+AU Yamamura, Y
+   Hirakawa, H
+   Yamaguchi, S
+   Nagamune, T
+AF Yamamura, Yuichi
+   Hirakawa, Hidehiko
+   Yamaguchi, Satoshi
+   Nagamune, Teruyuki
+TI Enhancement of sortase A-mediated protein ligation by inducing a
+   beta-hairpin structure around the ligation site
+SO CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+ID GRAM-POSITIVE BACTERIA; STAPHYLOCOCCUS-AUREUS; TRANSPEPTIDASE-SRTA;
+   KINETIC MECHANISM; SURFACE-PROTEINS; LPXTG MOTIF; PEPTIDE; DESIGN; CELLS
+AB A Staphylococcus aureus transpeptidase, sortase A (SrtA), catalyzes selective peptide/protein ligations that have been applied to cell imaging and protein engineering, while the ligations do not proceed to completion due to their reversibility. We successfully enhanced SrtA-mediated protein ligation through the formation of a beta-hairpin around the ligation site.
+C1 Univ Tokyo, Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, Tokyo 1138656, Japan.
+   Univ Tokyo, Sch Engn, Dept Bioengn, Bunkyo Ku, Tokyo 1138656, Japan.
+RP Hirakawa, H (reprint author), Univ Tokyo, Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138656, Japan.
+EM hirakawa@bio.t.u-tokyo.ac.jp; nagamune@bioeng.t.u-tokyo.ac.jp
+RI Hirakawa, Hidehiko/A-3089-2013
+OI Hirakawa, Hidehiko/0000-0003-0623-8573
+FU Novozymes Japan; Center for NanoBio Integration at The University of
+   Tokyo
+FX This work was partially supported by Novozymes Japan Research Fund 2011
+   (to H.H.) and the Center for NanoBio Integration at The University of
+   Tokyo. We gratefully acknowledge Mr Watanabe for help in preparing PTDH.
+CR Andersen NH, 2006, J AM CHEM SOC, V128, P6101, DOI 10.1021/ja054971w
+   Basle E, 2010, CHEM BIOL, V17, P213, DOI 10.1016/j.chembiol.2010.02.008
+   Chan LY, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0001164
+   Cheng ZH, 2007, CHEMBIOCHEM, V8, P880, DOI 10.1002/cbic.200600565
+   Chudakov DM, 2005, TRENDS BIOTECHNOL, V23, P605, DOI 10.1016/j.tibtech.2005.10.005
+   Cochran AG, 2001, P NATL ACAD SCI USA, V98, P5578, DOI 10.1073/pnas.091100898
+   Durek T, 2005, BIOMOL ENG, V22, P153, DOI 10.1016/j.bioeng.2005.07.004
+   Fesinmeyer RM, 2004, J AM CHEM SOC, V126, P7238, DOI 10.1021/ja0379520
+   Frankel BA, 2005, BIOCHEMISTRY-US, V44, P11188, DOI 10.1021/bi050141j
+   Griffin BA, 1998, SCIENCE, V281, P269, DOI 10.1126/science.281.5374.269
+   GRISHINA IB, 1994, FARADAY DISCUSS, V99, P245, DOI 10.1039/fd9949900245
+   Hirakawa H, 2007, PROTEIN ENG DES SEL, V20, P453, DOI 10.1039/protein/gzm045
+   Hirota N, 2010, J BIOL CHEM, V285, P5931, DOI 10.1074/jbc.M109.066282
+   Huang XY, 2003, BIOCHEMISTRY-US, V42, P11307, DOI 10.1021/bi034391g
+   Kruger RG, 2004, BIOCHEMISTRY-US, V43, P1541, DOI 10.1021/bi035920j
+   Mao HY, 2004, J AM CHEM SOC, V126, P2670, DOI 10.1021/ja039915e
+   MARKS MM, 2006, NAT METHODS, V3, P591
+   Medintz IL, 2005, NAT MATER, V4, P435, DOI 10.1038/nmat1390
+   Muralidharan V, 2006, NAT METHODS, V3, P429, DOI 10.1038/NMETH886
+   NAVARRE WW, 1994, MOL MICROBIOL, V14, P115, DOI 10.1111/j.1365-2958.1994.tb01271.x
+   Popp MW, 2007, NAT CHEM BIOL, V3, P707, DOI 10.1038/nchembio.2007.31
+   Samantaray S, 2008, J AM CHEM SOC, V130, P2132, DOI 10.1021/ja077358g
+   Sunbul M, 2009, ORG BIOMOL CHEM, V7, P3361, DOI 10.1039/b908687k
+   Suree N, 2009, J BIOL CHEM, V284, P24465, DOI 10.1074/jbc.M109.022624
+   Tanaka T, 2008, CHEMBIOCHEM, V9, P802, DOI 10.1002/cbic.200700614
+   Ton-That H, 1999, P NATL ACAD SCI USA, V96, P12424, DOI 10.1073/pnas.96.22.12424
+   Tsukiji S, 2009, CHEMBIOCHEM, V10, P787, DOI 10.1002/cbic.200800724
+   Umezawa Y, 2005, BIOSENS BIOELECTRON, V20, P2504, DOI 10.1016/j.bios.2004.10.015
+   Venkatraman J, 2001, CHEM REV, V101, P3131, DOI 10.1021/cr000053z
+   Yamamoto T, 2009, CHEM COMMUN, P1022, DOI 10.1039/b818792d
+NR 30
+TC 6
+Z9 7
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1359-7345
+J9 CHEM COMMUN
+JI Chem. Commun.
+PY 2011
+VL 47
+IS 16
+BP 4742
+EP 4744
+DI 10.1039/c0cc05334a
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 745HE
+UT WOS:000289155700038
+ER
+
+PT J
+AU Hirakawa, H
+   Ishimoto, M
+   Awamoto, K
+   Shinoda, T
+AF Hirakawa, Hitoshi
+   Ishimoto, Manabu
+   Awamoto, Kenji
+   Shinoda, Tsutae
+TI Developments of Plasma Tubes Array Technology for Extra Large Area Film
+   Display
+SO JOURNAL OF DISPLAY TECHNOLOGY
+LA English
+DT Article
+DE Ambient display; ceiling display; curved display; column wrapped
+   display; extra large area film display; flat panel display (FPD); film
+   display; plasma display panel (PDP); plasma tube array (PTA)
+AB Plasma tubes array is a film display that is able to realize an extra large area emissive display, and also be expected to realize the new industrial applications of wall size display because of its attractive characteristics such as ultra-thin, lightweight, flexible and low power consumption. We had successfully developed a prototype display of 3 m x 2 m screen size which consisted of 6 of 1 m x 1 m sub-modules with seamless connected structure. The weight, thickness and power consumption of the display film were 7.5 kg, 1 mm, and 1200W, respectively. It enables people to get an immersive experience with high quality real-size images shown on this display, which opens a door to the new world of natural communication in a virtual environment.
+C1 Shinoda Plasma Co Ltd, Hyogo 6500047, Japan.
+RP Hirakawa, H (reprint author), Shinoda Plasma Co Ltd, Hyogo 6500047, Japan.
+EM nhan@shi-pla.com; ishimoto@shi-pla.com; awamoto@shi-pla.com;
+   shinoda@shi-pla.com
+FU New Energy and Industrial Technology Development Organization (NEDO),
+   Japan
+FX Manuscript received January 28, 2010; revised July 12, 2010; accepted
+   July 15, 2010. Date of publication August 05, 2010; date of current
+   version August 13, 2010. This work was supported in part by The New
+   Energy and Industrial Technology Development Organization (NEDO), Japan.
+CR ASHIDA H, SID 2008, P476
+   Hirakawa H, 2005, J SOC INF DISPLAY, V13, P647, DOI 10.1889/1.2039293
+   Ishimoto M, 2005, J SOC INF DISPLAY, V13, P905, DOI 10.1889/1.2137632
+   Shinoda T., 2002, SID, P1072
+NR 4
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1551-319X
+J9 J DISP TECHNOL
+JI J. Disp. Technol.
+PD SEP
+PY 2010
+VL 6
+IS 9
+BP 381
+EP 386
+DI 10.1109/JDT.2010.2061550
+PG 6
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA 649LC
+UT WOS:000281770200001
+ER
+
+PT J
+AU Yasukochi, Y
+   Maruyama, O
+   Mahajan, MC
+   Padden, C
+   Euskirchen, GM
+   Schulz, V
+   Hirakawa, H
+   Kuhara, S
+   Pan, XH
+   Newburger, PE
+   Snyder, M
+   Weissman, SM
+AF Yasukochi, Yukio
+   Maruyama, Osamu
+   Mahajan, Milind C.
+   Padden, Carolyn
+   Euskirchen, Ghia M.
+   Schulz, Vincent
+   Hirakawa, Hideki
+   Kuhara, Satoru
+   Pan, Xing-Hua
+   Newburger, Peter E.
+   Snyder, Michael
+   Weissman, Sherman M.
+TI X chromosome-wide analyses of genomic DNA methylation states and gene
+   expression in male and female neutrophils
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE high-throughput sequencing; DNA methylation; X inactivation
+ID INACTIVATION; JARID1C; LOCUS
+AB The DNA methylation status of human X chromosomes from male and female neutrophils was identified by high-throughput sequencing of HpaII and MspI digested fragments. In the intergenic and intragenic regions on the X chromosome, the sites outside CpG islands were heavily hypermethylated to the same degree in both genders. Nearly half of X chromosome promoters were either hypomethylated or hypermethylated in both females and males. Nearly one third of X chromosome promoters were a mixture of hypomethylated and heterogeneously methylated sites in females and were hypomethylated in males. Thus, a large fraction of genes that are silenced on the inactive X chromosome are hypomethylated in their promoter regions. These genes frequently belong to the evolutionarily younger strata of the X chromosome. The promoters that were hypomethylated at more than two sites contained most of the genes that escaped silencing on the inactive X chromosome. The overall levels of expression of X-linked genes were indistinguishable in females and males, regardless of the methylation state of the inactive X chromosome. Thus, in addition to DNA methylation, other factors are involved in the fine tuning of gene dosage compensation in neutrophils.
+C1 Yale Univ, Sch Med, Dept Genet, New Haven, CT 06520 USA.
+   Yale Univ, Sch Med, Dept Mol Cellular & Dev Biol, New Haven, CT 06520 USA.
+   Yale Univ, Sch Med, Dept Pediat, New Haven, CT 06520 USA.
+   Kyushu Univ, Fac Math, Nishi Ku, Fukuoka 8190395, Japan.
+   Univ Massachusetts, Sch Med, Dept Pediat, Worcester, MA 01655 USA.
+   Kazusa DNA Res Inst, Chiba 2920818, Japan.
+   Kyushu Univ, Grad Sch Genet Resources, Higashi Ku, Fukuoka 8128581, Japan.
+RP Weissman, SM (reprint author), Yale Univ, Sch Med, Dept Genet, 333 Cedar St, New Haven, CT 06520 USA.
+EM sherman.weissman@yale.edu
+FU National Institutes of Health [R01DK054369, 1P50HG02357-01]; Ministry of
+   Education, Culture, Sports, Science, and Technology of Japan
+FX This work was supported by National Institutes of Health Grants
+   R01DK054369 and 1P50HG02357-01. O.M. was partially supported by a grant
+   from the Kyushu University Global Centers of Excellence Program, "Center
+   for Math-for-Industry," from the Ministry of Education, Culture, Sports,
+   Science, and Technology of Japan.
+CR Barski A, 2007, CELL, V129, P823, DOI 10.1016/j.cell.2007.05.009
+   Bird A, 2002, GENE DEV, V16, P6, DOI 10.1101/gad.947102
+   Carrel L, 2005, NATURE, V434, P400, DOI 10.1038/nature03479
+   DEsposito M, 1996, NAT GENET, V13, P227, DOI 10.1038/ng0696-227
+   Eckhardt F, 2006, NAT GENET, V38, P1378, DOI 10.1038/ng1909
+   Birney E, 2007, NATURE, V447, P799, DOI 10.1038/nature05874
+   Gilbert SL, 1999, P NATL ACAD SCI USA, V96, P13825, DOI 10.1073/pnas.96.24.13825
+   Gimelbrant A, 2007, SCIENCE, V318, P1136, DOI 10.1126/science.1148910
+   Heard E, 2006, GENE DEV, V20, P1848, DOI 10.1101/gad.1422906
+   JOHNSTON CM, 2008, PLOS GENET, V4
+   Kohn M, 2004, TRENDS GENET, V20, P598, DOI 10.1016/j.tig.2004.09.008
+   Li N, 2008, P NATL ACAD SCI USA, V105, P17055, DOI 10.1073/pnas.0807765105
+   LYON MF, 1961, NATURE, V190, P372, DOI 10.1038/190372a0
+   Meissner A, 2008, NATURE, V454, P766, DOI 10.1038/nature07107
+   MOHANDAS T, 1981, SCIENCE, V211, P393, DOI 10.1126/science.6164095
+   PRANTERA G, 1990, CHROMOSOMA, V99, P18, DOI 10.1007/BF01737285
+   Subrahmanyam YVBK, 1999, METHOD ENZYMOL, V303, P272
+   VIEGASPEQUIGNOT E, 1988, P NATL ACAD SCI USA, V85, P7657, DOI 10.1073/pnas.85.20.7657
+   Weber M, 2007, NAT GENET, V39, P457, DOI 10.1038/ng1990
+   WOLF SF, 1984, P NATL ACAD SCI-BIOL, V81, P2806, DOI 10.1073/pnas.81.9.2806
+   Xu J, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002553
+NR 21
+TC 6
+Z9 6
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD FEB 23
+PY 2010
+VL 107
+IS 8
+BP 3704
+EP 3709
+DI 10.1073/pnas.0914812107
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 563KN
+UT WOS:000275130900077
+ER
+
+PT J
+AU Sato, K
+   Naito, M
+   Yukitake, H
+   Hirakawa, H
+   Shoji, M
+   McBride, MJ
+   Rhodes, RG
+   Nakayama, K
+AF Sato, Keiko
+   Naito, Mariko
+   Yukitake, Hideharu
+   Hirakawa, Hideki
+   Shoji, Mikio
+   McBride, Mark J.
+   Rhodes, Ryan G.
+   Nakayama, Koji
+TI A protein secretion system linked to bacteroidete gliding motility and
+   pathogenesis
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE gingipain; Porphyromonas gingivalis; Flavobacterium; chitinase
+ID PORPHYROMONAS-GINGIVALIS; GENOME SEQUENCE; CYTOPHAGA JOHNSONAE; RGPB;
+   IDENTIFICATION; PERIODONTITIS; CONSTRUCTION; PROKARYOTES; GINGIPAINS;
+   PROTEASES
+AB Porphyromonas gingivalis secretes strong proteases called gingipains that are implicated in periodontal pathogenesis. Protein secretion systems common to other Gram-negative bacteria are lacking in P. gingivalis, but several proteins, including PorT, have been linked to gingipain secretion. Comparative genome analysis and genetic experiments revealed 11 additional proteins involved in gingipain secretion. Six of these (PorK, PorL, PorM, PorN, PorW, and Sov) were similar in sequence to Flavobacterium johnsoniae gliding motility proteins, and two others (PorX and PorY) were putative two-component system regulatory proteins. Real-time RT-PCR analysis revealed that porK, porL, porM, porN, porP, porT, and sov were down-regulated in P. gingivalis porX and porY mutants. Disruption of the F. johnsoniae porT ortholog resulted in defects in motility, chitinase secretion, and translocation of a gliding motility protein, SprB adhesin, to the cell surface, providing a link between a unique protein translocation system and a motility apparatus in members of the Bacteroidetes phylum.
+C1 Nagasaki Univ, Div Microbiol & Oral Infect, Dept Mol Microbiol & Immunol, Grad Sch Biomed Sci, Nagasaki 8528588, Japan.
+   Kazusa DNA Res Inst, Dept Plant Genome Res, Lab Plant Genome Informat, Chiba 2920818, Japan.
+   Univ Wisconsin, Dept Biol Sci, Milwaukee, WI 53201 USA.
+   Nagasaki Univ, Global COE Program, Nagasaki 8528588, Japan.
+RP Nakayama, K (reprint author), Nagasaki Univ, Div Microbiol & Oral Infect, Dept Mol Microbiol & Immunol, Grad Sch Biomed Sci, Nagasaki 8528588, Japan.
+EM knak@nagasaki-u.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+   [18018032, 20249073]; Global COE Program at Nagasaki University;
+   National Science Foundation [MCB-0641366]
+FX We thank T. Hayashi for helpful discussions and comments on the
+   manuscript. This research was supported by Ministry of Education,
+   Culture, Sports, Science and Technology of Japan Grants 18018032 and
+   20249073, by the Global COE Program at Nagasaki University (K. N.), and
+   by National Science Foundation Grant MCB-0641366 (to M. J. M.).
+CR Agarwal S, 1997, P NATL ACAD SCI USA, V94, P12139, DOI 10.1073/pnas.94.22.12139
+   Armitage G C, 1996, Ann Periodontol, V1, P37, DOI 10.1902/annals.1996.1.1.37
+   Braun TF, 2005, J BACTERIOL, V187, P6943, DOI 10.1128/JB.187.20.6943-6952.2005
+   Curtis MA, 2001, CRIT REV ORAL BIOL M, V12, P192
+   Curtis MA, 1999, J PERIODONTAL RES, V34, P464, DOI 10.1111/j.1600-0765.1999.tb02282.x
+   Duchaud E, 2007, NAT BIOTECHNOL, V25, P763, DOI 10.1038/nbt1313
+   Economou A, 2006, MOL MICROBIOL, V62, P308, DOI 10.1111/j.1365-2958.2006.05377.x
+   Holt SC, 2005, PERIODONTOL 2000, V38, P72, DOI 10.1111/j.1600-0757.2005.00113.x
+   Irfan U M, 2001, J Int Acad Periodontol, V3, P14
+   Jarrell KF, 2008, NAT REV MICROBIOL, V6, P466, DOI 10.1038/nrmicro1900
+   Kamaguchi A, 2003, MICROBIOL-SGM, V149, P1257, DOI 10.1099/mic.0.25997-0
+   Liu J, 2007, J BACTERIOL, V189, P7503, DOI 10.1128/JB.00957-07
+   McBride MJ, 1996, J BACTERIOL, V178, P583
+   Naito M, 2008, DNA RES, V15, P215, DOI 10.1093/dnares/dsn013
+   NAKAYAMA K, 1995, J BIOL CHEM, V270, P23619
+   Nelson SS, 2008, J BACTERIOL, V190, P2851, DOI 10.1128/JB.01904-07
+   Nelson SS, 2007, J BACTERIOL, V189, P7145, DOI 10.1128/JB.00892-07
+   Nguyen KA, 2007, J BACTERIOL, V189, P833, DOI 10.1128/JB.01530-06
+   Page RC, 1997, PERIODONTOL 2000, V14, P216, DOI 10.1111/j.1600-0757.1997.tb00199.x
+   Papadopoulos S, 1999, STAND MAG, V1, P110
+   Potempa J, 2000, PERIODONTOL 2000, V24, P153, DOI 10.1034/j.1600-0757.2000.2240108.x
+   Saiki K, 2007, MICROBIOL IMMUNOL, V51, P483
+   Sato K, 2005, J BIOL CHEM, V280, P8668, DOI 10.1074/jbc.M413544200
+   Seers CA, 2006, J BACTERIOL, V188, P6376, DOI 10.1128/JB.00731-06
+   Shi Y, 1999, J BIOL CHEM, V274, P17955, DOI 10.1074/jbc.274.25.17955
+   Xie G, 2007, APPL ENVIRON MICROB, V73, P3536, DOI 10.1128/AEM.00225-07
+NR 26
+TC 34
+Z9 34
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN 5
+PY 2010
+VL 107
+IS 1
+BP 276
+EP 281
+DI 10.1073/pnas.0912010107
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 543FX
+UT WOS:000273559200048
+ER
+
+PT J
+AU Namba, K
+   Kobayashi, K
+   Murata, Y
+   Hirakawa, H
+   Yamagaki, T
+   Iwashita, T
+   Nishizawa, M
+   Kusumoto, S
+   Tanino, K
+AF Namba, Kosuke
+   Kobayashi, Kaori
+   Murata, Yoshiko
+   Hirakawa, Hiroko
+   Yamagaki, Tohru
+   Iwashita, Takashi
+   Nishizawa, Mugio
+   Kusumoto, Shoichi
+   Tanino, Keiji
+TI Mugineic Acid Derivatives as Molecular Probes for the Mechanistic
+   Elucidation of Iron Acquisition in Barley
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+LA English
+DT Article
+DE cellular uptake; click chemistry; fluorescent probes; iron transport;
+   phytosiderophores
+ID PLANTS; NICOTIANAMINE; TRANSPORTER; EFFICIENT; WASHINGS; ROOTS
+C1 Hokkaido Univ, Div Chem, Kita Ku, Sapporo, Hokkaido 0600810, Japan.
+   Suntory Inst Bioorgan Res, Osaka 6188503, Japan.
+   Tokushima Bunri Univ, Fac Pharmaceut Sci, Tokushima, Japan.
+RP Namba, K (reprint author), Hokkaido Univ, Div Chem, Kita Ku, Sapporo, Hokkaido 0600810, Japan.
+EM namba@mail.sci.hokudai.ac.jp; skus@sunbor.or.jp;
+   ktanino@sci.hokudai.ac.jp
+RI Tanino, Keiji/D-8399-2012
+FU Ministry of Education, Culture, Sports, Science and Technology (Japan)
+   [21310148, 18710191, 18510200]; Suntory Holdings Limited; Akiyama
+   Foundation; Kaneko Narita Foundation; Naito Foundation
+FX This research was partially supported by Grants-in-Aid for Scientific
+   Research (Grant Nos. 21310148, 18710191, and 18510200) from the Ministry
+   of Education, Culture, Sports, Science and Technology (Japan). We
+   acknowledge Suntory Holdings Limited for their financial support. K.N.
+   is grateful to the Akiyama Foundation, the Kaneko Narita Foundation, and
+   the Naito Foundation for support through a Research Fund for Young
+   Scientists.
+CR Briat JF, 2007, CURR OPIN PLANT BIOL, V10, P276, DOI 10.1016/j.pbi.2007.04.003
+   Curie C, 2001, NATURE, V409, P346, DOI 10.1038/35053080
+   Curie C, 2009, ANN BOT-LONDON, V103, P1, DOI 10.1093/aob/mcn207
+   Harada E, 2007, FEBS LETT, V581, P4298, DOI 10.1016/j.febslet.2007.08.011
+   Heinz U, 1999, ANGEW CHEM INT EDIT, V38, P2568, DOI 10.1002/(SICI)1521-3773(19990903)38:17<2568::AID-ANIE2568>3.3.CO;2-3
+   HEINZ U, 1999, ANGEW CHEM, V111, P2733, DOI 10.1002/(SICI)1521-3757(19990903)111:17<2733::AID-ANGE2733>3.0.CO;2-C
+   Ma JF, 1996, PHYSIOL PLANTARUM, V97, P609, DOI 10.1034/j.1399-3054.1996.970325.x
+   MARSCHNER H, 1986, J PLANT NUTR, V9, P695, DOI 10.1080/01904168609363475
+   MATSUURA F, 1993, TETRAHEDRON, V49, P8211, DOI 10.1016/S0040-4020(01)88039-X
+   Mori S, 1999, CURR OPIN PLANT BIOL, V2, P250, DOI 10.1016/S1369-5266(99)80043-0
+   Murata Y, 2006, PLANT J, V46, P563, DOI 10.1111/j.1365-313X.2006.02714.x
+   NAMBA K, 2007, ANGEW CHEM, V119, P7190, DOI 10.1002/ange.200702403
+   Namba K, 2007, ANGEW CHEM INT EDIT, V46, P7060, DOI 10.1002/anie.200702403
+   Schaaf G, 2004, J BIOL CHEM, V279, P9091, DOI 10.1074/jbc.M311799200
+   TAKAGI SI, 1976, SOIL SCI PLANT NUTR, V22, P423
+   TAKEMOTO T, 1978, P JPN ACAD B-PHYS, V54, P469, DOI 10.2183/pjab.54.469
+NR 16
+TC 2
+Z9 2
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1433-7851
+J9 ANGEW CHEM INT EDIT
+JI Angew. Chem.-Int. Edit.
+PY 2010
+VL 49
+IS 51
+BP 9956
+EP 9959
+DI 10.1002/anie.201004853
+PG 4
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 695SF
+UT WOS:000285392200034
+ER
+
+PT J
+AU Reed, TM
+   Hirakawa, H
+   Mure, M
+   Scott, EE
+   Limburg, J
+AF Reed, Timothy M.
+   Hirakawa, Hidehiko
+   Mure, Minae
+   Scott, Emily E.
+   Limburg, Julian
+TI Expression, purification, crystallization and preliminary X-ray studies
+   of histamine dehydrogenase from Nocardioides simplex
+SO ACTA CRYSTALLOGRAPHICA SECTION F-STRUCTURAL BIOLOGY AND CRYSTALLIZATION
+   COMMUNICATIONS
+LA English
+DT Article
+ID COVALENTLY BOUND COENZYME; TRIMETHYLAMINE DEHYDROGENASE; PROTEIN
+   CRYSTALS; ANTIHISTAMINES; CLONING; FLAVIN
+AB Histamine dehydrogenase ( HADH) from Nocardioides simplex catalyzes the oxidative deamination of histamine to produce imidazole acetaldehyde and an ammonium ion. HADH is functionally related to trimethylamine dehydrogenase (TMADH), but HADH has strict substrate specificity towards histamine. HADH is a homodimer, with each 76 kDa subunit containing two redox cofactors: a [4Fe-4S] cluster and an unusual covalently bound flavin mononucleotide, 6-S-cysteinyl-FMN. In order to understand the substrate specificity of HADH, it was sought to determine its structure by X-ray crystallography. This enzyme has been expressed recombinantly in Escherichia coli and successfully crystallized in two forms. Diffraction data were collected to 2.7 angstrom resolution at the SSRL synchrotron with 99.7% completeness. The crystals belonged to the orthorhombic space group P2(1)2(1)2(1), with unit-cell parameters a = 101.14, b = 107.03, c = 153.35 angstrom.
+C1 Univ Kansas, Dept Med Chem, Lawrence, KS 66045 USA.
+   Univ Kansas, Dept Chem, Lawrence, KS 66045 USA.
+RP Scott, EE (reprint author), Univ Kansas, Dept Med Chem, 1251 Wescoe Hall Dr, Lawrence, KS 66045 USA.
+EM eescott@ku.edu; jlimburg@ku.edu
+RI Hirakawa, Hidehiko/A-3089-2013
+OI Hirakawa, Hidehiko/0000-0003-0623-8573
+FU National Institutes of Health; National Center for Research Resources;
+   Biomedical Technology Program; Department of Energy, Office of
+   Biological and Environmental Research; NIH [GM079446, NIH 5P20 RR17708];
+   University of Kansas Center for Research
+FX Home-source X-ray data were collected at the Protein Structure
+   Laboratory at The University of Kansas. High-resolution data were
+   collected at the Stanford Synchrotron Radiation Laboratory (SSRL), which
+   provided excellent diffraction facilities and support. The SSRL is
+   operated by the Department of Energy, Office of Basic Energy Sciences.
+   The SSRL Biotechnology Program is supported by the National Institutes
+   of Health, National Center for Research Resources, Biomedical Technology
+   Program and by the Department of Energy, Office of Biological and
+   Environmental Research. This research was supported by NIH GM079446
+   (JL), NIH 5P20 RR17708 (COBRE Center in Protein Structure and Function)
+   and funds from the University of Kansas Center for Research.
+CR Cohen AE, 2002, J APPL CRYSTALLOGR, V35, P720, DOI 10.1107/S0021889802016709
+   Collaborative Computational Project Number 4, 1994, ACTA CRYSTALLOGR D, V50, P760, DOI DOI 10.1107/S0907444994003112
+   Doublie S, 1997, METHOD ENZYMOL, V276, P523, DOI 10.1016/S0076-6879(97)76075-0
+   Emsley P, 2004, ACTA CRYSTALLOGR D, V60, P2126, DOI 10.1107/S0907444904019158
+   Fujieda N, 2004, BIOCHEMISTRY-US, V43, P10800, DOI 10.1021/bi049061q
+   Konkimalla VB, 2003, BIOCHEM BIOPH RES CO, V309, P425, DOI 10.1016/j.bbrc.2003.08.023
+   Leslie AGW, 2006, ACTA CRYSTALLOGR D, V62, P48, DOI 10.1107/S0907444905039107
+   Limburg J, 2005, ARCH BIOCHEM BIOPHYS, V436, P8, DOI 10.1016/j.abb.2004.11.024
+   MATTHEWS BW, 1968, J MOL BIOL, V33, P491, DOI 10.1016/0022-2836(68)90205-2
+   Mccoy AJ, 2007, J APPL CRYSTALLOGR, V40, P658, DOI 10.1107/S0021889807021206
+   MCINTIRE WS, 1990, METHOD ENZYMOL, V188, P250
+   Murshudov GN, 1997, ACTA CRYSTALLOGR D, V53, P240, DOI 10.1107/S0907444996012255
+   Siddiqui JA, 2000, FEMS MICROBIOL LETT, V189, P183, DOI 10.1111/j.1574-6968.2000.tb09227.x
+   STEENKAMP DJ, 1978, J BIOL CHEM, V253, P2812
+   STEENKAMP DJ, 1978, J BIOL CHEM, V253, P2818
+   Thurmond RL, 2008, NAT REV DRUG DISCOV, V7, P41, DOI 10.1038/nrd2465
+   Trickey P, 2000, BIOCHEMISTRY-US, V39, P7678, DOI 10.1021/bi9927181
+NR 17
+TC 1
+Z9 1
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 1744-3091
+J9 ACTA CRYSTALLOGR F
+JI Acta Crystallogr. F-Struct. Biol. Cryst. Commun.
+PD SEP
+PY 2008
+VL 64
+BP 785
+EP 787
+DI 10.1107/S1744309108023336
+PN 9
+PG 3
+WC Biochemical Research Methods; Biochemistry & Molecular Biology;
+   Biophysics; Crystallography
+SC Biochemistry & Molecular Biology; Biophysics; Crystallography
+GA 343CM
+UT WOS:000258830200004
+ER
+
+PT J
+AU Awamoto, K
+   Ishimoto, M
+   Hirakawa, H
+   Shinoda, T
+AF Awamoto, Kenji
+   Ishimoto, Manabu
+   Hirakawa, Hitoshi
+   Shinoda, Tsutae
+TI The big picture
+SO IEEE INDUSTRY APPLICATIONS MAGAZINE
+LA English
+DT Article; Proceedings Paper
+CT IEEE Industry-Applications-Society Annual Meeting
+CY OCT 05-09, 2008
+CL Alberta, CANADA
+SP Ind Applicat Soc
+C1 Shinoda Plasma Co Ltd, Kobe, Hyogo, Japan.
+RP Awamoto, K (reprint author), Shinoda Plasma Co Ltd, Kobe, Hyogo, Japan.
+EM awamoto@shi-pla.com
+CR AWARNOTO K, 2005, SID, P206
+   Hirose T., 1996, SID96, P279
+   Ishimoto M, 2005, J SOC INF DISPLAY, V13, P905, DOI 10.1889/1.2137632
+   ISHIMOTO M, 2002, P IDW 02, P665
+   Kasahara M., 1999, Society for Information Display 1999 International Symposium
+   Shinoda T., 2002, SID, P1072
+   Shinoda T., 1984, SID 1984, P172
+   Shinoda T, 1991, [No title captured], P724
+   SHINOHE K, 2004, P IDW DEC, P941
+   SLOTTOW HG, 1976, IEEE T ELECTRON DEV, V23, P760, DOI 10.1109/T-ED.1976.18480
+   YOSHIKAWA S, 1992, P JPN DISPLAY, P605
+NR 11
+TC 5
+Z9 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 1077-2618
+J9 IEEE IND APPL MAG
+JI IEEE Ind. Appl. Mag.
+PD JUL-AUG
+PY 2008
+VL 14
+IS 4
+BP 18
+EP 25
+DI 10.1109/MIAS.2008.923592
+PG 8
+WC Engineering, Industrial; Engineering, Electrical & Electronic
+SC Engineering
+GA 315YT
+UT WOS:000256916800005
+ER
+
+PT J
+AU Ishimoto, M
+   Hirakawa, H
+   Awamoto, K
+   Shinohe, K
+   Yamada, H
+   Yamasaki, Y
+   Shinoda, T
+AF Ishimoto, M
+   Hirakawa, H
+   Awamoto, K
+   Shinohe, K
+   Yamada, H
+   Yamasaki, Y
+   Shinoda, T
+TI High-luminous-efficacy structure for plasma tubes
+SO JOURNAL OF THE SOCIETY FOR INFORMATION DISPLAY
+LA English
+DT Article
+DE plasma-tube array; high luminous efficacy; wall TV; plasma display;
+   large-area display
+AB The plasma-tube-array display is expected to become a wall-sized display with very high luminous efficacy. The cell design for high luminous efficacy was investigated. Also, discharging in the plasma tube was observed in order to investigate the structure for high luminous efficacy. As the result, a high luminous efficacy of 5.4 lm/W was achieved.
+C1 Fujitsu Labs Ltd, Akashi, Hyogo 6748555, Japan.
+RP Ishimoto, M (reprint author), Fujitsu Labs Ltd, 64 Nishiwaki Ohkubo Cho, Akashi, Hyogo 6748555, Japan.
+EM ishimoto@jp.fujitsu.com
+CR AWAMOTO K, 2005, SID S, V36, P206, DOI 10.1889/1.2036405
+   BOEUF JP, 2003, IND APPL C 2003 38 I, V1, P69
+   ISHIMOTO M, 2002, P IDW 02, P665
+   ISHIMOTO M, 2003, SID S, V34
+   JUNG JC, 2004, P IMID 04, P529
+   ONIMARU T, 2004, SID INT S 04 DIG, V35, P1241, DOI 10.1889/1.1825727
+   Oversluizen G., 2004, Journal of the Society for Information Display, V12, DOI 10.1889/1.1824239
+   SHINODA T, 2002, SID S DIG TECH PAP, V33, P1072, DOI 10.1889/1.1830129
+   WHANG KW, 2005, SID S, V36, P1130, DOI 10.1889/1.2036200
+NR 9
+TC 8
+Z9 8
+PU SOC INFORMATION DISPLAY
+PI SAN JOSE
+PA 610 S SECOND STREET, SAN JOSE, CA 95112 USA
+SN 1071-0922
+J9 J SOC INF DISPLAY
+JI J. Soc. Inf. Disp.
+PD NOV
+PY 2005
+VL 13
+IS 11
+BP 905
+EP 912
+DI 10.1889/1.2137632
+PG 8
+WC Engineering, Electrical & Electronic; Materials Science,
+   Multidisciplinary; Optics; Physics, Applied
+SC Engineering; Materials Science; Optics; Physics
+GA 025QZ
+UT WOS:000236283300005
+ER
+
+PT J
+AU Ohta, T
+   Kojima, A
+   Hirakawa, H
+   Iwamatsu, T
+   Koshida, N
+AF Ohta, T
+   Kojima, A
+   Hirakawa, H
+   Iwamatsu, T
+   Koshida, N
+TI Operation of nanocrystalline silicon ballistic emitter in low vacuum and
+   atmospheric pressures
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B
+LA English
+DT Article
+ID ELECTRON-EMISSION; DIODES
+AB To make the specific features of nanoerystalline silicon (ne-Si) cold cathode clear, its emission characteristics are investigated in low vacuum and atmospheric pressure, The experimental nc-Si diode is composed of a thin Au film, a nanocrystallized polysilicon layer, an n-type silicon wafer, and a back contact. It is shown that the ballistic electron emission mode of the nc-Si device is kept alive until the vacuum pressure is increased to about 10 Pa, and that a significant current signal is detected at the collector even in air. The current observed in air can be interpreted as a result of energetic electron attachment into oxygen molecules in proximity to the front Surface. The effectiveness of this emitter for the use in air is applied to surface charging of an insulating polymer. The experimental results demonstrate that the surface of a polymer film located in air at a distance of 1 mm from the device surface is quickly charged up to a certain negative potential determined from the collector voltage. The surface-emitting nc-Si ballistic emitter is useful not only in vacuum, but also in air and gas ambient for various applications. (c) 2005 American Vacuum Society.
+C1 Univ Tokyo, Grad Sch Technol, Tokyo 1848588, Japan.
+   Japan & Quantum 14 Co Ltd, Tokyo 1848588, Japan.
+   Sharp Co Ltd, Prod Technol Dev Ctr, Nara 6328567, Japan.
+RP Ohta, T (reprint author), Univ Tokyo, Grad Sch Technol, 2-24-16 Nakacho, Tokyo 1848588, Japan.
+EM koshida@cc.tuat.ac.jp
+RI Ohta, Toshiyuki/A-1872-2011
+CR ICHIHARA T, 2004, J VAC SCI TECHNOL B, V24, P57
+   Komoda T, 1999, J VAC SCI TECHNOL B, V17, P1076, DOI 10.1116/1.590696
+   Koshida N, 1999, APPL SURF SCI, V146, P371, DOI 10.1016/S0169-4332(99)00004-5
+   KOSHIDA N, 1995, JPN J APPL PHYS 2, V34, pL705, DOI 10.1143/JJAP.34.L705
+   Uno S, 2003, IEEE T NANOTECHNOL, V2, P301, DOI 10.1109/TNANO.2003.820508
+   VONENGEL A, 1965, IONIZED GASES, pCH3
+NR 6
+TC 15
+Z9 15
+PU A V S AMER INST PHYSICS
+PI MELVILLE
+PA STE 1 NO 1, 2 HUNTINGTON QUADRANGLE, MELVILLE, NY 11747-4502 USA
+SN 1071-1023
+J9 J VAC SCI TECHNOL B
+JI J. Vac. Sci. Technol. B
+PD NOV-DEC
+PY 2005
+VL 23
+IS 6
+BP 2336
+EP 2339
+DI 10.1116/1.2102928
+PG 4
+WC Engineering, Electrical & Electronic; Nanoscience & Nanotechnology;
+   Physics, Applied
+SC Engineering; Science & Technology - Other Topics; Physics
+GA 002LP
+UT WOS:000234613200017
+ER
+
+PT J
+AU Kuroda, M
+   Yamashita, A
+   Hirakawa, H
+   Kumano, M
+   Morikawa, K
+   Higashide, M
+   Maruyama, A
+   Inose, Y
+   Matoba, K
+   Toh, H
+   Kuhara, S
+   Hattori, M
+   Ohta, T
+AF Kuroda, M
+   Yamashita, A
+   Hirakawa, H
+   Kumano, M
+   Morikawa, K
+   Higashide, M
+   Maruyama, A
+   Inose, Y
+   Matoba, K
+   Toh, H
+   Kuhara, S
+   Hattori, M
+   Ohta, T
+TI Whole genome sequence of Staphylococcus saprophyticus reveals the
+   pathogenesis of uncomplicated urinary tract infection
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE hemagglutination; paralog expansion; divalent-cation transporter;
+   capsule; staphylococcal cassette chromosome
+ID COAGULASE-NEGATIVE STAPHYLOCOCCI; UROPATHOGENIC ESCHERICHIA-COLI;
+   PROTEUS-MIRABILIS; AUREUS; VIRULENCE; GENES; IDENTIFICATION;
+   EPIDERMIDIS; RESISTANCE; DATABASE
+AB Staphylococcus saprophyticus is a uropathogenic Staphylococcus frequently isolated from young female outpatients presenting with uncomplicated urinary tract infections. We sequenced the whole genome of S. saprophyticus type strain ATCC 15305, which harbors a circular chromosome of 2,516,575 bp with 2,446 ORFs and two plasmids. Comparative genomic analyses with the strains of two other species, Staphylococcus aureus and Staphylococcus epidermidis, as well as experimental data, revealed the following characteristics of the S. saprophyticus genome. S. saprophyticus does not possess any virulence factors found in S. aureus, such as coagulase, enterotoxins, exoenzymes, and extracellular matrix-binding proteins, although it does have a remarkable paralog expansion of transport systems related to highly variable ion contents in the urinary environment. A further unique feature is that only a single ORF is predictable as a cell wall-anchored protein, and it shows positive hemagglutination and adherence to human bladder cell associated with initial colonization in the urinary tract. It also shows significantly high urease activity in S. saprophyticus. The uropathogenicity of S. saprophyticus can be attributed to its genome that is needed for its survival in the human urinary tract by means of novel cell wall-anchored adhesin and redundant uro-adaptive transport systems, together with urease.
+C1 Univ Tsukuba, Dept Microbiol, Grad Sch Comprehens Human Sci, Tsukuba, Ibaraki 3058575, Japan.
+   Kitasato Univ, Kitasato Inst Life Sci, Kanagawa 2288555, Japan.
+   Kyushu Univ, Fac Agr, Grad Sch Syst Life Sci, Higashi Ku, Fukuoka 8128581, Japan.
+   Kyushu Univ, Fac Agr, Dept Genet Resources Technol, Higashi Ku, Fukuoka 8128581, Japan.
+   Kitasato Inst, Ctr Basic Res, Tokyo 1088641, Japan.
+   RIKEN, Gen Core Technol Facil, Gen Sci Ctr, Tsurumi Ku, Kanagawa 2300045, Japan.
+RP Ohta, T (reprint author), Univ Tsukuba, Dept Microbiol, Grad Sch Comprehens Human Sci, 1-1-1 Tennodai, Tsukuba, Ibaraki 3058575, Japan.
+EM tohta@sakura.cc.tsukuba.ac.jp
+CR Altschul SF, 1997, NUCLEIC ACIDS RES, V25, P3389, DOI 10.1093/nar/25.17.3389
+   Anderson GG, 2004, TRENDS MICROBIOL, V12, P424, DOI 10.1016/j.tim.2004.07.005
+   Baba T, 2002, LANCET, V359, P1819, DOI 10.1016/S0140-6736(02)08713-5
+   Burall LS, 2004, INFECT IMMUN, V72, P2922, DOI 10.1128/IAI.72.5.2922-2938.2004
+   Comfort D, 2004, INFECT IMMUN, V72, P2710, DOI 10.1128/IAI.72.5.2710-2722.2004
+   Delcher AL, 1999, NUCLEIC ACIDS RES, V27, P4636, DOI 10.1093/nar/27.23.4636
+   DRECHSEL H, 1993, J BACTERIOL, V175, P2727
+   Forbes JR, 2001, TRENDS MICROBIOL, V9, P397, DOI 10.1016/S0966-842X(01)02098-4
+   FUJITA K, 1992, UROL RES, V20, P399
+   Gatermann S, 1988, FEMS Microbiol Immunol, V1, P179
+   GATERMANN S, 1989, INFECT IMMUN, V57, P110
+   Gordon D, 2001, GENOME RES, V11, P614, DOI 10.1101/gr.171401
+   Hell W, 1998, MOL MICROBIOL, V29, P871, DOI 10.1046/j.1365-2958.1998.00983.x
+   Higgins DG, 1996, METHOD ENZYMOL, V266, P383
+   Hiramatsu K, 2004, VACCINE, V22, pS5, DOI 10.1016/j.vaccine.2004.08.009
+   Holden MTG, 2004, P NATL ACAD SCI USA, V101, P9786, DOI 10.1073/pnas.0402521101
+   Ito T, 2004, ANTIMICROB AGENTS CH, V48, P2637, DOI 10.1128/AAC.48.7.2637-2651.2004
+   JONES BD, 1990, INFECT IMMUN, V58, P1120
+   Kahlmeter G, 2003, J ANTIMICROB CHEMOTH, V51, P69, DOI 10.1093/jac/dkg028
+   KREISWIRTH BN, 1983, NATURE, V305, P709, DOI 10.1038/305709a0
+   Kumar S, 2004, BRIEF BIOINFORM, V5, P150, DOI 10.1093/bib/5.2.150
+   Kuroda M, 2001, LANCET, V357, P1225, DOI 10.1016/S0140-6736(00)04403-2
+   Lowe TM, 1997, NUCLEIC ACIDS RES, V25, P955, DOI 10.1093/nar/25.5.955
+   Mazmanian SK, 1999, SCIENCE, V285, P760, DOI 10.1126/science.285.5428.760
+   MEERS PD, 1975, J CLIN PATHOL, V28, P270, DOI 10.1136/jcp.28.4.270
+   NAITO T, 1995, SCIENCE, V267, P897, DOI 10.1126/science.7846533
+   Novick RP, 2003, PLASMID, V49, P93, DOI 10.1016/S0147-619X(02)00157-9
+   Novick RP, 2003, MOL MICROBIOL, V48, P1429, DOI 10.1046/j.1365-2958.2003.03526.x
+   PODSCHUN R, 1990, ZBL HYG UMWELTMED, V189, P527
+   PODSCHUN R, 1993, J INFECT DIS, V168, P1415
+   Sakiyama T, 2000, BIOSCI BIOTECH BIOCH, V64, P670, DOI 10.1271/bbb.64.670
+   SHAW C, 1951, J GEN MICROBIOL, V5, P1010
+   Tatusov RL, 2001, NUCLEIC ACIDS RES, V29, P22, DOI 10.1093/nar/29.1.22
+   TORRES PA, 1962, J CLIN PATHOL, V15, P252
+   von Eiff C, 2002, LANCET INFECT DIS, V2, P677, DOI 10.1016/S1473-3099(02)00438-3
+   WALLMARK G, 1978, J INFECT DIS, V138, P791
+   Welch RA, 2002, P NATL ACAD SCI USA, V99, P17020, DOI 10.1073/pnas.252529799
+   Zhang YQ, 2003, MOL MICROBIOL, V49, P1577, DOI 10.1046/j.1365-2958.2003.03671.x
+NR 38
+TC 89
+Z9 694
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 13
+PY 2005
+VL 102
+IS 37
+BP 13272
+EP 13277
+DI 10.1073/pnas.0502950102
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 964YG
+UT WOS:000231916300048
+ER
+
+PT J
+AU Hirakawa, H
+   Awamoto, K
+   Ishimoto, M
+   Shinohe, K
+   Tokai, A
+   Yamada, H
+   Yamazaki, Y
+   Shinoda, T
+AF Hirakawa, H
+   Awamoto, K
+   Ishimoto, M
+   Shinohe, K
+   Tokai, A
+   Yamada, H
+   Yamazaki, Y
+   Shinoda, T
+TI A light and flexible plasma tube array with a film substrate
+SO JOURNAL OF THE SOCIETY FOR INFORMATION DISPLAY
+LA English
+DT Article; Proceedings Paper
+CT 11th International Display Workshop (IDW 04)
+CY 2004
+CL Niigata, JAPAN
+DE plasma display; plasma tube; large area display; film substrate
+AB The plasma tube array is expected to lead to the realization of wall-sized displays. This method will realize an emissive-type display with a flexible screen and an expandable screen size. We have investigated a plastic film substrate with display electrodes for use as a flexible screen and successfully developed the world's largest bendable emissive display ( 1000 x 128 mm). The operating voltage distribution was improved compared to that with a plate substrate, and a sufficient voltage margin was maintained.
+C1 Fujitsu Labs Ltd, Akashi, Hyogo 6748555, Japan.
+RP Hirakawa, H (reprint author), Fujitsu Labs Ltd, 64 Nishiwaki,Ohkubo Cho, Akashi, Hyogo 6748555, Japan.
+EM nhan@labs.fujitsu.com
+CR HIRAKAWA H, 2004, SID S DIG TECH PAP, V35, P810, DOI 10.1889/1.1821398
+   ISHIMOTO M, 2002, P IDW 02, P665
+   Ishimoto M., 2004, Journal of the Society for Information Display, V12, DOI 10.1889/1.1821302
+   ISHIMOTO M, 2003, SO INF DISPL 2003 IN, V34, P36, DOI 10.1889/1.1832200
+   SHINODA T, 2002, SID S DIG TECH PAP, V33, P1072, DOI 10.1889/1.1830129
+   SHINOHE K, 2004, P IDW DEC, P941
+   TOKAI A, 2002, P ASID 02, P85
+   YAMAZAKI Y, 2003, P IDW 03, P901
+NR 8
+TC 4
+Z9 4
+PU SOC INFORMATION DISPLAY
+PI SAN JOSE
+PA 610 S SECOND STREET, SAN JOSE, CA 95112 USA
+SN 1071-0922
+J9 J SOC INF DISPLAY
+JI J. Soc. Inf. Disp.
+PD AUG
+PY 2005
+VL 13
+IS 8
+BP 647
+EP 655
+DI 10.1889/1.2039293
+PG 9
+WC Engineering, Electrical & Electronic; Materials Science,
+   Multidisciplinary; Optics; Physics, Applied
+SC Engineering; Materials Science; Optics; Physics
+GA 025QU
+UT WOS:000236282800007
+ER
+
+PT J
+AU Hirakawa, H
+   Kamiya, N
+   Kawarabayashi, Y
+   Nagamune, T
+AF Hirakawa, H
+   Kamiya, N
+   Kawarabayashi, Y
+   Nagamune, T
+TI Log P effect of organic solvents on a thermophilic alcohol dehydrogenase
+SO BIOCHIMICA ET BIOPHYSICA ACTA-PROTEINS AND PROTEOMICS
+LA English
+DT Article
+DE alcohol dehydrogenase; Aeropyrum pernix; log P; water mole fraction;
+   activation by organic solvents; water miscible
+ID ARCHAEON AEROPYRUM-PERNIX; ENZYMATIC CATALYSIS;
+   D-GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE; NONAQUEOUS MEDIA; WATER;
+   STABILITY; ENZYMES; BIOCATALYSIS; OPTIMIZATION; REGENERATION
+AB An alcohol dehydrogenase from the hyperthermophilic archaeon Aeropyrum pernix was activated by water-miscible organic solvents. This activation was influenced by the kind and the concentration of the added organic solvents. The k(cat) was increased by a factor of over ten when the mole fraction of acetonitrile was 0.1. This effect was large when organic solvents with large log P values were added. In fact, the k(cat) showed a strong positive correlation with the log P value of the mixed solvent at a constant mole fraction of water, while it was not affected by the kind of organic solvents added. Both the activation enthalpy and the entropy decreased with an increase in log P. The contribution of the activation enthalpy to the free energy of activation was larger than that of the activation entropy, and the free energy of activation decreased with an increase in log P. (c) 2004 Published by Elsevier B.V.
+C1 Univ Tokyo, Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, Tokyo 1138656, Japan.
+   Kyushu Univ, Grad Sch Engn, Dept Appl Chem, Fukuoka 8128581, Japan.
+   Natl Inst Adv Ind Sci & Technol, Res Ctr Glycosci, Tsukuba, Ibaraki 3058566, Japan.
+RP Nagamune, T (reprint author), Univ Tokyo, Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138656, Japan.
+EM nagamune@bio.t.u-tokyo.ac.jp
+RI Hirakawa, Hidehiko/A-3089-2013
+OI Hirakawa, Hidehiko/0000-0003-0623-8573
+CR Adlercreutz P, 1996, BIOCATAL BIOTRANSFOR, V14, P1, DOI 10.3109/10242429609106874
+   AFFLECK R, 1992, P NATL ACAD SCI USA, V89, P5167, DOI 10.1073/pnas.89.11.5167
+   AFFLECK R, 1992, P NATL ACAD SCI USA, V89, P1100, DOI 10.1073/pnas.89.3.1100
+   Almarsson O, 1996, BIOTECHNOL BIOENG, V49, P87, DOI 10.1002/(SICI)1097-0290(19960105)49:1<87::AID-BIT11>3.0.CO;2-8
+   Arroyo M, 1999, ENZYME MICROB TECH, V25, P378, DOI 10.1016/S0141-0229(99)00057-5
+   Bell G, 1995, TRENDS BIOTECHNOL, V13, P468, DOI 10.1016/S0167-7799(00)89004-6
+   BURKE PA, 1993, BIOTECHNOL BIOENG, V42, P87, DOI 10.1002/bit.260420112
+   DORDICK JS, 1989, ENZYME MICROB TECH, V11, P194, DOI 10.1016/0141-0229(89)90094-X
+   FUJITA SC, 1976, EUR J BIOCHEM, V64, P57, DOI 10.1111/j.1432-1033.1976.tb10274.x
+   GORMAN LAS, 1992, BIOTECHNOL BIOENG, V39, P392, DOI 10.1002/bit.260390405
+   GUINN RM, 1991, BIOTECHNOL BIOENG, V37, P303, DOI 10.1002/bit.260370403
+   GUPTA MN, 1992, EUR J BIOCHEM, V203, P25, DOI 10.1111/j.1432-1033.1992.tb19823.x
+   Guy JE, 2003, J MOL BIOL, V331, P1041, DOI 10.1016/S0022-2836(03)00857-X
+   HILHORST R, 1984, EUR J BIOCHEM, V144, P459, DOI 10.1111/j.1432-1033.1984.tb08488.x
+   Hirakawa H, 2003, BIOCHEM ENG J, V16, P35, DOI 10.1016/S1369-703X(03)00019-6
+   Hirakawa H, 2004, J BIOSCI BIOENG, V97, P202, DOI 10.1016/S1389-1723(04)70191-7
+   Hutcheon GA, 2000, BIOTECHNOL BIOENG, V70, P262, DOI 10.1002/1097-0290(20001105)70:3<262::AID-BIT3>3.0.CO;2-6
+   KHMELNITSKY YL, 1988, ENZYME MICROB TECH, V10, P710, DOI 10.1016/0141-0229(88)90115-9
+   ZAKS A, 1986, J AM CHEM SOC, V108, P2767, DOI 10.1021/ja00270a053
+   Klibanov AM, 1997, TRENDS BIOTECHNOL, V15, P97, DOI 10.1016/S0167-7799(97)01013-5
+   Klibanov AM, 2003, CURR OPIN BIOTECH, V14, P427, DOI 10.1016/S0958-1669(03)00074-0
+   Krishna SH, 2002, CATAL REV, V44, P499, DOI 10.1081/CR-120015481
+   LAANE C, 1987, BIOTECHNOL BIOENG, V30, P81, DOI 10.1002/bit.260300112
+   Lozano P, 1996, BIOTECHNOL PROGR, V12, P488, DOI 10.1021/bp960011p
+   Madyastha KM, 1996, BIOTECHNOL APPL BIOC, V23, P245
+   MARTIN LD, 2001, TETRAHEDRON LETT, V42, P3395
+   Matsue S, 2001, INT J BIOL MACROMOL, V28, P343, DOI 10.1016/S0141-8130(01)00127-1
+   Miroliaei M, 2002, INT J BIOCHEM CELL B, V34, P169, DOI 10.1016/S1357-2725(01)00109-1
+   Raia CA, 1996, BIOCHEMISTRY-US, V35, P638, DOI 10.1021/bi9502093
+   REHABER V, 1992, J BIOL CHEM, V267, P10999
+   REID MF, 1994, CRIT REV MICROBIOL, V20, P13, DOI 10.3109/10408419409113545
+   RESLOW M, 1987, APPL MICROBIOL BIOT, V26, P1
+   SUNDARAM TK, 1980, BIOCHEMISTRY-US, V19, P2017, DOI 10.1021/bi00551a002
+   TAN KH, 1972, J BIOL CHEM, V247, P3275
+   Tsuzuki W, 2001, BIOSCI BIOTECH BIOCH, V65, P2078, DOI 10.1271/bbb.65.2078
+   WINBERG JO, 1985, BIOCHEM GENET, V23, P205, DOI 10.1007/BF00504319
+   ZAKS A, 1985, P NATL ACAD SCI USA, V82, P3192, DOI 10.1073/pnas.82.10.3192
+   ZAKS A, 1984, SCIENCE, V224, P1249, DOI 10.1126/science.6729453
+NR 38
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-9639
+J9 BBA-PROTEINS PROTEOM
+JI BBA-Proteins Proteomics
+PD APR 15
+PY 2005
+VL 1748
+IS 1
+BP 94
+EP 99
+DI 10.1016/j.bbapap.2004.12.007
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 907RI
+UT WOS:000227735200012
+ER
+
+PT J
+AU Kuwahara, T
+   Yamashita, A
+   Hirakawa, H
+   Nakayama, H
+   Toh, H
+   Okada, N
+   Kuhara, S
+   Hattori, M
+   Hayashi, T
+   Ohnishi, Y
+AF Kuwahara, T
+   Yamashita, A
+   Hirakawa, H
+   Nakayama, H
+   Toh, H
+   Okada, N
+   Kuhara, S
+   Hattori, M
+   Hayashi, T
+   Ohnishi, Y
+TI Genomic analysis of Bacteroides fragilis reveals extensive DNA
+   inversions regulating cell surface adaptation
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID ANTIGENIC VARIATION; CAPSULAR POLYSACCHARIDE; SEQUENCE;
+   THETAIOTAOMICRON; VIRULENCE; PROTEINS; REGION; STARCH; GENES; BACTERIUM
+AB Bacteroides are predominant human colonic commensals, but the principal pathogenic species, Bacteroides fragilis (BF), lives closely associated with the mucosal surface, whereas a second major species, Bacteroides thetaiotaomicron (BT), concentrates within the colon. We find corresponding differences in their genomes, based on determination of the genome sequence of BF and comparative analysis with BT. Both species have acquired two mechanisms that contribute to their dominance among the colonic microbiota: an exceptional capability to use a wide range of dietary polysaccharides by gene amplification and the capacity to create variable surface antigenicities by multiple DNA inversion systems. However, the gene amplification for polysaccharide assimilation is more developed in BT, in keeping with its internal localization. In contrast, external antigenic structures can be changed more systematically in BF. Thereby, at the mucosal surface, where microbes encounter continuous attack by host defenses, BF evasion of the immune system is favored, and its colonization and infectious potential are increased.
+C1 Univ Tokushima, Grad Sch Med, Dept Mol Biotechnol, Tokushima 7708503, Japan.
+   Kitasato Univ, Inst Life Sci, Sagamihara, Kanagawa 2288555, Japan.
+   Kyushu Univ, Fac Agr, Grad Sch Syst Life Sci, Fukuoka 8128581, Japan.
+   Kyushu Univ, Fac Agr, Dept Genet Resources Technol, Fukuoka 8128581, Japan.
+   Kitasato Inst, Ctr Basic Res, Minato Ku, Tokyo 1088641, Japan.
+   RIKEN, Genome Sci Ctr, Human Genome Res Grp, Tsurumi Ku, Yokohama, Kanagawa 2300045, Japan.
+   Miyazaki Univ, Coll Med, Dept Microbiol, Miyazaki 8991692, Japan.
+   Miyazaki Univ, Frontier Sci Res Ctr, Div Bioenvironm Sci, Miyazaki 8991692, Japan.
+RP Kuwahara, T (reprint author), Univ Tokushima, Grad Sch Med, Dept Mol Biotechnol, 3-18-15 Kuramoto Cho, Tokushima 7708503, Japan.
+EM tomomi@basic.med.tokushima-u.ac.jp; ohnishi@basic.med.tokushima-u.ac.jp
+CR AKIMOTO S, 1994, BIOCHEM BIOPH RES CO, V203, P914, DOI 10.1006/bbrc.1994.2269
+   Altschul SF, 1997, NUCLEIC ACIDS RES, V25, P3389, DOI 10.1093/nar/25.17.3389
+   ANDERSON KL, 1989, J BACTERIOL, V171, P3192
+   Badger JH, 1999, MOL BIOL EVOL, V16, P512
+   Bayley DP, 2000, FEMS MICROBIOL LETT, V193, P149, DOI 10.1016/S0378-1097(00)00472-9
+   BEDZYK LA, 1992, J BACTERIOL, V174, P166
+   Bhugra B, 1995, MOL MICROBIOL, V18, P703, DOI 10.1111/j.1365-2958.1995.mmi_18040703.x
+   Cho KH, 2001, J BACTERIOL, V183, P7224, DOI 10.1128/JB.183.24.7224-7230.2001
+   Comstock LE, 2000, INFECT IMMUN, V68, P6182, DOI 10.1128/IAI.68.11.6182-6188.2000
+   Coyne MJ, 2000, INFECT IMMUN, V68, P6176, DOI 10.1128/IAI.68.11.6176-6181.2000
+   Coyne MJ, 2003, P NATL ACAD SCI USA, V100, P10446, DOI 10.1073/pnas.1832655100
+   Coyne MJ, 2001, INFECT IMMUN, V69, P4342, DOI 10.1128/IAI.69.7.4342-4350.2001
+   D'Elia J N, 1996, J Bacteriol, V178, P7180
+   Deitsch KW, 1997, MICROBIOL MOL BIOL R, V61, P281
+   Dworkin J, 1997, MOL MICROBIOL, V26, P433, DOI 10.1046/j.1365-2958.1997.6151958.x
+   Ewing B, 1998, GENOME RES, V8, P175
+   Ewing B, 1998, GENOME RES, V8, P186
+   Frishman D, 1998, NUCLEIC ACIDS RES, V26, P2941, DOI 10.1093/nar/26.12.2941
+   Gordon D, 1998, GENOME RES, V8, P195
+   Komano T, 1999, ANNU REV GENET, V33, P171, DOI 10.1146/annurev.genet.33.1.171
+   Krinos CM, 2001, NATURE, V414, P555, DOI 10.1038/35107092
+   Kuwahara T, 2002, FEMS MICROBIOL LETT, V207, P193, DOI 10.1111/j.1574-6968.2002.tb11050.x
+   Lindberg A A, 1982, Scand J Infect Dis Suppl, V35, P45
+   Lobry JR, 1996, MOL BIOL EVOL, V13, P660
+   Lowe TM, 1997, NUCLEIC ACIDS RES, V25, P955, DOI 10.1093/nar/25.5.955
+   NAMAVAR F, 1989, J MED MICROBIOL, V29, P171
+   Nelson KE, 2003, J BACTERIOL, V185, P5591, DOI 10.1128/JB.185.18.5591-5601.2003
+   NIKOLICH MP, 1994, J BACTERIOL, V176, P6606
+   ONDERDONK AB, 1977, J INFECT DIS, V136, P82
+   Patrick S, 2003, MICROBIOL-SGM, V149, P915, DOI 10.1099/mic.0.26166-0
+   Reeves AR, 1996, J BACTERIOL, V178, P823
+   ROTH C, 1991, RES MICROBIOL, V142, P725, DOI 10.1016/0923-2508(91)90087-Q
+   RUDEL T, 1992, MOL MICROBIOL, V6, P3439, DOI 10.1111/j.1365-2958.1992.tb02211.x
+   Sakiyama T, 2000, BIOSCI BIOTECH BIOCH, V64, P670, DOI 10.1271/bbb.64.670
+   SALYERS AA, 1984, ANNU REV MICROBIOL, V38, P293, DOI 10.1146/annurev.micro.38.1.293
+   Schell MA, 2002, P NATL ACAD SCI USA, V99, P14422, DOI 10.1073/pnas.212527599
+   Shimizu T, 2002, P NATL ACAD SCI USA, V99, P996, DOI 10.1073/pnas.022493799
+   Tatusov RL, 2001, NUCLEIC ACIDS RES, V29, P22, DOI 10.1093/nar/29.1.22
+   TZIANABOS AO, 1993, SCIENCE, V262, P416, DOI 10.1126/science.8211161
+   Xu J, 2003, SCIENCE, V299, P2074, DOI 10.1126/science.1080029
+   Yada T, 1999, BIOINFORMATICS, V15, P987, DOI 10.1093/bioinformatics/15.12.987
+NR 41
+TC 95
+Z9 433
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD OCT 12
+PY 2004
+VL 101
+IS 41
+BP 14919
+EP 14924
+DI 10.1073/pnas.0404172101
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 862JX
+UT WOS:000224488000043
+ER
+
+PT J
+AU Shimoda, K
+   Yamane, S
+   Hirakawa, H
+   Ohta, S
+   Hirata, T
+AF Shimoda, K
+   Yamane, S
+   Hirakawa, H
+   Ohta, S
+   Hirata, T
+TI Biotransformation of phenolic compounds by the cultured cells of
+   Catharanthus roseus
+SO JOURNAL OF MOLECULAR CATALYSIS B-ENZYMATIC
+LA English
+DT Article
+DE phenolic compound; Catharanthus roseus; biotransformation
+ID PLANT-TISSUE CULTURE; AJUGA HAIRY ROOTS; EUCALYPTUS-PERRINIANA;
+   SUSPENSION-CULTURES; SALICYL ALCOHOL; COFFEA-ARABICA; PANAX-GINSENG;
+   HYDROXYLATION; GLUCOSYLATION; BIOSYNTHESIS
+AB The cultured cells of Catharanthus roseus were able to convert 2-, 3-, and 4-hydroxybenzyl alcohols into their corresponding hydroxybenzyl-beta-D-glucopyranosides or beta-D-glucopyranosylbenzyl alcohols, and then convert 2- and 3-hydroxybenzyl-beta-D-glucopyranosides into primeverosides and vicianosides. Further, the C roseus cells were capable of hydroxylation of 2-hydroxybenzoic acid to afford 2,5-dihydroxybenzoic acid and then glucosylation of the newly introduced phenolic hydroxyl group. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Hiroshima Univ, Dept Math & Life Sci, Grad Sch Sci, Higashihiroshima 7398526, Japan.
+   Hiroshima Univ, Instrument Ctr Chem Anal, Higashihiroshima 7398526, Japan.
+RP Hirata, T (reprint author), Hiroshima Univ, Dept Math & Life Sci, Grad Sch Sci, 1-3-1 Kagamiyama, Higashihiroshima 7398526, Japan.
+CR Fujimoto Y, 2000, LIPIDS, V35, P279, DOI 10.1007/s11745-000-0524-z
+   Furuya T, 1997, PHYTOCHEMISTRY, V46, P1355, DOI 10.1016/S0031-9422(97)00463-9
+   HAMADA H, 1996, PLANT TISSUE CULTURE, V2, P52
+   HAMADA H, 1994, PHYTOCHEMISTRY, V37, P1037, DOI 10.1016/S0031-9422(00)89524-2
+   Hirata T, 2001, B CHEM SOC JPN, V74, P539, DOI 10.1246/bcsj.74.539
+   HIRATA T, 1994, PHYTOCHEMISTRY, V37, P401, DOI 10.1016/0031-9422(94)85067-4
+   Indrayanto G, 2001, J ASIAN NAT PROD RES, V3, P161, DOI 10.1080/10286020108041385
+   Kawaguchi K, 1998, PHYTOCHEMISTRY, V47, P1261, DOI 10.1016/S0031-9422(97)00748-6
+   MIZUKAMI H, 1983, PHYTOCHEMISTRY, V22, P679, DOI 10.1016/S0031-9422(00)86961-7
+   Nomura K, 2000, CHEM PHARM BULL, V48, P344
+   ORIHARA Y, 1992, PHYTOCHEMISTRY, V31, P827, DOI 10.1016/0031-9422(92)80168-E
+   ORIHARA Y, 1994, PHYTOCHEMISTRY, V35, P941
+   ORIHARA Y, 1991, PHYTOCHEMISTRY, V30, P3989, DOI 10.1016/0031-9422(91)83450-Y
+   Pedras MSC, 2001, P NATL ACAD SCI USA, V98, P747, DOI 10.1073/pnas.021394998
+   SCHENK RU, 1972, CAN J BOTANY, V50, P199
+   SUAREZ M, 1995, FEMS MICROBIOL LETT, V126, P283, DOI 10.1111/j.1574-6968.1995.tb07431.x
+   Syahrani A, 1998, J ASIAN NAT PROD RES, V1, P111, DOI 10.1080/10286029808039852
+   USHIYAMA M, 1989, PHYTOCHEMISTRY, V28, P3009, DOI 10.1016/0031-9422(89)80269-9
+   USHIYAMA M, 1989, PHYTOCHEMISTRY, V28, P1859, DOI 10.1016/S0031-9422(00)97875-0
+   USHIYAMA M, 1989, PHYTOCHEMISTRY, V28, P2333, DOI 10.1016/S0031-9422(00)97979-2
+NR 20
+TC 11
+Z9 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1381-1177
+J9 J MOL CATAL B-ENZYM
+JI J. Mol. Catal. B-Enzym.
+PD FEB 18
+PY 2002
+VL 16
+IS 5-6
+BP 275
+EP 281
+DI 10.1016/S1381-1177(01)00073-X
+PG 7
+WC Biochemistry & Molecular Biology; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Chemistry
+GA 519GQ
+UT WOS:000173717600008
+ER
+
+PT J
+AU Shimizu, T
+   Ohtani, K
+   Hirakawa, H
+   Ohshima, K
+   Yamashita, A
+   Shiba, T
+   Ogasawara, N
+   Hattori, M
+   Kuhara, S
+   Hayashi, H
+AF Shimizu, T
+   Ohtani, K
+   Hirakawa, H
+   Ohshima, K
+   Yamashita, A
+   Shiba, T
+   Ogasawara, N
+   Hattori, M
+   Kuhara, S
+   Hayashi, H
+TI Complete genome sequence of Clostridium perfringens, an anaerobic
+   flesh-eater
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID EXTRACELLULAR TOXIN PRODUCTION; ABC TRANSPORT-SYSTEMS;
+   MYCOBACTERIUM-TUBERCULOSIS; BACILLUS-SUBTILIS; DNA-SEQUENCE; GENES;
+   PATHOGEN; BACTERIA; IDENTIFICATION; 2-COMPONENT
+AB Clostridium perfringens is a Gram-positive anaerobic spore-forming bacterium that causes life-threatening gas gangrene and mild enterotoxaemia in humans, although it colonizes as normal intestinal flora of humans and animals. The organism is known to produce a variety of toxins and enzymes that are responsible for the severe myonecrotic lesions. Here we report the complete 3,031,430-bp sequence of C. perfringens strain 13 that comprises 2,660 protein coding regions and 10 rRNA genes, showing pronounced low overall G + C content (28.6%). The genome contains typical anaerobic fermentation enzymes leading to gas production but no enzymes for the tricarboxylic acid cycle or respiratory chain. Various saccharolytic enzymes were found, but many enzymes for amino acid biosynthesis were lacking in the genome. Twenty genes were newly identified as putative virulence factors of C. perfringens, and we found a total of five hyaluronidase genes that will also contribute to virulence. The genome analysis also proved an efficient method for finding four members of the two-component VirR/VirS regulon that coordinately regulates the pathogenicity of C. perfringens. Clearly, C. perfringens obtains various essential materials from the host by producing several degradative enzymes and toxins, resulting in massive destruction of the host tissues.
+C1 Univ Tsukuba, Inst Basic Med Sci, Dept Microbiol, Tsukuba, Ibaraki 3058575, Japan.
+   Kyushu Univ, Fac Agr, Dept Genet Resources Technol, Higashi Ku, Fukuoka 8128581, Japan.
+   Hitachi Instruments Serv Co Ltd, Shinjuku Ku, Tokyo 1600004, Japan.
+   Kitasato Univ, Sch Sci, Sagamihara, Kanagawa 2288555, Japan.
+   Adv Inst Sci & Technol, Ikoma, Nara 6300101, Japan.
+   Inst Phys & Chem Res Genom Sci Ctr, Human Genome Res Grp, Tsurumi Ku, Yokohama, Kanagawa 2300045, Japan.
+RP Shimizu, T (reprint author), Univ Tsukuba, Inst Basic Med Sci, Dept Microbiol, Tsukuba, Ibaraki 3058575, Japan.
+RI da Silva, Washington/B-1216-2009
+OI da Silva, Washington/0000-0001-5558-286X
+CR Altschul SF, 1997, NUCLEIC ACIDS RES, V25, P3389, DOI 10.1093/nar/25.17.3389
+   Banu S, 2000, MOL MICROBIOL, V35, P854, DOI 10.1046/j.1365-2958.2000.01760.x
+   Bassler BL, 1999, CURR OPIN MICROBIOL, V2, P582, DOI 10.1016/S1369-5274(99)00025-9
+   BaThein W, 1996, J BACTERIOL, V178, P2514
+   Blattner FR, 1997, SCIENCE, V277, P1453, DOI 10.1126/science.277.5331.1453
+   Bolotin A, 2001, GENOME RES, V11, P731, DOI 10.1101/gr.GR-1697R
+   Braibant M, 2000, FEMS MICROBIOL REV, V24, P449, DOI 10.1111/j.1574-6976.2000.tb00550.x
+   CANARD B, 1989, P NATL ACAD SCI USA, V86, P6676, DOI 10.1073/pnas.86.17.6676
+   Cheung JK, 2000, J BACTERIOL, V182, P57
+   Cole ST, 2001, NATURE, V409, P1007, DOI 10.1038/35059006
+   Cole ST, 1998, NATURE, V393, P537
+   DARGATZ H, 1993, MOL GEN GENET, V240, P140
+   Ferretti JJ, 2001, P NATL ACAD SCI USA, V98, P4658, DOI 10.1073/pnas.071559398
+   Fraser CM, 1998, SCIENCE, V281, P375, DOI 10.1126/science.281.5375.375
+   Fraser CM, 1997, NATURE, V390, P580, DOI 10.1038/37551
+   Gibert M, 1997, GENE, V203, P65, DOI 10.1016/S0378-1119(97)00493-9
+   Gilot P, 2000, J MED MICROBIOL, V49, P887
+   HATHEWAY CL, 1990, CLIN MICROBIOL REV, V3, P66
+   Heidelberg JF, 2000, NATURE, V406, P477
+   Hoch JA, 2000, CURR OPIN MICROBIOL, V3, P165, DOI 10.1016/S1369-5274(00)00070-9
+   Hynes WL, 2000, FEMS MICROBIOL LETT, V183, P201, DOI 10.1016/S0378-1097(99)00669-2
+   KATAYAMA S, 1995, J BACTERIOL, V177, P5680
+   Kunst F, 1997, NATURE, V390, P249, DOI 10.1038/36786
+   Kuroda M, 2001, LANCET, V357, P1225, DOI 10.1016/S0140-6736(00)04403-2
+   Linton KJ, 1998, MOL MICROBIOL, V28, P5, DOI 10.1046/j.1365-2958.1998.00764.x
+   Lobry JR, 1996, MOL BIOL EVOL, V13, P660
+   Lowe TM, 1997, NUCLEIC ACIDS RES, V25, P955, DOI 10.1093/nar/25.5.955
+   LYRISTIS M, 1994, MOL MICROBIOL, V12, P761, DOI 10.1111/j.1365-2958.1994.tb01063.x
+   MAHONY DE, 1976, CAN J MICROBIOL, V22, P953
+   MCDONEL JL, 1980, PHARMACOL THERAPEUT, V10, P617, DOI 10.1016/0163-7258(80)90031-5
+   McLean MJ, 1998, J MOL EVOL, V47, P691, DOI 10.1007/PL00006428
+   Nakai K, 1999, TRENDS BIOCHEM SCI, V24, P34, DOI 10.1016/S0968-0004(98)01336-X
+   Nolling J, 2001, J BACTERIOL, V183, P4823, DOI 10.1128/JB.183.16.4823-4838.2001
+   Parkhill J, 2000, NATURE, V403, P665, DOI 10.1038/35001088
+   Parkhill J, 2000, NATURE, V404, P502, DOI 10.1038/35006655
+   PEARSON WR, 1988, P NATL ACAD SCI USA, V85, P2444, DOI 10.1073/pnas.85.8.2444
+   Petit L, 1999, TRENDS MICROBIOL, V7, P104, DOI 10.1016/S0966-842X(98)01430-9
+   Quentin Y, 1999, J MOL BIOL, V287, P467, DOI 10.1006/jmbi.1999.2624
+   RILEY M, 1996, ESCHERICHIA COLI SAL, P2118
+   Rood JI, 1998, ANNU REV MICROBIOL, V52, P333, DOI 10.1146/annurev.micro.52.1.333
+   ROOD JI, 1991, MICROBIOL REV, V55, P621
+   Sakiyama T, 2000, BIOSCI BIOTECH BIOCH, V64, P670, DOI 10.1271/bbb.64.670
+   SHIMIZU T, 1997, CLOSTRIDIA MOL BIOL, P451, DOI 10.1016/B978-012595020-6/50028-0
+   Shimizu T, 2001, MICROBIOL IMMUNOL, V45, P179
+   SHIMIZU T, 1994, J BACTERIOL, V176, P1616
+   Shimizu T, 2001, SYST APPL MICROBIOL, V24, P149, DOI 10.1078/0723-2020-00024
+   Sneath P. H. A., 1984, BERGEYS MANUAL SYSTE, V2, P1104
+   Stover CK, 2000, NATURE, V406, P959
+   Yada T, 1999, BIOINFORMATICS, V15, P987, DOI 10.1093/bioinformatics/15.12.987
+NR 49
+TC 333
+Z9 805
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN 22
+PY 2002
+VL 99
+IS 2
+BP 996
+EP 1001
+DI 10.1073/pnas.022493799
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 514PK
+UT WOS:000173450100082
+ER
+
+PT J
+AU Ishii, Y
+   Onaka, K
+   Hirakawa, H
+   Shiramizu, K
+AF Ishii, Y
+   Onaka, K
+   Hirakawa, H
+   Shiramizu, K
+TI Site-selective and stepwise complexation of two M(cod)(+) (M = Rh, Ir)
+   fragments with calix[4]arene
+SO CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+ID UPPER-RIM; TRICARBONYLCHROMIUM COMPLEXES; RECOGNITION PROPERTIES; ANION
+   RECOGNITION; LIGANDS; BINDING; CALIXARENE; CHEMISTRY; BOND
+AB The reaction of [(cod)M(m-OMe)](2) (M = Rh, Ir; cod = cycloocta-1,5-diene) with calix[4]arenes (LH4) in the molar ratio of 0.5-0.6:1 gave the rhodium and iridium pi-arene complexes [(cod)M(eta(6)-LH3)], while that in the molar ratio of 1.1-1.5:1 (M = Rh) led to the selective formation of the dinuclear complexes [{(cod)Rh}(2)(eta(6):eta(2)-LH2)] in which one of the Rh(cod)(+) fragments is coordinated by an eta(6)-aryl group and the other by two phenolic oxygen atoms; the stepwise synthesis of the Rh-Ir heterobimetallic analogue of the latter complex was further achieved.
+C1 Univ Tokyo, Grad Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, Tokyo 1138656, Japan.
+RP Ishii, Y (reprint author), Univ Tokyo, Grad Sch Engn, Dept Chem & Biotechnol, Bunkyo Ku, Tokyo 1138656, Japan.
+RI Hirakawa, Hidehiko/A-3089-2013
+OI Hirakawa, Hidehiko/0000-0003-0623-8573
+CR Bagatin IA, 1999, INORG CHEM, V38, P1585, DOI 10.1021/ic980964f
+   Beer PD, 1999, ORGANOMETALLICS, V18, P3933, DOI 10.1021/om9904089
+   Cameron BR, 1997, INORG CHEM, V36, P5498, DOI 10.1021/ic9705913
+   Cobley CJ, 2000, J CHEM SOC DALTON, P1101, DOI 10.1039/a908960h
+   Cobley CJ, 2000, J CHEM SOC DALTON, P1109, DOI 10.1039/a908961f
+   Cooper JB, 2000, J CHEM SOC DALTON, P2721, DOI 10.1039/b003569f
+   Dieleman CB, 1999, J CHEM SOC DALTON, P4139, DOI 10.1039/a905814a
+   DIELEMAN M, 2001, Z KRIST-NEW CRYST ST, V216, P435
+   Esposito V, 2000, INORG CHEM, V39, P2604, DOI 10.1021/ic991467h
+   Floriani C, 2001, ADV ORGANOMET CHEM, V47, P167, DOI 10.1016/S0065-3055(01)47012-2
+   Floriani C, 1999, CHEM-EUR J, V5, P19, DOI 10.1002/(SICI)1521-3765(19990104)5:1<19::AID-CHEM19>3.0.CO;2-7
+   Garralda MA, 1999, J ORGANOMET CHEM, V586, P150, DOI 10.1016/S0022-328X(99)00255-7
+   IKI H, 1993, CHEM LETT, P1735, DOI 10.1246/cl.1993.1735
+   IKI H, 1993, J CHEM SOC PERK T 1, P205, DOI 10.1039/p19930000205
+   Jeunesse C, 2001, J CHEM SOC DALTON, P881, DOI 10.1039/b009005k
+   KEGLEY SE, 1987, J AM CHEM SOC, V109, P6563, DOI 10.1021/ja00255a080
+   NEVE F, 1992, ORGANOMETALLICS, V11, P3324, DOI 10.1021/om00046a034
+   PANNETIE.G, 1971, J LESS-COMMON MET, V24, P83, DOI 10.1016/0022-5088(71)90169-X
+   Staffilani M, 1997, J AM CHEM SOC, V119, P6324, DOI 10.1021/ja9702172
+   Takenaka K, 2001, B CHEM SOC JPN, V74, P1709, DOI 10.1246/bcsj.74.1709
+   Vezina M, 2001, ORGANOMETALLICS, V20, P273, DOI 10.1021/om000433a
+   Wieser C, 1997, COORDIN CHEM REV, V165, P93, DOI 10.1016/S0010-8545(96)01319-7
+   Yao WB, 1997, INORG CHIM ACTA, V254, P105, DOI 10.1016/S0020-1693(97)84386-1
+NR 23
+TC 7
+Z9 7
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1359-7345
+J9 CHEM COMMUN
+JI Chem. Commun.
+PY 2002
+IS 10
+BP 1150
+EP 1151
+DI 10.1039/b201992m
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 550NN
+UT WOS:000175509300065
+ER
+
+PT J
+AU Usuki, Y
+   Hirakawa, H
+   Goto, K
+   Iio, H
+AF Usuki, Y
+   Hirakawa, H
+   Goto, K
+   Iio, H
+TI Asymmetric synthesis of isohaliclorensin, a key intermediate of
+   bisquinolinylpyrrole alkaloid halitulin
+SO TETRAHEDRON-ASYMMETRY
+LA English
+DT Article
+ID SPONGE HALICLONA-TULEARENSIS
+AB A new enantioselective total synthesis of N-(3'-aminopropyl)-3-methylazacyclodecane, a partial structure of halitulin, has been achieved in eight steps with 14% overall yield. The key steps are the photochemical ring-expansion reaction of spirooxaziridine to lactam for constructing the azacyclodecane moiety and 1,4-stereoinductive methylation of the resulting lactam. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 Osaka City Univ, Grad Sch Sci, Dept Mat Sci, Sumiyoshi Ku, Osaka 5588585, Japan.
+RP Usuki, Y (reprint author), Osaka City Univ, Grad Sch Sci, Dept Mat Sci, Sumiyoshi Ku, Osaka 5588585, Japan.
+CR Aube J, 1997, CHEM SOC REV, V26, P269, DOI 10.1039/cs9972600269
+   Banwell MG, 2001, NEW J CHEM, V25, P1347, DOI 10.1039/b105045c
+   Fujiwara A, 2000, SYNLETT, P1667
+   Grubbs RH, 1998, TETRAHEDRON, V54, P4413, DOI 10.1016/S0040-4020(97)10427-6
+   Heinrich MR, 2001, TETRAHEDRON LETT, V42, P3287, DOI 10.1016/S0040-4039(01)00435-X
+   Heinrich MR, 2001, TETRAHEDRON, V57, P9973, DOI 10.1016/S0040-4020(01)01020-1
+   HIRAKAWA H, 2001, 43 S CHEM NAT PROD O
+   Kashman Y, 1999, TETRAHEDRON LETT, V40, P997, DOI 10.1016/S0040-4039(98)02467-8
+   Koren-Goldshlager G, 1998, J NAT PROD, V61, P282, DOI 10.1021/np970442x
+   SAKAI R, 1987, TETRAHEDRON LETT, V28, P5493, DOI 10.1016/S0040-4039(00)96762-5
+   SMITH AB, 1995, J AM CHEM SOC, V117, P10882
+   Williams DE, 1998, J ORG CHEM, V63, P4838, DOI 10.1021/jo980355p
+NR 12
+TC 4
+Z9 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4166
+J9 TETRAHEDRON-ASYMMETR
+JI Tetrahedron: Asymmetry
+PD DEC 21
+PY 2001
+VL 12
+IS 23
+BP 3293
+EP 3296
+DI 10.1016/S0957-4166(02)00007-1
+PG 4
+WC Chemistry, Inorganic & Nuclear; Chemistry, Organic; Chemistry, Physical
+SC Chemistry
+GA 531LA
+UT WOS:000174415800012
+ER
+
+PT J
+AU GarciaPaneda, E
+   deMiguel, EM
+   Yanes, C
+   Maestre, A
+   Hirakawa, H
+AF GarciaPaneda, E
+   deMiguel, EM
+   Yanes, C
+   Maestre, A
+   Hirakawa, H
+TI Limiting partial molar volumes of tetra-n-alkylammonium bromides in
+   xDimethylformamide plus (1-x)water mixtures at 298.15 K
+SO JOURNAL OF CHEMICAL AND ENGINEERING DATA
+LA English
+DT Article
+ID DIMETHYLFORMAMIDE-WATER MIXTURES; DENSITY
+AB Partial molar volumes at infinite dilution, V-2(infinity), of tetra-n-alkylammonium bromides, R4NBr (R=methyl, ethyl, propyl, butyl, pentyl), have been determined in binary mixtures of water with N,N-dimethylformamide (DMF) over the entire composition range at 298.15 K. Variations of V-2(infinity) with the mole fraction of DMF as a function of solvent composition and electrolyte are considered. A linear dependence between V-2(infinity) of the electrolyte and the molecular weight of the tetraalkylammonium cation was found.
+C1 UNIV SEVILLA,FAC QUIM,DEPT QUIM FIS,E-41012 SEVILLE,SPAIN.
+   KAGOSHIMA UNIV,FAC ENGN,DEPT ELECT,KAGOSHIMA 890,JAPAN.
+CR CONWAY BE, 1966, T FARADAY SOC, V62, P2738, DOI 10.1039/tf9666202738
+   DEY NC, 1985, J SOLUTION CHEM, V14, P49, DOI 10.1007/BF00646730
+   GARCIAPANEDA E, 1994, J CHEM SOC FARADAY T, V90, P575, DOI 10.1039/ft9949000575
+   HEUVELSLAND WJM, 1977, J CHEM THERMODYN, V9, P231, DOI 10.1016/0021-9614(77)90042-8
+   KAWAIZUM.F, 1974, J PHYS CHEM-US, V78, P1099, DOI 10.1021/j100604a011
+   KELL GS, 1975, J CHEM ENG DATA, V20, P97, DOI 10.1021/je60064a005
+   Millero F.J., 1972, WATER AQUEOUS SOLUTI
+   ORTEGA J, 1986, J CHEM ENG DATA, V31, P231, DOI 10.1021/je00044a028
+   REDLICH O, 1964, CHEM REV, V64, P221, DOI 10.1021/cr60229a001
+NR 9
+TC 4
+Z9 4
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0021-9568
+J9 J CHEM ENG DATA
+JI J. Chem. Eng. Data
+PD MAY-JUN
+PY 1997
+VL 42
+IS 3
+BP 441
+EP 445
+DI 10.1021/je960330s
+PG 5
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA WY825
+UT WOS:A1997WY82500004
+ER
+
+PT J
+AU Baba, Y
+   Kawano, Y
+   Hirakawa, H
+AF Baba, Y
+   Kawano, Y
+   Hirakawa, H
+TI Highly selective adsorption resins .1. Preparation of chitosan
+   derivatives containing 2-pyridylmethyl, 2-thienylmethyl, and
+   3-(methylthio)propyl groups and their selective adsorption of precious
+   metals
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID POLYAMPHOLYTES
+AB Crosslinked N-(2-pyridylmethyl)chitosan, N-(2-thienylmethyl)chitosan, and N-[3-(methylthio)propyl]chitosan were newly synthesized. The amino group of the active adsorption site of chitosan was protected by Schiff's base formation prior to being crosslinked by 2-(chloromethyl)oxirane. The final chitosan derivatives were obtained by reducing the imine moiety of the Schiff's bases with sodium borohydride. The adsorption behavior of metal ions on the chitosan derivatives was examined from a solution containing hydrochloric acid using a batchwise method. These chitosan derivatives exhibited high selectivities and excellent loading capacities for gold(III), palladium(II), and platinum(IV) over base metals in hydrochloric acid. In order to elucidate the adsorption species of palladium(II) on the chitosan derivatives, the effect of the chloride ion concentration on the distribution ratio in the adsorption of palladium(II) was examined. The adsorption capacities of these chitosan derivatives for palladium(TI) were found to be about 2.5-3 times greater than that of the cross-linked original chitosan. The desorption of palladium(II) was performed to an extent of 70% by a single batchwise treatment with aqueous thiourea solution.
+CR BABA Y, 1994, CHEM LETT, P2389, DOI 10.1246/cl.1994.2389
+   BOUGH WA, 1978, BIOTECHNOL BIOENG, V20, P1945, DOI 10.1002/bit.260201209
+   HAUG A, 1961, ACTA CHEM SCAND, V15, P1794, DOI 10.3891/acta.chem.scand.15-1794
+   INOUE K, 1993, B CHEM SOC JPN, V66, P2915, DOI 10.1246/bcsj.66.2915
+   MORIKAWA F, 1981, KOGYO REAMETARU, V74, P81
+   MUZZARELLI RAA, 1986, INT J BIOL MACROMOL, V8, P137, DOI 10.1016/0141-8130(86)90014-0
+   MUZZARELLI RAA, 1985, CARBOHYD POLYM, V5, P85, DOI 10.1016/0144-8617(85)90026-8
+   MUZZARELLI RAA, 1982, CARBOHYD RES, V107, P199, DOI 10.1016/S0008-6215(00)80539-X
+   MUZZAREL.RA, 1974, TALANTA, V21, P1137, DOI 10.1016/0039-9140(74)80097-4
+   NISHIDE H, 1976, CHEM LETT, P169, DOI 10.1246/cl.1976.169
+   OHGA K, 1987, B CHEM SOC JPN, V60, P444, DOI 10.1246/bcsj.60.444
+   PEARSON RG, 1963, J AM CHEM SOC, V85, P3533, DOI 10.1021/ja00905a001
+   TERADA S, 1972, KOBUNSHI KAGAKU, V29, P500
+   YOKOYAMA T, 1983, B CHEM SOC JPN, V56, P463, DOI 10.1246/bcsj.56.463
+NR 14
+TC 40
+Z9 41
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PD MAY
+PY 1996
+VL 69
+IS 5
+BP 1255
+EP 1260
+DI 10.1246/bcsj.69.1255
+PG 6
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA UP068
+UT WOS:A1996UP06800014
+ER
+
+PT J
+AU Hirakawa, H
+AF Hirakawa, H
+TI Method of detecting a specific ion by means of crown ethers
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN PART II-ELECTRONICS
+LA English
+DT Article
+DE crown ether; K+ ion; Na+ ion; sedimentation potential; complex
+ID COMPLEXES; CONDUCTANCE; 18-CROWN-6
+AB To replace the conventional ion-sensitive field-effect transistor (ISFET) ion sensor, an ion-sensing method using crown ether was developed. In this method, the alkaline metal ions (Na+ and K+ ions) were detected by the ac potential difference. Crown ether shows selectivity toward alkaline metal ions, forming complexes.
+   To investigate the selective characteristics of crown ethers using the ac potential difference, three types of crown ethers (18C6, 15C5, and 12C4) were used. The solvents used were water, methyl alcohol, acetone, propylene-carbonate (PC), and dimethyl-formamide (DMF). Specifically, chlorides (NaCl, KCl, and CsCl) were dissolved in the solvent containing crown ether and the sedimentation potential was measured using a sedimentation-potential measurement system.
+   When 18C6 was used, the highest sedimentation potential of KCI was observed if PC was chosen for the solvent. When 15C5 was used, the highest sedimentation potential of NaCl was observed if methyl alcohol was used for the solvent. It was confirmed that in order to distinguish K+ and Na+ ions from other ions, PC containing 18C6 and methyl alcohol containing 15C5 should be used, respectively.
+RP Hirakawa, H (reprint author), KAGOSHIMA UNIV,FAC ENGN,KAGOSHIMA 890,JAPAN.
+CR ABE H, 1979, IEEE T ELECTRON DEV, V26, P1939, DOI 10.1109/T-ED.1979.19799
+   AKIYAMA T, 1982, IEEE T ELECTRON DEV, V29, P1936, DOI 10.1109/T-ED.1982.21054
+   BERGVELD P, 1970, IEEE T BIO-MED ENG, VBM17, P70, DOI 10.1109/TBME.1970.4502688
+   FRENSDOR.HK, 1971, J AM CHEM SOC, V93, P600, DOI 10.1021/ja00732a007
+   HABER F, 1990, Z PHYS CHEM, V67, P385
+   HAEMMERLI A, 1980, ANAL CHEM, V52, P1179, DOI 10.1021/ac50058a006
+   HIRAKAWA H, 1987, J PHYS CHEM-US, V91, P3452, DOI 10.1021/j100296a069
+   HIRAKAWA H, 1993, DENKI KAGAKU, V61, P415
+   HOILAND H, 1978, J SOLUTION CHEM, V7, P515, DOI 10.1007/BF01074868
+   HOLLAND H, 1979, J SOLUTION CHEM, V8, P779
+   KIYOYAMA, 1982, CHEM SENSORS
+   MATSUO T, 1982, DENKI KAGAKU, V50, P64
+   MATSUO T, 1980, J JAPANESE SOC APPL, V49, P586
+   MORIIZUMI, 1985, J JAPANESE SOC APPL, V54, P98
+   ODA, 1978, CHEM CROWN ETHERS
+   PEDERSEN CJ, 1967, J AM CHEM SOC, V89, P7017, DOI 10.1021/ja01002a035
+   SHOJI, 1985, IEICE J, V68, P628
+   SUZUKI, 1986, BIO SENSORS
+   TAKEDA Y, 1981, B CHEM SOC JPN, V54, P3133, DOI 10.1246/bcsj.54.3133
+   TAKEDA Y, 1980, B CHEM SOC JPN, V53, P72, DOI 10.1246/bcsj.53.72
+   TAKEISHI, 1972, IEICE C, V55, P580
+   TSUKATA, 1987, IEICE J, V70, P550
+   VANDERSPIEGEL J, 1983, SENSOR ACTUATOR, V4, P291, DOI 10.1016/0250-6874(83)85035-5
+NR 23
+TC 1
+Z9 1
+PU SCRIPTA TECHNICA PUBL
+PI SILVER SPRING
+PA 7961 EASTERN AVE, SILVER SPRING, MD 20910
+SN 8756-663X
+J9 ELECTRON COMM JPN 2
+JI Electron. Commun. Jpn. Pt. II-Electron.
+PD MAR
+PY 1996
+VL 79
+IS 3
+BP 82
+EP 91
+DI 10.1002/ecjb.4420790310
+PG 10
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA VC407
+UT WOS:A1996VC40700010
+ER
+
+PT J
+AU Inoue, K
+   Hirakawa, H
+   Ishikawa, Y
+   Yamaguchi, T
+   Nagata, J
+   Ohto, K
+   Yoshizuka, K
+AF Inoue, K
+   Hirakawa, H
+   Ishikawa, Y
+   Yamaguchi, T
+   Nagata, J
+   Ohto, K
+   Yoshizuka, K
+TI Adsorption of metal ions on gallium(III)-templated oxine type of
+   chemically modified chitosan
+SO SEPARATION SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE adsorption; metal ions; chemically modified chitosan; template
+   crosslinking method; molecular modeling computation
+AB The oxine type of chemically modified chitosan was prepared by the template crosslinking method employing gallium(III) ion as a template ion. The functional groups of oxine were found to be incorporated into the polymer chain of chitosan at a oxine/glucosamine unit ratio of 1/3. This value agrees with that expected from molecular modeling computation by the molecular mechanics method, Adsorption of molybdenum(VI), vanadium(IV), indium(III), aluminum(III), zinc(II), iron(II), and cadmium(II) together with gallium(III) on this chemically modified chitosan from dilute sulfuric acid solution was compared with that on the original chitosan. It was found that the pH at which the adsorption of these metals takes place on this chemically modified chitosan shifted to a lower pH than that on the original chitosan. The shift was the greatest for gallium(III) among the metal ions examined, which might be attributable to the template effect of gallium(III) ion. The maximum adsorption capacity of gallium(III) was evaluated as 1.17 mol/kg-dry adsorbent. The selective adsorption of small amounts of gallium(III) and indium(III) from an excess amount of zinc(II) was confirmed from the breakthrough profile of separation using a column packed with this chemically modified chitosan.
+RP Inoue, K (reprint author), SAGA UNIV,FAC SCI & ENGN,DEPT APPL CHEM,HONJO MACHI 1,SAGA 840,JAPAN.
+CR ABE H, 1982, NIPPON KOGYO KAISHI, V98, P561
+   BROOKS BR, 1983, J COMPUT CHEM, V4, P187, DOI 10.1002/jcc.540040211
+   Erlenmeyer H, 1939, HELV CHIM ACTA, V22, P1369, DOI 10.1002/hlca.193902201174
+   HARNED HS, 1958, PHYSICAL CHEM ELECTR, P735
+   HOEK PJ, 1980, J INORG NUCL CHEM, V42, P1759, DOI 10.1016/0022-1902(80)80155-2
+   INOUE K, UNPUB KAGAKUKOGAKU R
+   INOUE K, 1993, B CHEM SOC JPN, V66, P2915, DOI 10.1246/bcsj.66.2915
+   JORGENSEN WL, 1983, J CHEM PHYS, V79, P926, DOI 10.1063/1.445869
+   KOLOBIEL.M, 1966, J HETEROCYCLIC CHEM, V3, P275
+   MAEDA M, 1993, BUNSEKI, V6, P429
+   NISHIDE H, 1976, MAKROMOL CHEM, V177, P2295
+   PARRISH JR, 1955, CHEM IND-LONDON, P386
+   PARRISH JR, 1956, CHEM IND-LONDON, P137
+   SLOVAK Z, 1976, Z ANAL CHEM, V278, P115
+   STARY J, 1964, SOLVENT EXTRACTION M, P94
+   VONLILLIN H, 1954, ANGEW CHEM-GER EDIT, V66, P649
+   WARSHAWSKY A, 1978, J ORG CHEM, V43, P3151, DOI 10.1021/jo00410a012
+NR 17
+TC 31
+Z9 33
+PU MARCEL DEKKER INC
+PI NEW YORK
+PA 270 MADISON AVE, NEW YORK, NY 10016
+SN 0149-6395
+J9 SEPAR SCI TECHNOL
+JI Sep. Sci. Technol.
+PY 1996
+VL 31
+IS 16
+BP 2273
+EP 2285
+DI 10.1080/01496399608001046
+PG 13
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA VJ848
+UT WOS:A1996VJ84800010
+ER
+
+PT J
+AU BABA, Y
+   HIRAKAWA, H
+   KAWANO, Y
+AF BABA, Y
+   HIRAKAWA, H
+   KAWANO, Y
+TI SELECTIVE ADSORPTION OF PRECIOUS METALS ON SULFUR-CONTAINING CHITOSAN
+   DERIVATIVES
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID POLYAMPHOLYTES
+AB 2-Thienylchitosan and 3-(methylthio)propylchitosan were newly synthesized by crosslinking the corresponding Schiff base derivative before reducing it so that the adsorptive activity was not lowered by the crosslinking. These chitosan derivatives selectively adsorbed gold(III), palladium(II) and platinum(IV) over base metals from hydrochloric acid.
+C1 SAGA UNIV,FAC SCI & ENGN,DEPT APPL CHEM,SAGA 840,JAPAN.
+RP BABA, Y (reprint author), MIYAZAKI UNIV,FAC ENGN,DEPT MAT ENGN,GAGUEN KIBANADAI NISHI 1-1,MIYAZAKI 88921,JAPAN.
+CR BABA Y, 1992, CHEM LETT, P1905, DOI 10.1246/cl.1992.1905
+   HASE A, 1990, ANAL SCI, V6, P747, DOI 10.2116/analsci.6.747
+   MUZZARELLI RAA, 1986, INT J BIOL MACROMOL, V8, P137, DOI 10.1016/0141-8130(86)90014-0
+   MUZZARELLI RAA, 1982, CARBOHYD RES, V107, P199, DOI 10.1016/S0008-6215(00)80539-X
+   OHGA K, 1987, B CHEM SOC JPN, V60, P444, DOI 10.1246/bcsj.60.444
+   PEARSON RG, 1963, J AM CHEM SOC, V85, P3533, DOI 10.1021/ja00905a001
+   TANAKA K, 1981, IND RARE METALS, V74, P119
+NR 7
+TC 15
+Z9 16
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD JAN
+PY 1994
+IS 1
+BP 117
+EP 120
+DI 10.1246/cl.1994.117
+PG 4
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA MV932
+UT WOS:A1994MV93200033
+ER
+
+PT J
+AU NAGASHIMA, H
+   KOKUBO, K
+   HATSUDA, T
+   HIRAKAWA, H
+   MARU, A
+   KONNO, M
+   HIROSE, T
+AF NAGASHIMA, H
+   KOKUBO, K
+   HATSUDA, T
+   HIRAKAWA, H
+   MARU, A
+   KONNO, M
+   HIROSE, T
+TI ULTIMATE STRENGTH OF SQUARE TUBES UNDER BENDING LOADS
+SO JSME INTERNATIONAL JOURNAL SERIES A-MECHANICS AND MATERIAL ENGINEERING
+LA English
+DT Article
+DE ULTIMATE STRENGTH; POSTBUCKLING BEHAVIOR; SQUARE TUBES; BENDING LOAD;
+   STRUCTURAL ANALYSIS; EXPERIMENTAL STUDY
+AB Buckling behavior of square tubes under bending load depends on the direction of the bending moment. This paper considers two directions. The first has an axis which crosses at right angles to a side of a cross section; the second has an axis which crosses at right angles to a diagonal line of a cross section. Four-point bending tests are conducted at room temperature and at 300-degrees-C, using square tubes of three thicknesses (2.0, 2.5, and 3.0 mm), but having the same inside width (115 mm, excluding comer radius) and length (4 000 mm). Local deformations and ultimate bending loads are measured. An empirical formula of the relationship between buckling wave growth and bending load is obtained by analogy with an equation derived from the results of bending theory for plates with an initial curvature. An empirical formula of the ultimate bending moment is also obtained by applying Karman's effective width theorem for critical loads in plates to square tubes. These formulas are proven to represent the behavior of test and analysis values very well.
+C1 HITACHI LTD,HITACHI WORKS,HITACHI,IBARAKI 317,JAPAN.
+   HITACHI ENGN CO LTD,HITACHI,IBARAKI 317,JAPAN.
+RP NAGASHIMA, H (reprint author), HITACHI LTD,MECH ENGN RES LAB,502 KANDATSU MACHI,TSUCHIURA,IBARAKI 300,JAPAN.
+CR KARMAN T, 1932, J APPL MECH, V54, P53
+   TIMOSHENKO S, 1959, THEORY PLATES SHELLS, P393
+NR 2
+TC 0
+Z9 0
+PU JAPAN SOC MECHANICAL ENGINEERS SANSHIN HOKUSEI BLDG
+PI TOKYO
+PA 4-9 YOYOGI 2-CHOME SHIBUYA-KU, TOKYO 151, JAPAN
+SN 1340-8046
+J9 JSME INT J A-MECH M
+JI JSME Int. J. Ser. A-Mech. Mater. Eng.
+PD JAN
+PY 1993
+VL 36
+IS 1
+BP 80
+EP 84
+PG 5
+WC Engineering, Mechanical; Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA KW237
+UT WOS:A1993KW23700010
+ER
+
+PT J
+AU BABA, Y
+   HIRAKAWA, H
+AF BABA, Y
+   HIRAKAWA, H
+TI SELECTIVE ABSORPTION OF PALLADIUM(II), PLATINUM(IV), AND MERCURY(II) ON
+   A NEW CHITOSAN DERIVATIVE POSSESSING PYRIDYL GROUP
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID ADSORPTION; ION
+AB Crosslinked N-(2-pyridylmethyl)chitosan was newly synthesized by crosslinking N-(2-pyridylmethylidene)chitosan of the intermediate compound before reducing it so that the adsorptive activity is not lowered by the crosslinking. The pyridylmethylchitosan selectively adsorbed palladium(II), platinum(IV), and mercury(II) over base metals from hydrochloric acid.
+RP BABA, Y (reprint author), SAGA UNIV,CTR JOINT RES & DEV,SAGA 840,JAPAN.
+CR MUZZARELLI RAA, 1986, INT J BIOL MACROMOL, V8, P137, DOI 10.1016/0141-8130(86)90014-0
+   MUZZARELLI RAA, 1982, CARBOHYD RES, V107, P199, DOI 10.1016/S0008-6215(00)80539-X
+   OHGA K, 1987, B CHEM SOC JPN, V60, P444, DOI 10.1246/bcsj.60.444
+   TONG P, 1991, CHEM LETT, P1529, DOI 10.1246/cl.1991.1529
+NR 4
+TC 51
+Z9 52
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD OCT
+PY 1992
+IS 10
+BP 1905
+EP 1908
+DI 10.1246/cl.1992.1905
+PG 4
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA JU101
+UT WOS:A1992JU10100008
+ER
+
+PT J
+AU HIRAKAWA, H
+   NOMURA, H
+   KAWAIZUMI, F
+AF HIRAKAWA, H
+   NOMURA, H
+   KAWAIZUMI, F
+TI SEDIMENTATION POTENTIAL OF COMPLEXES OF NITROAMMINECOBALT(III) IN
+   AQUEOUS-SOLUTION AT 25-DEGREES-C
+SO JOURNAL OF SOLUTION CHEMISTRY
+LA English
+DT Article
+C1 NAGOYA UNIV,SCH ENGN,DEPT SLEEP DISORDERS,NAGOYA,AICHI 464,JAPAN.
+RP HIRAKAWA, H (reprint author), KAGOSHIMA UNIV,FAC ENGN,DEPT ELECTR,1-21-40 KORIMOTO,KAGOSHIMA 890,JAPAN.
+CR COLLEY R, 1876, LIEBIGS ANN CHEM, V157, P370
+   Debye P, 1933, J CHEM PHYS, V1, P13, DOI 10.1063/1.1749213
+   DESCOUDRES T, 1893, ANN PHYS, V49, P284
+   HIRAKAWA H, 1987, J PHYS CHEM-US, V91, P3452, DOI 10.1021/j100296a069
+   HIRAKAWA H, 1989, B CHEM SOC JPN, V62, P1781, DOI 10.1246/bcsj.62.1781
+   KAWAIZUMI F, 1983, J PHYS CHEM-US, V87, P316
+   MORI M, 1961, B CHEM SOC JPN, V34, P1837, DOI 10.1246/bcsj.34.1837
+   ZANA R, 1967, J PHYS CHEM-US, V71, P521, DOI 10.1021/j100862a010
+NR 8
+TC 3
+Z9 3
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0095-9782
+J9 J SOLUTION CHEM
+JI J. Solut. Chem.
+PD JAN
+PY 1990
+VL 19
+IS 1
+BP 11
+EP 17
+DI 10.1007/BF00650640
+PG 7
+WC Chemistry, Physical
+SC Chemistry
+GA CL035
+UT WOS:A1990CL03500002
+ER
+
+PT J
+AU HIRAKAWA, H
+   NOMURA, H
+   KAWAIZUMI, F
+AF HIRAKAWA, H
+   NOMURA, H
+   KAWAIZUMI, F
+TI IONIC PARTIAL MOLAR VOLUMES OF ALKALI-HALIDES IN METHANOL AS EVALUATED
+   FROM THE SEDIMENTATION POTENTIALS
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 NAGOYA UNIV,SCH ENGN,DEPT CHEM ENGN,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+RP HIRAKAWA, H (reprint author), KAGOSHIMA UNIV,FAC ENGN,DEPT ELECTR,KAGOSHIMA 890,JAPAN.
+CR CONWAY BE, 1978, J SOLUTION CHEM, V7, P721, DOI 10.1007/BF00643580
+   CONWAY BE, 1966, T FARADAY SOC, V62, P2738, DOI 10.1039/tf9666202738
+   Debye P, 1933, J CHEM PHYS, V1, P13, DOI 10.1063/1.1749213
+   FRENCH RN, 1982, J SOLUTION CHEM, V11, P625, DOI 10.1007/BF00650396
+   HIRAKAWA H, IN PRESS J PHYS CHEM
+   HIRAKAWA H, 1987, J PHYS CHEM-US, V91, P3452, DOI 10.1021/j100296a069
+   HIRAKAWA H, 1988, B CHEM SOC JPN, V61, P3316
+   HIRAKAWA H, 1987, UNPUB J SOLUTION CHE
+   KALE KM, 1977, J SOLUTION CHEM, V6, P733, DOI 10.1007/BF00650450
+   KAWAIZUM.F, 1974, J PHYS CHEM-US, V78, P1099, DOI 10.1021/j100604a011
+   KAWAIZUM.F, 1974, J PHYS CHEM-US, V78, P627, DOI 10.1021/j100599a014
+   PASZTOR AJ, 1987, J SOLUTION CHEM, V7, P27
+   Robinson R. A., 1959, ELECTROLYTE SOLUTION
+   ROCHESTE.CH, 1969, T FARADAY SOC, V65, P992, DOI 10.1039/tf9696500992
+   ZANA R, 1967, J PHYS CHEM-US, V71, P521, DOI 10.1021/j100862a010
+   ZANA R, 1967, J PHYS CHEM-US, V71, P4241, DOI 10.1021/j100872a600
+NR 16
+TC 9
+Z9 9
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PD JUN
+PY 1989
+VL 62
+IS 6
+BP 1781
+EP 1784
+DI 10.1246/bcsj.62.1781
+PG 4
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA AE474
+UT WOS:A1989AE47400016
+ER
+
+PT J
+AU HIRAKAWA, H
+   NOMURA, H
+   KAWAIZUMI, F
+AF HIRAKAWA, H
+   NOMURA, H
+   KAWAIZUMI, F
+TI PARTIAL MOLAR VOLUMES OF CHLORIDE AND ALKALI-METAL IONS IN THE
+   MIXED-SOLVENT WATER-METHANOL OBTAINED FROM SEDIMENTATION POTENTIAL
+   MEASUREMENTS
+SO JOURNAL OF PHYSICAL CHEMISTRY
+LA English
+DT Article
+C1 NAGOYA UNIV,SCH ENGN,DEPT CHEM ENGN,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+   KAGOSHIMA UNIV,FAC ENGN,DEPT ELECTR,1-21-40 KORIMOTO,KAGOSHIMA 890,JAPAN.
+CR COVINGTON AK, 1988, J CHEM SOC FARAD T 1, V84, P1393, DOI 10.1039/f19888401393
+   DESNOYER JE, 1965, J CHEM PHYS, V43, P243, DOI 10.1063/1.1696464
+   DOLLET M, 1980, J SOLUTION CHEM, V9, P827, DOI 10.1007/BF00667996
+   FEAKINS D, 1974, J CHEM SOC FARAD T 1, V70, P1888, DOI 10.1039/f19747001888
+   FEAKINS D, 1972, J CHEM SOC FARAD T 1, V68, P1390, DOI 10.1039/f19726801390
+   FRENCH RN, 1982, J SOLUTION CHEM, V11, P625, DOI 10.1007/BF00650396
+   GURNEY RW, 1953, IONNIC PROCESSES SOL, P228
+   HIRAKAWA H, 1987, J PHYS CHEM-US, V91, P3452, DOI 10.1021/j100296a069
+   HIRAKAWA H, 1988, B CHEM SOC JPN, V61, P3315, DOI 10.1246/bcsj.61.3315
+   IBUKI K, 1986, J CHEM PHYS, V84, P6979, DOI 10.1063/1.450618
+   IBUKI K, 1986, J CHEM PHYS, V84, P2776, DOI 10.1063/1.450834
+   IBUKI K, 1987, J CHEM PHYS, V86, P5734, DOI 10.1063/1.452500
+   KAWAIZUMI F, 1982, B CHEM SOC JPN, V55, P2771, DOI 10.1246/bcsj.55.2771
+   KAWAIZUMI F, 1977, J PHYS CHEM-US, V78, P621
+   Longsworth LG, 1939, J PHYS CHEM-US, V43, P239, DOI 10.1021/j150389a006
+   MARCUS Y, 1988, J CHEM SOC F1, V84, P1463
+   NEWMAN KE, 1988, J CHEM SOC FARAD T 1, V84, P1387, DOI 10.1039/f19888401387
+   NOMURA H, 1985, CHEM ENG COMMUN, V34, P305, DOI 10.1080/00986448508911206
+   SHEMILT IW, 1948, J CHEM PHYS, V16, P340
+   STRAIN RA, 1979, THERMODYNAMIC BEHAVI, V2, pCH11
+   VILLERMAUX S, 1975, J CHEM SOC CHEM COMM, P478, DOI 10.1039/c39750000478
+NR 21
+TC 15
+Z9 15
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0022-3654
+J9 J PHYS CHEM-US
+JI J. Phys. Chem.
+PD MAY 4
+PY 1989
+VL 93
+IS 9
+BP 3784
+EP 3787
+DI 10.1021/j100346a079
+PG 4
+WC Chemistry, Physical
+SC Chemistry
+GA U5361
+UT WOS:A1989U536100079
+ER
+
+PT J
+AU NAGASHIMA, Y
+   OWA, S
+   TSUBONO, K
+   HIRAKAWA, H
+AF NAGASHIMA, Y
+   OWA, S
+   TSUBONO, K
+   HIRAKAWA, H
+TI COMPOSITE ANTENNAS FOR LOW-FREQUENCY GRAVITATIONAL-RADIATION
+SO REVIEW OF SCIENTIFIC INSTRUMENTS
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BAGDASAROV KS, 1977, VESTN MOSK U FIZ AS+, V18, P98
+   BOUGHN SP, 1982, ASTROPHYS J, V261, pL19, DOI 10.1086/183881
+   HIRAKAWA H, 1976, J PHYS SOC JPN, V41, P1093, DOI 10.1143/JPSJ.41.1093
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   MCGUIGAN DF, 1978, J LOW TEMP PHYS, V30, P621, DOI 10.1007/BF00116202
+   OWA S, 1986, 4TH P MARC GROSSM M, P571
+   SUZUKI T, 1978, PHYS LETT A, V67, P2, DOI 10.1016/0375-9601(78)90549-2
+   THORNE KS, 1980, REV MOD PHYS, V52, P285, DOI 10.1103/RevModPhys.52.285
+   WEBER J, 1969, PHYS REV LETT, V22, P1320, DOI 10.1103/PhysRevLett.22.1320
+NR 9
+TC 4
+Z9 4
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0034-6748
+J9 REV SCI INSTRUM
+JI Rev. Sci. Instrum.
+PD JAN
+PY 1988
+VL 59
+IS 1
+BP 112
+EP 114
+DI 10.1063/1.1139996
+PG 3
+WC Instruments & Instrumentation; Physics, Applied
+SC Instruments & Instrumentation; Physics
+GA L8503
+UT WOS:A1988L850300015
+ER
+
+PT J
+AU MIO, N
+   TSUBONO, K
+   HIRAKAWA, H
+AF MIO, N
+   TSUBONO, K
+   HIRAKAWA, H
+TI EXPERIMENTAL TEST OF THE LAW OF GRAVITATION AT SMALL DISTANCES
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR ACHARYA R, 1973, LETT NUOVO CIMENTO, V6, P668, DOI 10.1007/BF02752640
+   CHAN HA, 1982, PHYS REV LETT, V49, P1745, DOI 10.1103/PhysRevLett.49.1745
+   CHANG D, 1985, PHYS REV LETT, V55, P2835, DOI 10.1103/PhysRevLett.55.2835
+   CHEN YT, 1984, P ROY SOC LOND A MAT, V394, P47, DOI 10.1098/rspa.1984.0069
+   FISCHBACH E, 1986, PHYS REV LETT, V56, P3, DOI 10.1103/PhysRevLett.56.3
+   FUJII Y, 1971, NATURE-PHYS SCI, V234, P5
+   FUJII Y, 1982, PHYS REV D, V26, P2580, DOI 10.1103/PhysRevD.26.2580
+   FUJII Y, 1986, PROG THEOR PHYS, V76, P325, DOI 10.1143/PTP.76.325
+   GIBBONS GW, 1981, NATURE, V291, P636, DOI 10.1038/291636a0
+   HIRAKAWA H, 1976, J PHYS SOC JPN, V41, P1093, DOI 10.1143/JPSJ.41.1093
+   HIRAKAWA H, 1980, NATURE, V283, P184, DOI 10.1038/283184a0
+   HOLDING SC, 1984, NATURE, V307, P714, DOI 10.1038/307714a0
+   HOLDING SC, 1986, PHYS REV D, V33, P3487, DOI 10.1103/PhysRevD.33.3487
+   HOSKINS JK, 1985, PHYS REV D, V32, P3084, DOI 10.1103/PhysRevD.32.3084
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   KURODA K, 1984, JPN J APPL PHYS, V23, pL145
+   KURODA K, 1985, PHYS REV D, V32, P342, DOI 10.1103/PhysRevD.32.342
+   LONG DR, 1976, NATURE, V260, P417, DOI 10.1038/260417a0
+   LUTHER GG, 1982, PHYS REV LETT, V48, P121, DOI 10.1103/PhysRevLett.48.121
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MIO N, 1984, JPN J APPL PHYS 1, V23, P1159, DOI 10.1143/JJAP.23.1159
+   MOODY JE, 1984, PHYS REV D, V30, P130, DOI 10.1103/PhysRevD.30.130
+   OGAWA Y, 1982, PHYS REV D, V26, P729, DOI 10.1103/PhysRevD.26.729
+   OHANLON J, 1972, PHYS REV LETT, V29, P137, DOI 10.1103/PhysRevLett.29.137
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+   PANOV VI, 1979, SOV PHYS JETP, V50, P852
+   SPERO R, 1980, PHYS REV LETT, V44, P1645, DOI 10.1103/PhysRevLett.44.1645
+   STACEY FD, 1981, NATURE, V292, P230, DOI 10.1038/292230a0
+   YU HT, 1979, PHYS REV D, V20, P1813, DOI 10.1103/PhysRevD.20.1813
+NR 29
+TC 10
+Z9 10
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD OCT 15
+PY 1987
+VL 36
+IS 8
+BP 2321
+EP 2326
+DI 10.1103/PhysRevD.36.2321
+PG 6
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA K5066
+UT WOS:A1987K506600017
+ER
+
+PT J
+AU HIRAKAWA, H
+AF HIRAKAWA, H
+TI MEASUREMENT OF SEDIMENTATION POTENTIAL AND ITS APPLICATION TO THE
+   DETERMINATION OF INDIVIDUAL IONIC PARTIAL MOLAR VOLUMES
+SO JOURNAL OF PHYSICAL CHEMISTRY
+LA English
+DT Article
+RP HIRAKAWA, H (reprint author), KAGOSHIMA UNIV,FAC ENGN,DEPT ELECTR,1-21-40 KORIMOTO,KAGOSHIMA 890,JAPAN.
+CR COLLEY R, 1876, J LIEBIGS ANN CHEM, V157, P370
+   COUDRES TD, 1983, ANN PHYS, V49, P284
+   Debye P, 1933, J CHEM PHYS, V1, P13, DOI 10.1063/1.1749213
+   DOMENECH J, 1984, J CHEM SOC FARAD T 1, V80, P1249, DOI 10.1039/f19848001249
+   GILL DS, 1982, J CHEM SOC FARAD T 1, V78, P119, DOI 10.1039/f19827800119
+   KALE KM, 1977, J SOLUTION CHEM, V6, P733, DOI 10.1007/BF00650450
+   KAWAIZUM.F, 1974, J PHYS CHEM-US, V78, P627, DOI 10.1021/j100599a014
+   MACINNES DA, 1949, J AM CHEM SOC, V71, P2987, DOI 10.1021/ja01177a012
+   Millero F.J., 1972, WATER AQUEOUS SOLUTI, P565
+   MILLERO FJ, 1971, J PHYS CHEM-US, V75, P280, DOI 10.1021/j100672a016
+   TOLLMAN RC, 1910, P AM ACAD ARTS SCI, V46, P109
+   YEAGER E, 1972, J PHYS CHEM-US, V76, P1086, DOI 10.1021/j100651a023
+   ZANA R, 1967, J PHYS CHEM-US, V71, P521, DOI 10.1021/j100862a010
+   ZANA R, 1967, J PHYS CHEM-US, V71, P4241, DOI 10.1021/j100872a600
+NR 14
+TC 20
+Z9 20
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0022-3654
+J9 J PHYS CHEM-US
+JI J. Phys. Chem.
+PD JUN 4
+PY 1987
+VL 91
+IS 12
+BP 3452
+EP 3456
+DI 10.1021/j100296a069
+PG 5
+WC Chemistry, Physical
+SC Chemistry
+GA H7431
+UT WOS:A1987H743100069
+ER
+
+PT J
+AU TSUBONO, K
+   OWA, S
+   MIO, N
+   AKASAKA, N
+   HIRAKAWA, H
+AF TSUBONO, K
+   OWA, S
+   MIO, N
+   AKASAKA, N
+   HIRAKAWA, H
+TI INTERNAL FRICTIONS OF AUSTENITIC STAINLESS-STEELS AT LOW-TEMPERATURE
+SO CRYOGENICS
+LA English
+DT Article
+RP TSUBONO, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR COLLINGS EW, 1979, CRYOGENICS, V19, P521, DOI 10.1016/0011-2275(79)90005-5
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   LEDBETTER HM, 1975, J APPL PHYS, V46, P3855, DOI 10.1063/1.322182
+   LOVE AEH, 1927, TREATISE MATH THEORY, pCH22
+   MORIMOTO K, 1984, CRYOGENICS, V24, P227, DOI 10.1016/0011-2275(84)90147-4
+   SUZUKI T, 1978, PHYS LETT A, V67, P2, DOI 10.1016/0375-9601(78)90549-2
+   TOULOUKIAN YS, 1976, THERMAL EXPANSION, P1140
+NR 7
+TC 2
+Z9 2
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PD APR
+PY 1987
+VL 27
+IS 4
+BP 217
+EP 218
+DI 10.1016/0011-2275(87)90022-1
+PG 2
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA G7596
+UT WOS:A1987G759600008
+ER
+
+PT J
+AU OHASHI, M
+   TSUBONO, K
+   HIRAKAWA, H
+AF OHASHI, M
+   TSUBONO, K
+   HIRAKAWA, H
+TI LOW-NOISE OSCILLATOR STABILIZED BY MECHANICALLY MODULATED CAVITY
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+RP OHASHI, M (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+NR 0
+TC 1
+Z9 1
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD AUG
+PY 1986
+VL 25
+IS 8
+BP L687
+EP L689
+DI 10.1143/JJAP.25.L687
+PG 3
+WC Physics, Applied
+SC Physics
+GA D8614
+UT WOS:A1986D861400023
+ER
+
+PT J
+AU TSUBONO, K
+   OHASHI, M
+   HIRAKAWA, H
+AF TSUBONO, K
+   OHASHI, M
+   HIRAKAWA, H
+TI PARAMETRIC TRANSDUCER FOR GRAVITATIONAL-RADIATION DETECTOR
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+RP TSUBONO, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR BLAIR DG, 1981, NUOVO CIMENTO B, V61, P73, DOI 10.1007/BF02721704
+   Braginsky V. B., 1974, SOV PHYS JETP, V39, P387
+   BRAGINSKY VB, 1977, MEASUREMENT WEAK FOR
+   BRAGINSKII VB, 1981, JETP LETT+, V33, P405
+   BRAGINSKY VB, 1980, SCIENCE, V209, P547, DOI 10.1126/science.209.4456.547
+   CAVES CM, 1980, REV MOD PHYS, V52, P341, DOI 10.1103/RevModPhys.52.341
+   CAVES CM, 1982, PHYS REV D, V26, P1817, DOI 10.1103/PhysRevD.26.1817
+   CROMAR MW, 1981, APPL PHYS LETT, V38, P723, DOI 10.1063/1.92472
+   HAMILTON CA, 1980, CRYOGENICS, V20, P235, DOI 10.1016/0011-2275(80)90046-6
+   MANN AG, 1983, J PHYS D APPL PHYS, V16, P105, DOI 10.1088/0022-3727/16/2/008
+   OELFKE WC, 1983, REV SCI INSTRUM, V54, P410, DOI 10.1063/1.1137406
+   PAIK HJ, 1976, J APPL PHYS, V47, P1168, DOI 10.1063/1.322699
+   SHEN TM, 1980, APPL PHYS LETT, V36, P777, DOI 10.1063/1.91654
+   SMITH AD, 1985, IEEE T MAGN, V21, P1022, DOI 10.1109/TMAG.1985.1063665
+   STEIN SR, 1973, 27TH P ANN S FREQ CO, P414
+   SUZUKI T, 1978, PHYS LETT A, V67, P2, DOI 10.1016/0375-9601(78)90549-2
+   THORNE KS, 1980, REV MOD PHYS, V52, P285, DOI 10.1103/RevModPhys.52.285
+   TOMASSETTI G, 1981, ELECTRON LETT, V17, P949, DOI 10.1049/el:19810664
+   TSUBONO K, 1977, JPN J APPL PHYS, V16, P1641, DOI 10.1143/JJAP.16.1641
+   WEISS R, 1979, SOURCES GRAVITATIONA, P7
+NR 20
+TC 19
+Z9 20
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD APR
+PY 1986
+VL 25
+IS 4
+BP 622
+EP 626
+DI 10.1143/JJAP.25.622
+PG 5
+WC Physics, Applied
+SC Physics
+GA C2333
+UT WOS:A1986C233300022
+ER
+
+PT J
+AU HIRAKAWA, H
+   OWA, S
+   ISO, K
+AF HIRAKAWA, H
+   OWA, S
+   ISO, K
+TI THEORY OF THE DETECTION OF BACKGROUND GRAVITATIONAL-RADIATION
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP HIRAKAWA, H (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR ADAMS, 1982, ASTROPHYS J, V253, P1
+   CARR BJ, 1980, ASTRON ASTROPHYS, V89, P6
+   FUJIMOTO MK, 1979, J PHYS SOC JPN, V46, P703, DOI 10.1143/JPSJ.46.703
+   GIBBONS GW, 1971, PHYS REV D, V4, P2191, DOI 10.1103/PhysRevD.4.2191
+   HIRAKAWA H, 1978, PHYS REV D, V17, P1919, DOI 10.1103/PhysRevD.17.1919
+   HIRAKAWA H, 1976, J PHYS SOC JPN, V41, P1093, DOI 10.1143/JPSJ.41.1093
+   HIRAKAWA H, 1975, PHYS REV LETT, V35, P330, DOI 10.1103/PhysRevLett.35.330
+   HOUGH J, 1975, NATURE, V254, P498, DOI 10.1038/254498a0
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   LEE M, 1976, PHYS REV D, V14, P893, DOI 10.1103/PhysRevD.14.893
+   LEVINE JL, 1973, PHYS REV LETT, V31, P173, DOI 10.1103/PhysRevLett.31.173
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+   OGAWA Y, 1979, JPN J APPL PHYS, V18, P1565, DOI 10.1143/JJAP.18.1565
+   OWA S, 1983, JPN J APPL PHYS 2, V22, pL452, DOI 10.1143/JJAP.22.L452
+   OWA S, 1983, THESIS U TOKYO
+   PIZZELLA G, 1976, LETT NUOVO CIMENTO, V15, P501, DOI 10.1007/BF02725435
+   WEBER J, 1969, PHYS REV LETT, V22, P1320, DOI 10.1103/PhysRevLett.22.1320
+   WEBER J, 1960, PHYS REV, V117, P306, DOI 10.1103/PhysRev.117.306
+   WEBER J, 1970, LETT NUOVO CIMENTO, V4, P653, DOI 10.1007/BF02755039
+   ZIMMERMAN RL, 1980, ASTROPHYS J, V241, P475, DOI 10.1086/158362
+NR 20
+TC 1
+Z9 1
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1985
+VL 54
+IS 4
+BP 1270
+EP 1273
+DI 10.1143/JPSJ.54.1270
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA AMG35
+UT WOS:A1985AMG3500011
+ER
+
+PT J
+AU KURODA, K
+   HIRAKAWA, H
+AF KURODA, K
+   HIRAKAWA, H
+TI EXPERIMENTAL TEST OF THE LAW OF GRAVITATION
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+RP KURODA, K (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR ACHARYA R, 1973, LETT NUOVO CIMENTO, V6, P668, DOI 10.1007/BF02752640
+   CHAN HA, 1982, PHYS REV LETT, V49, P1745, DOI 10.1103/PhysRevLett.49.1745
+   CHEN YT, 1984, P ROY SOC LOND A MAT, V394, P47, DOI 10.1098/rspa.1984.0069
+   FORWARD RL, 1967, J APPL PHYS, V38, P512, DOI 10.1063/1.1709366
+   FUJII Y, 1981, GEN RELAT GRAVIT, V13, P1147, DOI 10.1007/BF00759863
+   FUJII Y, 1971, NATURE-PHYS SCI, V234, P5
+   FUJII Y, 1982, PHYS REV D, V26, P2580, DOI 10.1103/PhysRevD.26.2580
+   FUJII Y, 1974, PHYS REV D, V9, P874, DOI 10.1103/PhysRevD.9.874
+   GIBBONS GW, 1981, NATURE, V291, P636, DOI 10.1038/291636a0
+   HIRAKAWA H, 1977, PHYS LETT A, V63, P199, DOI 10.1016/0375-9601(77)90873-8
+   HIRAKAWA H, 1976, J PHYS SOC JPN, V41, P1093, DOI 10.1143/JPSJ.41.1093
+   HIRAKAWA H, 1975, PHYS REV LETT, V35, P330, DOI 10.1103/PhysRevLett.35.330
+   HIRAKAWA H, 1980, NATURE, V283, P184, DOI 10.1038/283184a0
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   KURODA K, 1984, JPN J APPL PHYS 2, V23, pL415, DOI 10.1143/JJAP.23.L415
+   LONG DR, 1976, NATURE, V260, P417, DOI 10.1038/260417a0
+   LONG DR, 1980, NUOVO CIMENTO B, V55, P252, DOI 10.1007/BF02739157
+   LUTHER GG, 1982, PHYS REV LETT, V48, P121, DOI 10.1103/PhysRevLett.48.121
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MOODY JE, 1984, PHYS REV D, V30, P130, DOI 10.1103/PhysRevD.30.130
+   OGAWA Y, 1982, PHYS REV D, V26, P729, DOI 10.1103/PhysRevD.26.729
+   OHANLON J, 1972, PHYS REV LETT, V29, P137, DOI 10.1103/PhysRevLett.29.137
+   Oide K., 1979, Physical Review D (Particles and Fields), V20, DOI 10.1103/PhysRevD.20.2480
+   PANOV VI, 1979, SOV PHYS JETP, V50, P852
+   SPERO R, 1980, PHYS REV LETT, V44, P1645, DOI 10.1103/PhysRevLett.44.1645
+NR 25
+TC 15
+Z9 15
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PY 1985
+VL 32
+IS 2
+BP 342
+EP 346
+DI 10.1103/PhysRevD.32.342
+PG 5
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA AMF73
+UT WOS:A1985AMF7300002
+ER
+
+PT J
+AU HIRAKAWA, H
+AF HIRAKAWA, H
+TI HYSTERESIS LOSS MECHANISM OF CARBON-BLACK FILLED RUBBER
+SO KAUTSCHUK GUMMI KUNSTSTOFFE
+LA English
+DT Article
+RP HIRAKAWA, H (reprint author), YOKOHAMA RUBBER CO LTD,HIRATSUKA PLANT,DIV RES & DEV,POB 20,HIRATSUKA,KANAGAWA 254,JAPAN.
+CR HIRAKAWA H, 1982, TIRE SCI TECHNOL, V10, P16, DOI 10.2346/1.2150972
+   Payne A.R., 1965, REINFORCEMENT ELASTO
+   1982, Patent No. 4321168
+NR 3
+TC 0
+Z9 0
+PU DR ALFRED HUTHIG VERLAG GMBH
+PI HEIDELBERG 1
+PA POSTFACH 102869, W-69018 HEIDELBERG 1, GERMANY
+SN 0022-9520
+J9 KAUT GUMMI KUNSTST
+JI Kautsch. Gummi Kunstst.
+PY 1985
+VL 38
+IS 10
+BP 898
+EP 900
+PG 3
+WC Engineering, Chemical; Polymer Science
+SC Engineering; Polymer Science
+GA AST60
+UT WOS:A1985AST6000003
+ER
+
+PT J
+AU KURODA, K
+   TSUBONO, K
+   HIRAKAWA, H
+AF KURODA, K
+   TSUBONO, K
+   HIRAKAWA, H
+TI CALIBRATION OF VIBRATION TRANSDUCERS
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+RP KURODA, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   KURODA K, 1983, JPN J APPL PHYS 1, V22, P1005, DOI 10.1143/JJAP.22.1005
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+   OGAWA Y, 1982, PHYS REV D, V26, P729, DOI 10.1103/PhysRevD.26.729
+   OGAWA Y, 1979, JPN J APPL PHYS, V18, P1565, DOI 10.1143/JJAP.18.1565
+   PAIK HJ, 1976, PHYS REV D, V13, P2694, DOI 10.1103/PhysRevD.13.2694
+   WEBER J, 1966, PHYS REV LETT, V17, P1228, DOI 10.1103/PhysRevLett.17.1228
+NR 7
+TC 3
+Z9 3
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PY 1984
+VL 23
+IS 6
+BP L415
+EP L416
+DI 10.1143/JJAP.23.L415
+PG 2
+WC Physics, Applied
+SC Physics
+GA TH910
+UT WOS:A1984TH91000024
+ER
+
+PT J
+AU ISO, K
+   KURODA, K
+   HIRAKAWA, H
+AF ISO, K
+   KURODA, K
+   HIRAKAWA, H
+TI COUPLING OF OSCILLATION MODES IN AN ANTENNA FOR GRAVITATIONAL-RADIATION
+SO PHYSICS LETTERS A
+LA English
+DT Article
+RP ISO, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR Fermi E., 1965, COLLECTED WORKS ENRI, VII, P978
+   Galgani L., 1972, Rivista del Nuovo Cimento, V2, DOI 10.1007/BF02747780
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   LANDAU LD, 1970, THEORY ELASTICITY, pCH26
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+NR 5
+TC 1
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PY 1984
+VL 103
+IS 5
+BP 262
+EP 264
+DI 10.1016/0375-9601(84)90121-X
+PG 3
+WC Physics, Multidisciplinary
+SC Physics
+GA TB844
+UT WOS:A1984TB84400012
+ER
+
+PT J
+AU KURODA, K
+   HIRAKAWA, H
+AF KURODA, K
+   HIRAKAWA, H
+TI RF-TRANSDUCER FOR MECHANICAL VIBRATION
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+RP KURODA, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR BLAIR DG, 1981, NUOVO CIMENTO B, V61, P73, DOI 10.1007/BF02721704
+   Braginsky V. B., 1974, SOV PHYS JETP, V39, P387
+   HIRAKAWA H, 1975, PHYS REV LETT, V35, P330, DOI 10.1103/PhysRevLett.35.330
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   KITTEL C, 1958, ELEMENTARY STATISTIC
+   KURODA K, 1982, PHYS LETT A, V92, P121, DOI 10.1016/0375-9601(82)90347-4
+   MICHELSON PF, 1981, J APPL PHYS, V52, P4313, DOI 10.1063/1.329244
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+   TSUBONO K, 1977, JPN J APPL PHYS, V16, P1641, DOI 10.1143/JJAP.16.1641
+   WEBER J, 1970, LETT NUOVO CIMENTO, V4, P653, DOI 10.1007/BF02755039
+NR 11
+TC 4
+Z9 4
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PY 1983
+VL 22
+IS 6
+BP 1005
+EP 1008
+DI 10.1143/JJAP.22.1005
+PG 4
+WC Physics, Applied
+SC Physics
+GA RD705
+UT WOS:A1983RD70500023
+ER
+
+PT J
+AU OWA, S
+   TSUBONO, K
+   HIRAKAWA, H
+AF OWA, S
+   TSUBONO, K
+   HIRAKAWA, H
+TI CHARACTERISTICS OF LOW-FREQUENCY CRYOGENIC ANTENNAS FOR
+   GRAVITATIONAL-RADIATION
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+RP OWA, S (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR BACKER DC, 1982, NATURE, V300, P615, DOI 10.1038/300615a0
+   FUJIMOTO MK, 1979, J PHYS SOC JPN, V46, P703, DOI 10.1143/JPSJ.46.703
+   HIRAKAWA H, 1978, PHYS REV D, V17, P1919, DOI 10.1103/PhysRevD.17.1919
+   HIRAKAWA H, 1980, NATURE, V283, P184, DOI 10.1038/283184a0
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   OGAWA Y, 1982, PHYS REV D, V26, P729, DOI 10.1103/PhysRevD.26.729
+   OGAWA Y, 1979, JPN J APPL PHYS, V18, P1565, DOI 10.1143/JJAP.18.1565
+   Oide K., 1979, Physical Review D (Particles and Fields), V20, DOI 10.1103/PhysRevD.20.2480
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+NR 9
+TC 3
+Z9 3
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PY 1983
+VL 22
+IS 7
+BP L452
+EP L454
+DI 10.1143/JJAP.22.L452
+PG 3
+WC Physics, Applied
+SC Physics
+GA RG250
+UT WOS:A1983RG25000027
+ER
+
+PT J
+AU OGAWA, Y
+   TSUBONO, K
+   HIRAKAWA, H
+AF OGAWA, Y
+   TSUBONO, K
+   HIRAKAWA, H
+TI EXPERIMENTAL TEST OF THE LAW OF GRAVITATION
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+RP OGAWA, Y (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR ACHARYA R, 1973, LETT NUOVO CIMENTO, V6, P668, DOI 10.1007/BF02752640
+   FORWARD RL, 1967, J APPL PHYS, V38, P512, DOI 10.1063/1.1709366
+   FUJII Y, 1981, GEN RELAT GRAVIT, V13, P1147, DOI 10.1007/BF00759863
+   FUJII Y, 1971, NATURE-PHYS SCI, V234, P5
+   FUJII Y, 1974, PHYS REV D, V9, P874, DOI 10.1103/PhysRevD.9.874
+   Heyl PR, 1942, J RES NAT BUR STAND, V29, P1, DOI 10.6028/jres.029.001
+   Heyl PR, 1930, BUR STAND J RES, V5, P1243
+   HIRAKAWA H, 1977, PHYS LETT A, V63, P199, DOI 10.1016/0375-9601(77)90873-8
+   HIRAKAWA H, 1976, J PHYS SOC JPN, V41, P1093, DOI 10.1143/JPSJ.41.1093
+   HIRAKAWA H, 1980, NATURE, V283, P184, DOI 10.1038/283184a0
+   KIMURA S, 1981, PHYS LETT A, V81, P302, DOI 10.1016/0375-9601(81)90723-4
+   LONG DR, 1974, PHYS REV D, V9, P850, DOI 10.1103/PhysRevD.9.850
+   LONG DR, 1981, NUOVO CIMENTO B, V62, P130, DOI 10.1007/BF02721255
+   LUTHER GG, 1976, ATOMIC MASSES FUNDAM, V5, P592
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MIKKELSEN DR, 1977, PHYS REV D, V16, P919, DOI 10.1103/PhysRevD.16.919
+   MILLS AP, 1979, GEN RELAT GRAVIT, V11, P1, DOI 10.1007/BF00756666
+   OHANLON J, 1972, PHYS REV LETT, V29, P137, DOI 10.1103/PhysRevLett.29.137
+   Oide K., 1979, Physical Review D (Particles and Fields), V20, DOI 10.1103/PhysRevD.20.2480
+   OIDE K, 1980, JPN J APPL PHYS, V19, pL123, DOI 10.1143/JJAP.19.L123
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+   PAIK HJ, 1979, PHYS REV D, V19, P2320, DOI 10.1103/PhysRevD.19.2320
+   PANOV VI, 1979, SOV PHYS JETP, V50, P852
+   Pechlaner E., 1966, Communications in Mathematical Physics, V2, DOI 10.1007/BF01773351
+   PONTIKIS C, 1972, CR ACAD SCI B PHYS, V274, P437
+   POYNTING JH, 1910, ENCY BRITANNICA, V12, P384
+   ROSE RD, 1969, PHYS REV LETT, V23, P655, DOI 10.1103/PhysRevLett.23.655
+   SINSKY J, 1967, PHYS REV LETT, V18, P795, DOI 10.1103/PhysRevLett.18.795
+   SINSKY JA, 1968, PHYS REV, V167, P1145, DOI 10.1103/PhysRev.167.1145
+   SPERO R, 1980, PHYS REV LETT, V44, P1645, DOI 10.1103/PhysRevLett.44.1645
+   SUZUKI T, 1981, JPN J APPL PHYS, V20, pL498, DOI 10.1143/JJAP.20.L498
+   WAGONER RV, 1970, PHYS REV D, V1, P3209, DOI 10.1103/PhysRevD.1.3209
+   WILLIAMS ER, 1971, PHYS REV LETT, V26, P721, DOI 10.1103/PhysRevLett.26.721
+NR 33
+TC 30
+Z9 30
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PY 1982
+VL 26
+IS 4
+BP 729
+EP 734
+DI 10.1103/PhysRevD.26.729
+PG 6
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA PC060
+UT WOS:A1982PC06000001
+ER
+
+PT J
+AU KURODA, K
+   TSUBONO, K
+   HIRAKAWA, H
+AF KURODA, K
+   TSUBONO, K
+   HIRAKAWA, H
+TI SUPPRESSION OF BROWNIAN-MOTION BY GRAVITY-FIELD
+SO PHYSICS LETTERS A
+LA English
+DT Article
+RP KURODA, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR HIRAKAWA H, 1977, PHYS LETT A, V63, P199, DOI 10.1016/0375-9601(77)90873-8
+   KITTEL C, 1958, ELEMENTARY STATISTIC
+   MILATZ JMW, 1953, PHYSICA, V19, P181, DOI 10.1016/S0031-8914(53)80020-0
+   OIDE K, 1980, JPN J APPL PHYS, V19, pL123, DOI 10.1143/JJAP.19.L123
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+NR 5
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PY 1982
+VL 92
+IS 3
+BP 121
+EP 122
+DI 10.1016/0375-9601(82)90347-4
+PG 2
+WC Physics, Multidisciplinary
+SC Physics
+GA PP354
+UT WOS:A1982PP35400006
+ER
+
+PT J
+AU WEBER, J
+   HIRAKAWA, H
+AF WEBER, J
+   HIRAKAWA, H
+TI SUMMARY OF THE WORKSHOP ON GRAVITATIONAL-RADIATION DETECTORS
+SO ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+LA English
+DT Article
+C1 UNIV MARYLAND,DEPT PHYS & ASTRON,COLLEGE PK,MD 20742.
+   UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP WEBER, J (reprint author), UNIV CALIF IRVINE,IRVINE,CA 92717, USA.
+CR de Witt B.S., 1962, GRAVITATION INTRO CU
+   DYSON F, 1963, INTERSTELLAR COMMUNI, P115
+   MOSS GE, 1971, APPL OPTICS, V10, P2495, DOI 10.1364/AO.10.002495
+   SUZUKI T, 1978, PHYS LETT A, V67, P2, DOI 10.1016/0375-9601(78)90549-2
+   WEBER J, 1980, SEARCH GRAVITATIONAL, V2
+   WEBER J, 1961, GEN RELAT GRAVIT, pCH7
+NR 6
+TC 1
+Z9 1
+PU NEW YORK ACAD SCIENCES
+PI NEW YORK
+PA 2 E 63RD ST, NEW YORK, NY 10021
+SN 0077-8923
+J9 ANN NY ACAD SCI
+JI Ann.NY Acad.Sci.
+PY 1981
+VL 375
+IS DEC
+BP 446
+EP 448
+DI 10.1111/j.1749-6632.1981.tb33716.x
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA NB979
+UT WOS:A1981NB97900031
+ER
+
+PT J
+AU KIMURA, S
+   SUZUKI, T
+   HIRAKAWA, H
+AF KIMURA, S
+   SUZUKI, T
+   HIRAKAWA, H
+TI LOW-FREQUENCY ANTENNA FOR GRAVITATIONAL-RADIATION
+SO PHYSICS LETTERS A
+LA English
+DT Article
+RP KIMURA, S (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR GIBBONS GW, 1971, PHYS REV D, V4, P2191, DOI 10.1103/PhysRevD.4.2191
+   HIRAKAWA H, 1979, 2ND P MARC GROSSM M
+   HIRAKAWA H, 1976, J PHYS SOC JPN, V41, P1093, DOI 10.1143/JPSJ.41.1093
+   SUZUKI T, 1978, PHYS LETT A, V67, P2, DOI 10.1016/0375-9601(78)90549-2
+NR 4
+TC 23
+Z9 23
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PY 1981
+VL 81
+IS 5
+BP 302
+EP 304
+DI 10.1016/0375-9601(81)90723-4
+PG 3
+WC Physics, Multidisciplinary
+SC Physics
+GA LB643
+UT WOS:A1981LB64300018
+ER
+
+PT J
+AU HIRAKAWA, H
+   TSUBONO, K
+   OIDE, K
+AF HIRAKAWA, H
+   TSUBONO, K
+   OIDE, K
+TI DYNAMICAL TEST OF THE LAW OF GRAVITATION
+SO NATURE
+LA English
+DT Article
+RP HIRAKAWA, H (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR Cavendish H., 1798, PHILOS T ROY SOC LON, V88, P469, DOI 10.1098/rstl.1798.0022
+   FISHBANE PM, 1978, PHYS LETT B, V74, P98
+   FUJII Y, 1974, PHYS REV D, V9, P874, DOI 10.1103/PhysRevD.9.874
+   FUJII Y, 1978, PHYS LETT B, V79, P138, DOI 10.1016/0370-2693(78)90454-9
+   FUJIMOTO MK, 1979, J PHYS SOC JPN, V46, P703, DOI 10.1143/JPSJ.46.703
+   Heyl PR, 1942, J RES NAT BUR STAND, V29, P1, DOI 10.6028/jres.029.001
+   Heyl PR, 1930, BUR STAND J RES, V5, P1243
+   HIRAKAWA H, 1977, PHYS LETT A, V63, P199, DOI 10.1016/0375-9601(77)90873-8
+   HIRAKAWA H, 1975, PHYS REV LETT, V35, P330, DOI 10.1103/PhysRevLett.35.330
+   LONG DR, 1974, PHYS REV D, V9, P850, DOI 10.1103/PhysRevD.9.850
+   LONG DR, 1976, NATURE, V260, P417, DOI 10.1038/260417a0
+   LUTHER GG, 1976, ATOMIC MASSES FUNDAM, V5, P592
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MIKKELSEN DR, 1977, PHYS REV D, V16, P919, DOI 10.1103/PhysRevD.16.919
+   OHANLON J, 1972, PHYS REV LETT, V29, P137, DOI 10.1103/PhysRevLett.29.137
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+   PONTIKIS C, 1972, CR ACAD SCI B PHYS, V274, P437
+   ROSE RD, 1969, PHYS REV LETT, V23, P655, DOI 10.1103/PhysRevLett.23.655
+   SAWADA T, 1973, PHYS LETT B, VB 43, P517, DOI 10.1016/0370-2693(73)90360-2
+   SAWADA T, 1978, PROG THEOR PHYS, V59, P149, DOI 10.1143/PTP.59.149
+   SINSKY J, 1967, PHYS REV LETT, V18, P795, DOI 10.1103/PhysRevLett.18.795
+   SINSKY JA, 1968, PHYS REV, V167, P1145, DOI 10.1103/PhysRev.167.1145
+NR 22
+TC 30
+Z9 30
+PU MACMILLAN MAGAZINES LTD
+PI LONDON
+PA PORTERS SOUTH, 4 CRINAN ST, LONDON, ENGLAND N1 9XW
+SN 0028-0836
+J9 NATURE
+JI Nature
+PY 1980
+VL 283
+IS 5743
+BP 184
+EP 185
+DI 10.1038/283184a0
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA JB444
+UT WOS:A1980JB44400032
+ER
+
+PT J
+AU HIRAKAWA, H
+   TSUBONO, K
+   OIDE, K
+AF HIRAKAWA, H
+   TSUBONO, K
+   OIDE, K
+TI ACTIVE RESONANT ANTENNAS FOR GRAVITATIONAL RADIATION
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+RP HIRAKAWA, H (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BRAGINSKY VB, 1977, PHYS REV D, V15, P2047, DOI 10.1103/PhysRevD.15.2047
+   DREVER RWP, 1977, Q J ROY ASTRON SOC, V18, P9
+   FORWARD RL, 1978, PHYS REV D, V17, P379, DOI 10.1103/PhysRevD.17.379
+   GIBBONS GW, 1971, PHYS REV D, V4, P2191, DOI 10.1103/PhysRevD.4.2191
+   GIFFARD RP, 1976, PHYS REV D, V14, P2478, DOI 10.1103/PhysRevD.14.2478
+   HEFFNER H, 1962, P IRE, V50, P1604, DOI 10.1109/JRPROC.1962.288130
+   HIRAKAWA H, 1978, PHYS REV D, V17, P1919, DOI 10.1103/PhysRevD.17.1919
+   HIRAKAWA H, 1977, PHYS LETT A, V63, P199, DOI 10.1016/0375-9601(77)90873-8
+   LEVINE JL, 1973, PHYS REV LETT, V31, P173, DOI 10.1103/PhysRevLett.31.173
+   MILLMAN J, 1972, INTEGRATED ELECTRONI, pCH14
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+   OIDE K, 1978, JPN J APPL PHYS, V17, P429, DOI 10.1143/JJAP.17.429
+   VANDERZIEL A, 1954, NOISE, pCH2
+   WEBER J, 1970, LETT NUOVO CIMENTO, V4, P653, DOI 10.1007/BF02755039
+   WINKLER W, 1977, 1976 P C EXP GRAV PA, P351
+NR 15
+TC 4
+Z9 4
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+PY 1979
+VL 18
+IS 1
+BP 177
+EP 180
+DI 10.1143/JJAP.18.177
+PG 4
+WC Physics, Applied
+SC Physics
+GA GF007
+UT WOS:A1979GF00700027
+ER
+
+PT J
+AU OGAWA, Y
+   OIDE, K
+   HIRAKAWA, H
+AF OGAWA, Y
+   OIDE, K
+   HIRAKAWA, H
+TI ELECTRO-MECHANICAL TUNING OF RESONANT ANTENNAS FOR GRAVITATIONAL
+   RADIATION
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+RP OGAWA, Y (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BILLING H, 1975, LETT NUOVO CIMENTO, V12, P111, DOI 10.1007/BF02790471
+   DOUGLASS DH, 1975, PHYS REV LETT, V35, P480, DOI 10.1103/PhysRevLett.35.480
+   GIBBONS GW, 1971, PHYS REV D, V4, P2191, DOI 10.1103/PhysRevD.4.2191
+   GROTH EJ, 1975, ASTROPHYS J SUPPL S, V29, P431, DOI 10.1086/190352
+   GROTH EJ, 1975, ASTROPHYS J SUPPL S, V29, P443, DOI 10.1086/190353
+   GROTH EJ, 1975, ASTROPHYS J SUPPL S, V29, P453, DOI 10.1086/190354
+   HIRAKAWA H, 1978, PHYS REV D, V17, P1919, DOI 10.1103/PhysRevD.17.1919
+   HIRAKAWA H, 1975, PHYS REV LETT, V35, P330, DOI 10.1103/PhysRevLett.35.330
+   HIRAKAWA H, 1979, JPN J APPL PHYS, V18, P177, DOI 10.1143/JJAP.18.177
+   Landau L.D., 1960, ELECTRODYNAMICS CONT
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+   PAIK HJ, 1976, J APPL PHYS, V47, P1168, DOI 10.1063/1.322699
+   TAYLOR JH, 1979, NATURE, V277, P437, DOI 10.1038/277437a0
+   TSUBONO K, 1977, JPN J APPL PHYS, V16, P1641, DOI 10.1143/JJAP.16.1641
+   WEBER J, 1969, PHYS REV LETT, V22, P1320, DOI 10.1103/PhysRevLett.22.1320
+NR 15
+TC 3
+Z9 3
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+PY 1979
+VL 18
+IS 8
+BP 1565
+EP 1569
+DI 10.1143/JJAP.18.1565
+PG 5
+WC Physics, Applied
+SC Physics
+GA HG674
+UT WOS:A1979HG67400020
+ER
+
+PT J
+AU FUJIMOTO, MK
+   HIRAKAWA, H
+AF FUJIMOTO, MK
+   HIRAKAWA, H
+TI THEORY OF THE DETECTION OF CONTINUOUS GRAVITATIONAL RADIATION
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+RP FUJIMOTO, MK (reprint author), TOKYO ASTRON OBSERV,MITAKA,TOKYO 181,JAPAN.
+CR BAYM G, 1969, NATURE, V224, P872, DOI 10.1038/224872a0
+   BRAGINSKY VB, 1977, MEASUREMENT WEAK FOR, pCH9
+   Buckingham M.J., 1972, Radio and Electronic Engineer, V42
+   GIBBONS GW, 1971, PHYS REV D, V4, P2191, DOI 10.1103/PhysRevD.4.2191
+   GIFFARD RP, 1976, PHYS REV D, V14, P2478, DOI 10.1103/PhysRevD.14.2478
+   GROTH P, 1975, ACTA CHEM SCAND A, V29, P453, DOI 10.3891/acta.chem.scand.29a-0453
+   HIRAKAWA H, 1978, PHYS REV D, V17, P1919, DOI 10.1103/PhysRevD.17.1919
+   HIRAKAWA H, 1977, PHYS LETT A, V63, P199, DOI 10.1016/0375-9601(77)90873-8
+   HIRAKAWA H, 1975, PHYS REV LETT, V35, P330, DOI 10.1103/PhysRevLett.35.330
+   LEE M, 1976, PHYS REV D, V14, P893, DOI 10.1103/PhysRevD.14.893
+   LEVINE JL, 1973, PHYS REV LETT, V31, P173, DOI 10.1103/PhysRevLett.31.173
+   NARIHARA K, 1976, JPN J APPL PHYS, V15, P833, DOI 10.1143/JJAP.15.833
+   PIZZELLA G, 1976, LETT NUOVO CIMENTO, V15, P501, DOI 10.1007/BF02725435
+   TSUBONO K, 1978, J PHYS SOC JPN, V45, P1767, DOI 10.1143/JPSJ.45.1767
+   WEBER J, 1969, PHYS REV LETT, V22, P1320, DOI 10.1103/PhysRevLett.22.1320
+   WEBER J, 1970, LETT NUOVO CIMENTO, V4, P653, DOI 10.1007/BF02755039
+NR 16
+TC 6
+Z9 6
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1979
+VL 46
+IS 3
+BP 703
+EP 706
+DI 10.1143/JPSJ.46.703
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA GT115
+UT WOS:A1979GT11500001
+ER
+
+EF

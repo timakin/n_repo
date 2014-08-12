@@ -1,0 +1,2933 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Satoh, T
+   Terui, Y
+   Moriya, R
+   Ivanov, BA
+   Ando, K
+   Saitoh, E
+   Shimura, T
+   Kuroda, K
+AF Satoh, Takuya
+   Terui, Yuki
+   Moriya, Rai
+   Ivanov, Boris A.
+   Ando, Kazuya
+   Saitoh, Eiji
+   Shimura, Tsutomu
+   Kuroda, Kazuo
+TI Directional control of spin-wave emission by spatially shaped light
+SO NATURE PHOTONICS
+LA English
+DT Article
+ID FILMS; TORQUE
+AB In future spintronics it is anticipated that spin waves will function as unique information carriers that are free from Joule heating(1-7). Directional control of spin-wave emission has been desired for the realization of switching devices. Here, we propose a promising technique that makes use of a spatially shaped light pulse with circular polarization. Focusing this light pulse on a magnet generates spin waves via the inverse Faraday effect. Moreover, the wavenumber distribution of the spin waves is determined by the spatial intensity distribution of the light spot. We demonstrate the principle of this technique both theoretically and experimentally. We successfully control the direction of the energy flow by shaping the light spot into an ellipse, with its major axis parallel or perpendicular to the magnetic field. Our findings will open up the possibility of fast and arbitrary synthesis of spin-wave patterns by using a more sophisticated light-shaping technique, for example using a computer-generated hologram(8).
+C1 Univ Tokyo, Inst Ind Sci, Tokyo 1538505, Japan.
+   Japan Sci & Technol Agcy, PRESTO, Tokyo 1020076, Japan.
+   NASU, Inst Magnetism, UA-03142 Kiev, Ukraine.
+   Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+   Japan Sci & Technol Agcy, CREST, Tokyo 1020075, Japan.
+   Japan Atom Agcy, Adv Sci Res Ctr, Tokai, Ibaraki 3191195, Japan.
+   Tohoku Univ, WPI Adv Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+RP Satoh, T (reprint author), Univ Tokyo, Inst Ind Sci, Tokyo 1538505, Japan.
+EM tsatoh@iis.u-tokyo.ac.jp
+RI Saitoh, Eiji/C-1004-2011
+FU KAKENHI [23104706]; Japan Science and Technology Agency (JST)-Precursory
+   Research for Embryonic Science and Technology (PRESTO); National Academy
+   of Sciences of Ukraine (NASU) [220-10]; Scientific and Technological
+   Center of Ukraine (STCU) [5210]; Japan Society for the Promotion of
+   Science (JSPS), Invitation Fellowship Programs for Research in Japan
+FX The authors thank S. O. Demokritov, K. Sawada and A. Koreeda for
+   valuable discussions, R. Iida and I. Yoshimine for technical assistance,
+   and S. Takeda for the ferrimagnetic resonance measurements. This work
+   was supported by KAKENHI 23104706 and Japan Science and Technology
+   Agency (JST)-Precursory Research for Embryonic Science and Technology
+   (PRESTO) (T. Satoh), National Academy of Sciences of Ukraine (NASU)
+   220-10 and Scientific and Technological Center of Ukraine (STCU) 5210
+   (B.A.I.). B.A.I. was supported by the Japan Society for the Promotion of
+   Science (JSPS), Invitation Fellowship Programs for Research in Japan.
+CR Boulle O, 2007, NAT PHYS, V3, P492, DOI 10.1038/nphys618
+   Buttner O, 2000, PHYS REV B, V61, P11576, DOI 10.1103/PhysRevB.61.11576
+   Chigrin DN, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056611
+   Covington M, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.237202
+   Demidov VE, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.014429
+   Demidov VE, 2010, NAT MATER, V9, P984, DOI [10.1038/nmat2882, 10.1038/NMAT2882]
+   Farle M, 1998, REP PROG PHYS, V61, P755, DOI 10.1088/0034-4885/61/7/001
+   Gurevich A.G., 1996, MAGNETIZATION OSCILL
+   Hecht E., 2002, OPTICS
+   Hurben MJ, 1996, J MAGN MAGN MATER, V163, P39, DOI 10.1016/S0304-8853(96)00294-6
+   Kajiwara Y, 2010, NATURE, V464, P262, DOI 10.1038/nature08876
+   Kimel AV, 2005, NATURE, V435, P655, DOI 10.1038/nature03S64
+   Kirilyuk A, 2010, REV MOD PHYS, V82, P2731, DOI 10.1103/RevModPhys.82.2731
+   Kiselev SI, 2003, NATURE, V425, P380, DOI 10.1038/nature01967
+   Kruglyak VV, 2010, J PHYS D APPL PHYS, V43, DOI 10.1088/0022-3727/43/26/264001
+   Lee W. H, 1978, PROGR OPTICS, P121
+   Lenk B, 2011, PHYS REP, V507, P107, DOI 10.1016/j.physrep.2011.06.003
+   Liu ZG, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.087201
+   Maekawa S., 2006, CONCEPTS SPIN ELECT
+   Park JP, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.277201
+   Perzlmaier K, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.054425
+   Schneider T, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.214411
+   Schneider T, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.197203
+   Serga AA, 2010, J PHYS D APPL PHYS, V43, DOI 10.1088/0022-3727/43/26/264002
+   Stancil D. D., 2009, SPIN WAVES THEORY AP
+   TAYLOR B, 1969, PHYS REV LETT, V23, P416, DOI 10.1103/PhysRevLett.23.416
+   van Kampen M, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.227201
+   Veerakumar V, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.214401
+   Wu M, 2006, J APPL PHYS, V99, DOI 10.1063/1.2150592
+   Zvezdin A. K., 1997, MODERN MAGNETOOPTICS
+NR 30
+TC 5
+Z9 5
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1749-4885
+J9 NAT PHOTONICS
+JI Nat. Photonics
+PD OCT
+PY 2012
+VL 6
+IS 10
+BP 662
+EP 666
+DI 10.1038/NPHOTON.2012.218
+PG 5
+WC Optics; Physics, Applied
+SC Optics; Physics
+GA 016MW
+UT WOS:000309523900012
+ER
+
+PT J
+AU Thomas, L
+   Hayashi, M
+   Moriya, R
+   Rettner, C
+   Parkin, S
+AF Thomas, Luc
+   Hayashi, Masamitsu
+   Moriya, Rai
+   Rettner, Charles
+   Parkin, Stuart
+TI Topological repulsion between domain walls in magnetic nanowires leading
+   to the formation of bound states
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID SPIN-ICE; STRIPS
+AB Head-to-head and tail-to-tail magnetic domain walls in nanowires behave as free magnetic monopoles carrying a single magnetic charge. Since adjacent walls always carry opposite charges, they attract one another. In most cases this long-range attractive interaction leads to annihilation of the two domain walls. Here, we show that, in some cases, a short-range repulsive interaction suppresses annihilation of the walls, even though the lowest energy state is without any domain walls. This repulsive interaction is a consequence of topological edge defects that have the same winding number. We show that the competition between the attractive and repulsive interactions leads to the formation of metastable bound states made up of two or more domain walls. We have created bound states formed from up to eight domain walls, corresponding to the magnetization winding up over four complete 360 degrees rotations.
+C1 IBM Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Thomas, L (reprint author), IBM Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM lucthom@us.ibm.com; sspp@us.ibm.com
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   BERGER L, 1986, PHYS REV B, V33, P1572, DOI 10.1103/PhysRevB.33.1572
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   Castano FJ, 2003, PHYS REV B, V67, DOI [10.1103/PhysRevB.67.184425, 10.1103/PhysRevD.67.184425]
+   Castelnovo C, 2008, NATURE, V451, P42, DOI 10.1038/nature06433
+   Chern GW, 2006, J APPL PHYS, V99, DOI 10.1063/1.2168439
+   Fukami S., 2009, S VLSI TECHN, V230
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2008, SCIENCE, V320, P209, DOI 10.1126/science.1154587
+   Hayward TJ, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.020410
+   Hehn M., 2008, Applied Physics Letters, V92, DOI 10.1063/1.2838455
+   Klaui M., 2005, PHYS REV LETT, V95, DOI DOI 10.1103/PHYSREVLETT.95.026601
+   Kunz A, 2009, APPL PHYS LETT, V94, DOI 10.1063/1.3112577
+   Ladak S, 2010, NAT PHYS, V6, P359, DOI 10.1038/NPHYS1628
+   Laufenberg M, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2207220
+   Mascaro MD, 2010, APPL PHYS LETT, V96, DOI 10.1063/1.3396076
+   McMichael RD, 1997, IEEE T MAGN, V33, P4167, DOI 10.1109/20.619698
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   O'Brien L, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.077206
+   Parkin SSP, 2008, SCIENCE, V320, P190, DOI 10.1126/science.1145799
+   Portier X, 2000, APPL PHYS LETT, V76, P754, DOI 10.1063/1.125884
+   Slonczewski JC, 1996, J MAGN MAGN MATER, V159, pL1, DOI 10.1016/0304-8853(96)00062-5
+   Tchernyshyov O, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.197204
+   Tchernyshyov O, 2008, NATURE, V451, P22, DOI 10.1038/451022b
+   Thomas L, 2010, SCIENCE, V330, P1810, DOI 10.1126/science.1197468
+NR 25
+TC 3
+Z9 3
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD MAY
+PY 2012
+VL 3
+AR 810
+DI 10.1038/ncomms1808
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 949XP
+UT WOS:000304611400010
+ER
+
+PT J
+AU Jiang, X
+   Moriya, R
+   Parkin, S
+AF Jiang, Xin
+   Moriya, Rai
+   Parkin, Stuart
+TI Reducing spin torque switching current density by boron insertion into a
+   CoFeB free layer of a magnetic tunnel junction
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID MULTILAYER; EXCITATION
+AB The spin torque switching current density is measured for magnetic tunnel junctions containing a CoFeB free layer. We find that the insertion of an ultra-thin boron layer near the free layer/tunnel barrier interface gives rise to an increased resistance-area product and to a reduction in the switching current density. This is attributed to a lower tunneling matrix element near the inserted boron. As a result, the injected current is concentrated within smaller areas of the free layer, which leads to an overall decrease in the switching current density. (C) 2012 American Institute of Physics. [http://dx.doi.org/10.1063/1.4704916]
+C1 IBM Res Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+   Univ Tokyo, Inst Ind Sci, Tokyo 1538505, Japan.
+RP Jiang, X (reprint author), IBM Res Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+CR Berger L, 1996, PHYS REV B, V54, P9353, DOI 10.1103/PhysRevB.54.9353
+   Fuchs GD, 2004, APPL PHYS LETT, V85, P1205, DOI 10.1063/1.1781769
+   Gao L, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.247205
+   Hayakawaa J, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2402904
+   Hayakawa J, 2005, JPN J APPL PHYS 2, V44, pL1267, DOI 10.1143/JJAP.44.L1267
+   Huai YM, 2004, APPL PHYS LETT, V84, P3118, DOI 10.1063/1.1707228
+   Ikeda S, 2010, NAT MATER, V9, P721, DOI [10.1038/nmat2804, 10.1038/NMAT2804]
+   Kaiser C, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.247203
+   Katine JA, 2000, PHYS REV LETT, V84, P3149, DOI 10.1103/PhysRevLett.84.3149
+   Kubota H, 2005, JPN J APPL PHYS 2, V44, pL1237, DOI 10.1143/JJAP.44.L1237
+   Ozatay O, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2206683
+   Parkin SSP, 2004, NAT MATER, V3, P862, DOI 10.1038/nmat1256
+   Slonczewski JC, 1996, J MAGN MAGN MATER, V159, pL1, DOI 10.1016/0304-8853(96)00062-5
+   Tsoi M, 1998, PHYS REV LETT, V80, P4281, DOI 10.1103/PhysRevLett.80.4281
+NR 14
+TC 1
+Z9 1
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD APR 23
+PY 2012
+VL 100
+IS 17
+AR 172407
+DI 10.1063/1.4704916
+PG 3
+WC Physics, Applied
+SC Physics
+GA 933DS
+UT WOS:000303340300051
+ER
+
+PT J
+AU Yamaguchi, T
+   Masubuchi, S
+   Iguchi, K
+   Moriya, R
+   Machida, T
+AF Yamaguchi, Takehiro
+   Masubuchi, Satoru
+   Iguchi, Kazuyuki
+   Moriya, Rai
+   Machida, Tomoki
+TI Tunnel spin injection into graphene using Al2O3 barrier grown by atomic
+   layer deposition on functionalized graphene surface
+SO JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS
+LA English
+DT Article
+DE Spin injection; Graphene; Tunnel barrier; Atomic layer deposition
+ID ROOM-TEMPERATURE
+AB We demonstrate electrical tunnel spin injection from a ferromagnet to graphene through a high-quality Al2O3 grown by atomic layer deposition (ALD). The graphene surface is functionalized with a self-assembled monolayer of 3,4,9,10-perylene tetracarboxylic acid (PTCA) to promote adhesion and growth of Al2O3 with a smooth surface. Using this composite tunnel barrier of ALD-Al2O3 and PTCA, a spin injection signal of similar to 30 Omega has been observed from non-local magnetoresistance measurements at 45 K, revealing potentially high performance of ALD-Al2O3/PTCA tunnel barrier for spin injection into graphene. (C) 2011 Elsevier B.V. All rights reserved.
+C1 Univ Tokyo, Inst Ind Sci, Meguro Ku, Tokyo 1538505, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo 1538505, Japan.
+   Japan Sci & Technol Agcy, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+RP Moriya, R (reprint author), Univ Tokyo, Inst Ind Sci, Meguro Ku, 4-6-1 Komaba, Tokyo 1538505, Japan.
+EM yamatake@iis.u-tokyo.ac.jp; moriyar@iis.u-tokyo.ac.jp
+FU PRESTO, Japan Science and Technology Agency; Special Coordination Fund
+   for Promoting Science and Technology; MEXT; CREST, Japan Science and
+   Technology Agency
+FX We are grateful for helpful discussions with K. Yamaguchi. We also thank
+   K. Hirakawa and K. Shibata for access to ALD. This work is supported by
+   the PRESTO, Japan Science and Technology Agency, the Special
+   Coordination Fund for Promoting Science and Technology, the Grant-in-Aid
+   for Scientific Research from the MEXT, and the CREST, Japan Science and
+   Technology Agency.
+CR Neto AHC, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.026804
+   CHO S, 2007, APPL PHYS LETT, V19
+   DLUBAK B, 2010, APPL PHYS LETT, V97
+   Ertler C, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.041405
+   Geim AK, 2007, NAT MATER, V6, P183, DOI 10.1038/nmat1849
+   Han W, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.167202
+   Han W, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.137205
+   Huertas-Hernando D, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.146801
+   Huertas-Hernando D, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.155426
+   Jozsa C, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.081402
+   Ohishi M, 2007, JPN J APPL PHYS 2, V46, pL605, DOI 10.1143/JJAP.46.L605
+   Ozyilmaz B, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2803074
+   Pi K, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.187201
+   Takahashi S, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.052409
+   Tombros N, 2007, NATURE, V448, P571, DOI 10.1038/nature06037
+   Venugopal A., 2010, APPL PHYS LETT, V96
+   Wang XR, 2008, J AM CHEM SOC, V130, P8152, DOI 10.1021/ja8023059
+   Williams JR, 2007, SCIENCE, V317, P638, DOI 10.1126/science.1144657
+NR 18
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-8853
+J9 J MAGN MAGN MATER
+JI J. Magn. Magn. Mater.
+PD MAR
+PY 2012
+VL 324
+IS 5
+BP 849
+EP 852
+DI 10.1016/j.jmmm.2011.09.031
+PG 4
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter
+SC Materials Science; Physics
+GA 850QV
+UT WOS:000297213000032
+ER
+
+PT J
+AU Yang, H
+   Itkis, ME
+   Moriya, R
+   Rettner, C
+   Jeong, JS
+   Pickard, DS
+   Haddon, RC
+   Parkin, SSP
+AF Yang, Hyunsoo
+   Itkis, Mikhail E.
+   Moriya, Rai
+   Rettner, Charles
+   Jeong, Jae-Seung
+   Pickard, Daniel S.
+   Haddon, Robert C.
+   Parkin, Stuart S. P.
+TI Nonlocal spin transport in single-walled carbon nanotube networks
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID COHERENT TRANSPORT; FILMS; TRANSPARENT; VALVES
+AB Spin transport in carbon-based materials has stimulated much interest due to their ballistic conductance and a long phase coherence length. While much research has been conducted on individual carbon nanotubes, current growth and placement techniques are incompatible with large-scale fabrication. Here, we report on nonlocal spin injection and detection in single-walled carbon nanotube networks. We observe spin transport over a distance of 1 mu m and extract a spin diffusion length of 1.6-2.4 mu m with an injected spin polarization from CoFe into nanotube network of 18%-41%. Our observations demonstrate that spin transport is possible in carbon nanotube networks due to the formation of natural tunnel barriers between nanotubes and metallic contacts.
+C1 Natl Univ Singapore, Dept Elect & Comp Engn, Singapore 117576, Singapore.
+   Univ Calif Riverside, Dept Phys & Astron, Ctr Nanoscale Sci & Engn, Riverside, CA 92521 USA.
+   Univ Calif Riverside, Dept Chem, Ctr Nanoscale Sci & Engn, Riverside, CA 92521 USA.
+   Univ Calif Riverside, Dept Chem & Environm Engn, Ctr Nanoscale Sci & Engn, Riverside, CA 92521 USA.
+   IBM Almaden Res Ctr, San Jose, CA 95120 USA.
+   Korea Inst Adv Study, Sch Phys, Seoul 130722, South Korea.
+RP Yang, H (reprint author), Natl Univ Singapore, Dept Elect & Comp Engn, 4 Engn Dr 3, Singapore 117576, Singapore.
+EM eleyang@nus.edu.sg
+RI Parkin, Stuart/D-2521-2012; Yang, Hyunsoo/F-5149-2010; Haddon,
+   Robert/A-2528-2008
+OI Haddon, Robert/0000-0002-7903-5139
+FU Singapore National Research Foundation [NRF-CRP 4-2008-06,
+   R-263-000-504-133]; Singapore Ministry of Education [MOE2008-T2-1-105];
+   US Defense Microelectronics Activity (DMEA) [H94003-10-2-1004]
+FX This work is partially supported by the Singapore National Research
+   Foundation under Competitive Research Programme Award No. NRF-CRP
+   4-2008-06 and the Singapore Ministry of Education under Academic
+   Research Fund Tier 2 (MOE2008-T2-1-105) and Award No. R-263-000-504-133,
+   and by the US Defense Microelectronics Activity (DMEA) under agreement
+   number H94003-10-2-1004.
+CR Aurich H, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3502600
+   Bachtold A, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.166801
+   Bakker FL, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.136601
+   Bulaev DV, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.235301
+   Neto AHC, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.026804
+   Ertler C, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.041405
+   Feuillet-Palma C, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.115414
+   Jedema FJ, 2002, NATURE, V416, P713, DOI 10.1038/416713a
+   Gunnarsson G, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.201405
+   Han W, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.167202
+   Hu L, 2004, NANO LETT, V4, P2513, DOI 10.1021/nl048435y
+   Hueso LE, 2007, NATURE, V445, P410, DOI 10.1038/nature05507
+   Hueso LE, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2170431
+   Itkis ME, 2006, SCIENCE, V312, P413, DOI 10.1126/science.1125695
+   Itkis ME, 2007, NANO LETT, V7, P900, DOI 10.1021/nl062689x
+   Itkis ME, 2004, J PHYS CHEM B, V108, P12770, DOI 10.1021/jp0487307
+   Izumida W, 2009, J PHYS SOC JPN, V78, DOI 10.1143/JPSJ.78.074707
+   Jensen A, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.035419
+   Jeong JS, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.075409
+   Jeong JS, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.195457
+   Jespersen TS, 2011, NAT PHYS, V7, P348, DOI [10.1038/nphys1880, 10.1038/NPHYS1880]
+   Jhi SH, 2000, PHYS REV LETT, V85, P1710, DOI 10.1103/PhysRevLett.85.1710
+   JOHNSON M, 1985, PHYS REV LETT, V55, P1790, DOI 10.1103/PhysRevLett.55.1790
+   Kim JR, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.233401
+   Kuemmeth F, 2008, NATURE, V452, P448, DOI 10.1038/nature06822
+   Makarovski A, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.161405
+   Margulis VA, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.035429
+   McCallum AT, 2009, NANO LETT, V9, P2350, DOI 10.1021/nl900816p
+   Morpurgo AF, 1999, SCIENCE, V286, P263, DOI 10.1126/science.286.5438.263
+   Preusche D, 2009, J APPL PHYS, V106, DOI 10.1063/1.3225571
+   Rudner MS, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.125426
+   Sahoo S, 2005, NAT PHYS, V1, P99, DOI 10.1038/nphys149
+   Semenov YG, 2010, PHYS REV B, V82, DOI 10.1103/PhysRevB.82.155449
+   Shimada H, 2003, J APPL PHYS, V93, P8259, DOI 10.1063/1.1557828
+   Takahashi S, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.052409
+   Thamankar R, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2221910
+   Tombros N, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.233403
+   Tsukagoshi K, 1999, NATURE, V401, P572
+   Wang FH, 2010, NANO LETT, V10, P937, DOI 10.1021/nl9038423
+   Wang WH, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.020402
+   Wu ZC, 2004, SCIENCE, V305, P1273, DOI 10.1126/science.1101243
+   Yang H, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.167201
+   Yang HS, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2200473
+   Yu AP, 2006, J AM CHEM SOC, V128, P9902, DOI 10.1021/ja062041m
+   Zhao B, 2002, APPL PHYS LETT, V80, P3144, DOI 10.1063/1.1471570
+NR 45
+TC 2
+Z9 2
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-0121
+J9 PHYS REV B
+JI Phys. Rev. B
+PD FEB 13
+PY 2012
+VL 85
+IS 5
+AR 052401
+DI 10.1103/PhysRevB.85.052401
+PG 5
+WC Physics, Condensed Matter
+SC Physics
+GA 891SV
+UT WOS:000300237800001
+ER
+
+PT J
+AU Yanagi, K
+   Moriya, R
+   Yomogida, Y
+   Takenobu, T
+   Naitoh, Y
+   Ishida, T
+   Kataura, H
+   Matsuda, K
+   Maniwa, Y
+AF Yanagi, Kazuhiro
+   Moriya, Rieko
+   Yomogida, Yohei
+   Takenobu, Taishi
+   Naitoh, Yasuhisa
+   Ishida, Takao
+   Kataura, Hiromichi
+   Matsuda, Kazuyuki
+   Maniwa, Yutaka
+TI Electrochromic Carbon Electrodes: Controllable Visible Color Changes in
+   Metallic Single-Wall Carbon Nanotubes
+SO ADVANCED MATERIALS
+LA English
+DT Article
+ID ABSORPTION-SPECTROSCOPY; THIN-FILMS; POLYMERS; DEVICES
+AB Electrochromic devices using colorful metallic single-wall carbon nanotube films are produced. The metallic SWCNTs act as both electrochromic components and electrodes, confirming a route to all carbon nanotube electrochromic devices.
+C1 Tokyo Metropolitan Univ, Dept Phys, Tokyo 1920397, Japan.
+   Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+   Waseda Univ, Dept Appl Phys, Shinjyuku Ku, Tokyo 1698050, Japan.
+   Natl Inst Adv Ind Sci & Technol, Tsukuba, Ibaraki 3058562, Japan.
+   Japan Sci & Technol Agcy, CREST, Kawaguchi, Saitama 3320012, Japan.
+RP Yanagi, K (reprint author), Tokyo Metropolitan Univ, Dept Phys, Tokyo 1920397, Japan.
+EM yanagi-kazuhiro@tmu.ac.jp
+RI Takenobu, Taishi/G-9009-2011
+FU Ministry of Education, Culture, Sports, Science and Technology
+   [21108523]; New Energy and Industrial Technology Development
+   Organization, Japan
+FX This work was partially supported by a Grant-in-Aid for Scientific
+   Research on Innovative Areas (No. 21108523, "pi-Space") from the
+   Ministry of Education, Culture, Sports, Science and Technology, Funding
+   Program for Next Generation World-Leading Researchers, and by Industrial
+   Technology Research Grant Program in 2007 from New Energy and Industrial
+   Technology Development Organization, Japan.
+CR Arnold MS, 2006, NAT NANOTECHNOL, V1, P60, DOI 10.1038/nnano.2006.52
+   Baughman H., 2002, SCIENCE, V297, P787
+   Gaupp CL, 2002, CHEM MATER, V14, P3964, DOI 10.1021/cm020433w
+   Ghosh S, 2010, NAT NANOTECHNOL, V5, P443, DOI [10.1038/nnano.2010.68, 10.1038/NNANO.2010.68]
+   Green AA, 2008, NANO LETT, V8, P1417, DOI 10.1021/nl080302f
+   GREENBERG CB, 1994, THIN SOLID FILMS, V251, P81, DOI 10.1016/0040-6090(94)90668-8
+   Hersam MC, 2008, NAT NANOTECHNOL, V3, P387, DOI 10.1038/nnano.2008.135
+   Jain V, 2008, J APPL PHYS, V103, DOI 10.1063/1.2891256
+   Kalbac M, 2010, ACS NANO, V4, P459, DOI 10.1021/nn900895w
+   Kataura H, 1999, SYNTHETIC MET, V103, P2555, DOI 10.1016/S0379-6779(98)00278-1
+   Kavan L, 2001, J PHYS CHEM B, V105, P10764, DOI 10.1021/jp011709a
+   Kazaoui S, 1999, PHYS REV B, V60, P13339, DOI 10.1103/PhysRevB.60.13339
+   Kazaoui S, 2001, APPL PHYS LETT, V78, P3433, DOI 10.1063/1.1372208
+   Lu W, 2002, SCIENCE, V297, P983, DOI 10.1126/science.1072651
+   Monk P.M.S., 2007, ELECTROCHROMISM ELEC
+   Mortimer RJ, 2006, DISPLAYS, V27, P2, DOI 10.1016/j.displa.2005.03.003
+   Muccini M, 2006, NAT MATER, V5, P605, DOI 10.1038/nmat1699
+   Nikolou M, 2009, CHEM MATER, V21, P5539, DOI 10.1021/cm902768q
+   Reeves BD, 2004, MACROMOLECULES, V37, P7559, DOI 10.1021/ma049222y
+   Rosseinsky DR, 2001, ADV MATER, V13, P783, DOI 10.1002/1521-4095(200106)13:11<783::AID-ADMA783>3.0.CO;2-D
+   Saito R., 1998, PHYS PROPERTIES CARB
+   Tanaka Y, 2009, ANGEW CHEM INT EDIT, V48, P7655, DOI 10.1002/anie.200902468
+   Wu ZC, 2004, SCIENCE, V305, P1273, DOI 10.1126/science.1101243
+   YANAGI K, 2010, ACS NANO, V7, P4027
+   Yanagi K, 2008, APPL PHYS EXPRESS, V1, DOI 10.1143/APEX.1.034003
+NR 25
+TC 3
+Z9 4
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0935-9648
+J9 ADV MATER
+JI Adv. Mater.
+PD JUL 5
+PY 2011
+VL 23
+IS 25
+BP 2811
+EP +
+DI 10.1002/adma.201100549
+PG 5
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 800QV
+UT WOS:000293379700006
+ER
+
+PT J
+AU Jiang, X
+   Thomas, L
+   Moriya, R
+   Parkin, SSP
+AF Jiang, Xin
+   Thomas, Luc
+   Moriya, Rai
+   Parkin, Stuart S. P.
+TI Discrete Domain Wall Positioning Due to Pinning in Current Driven Motion
+   along Nanowires
+SO NANO LETTERS
+LA English
+DT Article
+DE Domain wall dynamics; domain wall pinning; racetrack memory; spin
+   transfer torque; magnetic nanowires
+ID ELECTRIC-CURRENT; DYNAMICS; FERROMAGNETS; MEMORY
+AB Racetrack memory is a novel storage-class memory device in which a series of domain walls (DWs), representing zeros and ones, are shifted to and fro by current pulses along magnetic nanowires. Here we show, by precise measurements of the DW's position using spin-valve nanowires, that these positions take up discrete values. This results from DW relaxation after the end of the current pulse into local energy minima, likely derived from imperfections in the nanowire.
+C1 IBM Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Parkin, SSP (reprint author), IBM Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Ahn SM, 2009, APPL PHYS LETT, V95, DOI 10.1063/1.3248220
+   Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   Bedau D., 2007, Physical Review Letters, V99, DOI 10.1103/PhysRevLett.99.146601
+   Bedau D, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.256602
+   BERGER L, 1986, PHYS REV B, V33, P1572, DOI 10.1103/PhysRevB.33.1572
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   Burrowes C., 2009, NAT PHYS, V6, P17
+   Grollier J, 2003, APPL PHYS LETT, V83, P509, DOI 10.1063/1.1594841
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2008, SCIENCE, V320, P209, DOI 10.1126/science.1154587
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   Hayashi M, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.037204
+   Jiang X., 2010, NAT COMMUN, V1, P1, DOI DOI 10.1038/NCOMMS1024
+   Laufenberg M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.046602
+   Moriya R, 2008, NAT PHYS, V4, P368, DOI 10.1038/nphys936
+   Ono T, 1999, SCIENCE, V284, P468, DOI 10.1126/science.284.5413.468
+   Parkin S, 2003, P IEEE, V91, P661, DOI 10.1109/JPROC.2003.811807
+   Parkin SSP, 2008, SCIENCE, V320, P190, DOI 10.1126/science.1145799
+   Pizzini S, 2009, APPL PHYS EXPRESS, V2, DOI 10.1143/APEX.2.023003
+   Scheinfein M. R., LLG MICROMAGNETIC SI
+   Stiles MD, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.214423
+   Tanigawa H, 2009, APPL PHYS EXPRESS, V2, DOI 10.1143/APEX.2.053002
+   Tanigawa H, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.207203
+   Tatara G, 2008, PHYS REP, V468, P213, DOI 10.1016/j.physrep.2008.07.003
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thiaville A., 2006, SPIN DYNAMICS CONFIN
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   THOMAS L, 2010, SCIENCE         1224
+   Thomas L, 2007, SCIENCE, V315, P1553, DOI 10.1126/science.1137662
+   Thomas L, 2008, APPL PHYS LETT, V92, DOI 10.1063/1.2890712
+   Tsoi M, 2003, APPL PHYS LETT, V83, P2617, DOI 10.1063/1.1578165
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Yamanouchi M, 2004, NATURE, V428, P539, DOI 10.1038/nature02441
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+NR 34
+TC 7
+Z9 7
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1530-6984
+J9 NANO LETT
+JI Nano Lett.
+PD JAN
+PY 2011
+VL 11
+IS 1
+BP 96
+EP 100
+DI 10.1021/nl102890h
+PG 5
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 704CT
+UT WOS:000286029400016
+ER
+
+PT J
+AU Thomas, L
+   Moriya, R
+   Rettner, C
+   Parkin, SSP
+AF Thomas, Luc
+   Moriya, Rai
+   Rettner, Charles
+   Parkin, Stuart S. P.
+TI Dynamics of Magnetic Domain Walls Under Their Own Inertia
+SO SCIENCE
+LA English
+DT Article
+ID MOTION; FERROMAGNETS; NANOWIRES; SHIFT
+AB The motion of magnetic domain walls induced by spin-polarized current has considerable potential for use in magnetic memory and logic devices. Key to the success of these devices is the precise positioning of individual domain walls along magnetic nanowires, using current pulses. We show that domain walls move surprisingly long distances of several micrometers and relax over several tens of nanoseconds, under their own inertia, when the current stimulus is removed. We also show that the net distance traveled by the domain wall is exactly proportional to the current pulse length because of the lag derived from its acceleration at the onset of the pulse. Thus, independent of its inertia, a domain wall can be accurately positioned using properly timed current pulses.
+C1 IBM Almaden Res Ctr, San Jose, CA USA.
+RP Thomas, L (reprint author), IBM Almaden Res Ctr, 650 Harry Rd, San Jose, CA USA.
+EM lucthom@us.ibm.com; parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   Bedau D., 2007, Physical Review Letters, V99, DOI 10.1103/PhysRevLett.99.146601
+   BERGER L, 1986, PHYS REV B, V33, P1572, DOI 10.1103/PhysRevB.33.1572
+   Bocklage L, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.180405
+   Eltschka M, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.056601
+   Grollier J, 2003, APPL PHYS LETT, V83, P509, DOI 10.1063/1.1594841
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2008, SCIENCE, V320, P209, DOI 10.1126/science.1154587
+   Hayashi M, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.037204
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Li Z, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.207203
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Meier G, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.187202
+   Miron IM, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.137202
+   Moore TA, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.132403
+   Moriya R, 2008, NAT PHYS, V4, P368, DOI 10.1038/nphys936
+   Parkin SSP, 2008, SCIENCE, V320, P190, DOI 10.1126/science.1145799
+   Ravelosona D, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.117203
+   Saitoh E, 2004, NATURE, V432, P203, DOI 10.1038/nature03009
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   Thomas L, 2007, SCIENCE, V315, P1553, DOI 10.1126/science.1137662
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Vlaminck V, 2008, SCIENCE, V322, P410, DOI 10.1126/science.1162843
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Yamanouchi M, 2004, NATURE, V428, P539, DOI 10.1038/nature02441
+   Yang SQ, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.220403
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+NR 29
+TC 37
+Z9 38
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD DEC 23
+PY 2010
+VL 330
+IS 6012
+BP 1810
+EP 1813
+DI 10.1126/science.1197468
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 698OS
+UT WOS:000285603700037
+ER
+
+PT J
+AU Moriya, R
+   Hayashi, M
+   Thomas, L
+   Rettner, C
+   Parkin, SSP
+AF Moriya, Rai
+   Hayashi, Masamitsu
+   Thomas, Luc
+   Rettner, Charles
+   Parkin, Stuart S. P.
+TI Dependence of field driven domain wall velocity on cross-sectional area
+   in Ni65Fe20Co15 nanowires
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID DYNAMICS
+AB The velocity of vortex domain walls (DWs) was measured versus magnetic field in Ni65Fe20Co15 nanowires with different widths and thicknesses using time-resolved anisotropic magnetoresistance measurements. The Walker breakdown field, which separates translational and precessional DW propagation regimes, decreases for wider and thicker nanowires. On the contrary, the peak velocity at the Walker breakdown field is independent of the nanowire width and thickness. The Gilbert damping parameter alpha was measured independently and was found to be insensitive to nanowire width but decreased with increasing wire thickness. From these data the transverse anisotropy field and dynamical DW width could be determined. (C) 2010 American Institute of Physics. [doi:10.1063/1.3494521]
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Moriya, R (reprint author), Tokai Univ, Inst Ind Sci, Meguro Ku, Tokyo 1538505, Japan.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Beach GSD, 2005, NAT MATER, V4, P741, DOI 10.1038/nmat1477
+   Costache MV, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2385405
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   Hayashi M, 2007, NAT PHYS, V3, P21, DOI 10.1038/nphys464
+   Ingvarsson S, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.214416
+   Jiang X, 2010, NAT COMMUN, V1, DOI 10.1038/ncomms1024
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Moriya R, 2008, NAT PHYS, V4, P368, DOI 10.1038/nphys936
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   Nibarger JP, 2003, APPL PHYS LETT, V83, P93, DOI 10.1063/1.1588734
+   Novosad V, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.024455
+   Parkin SSP, 2008, SCIENCE, V320, P190, DOI 10.1126/science.1145799
+   Sankey JC, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.227601
+   Scheinfein M. R., LLG MICROMAGNETIC SI
+   SCHRYER NL, 1974, J APPL PHYS, V45, P5406, DOI 10.1063/1.1663252
+   Thomas L, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2139842
+   Thomas L, 2007, HDB MAGNETISM ADV MA, V2, P942
+   Tulapurkar AA, 2005, NATURE, V438, P339, DOI 10.1038/nature04207
+   Yamaguchi A, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2737134
+NR 20
+TC 9
+Z9 9
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD OCT 4
+PY 2010
+VL 97
+IS 14
+AR 142506
+DI 10.1063/1.3494521
+PG 3
+WC Physics, Applied
+SC Physics
+GA 661XF
+UT WOS:000282765700050
+ER
+
+PT J
+AU Jiang, X
+   Thomas, L
+   Moriya, R
+   Hayashi, M
+   Bergman, B
+   Rettner, C
+   Parkin, SSP
+AF Jiang, Xin
+   Thomas, Luc
+   Moriya, Rai
+   Hayashi, Masamitsu
+   Bergman, Bastiaan
+   Rettner, Charles
+   Parkin, Stuart S. P.
+TI Enhanced stochasticity of domain wall motion in magnetic racetracks due
+   to dynamic pinning
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID PROPAGATION; NANOWIRES; WIRE
+AB Understanding the details of domain wall (DW) motion along magnetic racetracks has drawn considerable interest in the past few years for their applications in non-volatile memory devices. The propagation of the DW is dictated by the interplay between its driving force, either field or current, and the complex energy landscape of the racetrack. In this study, we use spin-valve nanowires to study field-driven DW motion in real time. By varying the strength of the driving magnetic field, the propagation mode of the DW can be changed from a simple translational mode to a more complex precessional mode. Interestingly, the DW motion becomes much more stochastic at the onset of this propagation mode. We show that this unexpected result is a consequence of an unsustainable gain in Zeeman energy of the DW, as it is driven faster by the magnetic field. As a result, the DW periodically releases energy and thereby becomes more susceptible to pinning by local imperfections in the racetrack.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Parkin, SSP (reprint author), IBM Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Ahn SM, 2009, APPL PHYS LETT, V95, DOI 10.1063/1.3248220
+   Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Atkinson D, 2003, NAT MATER, V2, P85, DOI 10.1038/nmat803
+   Beach GSD, 2005, NAT MATER, V4, P741, DOI 10.1038/nmat1477
+   Grollier J, 2003, APPL PHYS LETT, V83, P509, DOI 10.1063/1.1594841
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   Hayashi M, 2007, NAT PHYS, V3, P21, DOI 10.1038/nphys464
+   Kondou K, 2008, APPL PHYS EXPRESS, V1, DOI 10.1143/APEX.1.061302
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   Ono T, 1999, SCIENCE, V284, P468, DOI 10.1126/science.284.5413.468
+   Ono T, 1999, J APPL PHYS, V85, P6181, DOI 10.1063/1.370214
+   Parkin SSP, 2008, SCIENCE, V320, P190, DOI 10.1126/science.1145799
+   SCHRYER NL, 1974, J APPL PHYS, V45, P5406, DOI 10.1063/1.1663252
+   Tanigawa H, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.207203
+   THIAVILLE A, 2006, SPIN DYNAMICS CONFI, V3
+   Thomas L, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2139842
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   THOMAS L, 2008, APPL PHYS LETT, V92
+NR 20
+TC 19
+Z9 19
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JUN
+PY 2010
+VL 1
+AR 25
+DI 10.1038/ncomms1024
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 672RN
+UT WOS:000283604700005
+ER
+
+PT J
+AU Moriya, R
+   Kobayashi, H
+   Shibata, K
+   Masubuchi, S
+   Hirakawa, K
+   Ishida, S
+   Arakawa, Y
+   Machida, T
+AF Moriya, Rai
+   Kobayashi, Hiroyuki
+   Shibata, Kenji
+   Masubuchi, Satoru
+   Hirakawa, Kazuhiko
+   Ishida, Satomi
+   Arakawa, Yasuhiko
+   Machida, Tomoki
+TI Fabrication of Single-Electron Transistor Composed of a Self-Assembled
+   Quantum Dot and Nanogap Electrode by Atomic Force Microscope Local
+   Oxidation
+SO APPLIED PHYSICS EXPRESS
+LA English
+DT Article
+ID SILICON SURFACES; NANOFABRICATION; LITHOGRAPHY
+AB In this study, we employed the atomic force microscope (AFM) local oxidation method to fabricate a nanogap electrode and align it with a single self-assembled InAs quantum dot (QD). The nanogap electrode, with an Al/Al-oxide/Al structure, was fabricated in situ right on top of a randomly positioned self-assembled QD, to yield a single-electron transistor (SET) device. The fabricated transistor shows a clear Coulomb blockade effect, indicating that a high-quality SET can be fabricated reliably by this method, even in the case of a self-assembled QD. (C) 2010 The Japan Society of Applied Physics
+C1 Univ Tokyo, Inst Ind Sci, Meguro Ku, Tokyo 1538505, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo 1538505, Japan.
+   Japan Sci & Technol Agcy, CREST, Kawaguchi, Saitama 3320012, Japan.
+   Univ Tokyo, Adv Sci & Technol Res Ctr, Meguro Ku, Tokyo 1538505, Japan.
+RP Moriya, R (reprint author), Univ Tokyo, Inst Ind Sci, Meguro Ku, 4-6-1 Komaba, Tokyo 1538505, Japan.
+RI Shibata, Kenji/D-6151-2013
+OI Shibata, Kenji/0000-0003-3687-6250
+FU Scientific Research and the Special Coordination Funds for Promoting
+   Science and Technology; Murata Foundation
+FX This study was supported by a Grand-in-Aid for Scientific Research and
+   the Special Coordination Funds for Promoting Science and Technology, and
+   the CREST, Japan Science and Technology Agency, and the Murata
+   Foundation. We are grateful to T. Yamashita for his kind assistance with
+   low-temperature measurement and also to A. Oiwa and K. Hamaya for useful
+   discussions.
+CR DAGATA JA, 1990, APPL PHYS LETT, V56, P2001, DOI 10.1063/1.102999
+   Garcia R, 1998, APPL PHYS LETT, V72, P2295
+   Garcia R, 1999, J APPL PHYS, V86, P1898
+   Hamaya K, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.236806
+   Hamaya K, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2435957
+   Hamaya K, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2759264
+   Jespersen TS, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.233304
+   Jung M, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1853516
+   Kato M, 2001, JPN J APPL PHYS 1, V40, P4317, DOI 10.1143/JJAP.40.4317
+   Magno R, 1997, APPL PHYS LETT, V70, P1855, DOI 10.1063/1.118712
+   Miyashita K, 2009, J VAC SCI TECHNOL B, V27, P953, DOI 10.1116/1.3077488
+   Park H, 1999, APPL PHYS LETT, V75, P301, DOI 10.1063/1.124354
+   Shibata K, 2009, APPL PHYS LETT, V94, DOI 10.1063/1.3123816
+   Shibata K, 2008, APPL PHYS LETT, V93, DOI 10.1063/1.2968206
+   Shibata K, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2779970
+   Snow ES, 1996, APPL PHYS LETT, V69, P269, DOI 10.1063/1.117946
+   Wilder K, 1997, J VAC SCI TECHNOL B, V15, P1811, DOI 10.1116/1.589530
+NR 17
+TC 2
+Z9 2
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 1882-0778
+J9 APPL PHYS EXPRESS
+JI Appl. Phys. Express
+PY 2010
+VL 3
+IS 3
+AR 035001
+DI 10.1143/APEX.3.035001
+PG 3
+WC Physics, Applied
+SC Physics
+GA 569PW
+UT WOS:000275611100014
+ER
+
+PT J
+AU Bergman, B
+   Moriya, R
+   Hayashi, M
+   Thomas, L
+   Tyberg, C
+   Lu, Y
+   Joseph, E
+   Rothwell, MB
+   Hummel, J
+   Gallagher, WJ
+   Koopmans, B
+   Parkin, SSP
+AF Bergman, Bastiaan
+   Moriya, Rai
+   Hayashi, Masamitsu
+   Thomas, Luc
+   Tyberg, Christy
+   Lu, Yu
+   Joseph, Eric
+   Rothwell, Mary-Beth
+   Hummel, John
+   Gallagher, William J.
+   Koopmans, Bert
+   Parkin, Stuart S. P.
+TI Generation of local magnetic fields at megahertz rates for the study of
+   domain wall propagation in magnetic nanowires
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+DE magnetic domain walls; nanofabrication; nanowires; Permalloy
+ID PERMALLOY NANOWIRES; DYNAMICS; MICROSCOPY; MOTION
+AB We describe a technique for generating local magnetic fields at megahertz rates along magnetic nanowires. Local and global magnetic fields are generated from buried copper fine-pitch wires fabricated on 200 mm silicon wafers using standard complementary metal-oxide-semiconductor back-end process technology. In combination with pump-probe scanning Kerr microscopy, we measure the static and dynamic propagation fields of domain walls in permalloy nanowires.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95210 USA.
+   IBM Corp, TJ Watson Res Ctr, Yorktown Hts, NY 10562 USA.
+   Eindhoven Univ Technol, Dept Appl Phys, NL-5600 MB Eindhoven, Netherlands.
+RP Parkin, SSP (reprint author), IBM Corp, Almaden Res Ctr, San Jose, CA 95210 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Beach GSD, 2005, NAT MATER, V4, P741, DOI 10.1038/nmat1477
+   Cowburn RP, 2002, J APPL PHYS, V91, P6949, DOI 10.1063/1.1447500
+   Freeman MR, 2001, SCIENCE, V294, P1484, DOI 10.1126/science.1065300
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2008, SCIENCE, V320, P209, DOI 10.1126/science.1154587
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   Hayashi M, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.037204
+   Hayashi M, 2007, NAT PHYS, V3, P21, DOI 10.1038/nphys464
+   Jozsa C, 2004, J APPL PHYS, V95, P7447, DOI 10.1063/1.1667440
+   Kostylev MP, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2089147
+   Meier G, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.187202
+   Parkin SSP, 2008, SCIENCE, V320, P190, DOI 10.1126/science.1145799
+   Rosenberg R, 2000, ANNU REV MATER SCI, V30, P229, DOI 10.1146/annurev.matsci.30.1.229
+   Slonczewski JC, 1996, J MAGN MAGN MATER, V159, pL1, DOI 10.1016/0304-8853(96)00062-5
+   Tatara G, 2008, PHYS REP, V468, P213, DOI 10.1016/j.physrep.2008.07.003
+   Thomas L, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2139842
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   WRIGHT CD, 1994, JPN J APPL PHYS 1, V33, P2058, DOI 10.1143/JJAP.33.2058
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+NR 20
+TC 2
+Z9 2
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD DEC 28
+PY 2009
+VL 95
+IS 26
+AR 262503
+DI 10.1063/1.3265738
+PG 3
+WC Physics, Applied
+SC Physics
+GA 538XF
+UT WOS:000273216900039
+ER
+
+PT J
+AU Guan, Y
+   Sun, JZ
+   Jiang, X
+   Moriya, R
+   Gao, L
+   Parkin, SSP
+AF Guan, Y.
+   Sun, J. Z.
+   Jiang, X.
+   Moriya, R.
+   Gao, L.
+   Parkin, S. S. P.
+TI Thermal-magnetic noise measurement of spin-torque effects on
+   ferromagnetic resonance in MgO-based magnetic tunnel junctions
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+DE boron alloys; cobalt alloys; copper; demagnetisation; ferromagnetic
+   resonance; iridium alloys; iron alloys; magnesium compounds; magnetic
+   thin films; magnetic tunnelling; manganese alloys; perpendicular
+   magnetic anisotropy; ruthenium; silicon; silicon compounds; tantalum
+ID DEPENDENCE; DEVICES
+AB Thermal-magnetic noise at ferromagnetic resonance (T-FMR) can be used to measure magnetic perpendicular anisotropy of nanoscale magnetic tunnel junctions (MTJs). For this purpose, T-FMR measurements were conducted with an external magnetic field up to 14 kOe applied perpendicular to the film surface of MgO-based MTJs under a dc bias. The observed frequency-field relationship suggests that a 20 A degrees CoFeB free layer has an effective demagnetization field much smaller than the intrinsic bulk value of CoFeB, with 4 pi M(eff)=6.1 +/- 0.3 kOe. This value is consistent with the saturation field obtained from magnetometry measurements on extended films of the same CoFeB thickness. In-plane T-FMR on the other hand shows less consistent results for the effective demagnetization field, presumably due to excitations of more complex modes. These experiments suggest that the perpendicular T-FMR is preferred for quantitative magnetic characterization of nanoscale MTJs.
+C1 IBM Corp, TJ Watson Res Ctr, Yorktown Hts, NY 10598 USA.
+   IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Guan, Y (reprint author), SoloPower Inc, 5981 Opt Court, San Jose, CA 95138 USA.
+EM yguan@solopower.com
+RI Gao, Li/F-1554-2011; Parkin, Stuart/D-2521-2012
+FU IBM T. J. Watson Research Center
+FX We wish to thank the valuable input and support from the MRAM team at
+   IBM T. J. Watson Research Center. This work also benefited from an MRAM
+   development alliance program between IBM and
+CR Chen W, 2008, APPL PHYS LETT, V92, DOI 10.1063/1.2827570
+   Chen W, 2008, J APPL PHYS, V103, DOI 10.1063/1.2832671
+   Deac AM, 2008, NAT PHYS, V4, P803, DOI 10.1038/nphys1036
+   Devolder T, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.057206
+   Fuchs GD, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2768000
+   Houssameddine D, 2008, APPL PHYS LETT, V93, DOI 10.1063/1.2956418
+   KALINIKOS BA, 1986, J PHYS C SOLID STATE, V19, P7013, DOI 10.1088/0022-3719/19/35/014
+   Kittel C., 2005, INTRO SOLID STATE PH
+   Kubota H, 2008, NAT PHYS, V4, P37, DOI 10.1038/nphys784
+   Maranville BB, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2746406
+   McMichael RD, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.024424
+   Nazarov AV, 2002, APPL PHYS LETT, V81, P4559, DOI 10.1063/1.1521578
+   Petit S, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.184420
+   Petit S, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.077203
+   Sankey JC, 2008, NAT PHYS, V4, P67, DOI 10.1038/nphys783
+   Sankey JC, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.227601
+   Stutzke N, 2003, APPL PHYS LETT, V82, P91, DOI 10.1063/1.1534386
+   Guan Y, 2009, J APPL PHYS, V105, DOI 10.1063/1.3068638
+   Sun JZ, 2000, PHYS REV B, V62, P570, DOI 10.1103/PhysRevB.62.570
+   Synogatch V, 2003, J APPL PHYS, V93, P8570, DOI 10.1063/1.1557852
+NR 20
+TC 8
+Z9 8
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD AUG 24
+PY 2009
+VL 95
+IS 8
+AR 082506
+DI 10.1063/1.3212870
+PG 3
+WC Physics, Applied
+SC Physics
+GA 493GL
+UT WOS:000269723200039
+ER
+
+PT J
+AU Moriya, R
+   Thomas, L
+   Hayashi, M
+   Bazaliy, YB
+   Rettner, C
+   Parkin, SSP
+AF Moriya, Rai
+   Thomas, Luc
+   Hayashi, Masamitsu
+   Bazaliy, Yaroslaw B.
+   Rettner, Charles
+   Parkin, Stuart S. P.
+TI Probing vortex-core dynamics using current-induced resonant excitation
+   of a trapped domain wall
+SO NATURE PHYSICS
+LA English
+DT Article
+ID BLOCH LINES; MOTION
+AB Magnetic domain walls in soft magnetic nanowires often exhibit a structure in which the magnetization curls within the plane of the nanowire around a singular point with out-of-plane magnetization, the vortex core(1,2). Although the core is a small object, with a diameter of only similar to 10nm in permalloy(2), its motion controls the dynamics of the entire wall, which can be several hundred nanometres in size. In particular, when a domain wall trapped at a pinning site is driven out of equilibrium by either a magnetic field or a spin-polarized current, the vortex core gyrates around its equilibrium position. The sense of gyration is determined by the polarity of the core(3-7). Here, we show that spin-polarized a.c. currents can resonantly excite a vortex domain wall trapped at a notched site in a nanowire. The shape and magnitude of the resonance, measured from the nanowire's resistance, reveal both the elliptical trajectory of the vortex core as well as its polarity.
+C1 IBM Almaden Res Ctr, San Jose, CA 95120 USA.
+   Univ S Carolina, Columbia, SC 29208 USA.
+RP Parkin, SSP (reprint author), IBM Almaden Res Ctr, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Bedau D., 2007, Physical Review Letters, V99, DOI 10.1103/PhysRevLett.99.146601
+   BERGER L, 1988, J APPL PHYS, V63, P1663, DOI 10.1063/1.339899
+   BERGER L, 1986, PHYS REV B, V33, P1572, DOI 10.1103/PhysRevB.33.1572
+   Buchanan M, 2005, NAT PHYS, V1, P5, DOI 10.1038/nphys132
+   Choe SB, 2004, SCIENCE, V304, P420, DOI 10.1126/science.1095068
+   Grollier J, 2006, J APPL PHYS, V100, DOI 10.1063/1.2218464
+   Guslienko KY, 2002, J APPL PHYS, V91, P8037, DOI 10.1063/1.1450816
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   He J, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.184408
+   HUNG CY, 1990, J APPL PHYS, V67, P5941, DOI 10.1063/1.346110
+   Kasai S, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.107204
+   Kent AD, 2001, J PHYS-CONDENS MAT, V13, pR461, DOI 10.1088/0953-8984/13/25/202
+   Novosad V, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.024455
+   Nozaki T, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2772174
+   Sankey JC, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.227601
+   Shibata J, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.020403
+   Shinjo T, 2000, SCIENCE, V289, P930, DOI 10.1126/science.289.5481.930
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   Thomas L, 2007, SCIENCE, V315, P1553, DOI 10.1126/science.1137662
+   Tulapurkar AA, 2005, NATURE, V438, P339, DOI 10.1038/nature04207
+   Van Waeyenberge B, 2006, NATURE, V444, P461, DOI 10.1038/nature05240
+   Wachowiak A, 2002, SCIENCE, V298, P577, DOI 10.1126/science.1075302
+   Yamada K., 2007, NAT MATER, V6, P270, DOI 10.1038/nmat1867
+NR 24
+TC 48
+Z9 49
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1745-2473
+J9 NAT PHYS
+JI Nat. Phys.
+PD MAY
+PY 2008
+VL 4
+IS 5
+BP 368
+EP 372
+DI 10.1038/nphys936
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 299LF
+UT WOS:000255756400019
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Rettner, C
+   Moriya, R
+   Parkin, SSP
+AF Hayashi, Masamitsu
+   Thomas, Luc
+   Rettner, Charles
+   Moriya, Rai
+   Parkin, Stuart S. P.
+TI Dynamics of domain wall depinning driven by a combination of direct and
+   pulsed currents
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID MOTION; NANOWIRES
+AB The current-induced depinning of a domain wall from an artificial pinning site is investigated in Permalloy nanowires. The depinning probability exhibits an oscillatory dependence on the current pulse length, which is, surprisingly, reduced when a dc current of the same polarity is added to the current pulse. By contrast, the depinning probability increases when dc and pulsed currents have opposite polarities even though the total current flowing though the device is smaller. These results are understood within an analytical one-dimensional model of the domain wall dynamics. (C) 2008 American Institute of Physics.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Parkin, SSP (reprint author), IBM Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2007, NAT PHYS, V3, P21, DOI 10.1038/nphys464
+   He J, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.184408
+   Himeno A, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2140884
+   Kimura T, 2003, J APPL PHYS, V94, P7947, DOI 10.1063/1.1629150
+   Klaui M, 2002, APPL PHYS LETT, V81, P108, DOI 10.1063/1.1490626
+   KLAUI M, 2007, PHYS REV LETT, V3
+   Laufenberg M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.046602
+   Lepadatu S, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2768301
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   Nozaki T, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2772174
+   Parkin S. S. P., 2004, U.S. Patent, Patent No. 6834005
+   Ravelosona D, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2450664
+   Ravelosona D, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.117203
+   SALHI E, 1994, J APPL PHYS, V76, P4787, DOI 10.1063/1.357250
+   Stiles MD, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.214423
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   Thomas L, 2007, SCIENCE, V315, P1553, DOI 10.1126/science.1137662
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+NR 23
+TC 15
+Z9 15
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD APR 21
+PY 2008
+VL 92
+IS 16
+AR 162503
+DI 10.1063/1.2903096
+PG 3
+WC Physics, Applied
+SC Physics
+GA 295DV
+UT WOS:000255456100037
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Moriya, R
+   Rettner, C
+   Parkin, SSP
+AF Hayashi, Masamitsu
+   Thomas, Luc
+   Moriya, Rai
+   Rettner, Charles
+   Parkin, Stuart S. P.
+TI Current-controlled magnetic domain-wall nanowire shift register
+SO SCIENCE
+LA English
+DT Article
+ID CURRENT PULSES
+AB The controlled motion of a series of domain walls along magnetic nanowires using spin-polarized current pulses is the essential ingredient of the proposed magnetic racetrack memory, a new class of potential non-volatile storage-class memories. Using permalloy nanowires, we achieved the successive creation, motion, and detection of domain walls by using sequences of properly timed, nanosecond-long, spin-polarized current pulses. The cycle time for the writing and shifting of the domain walls was a few tens of nanoseconds. Our results illustrate the basic concept of a magnetic shift register that relies on the phenomenon of spin-momentum transfer to move series of closely spaced domain walls.
+C1 IBM Corp, Almaden Res Ctr, Div Res, San Jose, CA 95120 USA.
+RP Parkin, SSP (reprint author), IBM Corp, Almaden Res Ctr, Div Res, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   BOBECK AH, 1975, P IEEE, V63, P1176, DOI 10.1109/PROC.1975.9912
+   Feigenson M, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.247204
+   Hayashi M, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.037204
+   Hayashi M, 2007, NAT PHYS, V3, P21, DOI 10.1038/nphys464
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Laribi S, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2746952
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   MIDDELHOEK S, 1976, PHYS COMPUTER MEMORY
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   Ravelosona D, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.117203
+   Slonczewski JC, 1996, J MAGN MAGN MATER, V159, pL1, DOI 10.1016/0304-8853(96)00062-5
+   Stiles MD, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.214423
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2007, EUR PHYS J B, V60, P15, DOI 10.1140/epjb/e2007-00320-3
+   Thomas L, 2007, SCIENCE, V315, P1553, DOI 10.1126/science.1137662
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Yamanouchi M, 2004, NATURE, V428, P539, DOI 10.1038/nature02441
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+NR 21
+TC 169
+Z9 171
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD APR 11
+PY 2008
+VL 320
+IS 5873
+BP 209
+EP 211
+DI 10.1126/science.1154587
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 286HJ
+UT WOS:000254836700037
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Rettner, C
+   Moriya, R
+   Parkin, SSP
+AF Hayashi, Masamitsu
+   Thomas, Luc
+   Rettner, Charles
+   Moriya, Rai
+   Parkin, Stuart S. P.
+TI Real time observation of the field driven periodic transformation of
+   domain walls in Permalloy nanowires at the Larmor frequency and its
+   first harmonic
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID MOTION; PROPAGATION; DYNAMICS
+AB We have observed two different field driven precessional propagation modes of a magnetic domain wall in permalloy nanowires using time resolved resistance measurements. The resistance of the nanowire oscillates at the Larmor precession frequency and at its first harmonic, corresponding to periodic transformations of the propagating domain wall between a transverse wall and either one of a vortex or an antivortex wall or both of these. (c) 2008 American Institute of Physics.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Hayashi, M (reprint author), IBM Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Atkinson D, 2003, NAT MATER, V2, P85, DOI 10.1038/nmat803
+   Beach GSD, 2005, NAT MATER, V4, P741, DOI 10.1038/nmat1477
+   Beach GSD, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.057203
+   Cayssol F, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1846935
+   Fukumoto K, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.097204
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   Hayashi M, 2007, NAT PHYS, V3, P21, DOI 10.1038/nphys464
+   He J, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2719646
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Lee JY, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2789176
+   Lee JY, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.184408
+   Lemerle S, 1998, PHYS REV LETT, V80, P849, DOI 10.1103/PhysRevLett.80.849
+   MALOZEMOFF P, 1979, MAGNETIC DOMAIN WALL
+   Mougin A, 2007, EPL-EUROPHYS LETT, V78, DOI 10.1209/0295-5075/78/57007
+   Nakatani Y, 2003, NAT MATER, V2, P521, DOI 10.1038/nmat931
+   Ono T, 1999, SCIENCE, V284, P468, DOI 10.1126/science.284.5413.468
+   Parkin S. S. P., 2004, U.S. Patent, Patent No. 6834005
+   SCHRYER NL, 1974, J APPL PHYS, V45, P5406, DOI 10.1063/1.1663252
+   Tchernyshyov O, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.197204
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thomas L, 2007, SCIENCE, V315, P1553, DOI 10.1126/science.1137662
+NR 23
+TC 14
+Z9 14
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD MAR 17
+PY 2008
+VL 92
+IS 11
+AR 112510
+DI 10.1063/1.2890036
+PG 3
+WC Physics, Applied
+SC Physics
+GA 278NA
+UT WOS:000254292400061
+ER
+
+PT J
+AU Thomas, L
+   Hayashi, M
+   Jiang, X
+   Moriya, R
+   Rettner, C
+   Parkin, S
+AF Thomas, Luc
+   Hayashi, Masamitsu
+   Jiang, Xin
+   Moriya, Rai
+   Rettner, Charles
+   Parkin, Stuart
+TI Resonant amplification of magnetic domain-wall motion by a train of
+   current pulses
+SO SCIENCE
+LA English
+DT Article
+ID NANOWIRES
+AB The current-induced motion of magnetic domain walls confined to nanostructures is of interest for applications in magnetoelectronic devices in which the domain wall serves as the logic gate or memory element. The injection of spin-polarized current below a threshold value through a domain wall confined to a pinning potential results in its precessional motion within the potential well. We show that by using a short train of current pulses, whose length and spacing are tuned to this precession frequency, the domain wall's oscillations can be resonantly amplified. This makes possible the motion of domain walls with much reduced currents, more than five times smaller than in the absence of resonant amplification.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Thomas, L (reprint author), IBM Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM lucthom@us.ibm.com; parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR BARRIES SE, 2005, PHYS REV LETT, V95, P7204
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Klaui M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.106601
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Lawrence MS, 2005, RNA, V11, P1173, DOI 10.1261/rna.2110905
+   Li Z, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.024417
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Parkin S. S. P., 2004, U.S. Patent, Patent No. 6834005
+   Ravelosona D, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.117203
+   Saitoh E, 2004, NATURE, V432, P203, DOI 10.1038/nature03009
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Yamanouchi M, 2004, NATURE, V428, P539, DOI 10.1038/nature02441
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+NR 17
+TC 72
+Z9 74
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD MAR 16
+PY 2007
+VL 315
+IS 5818
+BP 1553
+EP 1556
+DI 10.1126/science.1137662
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 146LB
+UT WOS:000244934800045
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Rettner, C
+   Moriya, R
+   Bazaliy, YB
+   Parkin, SSP
+AF Hayashi, Masamitsu
+   Thomas, Luc
+   Rettner, Charles
+   Moriya, Rai
+   Bazaliy, Yaroslaw B.
+   Parkin, Stuart S. P.
+TI Current driven domain wall velocities exceeding the spin angular
+   momentum transfer rate in permalloy nanowires
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+AB The velocity of domain walls driven by current in zero magnetic field is measured in permalloy nanowires using real-time resistance measurements. The domain wall velocity increases with increasing current density, reaching a maximum velocity of similar to 110 m/s when the current density in the nanowire reaches similar to 1.5x10(8) A/cm(2). Such high current driven domain wall velocities exceed the estimated rate at which spin angular momentum is transferred to the domain wall from the flow of spin polarized conduction electrons, suggesting that other driving mechanisms, such as linear momentum transfer, need to be taken into account.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA USA.
+   Stanford Univ, Dept Mat Sci & Engn, Stanford, CA 94305 USA.
+RP Hayashi, M (reprint author), IBM Corp, Almaden Res Ctr, San Jose, CA USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Bass J, 1999, J MAGN MAGN MATER, V200, P274, DOI 10.1016/S0304-8853(99)00316-9
+   Chetkin M. V., 1994, DYNAMICS TOPOLOGICAL
+   DORLEIJN JWF, 1976, PHILIPS RES REP, V31, P287
+   HUBERT A, 2001, MAGNETIC DOMAINS ANA
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Soulen RJ, 1998, SCIENCE, V282, P85, DOI 10.1126/science.282.5386.85
+NR 6
+TC 111
+Z9 111
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD JAN 19
+PY 2007
+VL 98
+IS 3
+AR 037204
+DI 10.1103/PhysRevLett.98.037204
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 127LJ
+UT WOS:000243587200061
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Rettner, C
+   Moriya, R
+   Parkin, SSP
+AF Hayashi, Masamitsu
+   Thomas, Luc
+   Rettner, Charles
+   Moriya, Rai
+   Parkin, Stuart S. P.
+TI Direct observation of the coherent precession of magnetic domain walls
+   propagating along permalloy nanowires
+SO NATURE PHYSICS
+LA English
+DT Article
+ID MOTION; FILMS; PULSE
+AB The dynamics of the motion of domain walls (DWs) in magnetic materials has been extensively explored theoretically(1-3). Depending on the driving force, conventionally magnetic field and, more recently, spin-polarized current(4-13), the propagation of DWs changes from a simple translation to more complex precessional modes(14). Experimentally, indirect evidence of this transition is found from a sudden drop in the wall's velocity(15-18), but direct observation of the precessional modes is lacking. Here we show experimentally, using a combination of quasi-static and real-time measurement techniques, that DWs propagate along permalloy nanowires with a periodic variation in the chirality of the walls. The frequency of this oscillation is consistent with a precession of the propagating DW, increasing linearly with field according to the Larmor precession frequency. Current in the nanowire, large enough to significantly influence the DW velocity(18,19), has little effect on the precession frequency but can be used to adjust the phase of the wall's precession. The highly coherent and reproducible motion of the DW revealed by our studies demonstrates that the DW is a well-defined macroscopic object whose phase is inextricably interlinked to the distance travelled by the DW.
+C1 IBM Corp, Almaden Res Ctr, Div Res, San Jose, CA 95120 USA.
+   Stanford Univ, Dept Mat Sci & Engn, Stanford, CA 94305 USA.
+RP Parkin, SSP (reprint author), IBM Corp, Almaden Res Ctr, Div Res, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   Beach GSD, 2005, NAT MATER, V4, P741, DOI 10.1038/nmat1477
+   Beach GSD, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.057203
+   Berger L, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.014407
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   Chetkin M. V., 1994, DYNAMICS TOPOLOGICAL
+   Hayashi M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.207205
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   HONDA S, 1981, J APPL PHYS, V52, P5756, DOI 10.1063/1.329464
+   Klaui M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.106601
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Nakatani Y, 2003, NAT MATER, V2, P521, DOI 10.1038/nmat931
+   Scheinfein M. R., LLG MICROMAGNETICS S
+   SCHRYER NL, 1974, J APPL PHYS, V45, P5406, DOI 10.1063/1.1663252
+   SLONCZEW.JC, 1973, J APPL PHYS, V44, P1759, DOI 10.1063/1.1662444
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Thomas L, 2006, NATURE, V443, P197, DOI 10.1038/nature05093
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+   ZIMMERMANN L, 1991, J MAGN MAGN MATER, V94, P207, DOI 10.1016/0304-8853(91)90129-X
+NR 23
+TC 156
+Z9 157
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1745-2473
+J9 NAT PHYS
+JI Nat. Phys.
+PD JAN
+PY 2007
+VL 3
+IS 1
+BP 21
+EP 25
+DI 10.1038/nphys464
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 129LB
+UT WOS:000243729900012
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Rettner, C
+   Moriya, R
+   Jiang, X
+   Parkin, SSP
+AF Hayashi, Masamitsu
+   Thomas, Luc
+   Rettner, Charles
+   Moriya, Rai
+   Jiang, Xin
+   Parkin, Stuart S. P.
+TI Dependence of current and field driven depinning of domain walls on
+   their structure and chirality in permalloy nanowires
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID MAGNETIC NANOWIRES; MOTION; FILMS
+AB A magnetic domain wall (DW) injected and pinned at a notch in a permalloy nanowire is shown to exhibit four well-defined magnetic states, vortex and transverse, each with two chiralities. These states, imaged using magnetic force microscopy, are readily detected from their different resistance values arising from the anisotropic magnetoresistance effect. Whereas distinct depinning fields and critical depinning currents in the presence of magnetic fields are found, the critical depinning currents are surprisingly similar for all four DW states in low magnetic fields. We observe current-induced transformations between these DW states below the critical depinning current which may account for the similar depinning currents.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA USA.
+   Stanford Univ, Dept Mat Sci & Engn, Stanford, CA 94305 USA.
+RP Parkin, SSP (reprint author), IBM Corp, Almaden Res Ctr, San Jose, CA USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   Bolte M, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.224436
+   Florez SH, 2005, J APPL PHYS, V97, DOI 10.1063/1.1851434
+   Grollier J, 2003, APPL PHYS LETT, V83, P509, DOI 10.1063/1.1594841
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   He J, 2005, J APPL PHYS, V98, DOI 10.1063/1.1957122
+   Himeno A, 2003, J APPL PHYS, V93, P8430, DOI 10.1063/1.1556980
+   Himeno A, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2140884
+   Ishida T, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.014424
+   Kent AD, 2001, J PHYS-CONDENS MAT, V13, pR461, DOI 10.1088/0953-8984/13/25/202
+   Klaui M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.106601
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Lim CK, 2004, APPL PHYS LETT, V84, P2820, DOI 10.1063/1.1711168
+   Parkin S. S. P., 2004, U.S. Patent, Patent No. 6834005
+   SALHI E, 1993, J APPL PHYS, V73, P6405, DOI 10.1063/1.352611
+   Scheinfein M. R., LLG MICROMAGNETIC SI
+   Schrefl T, 1997, J MAGN MAGN MATER, V175, P193, DOI 10.1016/S0304-8853(97)00156-X
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Wegrowe JE, 1999, EUROPHYS LETT, V45, P626, DOI 10.1209/epl/i1999-00213-1
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Yamaguchi A, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1847714
+NR 25
+TC 159
+Z9 160
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD NOV 17
+PY 2006
+VL 97
+IS 20
+AR 207205
+DI 10.1103/PhysRevLett.97.207205
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 106LI
+UT WOS:000242101600049
+ER
+
+PT J
+AU Thomas, L
+   Hayashi, M
+   Jiang, X
+   Moriya, R
+   Rettner, C
+   Parkin, SSP
+AF Thomas, Luc
+   Hayashi, Masamitsu
+   Jiang, Xin
+   Moriya, Rai
+   Rettner, Charles
+   Parkin, Stuart S. P.
+TI Oscillatory dependence of current-driven magnetic domain wall motion on
+   current pulse length
+SO NATURE
+LA English
+DT Article
+ID FERROMAGNETS; NANOWIRES; STRIPS
+AB Magnetic domain walls, in which the magnetization direction varies continuously from one direction to another, have long been objects of considerable interest(1). New concepts for devices based on such domain walls are made possible by the direct manipulation of the walls using spin-polarized electrical current(2,3) through the phenomenon of spin momentum transfer(4,5). Most experiments to date have considered the current-driven motion of domain walls under quasi-static conditions(6-12), whereas for technological applications, the walls must be moved on much shorter timescales. Here we show that the motion of domain walls under nanosecond-long current pulses is surprisingly sensitive to the pulse length. In particular, we find that the probability of dislodging a domain wall, confined to a pinning site in a permalloy nanowire, oscillates with the length of the current pulse, with a period of just a few nanoseconds. Using an analytical model(13-17) and micromagnetic simulations, we show that this behaviour is connected to a current-induced oscillatory motion of the domain wall. The period is determined by the wall's mass(18) and the slope of the confining potential. When the current is turned off during phases of the domain wall motion when it has enough momentum, the domain wall is driven out of the confining potential in the opposite direction to the flow of spin angular momentum. This dynamic amplification effect could be exploited in magnetic nanodevices based on domain wall motion.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+   Stanford Univ, Dept Mat Sci & Engn, Stanford, CA 94305 USA.
+RP Thomas, L (reprint author), IBM Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM lucthom@us.ibm.com; parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   BERGER L, 1986, PHYS REV B, V33, P1572, DOI 10.1103/PhysRevB.33.1572
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   Berger L, 1996, PHYS REV B, V54, P9353, DOI 10.1103/PhysRevB.54.9353
+   Grollier J, 2003, APPL PHYS LETT, V83, P509, DOI 10.1063/1.1594841
+   Klaui M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.106601
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Li Z, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.024417
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   McMichael RD, 1997, IEEE T MAGN, V33, P4167, DOI 10.1109/20.619698
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   Novosad V, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.024455
+   O'Handley RC, 2000, MODERN MAGNETIC MAT
+   Park JP, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.020403
+   Ravelosona D, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.117203
+   Saitoh E, 2004, NATURE, V432, P203, DOI 10.1038/nature03009
+   Shibata J, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.020403
+   Slonczewski J. C., 1996, J MAGN MAGN MATER, V159, P1
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Yamanouchi M, 2004, NATURE, V428, P539, DOI 10.1038/nature02441
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+   1997, LLG MICROMAGNETIC SI
+NR 25
+TC 219
+Z9 220
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD SEP 14
+PY 2006
+VL 443
+IS 7108
+BP 197
+EP 200
+DI 10.1038/nature05093
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 083OB
+UT WOS:000240467000043
+ER
+
+PT J
+AU Hayashi, M
+   Thomas, L
+   Bazaliy, YB
+   Rettner, C
+   Moriya, R
+   Jiang, X
+   Parkin, SSP
+AF Hayashi, M
+   Thomas, L
+   Bazaliy, YB
+   Rettner, C
+   Moriya, R
+   Jiang, X
+   Parkin, SSP
+TI Influence of current on field-driven domain wall motion in permalloy
+   nanowires from time resolved measurements of anisotropic
+   magnetoresistance
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID PROPAGATION; DYNAMICS
+AB The motion of magnetic domain walls in permalloy nanowires is investigated by real-time resistance measurements. The domain wall velocity is measured as a function of the magnetic field in the presence of a current flowing through the nanowire. We show that the current can significantly increase or decrease the domain wall velocity, depending on its direction. These results are understood within a one-dimensional model of the domain wall dynamics which includes the spin transfer torque.
+C1 IBM Corp, Almaden Res Ctr, San Jose, CA 95120 USA.
+   Stanford Univ, Dept Mat Sci & Engn, Stanford, CA 94305 USA.
+RP Hayashi, M (reprint author), IBM Corp, Almaden Res Ctr, 650 Harry Rd, San Jose, CA 95120 USA.
+EM parkin@almaden.ibm.com
+RI Parkin, Stuart/D-2521-2012
+CR Allwood DA, 2005, SCIENCE, V309, P1688, DOI 10.1126/science.1108813
+   Atkinson D, 2003, NAT MATER, V2, P85, DOI 10.1038/nmat803
+   Barnes SE, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.107204
+   Beach GSD, 2005, NAT MATER, V4, P741, DOI 10.1038/nmat1477
+   BERGER L, 1984, J APPL PHYS, V55, P1954, DOI 10.1063/1.333530
+   CAMPBELL IA, 1982, TRANSPORT PROPERTIES, V3
+   Grollier J, 2003, APPL PHYS LETT, V83, P509, DOI 10.1063/1.1594841
+   HAYASHI MN, IN PRESS
+   Klaui M, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.026601
+   Lim CK, 2004, APPL PHYS LETT, V84, P2820, DOI 10.1063/1.1711168
+   Malozemoff A. P., 1979, MAGNETIC DOMAIN WALL
+   Nakatani Y, 2005, J MAGN MAGN MATER, V290, P750, DOI 10.1016/j.jmmm.2004.11.355
+   Nakatani Y, 2003, NAT MATER, V2, P521, DOI 10.1038/nmat931
+   Ono T, 1999, SCIENCE, V284, P468, DOI 10.1126/science.284.5413.468
+   Parkin S. S. P., 2004, U.S. Patent, Patent No. 6834005
+   Saitoh E, 2004, NATURE, V432, P203, DOI 10.1038/nature03009
+   Scheinfein M. R., LLG MICROMAGNETIC SI
+   SCHRYER NL, 1974, J APPL PHYS, V45, P5406, DOI 10.1063/1.1663252
+   Tatara G, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.086601
+   Thiaville A, 2005, EUROPHYS LETT, V69, P990, DOI 10.1209/epl/i2004-10452-6
+   Vernier N, 2004, EUROPHYS LETT, V65, P526, DOI 10.1209/epl/i2003-10112-5
+   Yamaguchi A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.077205
+   Zhang S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.127204
+NR 23
+TC 180
+Z9 181
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD MAY 19
+PY 2006
+VL 96
+IS 19
+AR 197207
+DI 10.1103/PhysRevLett.96.197207
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 044PB
+UT WOS:000237683600054
+ER
+
+PT J
+AU Hamaya, K
+   Kitamoto, Y
+   Yamazaki, Y
+   Taniyama, T
+   Moriya, R
+   Munekata, H
+AF Hamaya, K
+   Kitamoto, Y
+   Yamazaki, Y
+   Taniyama, T
+   Moriya, R
+   Munekata, H
+TI Correlation between ferromagnetism and hole localization in very thin
+   (Ga,Mn)As epilayers
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 49th Annual Conference on Magnetism and Magnetic Materials
+CY NOV 07-11, 2004
+CL Jacksonville, FL
+SP Phys Conf Inc, IEEE Magnet Soc, Amer Ceram Soc, USN, Off Naval Res, Amer Phys Soc, ASTM Int, Minerals, Met & Mat Soc
+ID CURIE-TEMPERATURE; MAGNETORESISTANCE
+AB The magnetic and magnetotransport properties of very thin as-grown (Ga,Mn)As epilayers are reported. A 10-nm-thick epilayer shows a marked decrease in the Curie temperature and conductivity. The magnetoresistance (MR) increases with decreasing temperature in the temperature range below 20 K and the MR hysteresis curves show a characteristic feature which is different from that of thicker epilayers. We attribute the characteristic feature to the localization of hole carriers at the surface region of the epilayer. (c) 2005 American Institute of Physics.
+C1 Tokyo Inst Technol, Dept Innovat & Engn Mat, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Mat & Struct Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+RP Hamaya, K (reprint author), Tokyo Inst Technol, Dept Innovat & Engn Mat, Midori Ku, 4259 Nagatsuta, Yokohama, Kanagawa 2268502, Japan.
+EM hamaya@iem.titech.ac.jp
+RI Hamaya, Kohei/D-5423-2013
+CR Balcells L, 1998, PHYS REV B, V58, P14697
+   Baxter DV, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.212407
+   Dietl T, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.195205
+   Edmonds KW, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.037201
+   Hamaya K, 2003, J APPL PHYS, V94, P7657, DOI 10.1063/1.1629134
+   Kirby BJ, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.081307
+   Koeder A, 2003, APPL PHYS LETT, V82, P3278, DOI 10.1063/1.1573369
+   Ku KC, 2003, APPL PHYS LETT, V82, P2302, DOI 10.1063/1.1564285
+   Mathieu R, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.184421
+   Matsukura F, 1998, PHYS REV B, V57, pR2037, DOI 10.1103/PhysRevB.57.R2037
+   Ohno H, 2001, SOLID STATE COMMUN, V119, P281, DOI 10.1016/S0038-1098(01)00175-2
+   Oiwa A, 1997, SOLID STATE COMMUN, V103, P209, DOI 10.1016/S0038-1098(97)00178-6
+   Sorensen BS, 2003, APPL PHYS LETT, V82, P2287, DOI 10.1063/1.1566097
+   STONER C, 1948, PHILOS T R SOC A, V240, P599
+NR 14
+TC 2
+Z9 2
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD MAY 15
+PY 2005
+VL 97
+IS 10
+AR 10D301
+DI 10.1063/1.1844731
+PN 2
+PG 3
+WC Physics, Applied
+SC Physics
+GA 940TP
+UT WOS:000230168300194
+ER
+
+PT J
+AU Moriya, R
+   Hamaya, K
+   Oiwa, A
+   Munekata, H
+AF Moriya, R
+   Hamaya, K
+   Oiwa, A
+   Munekata, H
+TI Magnetization reversal by electrical spin injection in ferromagnetic
+   (Ga,Mn)As-based magnetic tunnel junctions
+SO JOURNAL OF SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Conference on Physics and Applications of Spin-Related
+   Phenomena in Semiconductors
+CY JUL 21-23, 2004
+CL Santa Barbara, CA
+DE III-V magnetic alloy semiconductors; spintronics; (Ga,Mn)As; magnetic
+   tunnel junction; MBE
+ID MULTILAYER
+AB We report current-induced magnetization reversal in a ferromagnetic semiconductor-based magnetic tunnel junction (Ga,Mn)As/AlAs/(Ga,Mn)As prepared by molecular beam epitaxy on a p-GaAs(001) substrate. A change in magneto-resistance that is asymmetric with respect to the current direction is found with the excitation current of 101 A/cm(2). Contributions of both unpolarized and spin-polarized components are examined, and we conclude that the partial magnetization reversal occurs in the (Ga,Mn)As layer having smaller magnetization with the spin-polarized tunneling current of 10(5) A/cm(2).
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Dept Innovat & Engn Mat, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Japan Sci & Technol Agcy, PRESTO, Kawaguchi 3320012, Japan.
+RP Moriya, R (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259-G2-13 Nagatsuta Cho, Yokohama, Kanagawa 2268502, Japan.
+RI Oiwa, Akira/E-8349-2012; Hamaya, Kohei/D-5423-2013
+CR BATEY J, 1986, J APPL PHYS, V59, P200, DOI 10.1063/1.336864
+   BERGER L, 1992, J APPL PHYS, V71, P2721, DOI 10.1063/1.351045
+   Berger L, 1996, PHYS REV B, V54, P9353, DOI 10.1103/PhysRevB.54.9353
+   Braden JG, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.056602
+   Hamaya K, 2004, JPN J APPL PHYS 2, V43, pL306, DOI 10.1143/JJAP.43.L306
+   Katine JA, 2000, PHYS REV LETT, V84, P3149, DOI 10.1103/PhysRevLett.84.3149
+   MELNGAILIS J, 1987, J VAC SCI TECHNOL B, V5, P469, DOI 10.1116/1.583937
+   Moriya R, 2004, JPN J APPL PHYS 2, V43, pL825, DOI 10.1143/JJAP.43.L825
+   Ohno Y, 2002, PHYSICA E, V13, P521, DOI 10.1016/S1386-9477(02)00185-6
+   OIWA A, 2004, PHYS REV B, V86, P4122
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   SHIBATA J, CONDMAT0407116
+   SIMMONS JG, 1963, J APPL PHYS, V34, P1793, DOI 10.1063/1.1702682
+   Sinova J., 2004, Physical Review B (Condensed Matter and Materials Physics), V69, DOI 10.1103/PhysRevB.69.085209
+   Slonczewski J. C., 1996, J MAGN MAGN MATER, V159, P1
+   Tanaka M., 2001, Physical Review Letters, V87, DOI 10.1103/PhysRevLett.87.026602
+   Tsoi M, 1998, PHYS REV LETT, V80, P4281, DOI 10.1103/PhysRevLett.80.4281
+   Tsymbal EY, 2003, J PHYS-CONDENS MAT, V15, pR109, DOI 10.1088/0953-8984/15/4/201
+   Wegrowe JE, 1999, EUROPHYS LETT, V45, P626, DOI 10.1209/epl/i1999-00213-1
+NR 19
+TC 0
+Z9 0
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0896-1107
+J9 J SUPERCOND
+JI J. Supercond.
+PD FEB
+PY 2005
+VL 18
+IS 1
+BP 3
+EP 7
+DI 10.1007/s10948-005-2141-0
+PG 5
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA 913DM
+UT WOS:000228131800002
+ER
+
+PT J
+AU Hamaya, K
+   Taniyama, T
+   Kitamoto, Y
+   Yamazaki, Y
+   Moriya, R
+   Munekata, H
+AF Hamaya, K
+   Taniyama, T
+   Kitamoto, Y
+   Yamazaki, Y
+   Moriya, R
+   Munekata, H
+TI Anistropic magnetotransport due to uniaxial magnetic anisotropy in
+   (Ga,Mn)As wires
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 9th Joint Magnetism and Magnetic Materials Conference/ International
+   Magnetics Conference
+CY JAN 05-09, 2004
+CL Anaheim, CA
+DE magnetic anisotropy; magnetic semiconductor; magnetoresistance
+AB The in-plane anisotropic magnetotransport feature of 2-mum-wide (Ga,Mn)As wires is examined at 4 K. The magnetoresistance (MR) features as a function of applied field orientation show clear anisotropy associated with the cubic magnetocrystalline anisotropy. Moreover, the field orientation dependence of the magnetization switching field shows two asymmetric peaks along [110] and [(1) over bar 10], indicating the presence of uniaxial anisotropy along [110]. A simple model incorporating the cubic and uniaxial anisotropies well explains these asymmetric peaks based on magnetization reversal processes via 90degrees domain wall displacement.
+C1 Tokyo Inst Technol, Dept Innovat & Engineered Mat, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Yokohama, Kanagawa 2268503, Japan.
+RP Hamaya, K (reprint author), Tokyo Inst Technol, Dept Innovat & Engineered Mat, Yokohama, Kanagawa 2268502, Japan.
+EM hamaya@iem.titech.ac.jp; taniyama@iem.titech.ac.jp;
+   rai@isl.titech.ac.jp; hiro@isl.titech.ac.jp
+RI Hamaya, Kohei/D-5423-2013
+CR Cowburn RP, 1995, J APPL PHYS, V78, P7210, DOI 10.1063/1.360431
+   Hamaya K, 2003, IEEE T MAGN, V39, P2785, DOI 10.1109/TMAG.2003.815710
+   Hrabovsky D, 2002, APPL PHYS LETT, V81, P2806, DOI 10.1063/1.1506204
+   Ohno H, 2000, NATURE, V408, P944, DOI 10.1038/35050040
+   Ohno H, 1998, SCIENCE, V281, P951, DOI 10.1126/science.281.5379.951
+   Ohno Y, 1999, NATURE, V402, P790
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   Tang HX, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.107201
+   WANG KY, P 26 INT C PHYS SEM
+   Welp U, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.167206
+NR 10
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD JUL
+PY 2004
+VL 40
+IS 4
+BP 2682
+EP 2684
+DI 10.1109/TMAG.2004.832667
+PN 2
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 848DE
+UT WOS:000223446700226
+ER
+
+PT J
+AU Moriya, R
+   Hamaya, K
+   Oiwa, A
+   Munekata, H
+AF Moriya, R
+   Hamaya, K
+   Oiwa, A
+   Munekata, H
+TI Current-induced magnetization reversal in a (Ga,Mn)As-based magnetic
+   tunnel junction
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS & EXPRESS LETTERS
+LA English
+DT Article
+DE III-V magnetic alloy semiconductors; spintronics; (Ga,Mn)As; magnetic
+   tunnel junction; MBE
+ID MULTILAYER; EXCITATION
+AB We report current-induced magnetization reversal in a ferromagnetic semiconductor-based magnetic tunnel junction (Ga,Mn)As/AlAs/(Ga,Mn)As prepared by molecular beam epitaxy on a p-GaAs(001) substrate. A change in magneto-resistance that is asymmetric with respect to the current direction is found with the excitation current of 10(6) A/cm(2). Contributions of both unpolarized and spin-polarized components are examined, and we conclude that the partial magnetization reversal occurs in the (Ga,Mn)As layer of smaller magnetization with the spin-polarized tunneling current of 10(5) A/cm(2).
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Dept Innovat & Engn Mat, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Japan Sci & Technol Agcy, PRESTO, Kawaguchi 3320012, Japan.
+RP Munekata, H (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259-G2-13 Nagatsuta Cho, Yokohama, Kanagawa 2268502, Japan.
+EM hiro@isl.titech.ac.jp
+RI Oiwa, Akira/E-8349-2012; Hamaya, Kohei/D-5423-2013
+CR BATEY J, 1986, J APPL PHYS, V59, P200, DOI 10.1063/1.336864
+   BERGER L, 1992, J APPL PHYS, V71, P2721, DOI 10.1063/1.351045
+   Berger L, 1996, PHYS REV B, V54, P9353, DOI 10.1103/PhysRevB.54.9353
+   Braden JG, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.056602
+   Hamaya K, 2004, JPN J APPL PHYS 2, V43, pL306, DOI 10.1143/JJAP.43.L306
+   Katine JA, 2000, PHYS REV LETT, V84, P3149, DOI 10.1103/PhysRevLett.84.3149
+   MITSUMORI Y, 2004, PHYS REV B, V86, P4122
+   Ohno Y, 2002, PHYSICA E, V13, P521, DOI 10.1016/S1386-9477(02)00185-6
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   SIMMONS JG, 1963, J APPL PHYS, V34, P1793, DOI 10.1063/1.1702682
+   Sinova J., 2004, Physical Review B (Condensed Matter and Materials Physics), V69, DOI 10.1103/PhysRevB.69.085209
+   Slonczewski JC, 1996, J MAGN MAGN MATER, V159, pL1, DOI 10.1016/0304-8853(96)00062-5
+   Tanaka M., 2001, Physical Review Letters, V87, DOI 10.1103/PhysRevLett.87.026602
+   Tsoi M, 1998, PHYS REV LETT, V80, P4281, DOI 10.1103/PhysRevLett.80.4281
+   Tsymbal EY, 2003, J PHYS-CONDENS MAT, V15, pR109, DOI 10.1088/0953-8984/15/4/201
+   Wegrowe JE, 1999, EUROPHYS LETT, V45, P626, DOI 10.1209/epl/i1999-00213-1
+NR 16
+TC 14
+Z9 14
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett. Express Lett.
+PD JUN 15
+PY 2004
+VL 43
+IS 6B
+BP L825
+EP L827
+DI 10.1143/JJAP.43.L825
+PG 3
+WC Physics, Applied
+SC Physics
+GA 835RP
+UT WOS:000222503500024
+ER
+
+PT J
+AU Oiwa, A
+   Moriya, R
+   Kashimura, Y
+   Munekata, H
+AF Oiwa, A
+   Moriya, R
+   Kashimura, Y
+   Munekata, H
+TI Formation of quantized states and spin dynamics in III-V-based
+   ferromagnetic quantum wells
+SO JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS
+LA English
+DT Article; Proceedings Paper
+CT International Conference on Magnetism (ICM 2003)
+CY JUL 27-AUG 01, 2003
+CL Rome, ITALY
+DE magnetic alloy semiconductor; quantum well; spin dynamics
+AB We have studied quantum size effect and spin dynamics in single quantum wells consisting of III-V magnetic alloy semiconductor with different well width. A blue-shift of the broad negative peak observed in magnetic circular dichroism spectra indicates the formation of quantized states in (Ga,Mn)As well layers. Time-resolved Kerr rotation measurements were employed for ferromagnetic SQW to study the influence of lifting the degeneracy between hole sub-bands on the spin dynamics. Significant enhancement in the magnitude of Mn spin rotation was observed. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Japan Sci & Technol Corp, PRESTO, Kawaguchi 3320012, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Yokohama, Kanagawa 2268503, Japan.
+RP Oiwa, A (reprint author), Japan Sci & Technol Corp, PRESTO, 4-1-8 Honcho, Kawaguchi 3320012, Japan.
+EM oiwa@isi.titech.ac.jp
+RI Oiwa, Akira/E-8349-2012
+CR GUPTA S, 1991, APPL PHYS LETT, V59, P3276, DOI 10.1063/1.105729
+   MITSUMORI Y, IN PRESS PHYS REV B
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   Shimizu H, 2002, J APPL PHYS, V91, P7487, DOI 10.1063/1.1447199
+NR 4
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-8853
+J9 J MAGN MAGN MATER
+JI J. Magn. Magn. Mater.
+PD MAY
+PY 2004
+VL 272
+SI SI
+BP 2016
+EP 2017
+DI 10.1016/j.jmmm.2003.12.546
+PN 3
+PG 2
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter
+SC Materials Science; Physics
+GA 831ZU
+UT WOS:000222236800163
+ER
+
+PT J
+AU Kashimura, Y
+   Moriya, R
+   Oiwa, A
+   Munekata, H
+AF Kashimura, Y
+   Moriya, R
+   Oiwa, A
+   Munekata, H
+TI Photo-induced magnetization rotation in III-V ferromagnetic alloy
+   semiconductor quantum wells
+SO PHYSICA E-LOW-DIMENSIONAL SYSTEMS & NANOSTRUCTURES
+LA English
+DT Article; Proceedings Paper
+CT 11th International Conference on Modulated Semiconductor Structures
+   (MSS11)
+CY JUL 14-18, 2003
+CL Nara, JAPAN
+DE magnetic alloy semiconductors; quantum wells; spin dynamics
+ID REVERSAL
+AB We have prepared a series of single quantum wells consisting of a (Ga,Mn)As well and have studied the photo-induced magnetization rotation by means of the time-resolved Kerr rotation measurements with circularly polarized light. In the magnetic circular dichroism spectra, the characteristic broad structure around the band gap energy shifts towards to higher energies with decreasing well layer thickness, indicating the formation of quantized states in a magnetic well. Temporal profile of polar Kerr rotation for the 5-nm quantum wells (QW) (T-C = 80 K) reveals magnetization rotation from in-plane to out-of-plane direction without the external magnetic fields, with the magnitude of rotation being about 40 times larger than that reported in the bulk. The observed enhancement is discussed in terms of enhanced polarization of hole spins which results from non-degenerate light and heavy hole bands in the QWs. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Japan Sci & Technol Corp, PRESTO, Kawaguchi 3320012, Japan.
+RP Munekata, H (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259 Nagatsuta Cho, Yokohama, Kanagawa 2268503, Japan.
+EM hiro@isl.titech.ac.jp
+RI Oiwa, Akira/E-8349-2012
+CR Ando K, 1998, J APPL PHYS, V83, P6548, DOI 10.1063/1.367780
+   BAUMBERG JJ, 1994, PHYS REV B, V50, P7689, DOI 10.1103/PhysRevB.50.7689
+   GUPTA S, 1991, APPL PHYS LETT, V59, P3276, DOI 10.1063/1.105729
+   Hayashi T, 1997, APPL PHYS LETT, V71, P1825, DOI 10.1063/1.119411
+   Hilton DJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.146601
+   Koshihara S, 1997, PHYS REV LETT, V78, P4617, DOI 10.1103/PhysRevLett.78.4617
+   MISTUMORI Y, 2004, PHYS REV B, V69, DOI UNSP 033203
+   Ohno H, 2000, NATURE, V408, P944, DOI 10.1038/35050040
+   Oiwa A, 2001, APPL PHYS LETT, V78, P518, DOI 10.1063/1.1343497
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   Oiwa A, 2003, J SUPERCOND, V16, P439, DOI 10.1023/A:1023675100481
+   UENOYAMA T, 1990, PHYS REV LETT, V64, P3070, DOI 10.1103/PhysRevLett.64.3070
+NR 12
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1386-9477
+J9 PHYSICA E
+JI Physica E
+PD MAR
+PY 2004
+VL 21
+IS 2-4
+BP 987
+EP 990
+DI 10.1016/j.physe.2003.11.177
+PG 4
+WC Nanoscience & Nanotechnology; Physics, Condensed Matter
+SC Science & Technology - Other Topics; Physics
+GA 812XX
+UT WOS:000220873300173
+ER
+
+PT J
+AU Hamaya, K
+   Moriya, R
+   Oiwa, A
+   Taniyama, T
+   Kitamoto, Y
+   Yamazaki, Y
+   Munekata, H
+AF Hamaya, K
+   Moriya, R
+   Oiwa, A
+   Taniyama, T
+   Kitamoto, Y
+   Yamazaki, Y
+   Munekata, H
+TI Contribution of shape anisotropy to the magnetic configuration of (Ga,
+   Mn)As
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+DE III-V magnetic semiconductors; (Ga, Mn)As; magnetic anisotropy; shape
+   anisotropy
+ID MAGNETOTRANSPORT; REVERSAL
+AB We report on an effect of shape anisotropy on the magnetic configuration of the magnetic semiconductor (Ga, Mn)As using magnetoresistance (MR) measurements. A substantial change in the MR curve occurs for a wire sample with a width of 0.8 mum, in which the shape anisotropy along the wire axis is more significant than the intrinsic magnetic anisotropy. Moreover, the magnetic configuration of the wire sample depends on the hole concentration which has an influence on the cubic, uniaxial and shape anisotropy, being reflected by the hole induced ferromagnetic characteristics of (Ga, Mn)As.
+C1 Tokyo Inst Technol, Dept Innovat & Engineered Mat, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Japan Sci & Technol Agcy, PRESTO, Kawaguchi 3320012, Japan.
+RP Hamaya, K (reprint author), Tokyo Inst Technol, Dept Innovat & Engineered Mat, Midori Ku, 4259 Nagatsuta, Yokohama, Kanagawa 2268502, Japan.
+EM hamaya@iem.titech.ac.jp
+RI Oiwa, Akira/E-8349-2012; Hamaya, Kohei/D-5423-2013
+CR Abolfath M, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.054418
+   Baxter DV, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.212407
+   Chiba D, 2003, SCIENCE, V301, P943, DOI 10.1126/science.1086608
+   Cowburn RP, 1995, J APPL PHYS, V78, P7210, DOI 10.1063/1.360431
+   Dietl T, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.195205
+   Hamaya K, 2003, J APPL PHYS, V94, P7657, DOI 10.1063/1.1629134
+   Hamaya K, 2003, IEEE T MAGN, V39, P2785, DOI 10.1109/TMAG.2003.815710
+   Hrabovsky D, 2002, APPL PHYS LETT, V81, P2806, DOI 10.1063/1.1506204
+   Kohda M, 2001, JPN J APPL PHYS 2, V40, pL1274, DOI 10.1143/JJAP.40.L1274
+   Liu X, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.205204
+   Moriya R, 2003, J APPL PHYS, V93, P4603, DOI 10.1063/1.1559426
+   Ohno H, 2000, NATURE, V408, P944, DOI 10.1038/35050040
+   Tanaka M., 2001, Physical Review Letters, V87, DOI 10.1103/PhysRevLett.87.026602
+   Tang HX, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.107201
+   WANG KY, 2002, P 26 INT C PHYS SEM
+   Welp U, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.167206
+NR 16
+TC 17
+Z9 17
+PU INST PURE APPLIED PHYSICS
+PI TOKYO
+PA TOYOKAIJI BLDG NO. 12, 6-9-6 SHINBASHI, MINATO-KU, TOKYO, 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD FEB 15
+PY 2004
+VL 43
+IS 2B
+BP L306
+EP L308
+DI 10.1143/JJAP.43.L306
+PG 3
+WC Physics, Applied
+SC Physics
+GA 805PQ
+UT WOS:000220378600023
+ER
+
+PT J
+AU Hamaya, K
+   Taniyama, T
+   Kitamoto, Y
+   Moriya, R
+   Munekata, H
+AF Hamaya, K
+   Taniyama, T
+   Kitamoto, Y
+   Moriya, R
+   Munekata, H
+TI Magnetotransport study of temperature dependent magnetic anisotropy in a
+   (Ga,Mn)As epilayer
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID SEMICONDUCTORS; MAGNETORESISTANCE; FERROMAGNETISM
+AB The anisotropic magnetotransport properties of a (Ga,Mn)As epilayer and the magnetization switching are studied as a function of temperature. The magnetization switching field shows asymmetry for crystallographically equivalent [110] and [(1) over bar 10] directions at 4 K, and the asymmetry is more significant at 40 K. The magnetization switching features clearly show that cubic magnetocrystalline anisotropy along <100>, which is biased by a small uniaxial anisotropy along the [110] easy axis, is dominant at 4 K. On the other hand, the [110] uniaxial anisotropy competes with the cubic anisotropy and dominates the magnetization switching at 40 K. Accordingly, the magnetization reversal in the (Ga,Mn)As epilayer occurs via 90degrees and 180degrees domain-wall displacement at 4 and 40 K, respectively. A mechanism of the change in the magnetic anisotropy is discussed within a theoretical description of the hole band structure. (C) 2003 American Institute of Physics.
+C1 Tokyo Inst Technol, Dept Innovat & Engineered Mat, Midori Ku, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+RP Hamaya, K (reprint author), Tokyo Inst Technol, Dept Innovat & Engineered Mat, Midori Ku, 4259 Nagatsuta, Yokohama, Kanagawa 2268502, Japan.
+RI Hamaya, Kohei/D-5423-2013
+CR Abolfath M, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.054418
+   Baxter DV, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.212407
+   Chiba D, 2000, APPL PHYS LETT, V77, P1873, DOI 10.1063/1.1310626
+   Cowburn RP, 1995, J APPL PHYS, V78, P7210, DOI 10.1063/1.360431
+   Dietl T, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.195205
+   Dietl T, 2000, SCIENCE, V287, P1019, DOI 10.1126/science.287.5455.1019
+   Higo Y, 2001, J APPL PHYS, V89, P6745, DOI 10.1063/1.1357832
+   Hrabovsky D, 2002, APPL PHYS LETT, V81, P2806, DOI 10.1063/1.1506204
+   Liu X, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.205204
+   Matsukura F, 1998, PHYS REV B, V57, pR2037, DOI 10.1103/PhysRevB.57.R2037
+   Moriya R, 2003, J APPL PHYS, V93, P4603, DOI 10.1063/1.1559426
+   MUNEKATA H, 1989, PHYS REV LETT, V63, P1849, DOI 10.1103/PhysRevLett.63.1849
+   OHNO H, 1996, APPL PHYS LETT, V69, P368
+   Ohno H, 1998, SCIENCE, V281, P951, DOI 10.1126/science.281.5379.951
+   Ohno Y, 1999, NATURE, V402, P790
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   SAWCIKI M, 2003, J SUPERCOND, V16, P7
+   Tang HX, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.107201
+   WANG KY, P 26 INT C PHYS SEM
+   Welp U, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.167206
+NR 20
+TC 53
+Z9 53
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD DEC 15
+PY 2003
+VL 94
+IS 12
+BP 7657
+EP 7661
+DI 10.1063/1.1629134
+PG 5
+WC Physics, Applied
+SC Physics
+GA 750AV
+UT WOS:000186969900043
+ER
+
+PT J
+AU Hamaya, K
+   Moriya, R
+   Oiwa, A
+   Taniyama, T
+   Kitamoto, Y
+   Munekata, H
+AF Hamaya, K
+   Moriya, R
+   Oiwa, A
+   Taniyama, T
+   Kitamoto, Y
+   Munekata, H
+TI Control of magnetic anisotropy and magnetotransport in epitaxial
+   micropatterned (Ga,Mn)As wire structures
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT International Magnetics Conference
+CY MAR 30-APR 03, 2003
+CL BOSTON, MASSACHUSETTS
+DE anisotropic; magnetoresistance; (Ga,Mn)As; III-V ferromagnetic
+   semiconductor; wire structure
+ID DOMAIN-STRUCTURE; MAGNETORESISTANCE
+AB The authors present magnetoresistance characteristics of patterned (Ga,Mn)As wire structures, which depend on wire width and thus overall magnetic anisotropy. Cubic and uniaxial magnetocrystalline anisotropies seem to be the, dominant magnetic contributions in 2-mum-wide wires, whereas both magnetocrystalline and shape-induced anisotropies, contribute to magnetization reversal in 1mum-wide wires, as manifested by jumps in the magnetoresistance curves. The role of these two anisotropies in the magnetization reversal is discussed, together with the determination of magnetic easy/hard axes of (Ga,Mn)As wires.
+C1 Tokyo Inst Technol, Dept Innovat & Engineered Mat, Yokohama, Kanagawa 2268502, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Yokohama, Kanagawa 2268503, Japan.
+RP Hamaya, K (reprint author), Tokyo Inst Technol, Dept Innovat & Engineered Mat, Yokohama, Kanagawa 2268502, Japan.
+RI Oiwa, Akira/E-8349-2012; Hamaya, Kohei/D-5423-2013
+CR Adeyeye AO, 1996, J APPL PHYS, V79, P6120, DOI 10.1063/1.361893
+   Ahmad E, 2000, J APPL PHYS, V88, P354, DOI 10.1063/1.373667
+   Baxter DV, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.212407
+   Eckstein JN, 1996, APPL PHYS LETT, V69, P1312, DOI 10.1063/1.117402
+   Fukumura T, 2001, PHYSICA E, V10, P135, DOI 10.1016/S1386-9477(01)00068-6
+   Ohno H, 1998, SCIENCE, V281, P951, DOI 10.1126/science.281.5379.951
+   Ohno Y, 1999, NATURE, V402, P790
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   Otani Y, 1998, IEEE T MAGN, V34, P1096, DOI 10.1109/20.706372
+   RUEDIGER U, 1998, APPL PHYS LETT, V73, P1298
+   Shono T, 2000, APPL PHYS LETT, V77, P1363, DOI 10.1063/1.1290273
+   Tanaka M., 2001, Physical Review Letters, V87, DOI 10.1103/PhysRevLett.87.026602
+   Taniyama T, 1999, PHYS REV LETT, V82, P2780, DOI 10.1103/PhysRevLett.82.2780
+   WANG KY, P 26 INT C PHYS SEM
+NR 14
+TC 9
+Z9 9
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD SEP
+PY 2003
+VL 39
+IS 5
+BP 2785
+EP 2787
+DI 10.1109/TMAG.2003.815710
+PN 2
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 728MZ
+UT WOS:000185722100185
+ER
+
+PT J
+AU Moriya, R
+   Munekata, H
+AF Moriya, R
+   Munekata, H
+TI Relation among concentrations of incorporated Mn atoms, ionized Mn
+   acceptors, and holes in p-(Ga,Mn)As epilayers
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID III-V SEMICONDUCTORS; DILUTED MAGNETIC SEMICONDUCTOR; METAL-NONMETAL
+   TRANSITION; LOW-TEMPERATURE; MAGNETOTRANSPORT PROPERTIES; GAAS;
+   (GA,MN)AS; (IN,MN)AS; VOLTAGE
+AB The amount of ionized Mn acceptors in various p-type Mn-doped GaAs epilayers grown at high (T-s=580 degreesC) and low (T-s=250 degreesC) substrate temperatures has been evaluated by electrochemical capacitance-voltage measurements, and has been compared systematically with concentrations of incorporated Mn atoms and holes for a wide range of Mn concentrations (N-Mn=10(17)-10(21) cm(-3)). Low-T-s samples are found to be classified into three different types: (a) a highly resistive, strongly compensated region at N(Mn)less than or equal to10(18) cm(-3), (b) a low-resistance, fully ionized region for N-Mn between 5x10(18) and 10(20) cm(-3) in which impurity conduction dominates, and (c) a magnetic, low-resistance region for N(Mn)greater than or equal to2x10(20) cm(-3) in which magnetism and carrier transport are strongly correlated. A quantitative assessment of the anomalous Hall effect at room temperature is also carried out. (C) 2003 American Institute of Physics.
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+RP Moriya, R (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259 Nagatsuta, Yokohama, Kanagawa 2268503, Japan.
+CR BLAKEMOR.JS, 1973, J APPL PHYS, V44, P3352, DOI 10.1063/1.1662760
+   Blood P, 1986, SEMICOND SCI TECH, V1, P7, DOI 10.1088/0268-1242/1/1/002
+   CHATTERJEE PK, 1975, APPL PHYS LETT, V27, P567, DOI 10.1063/1.88289
+   CHIN VWL, 1990, J APPL PHYS, V68, P3470, DOI 10.1063/1.347169
+   Dietl T, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.195205
+   Hayashi T, 1997, J CRYST GROWTH, V175, P1063, DOI 10.1016/S0022-0248(96)00937-2
+   HONIG RE, 1969, RCA REV, V30, P285
+   Ilegrams M., 1975, J APPL PHYS, V46, P3059, DOI 10.1063/1.321998
+   LIU X, 1995, APPL PHYS LETT, V67, P279, DOI 10.1063/1.114782
+   LOOK DC, 1991, J APPL PHYS, V70, P3148, DOI 10.1063/1.349295
+   MATUKURA F, 1998, PHYS REV B, V57, pR2037
+   MCGUIRE TR, 1980, HALL EFFECT ITS APPL, P149
+   MUNEKATA H, 1989, PHYS REV LETT, V63, P1849, DOI 10.1103/PhysRevLett.63.1849
+   MUNEKATA H, 1991, J CRYST GROWTH, V111, P1011, DOI 10.1016/0022-0248(91)91123-R
+   Ohno H, 1999, J MAGN MAGN MATER, V200, P110, DOI 10.1016/S0304-8853(99)00444-8
+   Ohno H, 1996, APPL PHYS LETT, V69, P363, DOI 10.1063/1.118061
+   OHNO H, 1992, PHYS REV LETT, V68, P2664, DOI 10.1103/PhysRevLett.68.2664
+   Oiwa A, 1997, SOLID STATE COMMUN, V103, P209, DOI 10.1016/S0038-1098(97)00178-6
+   Omiya T, 2000, PHYSICA E, V7, P976, DOI 10.1016/S1386-9477(00)00099-0
+   Shioda R, 1998, PHYS REV B, V58, P1100, DOI 10.1103/PhysRevB.58.1100
+   Slupinski T, 2002, J CRYST GROWTH, V237, P1326, DOI 10.1016/S0022-0248(01)02060-7
+   SMITH RA, 1978, SEMICONDUCTORS+, P86
+   Soo YL, 1996, PHYS REV B, V53, P4905, DOI 10.1103/PhysRevB.53.4905
+   Sze S. M., 1981, PHYSICS SEMICONDUCTO, P245
+   Van der Pauw L.J., 1958, Philips Research Reports, V13
+   WOODBURY DA, 1973, PHYS REV B, V8, P3803, DOI 10.1103/PhysRevB.8.3803
+   YAMANOUC.C, 1967, J PHYS SOC JPN, V22, P859, DOI 10.1143/JPSJ.22.859
+   Yu KM, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.201303
+   Yu KM, 2002, APPL PHYS LETT, V81, P844, DOI 10.1063/1.1496143
+NR 29
+TC 39
+Z9 39
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD APR 15
+PY 2003
+VL 93
+IS 8
+BP 4603
+EP 4609
+DI 10.1063/1.1559426
+PG 7
+WC Physics, Applied
+SC Physics
+GA 660YL
+UT WOS:000181863100034
+ER
+
+PT J
+AU Munekata, H
+   Oiwa, A
+   Mitsumori, Y
+   Moriya, R
+   Slupinski, T
+AF Munekata, H
+   Oiwa, A
+   Mitsumori, Y
+   Moriya, R
+   Slupinski, T
+TI Rotation of ferromagnetically coupled Mn spins in (Ga,Mn) as by hole
+   spins
+SO JOURNAL OF SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT PASPS Conference 2002
+CY JUL, 2002
+CL WURZBURG, GERMANY
+SP PASPS
+DE ferromagnetic alloy semiconductors; spin injection; collective
+   phenomenon
+ID DILUTE MAGNETIC SEMICONDUCTOR; ORGANIZATION; DYNAMICS; EPITAXY; MN)AS;
+   GAAS; (GA
+AB We present experimental data obtained from ferromagnetic p-(Ga,Mn) As layers that indicate the collective rotation of ferromagnetically coupled Mn spins by optically generated spin-polarized holes through the p-dexchange interaction. The rotation occurs reversibly between the in-plane and perpendicular directions, causing a large change in perpendicular magnetization without the application of a magnetic field. Pump-and-probe experiments suggest that the rotation of Mn spins take place in the picosecond time domain.
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Commun Res Labs, Tokyo 1848795, Japan.
+   Univ Warsaw, Inst Expt Phys, PL-00681 Warsaw, Poland.
+RP Munekata, H (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259 Nagatsuda, Yokohama, Kanagawa 2268503, Japan.
+RI Oiwa, Akira/E-8349-2012
+CR Akai H, 1998, PHYS REV LETT, V81, P3002, DOI 10.1103/PhysRevLett.81.3002
+   AWSCHALOM DD, 1985, PHYS REV LETT, V55, P1128, DOI 10.1103/PhysRevLett.55.1128
+   AWSCHALOM DD, 1987, PHYS REV LETT, V58, P812, DOI 10.1103/PhysRevLett.58.812
+   AWSCHALOM DD, 1991, PHYS REV LETT, V66, P1212, DOI 10.1103/PhysRevLett.66.1212
+   DIETL T, 1995, PHYS REV LETT, V74, P474, DOI 10.1103/PhysRevLett.74.474
+   Dietl T, 2000, SCIENCE, V287, P1019, DOI 10.1126/science.287.5455.1019
+   Dyakonov M. I., 1984, OPTICAL ORIENTATION, P11
+   GUPTA S, 1991, APPL PHYS LETT, V59, P3276, DOI 10.1063/1.105729
+   HURD CM, 1980, HALL EFFECT ITS APPL, P43
+   Inoue J, 2000, PHYS REV LETT, V85, P4610, DOI 10.1103/PhysRevLett.85.4610
+   KRENN H, 1985, PHYS REV LETT, V55, P1510, DOI 10.1103/PhysRevLett.55.1510
+   MACKH G, 1994, PHYS REV B, V49, P10248, DOI 10.1103/PhysRevB.49.10248
+   MISTUMORI Y, UNPUB
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   Okabayashi J, 1999, PHYS REV B, V59, P2486
+   Shen A, 1997, J CRYST GROWTH, V175, P1069, DOI 10.1016/S0022-0248(96)00967-0
+NR 16
+TC 1
+Z9 1
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0896-1107
+J9 J SUPERCOND
+JI J. Supercond.
+PD APR
+PY 2003
+VL 16
+IS 2
+BP 411
+EP 414
+DI 10.1023/A:1023610713684
+PG 4
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA 675TF
+UT WOS:000182711100042
+ER
+
+PT J
+AU Oiwa, A
+   Moriya, R
+   Mitsumori, Y
+   Slupinski, T
+   Munekata, H
+AF Oiwa, A
+   Moriya, R
+   Mitsumori, Y
+   Slupinski, T
+   Munekata, H
+TI Manifestation of local magnetic domain reversal by spin-polarized
+   carrier injection in (Ga,Mn)As thin films
+SO JOURNAL OF SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT PASPS Conference 2002
+CY JUL, 2002
+CL WURZBURG, GERMANY
+SP PASPS
+DE ferromagnetic semiconductors; spin injection; magnetization switching;
+   magnetic domain
+ID MOLECULAR-BEAM EPITAXY; CO/CU/CO PILLARS; SEMICONDUCTOR; GAAS
+AB Recently, we have reported that the spin-polarized holes generated by the irradiation with circularly polarized light can change the magnetization orientation of III-V ferromagnetic semiconductor (Ga,Mn)As via p-d exchange interaction. In this paper, we report that a small portion of change does not return to the initial state after the light is turned off. This residual component, named as the memorization effect, exhibits ferromagnetic characteristics. This fact strongly suggests that small magnetic domains having the perpendicular magnetic axis are rotated by photogenerated carrier spins.
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Commun Res Labs, Tokyo 1848795, Japan.
+   Univ Warsaw, Inst Expt Phys, PL-00681 Warsaw, Poland.
+RP Oiwa, A (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259 Nagatsuta, Yokohama, Kanagawa 2268503, Japan.
+RI Schaff, William/B-5839-2009; Oiwa, Akira/E-8349-2012
+CR AWSCHALOM DD, 1987, PHYS REV LETT, V58, P812, DOI 10.1103/PhysRevLett.58.812
+   Bussmann K, 1999, APPL PHYS LETT, V75, P2476, DOI 10.1063/1.125053
+   Dyakonov M. I., 1984, OPTICAL ORIENTATION, P11
+   Grollier J, 2001, APPL PHYS LETT, V78, P3663, DOI 10.1063/1.1374230
+   GUPTA S, 1991, APPL PHYS LETT, V59, P3276, DOI 10.1063/1.105729
+   Hayashi T, 1997, J CRYST GROWTH, V175, P1063, DOI 10.1016/S0022-0248(96)00937-2
+   Katine JA, 2000, PHYS REV LETT, V84, P3149, DOI 10.1103/PhysRevLett.84.3149
+   KRENN H, 1985, PHYS REV LETT, V55, P1510, DOI 10.1103/PhysRevLett.55.1510
+   KRENN H, 1989, PHYS REV B, V39, P10918, DOI 10.1103/PhysRevB.39.10918
+   Matsukura F, 1998, PHYS REV B, V57, pR2037, DOI 10.1103/PhysRevB.57.R2037
+   Ohno H, 1996, APPL PHYS LETT, V69, P363, DOI 10.1063/1.118061
+   Oiwa A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.137202, 10.1103/PhysRevLett.88.,137202]
+   Shen A, 1997, J CRYST GROWTH, V175, P1069, DOI 10.1016/S0022-0248(96)00967-0
+NR 13
+TC 4
+Z9 4
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0896-1107
+J9 J SUPERCOND
+JI J. Supercond.
+PD APR
+PY 2003
+VL 16
+IS 2
+BP 439
+EP 442
+DI 10.1023/A:1023675100481
+PG 4
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA 675TF
+UT WOS:000182711100049
+ER
+
+PT J
+AU Lee, H
+   Kang, TD
+   Park, YJ
+   Oh, HT
+   Cho, HY
+   Moriya, R
+   Munekata, H
+AF Lee, H
+   Kang, TD
+   Park, YJ
+   Oh, HT
+   Cho, HY
+   Moriya, R
+   Munekata, H
+TI Spectroscopic ellipsometric properties of Ga1-xFexAs dilute magnetic
+   semiconductors
+SO JOURNAL OF THE KOREAN PHYSICAL SOCIETY
+LA English
+DT Article; Proceedings Paper
+CT 11th Seoul International Symposium on the Physics of Semiconductors and
+   Applications
+CY AUG 20-23, 2002
+CL SEOUL, SOUTH KOREA
+SP AIXTRON AG, Epichem Inc, KODENSHI AUK, LG Electr Inst Technol, LUXPIA Co Ltd, Natl Program Tera Level Nanodevices, Thomas Swan Sci Equipment Ltd, Kyung Hee Univ, Adv Display Res Ctr, Sungkyunkwan Univ, Ctr Nanotubes & Nanostruct Composites, Dongguk Univ, Quantum Funct Semiconductor Res Ctr, Chonbuk Natl Univ, Semiconductor Phys Res Ctr
+DE dilute magnetic semiconductor; ellipsometry; dielectric function;
+   critical point; band structure
+ID TRANSITION; FE
+AB We report pseudodielectric function data < epsilon > = < epsilon(1) > + i < epsilon(2) > of Ga1-x FexAs semiconductors grown on GaAs substrates. The data were obtained front 1.5 to 6 eV using spectroscopic ellipsometry. Critical point (CP) parameters were obtained by fitting model lineshapes to numerically calculated second energy derivatives of < epsilon >. The bandgap energies of E-1, E-1 + Delta(I), E-0', and E-2 were determined. We observed an increase of the E-1 and E-1 + Delta(1) gap energy similar to that of ZnFexSe1-x. The linewidth of CPs increased with increasing Fe compositions. The band gap energy shifts were mainly attributed to the alloying effect because the strain effect on the band gap energies was negligible. We also discuss the band gap shift in terms of an sp-d hybridization model.
+C1 Kyung Hee Univ, Dept Phys, Suwon 449701, South Korea.
+   Kyung Hee Univ, Inst Nat Sci, Suwon 449701, South Korea.
+   Korea Inst Sci & Technol, Nano Device Res Ctr, Seoul 130650, South Korea.
+   Dongguk Univ, Dept Phys, Seoul 100715, South Korea.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Yokohama, Kanagawa 2268503, Japan.
+RP Lee, H (reprint author), Kyung Hee Univ, Dept Phys, Suwon 449701, South Korea.
+CR Aspnes D. E., 1980, HDB SEMICONDUCTORS, V2, P109
+   BISHOP SG, 1992, DEEP CTR SEMICONDUCT, P667
+   CARDONA M, 1969, MODULATION SPECTROSC, P65
+   Chang YH, 2001, J KOREAN PHYS SOC, V39, P324
+   Cohen M.L., 1989, ELECT STRUCTURE OPTI
+   GAO X, 1984, MATER RES SOC S P, V378, P213
+   Haneda S, 2000, JPN J APPL PHYS 2, V39, pL9, DOI 10.1143/JJAP.39.L9
+   Hsu TM, 1997, J APPL PHYS, V82, P2603, DOI 10.1063/1.366073
+   Kim HJ, 2002, J KOREAN PHYS SOC, V40, P1069
+   KIM YD, 1994, PHYS REV B, V49, P1732, DOI 10.1103/PhysRevB.49.1732
+   KIM YD, 1993, PHYS REV B, V48, P17770, DOI 10.1103/PhysRevB.48.17770
+   LAUTENSCHLAGER P, 1987, PHYS REV B, V36, P4821, DOI 10.1103/PhysRevB.36.4821
+   Melloch MR, 1996, CRIT REV SOLID STATE, V21, P189, DOI 10.1080/10408439608241256
+   PARK YJ, UNPUB CURRENT APPL P
+   SAVITZKY A, 1964, ANAL CHEM, V36, P1627, DOI 10.1021/ac60214a047
+   SCHUBERT EF, 1984, PHYS REV B, V30, P813, DOI 10.1103/PhysRevB.30.813
+   Soo YL, 2001, PHYS REV B, V63, part. no., DOI 10.1103/PhysRevB.63.195209
+   STEINIER J, 1972, ANAL CHEM, V44, P1906, DOI 10.1021/ac60319a045
+   Um YH, 2001, J KOREAN PHYS SOC, V39, P429
+NR 19
+TC 2
+Z9 2
+PU KOREAN PHYSICAL SOC
+PI SEOUL
+PA 635-4, YUKSAM-DONG, KANGNAM-KU, SEOUL 135-703, SOUTH KOREA
+SN 0374-4884
+J9 J KOREAN PHYS SOC
+JI J. Korean Phys. Soc.
+PD FEB
+PY 2003
+VL 42
+SU S
+BP S441
+EP S445
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 651TE
+UT WOS:000181337500082
+ER
+
+PT J
+AU Park, YJ
+   Oh, HT
+   Park, CJ
+   Cho, HY
+   Shon, Y
+   Kim, EK
+   Moriya, R
+   Munekata, H
+AF Park, YJ
+   Oh, HT
+   Park, CJ
+   Cho, HY
+   Shon, Y
+   Kim, EK
+   Moriya, R
+   Munekata, H
+TI Characteristics of molecular beam epitaxy-grown GaFeAs
+SO CURRENT APPLIED PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT Korea-China Joint Symposium on Smiconductor Physics and Device
+   Applications
+CY DEC 05-09, 2001
+CL SEOUL, SOUTH KOREA
+HO DONGGUK UNIV
+DE diluted magnetic semiconductors; deep level transient spectroscopy;
+   native defects; ferromagnetic ion
+ID GAAS; FE; HETEROSTRUCTURES
+AB Diluted magnetic semiconductors GaFeAs were grown by molecular beam epitaxy and characterized. Ga1-xFexAs ternary alloys were obtained at the growth temperature T-s = 200 degreesC ranging from x = 0.005 to 0.03. The effects of thermal treatment on behaviors of defects, affecting to the magnetic properties of GaFeAs layer were particularly elucidated. As-grown samples were annealed at temperatures varying from 400 to 600 degreesC. From the measurement of double crystal X-ray diffraction, we observed Fe-related peak which shifted to a higher diffraction angle as the Fe content increased, indicating that the lattice constant decreases with increasing Fe content. In contrast, above the annealing temperature 500 degreesC, the lattice constant becomes smaller than that of GaAs. Using the deep level transient spectroscopy, various defects in GaFeAs layer were observed and identified in conjunction with magnetic properties. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Korea Inst Sci & Technol, Semicond Mat Lab, Seoul 130650, South Korea.
+   Dongguk Univ, Dept Phys, Seoul 100715, South Korea.
+   Hanyang Univ, Dept Phys, Seoul 133791, South Korea.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Yokohama, Kanagawa 2268503, Japan.
+RP Park, YJ (reprint author), Korea Inst Sci & Technol, Semicond Mat Lab, POB 131, Seoul 130650, South Korea.
+CR GANT TA, 1992, APPL PHYS LETT, V60, P1453, DOI 10.1063/1.107268
+   Haneda S, 2000, J APPL PHYS, V87, P6445, DOI 10.1063/1.372733
+   Haneda S, 2001, PHYSICA E, V10, P437, DOI 10.1016/S1386-9477(01)00133-3
+   Hirose S, 2000, THIN SOLID FILMS, V371, P272, DOI 10.1016/S0040-6090(00)00999-8
+   KAMINSKA M, 1989, J VAC SCI TECHNOL B, V7, P710, DOI 10.1116/1.584630
+   MUNEKATA H, 1993, APPL PHYS LETT, V63, P2929, DOI 10.1063/1.110276
+   Ohno H, 2000, NATURE, V408, P944, DOI 10.1038/35050040
+   Ohno H, 2001, SOLID STATE COMMUN, V119, P281, DOI 10.1016/S0038-1098(01)00175-2
+   Ohno H, 1998, SCIENCE, V281, P951, DOI 10.1126/science.281.5379.951
+   SELTE K, 1972, ACTA CHEM SCAND, V26, P3101, DOI 10.3891/acta.chem.scand.26-3101
+   Zhu HJ, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.016601
+NR 11
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1567-1739
+J9 CURR APPL PHYS
+JI Curr. Appl. Phys.
+PD OCT
+PY 2002
+VL 2
+IS 5
+BP 379
+EP 382
+DI 10.1016/S1567-1739(02)00144-X
+PG 4
+WC Materials Science, Multidisciplinary; Physics, Applied
+SC Materials Science; Physics
+GA 616YH
+UT WOS:000179330900006
+ER
+
+PT J
+AU Moriya, R
+   Munekata, H
+   Kondo, T
+   Oiwa, A
+AF Moriya, R
+   Munekata, H
+   Kondo, T
+   Oiwa, A
+TI Preparation of quaternary magnetic alloy semiconductor epilayers (Ga,
+   Mn, Fe)As
+SO JOURNAL OF CRYSTAL GROWTH
+LA English
+DT Article; Proceedings Paper
+CT 13th International Conference on Crystal Growth held in conjunction with
+   the 11th International Conference on Vapor Growth and Epitaxy
+CY JUL 30-AUG 04, 2001
+CL KYOTO, JAPAN
+SP Sci Council Japan, Japan Soc Appl Phys, Japanese Assoc Crystal Growth, Fdn Promot Mat Sci & Technol Japan, Izumi Fdn Promot Sci & Engn, Kansai Res Fdn Technol Program, Murata Fdn Promot Sci & Engn, Doshisha Univ, Japan Soc Micrograv Applicat, Anritsu Corp, ASEC Inc, Canon Inc, Chichibu Fuji Co Ltd, Dai Ichi Kiden Co Ltd
+DE molecular beam epitaxy; alloys; semiconducting III-V materials; magnetic
+   materials
+ID HETEROSTRUCTURES; FERROMAGNETISM; FE
+AB This paper reports on the successful preparation of quaternary III-V-based magnetic alloy semiconductor layers (Ga,Mn,Fe)As by molecular beam epitaxy. Magnetic and electronic behavior suggest that the competition between ferromagnetic and antiferromagnetic spin exchange interactions takes place between incorporated magnetic atoms. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   KAST, Takatsu Ku, Kawasaki, Kanagawa 2130012, Japan.
+RP Moriya, R (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259 Nagatsuda, Yokohama, Kanagawa 2268503, Japan.
+RI Oiwa, Akira/E-8349-2012
+CR Haneda S, 2000, JPN J APPL PHYS 2, V39, pL9, DOI 10.1143/JJAP.39.L9
+   KLEVERMAN M, 1983, J APPL PHYS, V54, P814, DOI 10.1063/1.332040
+   Koshihara S, 1997, PHYS REV LETT, V78, P4617, DOI 10.1103/PhysRevLett.78.4617
+   Matsukura F, 1998, PHYS REV B, V57, pR2037, DOI 10.1103/PhysRevB.57.R2037
+   Munekata H, 1997, J APPL PHYS, V81, P4862, DOI 10.1063/1.364889
+   Ohno H, 2000, NATURE, V408, P944, DOI 10.1038/35050040
+   Sadowski J, 2000, J VAC SCI TECHNOL B, V18, P1697, DOI 10.1116/1.591455
+   Tanaka M, 1998, J VAC SCI TECHNOL B, V16, P2267, DOI 10.1116/1.590160
+NR 8
+TC 2
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-0248
+J9 J CRYST GROWTH
+JI J. Cryst. Growth
+PD APR
+PY 2002
+VL 237
+BP 1344
+EP 1348
+DI 10.1016/S0022-0248(01)02180-7
+PN Part 2
+PG 5
+WC Crystallography; Materials Science, Multidisciplinary; Physics, Applied
+SC Crystallography; Materials Science; Physics
+GA 567XU
+UT WOS:000176512900087
+ER
+
+PT J
+AU Oiwa, A
+   Mitsumori, Y
+   Moriya, R
+   Slupinski, T
+   Munekata, H
+AF Oiwa, A
+   Mitsumori, Y
+   Moriya, R
+   Slupinski, T
+   Munekata, H
+TI Effect of optical spin injection on ferromagnetically coupled Mn spins
+   in the III-V magnetic alloy semiconductor (Ga, Mn)As
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID MOLECULAR-BEAM EPITAXY; QUANTUM-WELLS; GAAS; SPECTROSCOPY; DYNAMICS;
+   HETEROSTRUCTURES; ORGANIZATION; (GA,MN)AS
+AB We report on the new type of photoinduced magnetization in ferromagnetic (Ga,Mn) thin films. Optically generated spin-polarized holes change the orientation of ferromagnetically coupled Mn spins and cause a large change in magnetization, being 15% of the saturation magnetization, without the application of a magnetic field. The memorization effect has also been found as a trace after the photoinduced magnetization. The observed results suggest that a small amount of nonequilibrium carrier spins can cause collective rotation of Mn spins presumably through the p-d exchange interaction.
+C1 Kanagawa Acad Sci & Technol, Takatsu Ku, Kawasaki, Kanagawa 2130012, Japan.
+   Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+RP Oiwa, A (reprint author), Kanagawa Acad Sci & Technol, Takatsu Ku, 3-2-1 Sakado, Kawasaki, Kanagawa 2130012, Japan.
+RI Schaff, William/B-5839-2009; Oiwa, Akira/E-8349-2012
+CR Abolfath M, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.054418
+   Akai H, 1998, PHYS REV LETT, V81, P3002, DOI 10.1103/PhysRevLett.81.3002
+   AWSCHALOM DD, 1985, PHYS REV LETT, V55, P1128, DOI 10.1103/PhysRevLett.55.1128
+   AWSCHALOM DD, 1987, PHYS REV LETT, V58, P812, DOI 10.1103/PhysRevLett.58.812
+   AWSCHALOM DD, 1991, PHYS REV LETT, V66, P1212, DOI 10.1103/PhysRevLett.66.1212
+   Bussmann K, 1999, APPL PHYS LETT, V75, P2476, DOI 10.1063/1.125053
+   DIETL T, 1995, PHYS REV LETT, V74, P474, DOI 10.1103/PhysRevLett.74.474
+   Dietl T, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.195205
+   Dietl T, 2000, SCIENCE, V287, P1019, DOI 10.1126/science.287.5455.1019
+   Dyakonov M. I., 1984, OPTICAL ORIENTATION, P11
+   Ganichev SD, 2000, APPL PHYS LETT, V77, P3146, DOI 10.1063/1.1326488
+   GUPTA S, 1991, APPL PHYS LETT, V59, P3276, DOI 10.1063/1.105729
+   Hayashi T, 1997, J CRYST GROWTH, V175, P1063, DOI 10.1016/S0022-0248(96)00937-2
+   Hurd C.M., 1980, Hall effect and its applications. Proceedings of the  commemorative symposium
+   Inoue J, 2000, PHYS REV LETT, V85, P4610, DOI 10.1103/PhysRevLett.85.4610
+   Katine JA, 2000, PHYS REV LETT, V84, P3149, DOI 10.1103/PhysRevLett.84.3149
+   Kise T, 2000, PHYS REV LETT, V85, P1986, DOI 10.1103/PhysRevLett.85.1986
+   Koshihara S, 1997, PHYS REV LETT, V78, P4617, DOI 10.1103/PhysRevLett.78.4617
+   KRENN H, 1985, PHYS REV LETT, V55, P1510, DOI 10.1103/PhysRevLett.55.1510
+   KRENN H, 1989, PHYS REV B, V39, P10918, DOI 10.1103/PhysRevB.39.10918
+   MACKH G, 1994, PHYS REV B, V49, P10248, DOI 10.1103/PhysRevB.49.10248
+   Matsukura F, 1998, PHYS REV B, V57, pR2037, DOI 10.1103/PhysRevB.57.R2037
+   MITSUMORI Y, UNPUB
+   Munekata H, 1997, J APPL PHYS, V81, P4862, DOI 10.1063/1.364889
+   Ohno H, 1999, J MAGN MAGN MATER, V200, P110, DOI 10.1016/S0304-8853(99)00444-8
+   Ohno H, 2000, NATURE, V408, P944, DOI 10.1038/35050040
+   Ohno H, 2001, SOLID STATE COMMUN, V117, P179, DOI 10.1016/S0038-1098(00)00436-1
+   Ohno H, 1998, APPL PHYS LETT, V73, P363, DOI 10.1063/1.121835
+   Ohno H, 1996, APPL PHYS LETT, V69, P363, DOI 10.1063/1.118061
+   Ohno H, 1998, SCIENCE, V281, P951, DOI 10.1126/science.281.5379.951
+   Oiwa A, 2001, APPL PHYS LETT, V78, P518, DOI 10.1063/1.1343497
+   Oiwa A, 2001, PHYSICA E, V10, P201, DOI 10.1016/S1386-9477(01)00082-0
+   Okabayashi J, 1999, PHYS REV B, V59, pR2486, DOI 10.1103/PhysRevB.59.R2486
+   Shen A, 1997, J CRYST GROWTH, V175, P1069, DOI 10.1016/S0022-0248(96)00967-0
+   Slonczewski JC, 1996, J MAGN MAGN MATER, V159, pL1, DOI 10.1016/0304-8853(96)00062-5
+NR 35
+TC 119
+Z9 120
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD APR 1
+PY 2002
+VL 88
+IS 13
+AR 137202
+DI 10.1103/PhysRevLett.88.,137202
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 533QR
+UT WOS:000174542200038
+ER
+
+PT J
+AU Moriya, R
+   Katsumata, Y
+   Takatani, Y
+   Haneda, S
+   Kondo, T
+   Munekata, H
+AF Moriya, R
+   Katsumata, Y
+   Takatani, Y
+   Haneda, S
+   Kondo, T
+   Munekata, H
+TI Preparation and magneto-optical property of highly-resistive (Ga,Fe)As
+   epilayers
+SO PHYSICA E
+LA English
+DT Article; Proceedings Paper
+CT 1st International Conference on the Physics and Applications of
+   Spin-Related Phenomena in Semiconductors (PASPS 2000)
+CY SEP 13-15, 2000
+CL SENDAI, JAPAN
+SP Tohoku Univ, Res Inst Elect Commun, Commemorat Assoc Japan World Exposit (1970), Sendai Tourism & Convent Bur, Murata Sci Fdn
+DE diluted magnetic semiconductors; iron; molecular beam epitaxy;
+   magneto-optical effect
+ID MOLECULAR-BEAM EPITAXY; GAAS; HETEROSTRUCTURES
+AB Preparation of (Ga,Fe)As has been studied systematically by molecular beam epitaxy for a wide range of substrate temperature T-s. It has been found that the physical properties of the epilayers can be classified into two different types depending on the T-s. Epitaxy at relatively low T-s ( T-s = 260 degreesC) has yielded homogeneous, paramagnetic Ga1-xFexAs epilayers, whereas epitaxy at higher temperatures (T-s = 350-580 degreesC) has resulted in GaAs epilayers with ferromagnetic inclusions. The layers prepared at high T-s have exhibited magneto-optical effect with ferromagnetic characteristics. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Japan Sci & Technol Corp, PRESTO, Kawaguchi, Japan.
+   Kanagawa Acad Sci & Technol, Kawasaki, Kanagawa, Japan.
+RP Munekata, H (reprint author), Tokyo Inst Technol, Imaging Sci & Engn Lab, Midori Ku, 4259 Nagatsuda, Yokohama, Kanagawa 2268503, Japan.
+CR Abe M, 1996, PHYS REV B, V53, P7065, DOI 10.1103/PhysRevB.53.7065
+   Akinaga H, 2000, APPL PHYS LETT, V76, P97, DOI 10.1063/1.125668
+   Ando K, 1998, J APPL PHYS, V83, P6548, DOI 10.1063/1.367780
+   BENCH MW, 1995, APPL PHYS LETT, V66, P2400, DOI 10.1063/1.113953
+   CHANG JCP, 1994, APPL PHYS LETT, V65, P2801, DOI 10.1063/1.112570
+   FUMAGALLI P, 1993, IEEE T MAGN, V29, P3411, DOI 10.1109/20.281179
+   Haneda S, 2000, JPN J APPL PHYS 2, V39, pL9, DOI 10.1143/JJAP.39.L9
+   Lepine B, 1998, J APPL PHYS, V83, P3077
+   Matsukura F, 1998, PHYS REV B, V57, pR2037, DOI 10.1103/PhysRevB.57.R2037
+   McInturff DT, 1996, APPL PHYS LETT, V69, P1885, DOI 10.1063/1.117466
+   MUNEKATA H, 1989, PHYS REV LETT, V63, P1849, DOI 10.1103/PhysRevLett.63.1849
+   MUNEKATA H, 1993, APPL PHYS LETT, V63, P2929, DOI 10.1063/1.110276
+   Shimizu H, 2000, J VAC SCI TECHNOL B, V18, P2063, DOI 10.1116/1.1303855
+   SOO YL, IN PRESS PHYS REV B
+NR 14
+TC 6
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1386-9477
+J9 PHYSICA E
+JI Physica E
+PD MAY
+PY 2001
+VL 10
+IS 1-3
+BP 224
+EP 228
+DI 10.1016/S1386-9477(01)00087-X
+PG 5
+WC Nanoscience & Nanotechnology; Physics, Condensed Matter
+SC Science & Technology - Other Topics; Physics
+GA 435VL
+UT WOS:000168902800047
+ER
+
+PT J
+AU Moriya, R
+   Uehara, T
+   Nomura, Y
+AF Moriya, R
+   Uehara, T
+   Nomura, Y
+TI Mechanism of nitric oxide-induced apoptosis in human neuroblastoma
+   SH-SY5Y cells
+SO FEBS LETTERS
+LA English
+DT Article
+DE nitric oxide; apoptosis; mitochondrion; caspase
+ID CYTOCHROME-C RELEASE; PERMEABILITY TRANSITION PORE; ACTIVATED
+   PROTEIN-KINASES; KAPPA-B ACTIVATION; CASPASE ACTIVATION; GLIOMA-CELLS;
+   ISOLATED-MITOCHONDRIA; ADP-RIBOSYLATION; BAX; INHIBITOR
+AB We have attempted to elucidate the precise mechanism of nitric oxide (NO)-induced apoptotic neuronal cell death. Enzymatic cleavages of DEVD-AFC, VDVAD-AFC, and LEHD-AFC (specific substrates for caspase-3-like protease (caspase-3 and -7), caspase-2, and caspase-9, respectively) were observed by treatment with NO. Western blot analysis showed that pro-forms of caspase-2, -3, -6, and -7 are decreased during apoptosis. Interestingly, Ac-DEVD-CHO, a caspase-3-like protease inhibitor, blocked not only the decreases in caspase-2 and -7, but also the formation of p17 from p20 in caspase-3 induced by NO, suggesting that caspase-3 exists upstream of caspase-2 and -7, Bongkrekic acid, a potent inhibitor of mitochondrial permeability transition, specifically blocked both the loss of mitochondrial membrane potential and subsequent DNA fragmentation in response to NO. Thus, NO results in neuronal apoptosis through the sequential loss of mitochondrial membrane potential, caspase activation, and degradation of inhibitor of caspase-activated DNase (CAD) (CAD activation), (C) 2000 Federation of European Biochemical Societies. Published by Elsevier Science B.V, All rights reserved.
+C1 Hokkaido Univ, Grad Sch Pharmaceut Sci, Dept Pharmacol, Sapporo, Hokkaido 0600812, Japan.
+RP Nomura, Y (reprint author), Hokkaido Univ, Grad Sch Pharmaceut Sci, Dept Pharmacol, Sapporo, Hokkaido 0600812, Japan.
+CR Araya R, 1998, FEBS LETT, V439, P168, DOI 10.1016/S0014-5793(98)01363-5
+   BECKMAN JS, 1990, P NATL ACAD SCI USA, V87, P1620, DOI 10.1073/pnas.87.4.1620
+   Bolanos JP, 1997, J NEUROCHEM, V68, P2227
+   BRUNE B, 1994, LIFE SCI, V54, P61, DOI 10.1016/0024-3205(94)00775-6
+   Cai JY, 1998, BBA-BIOENERGETICS, V1366, P139, DOI 10.1016/S0005-2728(98)00109-1
+   Chen WP, 1999, J IMMUNOL, V163, P2483
+   Clementi E, 1998, P NATL ACAD SCI USA, V95, P7631, DOI 10.1073/pnas.95.13.7631
+   Crompton M, 1999, BIOCHEM J, V341, P233, DOI 10.1042/0264-6021:3410233
+   Enari M, 1998, NATURE, V391, P43
+   Eskes R, 1998, J CELL BIOL, V143, P217, DOI 10.1083/jcb.143.1.217
+   Finucane DM, 1999, J BIOL CHEM, V274, P2225, DOI 10.1074/jbc.274.4.2225
+   Green DR, 1998, SCIENCE, V281, P1309, DOI 10.1126/science.281.5381.1309
+   Hortelano S, 1997, FEBS LETT, V410, P373, DOI 10.1016/S0014-5793(97)00623-6
+   Ito A, 1999, BBA-MOL CELL RES, V1452, P263, DOI 10.1016/S0167-4889(99)00131-7
+   Ito A, 2000, FEBS LETT, V470, P360, DOI 10.1016/S0014-5793(00)01351-X
+   Jurgensmeier JM, 1998, P NATL ACAD SCI USA, V95, P4997, DOI 10.1073/pnas.95.9.4997
+   Kharbanda S, 1997, P NATL ACAD SCI USA, V94, P6939, DOI 10.1073/pnas.94.13.6939
+   Kim CN, 1997, CANCER RES, V57, P3115
+   Kluck RM, 1997, EMBO J, V16, P4639, DOI 10.1093/emboj/16.15.4639
+   Kluck RM, 1997, SCIENCE, V275, P1132, DOI 10.1126/science.275.5303.1132
+   Krohn AJ, 1999, J NEUROSCI, V19, P7394
+   Kumar S, 1999, CELL DEATH DIFFER, V6, P1060, DOI 10.1038/sj.cdd.4400600
+   LANDER HM, 1995, J BIOL CHEM, V270, P21195
+   Lander HM, 1996, J BIOL CHEM, V271, P19705
+   LANDER HM, 1995, J BIOL CHEM, V270, P7017
+   Lander HM, 1997, J BIOL CHEM, V272, P4323
+   Li P, 1997, CELL, V91, P479, DOI 10.1016/S0092-8674(00)80434-1
+   Liu XS, 1996, CELL, V86, P147, DOI 10.1016/S0092-8674(00)80085-9
+   Lizasoain I, 1996, BIOCHEM J, V314, P877
+   Marzo I, 1998, SCIENCE, V281, P2027, DOI 10.1126/science.281.5385.2027
+   Melkova Z, 1997, FEBS LETT, V403, P273, DOI 10.1016/S0014-5793(97)00065-3
+   Narita M, 1998, P NATL ACAD SCI USA, V95, P14681, DOI 10.1073/pnas.95.25.14681
+   Nicholson DW, 1999, CELL DEATH DIFFER, V6, P1028, DOI 10.1038/sj.cdd.4400598
+   Nicholson DW, 1997, TRENDS BIOCHEM SCI, V22, P299, DOI 10.1016/S0968-0004(97)01085-2
+   NISHIYA T, 1995, FEBS LETT, V371, P333, DOI 10.1016/0014-5793(95)00933-Z
+   Nishiya T, 1997, FEBS LETT, V408, P33, DOI 10.1016/S0014-5793(97)00383-9
+   NOMURA Y, 1993, NEUROSCI RES, V18, P103, DOI 10.1016/0168-0102(93)90013-G
+   Pfeilschifter J, 1996, FEBS LETT, V396, P67, DOI 10.1016/0014-5793(96)01070-8
+   Priault M, 1999, EUR J BIOCHEM, V260, P684, DOI 10.1046/j.1432-1327.1999.00198.x
+   Sahara S, 1999, NATURE, V401, P168
+   Sakahira H, 1998, NATURE, V391, P96
+   Sakahira H, 1999, J BIOL CHEM, V274, P15740, DOI 10.1074/jbc.274.22.15740
+   Salvesen GS, 1999, P NATL ACAD SCI USA, V96, P10964, DOI 10.1073/pnas.96.20.10964
+   Shimizu S, 1999, NATURE, V399, P483
+   Shimizu S, 2000, P NATL ACAD SCI USA, V97, P577, DOI 10.1073/pnas.97.2.577
+   Susin SA, 1997, J EXP MED, V186, P25, DOI 10.1084/jem.186.1.25
+   Tanaka S, 2000, J BIOL CHEM, V275, P10388, DOI 10.1074/jbc.275.14.10388
+   Thornberry NA, 1998, SCIENCE, V281, P1312, DOI 10.1126/science.281.5381.1312
+   Uehara T, 1999, BRAIN RES, V823, P226, DOI 10.1016/S0006-8993(99)01178-6
+   Uehara T, 1999, J BIOL CHEM, V274, P15875, DOI 10.1074/jbc.274.22.15875
+   Wolf BB, 1999, J BIOL CHEM, V274, P20049, DOI 10.1074/jbc.274.29.20049
+   Yang J, 1997, SCIENCE, V275, P1129, DOI 10.1126/science.275.5303.1129
+   Zamzami N, 1996, FEBS LETT, V384, P53, DOI 10.1016/0014-5793(96)00280-3
+   ZHANG J, 1994, SCIENCE, V263, P687, DOI 10.1126/science.8080500
+   ZHANG J, 1992, P NATL ACAD SCI USA, V89, P9382, DOI 10.1073/pnas.89.20.9382
+   Zou H, 1997, CELL, V90, P405, DOI 10.1016/S0092-8674(00)80501-2
+NR 56
+TC 48
+Z9 52
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD NOV 10
+PY 2000
+VL 484
+IS 3
+BP 253
+EP 260
+DI 10.1016/S0014-5793(00)02167-0
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA 374BW
+UT WOS:000165325400017
+ER
+
+EF

@@ -1,0 +1,3756 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Okamoto, M
+   Hojo, Y
+   Inoue, K
+   Matsui, T
+   Kawato, S
+   McEwen, BS
+   Soya, H
+AF Okamoto, Masahiro
+   Hojo, Yasushi
+   Inoue, Koshiro
+   Matsui, Takashi
+   Kawato, Suguru
+   McEwen, Bruce S.
+   Soya, Hideaki
+TI Mild exercise increases dihydrotestosterone in hippocampus providing
+   evidence for androgenic mediation of neurogenesis
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE neurosteroid; exercise-induced neurogenesis; low intensity exercise; de
+   novo synthesis; paracrine
+ID MALE-RAT HIPPOCAMPUS; GROWTH-FACTOR-I; ADULT NEUROGENESIS; RUNNING
+   STRESS; NEURONS; BRAIN; 5-ALPHA-REDUCTASE; HYPOTHALAMUS; MODULATION;
+   ACTIVATION
+AB Mild exercise activates hippocampal neurons through the glutamatergic pathway and also promotes adult hippocampal neurogenesis (AHN). We hypothesized that such exercise could enhance local androgen synthesis and cause AHN because hippocampal steroid synthesis is facilitated by activated neurons via N-methyl-D-aspartate receptors. Here we addressed this question using a mild-intense treadmill running model that has been shown to be a potent AHN stimulator. A mass-spectrometric analysis demonstrated that hippocampal dihydrotestosterone increased significantly, whereas testosterone levels did not increase significantly after 2 wk of treadmill running in both orchidectomized (ORX) and sham castrated (Sham) male rats. Furthermore, analysis of mRNA expression for the two isoforms of 5 alpha-reductases (srd5a1, srd5a2) and for androgen receptor (AR) revealed that both increased in the hippocampus after exercise, even in ORX rats. All rats were injected twice with 5'-bromo-2'deoxyuridine (50 mg/kg body weight, i.p.) on the day before training. Mild exercise significantly increased AHN in both ORX and Sham rats. Moreover, the increase of doublecortin or 5'-bromo-2'deoxyuridine/NeuN-positive cells in ORX rats was blocked by s.c. flutamide, an AR antagonist. It was also found that application of an estrogen receptor antagonist, tamoxifen, did not suppress exercise-induced AHN. These results support the hypothesis that, in male animals, mild exercise enhances hippocampal synthesis of dihydrotestosterone and increases AHN via androgenenic mediation.
+C1 Rockefeller Univ, Neuroendocrinol Lab, New York, NY 10006 USA.
+   Univ Tsukuba, Fac Hlth & Sports Sci, Lab Exercise Biochem & Neuroendocrinol, Tsukuba, Ibaraki 3058574, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+RP McEwen, BS (reprint author), Rockefeller Univ, Neuroendocrinol Lab, New York, NY 10006 USA.
+EM mcewen@mail.rockefeller.edu; hsoya@taiiku.tsukuba.ac.jp
+FU Japan Society for the Promotion of Science [20300214, 23240091];
+   Ministry of Education, Culture, Sports, Science and Technology, Japan; 
+   [11J01243]
+FX We thank M. Iemitsu and K. Aizawa for technical support of real-time
+   quantitative PCR. This work was supported in part by Japan Society for
+   the Promotion of Science (Grants-in-aid for Scientific Research B
+   20300214 and A 23240091) and for the Body and Mind Integrated Sports
+   Sciences Project (2010-2013) of the Ministry of Education, Culture,
+   Sports, Science and Technology, Japan; and by a grant-in-aid for the
+   Japan Society for the Promotion of Science Fellows (11J01243). Masahiro
+   Okamoto and Takashi Matsui are both Research Fellows of the Japan
+   Society for the Promotion of Science.
+CR Burns JM, 2010, ARCH NEUROL-CHICAGO, V67, P428, DOI 10.1001/archneurol.2010.38
+   Cameron HA, 1996, RECEPTOR DYNAMICS NE, P141
+   Compagnone NA, 2000, FRONT NEUROENDOCRIN, V21, P1, DOI 10.1006/frne.1999.0188
+   Edinger KL, 2007, NEUROBIOL LEARN MEM, V87, P201, DOI 10.1016/j.nlm.2006.08.008
+   Feng Y, 2010, MOL CELL ENDOCRINOL, V321, P161, DOI 10.1016/j.mce.2010.02.029
+   Gage FH, 2000, SCIENCE, V287, P1433, DOI 10.1126/science.287.5457.1433
+   Galea LAM, 2006, HIPPOCAMPUS, V16, P225, DOI 10.1002/hipo.20154
+   Glasper ER, 2010, HIPPOCAMPUS, V20, P706, DOI 10.1002/hipo.20672
+   GOULD E, 1990, J NEUROSCI, V10, P1286
+   Hatanaka Y, 2009, BIOCHEM BIOPH RES CO, V381, P728, DOI 10.1016/j.bbrc.2009.02.130
+   Ho NF, 2009, BMC NEUROSCI, V10, DOI 10.1186/1471-2202-10-57
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Hojo Y, 2009, ENDOCRINOLOGY, V150, P5106, DOI 10.1210/en.2009-0305
+   Kempermann G, 2004, TRENDS NEUROSCI, V27, P447, DOI 10.1016/j.tins.2004.05.013
+   KERR JE, 1995, ENDOCRINOLOGY, V136, P3213, DOI 10.1210/en.136.8.3213
+   Kim SH, 2002, LIFE SCI, V71, P1331, DOI 10.1016/S0024-3205(02)01849-0
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   Konkle ATM, 2011, ENDOCRINOLOGY, V152, P223, DOI 10.1210/en.2010-0607
+   Kretz O, 2004, J NEUROSCI, V24, P5913, DOI 10.1523/JNEUROSCI.5186-03.2004
+   Kuwabara T, 2009, NAT NEUROSCI, V12, P1097, DOI 10.1038/nn.2360
+   Louissaint A, 2002, NEURON, V34, P945, DOI 10.1016/S0896-6273(02)00722-5
+   MacLusky NJ, 2006, NEUROSCIENCE, V138, P957, DOI 10.1016/j.neuroscience.2005.12.054
+   McIlwain H, 1985, BIOCH CENTRAL NERVOU
+   MELCANGI RC, 1993, ENDOCRINOLOGY, V132, P1252, DOI 10.1210/en.132.3.1252
+   Mitsushima D, 2009, J NEUROSCI, V29, P3808, DOI 10.1523/JNEUROSCI.5301-08.2009
+   Mohapel P, 2005, NEUROBIOL AGING, V26, P939, DOI 10.1016/j.neurobiolaging.2004.07.015
+   Mukai H, 2011, CEREB CORTEX, V21, P2704, DOI 10.1093/cercor/bhr059
+   Nguyen TV, 2010, J NEUROENDOCRINOL, V22, P1013, DOI 10.1111/j.1365-2826.2010.02044.x
+   Nishijima T, 2012, J APPL PHYSIOL, V112, P197, DOI 10.1152/japplphysiol.00763.2011
+   NORMINGTON K, 1992, J BIOL CHEM, V267, P19548
+   Okamoto M, 2011, FASEB J, V25, P3570, DOI 10.1096/fj.11-184697
+   PIEHL K, 1974, ACTA PHYSIOL SCAND, V90, P297, DOI 10.1111/j.1748-1716.1974.tb05592.x
+   Pignatelli D, 2006, J ENDOCRINOL, V191, P301, DOI 10.1677/joe.1.06972
+   Saito T, 2004, AM J PHYSIOL-REG I, V286, pR484, DOI 10.1152/ajpregu.00453.2003
+   Soya H, 2007, NEUROSCI RES, V58, P341, DOI 10.1016/j.neures.2007.04.004
+   Soya H, 2007, BIOCHEM BIOPH RES CO, V358, P961, DOI 10.1016/j.bbrc.2007.04.173
+   Spritzer MD, 2007, DEV NEUROBIOL, V67, P1321, DOI 10.1002/dneu.20457
+   Tabori NE, 2005, NEUROSCIENCE, V130, P151, DOI 10.1016/j.neuroscience.2004.08.048
+   Trejo JL, 2001, J NEUROSCI, V21, P1628
+   van Praag H, 2008, NEUROMOL MED, V10, P128, DOI 10.1007/s12017-008-8028-z
+   van Praag H, 1999, P NATL ACAD SCI USA, V96, P13427, DOI 10.1073/pnas.96.23.13427
+   WASSERMAN K, 1986, MED SCI SPORT EXER, V18, P344, DOI 10.1249/00005768-198606000-00017
+   Yang FJ, 2002, J BIOL CHEM, V277, P11336, DOI 10.1074/jbc.M111962200
+   Yao MZ, 2008, J NEUROCHEM, V105, P2477, DOI 10.1111/j.1471-4159.2008.05341.x
+NR 44
+TC 6
+Z9 6
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD AUG 7
+PY 2012
+VL 109
+IS 32
+BP 13100
+EP 13105
+DI 10.1073/pnas.1210023109
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 989HU
+UT WOS:000307551700055
+ER
+
+PT J
+AU Komatsuzaki, Y
+   Hatanaka, Y
+   Murakami, G
+   Mukai, H
+   Hojo, Y
+   Saito, M
+   Kimoto, T
+   Kawato, S
+AF Komatsuzaki, Yoshimasa
+   Hatanaka, Yusuke
+   Murakami, Gen
+   Mukai, Hideo
+   Hojo, Yasushi
+   Saito, Minoru
+   Kimoto, Tetsuya
+   Kawato, Suguru
+TI Corticosterone Induces Rapid Spinogenesis via Synaptic Glucocorticoid
+   Receptors and Kinase Networks in Hippocampus
+SO PLOS ONE
+LA English
+DT Article
+ID MALE-RAT HIPPOCAMPUS; CA3 PYRAMIDAL NEURONS; PROTEIN-KINASE; DENDRITIC
+   MORPHOLOGY; INHIBITOR; BRAIN; CORTACTIN; STRESS; PHOSPHORYLATION;
+   POTENTIATION
+AB Background: Modulation of dendritic spines under acute stress is attracting much attention. Exposure to acute stress induces corticosterone (CORT) secretion from the adrenal cortex, resulting in rapid increase of CORT levels in plasma and the hippocampus.
+   Methodology/Principal Findings: Here we demonstrated the mechanisms of rapid effect (similar to 1 h) of CORT on the density and morphology of spines by imaging neurons in adult male rat hippocampal slices. The application of CORT at 100-1000 nM induced a rapid increase in the density of spines of CA1 pyramidal neurons. The density of small-head spines (0.20.-0.4 mu m) was increased even at low CORT levels (100-200 nM). The density of middle-head spines (0.4-0.5 mu m) was increased at high CORT levels between 400-1000 nM. The density of large-head spines (0.5-1.0 mu m) was increased only at 1000 nM CORT. Co-administration of RU486, an antagonist of glucocorticoid receptor (GR), abolished the effect of CORT. Blocking a single kinase, such as MAPK, PKA, PKC or PI3K, suppressed CORT-induced enhancement of spinogenesis. Blocking NMDA receptors suppressed the CORT effect.
+   Conclusions/Significance: These results imply that stress levels of CORT (100-1000 nM) drive the spinogenesis via synaptic GR and multiple kinase pathways.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Tokyo, Japan.
+   Nihon Univ, Coll Sci & Technol, Dept Phys, Tokyo 101, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Bioinformat Project, Tokyo, Japan.
+   Nihon Univ, Grad Sch Integrated Basic, Dept Correlat Study Phys & Chem, Tokyo, Japan.
+RP Komatsuzaki, Y (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Tokyo, Japan.
+EM kawato@bio.c.u-tokyo.ac.jp
+FU Japan Science and Technology Agency
+FX This work was supported by Core Research for Evolutional Science and
+   Technology Project of Japan Science and Technology Agency,
+   Bioinformatics Project of Japan Science and Technology Agency. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Alfarez DN, 2009, HIPPOCAMPUS, V19, P828, DOI 10.1002/hipo.20566
+   Breuner CW, 2002, J ENDOCRINOL, V175, P99, DOI 10.1677/joe.0.1750099
+   Campbell DH, 1999, CANCER RES, V59, P5376
+   Chen YC, 2008, J NEUROSCI, V28, P2903, DOI 10.1523/JNEUROSCI.0225-08.2008
+   Chen YZ, 2001, NEWS PHYSIOL SCI, V16, P292
+   CHIJIWA T, 1990, J BIOL CHEM, V265, P5267
+   Croxtall JD, 2000, BRIT J PHARMACOL, V130, P289, DOI 10.1038/sj.bjp.0703272
+   Daly RJ, 2004, BIOCHEM J, V382, P13
+   DIAMOND DM, 1992, HIPPOCAMPUS, V2, P421, DOI 10.1002/hipo.450020409
+   Duan H, 2002, NEUROSCIENCE, V114, P349, DOI 10.1016/S0306-4522(02)00305-6
+   DUDLEY DT, 1995, P NATL ACAD SCI USA, V92, P7686, DOI 10.1073/pnas.92.17.7686
+   Ebner MJ, 2006, ENDOCRINOLOGY, V147, P179, DOI 10.1210/en.2005-1065
+   GSCHWENDT M, 1994, BIOCHEM BIOPH RES CO, V199, P93, DOI 10.1006/bbrc.1994.1199
+   Hatanaka Y, 2009, BIOCHEM BIOPH RES CO, V381, P728, DOI 10.1016/j.bbrc.2009.02.130
+   HERBERT JM, 1990, BIOCHEM BIOPH RES CO, V172, P993, DOI 10.1016/0006-291X(90)91544-3
+   Hering H, 2003, J NEUROSCI, V23, P11759
+   Higashi E, 2007, DRUG METAB DISPOS, V35, P508, DOI 10.1124/dmd.106.014084
+   Higo S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021631
+   Karst H, 2000, NAT NEUROSCI, V3, P977
+   Komatsuzaki Y, 2005, BIOCHEM BIOPH RES CO, V335, P1002, DOI 10.1016/j.bbrc.2005.07.173
+   Kopec CD, 2006, J NEUROSCI, V26, P2000, DOI 10.1523/JNEUROSCI.3918-05.2006
+   Limbourg FP, 2002, J CLIN INVEST, V110, P1729, DOI 10.1172/CJI200215481
+   Lupien SJ, 1997, BRAIN RES REV, V24, P1, DOI 10.1016/S0165-0173(97)00004-0
+   MacQueen GM, 2003, P NATL ACAD SCI USA, V100, P1387, DOI 10.1073/pnas.0337481100
+   Morales-Medina JC, 2009, J CHEM NEUROANAT
+   Morimoto M, 1996, NEUROSCI RES, V26, P235, DOI 10.1016/S0168-0102(96)01105-4
+   Mukai H, 2007, J NEUROCHEM, V100, P950, DOI 10.1111/j.1471-4159.2006.04264.x
+   Mukai H, 2011, CEREBRAL CO IN PRESS
+   Mukai H, 2006, NEUROENDOCRINOLOGY, V84, P255, DOI 10.1159/000097747
+   Ooishi Y, 2011, CEREBRAL CORTEX
+   PARDRIDGE WM, 1979, J CLIN INVEST, V64, P145, DOI 10.1172/JCI109433
+   Reagan LP, 1997, J CHEM NEUROANAT, V13, P149, DOI 10.1016/S0891-0618(97)00031-8
+   Revest JM, 2005, NAT NEUROSCI, V8, P664, DOI 10.1038/nn1441
+   Roozendaal B, 2002, EUR J NEUROSCI, V15, P553, DOI 10.1046/j.0953-816x.2001.01876.x
+   Sato S, 2004, BIOCHEM BIOPH RES CO, V321, P510, DOI 10.1016/j.bbrc.2004.06.168
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Shinohara Y, 2008, P NATL ACAD SCI USA, V105, P19498, DOI 10.1073/pnas.0807461105
+   Sorra KE, 2000, HIPPOCAMPUS, V10, P501, DOI 10.1002/1098-1063(2000)10:5<501::AID-HIPO1>3.0.CO;2-T
+   Sorrells SF, 2009, NEURON, V64, P33, DOI 10.1016/j.neuron.2009.09.032
+   Tsurugizawa T, 2005, BIOCHEM BIOPH RES CO, V337, P1345, DOI 10.1016/j.bbrc.2005.09.188
+   VLAHOS CJ, 1994, J BIOL CHEM, V269, P5241
+   WATANABE Y, 1992, BRAIN RES, V588, P341, DOI 10.1016/0006-8993(92)91597-8
+   Weed SA, 1998, J CELL SCI, V111, P2433
+   WIEDERRECHT G, 1993, ANN NY ACAD SCI, V696, P9
+   WOOLLEY CS, 1990, BRAIN RES, V531, P225, DOI 10.1016/0006-8993(90)90778-A
+NR 45
+TC 3
+Z9 3
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 11
+PY 2012
+VL 7
+IS 4
+AR e34124
+DI 10.1371/journal.pone.0034124
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 959TP
+UT WOS:000305336600020
+ER
+
+PT J
+AU Higo, S
+   Hojo, Y
+   Ishii, H
+   Komatsuzaki, Y
+   Ooishi, Y
+   Murakami, G
+   Mukai, H
+   Yamazaki, T
+   Nakahara, D
+   Barron, A
+   Kimoto, T
+   Kawato, S
+AF Higo, Shimpei
+   Hojo, Yasushi
+   Ishii, Hirotaka
+   Komatsuzaki, Yoshimasa
+   Ooishi, Yuuki
+   Murakami, Gen
+   Mukai, Hideo
+   Yamazaki, Takeshi
+   Nakahara, Daiichiro
+   Barron, Anna
+   Kimoto, Tetsuya
+   Kawato, Suguru
+TI Endogenous Synthesis of Corticosteroids in the Hippocampus
+SO PLOS ONE
+LA English
+DT Article
+ID MALE-RAT HIPPOCAMPUS; CENTRAL-NERVOUS-SYSTEM; 3-BETA-HYDROXYSTEROID
+   DEHYDROGENASE; PYRAMIDAL NEURONS; MESSENGER-RNA; STEROIDOGENIC ENZYMES;
+   SYNAPTIC PLASTICITY; GENE-EXPRESSION; ADRENAL-CORTEX; BRAIN
+AB Background: Brain synthesis of steroids including sex-steroids is attracting much attention. The endogenous synthesis of corticosteroids in the hippocampus, however, has been doubted because of the inability to detect deoxycorticosterone (DOC) synthase, cytochrome P450(c21).
+   Methodology/Principal Findings: The expression of P450(c21) was demonstrated using mRNA analysis and immmunogold electron microscopic analysis in the adult male rat hippocampus. DOC production from progesterone (PROG) was demonstrated by metabolism analysis of (3)H-steroids. All the enzymes required for corticosteroid synthesis including P450(c21), P450(2D4), P450(11 beta 1) and 3 beta-hydroxysteroid dehydrogenase (3 beta-HSD) were localized in the hippocampal principal neurons as shown via in situ hybridization and immunoelectron microscopic analysis. Accurate corticosteroid concentrations in rat hippocampus were determined by liquid chromatography-tandem mass spectrometry. In adrenalectomized rats, net hippocampus-synthesized corticosterone (CORT) and DOC were determined to 6.9 and 5.8 nM, respectively. Enhanced spinogenesis was observed in the hippocampus following application of low nanomolar (10 nM) doses of CORT for 1 h.
+   Conclusions/Significance: These results imply the complete pathway of corticosteroid synthesis of 'pregnenolone -> PROG -> DOC -> CORT' in the hippocampal neurons. Both P450(c21) and P450(2D4) can catalyze conversion of PROG to DOC. The low nanomolar level of CORT synthesized in hippocampal neurons may play a role in modulation of synaptic plasticity, in contrast to the stress effects by micromolar CORT from adrenal glands.
+C1 Univ Tokyo, Dept Biophys & Life Sci, Grad Sch Arts & Sci, Meguro Ku, Tokyo, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Core Res Evolut Sci & Technol Project, Meguro Ku, Tokyo, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Bioinformat Project, Meguro Ku, Tokyo, Japan.
+   Nihon Univ, Coll Sci & Technol, Dept Phys, Chiyoda Ku, Tokyo 101, Japan.
+   Hiroshima Univ, Lab Mol Brain Sci, Grad Sch Integrated Arts & Sci, Higashihiroshima 724, Japan.
+   Hamamatsu Univ Sch Med, Dept Psychol, Hamamatsu, Shizuoka 4313192, Japan.
+RP Higo, S (reprint author), Univ Tokyo, Dept Biophys & Life Sci, Grad Sch Arts & Sci, Meguro Ku, Tokyo, Japan.
+EM kawato@bio.c.u-tokyo.ac.jp
+RI Barron, Anna/C-6830-2011
+FU Japan Science and Technology Agency
+FX This work was supported by the Core Research for Evolutional Science and
+   Technology Project of Japan Science and Technology Agency, and the
+   Bioinformatics Project of Japan Science and Technology Agency. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Adams MM, 2002, J NEUROSCI, V22, P3608
+   Beyenburg S, 2001, NEUROSCI LETT, V308, P111, DOI 10.1016/S0304-3940(01)01991-7
+   Breuner CW, 2002, J ENDOCRINOL, V175, P99, DOI 10.1677/joe.0.1750099
+   Davies E, 2003, CLIN EXP PHARMACOL P, V30, P437, DOI 10.1046/j.1440-1681.2003.03867.x
+   DIAMOND DM, 1992, HIPPOCAMPUS, V2, P421, DOI 10.1002/hipo.450020409
+   DOODY KM, 1990, ENDOCRINOLOGY, V126, P2487
+   Do Rego JL, 2009, FRONT NEUROENDOCRIN, V30, P259, DOI 10.1016/j.yfrne.2009.05.006
+   Gago N, 2001, GLIA, V36, P295, DOI 10.1002/glia.1117
+   GomezSanchez CE, 1997, ENDOCRINOLOGY, V138, P3369, DOI 10.1210/en.138.8.3369
+   GomezSanchez CE, 1996, ENDOCR RES, V22, P463
+   Gomez-Sanchez EP, 2005, AM J PHYSIOL-ENDOC M, V288, pE342, DOI 10.1152/ajpendo.00355.2004
+   Guennoun R, 1997, EUR J NEUROSCI, V9, P2236, DOI 10.1111/j.1460-9568.1997.tb01642.x
+   Hassan AHS, 1996, EXP NEUROL, V140, P43, DOI 10.1006/exnr.1996.0113
+   Higo S, 2009, BIOCHEM BIOPH RES CO, V385, P62, DOI 10.1016/j.bbrc.2009.05.005
+   Hiroi T, 2001, ENDOCRINOLOGY, V142, P3901, DOI 10.1210/en.142.9.3901
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Hojo Y, 2009, ENDOCRINOLOGY, V150, P5106, DOI 10.1210/en.2009-0305
+   Hojo Y, 2008, MOL CELL ENDOCRINOL, V290, P31, DOI 10.1016/j.mce.2008.04.017
+   Ibanez C, 2003, ENDOCRINOLOGY, V144, P2902, DOI 10.1210/en.2002-0073
+   Ishida A, 2005, CELL METAB, V2, P297, DOI 10.1016/j.cmet.2005.09.009
+   Kawato S, 2002, METHOD ENZYMOL, V357, P241
+   Kimoto T, 2010, ENDOCRINOLOGY, V151, P5795, DOI 10.1210/en.2010-0581
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   Kishimoto W, 2004, ENDOCRINOLOGY, V145, P699, DOI 10.1210/en.2003-1109
+   Komatsuzaki Y, 2005, BIOCHEM BIOPH RES CO, V335, P1002, DOI 10.1016/j.bbrc.2005.07.173
+   MacKenzie SM, 2000, J MOL ENDOCRINOL, V24, P321, DOI 10.1677/jme.0.0240321
+   MCEWEN BS, 1986, PHYSIOL REV, V66, P1121
+   Mukai H, 2010, BBA-GEN SUBJECTS, V1800, P1030, DOI 10.1016/j.bbagen.2009.11.002
+   Mukai H, 2011, CEREBRAL CO IN PRESS
+   Mukai H, 2006, NEUROENDOCRINOLOGY, V84, P255, DOI 10.1159/000097747
+   Nakahara D, 2003, P NATL ACAD SCI USA, V100, P9584, DOI 10.1073/pnas.1631069100
+   OGISHIMA T, 1992, ENDOCRINOLOGY, V130, P2971, DOI 10.1210/en.130.5.2971
+   Furukawa A, 1998, J NEUROCHEM, V71, P2231
+   Pelletier G, 2004, MOL BRAIN RES, V125, P143, DOI 10.1016/j.molbrainres.2004.02.020
+   REIHELD CT, 1984, BRAIN RES BULL, V12, P349, DOI 10.1016/0361-9230(84)90102-3
+   REUL JMHM, 1985, ENDOCRINOLOGY, V117, P2505
+   Revest JM, 2005, NAT NEUROSCI, V8, P664, DOI 10.1038/nn1441
+   SAPOLSKY RM, 1985, J NEUROSCI, V5, P1222
+   Shinohara Y, 2008, P NATL ACAD SCI USA, V105, P19498, DOI 10.1073/pnas.0807461105
+   SHINZAWA K, 1988, J ENDOCRINOL, V119, P191, DOI 10.1677/joe.0.1190191
+   STAPLETON G, 1995, J BIOL CHEM, V270, P29739
+   STROMSTEDT M, 1995, MOL BRAIN RES, V34, P75, DOI 10.1016/0169-328X(95)00140-N
+   Tsurugizawa T, 2005, BIOCHEM BIOPH RES CO, V337, P1345, DOI 10.1016/j.bbrc.2005.09.188
+   Windle RJ, 1997, ENDOCRINOLOGY, V138, P3741, DOI 10.1210/en.138.9.3741
+   WOOLLEY CS, 1990, BRAIN RES, V531, P225, DOI 10.1016/0006-8993(90)90778-A
+   Ye P, 2008, J ENDOCRINOL, V196, P305, DOI [10.1677/JOE-07-0439, 10.1677/IOE-07-0439]
+NR 46
+TC 4
+Z9 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 185 BERRY ST, STE 1300, SAN FRANCISCO, CA 94107 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 28
+PY 2011
+VL 6
+IS 7
+AR e21631
+DI 10.1371/journal.pone.0021631
+PG 13
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 799KC
+UT WOS:000293284600006
+ER
+
+PT J
+AU Mukai, H
+   Kimoto, T
+   Hojo, Y
+   Kawato, S
+   Murakami, G
+   Higo, S
+   Hatanaka, Y
+   Ogiue-Ikeda, M
+AF Mukai, Hideo
+   Kimoto, Tetsuya
+   Hojo, Yasushi
+   Kawato, Suguru
+   Murakami, Gen
+   Higo, Shimpei
+   Hatanaka, Yusuke
+   Ogiue-Ikeda, Mari
+TI Modulation of synaptic plasticity by brain estrogen in the hippocampus
+SO BIOCHIMICA ET BIOPHYSICA ACTA-GENERAL SUBJECTS
+LA English
+DT Article
+DE Estradiol; Estrogen; Androgen; Neurosteroid; Synaptic plasticity;
+   Estrogen receptor; Hippocampus; Spine; LTD; LTP
+ID LONG-TERM POTENTIATION; MALE-RAT HIPPOCAMPUS; METHYL-D-ASPARTATE;
+   DENDRITIC SPINE DENSITY; CENTRAL-NERVOUS-SYSTEM; KAINATE-INDUCED
+   CURRENTS; PYRAMIDAL NEURONS; REPLACEMENT THERAPY; MASS-SPECTROMETRY;
+   AMPA RECEPTORS
+AB The hippocampus is a center for learning and memory as well as a target of Alzheimer's disease in aged humans. Synaptic modulation by estrogen is essential to understand the molecular mechanisms of estrogen replacement therapy. Because the local synthesis of estrogen occurs in the hippocampus of both sexes, in addition to the estrogen supply from the gonads, its functions are attracting much attention.
+   Hippocampal estrogen modulates memory-related synaptic plasticity not only slowly but also rapidly. Slow actions of 17 beta-estradiol (17 beta-E2) occur via classical nuclear receptors (ER alpha or ER beta), while rapid E2 actions occur via synapse-localized ER alpha or ER beta. Elevation or decrease of the E2 concentration changes rapidly the density and morphology of spines in CA1-CA3 neurons. ER alpha, but not ER beta, drives this enhancement/suppression of spinogenesis. Kinase networks are involved downstream of ER alpha. The long-term depression but not the long-term potentiation is modulated rapidly by changes of E2 level.
+   Determination of the E2 concentration in the hippocampus is enabled by mass-spectrometry in combination with derivatization methods. The E2 level in the hippocampus is as high as approx. 8 nM for the male and 0.5-2 nM for the female, which is much higher than that in circulation. Therefore, hippocampus-derived E2 plays a major role in modulation of synaptic plasticity.
+   Many hippocampal slice experiments measure the restorative effects of E2 by supplementation of E2 to E2-depleted slices. Accordingly, isolated slice experiments can be used as in vitro models of in vivo estrogen replacement therapy for ovariectomized female animals with depleted circulating estrogen. (C) 2009 Elsevier By. All rights reserved.
+C1 Univ Tokyo, Dept Biophys & Life Sci, Grad Sch Arts & Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Core Res Evolut Sci & Technol Project, Japan Sci & Technol Agcy, Tokyo 1538902, Japan.
+   Univ Tokyo, Bioinformat Project, Japan Sci & Technol Agcy, Tokyo 1538902, Japan.
+   Univ Tokyo, Project Special Coordinate Funds Promoting Sci &, Tokyo 1538902, Japan.
+RP Kawato, S (reprint author), Univ Tokyo, Dept Biophys & Life Sci, Grad Sch Arts & Sci, Meguro Ku, 3-8-1 Komaba, Tokyo 1538902, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Hojo, Yasushi/D-2964-2011
+CR Agis-Balboa RC, 2006, P NATL ACAD SCI USA, V103, P14602, DOI 10.1073/pnas.0606544103
+   Baldereschi M, 1998, NEUROLOGY, V50, P996
+   BALL GF, 2009, J CHEM NEUROANAT
+   Balthazart J, 2006, TRENDS NEUROSCI, V29, P241, DOI 10.1016/j.tins.2006.03.004
+   Balthazart J, 2000, TRENDS NEUROSCI, V23, P57, DOI 10.1016/S0166-2236(99)01514-3
+   BAUDE A, 1995, NEUROSCIENCE, V69, P1031, DOI 10.1016/0306-4522(95)00350-R
+   Baulieu EE, 1998, P NATL ACAD SCI USA, V95, P4089, DOI 10.1073/pnas.95.8.4089
+   Belcher SM, 2001, J PHARMACOL EXP THER, V299, P408
+   Beyenburg S, 2000, EPILEPSY RES, V41, P83, DOI 10.1016/S0920-1211(00)00130-3
+   Bi RF, 2000, P NATL ACAD SCI USA, V97, P3602, DOI 10.1073/pnas.060034497
+   Brailoiu E, 2007, J ENDOCRINOL, V193, P311, DOI 10.1677/JOE-07-0017
+   Brainard MS, 2002, NATURE, V417, P351, DOI 10.1038/417351a
+   Cardona-Gomez P, 2004, MOL CELL NEUROSCI, V25, P363, DOI 10.1016/j.mcn.2003.10.008
+   Collins P, 1999, NAT MED, V5, P1130, DOI 10.1038/13453
+   Cordoba Montoya D. A., 1997, Brain Research, V778, P430, DOI 10.1016/S0006-8993(97)01206-7
+   COUSE JF, 1995, MOL ENDOCRINOL, V9, P1441, DOI 10.1210/me.9.11.1441
+   Cyr M, 2000, J NEUROENDOCRINOL, V12, P445
+   Cyr M, 2001, BRAIN RES REV, V37, P153, DOI 10.1016/S0165-0173(01)00115-1
+   Dupont S, 2000, DEVELOPMENT, V127, P4277
+   Ebner MJ, 2006, ENDOCRINOLOGY, V147, P179, DOI 10.1210/en.2005-1065
+   Fester L, 2006, J NEUROCHEM, V97, P1136, DOI 10.1111/j.1471-4159.2006.03809.x
+   Foy MR, 1999, J NEUROPHYSIOL, V81, P925
+   Fritschy JM, 1998, J COMP NEUROL, V390, P194, DOI 10.1002/(SICI)1096-9861(19980112)390:2<194::AID-CNE3>3.3.CO;2-5
+   Fusani L, 2006, NEUROSCIENCE, V138, P939, DOI 10.1016/j.neuroscience.2005.08.041
+   Gazzaley AH, 1996, J NEUROSCI, V16, P6830
+   GOULD E, 1990, J NEUROSCI, V10, P1286
+   Gu Q, 1996, J NEUROSCI, V16, P3620
+   Gu Q, 1999, ENDOCRINOLOGY, V140, P660, DOI 10.1210/en.140.2.660
+   Harrington WR, 2003, MOL CELL ENDOCRINOL, V206, P13, DOI 10.1016/S0303-7207(03)00255-7
+   Hatanaka Y, 2009, BIOCHEM BIOPH RES CO, V381, P728, DOI 10.1016/j.bbrc.2009.02.130
+   Higashi T, 2003, BIOL PHARM BULL, V26, P709
+   Higo S, 2009, BIOCHEM BIOPH RES CO, V385, P62, DOI 10.1016/j.bbrc.2009.05.005
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Hojo Y, 2009, ENDOCRINOLOGY, V150, P5106, DOI 10.1210/en.2009-0305
+   Hojo Y, 2008, MOL CELL ENDOCRINOL, V290, P31, DOI 10.1016/j.mce.2008.04.017
+   Ibanez C, 2003, ENDOCRINOLOGY, V144, P2902, DOI 10.1210/en.2002-0073
+   Ishii H, 2007, NEUROSCIENTIST, V13, P323
+   Ito KI, 1999, J PHYSIOL-LONDON, V515, P209, DOI 10.1111/j.1469-7793.1999.209ad.x
+   Ivanova T, 2000, CELL TISSUE RES, V300, P231, DOI 10.1007/s004410000199
+   Kandel E. R., 2000, PRINCIPLES NEURAL SC
+   Kawas C, 1997, NEUROLOGY, V48, P1517
+   Kawato S, 2002, METHOD ENZYMOL, V357, P241
+   Kawato Suguru, 2004, Environ Sci, V11, P1
+   Kawato S, 2003, ADV BIOPHYS, V37, P1, DOI 10.1016/S0065-227X(03)80002-3
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   King SL, 2003, J NEUROSCI, V23, P3837
+   Komatsuzaki Y, 2005, BIOCHEM BIOPH RES CO, V335, P1002, DOI 10.1016/j.bbrc.2005.07.173
+   Kos M., 2002, Journal of Molecular Endocrinology, V29, P281, DOI 10.1677/jme.0.0290281
+   Kretz O, 2004, J NEUROSCI, V24, P5913, DOI 10.1523/JNEUROSCI.5186-03.2004
+   Lee HK, 1998, NEURON, V21, P1151, DOI 10.1016/S0896-6273(00)80632-7
+   Leranth C, 2000, NEUROSCIENCE, V101, P349, DOI 10.1016/S0306-4522(00)00369-9
+   Leranth C, 2003, J NEUROSCI, V23, P1588
+   Liere P, 2000, J CHROMATOGR B, V739, P301, DOI 10.1016/S0378-4347(99)00563-0
+   LISMAN J, 1989, P NATL ACAD SCI USA, V86, P9574, DOI 10.1073/pnas.86.23.9574
+   Liu SY, 2003, ANAL CHEM, V75, P5835, DOI 10.1021/ac0346297
+   MacLusky NJ, 2005, ENDOCRINOLOGY, V146, P287, DOI 10.1210/en.2004-0730
+   MacLusky NJ, 2004, ENDOCRINOLOGY, V145, P4154, DOI 10.1210/en.2004-0477
+   Meberg PJ, 1996, MOL BRAIN RES, V38, P179, DOI 10.1016/0169-328X(95)00229-L
+   MELLON SH, 1993, BRAIN RES, V629, P283, DOI 10.1016/0006-8993(93)91332-M
+   Mendez P, 2006, FRONT NEUROENDOCRIN, V27, P391, DOI 10.1016/j.yfrne.2006.09.001
+   Migaud M, 1998, NATURE, V396, P433
+   Milner TA, 2005, J COMP NEUROL, V491, P81, DOI 10.1002/cne.20724
+   MONAGHAN DT, 1983, NATURE, V306, P176, DOI 10.1038/306176a0
+   Mukai H, 2007, J NEUROCHEM, V100, P950, DOI 10.1111/j.1471-4159.2006.04264.x
+   Mukai H, 2006, NEUROENDOCRINOLOGY, V84, P255, DOI 10.1159/000097747
+   Mukai H, 2006, NEUROSCIENCE, V138, P757, DOI 10.1016/j.neuroscience.2005.09.010
+   Munetsuna E, 2009, ENDOCRINOLOGY, V150, P4260, DOI 10.1210/en.2008-1644
+   Murakami G, 2006, DRUG METAB REV, V38, P353, DOI 10.1080/03602530600724068
+   Murakami G, 2006, BIOCHEM BIOPH RES CO, V351, P553, DOI 10.1016/j.bbrc.2006.10.066
+   Murphy DD, 1996, J NEUROSCI, V16, P4059
+   Oberlander JG, 2004, HORM BEHAV, V45, P250, DOI 10.1016/j.yhbeh.2003.12.003
+   Ogiue-Ikeda M, 2008, BRAIN RES REV, V57, P363, DOI 10.1016/j.brainresrev.2007.06.010
+   Furukawa A, 1998, J NEUROCHEM, V71, P2231
+   PAPADOPOULOS V, 1993, ENDOCR REV, V14, P222, DOI 10.1210/er.14.2.222
+   Pedram A, 2006, MOL ENDOCRINOL, V20, P1996, DOI 10.1210/me.2005-0525
+   Pendaries C, 2002, P NATL ACAD SCI USA, V99, P2205, DOI 10.1073/pnas.042688499
+   Pozzo-Miller LD, 1999, J NEUROPHYSIOL, V81, P1404
+   Prange-Kiel J, 2008, J CELL BIOL, V180, P417, DOI 10.1083/jcb.200707043
+   Prange-Kiel J, 2006, HIPPOCAMPUS, V16, P464, DOI 10.1002/hipo.20173
+   Razandi M, 1999, MOL ENDOCRINOL, V13, P307, DOI 10.1210/me.13.2.307
+   Reid CA, 2001, J NEUROSCI, V21, P2206
+   Reid CA, 2002, EUR J PHARMACOL, V447, P173, DOI 10.1016/S0014-2999(02)01841-1
+   Remage-Healey L, 2008, NAT NEUROSCI, V11, P1327, DOI 10.1038/nn.2200
+   Revankar CM, 2005, SCIENCE, V307, P1625, DOI 10.1126/science.1106943
+   Sakamoto H, 2007, ENDOCRINOLOGY, V148, P5842, DOI 10.1210/en.2007-0436
+   Saldanha CJ, 2004, J COMP NEUROL, V469, P522, DOI 10.1002/cne.11035
+   SANNE JL, 1995, J NEUROCHEM, V65, P528
+   SCHLINGER BA, 1992, P NATL ACAD SCI USA, V89, P7650, DOI 10.1073/pnas.89.16.7650
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Shumaker SA, 2003, JAMA-J AM MED ASSOC, V289, P2651, DOI 10.1001/jama.289.20.2651
+   Smith CC, 2005, J NEUROSCI, V25, P7780, DOI 10.1523/JNEUROSCI.0762-05.2005
+   Smith CC, 2006, J NEUROSCI, V26, P8517, DOI 10.1523/JNEUROSCI.5279-05.2006
+   Takashima Akihiko, 2006, J Alzheimers Dis, V9, P309
+   TEYLER TJ, 1980, SCIENCE, V209, P1017, DOI 10.1126/science.7190730
+   Thomas P, 2005, ENDOCRINOLOGY, V146, P624, DOI 10.1210/en.2004-1064
+   Toran-Allerand CD, 1999, FRONT NEUROENDOCRIN, V20, P97, DOI 10.1006/frne.1999.0177
+   Tsurugizawa T, 2005, BIOCHEM BIOPH RES CO, V337, P1345, DOI 10.1016/j.bbrc.2005.09.188
+   Waring SC, 1999, NEUROLOGY, V52, P965
+   Warner M, 2006, STEROIDS, V71, P91, DOI 10.1016/j.steroids.2005.09.001
+   Wehrenberg U, 2001, J NEUROCHEM, V76, P1879, DOI 10.1046/j.1471-4159.2001.00207.x
+   WEILAND NG, 1992, ENDOCRINOLOGY, V131, P662, DOI 10.1210/en.131.2.662
+   Woolley CS, 1998, HORM BEHAV, V34, P140, DOI 10.1006/hbeh.1998.1466
+   WOOLLEY CS, 1992, J NEUROSCI, V12, P2549
+   WOOLLEY CS, 1990, BRAIN RES, V531, P225, DOI 10.1016/0006-8993(90)90778-A
+   WOOLLEY CS, 1994, J NEUROSCI, V14, P7680
+   Yamashita K, 2007, STEROIDS, V72, P819, DOI 10.1016/j.steroids.2007.07.003
+   Yang SN, 1999, J NEUROPHYSIOL, V81, P781
+NR 107
+TC 25
+Z9 26
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-4165
+J9 BBA-GEN SUBJECTS
+JI Biochim. Biophys. Acta-Gen. Subj.
+PD OCT
+PY 2010
+VL 1800
+IS 10
+SI SI
+BP 1030
+EP 1044
+DI 10.1016/j.bbagen.2009.11.002
+PG 15
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 651MW
+UT WOS:000281932800002
+ER
+
+PT J
+AU Nakajima, Y
+   Inaba, H
+   Hosaka, K
+   Minoshima, K
+   Onae, A
+   Yasuda, M
+   Kohno, T
+   Kawato, S
+   Kobayashi, T
+   Katsuyama, T
+   Hong, FL
+AF Nakajima, Yoshiaki
+   Inaba, Hajime
+   Hosaka, Kazumoto
+   Minoshima, Kaoru
+   Onae, Atsushi
+   Yasuda, Masami
+   Kohno, Takuya
+   Kawato, Sakae
+   Kobayashi, Takao
+   Katsuyama, Toshio
+   Hong, Feng-Lei
+TI A multi-branch, fiber-based frequency comb with millihertz-level
+   relative linewidths using an intra-cavity electro-optic modulator
+SO OPTICS EXPRESS
+LA English
+DT Article
+ID OPTICAL FREQUENCY; FEMTOSECOND LASER; TIMING JITTER; PHASE; NOISE;
+   PULSES; SYSTEM; GENERATION; AMPLIFIER
+AB We demonstrate that fiber-based frequency combs with multi-branch configurations can transfer both linewidth and frequency stability to another wavelength at the millihertz level. An intra-cavity electro-optic modulator is employed to obtain a broad servo bandwidth for repetition rate control. We investigate the relative linewidths between two combs using a stable continuous-wave laser as a common reference to stabilize the repetition rate frequencies in both combs. The achieved energy concentration to the carrier of the out-of-loop beat between the two combs was 99% and 30% at a bandwidth of 1 kHz and 7.6 mHz, respectively. The frequency instability of the comb was 3.7x10(-16) for a 1 s averaging time, improving to 5-8x10(-19) for 10000 s. We show that the frequency noise in the out-of-loop beat originates mainly from phase noise in branched optical fibers. (C) 2010 Optical Society of America
+C1 Univ Fukui, Fukui 9108507, Japan.
+   Natl Inst Adv Ind Sci & Technol, Natl Metrol Inst Japan, Tsukuba, Ibaraki 3058563, Japan.
+   Japan Sci & Technol Agcy, CREST, Kawaguchi, Saitama 3320012, Japan.
+RP Nakajima, Y (reprint author), Univ Fukui, 3-9-1 Bunkyo, Fukui 9108507, Japan.
+EM h.inaba@aist.go.jp
+FU New Energy and Industrial Technology Development Organization
+FX We thank M. Onishi, T. Sasaki, T. Okuno and M. Hirano of Sumitomo
+   Electronics Inc. for providing us with excellent highly nonlinear
+   fibers. Part of this work was supported by the "Grant for Industrial
+   Technology Research (financial support to young researchers)" program of
+   the New Energy and Industrial Technology Development Organization.
+CR Adler F, 2004, OPT EXPRESS, V12, P5872, DOI 10.1364/OPEX.12.005872
+   Adler F, 2007, OPT LETT, V32, P3504, DOI 10.1364/OL.32.003504
+   Bartels A, 2004, OPT LETT, V29, P1081, DOI 10.1364/OL.29.001081
+   Baumann E, 2009, OPT LETT, V34, P638, DOI 10.1364/OL.34.000638
+   Coddington I, 2007, NAT PHOTONICS, V1, P283, DOI 10.1038/nphoton.2007.71
+   Diddams SA, 2009, OPT EXPRESS, V17, P3331, DOI 10.1364/OE.17.003331
+   Dudley JM, 2002, OPT LETT, V27, P1180, DOI 10.1364/OL.27.001180
+   Hong FL, 2003, OPT LETT, V28, P1516, DOI 10.1364/OL.28.001516
+   HOSAKA K, IEEE T ULTR IN PRESS
+   Hudson DD, 2005, OPT LETT, V30, P2948, DOI 10.1364/OL.30.002948
+   Inaba H, 2006, OPT EXPRESS, V14, P5223, DOI 10.1364/OE.14.005223
+   Ivanov EN, 2003, IEEE T ULTRASON FERR, V50, P355, DOI 10.1109/TUFFC.2003.1197957
+   Jones DJ, 2000, SCIENCE, V288, P635, DOI 10.1126/science.288.5466.635
+   KIMURA Y, 1989, ELECTRON LETT, V25, P1656, DOI 10.1049/el:19891110
+   Kohno T, 2009, APPL PHYS EXPRESS, V2, DOI 10.1143/APEX.2.072501
+   MA LS, 1994, OPT LETT, V19, P1777, DOI 10.1364/OL.19.001777
+   Ma LS, 2004, SCIENCE, V303, P1843, DOI 10.1126/science.1095092
+   Martin MJ, 2009, OPT EXPRESS, V17, P558, DOI 10.1364/OE.17.000558
+   McFerran JJ, 2007, APPL PHYS B-LASERS O, V86, P219, DOI 10.1007/s00340-006-2426-4
+   Nakajima Y, 2008, OPT COMMUN, V281, P4484, DOI 10.1016/j.optcom.2008.04.062
+   NAKAZAWA M, 1990, APPL PHYS LETT, V57, P653, DOI 10.1063/1.104102
+   OATES CW, 2007, JOINT IEEE INT FREQ, P1274
+   Okuno T, 1999, IEEE J SEL TOP QUANT, V5, P1385, DOI 10.1109/2944.806765
+   Schibli TR, 2004, OPT LETT, V29, P2467, DOI 10.1364/OL.29.002467
+   Schibli TR, 2008, NAT PHOTONICS, V2, P355, DOI 10.1038/nphoton.2008.79
+   Sell A, 2009, OPT EXPRESS, V17, P1070, DOI 10.1364/OE.17.001070
+   Swann WC, 2006, OPT LETT, V31, P3046, DOI 10.1364/OL.31.003046
+   TAMURA K, 1993, OPT LETT, V18, P1080, DOI 10.1364/OL.18.001080
+   Tauser F, 2004, OPT LETT, V29, P516, DOI 10.1364/OL.29.000516
+   Tauser F, 2003, OPT EXPRESS, V11, P594
+   Udem T, 1999, PHYS REV LETT, V82, P3568, DOI 10.1103/PhysRevLett.82.3568
+   Washburn BR, 2004, OPT EXPRESS, V12, P2166, DOI 10.1364/OPEX.12.002166
+   Webster SA, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.033847
+   Young BC, 1999, PHYS REV LETT, V82, P3799, DOI 10.1103/PhysRevLett.82.3799
+NR 34
+TC 26
+Z9 27
+PU OPTICAL SOC AMER
+PI WASHINGTON
+PA 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA
+SN 1094-4087
+J9 OPT EXPRESS
+JI Opt. Express
+PD JAN 18
+PY 2010
+VL 18
+IS 2
+BP 1667
+EP 1676
+PG 10
+WC Optics
+SC Optics
+GA 547BP
+UT WOS:000273860400136
+ER
+
+PT J
+AU Higo, S
+   Hojo, Y
+   Ishii, H
+   Kominami, T
+   Nakajima, K
+   Poirier, D
+   Kimoto, T
+   Kawato, S
+AF Higo, Shimpei
+   Hojo, Yasushi
+   Ishii, Hirotaka
+   Kominami, Toshihiro
+   Nakajima, Kohei
+   Poirier, Donald
+   Kimoto, Tetsuya
+   Kawato, Suguru
+TI Comparison of sex-steroid synthesis between neonatal and adult rat
+   hippocampus
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Estradiol; Testosterone; Hippocampus
+ID ESTROGEN SYNTHESIS; SYNAPTIC PLASTICITY; BRAIN; EXPRESSION; AROMATASE;
+   NEURONS; ENZYMES; NEUROSTEROIDOGENESIS; CYTOCHROME-P450; BIOSYNTHESIS
+AB Sex-steroid synthesis in the hippocampus had been thought to be much more active at the neonatal stage than at the adult stage. However, the detailed comparison between these two stages had not been demonstrated yet. Here we performed the comparison about the mRNA level of steroidogenic enzymes and the rate of steroid metabolism between these two stages of the hippocampus. The relative expression level of P450(17 alpha), 17 beta- or 3 beta-hydroxysteroid dehydrogenase, or P450arom was approximately 1.3-1.5-fold higher at the neonatal than at the adult stage. The rate of sex-steroid metabolism (from dehydroepiandrosterone to estradiol) was 2-7-fold (depending on different steps) more rapid at the neonatal than at the adult stage. Taken together, neonatal steroidogenesis is moderately more active than adult steroidogenesis. (C) 2009 Elsevier Inc. All rights reserved.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Core Res Evolut Sci & Technol Project, Tokyo 1138654, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Bioinformat Project, Tokyo 1138654, Japan.
+   Univ Quevec Que, Ctr Hosp, Oncol & Mol Endocrinol Res Ctr, Div Med Chem, Quebec City, PQ G1V 4G2, Canada.
+RP Kawato, S (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, 3-8-1 Komaba, Tokyo 1538902, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Hojo, Yasushi/D-2964-2011
+FU Japan Society for the Promotion of Science
+FX We are grateful to Prof. N. Harada (Fujita Health Univ.) for P450arom
+   antibody, and Prof. T. Yamazaki (Hiroshima Univ.) for P450(17 alpha)
+   antibody. S.H. was supported by the Japan Society for the Promotion of
+   Science research fellowships for young scientist (JSPS Research Fellow).
+   M. Fujiwara and M. Watanabe (Univ. of Tokyo) are acknowledged for
+   technical assistance. Aska Pharma Medical is a new name of previous
+   Teikoku Hormone Research Center.
+CR Amateau SK, 2004, ENDOCRINOLOGY, V145, P2906, DOI 10.1210/en.2003-1363
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Hojo Y, 2008, MOL CELL ENDOCRINOL, V290, P31, DOI 10.1016/j.mce.2008.04.017
+   Ibanez C, 2003, ENDOCRINOLOGY, V144, P2902, DOI 10.1210/en.2002-0073
+   Ivanova T, 2000, CELL TISSUE RES, V300, P231, DOI 10.1007/s004410000199
+   JAKAB RL, 1993, J STEROID BIOCHEM, V44, P481, DOI 10.1016/0960-0760(93)90253-S
+   Kawato S, 2002, METHOD ENZYMOL, V357, P241
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   Kohchi C, 1998, BRAIN RES, V801, P233, DOI 10.1016/S0006-8993(98)00585-X
+   Kretz O, 2004, J NEUROSCI, V24, P5913, DOI 10.1523/JNEUROSCI.5186-03.2004
+   LAUBER ME, 1994, ENDOCRINOLOGY, V135, P1661, DOI 10.1210/en.135.4.1661
+   Maltais R, 2002, J MED CHEM, V45, P640, DOI 10.1021/jm010286y
+   MELLON SH, 1993, BRAIN RES, V629, P283, DOI 10.1016/0006-8993(93)91332-M
+   Mensah-Nyagan AG, 1999, PHARMACOL REV, V51, P63
+   Mukai H, 2006, NEUROENDOCRINOLOGY, V84, P255, DOI 10.1159/000097747
+   Murakami G, 2006, DRUG METAB REV, V38, P353, DOI 10.1080/03602530600724068
+   Reddy DS, 2004, NEUROREPORT, V15, P515, DOI 10.1097/01.wnr.0000113064.17279.32
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   SHINZAWA K, 1988, J ENDOCRINOL, V119, P191, DOI 10.1677/joe.0.1190191
+   Ukena K, 1999, ENDOCRINOLOGY, V140, P805, DOI 10.1210/en.140.2.805
+   Zwain IH, 1999, ENDOCRINOLOGY, V140, P3843, DOI 10.1210/en.140.8.3843
+NR 21
+TC 6
+Z9 6
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD JUL 17
+PY 2009
+VL 385
+IS 1
+BP 62
+EP 66
+DI 10.1016/j.bbrc.2009.05.005
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 457BC
+UT WOS:000266898800012
+ER
+
+PT J
+AU Hatanaka, Y
+   Mukai, H
+   Mitsuhashi, K
+   Hojo, Y
+   Murakami, G
+   Komatsuzaki, Y
+   Sato, R
+   Kawato, S
+AF Hatanaka, Yusuke
+   Mukai, Hideo
+   Mitsuhashi, Kenji
+   Hojo, Yasushi
+   Murakami, Gen
+   Komatsuzaki, Yoshimasa
+   Sato, Rei
+   Kawato, Suguru
+TI Androgen rapidly increases dendritic thorns of CA3 neurons in male rat
+   hippocampus
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Androgen; DHT; Testosterone; Spine; Thorn; CA3; Hippocampus; Synaptic
+   plasticity
+ID SPINE SYNAPTIC DENSITY; HORMONAL-REGULATION; ESTROGEN SYNTHESIS;
+   PYRAMIDAL NEURONS; GONADAL-STEROIDS; DENTATE GYRUS; MOSSY FIBERS;
+   PLASTICITY; MEMORY; BRAIN
+AB Modulation of hippocampal synaptic plasticity by androgen has been attracting much attention. Thorns of thorny excrescences of CA3 hippocampal neurons are post-synaptic regions whose presynaptic partners are mossy fiber terminals. Here we demonstrated rapid effects of dihydrotestosterone (DHT) and testosterone (T) on the density of thorns, by imaging Lucifer Yellow-injected neurons in adult male rat hippocampal slices. The application of 10 nM DHT or T induced rapid increase in the density of thorns within 2 h. The androgen-mediated increase was suppressed by blocking several kinases, such as Erk MAPK p38 MAPK PKC. and CaMKII. On the other hand, PKA, PI3K were not involved in the signaling of thorn-genesis. The increase in the thorn density by androgen was also blocked by the inhibitor of classical androgen receptor. Almost no difference was observed between DHT and T in the effect on the thorn density. We observed that the androgen-induced thorn-genesis is opposite to estrogen-induced thorn-degeneration. (C) 2009 Elsevier Inc. All rights reserved.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Core Res Evolut Sci & Technol Project, Tokyo 1538902, Japan.
+   Univ Tokyo, Japan Sci & Technol Agcy, Bioinformat Project, Tokyo 1538902, Japan.
+RP Kawato, S (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, 3-8-1 Komaba, Tokyo 1538902, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Hojo, Yasushi/D-2964-2011; Mukai, Hideo/D-7261-2011
+CR AMARAL DG, 1981, J COMP NEUROL, V195, P51, DOI 10.1002/cne.901950106
+   AMARAL DG, 1990, PROG BRAIN RES, V83, P1
+   AMARAL DG, 1978, J COMP NEUROL, V182, P851, DOI 10.1002/cne.901820508
+   BENNETT MR, 1994, PHILOS T ROY SOC B, V343, P167, DOI 10.1098/rstb.1994.0019
+   BROWN TH, 1983, J NEUROPHYSIOL, V50, P487
+   CHICUREL ME, 1992, J COMP NEUROL, V325, P169, DOI 10.1002/cne.903250204
+   CLAIBORNE BJ, 1986, J COMP NEUROL, V246, P435, DOI 10.1002/cne.902460403
+   Duan H, 2002, NEUROSCIENCE, V114, P349, DOI 10.1016/S0306-4522(02)00305-6
+   GOULD E, 1990, J NEUROSCI, V10, P1286
+   Henze DA, 2000, NEUROSCIENCE, V98, P407, DOI 10.1016/S0306-4522(00)00146-9
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Hojo Y, 2008, MOL CELL ENDOCRINOL, V290, P31, DOI 10.1016/j.mce.2008.04.017
+   Isgor C, 2003, J NEUROBIOL, V55, P179, DOI 10.1002/neu.10200
+   Ishii H, 2007, NEUROSCIENTIST, V13, P323
+   KERR JE, 1995, ENDOCRINOLOGY, V136, P3213, DOI 10.1210/en.136.8.3213
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   Kovacs EG, 2003, NEUROSCIENCE, V122, P807, DOI 10.1016/j.neuroscience.2003.08.046
+   Leranth C, 2003, J NEUROSCI, V23, P1588
+   MacLusky NJ, 2006, ENDOCRINOLOGY, V147, P2392, DOI 10.1210/en.2005-0673
+   Mukai H, 2006, NEUROENDOCRINOLOGY, V84, P255, DOI 10.1159/000097747
+   Mukai H, 2006, NEUROSCIENCE, V138, P757, DOI 10.1016/j.neuroscience.2005.09.010
+   Murakami G, 2006, DRUG METAB REV, V38, P353, DOI 10.1080/03602530600724068
+   Ogiue-Ikeda M, 2008, BRAIN RES REV, V57, P363, DOI 10.1016/j.brainresrev.2007.06.010
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Stewart MG, 2005, NEUROSCIENCE, V131, P43, DOI 10.1016/j.neuroscience.2004.10.031
+   Tabori NE, 2005, NEUROSCIENCE, V130, P151, DOI 10.1016/j.neuroscience.2004.08.048
+   Tsurugizawa T, 2005, BIOCHEM BIOPH RES CO, V337, P1345, DOI 10.1016/j.bbrc.2005.09.188
+   WOOLLEY CS, 1990, J NEUROSCI, V10, P4035
+   WOOLLEY CS, 1992, J NEUROSCI, V12, P2549
+   Xiao L, 2002, HORM BEHAV, V42, P327, DOI 10.1006/hbeh.2002.1822
+NR 30
+TC 17
+Z9 19
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD APR 17
+PY 2009
+VL 381
+IS 4
+BP 728
+EP 732
+DI 10.1016/j.bbrc.2009.02.130
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 429OG
+UT WOS:000264929400052
+ER
+
+PT J
+AU Munetsuna, E
+   Hattori, M
+   Komatsu, S
+   Sakimoto, Y
+   Ishida, A
+   Sakata, S
+   Hojo, Y
+   Kawato, S
+   Yamazaki, T
+AF Munetsuna, Eiji
+   Hattori, Minoru
+   Komatsu, Shota
+   Sakimoto, Yuya
+   Ishida, Atsuhiko
+   Sakata, Shogo
+   Hojo, Yasushi
+   Kawato, Suguru
+   Yamazaki, Takeshi
+TI Social isolation stimulates hippocampal estradiol syntheses
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Estradiol; Hippocampus; Neurosteroid; Social isolation; P450arom; StAR;
+   Real-time RT-PCR; Molecular psychology
+ID ESTROGEN SYNTHESIS; NEUROSTEROID BIOSYNTHESIS; DOWN-REGULATION; BRAIN;
+   STRESS; AROMATASE; EXPRESSION; RECEPTOR; NEURONS; MEMORY
+AB 17 beta-Estradiol is synthesized de novo in the rat hippocampus. However, the regulatory mechanism of hippocampal estradiol synthesis has remained unclear. We investigated the effects of social isolation on rat hippocampal estradiol synthesis. Rats were divided into two groups: social isolation and pair housed group. Socially isolated rats were housed individually while pair housed rats were housed two per cage for 8 weeks. Social isolation activated the transcription of neurosteroidogenic molecules, including steroidogenic acute regulatory protein (StAR) and CYP19 (cytochrome P450arom). These two molecules are involved in the regulatory Step for steroidogenesis and final step of estradiol synthesis. In contrast, the mRNA levels were not affected in rat olfactory bulb. The hippocampal estradiol content was increased in accordance with the increased mRNA levels. The hippocampal estradiol content exhibited correlations with the StAR and P450arom mRNA levels. These data suggest that social isolation may enhance de novo estradiol synthesis in the hippocampus. (C) 2008 Elsevier Inc. All rights reserved.
+C1 Hiroshima Univ, Grad Sch Integrated Arts & Sci, Lab Mol Brain Sci, Higashihiroshima 7398521, Japan.
+   Hiroshima Univ, Grad Sch Integrated Arts & Sci, Dept Behav Sci, Higashihiroshima 7398521, Japan.
+   Univ Tokyo, Core Res Evolut Sci & Technol Project, Japan Sci & Technol Agcy, Univ Tokyo Komaba,Grad Sch Arts & Sci,Dept Biophy, Tokyo 1538902, Japan.
+RP Yamazaki, T (reprint author), Hiroshima Univ, Grad Sch Integrated Arts & Sci, Lab Mol Brain Sci, 1-7-1 Kagamiyama, Higashihiroshima 7398521, Japan.
+EM takey@hiroshima-u.ac.jp
+RI Hojo, Yasushi/D-2964-2011
+FU Training Program for Research Managers in Integrated Arts and Sciences,
+   Hiroshima University; Sumitomo Foundation
+FX This work was supported in part by the Training Program for Research
+   Managers in Integrated Arts and Sciences, Hiroshima University, and the
+   Sumitomo Foundation.
+CR Agis-Balboa RC, 2007, P NATL ACAD SCI USA, V104, P18736, DOI 10.1073/pnas.0709419104
+   Alquicer G, 2008, J CHEM NEUROANAT, V35, P179, DOI 10.1016/j.jchemneu.2007
+   Azcoitia I, 2001, J NEUROBIOL, V47, P318, DOI 10.1002/neu.1038
+   Barrientos RM, 2003, NEUROSCIENCE, V121, P847, DOI 10.1016/S0306-4522(03)00564-5
+   Baulieu EE, 1997, RECENT PROG HORM RES, V52, P1
+   Blanchard RJ, 2001, PHYSIOL BEHAV, V73, P261, DOI 10.1016/S0031-9384(01)00449-8
+   Brann DW, 2007, STEROIDS, V72, P381, DOI 10.1016/j.steroids.2007.02.003
+   Choy KHC, 2008, HIPPOCAMPUS, V18, P655, DOI 10.1002/hipo.20425
+   Compagnone NA, 2000, FRONT NEUROENDOCRIN, V21, P1, DOI 10.1006/frne.1999.0188
+   Crochemore C, 2005, MOL PSYCHIATR, V10, P790, DOI 10.1038/sj.mp.4001679
+   Fester L, 2006, J NEUROCHEM, V97, P1136, DOI 10.1111/j.1471-4159.2006.03809.x
+   Fone KCF, 2008, NEUROSCI BIOBEHAV R, V32, P1087, DOI 10.1016/j.neubiorev.2008.03.003
+   Garcia-Segura LM, 1999, NEUROSCIENCE, V89, P567, DOI 10.1016/S0306-4522(98)00340-6
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Hojo Y, 2008, MOL CELL ENDOCRINOL, V290, P31, DOI 10.1016/j.mce.2008.04.017
+   Ibi D, 2008, J NEUROCHEM, V105, P921, DOI 10.1111/j.1471-4159.2007.05207.x
+   Kretz O, 2004, J NEUROSCI, V24, P5913, DOI 10.1523/JNEUROSCI.5186-03.2004
+   Lavaque E, 2006, J NEUROBIOL, V66, P308, DOI 10.1002/neu.20221
+   McEwen B, 2002, RECENT PROG HORM RES, V57, P357, DOI 10.1210/rp.57.1.357
+   Papadopoulos V, 2006, NEUROSCIENCE, V138, P749, DOI 10.1016/j.neuroscience.2005.05.063
+   Pibiri F, 2008, P NATL ACAD SCI USA, V105, P5567, DOI 10.1073/pnas.0801853105
+   Prange-Kiel J, 2003, HIPPOCAMPUS, V13, P226, DOI 10.1002/hipo.10075
+   Saleh TM, 2005, NEUROSCIENCE, V135, P1141, DOI 10.1016/j.neuroscience.2005.06.061
+   Sapolsky RM, 1996, SCIENCE, V273, P749, DOI 10.1126/science.273.5276.749
+   Takuma K, 2007, NEUROSCIENCE, V146, P60, DOI 10.1016/j.neuroscience.2007.01.017
+   Veiga S, 2005, NEUROREPORT, V16, P1599, DOI 10.1097/01.wnr.0000179081.39659.7d
+   Weiss IC, 2004, BEHAV BRAIN RES, V152, P279, DOI 10.1016/j.bbr.2003.10.015
+   Yamazaki T, 2005, STEROIDS, V70, P913, DOI 10.1016/j.steroids.2005.06.005
+   Zhou LP, 2007, EXP NEUROL, V203, P72, DOI 10.1016/j.expneurol.2006.07.020
+NR 29
+TC 7
+Z9 7
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD FEB 6
+PY 2009
+VL 379
+IS 2
+BP 480
+EP 484
+DI 10.1016/j.bbrc.2008.12.076
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 401FF
+UT WOS:000262924300060
+ER
+
+PT J
+AU Matsui, F
+   Goriki, S
+   Shimizu, Y
+   Tomizawa, H
+   Kawato, S
+   Kobayashi, T
+AF Matsui, Futoshi
+   Goriki, Shin'ichi
+   Shimizu, Yukio
+   Tomizawa, Hiromitsu
+   Kawato, Sakae
+   Kobayashi, Takao
+TI Genetic-algorithm-based method to optimize spatial profile utilizing
+   characteristics of electrostatic actuator deformable mirror
+SO OPTICAL REVIEW
+LA English
+DT Article
+DE beam quality control; Ti : sapphire laser; terawatt femtosecond laser;
+   spatial shaping; adaptive optics; three-dimensional pulse shaping;
+   deformable mirror (DM); genetic algorithm (GA); future light sources;
+   photocathode RF gun
+ID BEAM INTENSITY PROFILE; LASER-BEAM; TRANSFORMATION; SYSTEM
+AB Arbitrary spatial beam shaping was demonstrated with a membrane electrostatic actuator type deformable mirror (DM). An automatic closed loop system must optimize such beam shapes as flattop. Well-characterized short pulse laser beam is widely required for a photocathode RF gun or for microscopic processing, etc. We propose a new sophisticated optimizing method based on a genetic algorithm (GA) for spatial shaping. A membrane type DM is driven by electrostatic attraction power, and applied electrode voltages vs displacement of membrane surface have a square function relationship. We prepare discrete electrode voltages to linearly change displacement as a utilized gene of the initial population in GA. Using uniform crossover without mutation in this method, we can make an arbitrary spatial beam shape quasi-flattop. (C) 2008 The Optical Society of Japan.
+C1 Ind Technol Ctr Fukui Prefecture, Creat & Adv Res Dept, Fukui 9100102, Japan.
+   Japan Synchrotron Radiat Res Inst SPring 8, Accelerator Div, Sayo Cho, Hyogo 6795198, Japan.
+   Univ Fukui, Grad Sch Engn, Fukui 9108507, Japan.
+RP Matsui, F (reprint author), Ind Technol Ctr Fukui Prefecture, Creat & Adv Res Dept, 10 Aza Kitainada,61 Kawaiwashizukacho, Fukui 9100102, Japan.
+CR Djurisic AB, 1997, APPL OPTICS, V36, P7097, DOI 10.1364/AO.36.007097
+   Evans NC, 1998, APPL OPTICS, V37, P5216, DOI 10.1364/AO.37.005216
+   HAN CY, 1983, APPL OPTICS, V22, P3644
+   MCDERMIT JH, 1974, APPL OPTICS, V13, P1444, DOI 10.1364/AO.13.001444
+   Nemoto K, 1997, APPL OPTICS, V36, P7689, DOI 10.1364/AO.36.007689
+   Nemoto K, 1996, OPT LETT, V21, P168, DOI 10.1364/OL.21.000168
+   Nemoto K, 1997, APPL OPTICS, V36, P551, DOI 10.1364/AO.36.000551
+   Omenetto FG, 1999, J OPT SOC AM B, V16, P2005, DOI 10.1364/JOSAB.16.002005
+   Planchon TA, 2006, OPT LETT, V31, P2214, DOI 10.1364/OL.31.002214
+   TOMIZAWA H, J QUANTUM E IN PRESS
+   Wright AJ, 2006, OPT EXPRESS, V14, P222, DOI 10.1364/OPEX.14.000222
+   *SPIR INC, 2003, OP MAN MOD LBA PC SE, P139
+NR 12
+TC 1
+Z9 1
+PU OPTICAL SOC JAPAN
+PI TOKYO
+PA KUDAN-KITA BLDG 5F, 1-12-3, KUDAN-KITA CHIYODA-KU, TOKYO, 102, JAPAN
+SN 1340-6000
+J9 OPT REV
+JI Opt. Rev.
+PD MAY-JUN
+PY 2008
+VL 15
+IS 3
+BP 156
+EP 161
+DI 10.1007/s10043-008-0025-9
+PG 6
+WC Optics
+SC Optics
+GA 323BT
+UT WOS:000257419700006
+ER
+
+PT J
+AU Sueda, K
+   Kawato, S
+   Kobayashi, T
+AF Sueda, K.
+   Kawato, S.
+   Kobayashi, T.
+TI LD pumped Yb : YAG regenerative amplifier for high average power
+   short-pulse generation
+SO LASER PHYSICS LETTERS
+LA English
+DT Article
+DE diode-pumped lasers; Yb : YAG
+ID SOLID-STATE LASERS; POLARIZATION
+AB A diode pumped Yb:YAG regenerative amplifier has been developed for short pulse generation. High gain and efficient cooling characteristics were achieved in the laser gain module using a thin square-rod laser structure. Average output power of 10 W was realized at a pulse repetition rate of 100 kHz with 6.2 ps pulse width.
+C1 Osaka Univ, Inst Laser Engn, Osaka, Japan.
+   Univ Fukui, Grad Sch Engn, Fukui 910, Japan.
+RP Sueda, K (reprint author), Osaka Univ, Inst Laser Engn, 2-6 Yamadaoka, Osaka, Japan.
+EM sueda-k@ile.osaka-u.ac.jp
+CR Ahmed MA, 2006, LASER PHYS LETT, V3, P178, DOI 10.1002/lapl.200510088
+   Aus der Au J, 2000, Opt Lett, V25, P859, DOI 10.1364/OL.25.000859
+   Bibeau C, 1998, IEEE J QUANTUM ELECT, V34, P2010, DOI 10.1109/3.720241
+   Bruesselbach HW, 1997, IEEE J SEL TOP QUANT, V3, P105, DOI 10.1109/2944.585822
+   Dong J, 2005, LASER PHYS LETT, V2, P387, DOI 10.1002/lapl.200510018
+   Dong J, 2007, LASER PHYS LETT, V4, P109, DOI 10.1002/lapl.200610077
+   Dong J, 2005, LASER PHYS LETT, V2, P429, DOI 10.1002/lapl.200510025
+   FAN TY, 1992, IEEE J QUANTUM ELECT, V28, P2692, DOI 10.1109/3.166461
+   GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   Goodno GD, 2001, OPT LETT, V26, P1672, DOI 10.1364/OL.26.001672
+   Honea EC, 2000, OPT LETT, V25, P805, DOI 10.1364/OL.25.000805
+   Innerhofer E, 2004, LASER PHYS LETT, V1, P82, DOI 10.1002/lapl.200310025
+   Liu Q, 2006, LASER PHYS LETT, V3, P249, DOI 10.1002/lapl.200610003
+   Liu Q, 2007, LASER PHYS LETT, V4, P30, DOI 10.1002/lapl.200610067
+   Liu Q, 2007, LASER PHYS LETT, V4, P719, DOI 10.1002/lapl.200710055
+   Rutherford TS, 2001, OPT LETT, V26, P986, DOI 10.1364/OL.26.000986
+   SCHREIBER T, 2005, C LAS EL QUANT EL LA
+   STOLZENBURG C, 2007, OSA TECHNICAL DIGEST
+NR 18
+TC 26
+Z9 26
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA PO BOX 10 11 61, D-69451 WEINHEIM, GERMANY
+SN 1612-2011
+J9 LASER PHYS LETT
+JI Laser Phys. Lett.
+PD APR
+PY 2008
+VL 5
+IS 4
+BP 271
+EP 275
+DI 10.1002/lapl.200710124
+PG 5
+WC Instruments & Instrumentation
+SC Instruments & Instrumentation
+GA 299CU
+UT WOS:000255734200003
+ER
+
+PT J
+AU Kawato, S
+   Matsubara, S
+   Sugiura, Y
+   Takasaki, S
+   Fukuda, M
+   Hata, K
+   Kobayashi, T
+AF Kawato, Sakae
+   Matsubara, Shinichi
+   Sugiura, Yasushi
+   Takasaki, Shingo
+   Fukuda, Masaaki
+   Hata, Kazuhiro
+   Kobayashi, Takao
+TI CW oscillation of end-pumped rectangular thin-rod Yb3+: Y3Al5O12 laser
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS & EXPRESS LETTERS
+LA English
+DT Article
+DE Yb : YAG; quasi-four-level laser; diode pumped; thin-rod laser; thermal
+   stress
+ID YB-YAG LASER; DESIGN
+AB A diode pumped rectangular thin-rod Yb3+:Y3Al5O12 (Yb:YAG) laser has been developed. A continuous-wave multimode output power of 55 W was obtained with 45% slope efficiency and a TEM00 output power of 26 W was obtained with 25% slope efficiency for the absorbed pump power at room temperature.
+C1 Univ Fukui, Grad Sch Engn, Fukui 9108507, Japan.
+RP Kawato, S (reprint author), Univ Fukui, Grad Sch Engn, 3-9-1 Bunkyo, Fukui 9108507, Japan.
+EM kawato@fuee.fukui-u.ac.jp
+CR BEACH RJ, 1999, P INT FOR ADV HIGH P, P1
+   Beach RJ, 2000, P SOC PHOTO-OPT INS, V3889, P246, DOI 10.1117/12.380891
+   Bibeau C, 1998, IEEE J QUANTUM ELECT, V34, P2010, DOI 10.1109/3.720241
+   Bruesselbach HW, 1997, IEEE J SEL TOP QUANT, V3, P105, DOI 10.1109/2944.585822
+   CHO GC, 2000, OSA C LAS EL OPT SAN, P78
+   GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   Goodno GD, 2001, OPT LETT, V26, P1672, DOI 10.1364/OL.26.001672
+   Kawato S, 2003, JPN J APPL PHYS 1, V42, P2705, DOI 10.1143/JJAP.42.2705
+   NICKEL D, 2001, OSA C LAS EL OPT BAL, P4
+   PAVEL N, 2001, JPN J APPL PHYS, V40, P191
+   Rutherford TS, 2000, IEEE J QUANTUM ELECT, V36, P205, DOI 10.1109/3.823467
+   SUMIDA DS, 1994, OPT LETT, V19, P1343, DOI 10.1364/OL.19.001343
+NR 12
+TC 1
+Z9 1
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett. Express Lett.
+PD FEB
+PY 2007
+VL 46
+IS 4-7
+BP L107
+EP L109
+DI 10.1143/JJAP.46.L107
+PG 3
+WC Physics, Applied
+SC Physics
+GA 144BI
+UT WOS:000244769700005
+ER
+
+PT J
+AU Matsubara, S
+   Ueda, T
+   Kawato, S
+   Kobayashi, T
+AF Matsubara, Shinichi
+   Ueda, Tsutomu
+   Kawato, Sakae
+   Kobayashi, Takao
+TI Highly efficient continuous-wave laser oscillation in microchip Yb : YAG
+   laser at room temperature
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS & EXPRESS LETTERS
+LA English
+DT Article
+DE Yb : YAG; quasi-three-level; high-efficiency oscillation; high intensity
+   pumping; room temperature
+ID SOLID-STATE LASERS; DEPOLARIZATION; OPERATION; ND
+AB Highly efficient continuous-wave laser oscillation in Yb:YAG microchip crystal has been realized at room temperature by high intensity Ti:sapphire laser pumping. The maximum output power of 810mW was obtained at 1048 nm wavelength oscillation. The optical-to-optical efficiency was 81% for the incident pump power and 85% for the absorbed pump power. These optical-to-optical efficiencies are close to the quantum-defect-limit of 90%.
+C1 Univ Fukui, Grad Sch Engn, Fukui 9108507, Japan.
+RP Matsubara, S (reprint author), Univ Fukui, Grad Sch Engn, 3-9-1 Bunkyo, Fukui 9108507, Japan.
+EM matubara@optele.fuee.fukui-u.ac.jp
+CR Beach RJ, 1995, OPT COMMUN, V123, P385
+   GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   Goodno GD, 2001, OPT LETT, V26, P1672, DOI 10.1364/OL.26.001672
+   KAWATO S, 2001, CLEO PAC RIM 2001, V1, P544
+   LACOVARA P, 1991, OPT LETT, V16, P1089, DOI 10.1364/OL.16.001089
+   Lupei V, 2003, OPT LETT, V28, P2366, DOI 10.1364/OL.28.002366
+   MATSUBARA S, 2005, C LAS EL OPT QUANT E, pCMS3
+   Payne SA, 1997, IEEE J SEL TOP QUANT, V3, P71, DOI 10.1109/2944.585817
+   RISK WP, 1988, J OPT SOC AM B, V5, P1412, DOI 10.1364/JOSAB.5.001412
+   Rutherford TS, 2001, OPT LETT, V26, P986, DOI 10.1364/OL.26.000986
+   Sato Y, 2003, APPL PHYS LETT, V82, P844, DOI 10.1063/1.1544659
+   Sato Y, 2004, IEEE J QUANTUM ELECT, V40, P270, DOI 10.1109/JQE.2003.823020
+   Shoji I, 2002, APPL PHYS LETT, V80, P3048, DOI 10.1063/1.1475365
+   Shoji I, 2002, OPT LETT, V27, P234, DOI 10.1364/OL.27.000234
+   Shoji T, 2004, JPN J APPL PHYS 2, V43, pL496, DOI 10.1143/JJAP.43.L496
+   SUMIDA DS, 1995, OPT LETT, V20, P2384, DOI 10.1364/OL.20.002384
+   Taira T, 1997, IEEE J SEL TOP QUANT, V3, P100, DOI 10.1109/2944.585821
+NR 17
+TC 6
+Z9 6
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA YUSHIMA URBAN BLDG 5F, 2-31-22 YUSHIMA, BUNKYO-KU, TOKYO, 113-0034,
+   JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett. Express Lett.
+PD FEB
+PY 2007
+VL 46
+IS 4-7
+BP L132
+EP L134
+DI 10.1143/JJAP.46.L132
+PG 3
+WC Physics, Applied
+SC Physics
+GA 144BI
+UT WOS:000244769700013
+ER
+
+PT J
+AU Matsubara, S
+   Inoue, M
+   Kawato, S
+   Kobayashi, T
+AF Matsubara, Shinichi
+   Inoue, Masahiro
+   Kawato, Sakae
+   Kobayashi, Takao
+TI Continuous wave laser oscillation of stoichiometric YbAG crystal
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS & EXPRESS LETTERS
+LA English
+DT Article
+DE stoichiometric Yb material; YbAG crystal; quasi-three-level; cw laser
+   oscillation; room temperature
+ID SOLID-STATE LASERS; YAG; DEPOLARIZATION; KYB(WO4)(2)
+AB Continuous wave laser oscillation of the stoichiometric microchip YbAG crystal was realized at 1076 nm wavelength. The 200-pm-thick YbAG crystal was pumped by the Ti:sapphire laser at 937 nm. Maximum output power of 100 mW was obtained at room temperature with slope efficiency of 38% and maximum optical-to-optical efficiency of 29% for the incident pump power.
+C1 Univ Fukui, Grad Sch Engn, Fukui 9108507, Japan.
+RP Matsubara, S (reprint author), Univ Fukui, Grad Sch Engn, 3-9-1 Bunkyo, Fukui 9108507, Japan.
+EM matubara@optele.fuee.fukui-u.ac.jp
+CR GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   Klopp P, 2002, APPL PHYS B-LASERS O, V74, P185, DOI 10.1007/s003400100782
+   Klopp P, 2003, OPT LETT, V28, P322, DOI 10.1364/OL.28.000322
+   LACOVARA P, 1991, OPT LETT, V16, P1089, DOI 10.1364/OL.16.001089
+   MATSUBARA S, 2005, C LAS EL QUANT EL LA
+   Patel FD, 2001, IEEE J QUANTUM ELECT, V37, P135, DOI 10.1109/3.892735
+   Pujol MC, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165121
+   Shoji I, 2002, APPL PHYS LETT, V80, P3048, DOI 10.1063/1.1475365
+   Shoji I, 2002, OPT LETT, V27, P234, DOI 10.1364/OL.27.000234
+   Taira T, 1997, IEEE J SEL TOP QUANT, V3, P100, DOI 10.1109/2944.585821
+NR 10
+TC 0
+Z9 0
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA YUSHIMA URBAN BLDG 5F, 2-31-22 YUSHIMA, BUNKYO-KU, TOKYO, 113-0034,
+   JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett. Express Lett.
+PD JAN
+PY 2007
+VL 46
+IS 1-3
+BP L61
+EP L63
+DI 10.1143/JJAP.46.L61
+PG 3
+WC Physics, Applied
+SC Physics
+GA 135BE
+UT WOS:000244128000020
+ER
+
+PT J
+AU Takahashi, S
+   Kawato, S
+   Shimakura, J
+   Kurihara, S
+AF Takahashi, Shuichi
+   Kawato, Shunji
+   Shimakura, Junichi
+   Kurihara, Seiji
+TI Development of slit coating photoresist with high coating speed property
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article; Proceedings Paper
+CT 10th International Symposium on Advanced Display Materials and Devices
+   (ADMD 2006)
+CY JUN 22-23, 2006
+CL Kumamoto, KENYA
+SP Japanese Liquid Crystal Soc, Soc Informat Display, Korea Chapter, Korean Soc Ind Engn Chem, Informat & Elect Mat Div
+HO Kumamoto Univ
+DE carboxylic acid; ester compound; photoresist; slit coating; solid
+   content; viscosity
+AB The faster coating speed is required to the photoresist for slit coating process. When the photoresist is coated at high coating speed, the film thickness uniformity becomes worse. The carboxylic acids and the ester compounds with long alkyl chain were added into photoresist for the slit coating process. Such photoresist showed really good film thickness uniformity of photoresist film on the glass substrate at high coating speed condition.
+C1 Kumamoto Univ, Fac Engn, Dept Appl Chem & Biochem, Kumamoto Shi, Kumamoto 860, Japan.
+RP Takahashi, S (reprint author), AZ Elect Mat Japan KK, Shizuoka Technol Ctr, FDP Mat Dev Team, R&D Dept 2,Kakegawa Shi, 3330 Chihama, Shizuoka 4371412, Japan.
+EM shuichi.takahashi@az-em.com
+CR KAWATO S, 2001, 47 M PRES RES PAP AB, P86
+   Takahashi S, 2005, IDW/AD '05: PROCEEDINGS OF THE 12TH INTERNATIONAL DISPLAY WORKSHOPS IN CONJUNCTION WITH ASIA DISPLAY 2005, VOLS 1 AND 2, P1295
+NR 2
+TC 0
+Z9 0
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1542-1406
+J9 MOL CRYST LIQ CRYST
+JI Mol. Cryst. Liquid Cryst.
+PY 2007
+VL 470
+BP 57
+EP 62
+DI 10.1080/15421400701492598
+PG 6
+WC Crystallography
+SC Crystallography
+GA 217LM
+UT WOS:000249949400008
+ER
+
+PT J
+AU Murakami, G
+   Tsurugizawa, T
+   Hatanaka, Y
+   Komatsuzaki, Y
+   Tanabe, N
+   Mukai, H
+   Hojo, Y
+   Kominami, S
+   Yamazaki, T
+   Kimoto, T
+   Kawato, S
+AF Murakami, Gen
+   Tsurugizawa, Tomokazu
+   Hatanaka, Yusuke
+   Komatsuzaki, Yoshimasa
+   Tanabe, Nobuaki
+   Mukai, Hideo
+   Hojo, Yasushi
+   Kominami, Shiro
+   Yamazaki, Takeshi
+   Kimoto, Tetsuya
+   Kawato, Suguru
+TI Comparison between basal and apical dendritic spines in estrogen-induced
+   rapid spinogenesis of CA1 principal neurons in the adult hippocampus
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE estrogen; estrogen receptor; spine; CA1; hippocampus; synaptic
+   plasticity
+ID MALE-RAT HIPPOCAMPUS; PYRAMIDAL NEURONS; ESTRADIOL INCREASES;
+   GONADAL-HORMONES; SYNAPSE DENSITY; FEMALE RATS; CELLS; FLUCTUATION;
+   ACTIVATION; PLASTICITY
+AB Modulation of hippocampal synaptic plasticity by estrogen has been attracting much attention. Here, we demonstrated the rapid effect of 17 beta-estradiol on the density and morphology of spines in the stratum oriens (s.o., basal side) and in the stratum lacunosum-moleculare (s.l.m., apical side) by imaging Lucifer Yellow-injected CA1 neurons in adult male rat hippocampal slices, because spines in s.o. and s.l.m. have been poorly understood as compared with spines in the stratum radiatum. The application of I nM estradiol-induced a rapid increase in the density of spines of pyramidal neurons within 2 h. This increase by estradiol was blocked by Erk MAP kinase inhibitor and estrogen receptor inhibitor in both regions. Effect of blockade by agonists of AMPA receptors and NMDA receptors was different between s.o. and s.l.m. in both regions, ER alpha agonist PPT induced the same enhancing effect of spinogenesis as that induced by estradiol. (c) 2006 Published by Elsevier Inc.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 153, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Core Res Evolut Sci & Technol Project, Japan Sci & Technol Agcy,Meguro Ku, Tokyo 153, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Bioinformat Project Sci & Technol Agcy, Meguro Ku, Tokyo 153, Japan.
+   Nihon Univ, Coll Humanities & Sci, Dept Phys & Appl Phys, Setagaya Ku, Tokyo 1568550, Japan.
+   Hiroshima Univ, Grad Sch Integrated Arts & Sci, Higashihiroshima 739, Japan.
+RP Kawato, S (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, 3-8-1 Komaba, Tokyo 153, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Hojo, Yasushi/D-2964-2011; Mukai, Hideo/D-7261-2011
+CR GOULD E, 1990, J NEUROSCI, V10, P1286
+   Harrington WR, 2003, MOL CELL ENDOCRINOL, V206, P13, DOI 10.1016/S0303-7207(03)00255-7
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   Kawato S, 2002, METHOD ENZYMOL, V357, P241
+   Komatsuzaki Y, 2005, BIOCHEM BIOPH RES CO, V335, P1002, DOI 10.1016/j.bbrc.2005.07.173
+   Leranth C, 2002, J COMP NEUROL, V447, P34, DOI 10.1002/cne.10230
+   Leranth C, 2000, NEUROSCIENCE, V101, P349, DOI 10.1016/S0306-4522(00)00369-9
+   Leranth C, 2003, J NEUROSCI, V23, P1588
+   MacLusky NJ, 2005, ENDOCRINOLOGY, V146, P287, DOI 10.1210/en.2004-0730
+   MUKAI H, IN PRESS J NEUROCHEM
+   Mukai H, 2006, NEUROSCIENCE, V138, P757, DOI 10.1016/j.neuroscience.2005.09.010
+   Murphy DD, 1996, J NEUROSCI, V16, P4059
+   Pozzo-Miller LD, 1999, J NEUROPHYSIOL, V81, P1404
+   Rudick CN, 2000, HIPPOCAMPUS, V10, P274, DOI 10.1002/1098-1063(2000)10:3<274::AID-HIPO8>3.0.CO;2-Q
+   Rudick CN, 2003, ENDOCRINOLOGY, V144, P179, DOI 10.1210/en.2002-220581
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Sorra KE, 2000, HIPPOCAMPUS, V10, P501, DOI 10.1002/1098-1063(2000)10:5<501::AID-HIPO1>3.0.CO;2-T
+   Tsurugizawa T, 2005, BIOCHEM BIOPH RES CO, V337, P1345, DOI 10.1016/j.bbrc.2005.09.188
+   WOOLLEY CS, 1990, J NEUROSCI, V10, P4035
+   Woolley CS, 1997, J NEUROSCI, V17, P1848
+   WOOLLEY CS, 1992, J NEUROSCI, V12, P2549
+   WOOLLEY CS, 1994, J NEUROSCI, V14, P7680
+NR 22
+TC 26
+Z9 27
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD DEC 15
+PY 2006
+VL 351
+IS 2
+BP 553
+EP 558
+DI 10.1016/j.bbrc.2006.10.066
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 106RT
+UT WOS:000242119200038
+ER
+
+PT J
+AU Tsurugizawa, T
+   Mukai, H
+   Tanabe, N
+   Murakami, G
+   Hojo, Y
+   Kominami, S
+   Mitsuhashi, K
+   Komatsuzaki, Y
+   Morrison, JH
+   Janssen, WGM
+   Kimoto, T
+   Kawato, S
+AF Tsurugizawa, T
+   Mukai, H
+   Tanabe, N
+   Murakami, G
+   Hojo, Y
+   Kominami, S
+   Mitsuhashi, K
+   Komatsuzaki, Y
+   Morrison, JH
+   Janssen, WGM
+   Kimoto, T
+   Kawato, S
+TI Estrogen induces rapid decrease in dendritic thorns of CA3 pyramidal
+   neurons in adult male rat hippocampus
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE estrogen; estrogen receptor; spine; thorny excrescence; CA3;
+   hippocampuS; synaptic plasticity
+ID KAINATE-INDUCED CURRENTS; SPINE DENSITY; QUANTITATIVE-ANALYSIS;
+   RECEPTOR-ALPHA; BRAIN NEUROSTEROIDS; SIGNAL-TRANSDUCTION;
+   17-BETA-ESTRADIOL; ESTRADIOL; SITES; CELLS
+AB Modulation of hippocampal synaptic plasticity by estrogen has been attracting much attention. Thorns of thorny excrescences of CA3 hippocampal neurons are post-synaptic regions whose presynaptic partners are mossy fiber terminals. Here we demonstrated the rapid effect of estradiol on the density of thorns of thorny excrescences, by imaging Lucifer Yellow-injected CA3 neurons in adult male rat hippocampal slices. The application of 1 nM estradiol induced rapid decrease in the density of thorns on pyramidal neurons within 2 h. The estradiol-mediated decrease in the density of thorns was blocked by CNQX (AMPA receptor antagonist) and PD98059 (MAP kinase inhibitor), but not by MK-801 (NMDA receptor antagonist). ER alpha agonist PPT induced the same suppressive effect as that induced by estradiol on the density of thorns, but ER beta agonist DPN did not affect the density of thorns. Note that a 1 nM estradiol treatment did not affect the density of spines in the stratum radiatum and stratum oriens. A search for synaptic ER alpha, was performed using purified RC-19 antibody. The localization of ER alpha (67 kDa) in the CA3 mossy fiber terminals and thorns was demonstrated using immunogold electron microscopy. These results imply that estradiol drives the signaling pathway including ER alpha, and MAP kinase. (c) 2005 Elsevier Inc. All rights reserved.
+C1 Univ Tokyo, Dept Biophys & Life Sci, Grad Sch Arts & Sci, Tokyo 153, Japan.
+   Univ Tokyo, Core Res Evolut Sci & Technol Project, Japan Sci & Technol Agcy, Grad Sch Arts & Sci, Tokyo 153, Japan.
+   Hiroshima Univ, Fac Integrated Arts & Sci, Higashihiroshima 739, Japan.
+   Nihon Univ, Dept Phys & Appl Phys, Coll Humanities & Sci, Setagaya Ku, Tokyo 1568550, Japan.
+   Mt Sinai Sch Med, Kastor Neurobiol Aging Labs, Fishberg Res Ctr Neurobiol, New York, NY 10029 USA.
+RP Kawato, S (reprint author), Univ Tokyo, Dept Biophys & Life Sci, Grad Sch Arts & Sci, 3-8-1 Meguro, Tokyo 153, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Hojo, Yasushi/D-2964-2011; Mukai, Hideo/D-7261-2011; Morrison,
+   John/F-9229-2012
+CR Adams MM, 2002, J NEUROSCI, V22, P3608
+   AMARAL DG, 1978, J COMP NEUROL, V182, P851, DOI 10.1002/cne.901820508
+   BAUDE A, 1995, NEUROSCIENCE, V69, P1031, DOI 10.1016/0306-4522(95)00350-R
+   CHICUREL ME, 1992, J COMP NEUROL, V325, P169, DOI 10.1002/cne.903250204
+   Duan H, 2002, NEUROSCIENCE, V114, P349, DOI 10.1016/S0306-4522(02)00305-6
+   Foy MR, 1999, J NEUROPHYSIOL, V81, P925
+   Fritschy JM, 1998, J COMP NEUROL, V390, P194, DOI 10.1002/(SICI)1096-9861(19980112)390:2<194::AID-CNE3>3.3.CO;2-5
+   GOULD E, 1990, J NEUROSCI, V10, P1286
+   Gu Q, 1996, J NEUROSCI, V16, P3620
+   Gu Q, 1998, J PHYSIOL-LONDON, V506, P745, DOI 10.1111/j.1469-7793.1998.745bv.x
+   Hojo Y, 2004, P NATL ACAD SCI USA, V101, P865, DOI 10.1073/pnas.2630225100
+   HOLMES TJ, 1992, J OPT SOC AM A, V9, P1052, DOI 10.1364/JOSAA.9.001052
+   ISHIZUKA N, 1995, J COMP NEUROL, V362, P17, DOI 10.1002/cne.903620103
+   ISHIZUKA N, 1990, J COMP NEUROL, V295, P580, DOI 10.1002/cne.902950407
+   Kawato S, 2003, ADV BIOPHYS, V37, P1, DOI 10.1016/S0065-227X(03)80002-3
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   KOMATSUZAKI Y, 2005, BIOCH BIOPHYS RES CO
+   Kretz O, 2004, J NEUROSCI, V24, P5913, DOI 10.1523/JNEUROSCI.5186-03.2004
+   Leranth C, 2003, J NEUROSCI, V23, P1588
+   Matsuda S, 2004, NEUROSCI RES, V49, P241, DOI 10.1016/j.neures.2004.03.002
+   McEwen B, 2002, RECENT PROG HORM RES, V57, P357, DOI 10.1210/rp.57.1.357
+   Milner TA, 2001, J COMP NEUROL, V429, P355, DOI 10.1002/1096-9861(20010115)429:3<355::AID-CNE1>3.0.CO;2-#
+   Mitra SW, 2003, ENDOCRINOLOGY, V144, P2055, DOI 10.1210/en.2002-221069
+   MONAGHAN DT, 1983, NATURE, V306, P176, DOI 10.1038/306176a0
+   MUKAI H, 2004, SYNAPTIC LOCALIZATIO
+   Murphy DD, 1996, J NEUROSCI, V16, P4059
+   Pozzo-Miller LD, 1999, J NEUROPHYSIOL, V81, P1404
+   Reid CA, 2001, J NEUROSCI, V21, P2206
+   Reid CA, 2002, EUR J PHARMACOL, V447, P173, DOI 10.1016/S0014-2999(02)01841-1
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Stewart MG, 2005, NEUROSCIENCE, V131, P43, DOI 10.1016/j.neuroscience.2004.10.031
+   Towart LA, 2003, J COMP NEUROL, V463, P390, DOI 10.1002/cne.10753
+   WOOLLEY CS, 1990, J NEUROSCI, V10, P4035
+   WOOLLEY CS, 1992, J NEUROSCI, V12, P2549
+NR 34
+TC 24
+Z9 26
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD DEC 2
+PY 2005
+VL 337
+IS 4
+BP 1345
+EP 1352
+DI 10.1016/j.bbrc.2005.09.188
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 981XF
+UT WOS:000233120600046
+ER
+
+PT J
+AU Sueda, K
+   Takahashi, H
+   Kawato, S
+   Kobayashi, T
+AF Sueda, K
+   Takahashi, H
+   Kawato, S
+   Kobayashi, T
+TI High-efficiency laser-diodes-pumped microthickness Yb : Y3Al5O12 slab
+   laser
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID YB-YAG LASER; AVERAGE-POWER; HYBRID RESONATOR; ND
+AB A high-efficiency and high-power Yb:Y3Al5O12 oscillator was developed based on the microthickness slab structure with high aspect ratio to obtain one-dimensional temperature gradient and to reduce the temperature increase in the crystal. Laser output power of 257 W was obtained in cw oscillation with 42% optical conversion efficiency at a pump power of 608 W. (C) 2005 American Institute of Physics.
+C1 Fukui Ind Support Ctr, Fukui 9100102, Japan.
+   Univ Fukui, Grad Sch Engn, Fukui 9108507, Japan.
+RP Sueda, K (reprint author), Fukui Ind Support Ctr, 61-10 Kawaiwashizuka, Fukui 9100102, Japan.
+EM sueda@vcnet.fukui.fukui.jp
+CR der Au JA, 2000, OPT LETT, V25, P859
+   Baker HJ, 2001, OPT COMMUN, V191, P125, DOI 10.1016/S0030-4018(01)01117-8
+   Bibeau C, 1998, IEEE J QUANTUM ELECT, V34, P2010, DOI 10.1109/3.720241
+   Bruesselbach HW, 1997, IEEE J SEL TOP QUANT, V3, P105, DOI 10.1109/2944.585822
+   Du KM, 1998, OPT LETT, V23, P370, DOI 10.1364/OL.23.000370
+   GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   Goodno GD, 2001, OPT LETT, V26, P1672, DOI 10.1364/OL.26.001672
+   Honea EC, 2000, OPT LETT, V25, P805, DOI 10.1364/OL.25.000805
+   JACKSON PE, 1989, APPL PHYS LETT, V54, P1950, DOI 10.1063/1.101203
+   KAWATO S, 2002, JPN J APPL PHYS PT 1, V26, P541
+   Lee JR, 2002, OPT LETT, V27, P524, DOI 10.1364/OL.27.000524
+   Rutherford TS, 2001, OPT LETT, V26, P986, DOI 10.1364/OL.26.000986
+   STEWEN C, 2000, OSA OPT SOC AM WASH, P13
+NR 13
+TC 5
+Z9 5
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD OCT 10
+PY 2005
+VL 87
+IS 15
+AR 151110
+DI 10.1063/1.2103395
+PG 3
+WC Physics, Applied
+SC Physics
+GA 972GL
+UT WOS:000232442200010
+ER
+
+PT J
+AU Komatsuzaki, Y
+   Murakami, G
+   Tsurugizawa, T
+   Mukai, H
+   Tanabe, N
+   Mitsuhashi, K
+   Kawata, M
+   Kimoto, T
+   Ooishi, Y
+   Kawato, S
+AF Komatsuzaki, Y
+   Murakami, G
+   Tsurugizawa, T
+   Mukai, H
+   Tanabe, N
+   Mitsuhashi, K
+   Kawata, M
+   Kimoto, T
+   Ooishi, Y
+   Kawato, S
+TI Rapid spinogenesis of pyramidal neurons induced by activation of
+   glucocorticoid receptors in adult male rat hippocampus
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE stress; corticosterone; glucocorticoid; dexamethasone; spine; synapse;
+   hippocampus
+ID SYNAPTIC PLASMA-MEMBRANE; MINERALOCORTICOID RECEPTOR; DENDRITIC
+   MORPHOLOGY; MEMORY RETRIEVAL; MESSENGER-RNA; STRESS; BRAIN;
+   CORTICOSTERONE; IMMUNOREACTIVITY; LOCALIZATION
+AB Modulation of hippocampal synaptic plasticity by glucocorticoids has been attracting much attention, due to its importance in stress responses. Dendritic spines are essential for memory storage processes. Here, we investigated the effect of dexamethasone (DEX), a specific agonist of glucocorticoid receptor (GR), on density and morphology of dendritic spines in adult male rat hippocampus by imaging of Lucifer Yellow-injected spines in slices. The application of 100 nM DEX (stressful high concentration) induced rapid modulation of the density and morphology of dendritic spines in CA1 pyramidal neurons within 1 h. The total spine density increased from 0.88 spines/mu m (control) to 1.36 spines/mu m (DEX-treated). DEX significantly increased the density of thin and mushroom type spines, however only a slight increase was observed for stubby and filopodium type spines. Because the presence of 10 mu M cycloheximide, an inhibitor of protein synthesis, did not suppress the DEX effect, these responses are probably non-genomic. Western immunoblot analysis demonstrated the localization of classical type GR in Triton-insoluble synaptosomal fractions (enriched in postsynaptic membranes) from hippocampal slices, suggesting a possible action site of DEX at spines. (c) 2005 Elsevier Inc. All rights reserved.
+C1 Univ Tokyo, Dept Biophys & Life Sci b, Grad Sch Arts & Sci, Tokyo 153, Japan.
+   Meiji Univ, Sch Sci & Technol, Kawasaki, Kanagawa 214, Japan.
+   Univ Tokyo, Core Res Evolut Sci & Technol Project, Japan Sci & Technol Agcy, Grad Sch Arts & Sci, Tokyo 153, Japan.
+   Kyoto Prefectural Univ Med, Dept Anat & Neurobiol, Kamigyo Ku, Kyoto 6028566, Japan.
+RP Kawato, S (reprint author), Univ Tokyo, Dept Biophys & Life Sci b, Grad Sch Arts & Sci, 3-8-1 Meguro, Tokyo 153, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Mukai, Hideo/D-7261-2011
+CR Alfarez DN, 2002, NEUROSCIENCE, V115, P1119, DOI 10.1016/S0306-4522(02)00483-9
+   Asaki C, 2003, BRAIN RES, V972, P168, DOI 10.1016/S0006-8993(03)02523-X
+   BALLARD PL, 1975, J CLIN ENDOCR METAB, V41, P290
+   Duan H, 2002, NEUROSCIENCE, V114, P349, DOI 10.1016/S0306-4522(02)00305-6
+   GUO Z, 1995, FUNCT NEUROL, V10, P183
+   Han F, 2005, NEUROSCI RES, V51, P371, DOI 10.1016/j.neures.2004.12.013
+   LANDFIELD PW, 1984, SCIENCE, V226, P1089, DOI 10.1126/science.6494926
+   LIPOSITS Z, 1993, J NEUROSCI RES, V35, P14, DOI 10.1002/jnr.490350103
+   Lupien SJ, 1997, BRAIN RES REV, V24, P1, DOI 10.1016/S0165-0173(97)00004-0
+   Marinesco S, 1999, NEUROSCIENCE, V92, P921, DOI 10.1016/S0306-4522(99)00045-7
+   Morimoto M, 1996, NEUROSCI RES, V26, P235, DOI 10.1016/S0168-0102(96)01105-4
+   Nair SM, 1998, J NEUROSCI, V18, P2685
+   Nishi M, 2001, MOL ENDOCRINOL, V15, P1077, DOI 10.1210/me.15.7.1077
+   PACKAN DR, 1990, NEUROENDOCRINOLOGY, V51, P613, DOI 10.1159/000125400
+   Reagan LP, 1997, J CHEM NEUROANAT, V13, P149, DOI 10.1016/S0891-0618(97)00031-8
+   Roozendaal B, 2003, P NATL ACAD SCI USA, V100, P1328, DOI 10.1073/pnas.0337480100
+   Roozendaal B, 2001, NAT NEUROSCI, V4, P1169, DOI 10.1038/nn766
+   Sato S, 2004, BIOCHEM BIOPH RES CO, V321, P510, DOI 10.1016/j.bbrc.2004.06.168
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Shors TJ, 2001, J NEUROSCI, V21, P6292
+   Shors TJ, 2004, EUR J NEUROSCI, V19, P145, DOI 10.1046/j.1460-9568.2003.03065.x
+   Sorra KE, 2000, HIPPOCAMPUS, V10, P501, DOI 10.1002/1098-1063(2000)10:5<501::AID-HIPO1>3.0.CO;2-T
+   TOWLE AC, 1983, J STEROID BIOCHEM, V18, P135, DOI 10.1016/0022-4731(83)90079-1
+   VIDAL C, 1986, BRAIN RES, V383, P54, DOI 10.1016/0006-8993(86)90007-7
+   WATANABE Y, 1992, BRAIN RES, V588, P341, DOI 10.1016/0006-8993(92)91597-8
+   WOOLLEY CS, 1990, BRAIN RES, V531, P225, DOI 10.1016/0006-8993(90)90778-A
+NR 26
+TC 34
+Z9 36
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD OCT 7
+PY 2005
+VL 335
+IS 4
+BP 1002
+EP 1007
+DI 10.1016/j.bbrc.2005.07.173
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 963PZ
+UT WOS:000231817600003
+ER
+
+PT J
+AU Kawato, S
+   Tetsutani, N
+AF Kawato, S
+   Tetsutani, N
+TI Detection and tracking of eyes for gaze-camera control
+SO IMAGE AND VISION COMPUTING
+LA English
+DT Article; Proceedings Paper
+CT 15th International Conference on Vision Interface
+CY MAY 27-29, 2002
+CL Calgary, CANADA
+DE blink detection; eye tracking; between-the-eyes; differences between
+   successive frames; gaze-camera
+ID IMAGE
+AB A head-off gaze-camera needs eye location information for head-free usage. For this purpose, we propose new algorithms to extract and track the positions of eyes in a real-time video stream. For extraction of eye positions, we detect blinks based on the differences between successive images. However, eyelid regions are fairly small. To distinguish them from dominant head movement, we elaborate a head movement cancellation process. For eye-position tracking, we use a template of 'Between-the-Eyes,' which is updated frame-by-frame, instead of the eyes themselves. Eyes are searched based on the current position of 'Between-the-Eyes' and their geometrical relations to the position in the previous frame. The 'Between-the-Eyes' pattern is easier to locate accurately than eye patterns. We implemented the system on a PC with a Pentium III 866-MHz CPU. The system runs at 30 frames/s and robustly detects and tracks the eyes. (C) 2004 Elsevier B.V. All rights reserved.
+C1 ATR Media Informat Sci Labs, Kyoto 6190288, Japan.
+RP Kawato, S (reprint author), ATR Media Informat Sci Labs, 2-2-2 Hikaridai,Seikacho, Kyoto 6190288, Japan.
+EM skawato@atr.jp; Tetsutam@atr.jp
+CR AMARNAG S, 2003, P INT C MULT EXP, V3, P557
+   BALA LP, 1997 PICT COD S
+   Colombo C., 1995, Proceedings. CAMP '95 Computer Architectures for Machine  Perception (Cat. No.95TB8093), DOI 10.1109/CAMP.1995.521048
+   Crowley JL, 1997, PROC CVPR IEEE, P640, DOI 10.1109/CVPR.1997.609393
+   Eriksson M., 1997, P INT C INT TRANSP S, P314, DOI 10.1109/ITSC.1997.660494
+   Feng GC, 2001, PATTERN RECOGN, V34, P1033, DOI 10.1016/S0031-3203(00)00042-X
+   GRAUMAN K, 2001, P IEEE COMP SOC C CO, V1, P1010
+   Hjelmas E, 2001, COMPUT VIS IMAGE UND, V83, P236, DOI 10.1006/cviu.2001.0921
+   KAWAGUCHI T, 2000, P ICIP, V1, P49, DOI 10.1109/ICIP.2000.900889
+   Kawato S., 2000, Proceedings Fourth IEEE International Conference on Automatic  Face and Gesture Recognition (Cat. No. PR00580), DOI 10.1109/AFGR.2000.840610
+   li Tian Y., 2000, P 4 IEEE INT C AUT F, P110
+   Morimoto CH, 2000, IMAGE VISION COMPUT, V18, P331, DOI 10.1016/S0262-8856(99)00053-0
+   Ohno T., 2003, P CHI2003, P950
+   SAMAD S, 2001, P ISSPA, V2, P631, DOI 10.1109/ISSPA.2001.950224
+   SEZGIN M, 1995, P IECON 95, V2, P1360, DOI 10.1109/IECON.1995.483994
+   Sirohey SA, 2001, PATTERN RECOGN, V34, P1367
+   Matsumoto Y., 2000, Proceedings Fourth IEEE International Conference on Automatic  Face and Gesture Recognition (Cat. No. PR00580), DOI 10.1109/AFGR.2000.840680
+   ZHANG ZY, 1992, 3D DYNAMICS SCENE AN
+NR 18
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0262-8856
+J9 IMAGE VISION COMPUT
+JI Image Vis. Comput.
+PD OCT 1
+PY 2004
+VL 22
+IS 12
+BP 1031
+EP 1038
+DI 10.1016/j.imavis.2004.03.013
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods; Engineering, Electrical
+   & Electronic; Optics
+SC Computer Science; Engineering; Optics
+GA 855VU
+UT WOS:000224003800009
+ER
+
+PT J
+AU Sato, S
+   Osanai, H
+   Monma, T
+   Harada, T
+   Hirano, A
+   Saito, M
+   Kawato, S
+AF Sato, S
+   Osanai, H
+   Monma, T
+   Harada, T
+   Hirano, A
+   Saito, M
+   Kawato, S
+TI Acute effect of corticosterone on N-methyl-D-aspartate receptor-mediated
+   Ca2+ elevation in mouse hippocampal slices
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE acute effect; Ca2+ signals; corticosterone; glucocorticoids; NMDA
+   receptor; hippocampus
+ID SYNAPTIC PLASMA-MEMBRANE; GLUCOCORTICOID RECEPTOR; PYRAMIDAL NEURONS;
+   RAT-BRAIN; BINDING; CELLS
+AB We examined the rapid effects of corticosterone (CORT) on N-methyl-D-aspartate (NMDA) receptor-mediated Ca2+ signals in adult mouse hippocampal slices by using Ca2+ imaging technique. Application of NMDA caused a transient elevation of intracellular Ca2+ concentration followed by a decay to a plateau within 150 s. The 30 min preincubation of CORT induced a significant decrease of the peak amplitude of NMDA-induced Ca2+ elevation in the CA1 region. The rapid effect of CORT was induced at a stress-induced level (0.4-10 muM). Because the membrane non-permeable bovine serum albumin-conjugated CORT also induced a similar rapid effect, the rapid effect of CORT might be induced via putative surface CORT receptors. In contrast, CORT induced no significant effects on NMDA-induced Ca2+ elevation in the dentate gyrus. In the CA3 region, CORT effects were not evaluated, because the marked elevation of NMDA-induced Ca2+ signals was not observed there. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Nihon Univ, Coll Humanities & Sci, Dept Phys & Appl Phys, Setagaya Ku, Tokyo 1568550, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Tokyo 1538902, Japan.
+RP Saito, M (reprint author), Nihon Univ, Coll Humanities & Sci, Dept Phys & Appl Phys, Setagaya Ku, 3-25-40 Sakurajosui, Tokyo 1568550, Japan.
+EM msaito@chs.nihon-u.ac.jp
+CR GUO Z, 1995, FUNCT NEUROL, V10, P183
+   KAWATO S, 2001, ADV BIOPHYS, V37, P1
+   LANDFIELD PW, 1984, SCIENCE, V226, P1089, DOI 10.1126/science.6494926
+   LIPOSITS Z, 1993, J NEUROSCI RES, V35, P14, DOI 10.1002/jnr.490350103
+   Lupien SJ, 1997, BRAIN RES REV, V24, P1, DOI 10.1016/S0165-0173(97)00004-0
+   Marinesco S, 1999, NEUROSCIENCE, V92, P921, DOI 10.1016/S0306-4522(99)00045-7
+   MONYER H, 1994, NEURON, V12, P529, DOI 10.1016/0896-6273(94)90210-0
+   Nair SM, 1998, J NEUROSCI, V18, P2685
+   Nishi M, 2001, MOL ENDOCRINOL, V15, P1077, DOI 10.1210/me.15.7.1077
+   PACKAN DR, 1990, NEUROENDOCRINOLOGY, V51, P613, DOI 10.1159/000125400
+   Reagan LP, 1997, J CHEM NEUROANAT, V13, P149, DOI 10.1016/S0891-0618(97)00031-8
+   Shibuya K, 2003, BBA-GEN SUBJECTS, V1619, P301, DOI 10.1016/S0304-4165(02)00489-0
+   Takahashi T, 2002, J NEUROCHEM, V83, P1441, DOI 10.1046/j.1471-4159.2002.01251.x
+   TOWLE AC, 1983, J STEROID BIOCHEM, V18, P135, DOI 10.1016/0022-4731(83)90079-1
+   VIDAL C, 1986, BRAIN RES, V383, P54, DOI 10.1016/0006-8993(86)90007-7
+   WATANABE Y, 1992, BRAIN RES, V588, P341, DOI 10.1016/0006-8993(92)91597-8
+   WOOLLEY CS, 1990, BRAIN RES, V531, P225, DOI 10.1016/0006-8993(90)90778-A
+NR 17
+TC 20
+Z9 21
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD AUG 20
+PY 2004
+VL 321
+IS 2
+BP 510
+EP 513
+DI 10.1016/j.bbrc.2004.06.168
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 844EO
+UT WOS:000223140500036
+ER
+
+PT J
+AU Hojo, Y
+   Hattori, T
+   Enami, T
+   Furukawa, A
+   Suzuki, K
+   Ishii, HT
+   Mukai, H
+   Morrison, JH
+   Janssen, WGM
+   Kominami, S
+   Harada, N
+   Kimoto, T
+   Kawato, S
+AF Hojo, Y
+   Hattori, T
+   Enami, T
+   Furukawa, A
+   Suzuki, K
+   Ishii, HT
+   Mukai, H
+   Morrison, JH
+   Janssen, WGM
+   Kominami, S
+   Harada, N
+   Kimoto, T
+   Kawato, S
+TI Adult male rat hippocampus synthesizes estradiol from pregnenolone by
+   cytochromes P45017 alpha and P450 aromatase localized in neurons
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID CENTRAL-NERVOUS-SYSTEM; DENDRITIC SPINE DENSITY; METHYL-D-ASPARTATE;
+   DEHYDROEPIANDROSTERONE-SULFATE; STEROIDOGENIC ENZYMES; MESSENGER-RNA;
+   BRAIN; NEUROSTEROIDS; EXPRESSION; RECEPTOR
+AB In adult mammalian brain, occurrence of the synthesis of estradiol from endogenous cholesterol has been doubted because of the inability to detect dehydroepiandrosterone synthase, P45017alpha. In adult male rat hippocampal formation, significant localization was demonstrated for both cytochromes P45017alpha and P450 aromatase, in pyramidal neurons in the CA1-CA3 regions, as well as in the granule cells in the dentate gyrus, by means of immunohistochemical staining of slices. Only a weak immunoreaction of these P450s was observed in astrocytes and oligodendrocytes. ImmunoGold electron microscopy revealed that P45017a and P450 aromatase were localized in pre- and postsynaptic compartments as well as in the endoplasmic reticulum in principal neurons. The expression of these cytochromes was further verified by using Western blot analysis and RT-PCR. Stimulation of hippocampal neurons with N-methyl-D-aspartate induced a significant net production of estradiol. Analysis of radioactive metabolites demonstrated the conversion from [H-3]pregnenolone to [H-3]estradiol through dehydroepiandrosterone and testosterone. This activity was abolished by the application of specific inhibitors of cytochrome P450s. Interestingly, estradiol was not significantly converted to other steroid metabolites. Taken together with our previous finding of a P450scc-containing neuronal system for pregnenolone synthesis, these results imply that 17beta-estradiol is synthesized by P45017alpha and P450 aromatase localized in hippocampal neurons from endogenous cholesterol. This synthesis may be regulated by a glutamate-mediated synaptic communication that evokes Ca2+ signals.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 153, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Core Res Evolut Sci & Technol Project, Japan Sci & Technol Corp,Meguro Ku, Tokyo 153, Japan.
+   Tokyo Metropolitan Matsuzawa Hosp, Dept Psychiat, Setagaya Ku, Tokyo 156, Japan.
+   CUNY Mt Sinai Sch Med, Fishberg Res Ctr Neurobiol, Kastor Neurobiol Agng Labs, New York, NY 10029 USA.
+   Hiroshima Univ, Fac Integrated Arts & Sci, Higashihiroshima 739, Japan.
+   Fujita Hlth Univ, Sch Med, Dept Biochem, Toyoake, Aichi 470, Japan.
+RP Kawato, S (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 153, Japan.
+EM kawato@phys.c.u-tokyo.ac.jp
+RI Hojo, Yasushi/D-2964-2011; Mukai, Hideo/D-7261-2011; Morrison,
+   John/F-9229-2012
+CR Adams MM, 2001, P NATL ACAD SCI USA, V98, P8071, DOI 10.1073/pnas.141215898
+   Azcoitia I, 2001, J NEUROBIOL, V47, P318, DOI 10.1002/neu.1038
+   Baulieu EE, 1997, RECENT PROG HORM RES, V52, P1
+   Baulieu EE, 1998, P NATL ACAD SCI USA, V95, P4089, DOI 10.1073/pnas.95.8.4089
+   Beyenburg S, 2000, EPILEPSY RES, V41, P83, DOI 10.1016/S0920-1211(00)00130-3
+   COMPAGNONE NA, 1995, ENDOCRINOLOGY, V136, P5212, DOI 10.1210/en.136.11.5212
+   CORPECHOT C, 1981, P NATL ACAD SCI-BIOL, V78, P4704, DOI 10.1073/pnas.78.8.4704
+   Foy MR, 1999, J NEUROPHYSIOL, V81, P925
+   Ivanova T, 2000, CELL TISSUE RES, V300, P231, DOI 10.1007/s004410000199
+   JAKAB RL, 1993, J STEROID BIOCHEM, V44, P481, DOI 10.1016/0960-0760(93)90253-S
+   Jellinck PH, 2001, J STEROID BIOCHEM, V78, P313, DOI 10.1016/S0960-0760(01)00106-6
+   JUNGTESTAS I, 1989, ENDOCRINOLOGY, V125, P2083
+   Kawato S, 2002, METHOD ENZYMOL, V357, P241
+   Kawato S, 2003, ADV BIOPHYS, V37, P1, DOI 10.1016/S0065-227X(03)80002-3
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   LAUBER ME, 1994, ENDOCRINOLOGY, V135, P1611
+   LEGOASCOGNE C, 1991, J REPROD FERTIL, V93, P609
+   MELCANGI RC, 1993, ENDOCRINOLOGY, V132, P1252, DOI 10.1210/en.132.3.1252
+   MELLON SH, 1993, BRAIN RES, V629, P283, DOI 10.1016/0006-8993(93)91332-M
+   Mensah-Nyagan AG, 1999, PHARMACOL REV, V51, P63
+   Furukawa A, 1998, J NEUROCHEM, V71, P2231
+   PAPADOPOULOS V, 1993, ENDOCR REV, V14, P222, DOI 10.1210/er.14.2.222
+   Pelletier G, 1995, BRAIN RES, V704, P233, DOI 10.1016/0006-8993(95)01119-6
+   Pozzo-Miller LD, 1999, J NEUROPHYSIOL, V81, P1404
+   Rose KA, 1997, P NATL ACAD SCI USA, V94, P4925, DOI 10.1073/pnas.94.10.4925
+   SHIBUYA K, 2002, BIOCHIM BIOPHYS ACTA, V2546, P1
+   SHINZAWA K, 1988, J ENDOCRINOL, V119, P191, DOI 10.1677/joe.0.1190191
+   Stoffel-Wagner B, 1999, J STEROID BIOCHEM, V70, P237, DOI 10.1016/S0960-0760(99)00114-4
+   Wehrenberg U, 2001, J NEUROCHEM, V76, P1879, DOI 10.1046/j.1471-4159.2001.00207.x
+   Woolley CS, 1997, J NEUROSCI, V17, P1848
+   WOOLLEY CS, 1994, J NEUROSCI, V14, P7680
+   Zwain IH, 1999, ENDOCRINOLOGY, V140, P880, DOI 10.1210/en.140.2.880
+   Zwain IH, 1999, ENDOCRINOLOGY, V140, P3843, DOI 10.1210/en.140.8.3843
+NR 33
+TC 246
+Z9 252
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN 20
+PY 2004
+VL 101
+IS 3
+BP 865
+EP 870
+DI 10.1073/pnas.2630225100
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 768VH
+UT WOS:000188555400032
+ER
+
+PT J
+AU Ogiue-Ikeda, M
+   Kawato, S
+   Ueno, SG
+AF Ogiue-Ikeda, M
+   Kawato, S
+   Ueno, SG
+TI The effect of transcranial magnetic stimulation on long-term
+   potentiation in rat hippocampus
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT International Magnetics Conference
+CY MAR 30-APR 03, 2003
+CL BOSTON, MASSACHUSETTS
+DE hippocampus; long-term potentiation (LTP); transcranial magnetic
+   stimulation (TMS)
+ID ELECTROCONVULSIVE-THERAPY; CORTEX; MEMORY; BRAIN
+AB We investigated the effect of transcranial magnetic stimulation (TMS) on the brain by focusing on long-term potentiation (LTP) in the rat hippocampus. Male Wistar rats were magnetically stimulated by a round coil positioned over the rat's head. The stimulator delivered biphasic cosine current pulses 238 mus in duration. The peak magnetic fields were set to 0.50 T (<motor threshold) and 1.25 T (>motor threshold) at the center of the coil. Rats received 10 1 s trains of 25 pulses/s with a 1 s intertrain interval 4 times per day for 7 days. There was no significant difference between the UP of the 0.50 T stimulated and sham control groups. The LTP of the 1.25 T stimulated group, however, was inhibited compared with the UP of the sham control group, suggesting that the synaptic plasticity in the hippocampus was impaired by strong TMS. It is necessary to control the intensity of TMS for maximizing treatment efficacy and safety.
+C1 Univ Tokyo, Grad Sch Med, Dept Biomed Engn, Tokyo, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Tokyo, Japan.
+RP Ogiue-Ikeda, M (reprint author), Univ Tokyo, Grad Sch Med, Dept Biomed Engn, Tokyo, Japan.
+CR ARMANINI MP, 1990, BRAIN RES, V532, P7, DOI 10.1016/0006-8993(90)91734-X
+   BARKER AT, 1985, LANCET, V1, P1106
+   BLISS TVP, 1973, J PHYSIOL-LONDON, V232, P357
+   BLISS TVP, 1993, NATURE, V361, P31, DOI 10.1038/361031a0
+   Fujiki M, 1997, MOL BRAIN RES, V44, P301, DOI 10.1016/S0169-328X(96)00232-X
+   Gates J R, 1995, Neuroimaging Clin N Am, V5, P711
+   GORDON D, 1989, J BIOMED ENG, V11, P170, DOI 10.1016/0141-5425(89)90131-3
+   Hausmann A, 2000, MOL BRAIN RES, V76, P355, DOI 10.1016/S0169-328X(00)00024-3
+   LEE KS, 1980, J NEUROPHYSIOL, V44, P247
+   Mally J, 1999, J NEUROL SCI, V162, P179, DOI 10.1016/S0022-510X(98)00318-9
+   MAREN S, 1995, NEUROBIOL LEARN MEM, V63, P1, DOI 10.1006/nlme.1995.1001
+   OGIUEIKEDA M, 2002, P BIOEL SOC 24 ANN M, P208
+   PascualLeone A, 1996, LANCET, V348, P233, DOI 10.1016/S0140-6736(96)01219-6
+   Sekino M, 2002, J APPL PHYS, V91, P8730, DOI 10.1063/1.1454987
+   UENO S, 1988, J APPL PHYS, V64, P5862, DOI 10.1063/1.342181
+   UNO H, 1989, J NEUROSCI, V9, P1705
+NR 16
+TC 8
+Z9 8
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD SEP
+PY 2003
+VL 39
+IS 5
+BP 3390
+EP 3392
+DI 10.1109/TMAG.2003.816160
+PN Part 2
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 728MZ
+UT WOS:000185722100376
+ER
+
+PT J
+AU Kawato, S
+   Kobayashi, T
+AF Kawato, S
+   Kobayashi, T
+TI Design of end-pumped thin rod Yb : YAG laser amplifiers
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE quasi-four-level laser; Yb : YAG; diode-pumped solid-state laser
+   amplifier; end-pumping; thin rod
+ID SOLID-STATE LASERS; SLAB LASERS; ND; PERFORMANCE
+AB An end-pumped thin rod Yb:YAG laser amplifier architecture is proposed for high-power and efficient pulse amplification of quasi-four-level lasers. A thin and long laser rod with low ion concentration is used and optimum conditions of the laser crystal properties are discussed for efficient amplification of high-repetition-rate pulses. A high single-pass gain is expected and the thermal birefringence loss is significantly smaller than the single-pass gain. From these results, high optical conversion efficiency of more than 50% is expected for pulse amplification in the master-oscillator and power-amplifier (MOPA) system.
+C1 Fukui Univ, Grad Sch Fiber Amen Engn, Fukui 9108507, Japan.
+RP Kawato, S (reprint author), Fukui Univ, Grad Sch Fiber Amen Engn, 3-9-1 Bunkyo, Fukui 9108507, Japan.
+CR Bibeau C, 1998, IEEE J QUANTUM ELECT, V34, P2010, DOI 10.1109/3.720241
+   Bruesselbach HW, 1997, IEEE J SEL TOP QUANT, V3, P105, DOI 10.1109/2944.585822
+   CHO GC, 2000, OSA TRENDS OPTICS PH, V55, P78
+   FRANTZ LM, 1963, J APPL PHYS, V34, P2346, DOI 10.1063/1.1702744
+   GIESEN A, 1994, APPL PHYS B-LASERS O, V58, P365
+   GOODNO GD, 2001, OSA ADV SOL STAT LAS, P3
+   Honea EC, 2000, OPT LETT, V25, P805, DOI 10.1364/OL.25.000805
+   KARSZEWSKI M, 1998, OSA TECH DIG ADV SOL, P82
+   KARSZEWSKI M, 2001, OSA OPT SOC AM WASH, P378
+   KAWATO S, 2001, CLEO PAC RIM 2001, V1, P544
+   Koechner W., 1999, SOLID STATE LASER EN
+   KOECHNER W, 1970, APPL OPTICS, V9, P2548, DOI 10.1364/AO.9.002548
+   KOECHNER W, 1970, IEEE J QUANTUM ELECT, VQE 6, P557, DOI 10.1109/JQE.1970.1076529
+   Kopf D, 1997, APPL PHYS B-LASERS O, V65, P235, DOI 10.1007/s003400050269
+   LOWDERMILK WH, 1980, J APPL PHYS, V51, P2436, DOI 10.1063/1.328014
+   LUE Q, 1996, OPT QUANT ELECTRON, V28, P57
+   MUELLER D, 2001, OSA TECH DIG ADV SOL, P191
+   NICKEL D, 2001, OSA TRENDS OPTICS PH, V56, P4
+   PAVEL N, 2001, JPN J APPL PHYS, V40, P191
+   PAVEL N, 2001, OSA TECH DIG C LAS E, P171
+   RISK WP, 1988, J OPT SOC AM B, V5, P1412, DOI 10.1364/JOSAB.5.001412
+   Rutherford TS, 2001, OPT LETT, V26, P986, DOI 10.1364/OL.26.000986
+   Rutherford TS, 2000, IEEE J QUANTUM ELECT, V36, P205, DOI 10.1109/3.823467
+   SCHOTT WC, 1971, APPL PHYS LETT, V18, P3
+   STEWEN C, 2000, OSA OPT SOC AM WASH, P13
+   Sumida DS, 1998, P SOC PHOTO-OPT INS, V3265, P100, DOI 10.1117/12.308662
+   Taira T, 1997, APPL OPTICS, V36, P1867, DOI 10.1364/AO.36.001867
+   Yanagisawa T, 2001, OPT LETT, V26, P1262, DOI 10.1364/OL.26.001262
+NR 28
+TC 4
+Z9 4
+PU INST PURE APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG, 4-24-8 SHINBASHI, MINATO-KU TOKYO, 105-004, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD MAY
+PY 2003
+VL 42
+IS 5A
+BP 2705
+EP 2710
+DI 10.1143/JJAP.42.2705
+PG 6
+WC Physics, Applied
+SC Physics
+GA 693YA
+UT WOS:000183744900031
+ER
+
+PT J
+AU Shibuya, K
+   Takata, N
+   Hojo, Y
+   Furukawa, A
+   Yasumatsu, N
+   Kimoto, T
+   Enami, T
+   Suzuki, K
+   Tanabe, N
+   Ishii, H
+   Mukai, H
+   Takahashi, T
+   Hattoria, T
+   Kawato, S
+AF Shibuya, K
+   Takata, N
+   Hojo, Y
+   Furukawa, A
+   Yasumatsu, N
+   Kimoto, T
+   Enami, T
+   Suzuki, K
+   Tanabe, N
+   Ishii, H
+   Mukai, H
+   Takahashi, T
+   Hattoria, T
+   Kawato, S
+TI Hippocampal cytochrome P450s synthesize brain neurosteroids which are
+   paracrine neuromodulators of synaptic signal transduction
+SO BIOCHIMICA ET BIOPHYSICA ACTA-GENERAL SUBJECTS
+LA English
+DT Article; Proceedings Paper
+CT 12th International Symposium on Cellular Biology of Cytochrome P450
+   Regulation
+CY SEP, 2001
+CL LA GRANDE MOTTE, FRANCE
+DE neurosteroid; P450; hippocampus; brain; LTP; signal transduction
+ID METHYL-D-ASPARTATE; CENTRAL-NERVOUS-SYSTEM; DENDRITIC SPINE DENSITY;
+   PREGNENOLONE SULFATE POTENTIATION; LONG-TERM POTENTIATION; CHAIN
+   CLEAVAGE ENZYME; RAT-BRAIN; 3-BETA-HYDROXYSTEROID DEHYDROGENASE;
+   STEROIDOGENIC ENZYMES; RECEPTOR-CHANNELS
+AB Hippocampal pyramidal neurons and granule neurons of adult male rats are equipped with a complete machinery for the synthesis of pregnenolone, dehydroepiandrosterone, 17beta-estradiol and testosterone as well as their sulfate esters. These brain neurosteroids are synthesized by cytochrome P450s (P450scc, P45017alpha and P450arom) from endogenous cholesterol. Synthesis is acutely dependent on the Ca2+ influx attendant upon neuron-neuron communication via N-methyl-D-aspartate (NMDA) receptors. Pregnenolone sulfate, estradiol and corticosterone rapidly modulate neuronal signal transduction and the induction of long-term potentiation via NMDA receptors and putative membrane steroid receptors. Brain neurosteroids are therefore promising neuromodulators that may either activate or inactivate neuron-neuron communication, thereby mediating learning and memory in the hippocampus. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ Tokyo Komaba, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 153, Japan.
+   Univ Tokyo Komaba, Japan Promot Sci & Technol, CREST, Meguro Ku, Tokyo 153, Japan.
+   Kagawa Med Univ, Fac Med, Dept Biochem, Kagawa 761, Japan.
+RP Kawato, S (reprint author), Univ Tokyo Komaba, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 153, Japan.
+RI Hojo, Yasushi/D-2964-2011; Mukai, Hideo/D-7261-2011
+CR Adams MM, 2001, P NATL ACAD SCI USA, V98, P8071, DOI 10.1073/pnas.141215898
+   ARMANINI MP, 1990, BRAIN RES, V532, P7, DOI 10.1016/0006-8993(90)91734-X
+   Baulieu EE, 1997, RECENT PROG HORM RES, V52, P1
+   Baulieu EE, 1998, P NATL ACAD SCI USA, V95, P4089, DOI 10.1073/pnas.95.8.4089
+   Beyenburg S, 2000, EPILEPSY RES, V41, P83, DOI 10.1016/S0920-1211(00)00130-3
+   Beyenburg S, 2001, NEUROSCI LETT, V308, P111, DOI 10.1016/S0304-3940(01)01991-7
+   Beyer C, 1998, EUR J NEUROSCI, V10, P255, DOI 10.1046/j.1460-9568.1998.00045.x
+   Bi RF, 2000, P NATL ACAD SCI USA, V97, P3602, DOI 10.1073/pnas.060034497
+   BOWLBY MR, 1993, MOL PHARMACOL, V43, P813
+   Clarke CH, 2000, NEUROENDOCRINOLOGY, V71, P34, DOI 10.1159/000054518
+   Collins P, 1999, NAT MED, V5, P1130, DOI 10.1038/13453
+   COMPAGNONE NA, 1995, ENDOCRINOLOGY, V136, P5212, DOI 10.1210/en.136.11.5212
+   Cordoba Montoya D. A., 1997, Brain Research, V778, P430, DOI 10.1016/S0006-8993(97)01206-7
+   CORPECHOT C, 1981, P NATL ACAD SCI-BIOL, V78, P4704, DOI 10.1073/pnas.78.8.4704
+   DIAMOND DM, 1992, HIPPOCAMPUS, V2, P421, DOI 10.1002/hipo.450020409
+   FAHEY JM, 1995, BRAIN RES, V669, P183, DOI 10.1016/0006-8993(94)01223-5
+   FLOOD JF, 1995, P NATL ACAD SCI USA, V92, P10806, DOI 10.1073/pnas.92.23.10806
+   FLOOD JF, 1992, P NATL ACAD SCI USA, V89, P1567, DOI 10.1073/pnas.89.5.1567
+   Foy MR, 1999, J NEUROPHYSIOL, V81, P925
+   Gazzaley AH, 1996, J NEUROSCI, V16, P6830
+   Goetz RM, 1999, P NATL ACAD SCI USA, V96, P2788, DOI 10.1073/pnas.96.6.2788
+   GomezSanchez CE, 1997, ENDOCRINOLOGY, V138, P3369, DOI 10.1210/en.138.8.3369
+   GOULD E, 1990, J NEUROSCI, V10, P1286
+   GUARNERI P, 1994, J NEUROCHEM, V63, P86
+   Guarneri P, 1998, EUR J NEUROSCI, V10, P1752, DOI 10.1046/j.1460-9568.1998.00191.x
+   GUO Z, 1995, FUNCT NEUROL, V10, P183
+   IRWIN RP, 1992, NEUROSCI LETT, V141, P30, DOI 10.1016/0304-3940(92)90327-4
+   IRWIN RP, 1994, J PHARMACOL EXP THER, V271, P677
+   Ito KI, 1999, J PHYSIOL-LONDON, V515, P209, DOI 10.1111/j.1469-7793.1999.209ad.x
+   IWAHASHI K, 1990, BIOCHIM BIOPHYS ACTA, V1035, P182, DOI 10.1016/0304-4165(90)90114-C
+   Joels M, 1997, FRONT NEUROENDOCRIN, V18, P2, DOI 10.1006/frne.1996.0144
+   JUNGTESTAS I, 1989, ENDOCRINOLOGY, V125, P2083
+   Kawato S, 2002, METHOD ENZYMOL, V357, P241
+   KAWATO S, 2001, ADV BIOPHYS, V37, P1
+   KIMOTO T, 1999, MOL STEROIDOGENESIS, P385
+   Kimoto T, 1997, J PHARMACEUT BIOMED, V15, P1231, DOI 10.1016/S0731-7085(96)01987-5
+   Kimoto T, 2001, ENDOCRINOLOGY, V142, P3578, DOI 10.1210/en.142.8.3578
+   KOENIG HL, 1995, SCIENCE, V268, P1500, DOI 10.1126/science.7770777
+   Labrie F, 1997, STEROIDS, V62, P148, DOI 10.1016/S0039-128X(96)00174-2
+   LEGOASCOGNE C, 1987, SCIENCE, V237, P1212, DOI 10.1126/science.3306919
+   LeFoll F, 1997, EUR J PHARMACOL, V331, P303, DOI 10.1016/S0014-2999(97)01042-X
+   LEGOASCOGNE C, 1991, J REPROD FERTIL, V93, P609
+   Liere P, 2000, J CHROMATOGR B, V739, P301, DOI 10.1016/S0378-4347(99)00563-0
+   LIPOSITS Z, 1993, J NEUROSCI RES, V35, P14, DOI 10.1002/jnr.490350103
+   MAJEWSKA MD, 1990, EUR J PHARM-MOLEC PH, V189, P307, DOI 10.1016/0922-4106(90)90124-G
+   McEwen BS, 1996, CELL MOL NEUROBIOL, V16, P103, DOI 10.1007/BF02088170
+   McEwen BS, 1999, ANNU REV NEUROSCI, V22, P105, DOI 10.1146/annurev.neuro.22.1.105
+   McEwen BS, 2000, NEUROCHEM RES, V25, P1219, DOI 10.1023/A:1007687911139
+   MELLON SH, 1993, BRAIN RES, V629, P283, DOI 10.1016/0006-8993(93)91332-M
+   Mensah-Nyagan AG, 1999, PHARMACOL REV, V51, P63
+   Milner TA, 2001, J COMP NEUROL, V429, P355, DOI 10.1002/1096-9861(20010115)429:3<355::AID-CNE1>3.0.CO;2-#
+   MORFIN R, 1992, P NATL ACAD SCI USA, V89, P6790, DOI 10.1073/pnas.89.15.6790
+   Mukai H, 2000, NEUROSCI LETT, V282, P93, DOI 10.1016/S0304-3940(00)00868-5
+   Murphy DD, 1996, J NEUROSCI, V16, P4059
+   Nair SM, 1998, J NEUROSCI, V18, P2685
+   Furukawa A, 1998, J NEUROCHEM, V71, P2231
+   Park-Chung M, 1997, MOL PHARMACOL, V52, P1113
+   Pelletier G, 1995, BRAIN RES, V704, P233, DOI 10.1016/0006-8993(95)01119-6
+   Pozzo-Miller LD, 1999, J NEUROPHYSIOL, V81, P1404
+   ROBEL P, 1991, BRAIN ENDOCRINOLOGY, P105
+   ROBEL P, 1987, J STEROID BIOCHEM, V27, P649, DOI 10.1016/0022-4731(87)90133-6
+   Russell KS, 2000, P NATL ACAD SCI USA, V97, P5930, DOI 10.1073/pnas.97.11.5930
+   Sakamoto H, 2001, J NEUROSCI, V21, P6221
+   SANNE JL, 1995, J NEUROCHEM, V65, P528
+   Schumacher M., 1997, STRESS, V2, P65
+   STROMSTEDT M, 1995, MOL BRAIN RES, V34, P75, DOI 10.1016/0169-328X(95)00140-N
+   TAKAHASHI T, 2002, IN PRESS J NEUROCHEM
+   TAKAHASHI T, 1999, MOL STEROIDOGENESIS, P407
+   TEYLER TJ, 1980, SCIENCE, V209, P1017, DOI 10.1126/science.7190730
+   Toran-Allerand CD, 1999, FRONT NEUROENDOCRIN, V20, P97, DOI 10.1006/frne.1999.0177
+   TOWLE AC, 1983, J STEROID BIOCHEM, V18, P135, DOI 10.1016/0022-4731(83)90079-1
+   Tsien JZ, 1996, CELL, V87, P1317, DOI 10.1016/S0092-8674(00)81826-7
+   Tsien JZ, 1996, CELL, V87, P1327, DOI 10.1016/S0092-8674(00)81827-9
+   Tsutsui K, 2000, NEUROSCI RES, V36, P261, DOI 10.1016/S0168-0102(99)00132-7
+   Uchino S, 1997, MOL BRAIN RES, V44, P1, DOI 10.1016/S0169-328X(96)00167-2
+   Ukena K, 1999, ENDOCRINOLOGY, V140, P805, DOI 10.1210/en.140.2.805
+   Ukena K, 1998, ENDOCRINOLOGY, V139, P137, DOI 10.1210/en.139.1.137
+   Vallee M, 2001, BRAIN RES REV, V37, P301, DOI 10.1016/S0165-0173(01)00135-7
+   Vallee M, 1997, P NATL ACAD SCI USA, V94, P14865, DOI 10.1073/pnas.94.26.14865
+   Wang MD, 1997, J STEROID BIOCHEM, V62, P299, DOI 10.1016/S0960-0760(97)00041-1
+   WARNER M, 1995, FRONT NEUROENDOCRIN, V16, P224, DOI 10.1006/frne.1995.1008
+   WATANABE Y, 1992, BRAIN RES, V588, P341, DOI 10.1016/0006-8993(92)91597-8
+   Wehrenberg U, 2001, J NEUROCHEM, V76, P1879, DOI 10.1046/j.1471-4159.2001.00207.x
+   WEILAND NG, 1992, ENDOCRINOLOGY, V131, P662, DOI 10.1210/en.131.2.662
+   WONG M, 1994, J NEUROENDOCRINOL, V6, P347, DOI 10.1111/j.1365-2826.1994.tb00592.x
+   Woolley CS, 1998, HORM BEHAV, V34, P140, DOI 10.1006/hbeh.1998.1466
+   WOOLLEY CS, 1990, BRAIN RES, V531, P225, DOI 10.1016/0006-8993(90)90778-A
+   WOOLLEY CS, 1994, J NEUROSCI, V14, P7680
+   WU FS, 1991, MOL PHARMACOL, V40, P333
+   Yu L, 2002, MOL CELL ENDOCRINOL, V190, P9, DOI 10.1016/S0303-7207(02)00041-2
+   Zwain IH, 1999, ENDOCRINOLOGY, V140, P880, DOI 10.1210/en.140.2.880
+   Zwain IH, 1999, ENDOCRINOLOGY, V140, P3843, DOI 10.1210/en.140.8.3843
+NR 92
+TC 68
+Z9 70
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-4165
+J9 BBA-GEN SUBJECTS
+JI Biochim. Biophys. Acta-Gen. Subj.
+PD FEB 17
+PY 2003
+VL 1619
+IS 3
+BP 301
+EP 316
+DI 10.1016/S0304-4165(02)00489-0
+PG 16
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 648FW
+UT WOS:000181140200011
+ER
+
+PT J
+AU Sun, DS
+   Kawato, S
+   Kobayashi, T
+AF Sun, DS
+   Kawato, S
+   Kobayashi, T
+TI Ultraviolet Rayleigh lidar for wind and temperature measurements
+SO OPTICAL REVIEW
+LA English
+DT Article
+DE lidar; remote sensing; Rayleigh scattering; wind; and temperature
+ID DOPPLER WIND
+AB A new method of simultaneous remote sensing of atmospheric wind and temperature by a ultraviolet Rayleigh lidar is described. This technique uses two narrowband filters located at either side of the wings of the Rayleigh backscatter spectrum to analyze Rayleigh backscattering signals. These filters are selected to be greatly sensitive to both velocity and temperature. By measuring the ratio and the sum of the two normalized filtered signals, the line-of-sight wind velocity and temperature profiles can be retrieved. A lidar system is proposed for the wind velocity and temperature measurements in the middle atmosphere, and the simulation results show that the accuracies of velocity and temperature are about 1 m/s and 2 K at the height of 30 km, respectively. The influence of aerosol component has been estimated for clear weather conditions, and with an uncertainty of aerosol component of 15% the errors are about 0.1 m/s and 2 K above the troposphere, respectively.
+C1 Fukui Univ, Dept Elect & Elect Engn, Fukui 9108507, Japan.
+RP Sun, DS (reprint author), Fukui Univ, Dept Elect & Elect Engn, Fukui 9108507, Japan.
+EM kobayasi@optele.fuee.fukui-u.ac.jp
+CR DRUEGER DA, 1999, 20 JAP LAS SENS S FU, P161
+   Flesia C, 1999, APPL OPTICS, V38, P432, DOI 10.1364/AO.38.000432
+   FLESIA C, 1999, CLEO PACIKC RIM 99 S, P141
+   HAIR J, 1998, 19 INT LAS RAD C VIR, P99
+   HARCHECORNE A, 1980, GEOPHYS RES LETT, V7, P565
+   KLETT JD, 1981, APPL OPTICS, V20, P211, DOI 10.1364/AO.20.000211
+   KOBAYASHI T, 1999, 20 JAP LAS SENS S FU, P165
+   MCCLATCHEY RA, 1978, TR780029 AFGL, P24
+   Rees D, 1996, J ATMOS TERR PHYS, V58, P1827, DOI 10.1016/0021-9169(95)00174-3
+   SHE CY, 1999, 20 JAP LAS SENS S FU, P13
+   Souprayen C, 1999, APPL OPTICS, V38, P2410, DOI 10.1364/AO.38.002410
+   WEITKAMP C, 1999, 20 JAP LAS SENS S FU, P5
+   YONG AT, 1986, APPL OPTICS, V22, P3668
+NR 13
+TC 2
+Z9 6
+PU OPTICAL SOC JAPAN
+PI TOKYO
+PA KUDAN-KITA BLDG 5F, 1-12-3, KUDAN-KITA CHIYODA-KU, TOKYO, 102, JAPAN
+SN 1340-6000
+J9 OPT REV
+JI Opt. Rev.
+PD NOV-DEC
+PY 2000
+VL 7
+IS 6
+BP 555
+EP 560
+DI 10.1007/s10043-000-0555-2
+PG 6
+WC Optics
+SC Optics
+GA 398JU
+UT WOS:000166754000014
+ER
+
+PT J
+AU Kou, JK
+   Zhakhovskii, V
+   Sakabe, S
+   Nishihara, K
+   Shimizu, S
+   Kawato, S
+   Hashida, M
+   Shimizu, K
+   Bulanov, S
+   Izawa, Y
+   Kato, Y
+   Nakashima, N
+AF Kou, JK
+   Zhakhovskii, V
+   Sakabe, S
+   Nishihara, K
+   Shimizu, S
+   Kawato, S
+   Hashida, M
+   Shimizu, K
+   Bulanov, S
+   Izawa, Y
+   Kato, Y
+   Nakashima, N
+TI Anisotropic Coulomb explosion of C-60 irradiated with a high-intensity
+   femtosecond laser pulse
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID ATOMIC CLUSTERS; IONIZATION; EXCITATION; MOLECULES; FIELDS; PLASMA; IONS
+AB C-60 vapor was irradiated with an intense femtosecond laser pulse (1x10(16) W/cm2 in 120 fs at a wavelength of 800 nm). Multiply charged carbon ions, up to C4+, were detected in the time-of-flight spectra. We have measured both energy and angular distributions with respect to the laser polarization direction for ions with different charge number. The kinetic energy of ions are distributed above 1 keV. The angular distribution measurement shows that the highly charged ions of C3+ and C4+ are mostly distributed in the directions parallel to the laser polarization, and the C+ ions are slightly distributed in the direction perpendicular to it. These observations clearly indicate that an anisotropic explosion takes place. The average energy of ions with the different charge number is found to be proportional to the square of the charge number, while the maximum energy is proportional to the charge number. Classical molecular dynamics simulations have been successfully carried out reproducing not only the energy spectra but also the angular distributions of ions. The C3+ ions are shown to be produced by the cascade hopping of electrons induced by the intense laser light. The simulations suggest that the most crucial process for the anisotropic Coulomb explosion of C-60 is not the electron impact ionization, but the cascade hopping of electrons. (C) 2000 American Institute of Physics. [S0021-9606(00)01208-3].
+C1 Osaka Univ, Inst Laser Engn, Suita, Osaka 5650871, Japan.
+   Osaka Univ, Grad Sch Engn, Suita, Osaka 5650871, Japan.
+   Osaka City Univ, Grad Sch Sci, Dept Chem, Osaka 5588585, Japan.
+   Inst Lase Technol, Osaka 5500004, Japan.
+   Russian Acad Sci, Inst Gen Phys, Moscow 117924, Russia.
+   Japan Atom Energy Res Inst, Kansai Res Estab, Adv Photon Res Ctr, Kizu, Kyoto 6190215, Japan.
+RP Kou, JK (reprint author), Osaka Univ, Inst Laser Engn, 2-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+RI Zhakhovsky, Vasily/G-9560-2011; Bulanov, Sergei/A-1721-2013
+CR AUGST S, 1991, J OPT SOC AM B, V8, P858, DOI 10.1364/JOSAB.8.000858
+   Baumert T, 1997, PHYS SCRIPTA, VT72, P53, DOI 10.1088/0031-8949/1997/T72/008
+   Constant E, 1996, PHYS REV LETT, V76, P4140, DOI 10.1103/PhysRevLett.76.4140
+   Constantinescu RC, 1998, PHYS REV A, V58, P4637, DOI 10.1103/PhysRevA.58.4637
+   Ditmire T, 1998, PHYS REV A, V57, pR4094, DOI 10.1103/PhysRevA.57.R4094
+   DITMIRE T, 1997, NATURE, V386, P55
+   Ditmire T, 1999, NATURE, V398, P489, DOI 10.1038/19037
+   Ditmire T, 1998, PHYS REV A, V57, P369, DOI 10.1103/PhysRevA.57.369
+   Ditmire T, 1997, PHYS REV LETT, V78, P2732, DOI 10.1103/PhysRevLett.78.2732
+   HAY N, 1999, J PHYS B ATOM MOL PH, V32, pL17
+   HEERMAN DW, 1986, COMPUTER SIMULATION
+   Hishikawa A, 1998, CHEM PHYS, V231, P315, DOI 10.1016/S0301-0104(98)00025-1
+   Hunsche S, 1996, PHYS REV LETT, V77, P1966, DOI 10.1103/PhysRevLett.77.1966
+   KELDYSH LV, 1965, ZH EKSP TEOR FIZ, V20, P1307
+   Kou J, 1998, CHEM PHYS LETT, V289, P334, DOI 10.1016/S0009-2614(98)00410-2
+   Normand D, 1996, PHYS REV A, V53, pR1958
+   Schillinger H., 1997, Review of Laser Engineering, V25
+   SCHMIDT M, 1994, PHYS REV A, V50, P5037, DOI 10.1103/PhysRevA.50.5037
+   Shao YL, 1996, PHYS REV LETT, V77, P3343, DOI 10.1103/PhysRevLett.77.3343
+   WALKER B, 1994, PHYS REV LETT, V73, P1227, DOI 10.1103/PhysRevLett.73.1227
+   WULKER C, 1994, OPT COMMUN, V112, P21, DOI 10.1016/0030-4018(94)90073-6
+   Zhaknovskii V. V., 1997, SOV PHYS JETP, V84, P734
+NR 22
+TC 48
+Z9 48
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD MAR 15
+PY 2000
+VL 112
+IS 11
+BP 5012
+EP 5020
+DI 10.1063/1.481056
+PG 9
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 290QT
+UT WOS:000085687900013
+ER
+
+PT J
+AU Ichikawa, T
+   Yamada, M
+   Homma, D
+   Cherry, RJ
+   Morrison, IEG
+   Kawato, S
+AF Ichikawa, T
+   Yamada, M
+   Homma, D
+   Cherry, RJ
+   Morrison, IEG
+   Kawato, S
+TI Digital fluorescence imaging of trafficking of endosomes containing
+   low-density lipoprotein in brain astroglial cells
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+ID PRIMARY CULTURES; GLIAL-CELLS; RECEPTOR; MELANOPHORES; DYNEIN
+AB We have used digital fluorescence microscopy to examine transport of LDL-containing endosomes in rat brain astroglial cells to show that individual middle endosomes undergo rapid transitions between forward/backward movements and immobile states over short distances. The population of rapidly moving endosomes (>0.04 mu m/sec) was 35.9%, and the remaining endosomes were slowly moving or temporarily immobile (<0.04 mu m/sec). The averaged motion was, however, a very slow perinuclear motion with a velocity of 3.25 mu m/h. This small velocity is mainly due to frequent changing of directions in movements, requiring 6 h for a significant concentration around the circumference of the cell nuclei. The application of both anti-dynein antibodies and vanadate in permeabilized cells resulted in peripherally concentrated distribution of endosomes, probably due to inhibition of perinuclear motion by dynein-like motor proteins. These results imply that both dynein-like and kinesin-like proteins bind to the same endosome resulting in both perinuclear and peripherally directed movements. (C) 2000 Academic Press.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Tokyo 153, Japan.
+   Kyorin Univ, Sch Med, Dept Phys, Mitaka, Tokyo 181, Japan.
+   Univ Essex, Dept Biol Sci, Colchester CO4 3SQ, Essex, England.
+RP Kawato, S (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Komaba 3-8-1, Tokyo 153, Japan.
+CR BAULIEU EE, 1990, J STEROID BIOCHEM, V37, P395, DOI 10.1016/0960-0760(90)90490-C
+   Dehouck B, 1997, J CELL BIOL, V138, P877, DOI 10.1083/jcb.138.4.877
+   GRUNDSTROM N, 1985, ACTA PHYSIOL SCAND, V125, P415, DOI 10.1111/j.1748-1716.1985.tb07737.x
+   Guillaume D, 1996, J NEUROCHEM, V66, P2410
+   HAVEL RJ, 1955, J CLIN INVEST, V34, P1345, DOI 10.1172/JCI103182
+   HISANAGA SI, 1983, J BIOCHEM-TOKYO, V93, P87
+   JUNGTESTAS I, 1992, J STEROID BIOCHEM, V42, P597, DOI 10.1016/0960-0760(92)90450-W
+   Kimoto T, 1997, J PHARMACEUT BIOMED, V15, P1231, DOI 10.1016/S0731-7085(96)01987-5
+   KOVANEN PT, 1979, ENDOCRINOLOGY, V104, P599
+   MELLON SH, 1993, BRAIN RES, V629, P283, DOI 10.1016/0006-8993(93)91332-M
+   Nilsson H, 1997, CELL MOTIL CYTOSKEL, V38, P397, DOI 10.1002/(SICI)1097-0169(1997)38:4<397::AID-CM9>3.0.CO;2-0
+   SALEN G, 1987, NEW ENGL J MED, V316, P1233, DOI 10.1056/NEJM198705143162002
+   WALZ W, 1995, RECEPTORS PHYSL NEUR, P185
+   Wilson KM, 1996, J CELL SCI, V109, P2101
+   WU FS, 1991, MOL PHARMACOL, V40, P333
+NR 15
+TC 13
+Z9 14
+PU ACADEMIC PRESS INC
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD MAR 5
+PY 2000
+VL 269
+IS 1
+BP 25
+EP 30
+DI 10.1006/bbrc.2000.2261
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 294PA
+UT WOS:000085918600005
+ER
+
+PT J
+AU Shimizu, S
+   Kou, J
+   Kawato, S
+   Shimizu, K
+   Sakabe, S
+   Nakashima, N
+AF Shimizu, S
+   Kou, J
+   Kawato, S
+   Shimizu, K
+   Sakabe, S
+   Nakashima, N
+TI Coulomb explosion of benzene irradiated by an intense femtosecond laser
+   pulse
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID IONIZATION; MOLECULES; FIELD; IONS; BEAMS; N-2
+AB A Coulomb explosion in a benzene molecule induced by an intense femtosecond laser field has been studied using the method of time-of-flight mass spectrometry. The laser intensity region of a Ti:sapphire laser was from 2.9 X 10(16) to 1.8 X 10(17) W cm(-2). Major ions were found to be multiply-charged carbon atoms, while the ion intensities of benzene fragments were small. The initial kinetic energy releases of Cq+ (q = 1 similar to 4) ions increased with increases in laser intensity, reaching 330 eV for the C4+ ion at 1.8 X 10(17) W cm(-2). A critical structure of the Coulomb explosion, where the charges are non-uniformly distributed and the structures an expanded slightly, has been postulated to explain such great energies of the multiply-charged ions. (C) 2000 Published by Elsevier Science B.V. All rights reserved.
+C1 Osaka City Univ, Grad Sch Sci, Dept Chem, Osaka 5588585, Japan.
+   Osaka Univ, Inst Laser Engn, Suita, Osaka 5650871, Japan.
+   Osaka Univ, Grad Sch Engn, Suita, Osaka 5650871, Japan.
+RP Shimizu, S (reprint author), Osaka City Univ, Grad Sch Sci, Dept Chem, 3-3-138 Sugimoto, Osaka 5588585, Japan.
+CR AUGST S, 1991, J OPT SOC AM B, V8, P858, DOI 10.1364/JOSAB.8.000858
+   Bhardwaj VR, 1999, PHYS REV A, V59, P1392, DOI 10.1103/PhysRevA.59.1392
+   Castillejo M, 1998, CHEM PHYS LETT, V289, P303, DOI 10.1016/S0009-2614(98)00442-4
+   Castillejo M, 1999, CHEM PHYS LETT, V308, P373, DOI 10.1016/S0009-2614(99)00636-3
+   Constantinescu RC, 1998, PHYS REV A, V58, P4637, DOI 10.1103/PhysRevA.58.4637
+   CORNAGGIA C, 1995, PHYS REV A, V52, pR4328
+   CORNAGGIA C, 1992, J PHYS B-AT MOL OPT, V25, pL415, DOI 10.1088/0953-4075/25/17/003
+   CORNAGGIA C, 1995, PHYS REV A, V51, P1431, DOI 10.1103/PhysRevA.51.1431
+   DeWitt MJ, 1997, CHEM PHYS, V218, P211, DOI 10.1016/S0301-0104(97)00055-4
+   Hay N, 1999, J PHYS B-AT MOL OPT, V32, pL17, DOI 10.1088/0953-4075/32/2/033
+   Hishikawa A, 1998, CHEM PHYS LETT, V282, P283, DOI 10.1016/S0009-2614(97)01325-0
+   Hishikawa A, 1998, CHEM PHYS, V231, P315, DOI 10.1016/S0301-0104(98)00025-1
+   KOU J, UNPUB J CHEM PHYS
+   Ledingham KWD, 1998, J PHYS CHEM A, V102, P3002, DOI 10.1021/jp9816162
+   Sakabe S., 1997, Review of Laser Engineering, V25
+   Sanderson JH, 1997, J PHYS B-AT MOL OPT, V30, P4499, DOI 10.1088/0953-4075/30/20/013
+   Schillinger H., 1997, Review of Laser Engineering, V25
+   Smith DJ, 1998, RAPID COMMUN MASS SP, V12, P813, DOI 10.1002/(SICI)1097-0231(19980715)12:13<813::AID-RCM241>3.3.CO;2-O
+NR 18
+TC 68
+Z9 75
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD FEB 11
+PY 2000
+VL 317
+IS 6
+BP 609
+EP 614
+DI 10.1016/S0009-2614(99)01376-7
+PG 6
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA 285DJ
+UT WOS:000085374100014
+ER
+
+PT J
+AU Slobodchikov, E
+   Sakabe, S
+   Kuge, T
+   Kawato, S
+   Hashida, M
+   Izawa, Y
+AF Slobodchikov, E
+   Sakabe, S
+   Kuge, T
+   Kawato, S
+   Hashida, M
+   Izawa, Y
+TI Sub-10-fs Ti : sapphire Kerr-lens mode locked oscillator
+SO OPTICAL REVIEW
+LA English
+DT Article
+DE 10-fs; Ti : sapphire laser; Kerr-lens mode locked
+ID OPTICAL PULSE-COMPRESSION; REPETITION RATE; LASER; GENERATION; FS
+AB Assembly of a sub-10-fs Ti:sapphire oscillator using only optical components commercially available in catalogues is reported. It was demonstrated that stable sub-10-fs optical pulses near 800 nm can be generated from a Kerr-lens mode locked oscillator equipped with a pair of prisms to compensate group delay dispersions (GDD) in the cavity. For the GDD control in a 10fs-pulse oscillator it was concluded that chirped mirrors are not always necessary, and a pair of prisms is still available.
+C1 Osaka Univ, Grad Sch, Dept Electromagnet Energy Engn, Suita, Osaka 5650871, Japan.
+   Inst Laser Technol, Suita, Osaka 5650871, Japan.
+   Osaka Univ, Inst Laser Engn, Suita, Osaka 5650871, Japan.
+RP Slobodchikov, E (reprint author), Osaka Univ, Grad Sch, Dept Electromagnet Energy Engn, 2-1 Yamadaoka, Suita, Osaka 5650871, Japan.
+EM sakabe@ile.osaka-u.ac.jp
+CR Baltuska A, 1997, OPT LETT, V22, P102, DOI 10.1364/OL.22.000102
+   CHRISTODOULIDES DN, 1986, IEEE J QUANTUM ELECT, V22, P186, DOI 10.1109/JQE.1986.1072856
+   FORK RL, 1987, OPT LETT, V12, P483, DOI 10.1364/OL.12.000483
+   Jung ID, 1997, OPT LETT, V22, P1009, DOI 10.1364/OL.22.001009
+   Kasper A, 1996, OPT LETT, V21, P360, DOI 10.1364/OL.21.000360
+   KNOX WH, 1985, APPL PHYS LETT, V46, P1120, DOI 10.1063/1.95728
+   SPENCE DE, 1991, OPT LETT, V16, P42, DOI 10.1364/OL.16.000042
+   STINGL A, 1995, OPT LETT, V20, P602, DOI 10.1364/OL.20.000602
+   STINGL A, 1994, OPT LETT, V19, P204, DOI 10.1364/OL.19.000204
+   SZIPOCS R, 1994, OPT LETT, V19, P201, DOI 10.1364/OL.19.000201
+   Xu L, 1996, OPT LETT, V21, P1259, DOI 10.1364/OL.21.001259
+   ZHOU JP, 1994, OPT LETT, V19, P1149
+NR 12
+TC 1
+Z9 1
+PU OPTICAL SOC JAPAN
+PI TOKYO
+PA KUDAN-KITA BLDG 5F, 1-12-3, KUDAN-KITA CHIYODA-KU, TOKYO, 102, JAPAN
+SN 1340-6000
+J9 OPT REV
+JI Opt. Rev.
+PD MAR-APR
+PY 1999
+VL 6
+IS 2
+BP 149
+EP 151
+DI 10.1007/s10043-999-0149-6
+PG 3
+WC Optics
+SC Optics
+GA 201ZW
+UT WOS:000080628500011
+ER
+
+PT J
+AU Suzuki-Tomii, K
+   Ohta, Y
+   Kawato, S
+   Mitaku, S
+AF Suzuki-Tomii, K
+   Ohta, Y
+   Kawato, S
+   Mitaku, S
+TI Comparative experiments of protein denaturation for studying structural
+   difference of homologous membrane proteins: P-450(scc) and P-450(11
+   beta)
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE P-450(scc); P-450(11 beta); membrane topology; denaturation experiments;
+   structural model
+ID CRYSTAL-STRUCTURE; SECONDARY STRUCTURE; TOPOLOGY; CYTOCHROME-P-450;
+   MICROSOMES; ROTATION; BACTERIORHODOPSIN; DOMAIN
+AB The topological difference between two homologous membrane proteins, cytochromes P-450(scc) and P-450(11 beta) in the inner membrane of bovine adrenocortical mitochondria, was studied by denaturation experiments, using urea and 1-pentanol as denaturants. Both P-450s denatured at the urea concentration of about 2.5 M that is in the concentration range of the denaturation of soluble proteins. In contrast, P-450(11 beta) was denatured by 1-pentanol, which is an efficient denaturant of membrane proteins, at a much lower concentration than P-450(scc). These results suggested that the membrane domain is more strongly coupled with the soluble functional domain in P-450(11 beta) than P-450(scc). It was: also indicated that the comparative experiments of protein denaturation by urea and alcohol provide a simple method to identify the structural difference of homologous membrane proteins.
+C1 Tokyo Univ Agr & Technol, Fac Technol, Koganei, Tokyo 1848588, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Dept Biophys & Life Sci, Meguro Ku, Tokyo 153, Japan.
+RP Mitaku, S (reprint author), Tokyo Univ Agr & Technol, Fac Technol, Koganei, Tokyo 1848588, Japan.
+CR BLACK SD, 1992, FASEB J, V6, P680
+   BROWN CA, 1989, J BIOL CHEM, V264, P4442
+   CUPPVICKERY JR, 1995, STRUCT BIOL, V2, P144
+   Dong MS, 1996, BIOCHEMISTRY-US, V35, P10031, DOI 10.1021/bi960873z
+   HASEMANN CA, 1994, J MOL BIOL, V236, P1169, DOI 10.1016/0022-2836(94)90019-1
+   KATAGIRI M, 1976, IRON COPPER PROTEINS, P281
+   KATAGIRI M, 1993, CYTOCHROME P450, P101
+   KOMINAMI S, 1995, BIOCHEMISTRY-US, V34, P4839, DOI 10.1021/bi00014a041
+   KUKITA F, 1993, J PHYSIOL-LONDON, V463, P523
+   KUNZ BC, 1991, BIOCHIM BIOPHYS ACTA, V1063, P226, DOI 10.1016/0005-2736(91)90375-I
+   MITAKU S, 1995, PROTEINS, V22, P350, DOI 10.1002/prot.340220406
+   MITAKU S, 1990, PROTEIN STRUCTURAL A, P127
+   MULLER M, 1982, J BIOL CHEM, V257, P1117
+   NELSON DR, 1989, BIOCHEMISTRY-US, V28, P656, DOI 10.1021/bi00428a036
+   NELSON DR, 1988, J BIOL CHEM, V263, P6038
+   NELSON DR, 1993, DNA CELL BIOL, V12, P1, DOI 10.1089/dna.1993.12.1
+   OHTA Y, 1990, J BIOCHEM-TOKYO, V107, P97
+   OHTA Y, 1992, BIOCHEMISTRY-US, V31, P12680, DOI 10.1021/bi00165a019
+   OHTA Y, 1995, P 9 INT C BIOCH BIOP, P15
+   OHTA Y, 1994, J BIOL CHEM, V269, P15597
+   OMURA T, 1964, J BIOL CHEM, V239, P2370
+   OU W, 1986, J BIOCHEM-TOKYO, V100, P1287
+   OUZOUNIS CA, 1991, EUR J BIOCHEM, V198, P307, DOI 10.1111/j.1432-1033.1991.tb16017.x
+   Park SY, 1997, FEBS LETT, V412, P346, DOI 10.1016/S0014-5793(97)00795-3
+   POULOS TL, 1985, J BIOL CHEM, V260, P6122
+   RAVICHANDRAN KG, 1993, SCIENCE, V261, P731, DOI 10.1126/science.8342039
+   SATO T, 1990, EMBO J, V9, P2391
+   SHUMYANTSEVA VV, 1994, BIOCHEM MOL BIOL INT, V34, P183
+   SZKLARZ GD, 1995, BIOCHEMISTRY-US, V34, P14312, DOI 10.1021/bi00044a008
+   TRETIAKOV VE, 1989, ARCH BIOCHEM BIOPHYS, V275, P429, DOI 10.1016/0003-9861(89)90389-5
+   YOSHIDA M, 1977, BIOCHEM BIOPH RES CO, V75, P1111, DOI 10.1016/0006-291X(77)91497-8
+NR 31
+TC 0
+Z9 0
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO, 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD JAN
+PY 1999
+VL 38
+IS 1A
+BP 298
+EP 301
+DI 10.1143/JJAP.38.298
+PG 4
+WC Physics, Applied
+SC Physics
+GA 182BA
+UT WOS:000079477600064
+ER
+
+PT J
+AU Kawato, S
+   Hattori, T
+   Takemori, T
+   Nakatsuka, H
+AF Kawato, S
+   Hattori, T
+   Takemori, T
+   Nakatsuka, H
+TI Short-range interference effect in the diffusion of light in random
+   media
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID DISORDERED ELECTRONIC SYSTEMS; COHERENT BACKSCATTERING;
+   MULTIPLE-SCATTERING; 2 DIMENSIONS; LOCALIZATION; WAVES; PROPAGATION;
+   ENHANCEMENT; CONSTANT; PHOTONS
+AB We study the interference effect of multiply scattered waves in the diffusive light propagation in random media. We take porous glass samples of various pore radii a as an example of random media, and measure the transport mean free path l* and the diffusion constant D for various light wavelengths lambda over a wide range of the size parameter a/lambda=0.05-0.85. A crossover is observed from the Rayleigh scattering region to the geometrical optics region. The transport velocity upsilon(E)=3D/l* determined from the data is found to decrease monotonically with a/lambda, falling well below the light velocity in glass. We also present a framework of theoretical analysis of wave energy diffusion in a most general setting, taking explicit account of the broadening of light dispersion and paying attention to the requirement of Ward-Takahashi identity. We calculate diffusion parameters as functions of a/lambda for a model of spatially fluctuating dielectric constant, using two types of self-consistent scattering approximation to the self-energy and the scattering kernel. Comparison of the experiment against the calculation with and without interference terms of multiple scattering reveals the importance of short-range interference effects in the diffusive propagation of light.
+C1 Univ Tsukuba, Inst Phys Appl, Tsukuba, Ibaraki 3058573, Japan.
+RP Kawato, S (reprint author), Osaka Univ, Inst Laser Engn, 2-6 Yamadaoka, Suita, Osaka 565, Japan.
+EM skawato@ile.osaka-u.ac.jp
+CR AKKERMANS E, 1986, PHYS REV LETT, V56, P1471, DOI 10.1103/PhysRevLett.56.1471
+   ALTSHULER BL, 1988, PHYS TODAY, V41, P36, DOI 10.1063/1.881139
+   ANDERSON PW, 1985, PHILOS MAG B, V52, P505, DOI 10.1080/13642818508240619
+   ATKINS PW, 1990, PHYSICAL CHEM
+   Bohren C. F., 1983, ABSORPTION SCATTERIN
+   Chandrasekhar S., 1960, RAD TRANSFER
+   COHEN SM, 1985, PHYS REV LETT, V54, P2242, DOI 10.1103/PhysRevLett.54.2242
+   CONDAT CA, 1985, PHYS REV B, V32, P495, DOI 10.1103/PhysRevB.32.495
+   CWILLICH G, 1992, PHYS REV B, V46, P12015, DOI 10.1103/PhysRevB.46.12015
+   DRAKE JM, 1989, PHYS REV LETT, V63, P259, DOI 10.1103/PhysRevLett.63.259
+   Duderstadt J.J., 1976, NUCL REACTOR ANAL
+   ELMER TH, 1963, J PHYS CHEM-US, V67, P2219, DOI 10.1021/j100804a059
+   GARCIA N, 1992, PHYS REV B, V46, P14475, DOI 10.1103/PhysRevB.46.14475
+   Ioffe A.F., 1960, PROGRESS SEMICONDUCT, V4, P237
+   Ishimaru A., 1978, WAVE PROPAGATION SCA, V1
+   Ishimaru A, 1978, WAVE PROPAGATION SCA, V2
+   JOHN S, 1983, PHYS REV B, V27, P5592, DOI 10.1103/PhysRevB.27.5592
+   JOHN S, 1983, PHYS REV B, V28, P6358, DOI 10.1103/PhysRevB.28.6358
+   JOHN S, 1984, PHYS REV LETT, V53, P2169, DOI 10.1103/PhysRevLett.53.2169
+   KAWATO S, 1994, PHYS REV B, V49, P90, DOI 10.1103/PhysRevB.49.90
+   KHMELNITSKII DE, 1984, PHYSICA B & C, V126, P235, DOI 10.1016/0378-4363(84)90169-4
+   KOGAN E, 1992, PHYS REV B, V46, P10636, DOI 10.1103/PhysRevB.46.10636
+   KROHA J, 1993, PHYS REV B, V47, P11093, DOI 10.1103/PhysRevB.47.11093
+   KUGA Y, 1984, J OPT SOC AM A, V1, P831, DOI 10.1364/JOSAA.1.000831
+   Lagendijk A, 1996, PHYS REP, V270, P143, DOI 10.1016/0370-1573(95)00065-8
+   Lamarsh J.R., 1966, INTRO NUCL REACTOR T
+   LEE PA, 1985, REV MOD PHYS, V57, P287, DOI 10.1103/RevModPhys.57.287
+   MACKINTOSH FC, 1988, PHYS REV B, V37, P1884, DOI 10.1103/PhysRevB.37.1884
+   MAHAN G, 1990, MANY PARTICLE PHYSIC
+   RICHAYZEN G, 1984, GREENS FUNCTIONS CON
+   Sheng P., 1990, SCATTERING LOCALIZAT
+   Sheng P., 1995, INTRO WAVE SCATTERIN
+   TAKAHASHI Y, 1957, NUOVO CIMENTO, V6, P371, DOI 10.1007/BF02832514
+   TSANG L, 1985, J OPT SOC AM A, V2, P1331, DOI 10.1364/JOSAA.2.001331
+   TSANG L, 1984, J OPT SOC AM A, V1, P836, DOI 10.1364/JOSAA.1.000836
+   van de Hulst H. C., 1981, LIGHT SCATTERING SMA
+   VANALBADA MP, 1991, PHYS REV LETT, V66, P3132, DOI 10.1103/PhysRevLett.66.3132
+   VANTIGGELEN BA, 1992, PHYS REV B, V45, P12233, DOI 10.1103/PhysRevB.45.12233
+   VANTIGGELEN BA, 1994, PHYS REV B, V50, P16729, DOI 10.1103/PhysRevB.50.16729
+   VANTIGGELEN BA, 1992, THESIS U AMSTERDAM
+   VOLLHARDT D, 1980, PHYS REV LETT, V45, P842, DOI 10.1103/PhysRevLett.45.842
+   WARD JC, 1950, PHYS REV, V78, P182, DOI 10.1103/PhysRev.78.182
+   WATSON GH, 1987, PHYS REV LETT, V58, P945, DOI 10.1103/PhysRevLett.58.945
+   Wiersma DS, 1997, NATURE, V390, P671
+   WOLF PE, 1985, PHYS REV LETT, V55, P2696, DOI 10.1103/PhysRevLett.55.2696
+   *AS GLASSLTD, MPG MICR POR GLASS C
+NR 46
+TC 7
+Z9 7
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-0121
+J9 PHYS REV B
+JI Phys. Rev. B
+PD SEP 1
+PY 1998
+VL 58
+IS 10
+BP 6180
+EP 6193
+DI 10.1103/PhysRevB.58.6180
+PG 14
+WC Physics, Condensed Matter
+SC Physics
+GA 121HN
+UT WOS:000076007600044
+ER
+
+PT J
+AU Kou, J
+   Nakashima, N
+   Sakabe, S
+   Kawato, S
+   Ueyama, H
+   Urano, T
+   Kuge, T
+   Izawa, Y
+   Kato, Y
+AF Kou, J
+   Nakashima, N
+   Sakabe, S
+   Kawato, S
+   Ueyama, H
+   Urano, T
+   Kuge, T
+   Izawa, Y
+   Kato, Y
+TI C-60(q+) (q = 1,2,3,4) formation by intense femtosecond laser
+   irradiation
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID MULTIPHOTON EXCITATION; TUNNEL IONIZATION; FULLERENE IONS;
+   FRAGMENTATION; PHOTOIONIZATION; RADIATION; ATOMS
+AB C(60 )vapor was irradiated with an intense femtosecond laser pulse (1.0 X 10(16) W/cm(2) in 100 fs at a wavelength of 790 nm). Multiply charged ions, assignable up to C-60(4+), were observed in the time-of-flight spectra, while C-60(q+) (q less than or equal to 2) with many fragments were detected by a nanosecond laser pulse (1.2 X 10(13) W/cm(2) in 9 ns at 532 nm), The formation of the multiply charged ions will be explained in terms of barrier suppression ionization (BSI) for the case of femtosecond excitation. (C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Osaka City Univ, Fac Sci, Dept Chem, Osaka 558, Japan.
+   Osaka Univ, Inst Laser Engn, Suita, Osaka 565, Japan.
+   Osaka Univ, Dept Electromagnet Energy Engn, Suita, Osaka 565, Japan.
+RP Nakashima, N (reprint author), Osaka City Univ, Fac Sci, Dept Chem, 3-3-138 Sugimoto, Osaka 558, Japan.
+CR AUGST S, 1989, PHYS REV LETT, V63, P2212, DOI 10.1103/PhysRevLett.63.2212
+   HERTEL IV, 1992, PHYS REV LETT, V68, P784, DOI 10.1103/PhysRevLett.68.784
+   HOHMANN H, 1994, PHYS REV LETT, V73, P1919, DOI 10.1103/PhysRevLett.73.1919
+   Hunsche S, 1996, PHYS REV LETT, V77, P1966, DOI 10.1103/PhysRevLett.77.1966
+   Jin J, 1996, PHYS REV A, V53, P615, DOI 10.1103/PhysRevA.53.615
+   LICHTENBERGER DL, 1991, MATER RES SOC SYMP P, V206, P673
+   MARK TD, 1995, NUCL INSTRUM METH B, V98, P469, DOI 10.1016/0168-583X(95)00170-0
+   MEVEL E, 1993, PHYS REV LETT, V70, P406, DOI 10.1103/PhysRevLett.70.406
+   MITZNER R, 1995, J CHEM PHYS, V103, P2445, DOI 10.1063/1.469667
+   PETRIE S, 1993, CHEM PHYS LETT, V204, P473, DOI 10.1016/0009-2614(93)89189-O
+   Sakabe S., 1997, Review of Laser Engineering, V25
+   SCHEIER P, 1994, PHYS REV LETT, V73, P54, DOI 10.1103/PhysRevLett.73.54
+   Schillinger H., 1997, Review of Laser Engineering, V25
+   STEGER H, 1992, CHEM PHYS LETT, V194, P452, DOI 10.1016/0009-2614(92)86081-R
+   WALSH TDG, 1994, J PHYS B-AT MOL OPT, V27, P3767, DOI 10.1088/0953-4075/27/16/022
+   WURZ P, 1992, J PHYS CHEM-US, V96, P10129, DOI 10.1021/j100204a011
+   WURZ P, 1994, CHEM PHYS, V184, P335, DOI 10.1016/0301-0104(94)00087-5
+NR 17
+TC 30
+Z9 31
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD JUN 12
+PY 1998
+VL 289
+IS 3-4
+BP 334
+EP 337
+DI 10.1016/S0009-2614(98)00410-2
+PG 4
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA ZV731
+UT WOS:000074335400018
+ER
+
+PT J
+AU Fuji, T
+   Miyata, M
+   Kawato, S
+   Hattori, T
+   Nakatsuka, H
+AF Fuji, T
+   Miyata, M
+   Kawato, S
+   Hattori, T
+   Nakatsuka, H
+TI Linear propagation of light investigated with a white-light Michelson
+   interferometer
+SO JOURNAL OF THE OPTICAL SOCIETY OF AMERICA B-OPTICAL PHYSICS
+LA English
+DT Article
+ID FREE INDUCTION DECAY; ABSORBING MEDIUM; GROUP-DELAY; WAVE
+AB Linear propagation of light was investigated by using a white-light Michelson interferometer. This method gives the full information on the deformation of broadband optical pulses by the passage through samples in the linear regime. We observed the delay of pulse propagation for cobalt chloride in pyridine, free-induction decay signal for oxazine 1 in methanol, and the increase of peak velocity for nigrosine in water. by Fourier analysis of the interferograms, complex optical constants of the samples were also obtained. (C) 1997 Optical Society of America.
+RP Fuji, T (reprint author), UNIV TSUKUBA,INST APPL PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+RI Fuji, Takao/D-8627-2011
+OI Fuji, Takao/0000-0002-1428-0889
+CR AMAGISHI Y, 1993, PHYS REV LETT, V71, P360, DOI 10.1103/PhysRevLett.71.360
+   BARBARA PF, 1994, ULTRAFAST PHENOMENA, V9
+   BECK M, 1990, OPT LETT, V15, P492
+   BREWER RG, 1972, PHYS REV A, V6, P2001, DOI 10.1103/PhysRevA.6.2001
+   Brillouin L., 1960, WAVE PROPAGATION GRO
+   CHU S, 1982, PHYS REV LETT, V48, P738, DOI 10.1103/PhysRevLett.48.738
+   CRISP MD, 1971, PHYS REV A, V4, P2104, DOI 10.1103/PhysRevA.4.2104
+   FAXVOG FR, 1970, APPL PHYS LETT, V17, P192, DOI 10.1063/1.1653360
+   GARRETT CGB, 1970, PHYS REV A, V1, P305, DOI 10.1103/PhysRevA.1.305
+   KNOX WH, 1988, OPT LETT, V7, P574
+   NAGANUMA K, 1990, OPT LETT, V15, P393, DOI 10.1364/OL.15.000393
+   NAGANUMA K, 1994, OPT LETT, V19, P487, DOI 10.1364/OL.19.000487
+   TANAKA M, 1986, PHYS REV A, V34, P4851, DOI 10.1103/PhysRevA.34.4851
+   TSURUMACHI N, 1994, OPT LETT, V19, P1867, DOI 10.1364/OL.19.001867
+NR 14
+TC 21
+Z9 21
+PU OPTICAL SOC AMER
+PI WASHINGTON
+PA 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036
+SN 0740-3224
+J9 J OPT SOC AM B
+JI J. Opt. Soc. Am. B-Opt. Phys.
+PD MAY
+PY 1997
+VL 14
+IS 5
+BP 1074
+EP 1078
+DI 10.1364/JOSAB.14.001074
+PG 5
+WC Optics
+SC Optics
+GA WY400
+UT WOS:A1997WY40000010
+ER
+
+PT J
+AU Hayashi, K
+   Kawato, S
+   Fujii, Y
+   Horiuchi, T
+   Matsushige, K
+AF Hayashi, K
+   Kawato, S
+   Fujii, Y
+   Horiuchi, T
+   Matsushige, K
+TI Effect of applied electric field on the molecular orientation of
+   epitaxially grown organic films
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID X-RAY DIFFRACTOMETER; THIN-FILMS; COPPER PHTHALOCYANINE
+AB In order to control and obtain desired molecular orientations, we investigated the effects of applying an electric field during the epitaxial growth of organic crystals in this study. We deposited interdigitated gold electrodes on polished KCl (001) substrates, and then grew copper phthalocyanine (CuPc) thin films, applying the voltages during evaporation process. Using an energy dispersive grazing incidence x-ray diffraction system, we evaluated the orientations of alpha-CuPc crystals relative to the KCl substrates. The CuPc crystals with applied electric fields were found to orient in different directions from those of the usual epitaxially grown films without applied electric fields. These facts suggest that the combination of applying an electric field and epitaxial growth provide us a new method to control the molecular orientation in the organic thin films. (C) 1997 American Institute of Physics.
+C1 KYOTO UNIV,DEPT ELECT SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+RP Hayashi, K (reprint author), KYOTO UNIV,DEPT MAT SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+CR ASHIDA M, 1966, B CHEM SOC JPN, V39, P2616, DOI 10.1246/bcsj.39.2616
+   ASHIDA M, 1966, B CHEM SOC JPN, V39, P2632, DOI 10.1246/bcsj.39.2632
+   DEBE MK, 1991, THIN SOLID FILMS, V197, P335, DOI 10.1016/0040-6090(91)90244-R
+   DOGO S, 1992, THIN SOLID FILMS, V219, P251, DOI 10.1016/0040-6090(92)90753-X
+   GOULD RD, 1986, J PHYS D, V9, P1785
+   GOULD RD, 1985, THIN SOLID FILMS, V125, P63, DOI 10.1016/0040-6090(85)90396-7
+   HARA M, 1989, JPN J APPL PHYS 2, V28, pL306, DOI 10.1143/JJAP.28.L306
+   HAYASHI K, 1992, JPN J APPL PHYS 1, V31, P4081, DOI 10.1143/JJAP.31.4081
+   HORIUCHI T, 1987, JPN J APPL PHYS 2, V26, pL1839
+   ISHIDA K, 1993, J APPL PHYS, V73, P7338, DOI 10.1063/1.354024
+   KUBONO A, 1992, JPN J APPL PHYS 2, V31, pL1195
+   MINAMI N, 1991, JPN J APPL PHYS 2, V30, pL643, DOI 10.1143/JJAP.30.L643
+   UYEDA N, 1972, J APPL PHYS, V43, P5181, DOI 10.1063/1.1661094
+   UYEDA N, 1965, J APPL PHYS, V36, P1453, DOI 10.1063/1.1714329
+   VINCETT PS, 1981, THIN SOLID FILMS, V82, P357, DOI 10.1016/0040-6090(81)90479-X
+   WAGNER HJ, 1982, J MATER SCI, V17, P2781, DOI 10.1007/BF00644652
+   YOSHIDA Y, 1992, JPN J APPL PHYS, V32, P1248
+NR 17
+TC 13
+Z9 13
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD MAR 17
+PY 1997
+VL 70
+IS 11
+BP 1384
+EP 1386
+DI 10.1063/1.118584
+PG 3
+WC Physics, Applied
+SC Physics
+GA WM924
+UT WOS:A1997WM92400018
+ER
+
+PT J
+AU Hayashi, K
+   Kawato, S
+   Fujii, Y
+   Horiuchi, T
+   Matsushige, K
+AF Hayashi, K
+   Kawato, S
+   Fujii, Y
+   Horiuchi, T
+   Matsushige, K
+TI Epitaxial growth behavior of copper phthalocyanine films under applied
+   voltages
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS SCIENCE AND TECHNOLOGY SECTION
+   A-MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article; Proceedings Paper
+CT 1st Asian Symposium on Organized Molecular Films for Electronics and
+   Photonics (ASOMF I)
+CY OCT 28-30, 1996
+CL IBARAKI, JAPAN
+SP M&BE, JOEM, NIMC, Tsukuba Fdn Chem & Biotechnol (TFCBT), TSUKUBA EXPO 85 Memorial Fdn (TEXMF), Soc Polym Sci, Japan (SPSJ), Gordon & Breach Sci Publ, Biomed Elect Soc, Chinese Inst Elect, Commiss LB Films (Chinese Chem Soc), Natl Nat Sci Fdn, China, Korea Res Grp Organ Photon Mat, Korean Soc Molec Elect & Devices, Polym Soc Korea
+ID X-RAY DIFFRACTOMETER; ORGANIC THIN-FILMS
+AB In order to develop the noble molecular arrangement techniques, we investigated the effects of the electric field on the epitaxial growth process of organic thin films. We deposited interdigitated gold electrodes on KCl substrates, and then grew copper phthalocyanine (CuPc) thin films, with applying the electric voltages during the evaporation process. Using an energy dispersive grazing incidence x-ray diffraction (ED-GIXD) system, we evaluated the in-plane structures of the film samples by detecting the 200 reflection from CuPc crystallites. The CuPc molecules subjected to the electric field were found to orient to the different direction from those of the ordinally epitaxially grown films. These facts suggest that the combination of applying voltage and epitaxial growth provide us a new method to control the molecular orientation in the organic thin films.
+C1 KYOTO UNIV,FAC ENGN,DEPT ELECT SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+RP Hayashi, K (reprint author), KYOTO UNIV,FAC ENGN,DEPT MAT SCI & ENGN,SAKYO KU,YOSHIDA HONNMACHI,KYOTO 60601,JAPAN.
+CR ASHIDA M, 1966, B CHEM SOC JPN, V39, P2616, DOI 10.1246/bcsj.39.2616
+   ASHIDA M, 1966, B CHEM SOC JPN, V39, P2632, DOI 10.1246/bcsj.39.2632
+   HAYASHI K, 1992, JPN J APPL PHYS 1, V31, P4081, DOI 10.1143/JJAP.31.4081
+   HORIUCHI T, 1987, JPN J APPL PHYS 2, V26, pL1839
+   ISHIDA K, 1993, J APPL PHYS, V73, P7338, DOI 10.1063/1.354024
+   KUBONO A, 1992, JPN J APPL PHYS 2, V31, pL1195
+   WAGNER HJ, 1982, J MATER SCI, V17, P2781, DOI 10.1007/BF00644652
+   YOSHIDA Y, 1992, JPN J APPL PHYS, V32, P32
+NR 8
+TC 1
+Z9 1
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 1058-725X
+J9 MOL CRYST LIQ CRYS A
+JI Mol. Cryst. Liq. Cryst. Sci. Technol. Sect. A-Mol. Cryst. Liq. Cryst.
+PY 1997
+VL 294
+BP 103
+EP 106
+DI 10.1080/10587259708032259
+PG 4
+WC Crystallography
+SC Crystallography
+GA XK480
+UT WOS:A1997XK48000027
+ER
+
+PT J
+AU Kimoto, T
+   Ohta, Y
+   Kawato, S
+AF Kimoto, T
+   Ohta, Y
+   Kawato, S
+TI Adrenocorticotropin induces calcium oscillations in adrenal fasciculata
+   cells: Single cell imaging
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+ID DEPENDENT CA-2+ CHANNELS; GLOMERULOSA CELLS; ANGIOTENSIN-II;
+   STIMULATION; BOVINE
+AB With fluorescence microscopic imaging, we have demonstrated that the Ca2+ signaling occurred in individual Calcium Green-1 loaded bovine adrenal fasciculata cells upon stimulation with adrenocorticotropin (ACTH) at physiological concentration of 0.1-100 pM. We observed three patterns of Ca2+ signaling which were Ca2+ oscillations (33%), step-like increase in Ca2+ concentration (10%), and Ca2+ oscillations superimposed on step-like increase in Ca2+ (57%). The oscillation in intracellular Ca2+ concentration occurred with a frequency around 0.04 Hz. When Ca2+ signaling upon ACTH stimulation was inhibited by the treatment with EGTA, the corticoid production was considerably suppressed. The results suggest that the Ca2+ signaling is a probable candidate of the second messenger for ACTH-induced steroid hormone synthesis in zona fasciculata cells. (C) 1996 Academic Press, Inc.
+C1 UNIV TOKYO KOMABA,DEPT BIOPHYS & LIFE SCI,GRAD SCH ARTS & SCI,TOKYO 153,JAPAN.
+CR FAKUNDING JL, 1979, ENDOCRINOLOGY, V105, P327
+   GRAHAMES.DG, 1967, J BIOL CHEM, V242, P5535
+   HAYASHI K, 1979, J BIOL CHEM, V254, P6678
+   IIDA S, 1986, BIOCHEM J, V236, P53
+   KAWANISHI T, 1989, J BIOL CHEM, V264, P12859
+   KOJIMA I, 1985, J BIOL CHEM, V260, P9177
+   KOJIMA I, 1986, J BIOL CHEM, V261, P9832
+   NAKATO K, 1992, EUR J BIOCHEM, V209, P745, DOI 10.1111/j.1432-1033.1992.tb17343.x
+   SILBER RH, 1958, CLIN CHEM, V4, P278
+   TREMBLAY E, 1991, CELL CALCIUM, V12, P655, DOI 10.1016/0143-4160(91)90036-E
+   YANAGIBASHI K, 1990, ENDOCRINOLOGY, V127, P311
+   YANAGIBASHI K, 1989, ENDOCRINOLOGY, V124, P2383
+NR 12
+TC 18
+Z9 18
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD APR 5
+PY 1996
+VL 221
+IS 1
+BP 25
+EP 30
+DI 10.1006/bbrc.1996.0538
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA UF049
+UT WOS:A1996UF04900005
+ER
+
+PT J
+AU Hayashi, K
+   Kawato, S
+   Horiuchi, T
+   Matsushige, K
+   Kitajima, Y
+   Takenaka, H
+   Kawai, J
+AF Hayashi, K
+   Kawato, S
+   Horiuchi, T
+   Matsushige, K
+   Kitajima, Y
+   Takenaka, H
+   Kawai, J
+TI Photoelectron spectra enhanced by x-ray total reflection and diffraction
+   from periodic multilayer
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID FLUORESCENCE; REGION
+AB Photoelectron spectra from a periodic multilayer of (Mo/B4C)(30)/Si were measured by changing the x-ray glancing angle. The angular dependencies of the photoelectron intensities of 0 1s and Mo 3d revealed the atomic depth profiles of the Mo oxide overlayer, and the compositions of the MoO3 upper layer and MoO2 lower layer. Furthermore, we observed enhancement of photoelectron emission by means of x-ray standing waves generated near the multilayer surface during x-ray diffraction from the superlattice. (C) 1996 American Institute of Physics.
+C1 NATL LAB HIGH ENERGY PHYS,PHOTON FACTORY,TSUKUBA,IBARAKI 305,JAPAN.
+   NIPPON TELEGRAPH & TEL PUBL CORP,INTERDISCIPLINARY RES LABS,MUSASHINO,TOKYO 180,JAPAN.
+   KYOTO UNIV,DEPT MAT SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+RP Hayashi, K (reprint author), KYOTO UNIV,DEPT ELECT SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+CR AIGINGER H, 1974, NUCL INSTRUM METHODS, V114, P157, DOI 10.1016/0029-554X(74)90352-8
+   BRANDT BG, 1967, ACTA CHEM SCAND, V21, P661, DOI 10.3891/acta.chem.scand.21-0661
+   CHESTER MJ, 1993, J VAC SCI TECHNOL B, V11, P1969
+   CHESTER MJ, 1993, PHYS REV B, V48, P17262, DOI 10.1103/PhysRevB.48.17262
+   DEBOER DKG, 1991, PHYS REV B, V44, P498, DOI 10.1103/PhysRevB.44.498
+   FLOQUET N, 1991, J SOLID STATE CHEM, V93, P96, DOI 10.1016/0022-4596(91)90279-Q
+   HENKE BL, 1972, PHYS REV A, V6, P94, DOI 10.1103/PhysRevA.6.94
+   HORIUCHI T, 1987, JPN J APPL PHYS 2, V26, pL1839
+   JACH T, 1994, REV SCI INSTRUM, V65, P339, DOI 10.1063/1.1145193
+   KAWAI J, 1992, SPECTROCHIM ACTA B, V47, P983, DOI 10.1016/0584-8547(92)80092-U
+   KITAJIMA Y, 1992, REV SCI INSTRUM, V63, P886, DOI 10.1063/1.1142636
+   MARRA WC, 1979, J APPL PHYS, V50, P6927, DOI 10.1063/1.325845
+   MEHTA M, 1975, PHYS LETT A, V55, P59, DOI 10.1016/0375-9601(75)90394-1
+   METHA M, 1977, CHEM PHYS LETT, V46, P225
+   MINNI E, 1988, SURF INTERFACE ANAL, V385, P12
+   SMUDDE GH, 1994, SURF SCI, V317, P65, DOI 10.1016/0039-6028(94)90253-4
+   TAKATA Y, 1992, J SCI HIROSHIMA U A, V56, P1
+   TAKENAKA H, 1995, P EXTR ULTR LITH, V23, P26
+   TANUMA S, 1988, SURF INTERFACE ANAL, V11, P577, DOI 10.1002/sia.740111107
+   YONEDA Y, 1971, REV SCI INSTRUM, V42, P1069, DOI 10.1063/1.1685282
+NR 20
+TC 18
+Z9 18
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD APR 1
+PY 1996
+VL 68
+IS 14
+BP 1921
+EP 1923
+DI 10.1063/1.115626
+PG 3
+WC Physics, Applied
+SC Physics
+GA UC483
+UT WOS:A1996UC48300014
+ER
+
+PT J
+AU Kawato, S
+   Hayashi, K
+   Horiuchi, T
+   Matsushige, K
+AF Kawato, S
+   Hayashi, K
+   Horiuchi, T
+   Matsushige, K
+TI Anomalous changes in electric conductivity of Cu-phthalocyanine observed
+   during evaporation process
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS SCIENCE AND TECHNOLOGY SECTION
+   A-MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article; Proceedings Paper
+CT Korea/Japan Joint Forum 95 - Organic Materials for Electronics and
+   Photonics (KJF 95)
+CY SEP 21-22, 1995
+CL SEOUL, SOUTH KOREA
+SP Korea Sci & Engn Fdn, Korea Inst Sci & Technol, Polym Soc Korea, Div Molec Electr, Korea Res Grp Organ Electr Mat, Jap Soc Promot Sci, Japan Soc App Phys, Div Molec Electr & Bioelectr, Japanese Res Assoc Organ Electr Mat
+HO KOREA UNIV
+ID COPPER PHTHALOCYANINE; THIN-FILMS
+AB The in-situ measurement of lateral electric conductivity of copper phthalocyanine was conducted during a vacuum evaporation process. The conductivity was found to change anomalously at the first stage of film growth. With increasing thickness, it increased abruptly from about 2 nm in film thickness, and showed a sharp peak at about 7 mn. Even if the evaporation rate or the sample purity was varied, the similar behavior was observed. Possible reasons for this anomalous phenomenon are discussed from the structural changes and molecular motion occurring during the growth process of the evaporation films.
+RP Kawato, S (reprint author), KYOTO UNIV,FAC ENGN,DEPT ELECTR SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+CR DOGO S, 1992, THIN SOLID FILMS, V219, P251, DOI 10.1016/0040-6090(92)90753-X
+   GOULD RD, 1986, J PHYS D, V9, P1785
+   GOULD RD, 1985, THIN SOLID FILMS, V125, P63, DOI 10.1016/0040-6090(85)90396-7
+   HASSAN AK, 1990, INT J ELECTRON, V69, P11, DOI 10.1080/00207219008920285
+   HAYASHI K, 1994, REPORTS PROGR POLYM, V37, P295
+   MINAMI N, 1991, JPN J APPL PHYS 2, V30, pL643, DOI 10.1143/JJAP.30.L643
+NR 6
+TC 1
+Z9 1
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 1058-725X
+J9 MOL CRYST LIQ CRYS A
+JI Mol. Cryst. Liq. Cryst. Sci. Technol. Sect. A-Mol. Cryst. Liq. Cryst.
+PY 1996
+VL 280
+BP 247
+EP 256
+DI 10.1080/10587259608040340
+PG 10
+WC Crystallography
+SC Crystallography
+GA UM052
+UT WOS:A1996UM05200040
+ER
+
+PT J
+AU Kawai, J
+   Kawato, S
+   Hayashi, K
+   Horiuchi, T
+   Matsushige, K
+   Kitajima, Y
+AF Kawai, J
+   Kawato, S
+   Hayashi, K
+   Horiuchi, T
+   Matsushige, K
+   Kitajima, Y
+TI Total reflection x-ray excited photoelectron spectra of copper
+   phthalocyanine thin layer on Si wafer
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID MEAN FREE PATHS; FLUORESCENCE
+AB Photoelectron spectra of a Si wafer, on which copper phthalocyanine was evaporated with a thickness of 50 Angstrom, were measured using grazing incidence x rays under a total reflection condition. It was observed that the backgrounds owing to inelastic electron scattering in solids were reduced. It was also observed that the substrate Si signal was removed and that surface signal was enhanced due to the total x-ray reflection. Oxygen depth was determined using the angle dependence of the x-ray photoelectron spectral intensity. (C) 1995 American Institute of Physics.
+C1 KYOTO UNIV,DEPT ELECTR SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+   NATL LAB HIGH ENERGY PHYS,PHOTON FACTORY,TSUKUBA,IBARAKI 305,JAPAN.
+RP Kawai, J (reprint author), KYOTO UNIV,DEPT MAT SCI & ENGN,SAKYO KU,KYOTO 60601,JAPAN.
+CR CHESTER MJ, 1993, PHYS REV B, V48, P17262, DOI 10.1103/PhysRevB.48.17262
+   CHESTER MJ, 1993, J VAC SCI TECHNOL B, V11, P1609, DOI 10.1116/1.586978
+   DEBOER DKG, 1991, PHYS REV B, V44, P498, DOI 10.1103/PhysRevB.44.498
+   HAYASHI K, 1994, OME9417 IEICE, P4
+   HENKE BL, 1972, PHYS REV A, V6, P94, DOI 10.1103/PhysRevA.6.94
+   HENKE BL, 1993, ATOM DATA NUCL DATA, V54, P181, DOI 10.1006/adnd.1993.1013
+   HORIUCHI T, 1993, SPECTROCHIM ACTA B, V48, P129, DOI 10.1016/0584-8547(93)80016-N
+   JACH T, 1994, NUCL INSTRUM METH A, V347, P507, DOI 10.1016/0168-9002(94)91938-0
+   JACH T, 1994, REV SCI INSTRUM, V65, P339, DOI 10.1063/1.1145193
+   KAWAI J, 1992, SPECTROCHIM ACTA B, V47, P983, DOI 10.1016/0584-8547(92)80092-U
+   KAWAI J, 1991, PHYSICA C, V185, P981, DOI 10.1016/0921-4534(91)91714-F
+   KAWAI J, 1993, P JPN ACAD B-PHYS, V69, P179, DOI 10.2183/pjab.69.179
+   KAWATO S, 1994, OME9418 IEICE, P5
+   KITAJIMA Y, 1992, REV SCI INSTRUM, V63, P886, DOI 10.1063/1.1142636
+   MEHTA M, 1975, PHYS LETT A, V55, P59, DOI 10.1016/0375-9601(75)90394-1
+   MEHTA M, 1977, CHEM PHYS LETT, V46, P255
+   PARRATT LG, 1954, PHYS REV, V95, P359, DOI 10.1103/PhysRev.95.359
+   TAKATA Y, 1992, J SCI HIROSHIMA U A, V56, P1
+   TANUMA S, 1988, SURF INTERFACE ANAL, V11, P577, DOI 10.1002/sia.740111107
+   TANUMA S, 1993, SURF INTERFACE ANAL, V20, P77, DOI 10.1002/sia.740200112
+NR 20
+TC 12
+Z9 12
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD DEC 25
+PY 1995
+VL 67
+IS 26
+BP 3889
+EP 3891
+DI 10.1063/1.115307
+PG 3
+WC Physics, Applied
+SC Physics
+GA TX516
+UT WOS:A1995TX51600019
+ER
+
+PT J
+AU TSURUMACHI, N
+   FUJI, T
+   KAWATO, S
+   HATTORI, T
+   NAKATSUKA, H
+AF TSURUMACHI, N
+   FUJI, T
+   KAWATO, S
+   HATTORI, T
+   NAKATSUKA, H
+TI INTERFEROMETRIC OBSERVATION OF FEMTOSECOND FREE INDUCTION DECAY
+SO OPTICS LETTERS
+LA English
+DT Article
+ID ACCUMULATED PHOTON-ECHOES; INCOHERENT-LIGHT; OPTICAL PULSES; GROUP-DELAY
+AB Femtosecond free induction decay of cobalt-phthalocyanine in pyridine and of octaethyl porphine in pyridine was observed by use of a white-light interferometer with a resolution time of 6 fs. Also, frequency-domain complex optical constants of the samples were obtained by Fourier-transform analysis of the phase-sensitive interferograms.
+RP TSURUMACHI, N (reprint author), UNIV TSUKUBA,INST APPL PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+RI Fuji, Takao/D-8627-2011
+OI Fuji, Takao/0000-0002-1428-0889
+CR ASAKA S, 1984, PHYS REV A, V29, P2286, DOI 10.1103/PhysRevA.29.2286
+   BEACH R, 1984, PHYS REV LETT, V53, P663, DOI 10.1103/PhysRevLett.53.663
+   BREWER RG, 1972, PHYS REV A, V6, P2001, DOI 10.1103/PhysRevA.6.2001
+   FORK RL, 1987, OPT LETT, V12, P483, DOI 10.1364/OL.12.000483
+   HAHN EL, 1950, PHYS REV, V77, P297, DOI 10.1103/PhysRev.77.297.2
+   HATTORI T, 1994, PHYS REV B, V50, P4220, DOI 10.1103/PhysRevB.50.4220
+   KIM DS, 1993, PHYS REV B, V48, P17902, DOI 10.1103/PhysRevB.48.17902
+   KNOX WH, 1988, OPT LETT, V13, P574, DOI 10.1364/OL.13.000574
+   MISHINA T, 1993, PHYS REV LETT, V71, P2785, DOI 10.1103/PhysRevLett.71.2785
+   MORITA N, 1984, PHYS REV A, V30, P2525, DOI 10.1103/PhysRevA.30.2525
+   NAGANUMA K, 1990, OPT LETT, V15, P393, DOI 10.1364/OL.15.000393
+   NAKATSUKA H, 1993, OPT LETT, V18, P832, DOI 10.1364/OL.18.000832
+NR 12
+TC 16
+Z9 16
+PU OPTICAL SOC AMER
+PI WASHINGTON
+PA 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036
+SN 0146-9592
+J9 OPT LETT
+JI Opt. Lett.
+PD NOV 15
+PY 1994
+VL 19
+IS 22
+BP 1867
+EP 1869
+DI 10.1364/OL.19.001867
+PG 3
+WC Optics
+SC Optics
+GA PR094
+UT WOS:A1994PR09400023
+ER
+
+PT J
+AU YAGI, Y
+   KAWATO, S
+   TSUJI, S
+AF YAGI, Y
+   KAWATO, S
+   TSUJI, S
+TI REAL-TIME OMNIDIRECTIONAL IMAGE SENSOR (COPIS) FOR VISION-GUIDED
+   NAVIGATION
+SO IEEE TRANSACTIONS ON ROBOTICS AND AUTOMATION
+LA English
+DT Article
+ID SYSTEM
+AB Described here is a conic projection image sensor (COPIS) and its application:  navigating a mobile robot in a manner that avoids collisions with objects approaching from any direction.  The COPIS system acquires an omnidirectional view around the robot, in real-time, with use of a conic mirror.  Based on the assumption of constant linear motion of the robot and objects, the objects moving along collision paths are detected by monitoring azimuth changes.  Confronted with such objects, the robot changes velocity to avoid collision and determines locations and velocities.
+C1 MITSUBISHI ELECTR CORP,IND ELECTR & SYST DEV LAB,AMAGASAKI,HYOGO 661,JAPAN.
+RP YAGI, Y (reprint author), OSAKA UNIV,FAC ENGN SCI,DEPT SYST ENGN,1-1 MACHIKANEYAMA CHO,TOYONAKA,OSAKA 560,JAPAN.
+CR BRUSS AR, 1983, COMPUT VISION GRAPH, V21, P3, DOI 10.1016/S0734-189X(83)80026-7
+   CAO ZL, 1986, J ROBOTIC SYST, V3, P5, DOI 10.1002/rob.4620030103
+   CROWLEY JL, 1989, MAY P IEEE INT C ROB, P674
+   DICHMANNS DE, 1988, MACHINE VISION APPLI, V1, P241
+   DICHMANNS DE, 1988, MACHINE VISION APPLI, V1, P223
+   ELFES A, 1987, IEEE T ROBOTIC AUTOM, V3, P249
+   GABRIEL L, 1987, P SPIE MOBILE ROBO 2, V852, P132
+   GREAFE V, 1990, P INT WORKSHOP ROBOT, P151
+   HEBERT M, 1989, PROCEEDINGS - 1989 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOL 1-3, P1136
+   HONG J, 1991, APR P INT C ROB AUT, P620
+   ISHIGURO H, 1990, 3RD P INT C COMP VIS
+   JARVIS RA, 1988, 4 ISPP, P497
+   LAMADRID JF, 1990, IEEE T SMC, V20, P1408
+   MORAVEC HP, 1983, P IEEE, V71, P872, DOI 10.1109/PROC.1983.12684
+   OH SJ, 1987, P SPIE 852 MOBILE RO, V2, P288
+   ROSSI B, 1962, OPTICS
+   SARACHIK KB, 1989, IEEE INT C ROB AUT, P984
+   TAKENO J, 1991, APR P IEEE INT C ROB, P2010
+   THORPE C, 1988, IEEE T PATTERN ANAL, V10, P362, DOI 10.1109/34.3900
+   TSUGAWA S, 1979, 6TH P INT JOINT C AR, V2, P893
+   TSUJI S, 1986, 8TH P INT C PATT REC, P113
+   TURK MA, 1988, IEEE T PATTERN ANAL, V10, P342, DOI 10.1109/34.3899
+   WALLACE R, 1986, P INT C ROBOTICS AUT, P1326
+   WAXMAN AM, 1987, IEEE T ROBOTIC AUTOM, V3, P124
+   Yagi Y., 1990, Proceedings. IROS '90. IEEE International Workshop on  Intelligent Robots and Systems '90. Towards a New Frontier of  Applications (Cat. No.90TH0332-7), DOI 10.1109/IROS.1990.262385
+   YAGI Y, 1991, APR P IEEE INT C ROB, P910
+NR 26
+TC 106
+Z9 110
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1042-296X
+J9 IEEE T ROBOTIC AUTOM
+JI IEEE Trans. Robot. Autom.
+PD FEB
+PY 1994
+VL 10
+IS 1
+BP 11
+EP 22
+DI 10.1109/70.285581
+PG 12
+WC Automation & Control Systems; Engineering, Electrical & Electronic;
+   Robotics
+SC Automation & Control Systems; Engineering; Robotics
+GA NE806
+UT WOS:A1994NE80600002
+ER
+
+PT J
+AU KAWATO, S
+   HATTORI, T
+   TAKEMORI, T
+   NAKATSUKA, H
+AF KAWATO, S
+   HATTORI, T
+   TAKEMORI, T
+   NAKATSUKA, H
+TI MULTIPLE-SCATTERING OF LIGHT IN POROUS-GLASS
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID COHERENT BACKSCATTERING; WEAK LOCALIZATION; RANDOM-MEDIA; PHOTONS;
+   ABSORPTION; DIFFUSION; VECTOR
+AB Two kinds of multiple-light-scattering measurements were performed for porous glass plates of several pore radii from 0.15 to 0.50 mum. One is the measurement of the angular dependence of the backscattered light intensity, and the other is the measurement of the temporal profile of light pulses transmitted through the sample. The measured curves were in very good agreement with the theoretical ones based on the diffusion model in uniform scattering media, and no features specific to the local geometry of porous glass were found. The pore radius dependence of the transport mean free path l* could be explained well by a Mie scattering calculation based on the independent scattering approximation. The transport velocity of light in the porous glasses in the measured range of the pore size calculated from the obtained values of l* and the diffusion constants was around 60% of the phase velocity in the bulk glass.
+RP KAWATO, S (reprint author), UNIV TSUKUBA,INST APPL PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+CR AKKERMANS E, 1988, J PHYS-PARIS, V49, P77, DOI 10.1051/jphys:0198800490107700
+   CWILLICH G, 1992, PHYS REV B, V46, P12015, DOI 10.1103/PhysRevB.46.12015
+   DRAKE JM, 1989, PHYS REV LETT, V63, P259, DOI 10.1103/PhysRevLett.63.259
+   ETEMAD S, 1987, PHYS REV LETT, V59, P1420, DOI 10.1103/PhysRevLett.59.1420
+   EVEN U, 1984, PHYS REV LETT, V52, P2164, DOI 10.1103/PhysRevLett.52.2164
+   GARCIA N, 1992, PHYS REV B, V46, P14475, DOI 10.1103/PhysRevB.46.14475
+   HOHR A, 1988, PHYS REV B, V38, P1462, DOI 10.1103/PhysRevB.38.1462
+   Ishimaru A., 1978, WAVE PROPAGATION SCA, V1
+   Ishimaru A, 1978, WAVE PROPAGATION SCA, V2
+   MACKINTOSH FC, 1988, PHYS REV B, V37, P1884, DOI 10.1103/PhysRevB.37.1884
+   MACKINTOSH FC, 1989, PHYS REV B, V40, P2383, DOI 10.1103/PhysRevB.40.2383
+   PETERS KJ, 1992, PHYS REV B, V46, P801, DOI 10.1103/PhysRevB.46.801
+   ROSENBLUH M, 1987, PHYS REV A, V35, P4458, DOI 10.1103/PhysRevA.35.4458
+   VANALBADA MP, 1985, PHYS REV LETT, V55, P2692
+   van de Hulst H. C., 1981, LIGHT SCATTERING SMA
+   VANALBADA MP, 1991, PHYS REV LETT, V66, P3132, DOI 10.1103/PhysRevLett.66.3132
+   WATSON GH, 1987, PHYS REV LETT, V58, P945, DOI 10.1103/PhysRevLett.58.945
+   WOLF PE, 1985, PHYS REV LETT, V55, P2696, DOI 10.1103/PhysRevLett.55.2696
+   WOLF PE, 1988, J PHYS-PARIS, V49, P63, DOI 10.1051/jphys:0198800490106300
+NR 19
+TC 12
+Z9 12
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0163-1829
+J9 PHYS REV B
+JI Phys. Rev. B
+PD JAN 1
+PY 1994
+VL 49
+IS 1
+BP 90
+EP 94
+DI 10.1103/PhysRevB.49.90
+PG 5
+WC Physics, Condensed Matter
+SC Physics
+GA MQ912
+UT WOS:A1994MQ91200014
+ER
+
+PT J
+AU KOMURA, S
+   OHTA, Y
+   KAWATO, S
+AF KOMURA, S
+   OHTA, Y
+   KAWATO, S
+TI A THEORY OF OPTICAL ANISOTROPY DECAY IN MEMBRANES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KOMURA, S (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,MEGURO KU,TOKYO 153,JAPAN.
+CR AUSTIN RH, 1979, P NATL ACAD SCI USA, V76, P5650, DOI 10.1073/pnas.76.11.5650
+   BELFORD GG, 1972, P NATL ACAD SCI USA, V69, P1392, DOI 10.1073/pnas.69.6.1392
+   BRAINARD JR, 1981, BIOCHEMISTRY-US, V20, P4618, DOI 10.1021/bi00519a016
+   BURKLI A, 1981, BIOCHEMISTRY-US, V20, P138
+   CHERRY RJ, 1981, BIOPHYS J, V36, P257
+   CHERRY RJ, 1979, BIOCHIM BIOPHYS ACTA, V559, P289, DOI 10.1016/0304-4157(79)90009-1
+   Cherry R J, 1978, Methods Enzymol, V54, P47
+   CHERRY RJ, 1976, BIOCHEMISTRY-US, V17, P3657
+   CHERRY RJ, 1980, P NATL ACAD SCI-BIOL, V77, P5899, DOI 10.1073/pnas.77.10.5899
+   HOFFMANN W, 1979, P NATL ACAD SCI USA, V76, P3860, DOI 10.1073/pnas.76.8.3860
+   KAWATO S, 1980, BIOCHIM BIOPHYS ACTA, V634, P85
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KAWATO S, 1981, BIOPHYS J, V36, P277
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   LIPARI G, 1982, J AM CHEM SOC, V104, P4546, DOI 10.1021/ja00381a009
+   LIPARI G, 1981, BIOCHEMISTRY-US, V20, P6251
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   LIPARI G, 1981, J CHEM PHYS, V75, P2971, DOI 10.1063/1.442388
+   MOORE C, 1979, FEBS LETT, V108, P161, DOI 10.1016/0014-5793(79)81200-4
+   NAQVI R, 1973, NATURE, V245, P249
+   RIGLER R, 1973, Q REV BIOPHYS, V6, P139
+   SUZUKI S, 1989, BIOCHEMISTRY-US, V28, P7734, DOI 10.1021/bi00445a032
+   SZABO A, 1984, J CHEM PHYS, V81, P150, DOI 10.1063/1.447378
+   SZABO A, 1980, J CHEM PHYS, V72, P4620, DOI 10.1063/1.439704
+   VANDERMEER W, 1984, BIOPHYS J, V46, P515
+   VAZ WLC, 1979, BIOPHYS J, V26, P415
+   WAHL P, 1975, CHEM PHYS, V7, P210, DOI 10.1016/0301-0104(75)87003-0
+   WEBER G, 1978, ACTA PHYS POL A, V54, P173
+   YGUERABI.J, 1970, J MOL BIOL, V51, P573, DOI 10.1016/0022-2836(70)90009-4
+NR 29
+TC 1
+Z9 1
+PU PHYSICAL SOCIETY JAPAN KIKAI-SHINKO BUILDING
+PI TOKYO
+PA 3-5-8 SHIBA-KOEN MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUL
+PY 1990
+VL 59
+IS 7
+BP 2584
+EP 2595
+DI 10.1143/JPSJ.59.2584
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA DV745
+UT WOS:A1990DV74500039
+ER
+
+PT J
+AU GUT, J
+   KAWATO, S
+   CHERRY, RJ
+   WINTERHALTER, KH
+   RICHTER, C
+AF GUT, J
+   KAWATO, S
+   CHERRY, RJ
+   WINTERHALTER, KH
+   RICHTER, C
+TI LIPID-PEROXIDATION DECREASES THE ROTATIONAL MOBILITY OF CYTOCHROME-P-450
+   IN RAT-LIVER MICROSOMES
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 SWISS FED INST TECHNOL,ETH ZENTRUM,BIOCHEM LAB,CH-8092 ZURICH,SWITZERLAND.
+CR BLAKE RC, 1981, J BIOL CHEM, V256, P5755
+   BLAZYK JF, 1972, BIOCHIM BIOPHYS ACTA, V266, P737, DOI 10.1016/0005-2736(72)90372-0
+   Buege J A, 1978, Methods Enzymol, V52, P302
+   CHERRY RJ, 1981, BIOPHYS J, V36, P257
+   Cherry R J, 1978, Methods Enzymol, V54, P47
+   DILUZIO NR, 1967, FED PROC, V26, P1436
+   DOBRETSOV GE, 1977, FEBS LETT, V84, P125, DOI 10.1016/0014-5793(77)81071-5
+   EICHENBERGER K, 1982, FEBS LETT, V142, P59, DOI 10.1016/0014-5793(82)80219-6
+   ESTERBAUER H, 1982, BIOCHEM J, V208, P129
+   GARDNER HW, 1975, J AGR FOOD CHEM, V23, P129, DOI 10.1021/jf60198a012
+   GARDNER HW, 1979, J AGR FOOD CHEM, V27, P220, DOI 10.1021/jf60222a034
+   GRZELINSKA E, 1979, INT J RADIAT BIOL, V36, P325, DOI 10.1080/09553007914551111
+   GUT J, 1983, J BIOL CHEM, V258, P8588
+   GUT J, 1982, J BIOL CHEM, V257, P7030
+   HAUGAARD N, 1968, PHYSIOL REV, V48, P311
+   HOCHSTEIN P, 1963, BIOCHEM BIOPH RES CO, V12, P388, DOI 10.1016/0006-291X(63)90111-6
+   HOCMAN G, 1981, INT J BIOCHEM, V13, P659, DOI 10.1016/0020-711X(81)90034-3
+   KANN HE, 1966, 3RD P INT C HYB MED, P65
+   KAWATO S, 1982, J BIOL CHEM, V257, P7023
+   KAWATO S, 1981, BIOPHYS J, V36, P277
+   KAWATO S, 1981, J BIOL CHEM, V256, P7518
+   KAWATO S, 1982, J BIOL CHEM, V257, P6470
+   KORNBRUST DJ, 1980, MOL PHARMACOL, V17, P400
+   KOSTER JF, 1982, BIOCHIM BIOPHYS ACTA, V710, P230, DOI 10.1016/0005-2760(82)90153-9
+   KOTAKE AN, 1980, P NATL ACAD SCI-BIOL, V77, P6473, DOI 10.1073/pnas.77.11.6473
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LEVIN W, 1973, ARCH BIOCHEM BIOPHYS, V158, P842, DOI 10.1016/0003-9861(73)90580-8
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   Lu AYH, 1980, PHARMACOL REV, V31, P277
+   MCINTOSH PR, 1980, FEBS LETT, V122, P54, DOI 10.1016/0014-5793(80)80400-5
+   MCKNIGHT RC, 1965, J BIOL CHEM, V240, P3439
+   MULLER A, 1981, FEBS LETT, V126, P241, DOI 10.1016/0014-5793(81)80251-7
+   MULLER M, 1982, J BIOL CHEM, V257, P1117
+   NASH T, 1953, BIOCHEM J, V55, P416
+   NIELSEN H, 1981, LIPIDS, V16, P215, DOI 10.1007/BF02535019
+   OMURA T, 1964, J BIOL CHEM, V239, P2370
+   Recknagel RO, 1973, CRITICAL REV TOXICOL, V2, P263
+   RICHTER C, 1979, FEBS LETT, V102, P151, DOI 10.1016/0014-5793(79)80948-5
+   ROUBAL WT, 1970, J AM OIL CHEM SOC, V47, P141, DOI 10.1007/BF02640405
+   SAFFMAN PG, 1975, P NATL ACAD SCI USA, V72, P3111, DOI 10.1073/pnas.72.8.3111
+   SCHAICH KM, 1976, LIPIDS, V11, P392, DOI 10.1007/BF02532846
+   Strobel H W, 1978, Methods Enzymol, V52, P89
+NR 42
+TC 37
+Z9 37
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1985
+VL 817
+IS 2
+BP 217
+EP 228
+DI 10.1016/0005-2736(85)90023-9
+PG 12
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA ANL88
+UT WOS:A1985ANL8800003
+ER
+
+PT J
+AU KINOSITA, K
+   IKEGAMI, A
+   KAWATO, S
+AF KINOSITA, K
+   IKEGAMI, A
+   KAWATO, S
+TI ON THE WOBBLING-IN-CONE ANALYSIS OF FLUORESCENCE ANISOTROPY DECAY
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+   SWISS FED INST TECHNOL,BIOCHEM LAB,CH-8092 ZURICH,SWITZERLAND.
+CR HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   JAHNIG F, 1979, J CHEM PHYS, V70, P3279
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   SZABO A, 1980, J CHEM PHYS, V72, P4620, DOI 10.1063/1.439704
+   UCHIDA T, 1981, BIOCHEMISTRY-US, V20, P162, DOI 10.1021/bi00504a027
+NR 9
+TC 86
+Z9 86
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PY 1982
+VL 37
+IS 2
+BP 461
+EP 464
+PG 4
+WC Biophysics
+SC Biophysics
+GA QE470
+UT WOS:A1982QE47000007
+ER
+
+PT J
+AU EICHENBERGER, K
+   BOHNI, P
+   WINTERHALTER, KH
+   KAWATO, S
+   RICHTER, C
+AF EICHENBERGER, K
+   BOHNI, P
+   WINTERHALTER, KH
+   KAWATO, S
+   RICHTER, C
+TI MICROSOMAL LIPID-PEROXIDATION CAUSES AN INCREASE IN THE ORDER OF THE
+   MEMBRANE LIPID DOMAIN
+SO FEBS LETTERS
+LA English
+DT Article
+C1 SWISS FED INST TECHNOL,BIOCHEM 1 LAB,CH-8092 ZURICH,SWITZERLAND.
+   UNIV BASEL,BIOCTR,CH-4056 BASEL,SWITZERLAND.
+CR CHANCE B, 1979, PHYSIOL REV, V59, P527
+   DEPIERRE JW, 1977, ANAL BIOCHEM, V83, P82, DOI 10.1016/0003-2697(77)90513-9
+   DOBRETSOV GE, 1977, FEBS LETT, V84, P125, DOI 10.1016/0014-5793(77)81071-5
+   DUMELIN EE, 1977, LIPIDS, V12, P894, DOI 10.1007/BF02533308
+   FOLCH J, 1957, J BIOL CHEM, V226, P497
+   FONG KL, 1973, J BIOL CHEM, V248, P7792
+   GRZELINSKA E, 1979, INT J RADIAT BIOL, V36, P325, DOI 10.1080/09553007914551111
+   HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   HOCHSTEIN P, 1963, BIOCHEM BIOPH RES CO, V12, P388, DOI 10.1016/0006-291X(63)90111-6
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KING MM, 1975, J BIOL CHEM, V250, P6496
+   Lowry DH, 1951, J BIOL CHEM, V193, P265
+   MARNETT LJ, 1979, ANAL BIOCHEM, V99, P458, DOI 10.1016/S0003-2697(79)80033-0
+   MAY HE, 1968, J BIOL CHEM, V243, P2288
+   MORRISON WR, 1964, J LIPID RES, V5, P600
+   PEDERSON TC, 1973, J BIOL CHEM, V248, P7134
+   PFEIFFER DR, 1979, J BIOL CHEM, V254, P1485
+   PLAA GL, 1976, ANNU REV PHARMACOL, V16, P125, DOI 10.1146/annurev.pa.16.040176.001013
+   RICHTER C, 1980, FEBS LETT, V111, P95, DOI 10.1016/0014-5793(80)80769-1
+   RIELY CA, 1974, SCIENCE, V183, P208, DOI 10.1126/science.183.4121.208
+   ROUSER G, 1967, METHOD ENZYMOL, V10, P385
+   SCHLENK H, 1960, ANAL CHEM, V32, P1412, DOI 10.1021/ac60167a011
+   SHINITZKY M, 1978, BIOCHIM BIOPHYS ACTA, V515, P367, DOI 10.1016/0304-4157(78)90010-2
+   SVINGEN BA, 1979, J BIOL CHEM, V254, P5892
+   TAPPEL AL, 1973, FED PROC, V32, P1870
+   WILLS ED, 1969, BIOCHEM J, V113, P315
+   WILLS ED, 1969, BIOCHEM J, V113, P325
+NR 28
+TC 142
+Z9 142
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1982
+VL 142
+IS 1
+BP 59
+EP 62
+DI 10.1016/0014-5793(82)80219-6
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA NU812
+UT WOS:A1982NU81200014
+ER
+
+PT J
+AU KINOSITA, K
+   KAWATO, S
+   IKEGAMI, A
+   YOSHIDA, S
+   ORII, Y
+AF KINOSITA, K
+   KAWATO, S
+   IKEGAMI, A
+   YOSHIDA, S
+   ORII, Y
+TI THE EFFECT OF CYTOCHROME-OXIDASE ON LIPID CHAIN DYNAMICS - A NANOSECOND
+   FLUORESCENCE DEPOLARIZATION STUDY
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 OSAKA UNIV,FAC ENGN SCI,DEPT BIOPHYS ENGN,TOYONAKA,OSAKA 560,JAPAN.
+   KYOTO UNIV,FAC MED,DEPT PUBL HLTH,KYOTO 606,JAPAN.
+RP KINOSITA, K (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR CHAPMAN D., 1967, CHEM PHYS LIPIDS, V1, P445, DOI 10.1016/0009-3084(67)90023-0
+   CHEN LA, 1977, J BIOL CHEM, V252, P2163
+   DAHLQUIST FW, 1977, P NATL ACAD SCI USA, V74, P5435, DOI 10.1073/pnas.74.12.5435
+   DALE RE, 1977, J BIOL CHEM, V252, P7500
+   Forster T, 1965, MODERN QUANTUM CHE 3, P93
+   FULLER SD, 1979, J MOL BIOL, V134, P305, DOI 10.1016/0022-2836(79)90037-8
+   HESKETH TR, 1976, BIOCHEMISTRY-US, V15, P4145, DOI 10.1021/bi00664a002
+   HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   HILDENBRAND K, 1979, BIOCHIM BIOPHYS ACTA, V553, P365, DOI 10.1016/0005-2736(79)90292-X
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   JOST PC, 1937, BIOCH BIOPHYS ACTA, V311, P141
+   JOST PC, 1973, P NATL ACAD SCI USA, V70, P480, DOI 10.1073/pnas.70.2.480
+   JOST PC, 1977, BIOCHEMISTRY-US, V16, P3110, DOI 10.1021/bi00633a011
+   KANG SY, 1979, BIOCHEMISTRY-US, V18, P3257, DOI 10.1021/bi00582a010
+   KAWATO S, 1980, BIOCHEMISTRY-US, V19, P1598, DOI 10.1021/bi00549a011
+   KAWATO S, 1980, J BIOL CHEM, V255, P5508
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KAWATO S, 1981, BIOCHIM BIOPHYS ACTA, V634, P85, DOI 10.1016/0005-2728(81)90129-8
+   KINOSITA K, 1976, JPN J APPL PHYS, V15, P2433, DOI 10.1143/JJAP.15.2433
+   KINOSITA K, BIOCHEMISTRY
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KNOWLES PF, 1979, BIOCHEMISTRY-US, V18, P4480, DOI 10.1021/bi00588a005
+   LAKOWICZ JR, 1979, BIOCHEMISTRY-US, V18, P508, DOI 10.1021/bi00570a021
+   LENTZ BR, 1976, BIOCHEMISTRY-US, V15, P4521, DOI 10.1021/bi00665a029
+   OKUNUKI K, 1958, J BIOCHEM-TOKYO, V45, P847
+   OLDFIELD E, 1978, P NATL ACAD SCI USA, V75, P4657, DOI 10.1073/pnas.75.10.4657
+   ORII Y, 1965, J BIOCHEM-TOKYO, V58, P561
+   RICE DM, 1979, BIOCHEMISTRY-US, V18, P5885, DOI 10.1021/bi00593a020
+   RIGLER R, 1973, Q REV BIOPHYS, V6, P139
+   SEELIG A, 1978, H-S Z PHYSIOL CHEM, V359, P1747, DOI 10.1515/bchm2.1978.359.2.1747
+   SEELIG J, BIOCHEMISTRY
+   SENE C, 1978, FEBS LETT, V88, P181, DOI 10.1016/0014-5793(78)80169-0
+   SHINITZKY M, 1978, BIOCHIM BIOPHYS ACTA, V515, P317
+   SHINITZK.M, 1974, J BIOL CHEM, V249, P2652
+   STUBBS GW, 1976, BIOCHEMISTRY-US, V15, P2766, DOI 10.1021/bi00658a009
+   SWANSON MS, 1980, J BIOL CHEM, V255, P7494
+   VANDERKOOI G, 1974, BIOCHIM BIOPHYS ACTA, V344, P307, DOI 10.1016/0304-4157(74)90011-2
+   VEATCH WR, 1977, J MOL BIOL, V117, P1109, DOI 10.1016/S0022-2836(77)80017-X
+   WARREN GB, 1975, NATURE, V255, P684, DOI 10.1038/255684a0
+   YOSHIDA S, 1979, J BIOCHEM-TOKYO, V86, P1443
+NR 41
+TC 50
+Z9 50
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1981
+VL 647
+IS 1
+BP 7
+EP 17
+DI 10.1016/0005-2736(81)90290-X
+PG 11
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA MH510
+UT WOS:A1981MH51000002
+ER
+
+PT J
+AU KAWATO, S
+   YOSHIDA, S
+   ORII, Y
+   IKEGAMI, A
+   KINOSITA, K
+AF KAWATO, S
+   YOSHIDA, S
+   ORII, Y
+   IKEGAMI, A
+   KINOSITA, K
+TI NANOSECOND TIME-RESOLVED FLUORESCENCE INVESTIGATIONS OF
+   TEMPERATURE-INDUCED CONFORMATIONAL-CHANGES IN CYTOCHROME-OXIDASE IN
+   PHOSPHATIDYLCHOLINE VESICLES AND SOLUBILIZED SYSTEMS
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+   OSAKA UNIV,FAC ENGN SCI,DEPT BIOPHYS ENGN,TOYONAKA,OSAKA 560,JAPAN.
+   OSAKA UNIV,FAC SCI,DEPT BIOL,TOYONAKA,OSAKA 560,JAPAN.
+CR BOYER PD, 1977, ANNU REV BIOCHEM, V46, P955, DOI 10.1146/annurev.bi.46.070177.004515
+   ERECINSK.M, 1972, ARCH BIOCHEM BIOPHYS, V151, P304, DOI 10.1016/0003-9861(72)90501-2
+   HENDERSON R, 1977, J MOL BIOL, V112, P631, DOI 10.1016/S0022-2836(77)80167-8
+   HESKETH TR, 1976, BIOCHEMISTRY-US, V15, P4145, DOI 10.1021/bi00664a002
+   INESI G, 1973, J MOL BIOL, V81, P483, DOI 10.1016/0022-2836(73)90518-4
+   KANAOKA Y, 1973, BIOCHIM BIOPHYS ACTA, V317, P563, DOI 10.1016/0005-2795(73)90253-5
+   KAWATO S, 1980, BIOCHEMISTRY-US, V19, P1598, DOI 10.1021/bi00549a011
+   KAWATO S, 1980, J BIOL CHEM, V255, P5508
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KINOSITA K, 1976, JPN J APPL PHYS, V15, P2433, DOI 10.1143/JJAP.15.2433
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   LUDWIG B, 1979, BIOCHEMISTRY-US, V18, P1401, DOI 10.1021/bi00575a002
+   OKUNUKI K, 1958, J BIOCHEM-TOKYO, V45, P847
+   ORII Y, 1977, J BIOCHEM-TOKYO, V81, P505
+   RAISON JK, 1971, ARCH BIOCHEM BIOPHYS, V142, P83, DOI 10.1016/0003-9861(71)90261-X
+   WAHL P, 1971, EUR J BIOCHEM, V18, P332, DOI 10.1111/j.1432-1033.1971.tb01248.x
+   YAMAMOTO T, 1974, J BIOCHEM-TOKYO, V75, P1081
+   YOSHIDA S, 1979, J BIOCHEM-TOKYO, V86, P1443
+NR 19
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1981
+VL 634
+IS 1
+BP 85
+EP 92
+DI 10.1016/0005-2728(81)90129-8
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA KZ186
+UT WOS:A1981KZ18600008
+ER
+
+PT J
+AU KAWATO, S
+   KINOSITA, K
+AF KAWATO, S
+   KINOSITA, K
+TI TIME-DEPENDENT ABSORPTION ANISOTROPY AND ROTATIONAL DIFFUSION OF
+   PROTEINS IN MEMBRANES
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+RP KAWATO, S (reprint author), SWISS FED INST TECHNOL,BIOCHEM LAB,CH-8092 ZURICH,SWITZERLAND.
+CR ALBRECHT AC, 1961, J MOL SPECTROSC, V6, P84, DOI 10.1016/0022-2852(61)90234-X
+   AUSTIN RH, 1979, P NATL ACAD SCI USA, V76, P5650, DOI 10.1073/pnas.76.11.5650
+   BELFORD GG, 1972, P NATL ACAD SCI USA, V69, P1392, DOI 10.1073/pnas.69.6.1392
+   BURKLI A, 1980, BIOCHEMISTRY-US, V20, P138
+   CHERRY RJ, 1981, BIOPHYS J, V36, P257
+   CHERRY RJ, 1979, BIOCHIM BIOPHYS ACTA, V559, P289, DOI 10.1016/0304-4157(79)90009-1
+   Cherry R J, 1978, Methods Enzymol, V54, P47
+   CHERRY RJ, 1977, FEBS LETT, V78, P25, DOI 10.1016/0014-5793(77)80265-2
+   CHERRY RJ, 1976, BIOCHEMISTRY-US, V15, P3657, DOI 10.1021/bi00662a002
+   CHERRY RJ, 1980, P NATL ACAD SCI-BIOL, V77, P5899, DOI 10.1073/pnas.77.10.5899
+   CONE RA, 1972, NATURE-NEW BIOL, V236, P39
+   ERECINSKA M, 1978, BIOCHIM BIOPHYS ACTA, V501, P53, DOI 10.1016/0005-2728(78)90094-4
+   HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   HOFFMANN W, 1979, P NATL ACAD SCI USA, V76, P3860, DOI 10.1073/pnas.76.8.3860
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   JUNGE W, 1975, BIOCHIM BIOPHYS ACTA, V408, P200, DOI 10.1016/0005-2728(75)90123-1
+   JUNGE W, 1974, BIOCHIM BIOPHYS ACTA, V357, P103, DOI 10.1016/0005-2728(74)90116-9
+   KAWATO S, 1980, J BIOL CHEM, V255, P5508
+   KAWATO S, 1980, BIOCHIM BIOPHYS ACTA, V634, P85
+   KAWATO S, 1981, J BIOL CHEM, V256, P7518
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KUNZE U, 1977, FEBS LETT, V80, P429, DOI 10.1016/0014-5793(77)80492-4
+   LACHISH U, 1976, J CHEM PHYS, V64, P4205, DOI 10.1063/1.431991
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   MCINTOSH PR, 1980, FEBS LETT, V122, P54, DOI 10.1016/0014-5793(80)80400-5
+   MOORE C, 1979, FEBS LETT, V108, P161, DOI 10.1016/0014-5793(79)81200-4
+   NIGG EA, 1980, P NATL ACAD SCI-BIOL, V77, P4702, DOI 10.1073/pnas.77.8.4702
+   NIGG EA, 1979, BIOCHEMISTRY-US, V18, P3457, DOI 10.1021/bi00583a004
+   Razi Naqvi K, 1973, Nat New Biol, V245, P249
+   RICH PR, 1979, BIOCHIM BIOPHYS ACTA, V546, P307, DOI 10.1016/0005-2728(79)90048-3
+   RICHTER C, 1979, FEBS LETT, V102, P151, DOI 10.1016/0014-5793(79)80948-5
+   RIGLER R, 1973, Q REV BIOPHYS, V6, P139
+   SAFFMAN PG, 1975, P NATL ACAD SCI USA, V72, P3111, DOI 10.1073/pnas.72.8.3111
+   SCHNEIDER H, 1980, J BIOL CHEM, V255, P3748
+   THOMAS DD, 1979, J MOL BIOL, V132, P257, DOI 10.1016/0022-2836(79)90259-6
+   VAZ WLC, 1979, BIOPHYS J, V26, P415
+   WAHL P, 1971, EUR J BIOCHEM, V18, P332, DOI 10.1111/j.1432-1033.1971.tb01248.x
+   WAHL P, 1975, CHEM PHYS, V7, P210, DOI 10.1016/0301-0104(75)87003-0
+   WEBER G, 1978, ACTA PHYS POL A, V54, P173
+   YGUERABI.J, 1970, J MOL BIOL, V51, P573, DOI 10.1016/0022-2836(70)90009-4
+NR 41
+TC 72
+Z9 72
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PY 1981
+VL 36
+IS 1
+BP 277
+EP 296
+PG 20
+WC Biophysics
+SC Biophysics
+GA ML028
+UT WOS:A1981ML02800016
+ER
+
+PT J
+AU MCINTOSH, PR
+   KAWATO, S
+   FREEDMAN, RB
+   CHERRY, RJ
+AF MCINTOSH, PR
+   KAWATO, S
+   FREEDMAN, RB
+   CHERRY, RJ
+TI EVIDENCE FROM CROSS-LINKING AND ROTATIONAL DIFFUSION STUDIES THAT
+   CYTOCHROME-P450 CAN FORM MOLECULAR AGGREGATES IN RABBIT-LIVER
+   MICROSOMAL-MEMBRANES
+SO FEBS LETTERS
+LA English
+DT Article
+C1 SWISS FED INST TECHNOL,BIOCHEM LAB,CH-8092 ZURICH,SWITZERLAND.
+RP MCINTOSH, PR (reprint author), UNIV KENT,BIOL LAB,CANTERBURY CT2 7NJ,KENT,ENGLAND.
+CR Cherry R J, 1978, Methods Enzymol, V54, P47
+   Estabrook R W, 1978, Methods Enzymol, V52, P212
+   GUT J, UNPUBLISHED
+   KAWATO S, 1980, J BIOL CHEM, V255, P5508
+   KAWATO S, UNPUBLISHED
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   MCINTOSH PR, 1979, FEBS LETT, V105, P217, DOI 10.1016/0014-5793(79)80615-8
+   MCINTOSH PR, 1980, BIOCHEM J, V187, P227
+   McIntosh PR, 1978, BIOCHEM SOC T, V6, P1372, DOI 10.1042/bst0061372
+   NIGG E, 1979, NATURE, V277, P493, DOI 10.1038/277493a0
+   PETERSON JA, 1976, J BIOL CHEM, V251, P4010
+   RICHTER C, 1979, FEBS LETT, V102, P151, DOI 10.1016/0014-5793(79)80948-5
+   TANIGUCHI H, 1979, BIOCHIM BIOPHYS ACTA, V550, P341, DOI 10.1016/0005-2736(79)90220-7
+   YANG CS, 1975, FEBS LETT, V54, P61, DOI 10.1016/0014-5793(75)81068-4
+   YANG CS, 1977, LIFE SCI, V21, P1047, DOI 10.1016/0024-3205(77)90102-3
+NR 15
+TC 36
+Z9 36
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1980
+VL 122
+IS 1
+BP 54
+EP 58
+DI 10.1016/0014-5793(80)80400-5
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA KV325
+UT WOS:A1980KV32500013
+ER
+
+EF

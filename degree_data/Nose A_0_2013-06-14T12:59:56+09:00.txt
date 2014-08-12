@@ -1,0 +1,811 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Hoang, TKH
+   Nose, A
+AF Hoang Thi Kim Hong
+   Nose, Akihiro
+TI Characteristics of external and internal NAD(P)H dehydrogenases in Hoya
+   carnosa mitochondria
+SO JOURNAL OF BIOENERGETICS AND BIOMEMBRANES
+LA English
+DT Article
+DE AlaM; Complex I; Ext. NAD(P)H-DHs; H. carnosa mitochondria; Int.
+   NAD(P)H-DHs; NAD(P)H oxidations
+ID CRASSULACEAN ACID METABOLISM; ELECTRON-TRANSPORT CHAIN;
+   PLANT-MITOCHONDRIA; COMPLEX-I; RESPIRATORY PROPERTIES; ALTERNATIVE
+   OXIDASE; MALATE METABOLISM; INNER MEMBRANE; POTATO-TUBER; OXIDATION
+AB This study aims at characterizing NAD(P)H dehydrogenases on the inside and outside of the inner membrane of mitochondria of one phosphoenolpyruvate carboxykinase-crassulacean acid metabolism plant, Hoya carnosa. In crassulacean acid metabolism plants, NADH is produced by malate decarboxylation inside and outside mitochondria. The relative importance of mitochondrial alternative NADH dehydrogenases and their association was determined in intact-and alamethicin-permeabilized mitochondria of H. carnosa to discriminate between internal and external activities. The major findings in H. carnosa mitochondria are: (i) external NADPH oxidation is totally inhibited by DPI and totally dependent on Ca2+, (ii) external NADH oxidation is partially inhibited by DPI and mainly dependent on Ca2+, (iii) total NADH oxidation measured in permeabilized mitochondria is partially inhibited by rotenone and also by DPI, (iv) total NADPH oxidation measured in permeabilized mitochondria is partially dependent on Ca2+ and totally inhibited by DPI. The results suggest that complex I, external NAD(P)H dehydrogenases, and internal NAD(P)H dehydrogenases are all linked to the electron transport chain. Also, the total measurable NAD(P)H dehydrogenases activity was less than the total measurable complex I activity, and both of these enzymes could donate their electrons not only to the cytochrome pathway but also to the alternative pathway. The finding indicated that the H. carnosa mitochondrial electron transport chain is operating in a classical way, partitioning to both Complex I and alternative Alt. NAD(P)H dehydrogenases.
+C1 Hue Univ, Dept Biol, Coll Sci, Hue City, Vietnam.
+   Saga Univ, Fac Agr, Saga 8408502, Japan.
+RP Hoang, TKH (reprint author), Hue Univ, Dept Biol, Coll Sci, 77 Nguyen Hue, Hue City, Vietnam.
+EM hkhong@husc.edu.vn
+FU Crop Tropical Laboratory, Faculty of Agriculture, Saga University;
+   Vietnam National Foundation for Science and Technology Development
+   (NAFOSTED)
+FX We wish to express sincere thanks to Crop Tropical Laboratory, Faculty
+   of Agriculture, Saga University and Vietnam National Foundation for
+   Science and Technology Development (NAFOSTED) for their support.
+CR Agius SC, 1998, PHYSIOL PLANTARUM, V104, P329, DOI 10.1034/j.1399-3054.1998.1040306.x
+   Aidemark M, 2009, BMC PLANT BIOL, P9
+   ARRON GP, 1979, PLANT PHYSIOL, V64, P182, DOI 10.1104/pp.64.2.182
+   Batandier C, 2004, J BIOL CHEM, V279, P17197, DOI 10.1074/jbc.M310329200
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1006/abio.1976.9999
+   COOK RM, 1995, PLANT PHYSIOL, V109, P1301
+   DAY DA, 1980, PLANT PHYSIOL, V65, P675, DOI 10.1104/pp.65.4.675
+   DAY DA, 1995, J BIOENERG BIOMEMBR, V27, P379, DOI 10.1007/BF02110000
+   Estabrook RW, 1967, METHOD ENZYMOL, P41
+   Gostimskaya IS, 2003, ANAL BIOCHEM, V13, P45
+   Hong HTK, 2005, BIOL PLANTARUM, V49, P201, DOI 10.1007/s10535-005-1208-x
+   Hong HTK, 2008, J EXP BOT, V59, P1819, DOI 10.1093/jxb/ern050
+   Hong HTK, 2005, PLANT PROD SCI, V8, P383
+   Hong HTK, 2004, J EXP BOT, V55, P2201, DOI 10.1093/jxb/erh241
+   Johansson FI, 2004, BIOCHEM J, V380, P193, DOI 10.1042/BJ20031969
+   Kotlyar AB, 2004, BIOCHEM BIOPH RES CO, V318, P987, DOI 10.1016/j.bbrc.2004.04.131
+   Matic S, 2005, BIOCHEM J, V389, P695
+   Melo AMP, 1996, BBA-BIOENERGETICS, V1276, P133, DOI 10.1016/0005-2728(96)00068-0
+   MOLLER IM, 1982, PHYSIOL PLANTARUM, V54, P267, DOI 10.1111/j.1399-3054.1982.tb00258.x
+   Moller IM, 2002, TRENDS PLANT SCI, V7, P235, DOI 10.1016/S1360-1385(02)02281-1
+   MOLLER IM, 1993, J BIOENERG BIOMEMBR, V25, P377, DOI 10.1007/BF00762463
+   Moller IM, 1997, PHYSIOL PLANTARUM, V100, P85, DOI 10.1034/j.1399-3054.1997.1000108.x
+   Moller IM, 2001, ANNU REV PLANT PHYS, V52, P561, DOI 10.1146/annurev.arplant.52.1.561
+   Rasmusson AG, 2008, MITOCHONDRION, V8, P47, DOI 10.1016/j.mito.2007.10.004
+   Rasmusson AG, 2004, ANNU REV PLANT BIOL, V55, P23, DOI 10.1146/annurev.arplant.55.031903.141720
+   RASMUSSON AG, 1991, EUR J BIOCHEM, V202, P617, DOI 10.1111/j.1432-1033.1991.tb16415.x
+   ROBERTS TH, 1995, FEBS LETT, V373, P307, DOI 10.1016/0014-5793(95)01059-N
+   Rustin P, 1985, PLANT PHYSIOL, V164, pM415
+   SOOLE KL, 1990, PHYSIOL PLANTARUM, V80, P75, DOI 10.1034/j.1399-3054.1990.800112.x
+   Szal B, 2009, PHYSIOL PLANTARUM, V137, P435, DOI 10.1111/j.1399-3054.2009.01255.x
+NR 30
+TC 0
+Z9 0
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0145-479X
+J9 J BIOENERG BIOMEMBR
+JI J. Bioenerg. Biomembr.
+PD DEC
+PY 2012
+VL 44
+IS 6
+BP 655
+EP 664
+DI 10.1007/s10863-012-9471-y
+PG 10
+WC Biophysics; Cell Biology
+SC Biophysics; Cell Biology
+GA 043BX
+UT WOS:000311519000008
+ER
+
+PT J
+AU Inada, K
+   Kohsaka, H
+   Takasu, E
+   Matsunaga, T
+   Nose, A
+AF Inada, Kengo
+   Kohsaka, Hiroshi
+   Takasu, Etsuko
+   Matsunaga, Teruyuki
+   Nose, Akinao
+TI Optical Dissection of Neural Circuits Responsible for Drosophila Larval
+   Locomotion with Halorhodopsin
+SO PLOS ONE
+LA English
+DT Article
+ID MUSHROOM BODY; GENETIC DISSECTION; PATTERN GENERATION; COURTSHIP
+   BEHAVIOR; SENSORY NEURONS; NERVOUS-SYSTEM; EXPRESSION; MEMORY;
+   COORDINATION; ACTIVATION
+AB Halorhodopsin (NpHR), a light-driven microbial chloride pump, enables silencing of neuronal function with superb temporal and spatial resolution. Here, we generated a transgenic line of Drosophila that drives expression of NpHR under control of the Gal4/UAS system. Then, we used it to dissect the functional properties of neural circuits that regulate larval peristalsis, a continuous wave of muscular contraction from posterior to anterior segments. We first demonstrate the effectiveness of NpHR by showing that global and continuous NpHR-mediated optical inhibition of motor neurons or sensory feedback neurons induce the same behavioral responses in crawling larvae to those elicited when the function of these neurons are inhibited by Shibire ts, namely complete paralyses or slowed locomotion, respectively. We then applied transient and/or focused light stimuli to inhibit the activity of motor neurons in a more temporally and spatially restricted manner and studied the effects of the optical inhibition on peristalsis. When a brief light stimulus (1-10 sec) was applied to a crawling larva, the wave of muscular contraction stopped transiently but resumed from the halted position when the light was turned off. Similarly, when a focused light stimulus was applied to inhibit motor neurons in one or a few segments which were about to be activated in a dissected larva undergoing fictive locomotion, the propagation of muscular constriction paused during the light stimulus but resumed from the halted position when the inhibition (>5 sec) was removed. These results suggest that (1) Firing of motor neurons at the forefront of the wave is required for the wave to proceed to more anterior segments, and (2) The information about the phase of the wave, namely which segment is active at a given time, can be memorized in the neural circuits for several seconds.
+C1 Univ Tokyo, Grad Sch Frontier Sci, Dept Complex Sci & Engn, Kashiwa, Chiba, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 113, Japan.
+RP Inada, K (reprint author), Univ Tokyo, Grad Sch Frontier Sci, Dept Complex Sci & Engn, Kashiwa, Chiba, Japan.
+EM nose@k.u-tokyo.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology
+   [221S0003];  [22115002]
+FX This work was supported by a Grant-in-Aid for Scientific Research on
+   Innovative Areas "Mesoscopic Neurocircuitry" (No. 22115002; web sites:
+   http:// www.mext.go.jp/english/;
+   http://www.meso-neurocircuitry.jp/index_ eng. html) and "Comprehensive
+   Brain Science Network" of the Ministry of Education, Culture, Sports,
+   Science and Technology (No. 221S0003; web sites:
+   http://www.mext.go.jp/english/; http://hokatsu-nou.nips.ac.jp/). The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Arrenberg AB, 2009, P NATL ACAD SCI USA, V106, P17968, DOI 10.1073/pnas.0906252106
+   BRAND AH, 1993, DEVELOPMENT, V118, P401
+   Cattaert D, 2001, J NEUROBIOL, V48, P58, DOI 10.1002/neu.1042
+   Cheng LE, 2010, NEURON, V67, P373, DOI 10.1016/j.neuron.2010.07.004
+   Deisseroth K, 2011, NAT METHODS, V8, P26, DOI [10.1038/nmeth.f.324, 10.1038/NMETH.F.324]
+   Dubnau J, 2001, NATURE, V411, P476, DOI 10.1038/35078077
+   Fei H, 2010, J EXP BIOL, V213, P1717, DOI 10.1242/jeb.036053
+   Fox LE, 2006, J NEUROSCI, V26, P1486, DOI 10.1523/JNEUROSCI.4749-05.2006
+   Friesen WO, 2007, CURR OPIN NEUROBIOL, V17, P704, DOI 10.1016/j.conb.2008.01.006
+   Friesen WO, 2001, CURR OPIN NEUROBIOL, V11, P678, DOI 10.1016/S0959-4388(01)00268-9
+   Gradinaru V, 2010, CELL, V141, P154, DOI 10.1016/j.cell.2010.02.037
+   Gradinaru V, 2009, SCIENCE, V324, P354, DOI 10.1126/science.1167093
+   Gradinaru V, 2008, BRAIN CELL BIOL, V36, P129, DOI 10.1007/s11068-008-9027-6
+   Grillner S, 2006, NEURON, V52, P751, DOI 10.1016/j.neuron.2006.11.008
+   HEGEMANN P, 1985, EMBO J, V4, P2347
+   Hughes CL, 2007, MOL CELL NEUROSCI, V35, P383, DOI 10.1016/j.mcn.2007.04.001
+   Hwang RY, 2007, CURR BIOL, V17, P2105, DOI 10.1016/j.cub.2007.11.029
+   Ito K, 1997, DEVELOPMENT, V124, P761
+   JAN LY, 1976, J PHYSIOL-LONDON, V262, P215
+   Jan YN, 1993, DEV DROSOPHILA MELAN, VII, P1207
+   Kitamoto T, 2001, J NEUROBIOL, V47, P81, DOI 10.1002/neu.1018
+   Luo L, 2008, NEURON, V57, P634, DOI 10.1016/j.neuron.2008.01.002
+   Manoli DS, 2005, NATURE, V436, P395, DOI 10.1038/nature03859
+   Marder E, 2007, ANNU REV PHYSIOL, V69, P291, DOI 10.1146/annurev.physiol.69.031905.161516
+   McCrea DA, 2008, BRAIN RES REV, V57, P134, DOI 10.1016/j.brainresrev.2007.08.006
+   McGuire SE, 2001, SCIENCE, V293, P1330, DOI 10.1126/science.1062622
+   Nose A, 1997, DEVELOPMENT, V124, P1433
+   Peron S, 2009, COMP BIOCHEM PHYS A, V154, P173, DOI 10.1016/j.cbpa.2009.04.626
+   Pulver SR, 2009, J NEUROPHYSIOL, V101, P3075, DOI 10.1152/jn.00071.2009
+   Rossignol S, 2006, PHYSIOL REV, V86, P89, DOI 10.1152/00028.2005
+   Salvaterra Paul M., 2001, Gene Expression Patterns, V1, P73, DOI 10.1016/S1567-133X(01)00011-4
+   Sanyal S, 2009, GENE EXPR PATTERNS, V9, P371, DOI 10.1016/j.gep.2009.01.002
+   Schoonheim PJ, 2010, J NEUROSCI, V30, P7111, DOI 10.1523/JNEUROSCI.5193-09.2010
+   Schroll C, 2006, CURR BIOL, V16, P1741, DOI 10.1016/j.cub.2006.07.023
+   Schuster CM, 1996, NEURON, V17, P641, DOI 10.1016/S0896-6273(00)80197-X
+   SINK H, 1991, J NEUROBIOL, V22, P298, DOI 10.1002/neu.480220309
+   Song W, 2007, P NATL ACAD SCI USA, V104, P5199, DOI 10.1073/pnas.0700895104
+   Stockinger P, 2005, CELL, V121, P795, DOI 10.1016/j.cell.2005.04.026
+   Sugimura K, 2003, J NEUROSCI, V23, P3752
+   Suster ML, 2002, NATURE, V416, P174, DOI 10.1038/416174a
+   Tonnesen J, 2009, P NATL ACAD SCI USA, V106, P12162, DOI 10.1073/pnas.0901915106
+   Waddell S, 2000, CELL, V103, P805, DOI 10.1016/S0092-8674(00)00183-5
+   Xiang Y, 2010, NATURE, V468, P921, DOI 10.1038/nature09576
+   Zhang F, 2007, NATURE, V446, P633, DOI 10.1038/nature05744
+   Zhang W, 2007, EUR J NEUROSCI, V26, P2405, DOI 10.1111/j.1460-9568.2007.05862.x
+   Zhao SL, 2008, BRAIN CELL BIOL, V36, P141, DOI 10.1007/s11068-008-9034-7
+NR 46
+TC 3
+Z9 3
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 185 BERRY ST, STE 1300, SAN FRANCISCO, CA 94107 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 28
+PY 2011
+VL 6
+IS 12
+AR e29019
+DI 10.1371/journal.pone.0029019
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 897SK
+UT WOS:000300676300023
+ER
+
+PT J
+AU Miyazaki, H
+   Baba, Y
+   Inada, M
+   Nose, A
+   Suzuki, H
+   Ota, T
+AF Miyazaki, Hidetoshi
+   Baba, Yuki
+   Inada, Masaya
+   Nose, Atsushi
+   Suzuki, Hisao
+   Ota, Toshitaka
+TI Fabrication of Photochromic Tungsten Oxide Based Composite Film Using
+   Peroxoisopolytungstic Acid
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID THIN-FILMS; AMORPHOUS WO3; HYBRID
+AB Tungsten-based photochromic composite films were fabricated using peroxoisopolytungstic acid aqueous solution and transparent urethane resin. UV-visible irradiation of the resulting composite films showed photochromic properties, indicating broad absorption with peaks at 650 and 900 nm. The coloring time was about 40 min. The colored composite films were transformed to clear film in a dark room in 90h.
+C1 Shimane Univ, Interdisciplinary Fac Sci & Engn, Dept Mat Sci, Matsue, Shimane 6908504, Japan.
+   Shizuoka Univ, Grad Sch Sci & Technol, Hamamatsu, Shizuoka 4328561, Japan.
+   Nagoya Inst Technol, Ceram Res Lab, Tajimi, Gifu 5070071, Japan.
+RP Miyazaki, H (reprint author), Shimane Univ, Interdisciplinary Fac Sci & Engn, Dept Mat Sci, 1060 Nishikawatsu, Matsue, Shimane 6908504, Japan.
+EM miya@riko.shimane-u.ac.jp
+CR ANDERSON PW, 1958, PHYS REV, V109, P1492, DOI 10.1103/PhysRev.109.1492
+   Avellaneda CO, 2003, SOLID STATE IONICS, V165, P117, DOI 10.1016/j.ssi.2003.08.023
+   Bechinger C, 1997, SOLID STATE COMMUN, V101, P753, DOI 10.1016/S0038-1098(96)00703-X
+   Chen XC, 2005, J SOL-GEL SCI TECHN, V36, P197, DOI 10.1007/s10971-005-3611-3
+   Granqvist CG, 2003, ADV MATER, V15, P1789, DOI 10.1002/adma.200300378
+   He T, 2006, PROG MATER SCI, V51, P810, DOI 10.1016/j.pmatsci.2005.12.001
+   ITOH K, 1994, BER BUNSEN PHYS CHEM, V98, P1250
+   Katayama S, 2006, J CERAM SOC JPN, V114, P114, DOI 10.2109/jcersj.114.114
+   KUDO T, 1986, INORG CHIM ACTA, V111, pL27, DOI 10.1016/S0020-1693(00)84626-5
+   MOTT NF, 1969, PHILOS MAG, V19, P835, DOI 10.1080/14786436908216338
+   SHIGESATO Y, 1991, JPN J APPL PHYS 1, V30, P1457, DOI 10.1143/JJAP.30.1457
+   Yang YA, 1998, J PHYS CHEM SOLIDS, V59, P1667, DOI 10.1016/S0022-3697(98)00261-3
+   ZELLER HR, 1977, APPL PHYS, V13, P231, DOI 10.1007/BF00882886
+NR 13
+TC 1
+Z9 1
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101-8307, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PD DEC 15
+PY 2011
+VL 84
+IS 12
+BP 1390
+EP 1392
+DI 10.1246/bcsj.20110228
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 873TW
+UT WOS:000298906900015
+ER
+
+PT J
+AU Nose, A
+   Hojo, M
+   Ueda, T
+AF Nose, A
+   Hojo, M
+   Ueda, T
+TI Effects of salts, acids, and phenols on the hydrogen-bonding structure
+   of water-ethanol mixtures
+SO JOURNAL OF PHYSICAL CHEMISTRY B
+LA English
+DT Article
+ID NUCLEAR MAGNETIC RESONANCE; SCANNING CALORIMETRY DSC; AQUEOUS-SOLUTIONS;
+   LIQUID WATER; NMR; ELECTROLYTES; MODEL; SHIFT; HYDRATION; CONSTANTS
+AB The effects of salts, acids, and phenols on the hydrogen-bonding structure of water in 20% (v/v) EtOH-H2O solution were investigated on the basis of H-1 NMR chemical shifts of the OH of water and ethanol. It was found that many salts caused structure breaking of water while a few metal salts, such as MgCl2 and KF, had a strengthening effect. The OH proton chemical shifts caused by the presence of alkali-metal and alkaline-earth-metal ions or anions (halides, NO3-, ClO4-, SO42-) from strong acids were related to the sizes and charges of the ions. Not only acids (H+ and HA, undissociated acids) but also bases (OH- and A(-), conjugate-base anions from weak acids) had the effect of strengthening the structure of water; the degree of the effect was dependent on the acid strength (pK(a)). The proton exchange between water and ethanol molecules in 60% (v/v) EtOH-H2O solution was examined, on the basis of the coalescence of two signal peaks of water and ethanol as well as the further low-field shift in H-1 NMR spectra with increasing concentration of solutes. Although it has been already reported that the proton exchange between water and ethanol molecules is promoted by strong acids and bases, a distinct proton exchange was also observed in the neutral solution, i.e., by the addition of phosphate pH buffer solution (pH 6.86). It was also discovered that NaCl had the effect of breaking the structure of water in 20% (v/v) EtOH-H2O solution; however, in 60% (v/v) EtOH-H2O solution the same salt at lower concentrations strengthened the water-ethanol structure, promoting the proton exchange between water and ethanol molecules. Hydrogen bond donors as well as acceptors seemed to cause the intimate (or tight) interaction between H2O and EtOH molecules even in alcoholic beverages.
+C1 Kochi Univ, Fac Sci, Dept Chem, Kochi 7808520, Japan.
+   Kochi Univ, Grad Sch Sci, Kochi 7808520, Japan.
+   Suigei Brewing Co Ltd, Kochi 7810270, Japan.
+RP Hojo, M (reprint author), Kochi Univ, Fac Sci, Dept Chem, Kochi 7808520, Japan.
+EM mhojo@cc.kochi-u.ac.jp
+CR AKAHOSHI R, 1984, NIPPON NOGEIKAGAKU K, V58, P357
+   AMRCUS Y, 1997, ION PROPERTIES, P46
+   BALLINGER P, 1959, J AM CHEM SOC, V81, P1050, DOI 10.1021/ja01514a010
+   BERCQVIST MS, 1962, ACTA CHEM SCAND, V16, P2069
+   BONAMICO M, 1962, J CHEM PHYS, V15, P2219
+   Chen ZD, 1997, J PHYS CHEM B, V101, P10896, DOI 10.1021/jp971398x
+   COCCIA A, 1975, CHEM PHYS, V7, P30, DOI 10.1016/0301-0104(75)85022-1
+   DAVIS CM, 1965, J CHEM PHYS, V42, P2563, DOI 10.1063/1.1696333
+   DOUGLAS BE, 1983, CONCEPTS MODELS INOR, pCH6
+   ENGEL G, 1968, BERICH BUNSEN GESELL, V72, P808
+   FRANK HS, 1957, DISCUSS FARADAY SOC, P133
+   FRANKS F, 1966, Q REV CHEM SOC, V20, P1, DOI 10.1039/qr9662000001
+   FREISER H, 1963, IONIC EQUILIBRIA ANA, P298
+   Funasaki N, 2001, J PHYS CHEM B, V105, P7361, DOI 10.1021/jp010774h
+   HAGLER AT, 1972, J PHYS CHEM-US, V22, P3229
+   HALL L, 1948, PHYS REV, V73, P775, DOI 10.1103/PhysRev.73.775
+   Harris KR, 1998, J CHEM SOC FARADAY T, V94, P1963, DOI 10.1039/a802567c
+   HERTZ HG, 1959, Z ELEKTROCHEM, V63, P1096
+   Hidaka F, 2003, J SOLUTION CHEM, V32, P239, DOI 10.1023/A:1022986301621
+   HINDMAN JC, 1962, J CHEM PHYS, V36, P1000, DOI 10.1063/1.1732625
+   HINDMAN JC, 1966, J CHEM PHYS, V44, P4582, DOI 10.1063/1.1726676
+   HOJO M, 2000, J CHEM SOC PERK T, V2, P1735
+   KOGA K, 1979, J FOOD SCI, V44, P1386, DOI 10.1111/j.1365-2621.1979.tb06444.x
+   KOGA K, 1977, J FOOD SCI, V42, P1213, DOI 10.1111/j.1365-2621.1977.tb14462.x
+   LADD MFC, 1968, THEOR CHIM ACTA, V12, P333, DOI 10.1007/BF00527551
+   LENTZ BR, 1974, J PHYS CHEM-US, V78, P1531, DOI 10.1021/j100608a017
+   LUS Z, 1959, J CHEM PHYS, V6, P1540
+   LUZ Z, 1966, J PHYS CHEM-US, V70, P554, DOI 10.1021/j100874a040
+   MIKHAILOV VA, 1968, ZH STRUKT KHIM, V9, P397
+   MIZUNO K, 1995, J PHYS CHEM-US, V99, P3225, DOI 10.1021/j100010a037
+   Mizuno K, 2000, J PHYS CHEM B, V104, P11001, DOI 10.1021/jp001079x
+   Muller N, 1965, J CHEM PHYS, V43, P2555, DOI 10.1063/1.1697163
+   Nakahara M., 1997, DICT INORGANIC COMPO
+   NARTEN AH, 1967, DISCUSS FARADAY SOC, P97
+   NEMETHY G, 1962, J CHEM PHYS, V36, P3382
+   NISHI N, 1988, J AM CHEM SOC, V110, P5246, DOI 10.1021/ja00224a002
+   NISHIMURA K, 1989, SCI TECHNOLOGY WHISK, P248
+   OKI M, 1989, ENCY DICT CHEM
+   PAULING L, 1960, NATURE CHEM BOND, pCH12
+   PERRIN DD, 1981, PKA PREDICTION ORGAN, P44
+   RIDDICK JA, 1986, TECHNIQUES CHEM, V2, P700
+   Samoilov O. Ya., 1946, ZH FIZ KHIM+, V20, P1411
+   SHOOLERY JN, 1955, J CHEM PHYS, V23, P805, DOI 10.1063/1.1742126
+   WADA G, 1961, B CHEM SOC JPN, V34, P955, DOI 10.1246/bcsj.34.955
+   Wen WY, 1972, J SOLUTION CHEM, V1, P17, DOI 10.1007/BF00648414
+   1989, MARCK INDEX
+   1989, CRC HDB CHEM PHYSICS
+NR 47
+TC 30
+Z9 30
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1520-6106
+J9 J PHYS CHEM B
+JI J. Phys. Chem. B
+PD JAN 15
+PY 2004
+VL 108
+IS 2
+BP 798
+EP 804
+DI 10.1021/jp0308312
+PG 7
+WC Chemistry, Physical
+SC Chemistry
+GA 762CA
+UT WOS:000187951700040
+ER
+
+PT J
+AU Matsubara, H
+   Shibasaki, Y
+   Okigaki, M
+   Mori, Y
+   Masaki, H
+   Kosaki, A
+   Tsutsumi, Y
+   Uchiyama, Y
+   Fujiyama, S
+   Nose, A
+   Iba, O
+   Tateishi, E
+   Hasegawa, T
+   Horiuchi, M
+   Nahmias, C
+   Iwasaka, T
+AF Matsubara, H
+   Shibasaki, Y
+   Okigaki, M
+   Mori, Y
+   Masaki, H
+   Kosaki, A
+   Tsutsumi, Y
+   Uchiyama, Y
+   Fujiyama, S
+   Nose, A
+   Iba, O
+   Tateishi, E
+   Hasegawa, T
+   Horiuchi, M
+   Nahmias, C
+   Iwasaka, T
+TI Effect of angiotensin II type 2 receptor on tyrosine kinase Pyk2 and
+   c-Jun NH2-terminal kinase via SHP-1 tyrosine phosphatase activity:
+   Evidence from vascular-targeted transgenic mice of AT2 receptor
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE angiotensin II; angiotensin II receptors; angiotensin II type 2
+   receptor; tyrosinephosphatase; SHP-1; c-Jun NH2-terminal kinase
+ID GROWTH-FACTOR RECEPTOR; ENDOTHELIAL-CELLS; AT(2) RECEPTOR; G-PROTEIN;
+   ACTIVATION; TRANSACTIVATION; PROLIFERATION; INACTIVATION; INHIBITION;
+   EXPRESSION
+AB Angiotensin II (Ang II) has two major receptor isoforms, AT1 and AT2. AT1 transphosphorylates Ca2+. sensitive tyrosine kinase Pyk2 to activate c-Jun NH2-terminal kinase (JNK), Although AT2 inactivates extracellular signal-regulated kinase (ERK) via tyrosine phosphatases (PTP), the action of AT2 on Pyk2 and JNK remains undefined. Using,AT2-overexpressing: vascular smooth muscle cells (AT2-VSMC) from AT2-transgenic mice, we studied these undefined actions of AT2, AT1-mediated JNK activity was increased 2.2-fold by AT2 inhibition, which was abolished blv orthovanadate. AT2 did not affect AT1-mediated Pyk2 phosphorylation, but attenuated e-Jun mRNA accumulation by 32%. The activity of src-homology 2 domain-containing PTP (SHP-1) was significantly upregulated 1 min after AT2 stimulation. Stable overexpression of SHP-1 dominant negative mutant in AT2-VSMC completely abolished AT2-mediated inhibition of JNK activation and c-Jun expression. These findings suggest that AT2 inhibits JNK activity by affecting the downstream signal of Pyk2 in a SHP-1-dependent manner, leading to a decrease in c-Jun expression. (C) 2001 Academic Press.
+C1 Kansai Med Univ, Dept Med 2, Moriguchi, Osaka 5708507, Japan.
+   Ehime Univ, Sch Med, Dept Med Biochem, Shigenobu, Ehime 7910295, Japan.
+   Inst Cochin Genet Mol, CNRS, UPR 0415, F-75014 Paris, France.
+RP Matsubara, H (reprint author), Kansai Med Univ, Dept Med 2, Fumizonocho 10-15, Moriguchi, Osaka 5708507, Japan.
+CR BAKER KM, 1992, ANNU REV PHYSIOL, V54, P227, DOI 10.1146/annurev.physiol.54.1.227
+   Bedecs K, 1997, BIOCHEM J, V325, P449
+   Booz GW, 1996, HYPERTENSION, V28, P635
+   Eguchi S, 1998, J BIOL CHEM, V273, P8890, DOI 10.1074/jbc.273.15.8890
+   Elbaz N, 2000, MOL ENDOCRINOL, V14, P795, DOI 10.1210/me.14.6.795
+   Ganju RK, 2000, J BIOL CHEM, V275, P17263, DOI 10.1074/jbc.M000689200
+   Horiuchi M, 1997, J BIOL CHEM, V272, P19022, DOI 10.1074/jbc.272.30.19022
+   Huang XC, 1996, J BIOL CHEM, V271, P15635
+   INAGAMI T, 1994, HYPERTENS RES, V17, P87, DOI 10.1291/hypres.17.87
+   KLINGMULLER U, 1995, CELL, V80, P729, DOI 10.1016/0092-8674(95)90351-8
+   Lehtonen JYA, 1999, MOL ENDOCRINOL, V13, P1051, DOI 10.1210/me.13.7.1051
+   LI RY, 1995, EMBO J, V14, P2519
+   Li X, 1998, EMBO J, V17, P2574, DOI 10.1093/emboj/17.9.2574
+   Matsubara H, 1998, ENDOCR J, V45, P137, DOI 10.1507/endocrj.45.137
+   Matsubara H, 1998, CIRC RES, V83, P1182
+   Meffert S, 1996, MOL CELL ENDOCRINOL, V122, P59, DOI 10.1016/0303-7207(96)03873-7
+   Murasawa S, 1998, HYPERTENSION, V32, P668
+   Murasawa S, 2000, J BIOL CHEM, V275, P26856
+   Murasawa S, 1998, CIRC RES, V82, P1338
+   Nora EH, 1998, AM J PHYSIOL-HEART C, V275, pH1395
+   OCHI F, 1997, BIOCH BIOPHYS RES CO
+   PEI DH, 1994, BIOCHEMISTRY-US, V33, P15483, DOI 10.1021/bi00255a030
+   SHULTZ LD, 1993, CELL, V73, P1445, DOI 10.1016/0092-8674(93)90369-2
+   Siragy HM, 1997, J CLIN INVEST, V100, P264, DOI 10.1172/JCI119531
+   STOLL M, 1995, J CLIN INVEST, V95, P651, DOI 10.1172/JCI117710
+   Tang H, 2000, J BIOL CHEM, V275, P8389, DOI 10.1074/jbc.275.12.8389
+   Tsutsumi Y, 1999, J CLIN INVEST, V104, P925, DOI 10.1172/JCI7886
+   Tsutsumi Y, 1998, CIRC RES, V83, P1035
+   Yamada T, 1996, P NATL ACAD SCI USA, V93, P156, DOI 10.1073/pnas.93.1.156
+   Yu H, 1996, J BIOL CHEM, V271, P29993
+NR 30
+TC 23
+Z9 24
+PU ACADEMIC PRESS INC
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD APR 20
+PY 2001
+VL 282
+IS 5
+BP 1085
+EP 1091
+DI 10.1006/bbrc.2001.4695
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 427YQ
+UT WOS:000168434700003
+ER
+
+PT J
+AU Shishido, E
+   Takeichi, M
+   Nose, A
+AF Shishido, E
+   Takeichi, M
+   Nose, A
+TI Drosophila synapse formation: Regulation by transmembrane protein with
+   leu-rich repeats, CAPRICIOUS
+SO SCIENCE
+LA English
+DT Article
+ID ADHESION MOLECULE; NERVOUS-SYSTEM; MOTOR AXONS; MOTONEURONS; EMBRYO;
+   SUBSET; GENES
+AB Upon reaching the target region, neuronal growth cones transiently search through potential targets and form synaptic connections with only a subset of these. The capricious (caps) gene may regulate these processes in Drosophila. caps encodes a transmembrane protein with leucine-rich repeats (LRRs). During the formation of neuromuscular synapses, caps is expressed in a small number of synaptic partners, including muscle 12 and the motorneurons that innervate it. Loss-of-function and ectopic expression of caps alter the target specificity of muscle 12 motorneurons, indicating a role for caps in selective synapse formation.
+C1 Natl Inst Basic Biol, Okazaki, Aichi 4448585, Japan.
+   Kyoto Univ, Fac Sci, Dept Biophys, Kyoto 6068502, Japan.
+RP Nose, A (reprint author), Univ Tokyo, Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138654, Japan.
+EM nose@bio.phys.s.u-tokyo.ac.jp
+RI Takeichi, Masatoshi/G-5903-2012
+CR BATE M, 1995, NEURON, V15, P513, DOI 10.1016/0896-6273(95)90141-8
+   CHANG Z, 1993, DEV BIOL, V160, P315, DOI 10.1006/dbio.1993.1310
+   CHIBA A, 1995, NATURE, V374, P166, DOI 10.1038/374166a0
+   Davis GW, 1998, NATURE, V392, P82, DOI 10.1038/32176
+   Davis GW, 1997, NEURON, V19, P561, DOI 10.1016/S0896-6273(00)80372-4
+   FUJITA SC, 1982, P NATL ACAD SCI-BIOL, V79, P7929, DOI 10.1073/pnas.79.24.7929
+   GARRITY PA, 1995, CELL, V83, P177, DOI 10.1016/0092-8674(95)90159-0
+   HALPERN ME, 1991, J NEUROSCI, V11, P3227
+   HARTENSTEIN V, 1992, ROUX ARCH DEV BIOL, V201, P194, DOI 10.1007/BF00188752
+   JIA XX, 1993, J NEUROBIOL, V24, P1025, DOI 10.1002/neu.480240804
+   KEITH FJ, 1990, EMBO J, V9, P4299
+   Keshishian H, 1996, ANNU REV NEUROSCI, V19, P545, DOI 10.1146/annurev.neuro.19.1.545
+   KOBE B, 1994, TRENDS BIOCHEM SCI, V19, P415, DOI 10.1016/0968-0004(94)90090-6
+   Kose H, 1997, DEVELOPMENT, V124, P4143
+   KRANTZ DE, 1990, EMBO J, V9, P1969
+   Landgraf M, 1997, J NEUROSCI, V17, P9642
+   MATTHES DJ, 1995, CELL, V81, P631, DOI 10.1016/0092-8674(95)90084-5
+   Mitchell KJ, 1996, NEURON, V17, P203, DOI 10.1016/S0896-6273(00)80153-1
+   Nose A, 1997, DEVELOPMENT, V124, P1433
+   NOSE A, 1992, CELL, V70, P553, DOI 10.1016/0092-8674(92)90426-D
+   PATEL NH, 1987, CELL, V48, P975, DOI 10.1016/0092-8674(87)90706-9
+   Raghavan S, 1997, NEURON, V18, P873, DOI 10.1016/S0896-6273(00)80327-X
+   Rose D, 1997, DEVELOPMENT, V124, P1561
+   SHISHIDO E, UNPUB
+   SINK H, 1991, J NEUROBIOL, V22, P298, DOI 10.1002/neu.480220309
+   SINK H, 1991, DEVELOPMENT, V112, P307
+   TessierLavigne M, 1996, SCIENCE, V274, P1123, DOI 10.1126/science.274.5290.1123
+   VANVACTOR D, 1993, CELL, V73, P1137, DOI 10.1016/0092-8674(93)90643-5
+   Yoshihara M, 1997, J NEUROSCI, V17, P8408
+   Zito K, 1997, NEURON, V19, P1007, DOI 10.1016/S0896-6273(00)80393-1
+NR 30
+TC 67
+Z9 68
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JUN 26
+PY 1998
+VL 280
+IS 5372
+BP 2118
+EP 2121
+DI 10.1126/science.280.5372.2118
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA ZW680
+UT WOS:000074435900046
+ER
+
+PT J
+AU NOSE, A
+   KUDO, T
+AF NOSE, A
+   KUDO, T
+TI STUDIES OF REDUCTION OF VARIOUS ORGANIC-COMPOUNDS WITH THE NICKEL(II)
+   CHLORIDE-ZINC SYSTEM
+SO CHEMICAL & PHARMACEUTICAL BULLETIN
+LA English
+DT Article
+C1 DAIICHI COLL PHARMACEUT SCI,22-1 TAMAGAWA CHO,MINAMI KU,FUKUOKA 815,JAPAN.
+CR ABLEY P, 1972, J CATAL, V24, P536, DOI 10.1016/0021-9517(72)90138-8
+   BARR W, 1945, J CHEM SOC, P428
+   BENDER ML, 1957, J AM CHEM SOC, V79, P111, DOI 10.1021/ja01558a029
+   BESTMANN HJ, 1962, CHEM BER-RECL, V95, P1513, DOI 10.1002/cber.19620950631
+   CHODROFF S, 1948, J AM CHEM SOC, V70, P1647, DOI 10.1021/ja01184a101
+   Dorough GL, 1941, J AM CHEM SOC, V63, P3100, DOI 10.1021/ja01856a064
+   EISENLOHR F, 1924, CHEM BER, V57, P1817
+   EMKEN EA, 1966, J AM OIL CHEM SOC, V43, P14, DOI 10.1007/BF02637270
+   FALK JC, 1971, J ORG CHEM, V36, P1445, DOI 10.1021/jo00809a031
+   FRANKEL EN, 1972, J AM OIL CHEM SOC, V49, P132, DOI 10.1007/BF02612644
+   GOTO T, 1980, CHEM LETT, P709, DOI 10.1246/cl.1980.709
+   HATA K, 1958, YUKI GOSEI KAGAKU KY, V16, P596
+   ITATANI H, 1972, IND ENG CHEM PROD RD, V11, P146, DOI 10.1021/i360042a005
+   ITATANI H, 1967, J AM CHEM SOC, V89, P1600, DOI 10.1021/ja00983a011
+   JUDAY R, 1955, J AM CHEM SOC, V77, P4559, DOI 10.1021/ja01622a037
+   KAJITANI M, 1974, YUKI GOSEI KOGAKU KY, V32, P951
+   KINDLER K, 1949, LIEBIGS ANN CHEM, V564, P49
+   LACAT M, 1927, RECL TRAV CHIM PAY B, V46, P243
+   LAPKIN II, 1952, ZH OBSHCH KHIM+, V22, P1602
+   Lock G, 1944, BER DTSCH CHEM GES, V77, P293, DOI 10.1002/cber.19440770503
+   MCKILLOP A, 1974, TETRAHEDRON, V30, P2467, DOI 10.1016/S0040-4020(01)97118-2
+   MOZINGO R, 1948, J AM CHEM SOC, V79, P229
+   NOSE A, 1989, CHEM PHARM BULL, V37, P808
+   NOSE A, 1988, CHEM PHARM BULL, V36, P1529
+   NOSE A, 1990, CHEM PHARM BULL, V38, P1720
+   NOSE A, 1989, CHEM PHARM BULL, V37, P816
+   ONAKA M, 1981, CHEM LETT, P531, DOI 10.1246/cl.1981.531
+   RIEKE RD, 1979, J AM CHEM SOC, V101, P246, DOI 10.1021/ja00495a055
+   Rindfusz RE, 1920, J AM CHEM SOC, V42, P1720, DOI 10.1021/ja01453a024
+   SAKAI K, 1967, B CHEM SOC JPN, V40, P1548, DOI 10.1246/bcsj.40.1548
+   SAKAI K, 1968, B CHEM SOC JPN, V41, P1902, DOI 10.1246/bcsj.41.1902
+   SAKAI K, 1967, B CHEM SOC JPN, V40, P1660, DOI 10.1246/bcsj.40.1660
+   SAMEJIMA H, 1969, B CHEM SOC JPN, V42, P2722, DOI 10.1246/bcsj.42.2722
+   SCHWENK E, 1946, J ORG CHEM, V11, P798, DOI 10.1021/jo01176a023
+   SLOAN MF, 1963, J AM CHEM SOC, V85, P4014, DOI 10.1021/ja00907a023
+   SMITH HA, 1949, J AM CHEM SOC, V71, P3772, DOI 10.1021/ja01179a056
+   SULZBACHER M, 1948, J ORG CHEM, V13, P303, DOI 10.1021/jo01160a020
+   TAJIMA Y, 1968, J ORG CHEM, V33, P1689, DOI 10.1021/jo01268a097
+   TAKAGI K, 1989, CHEM LETT, P1957, DOI 10.1246/cl.1989.1957
+   TAKAGI K, 1980, B CHEM SOC JPN, V53, P3691, DOI 10.1246/bcsj.53.3691
+   TAKAGI K, 1979, CHEM LETT, P917, DOI 10.1246/cl.1979.917
+   TAKEGAMI Y, 1965, KOGYO KAGAKU ZASSHI, V68, P2373
+   TAKEGAMI Y, 1969, B CHEM SOC JPN, V42, P1663, DOI 10.1246/bcsj.42.1663
+   TSOU TT, 1980, J ORG CHEM, V45, P1930, DOI 10.1021/jo01298a035
+   URUSHIBARA Y, 1956, B CHEM SOC JPN, V29, P815, DOI 10.1246/bcsj.29.815
+   URUSHIBARA Y, 1956, SHOKUBAI TOKYO, V12, P111
+   VONBRAUN J, 1923, CHEM BER, V56, P1338
+   von Braun J, 1926, LIEBIGS ANN CHEM, V449, P249
+   VONBROUN J, 1922, CHEM BER, V55, P3779
+   WATANABE K, 1959, B CHEM SOC JPN, V32, P1280, DOI 10.1246/bcsj.32.1280
+   WATANABE KI, 1966, B CHEM SOC JPN, V39, P8, DOI 10.1246/bcsj.39.8
+   WIBERG KB, 1955, J AM CHEM SOC, V77, P2774, DOI 10.1021/ja01615a031
+   Wieland H, 1925, LIEBIGS ANN CHEM, V444, P40
+   WINANS CF, 1933, J AM CHEM SOC, V55, P4167, DOI 10.1021/ja01337a046
+NR 54
+TC 14
+Z9 14
+PU PHARMACEUTICAL SOC JAPAN
+PI TOKYO
+PA 2-12-15-201 SHIBUYA, SHIBUYA-KU, TOKYO 150, JAPAN
+SN 0009-2363
+J9 CHEM PHARM BULL
+JI Chem. Pharm. Bull.
+PD AUG
+PY 1990
+VL 38
+IS 8
+BP 2097
+EP 2101
+PG 5
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA DX559
+UT WOS:A1990DX55900005
+ER
+
+PT J
+AU MIYATANI, S
+   SHIMAMURA, K
+   HATTA, M
+   NAGAFUCHI, A
+   NOSE, A
+   MATSUNAGA, M
+   HATTA, K
+   TAKEICHI, M
+AF MIYATANI, S
+   SHIMAMURA, K
+   HATTA, M
+   NAGAFUCHI, A
+   NOSE, A
+   MATSUNAGA, M
+   HATTA, K
+   TAKEICHI, M
+TI NEURAL CADHERIN - ROLE IN SELECTIVE CELL-CELL ADHESION
+SO SCIENCE
+LA English
+DT Article
+C1 KYOTO UNIV,FAC SCI,DEPT BIOPHYS,KITASHIRAKAWA,SAKYO KU,KYOTO 606,JAPAN.
+RI Takeichi, Masatoshi/G-5903-2012
+CR BURDICK ML, 1969, P NATL ACAD SCI USA, V63, P1169, DOI 10.1073/pnas.63.4.1169
+   BURDICK ML, 1970, J EXP ZOOL, V175, P357, DOI 10.1002/jez.1401750309
+   DAMSKY CH, 1983, CELL, V34, P455, DOI 10.1016/0092-8674(83)90379-3
+   EDELMAN GM, 1987, P NATL ACAD SCI USA, V84, P8502, DOI 10.1073/pnas.84.23.8502
+   GALLIN WJ, 1987, P NATL ACAD SCI USA, V84, P2808, DOI 10.1073/pnas.84.9.2808
+   GARBER B, 1964, J EXP ZOOL, V155, P179, DOI 10.1002/jez.1401550206
+   GARBER B, 1968, J EXP ZOOL, V168, P455, DOI 10.1002/jez.1401680406
+   GRADY SG, 1986, J CELL BIOL, V71, P96
+   HATTA K, 1986, NATURE, V320, P447, DOI 10.1038/320447a0
+   HATTA K, 1987, DEV BIOL, V120, P215, DOI 10.1016/0012-1606(87)90119-9
+   HATTA K, 1988, J CELL BIOL, V106, P873, DOI 10.1083/jcb.106.3.873
+   HIRANO S, 1987, J CELL BIOL, V105, P2501, DOI 10.1083/jcb.105.6.2501
+   MATSUNAGA M, 1988, NEURON, V1, P289, DOI 10.1016/0896-6273(88)90077-3
+   MATSUNAGA M, 1988, NATURE, V334, P62, DOI 10.1038/334062a0
+   MOSCONA A, 1956, P SOC EXP BIOL MED, V92, P410
+   MOSCONA A, 1957, P NATL ACAD SCI USA, V43, P184, DOI 10.1073/pnas.43.1.184
+   MOSCONA A, 1961, EXP CELL RES, V22, P455, DOI 10.1016/0014-4827(61)90122-7
+   NAGAFUCHI A, 1987, NATURE, V329, P341, DOI 10.1038/329341a0
+   NEEDLEMA.SB, 1970, J MOL BIOL, V48, P443, DOI 10.1016/0022-2836(70)90057-4
+   NOSE A, 1988, CELL, V54, P993, DOI 10.1016/0092-8674(88)90114-6
+   NOSE A, 1987, EMBO J, V6, P3655
+   OBRINK B, 1977, P NATL ACAD SCI USA, V74, P1077, DOI 10.1073/pnas.74.3.1077
+   OKADA TS, 1965, J EMBRYOL EXP MORPH, V13, P299
+   RINGWALD M, 1987, EMBO J, V6, P3647
+   ROSENBERG AH, 1987, GENE, V56, P125, DOI 10.1016/0378-1119(87)90165-X
+   ROTH SA, 1967, P NATL ACAD SCI USA, V58, P974, DOI 10.1073/pnas.58.3.974
+   STEINBERG MS, 1962, SCIENCE, V137, P762, DOI 10.1126/science.137.3532.762
+   STEINBERG MS, 1963, SCIENCE, V141, P401, DOI 10.1126/science.141.3579.401
+   STUDIER FW, 1986, J MOL BIOL, V189, P113, DOI 10.1016/0022-2836(86)90385-2
+   TAKEICHI M, 1981, DEV BIOL, V87, P340, DOI 10.1016/0012-1606(81)90157-3
+   TAKEICHI M, 1985, MOL DETERMINANTS ANI, P223
+   TAKEICHI M, 1988, DEVELOPMENT, V102, P639
+   TOMASELLI KJ, 1988, NEURON, V1, P33, DOI 10.1016/0896-6273(88)90207-3
+   TOWNES PL, 1955, J EXP ZOOL, V128, P53, DOI 10.1002/jez.1401280105
+   TRINKAUS JP, 1955, P NATL ACAD SCI USA, V41, P787, DOI 10.1073/pnas.41.10.787
+   WATT RA, 1985, MOL CELL BIOL, V5, P448
+NR 36
+TC 233
+Z9 234
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD AUG 11
+PY 1989
+VL 245
+IS 4918
+BP 631
+EP 635
+DI 10.1126/science.2762814
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AK177
+UT WOS:A1989AK17700033
+ER
+
+PT J
+AU NOSE, A
+   KUDO, T
+AF NOSE, A
+   KUDO, T
+TI REACTIONS OF SODIUM-BOROHYDRIDE .4. REDUCTION OF AROMATIC SULFONYL
+   CHLORIDES WITH SODIUM-BOROHYDRIDE
+SO CHEMICAL & PHARMACEUTICAL BULLETIN
+LA English
+DT Article
+C1 DAIICHI COLL PHARMACEUT SCI,22-1 TAMAGAWA CHO,MINAMI KU,FUKUOKA 815,JAPAN.
+CR BACKER HJ, 1934, RECL TRAV CHIM PAY B, V53, P1102
+   BADER E, 1955, CHEM BER, V88, P46
+   BROWN HC, 1956, J AM CHEM SOC, V78, P2582, DOI 10.1021/ja01592a070
+   CAVA MP, 1959, J AM CHEM SOC, V81, P4266, DOI 10.1021/ja01525a038
+   CAVA MP, 1965, TETRAHEDRON, V21, P3065, DOI 10.1016/S0040-4020(01)96926-1
+   CLAASZ M, 1911, J LIEBIGS ANN CHEM, V380, P312
+   COREY CJ, 1964, J ORG CHEM, V34, P1233
+   CORREA CMM, 1968, J CHEM SOC C, P1874
+   DAMICO JJ, 1961, J ORG CHEM, V26, P3436, DOI 10.1021/jo01067a101
+   Fichter F, 1910, BER DTSCH CHEM GES, V43, P3032, DOI 10.1002/cber.19100430367
+   FIELD L, 1951, J ORG CHEM, V16, P946, DOI 10.1021/jo01146a019
+   FROMM E, 1909, BER, V42, P3821
+   FULLER AT, 1945, J CHEM SOC, P633, DOI 10.1039/jr9450000633
+   FULLER AT, 1945, J CHEM SOC, P636
+   GILMAN H, 1949, J AM CHEM SOC, V71, P1478, DOI 10.1021/ja01172a096
+   GILMAN H, 1928, J AM CHEM SOC, V50, P804
+   GOMBERG M, 1924, J AM CHEM SOC, V46, P2343
+   GUNSALUS IC, 1956, J AM CHEM SOC, V78, P1763, DOI 10.1021/ja01589a079
+   HAMPSON GC, 1934, P ROY SOC LOND A MAT, V143, P147
+   HORNER L, 1970, CHEM BER-RECL, V103, P2718, DOI 10.1002/cber.19701030903
+   KAWAHARA K, 1957, YAKUGAKU ZASSHI, V77, P969
+   KAWAHARA K, 1957, YAKUGAKU ZASSHI, V77, P963
+   KNOEVENAGEL E, 1908, BER DTSCH CHEM GES, V41, P3318
+   KOBAYASH.M, 1966, B CHEM SOC JPN, V39, P1788, DOI 10.1246/bcsj.39.1788
+   KOCH P, 1971, J AM CHEM SOC, V92, P5971
+   KUBOTA S, 1961, YAKUGAKU ZASSHI, V81, P502
+   KULKA M, 1954, CAN J CHEM, V32, P601
+   MERCANTON R, 1945, HELV CHIM ACTA, V28, P538
+   Miescher K, 1939, HELV CHIM ACTA, V22, P601, DOI 10.1002/hlca.19390220174
+   NOSE A, 1975, YAKUGAKU ZASSHI, V95, P1390
+   NOSE A, 1976, YAKUGAKU ZASSHI, V96, P1401
+   NOSE A, 1977, YAKUGAKU ZASSHI, V97, P116
+   OTTO R, 1884, J PRAKT CHEM, V30, P177
+   OTTO R, 1867, J LIEBIGS ANN CHEM, V142, P93
+   PRICE CC, 1943, ORGANIC SYNTHESIS, V2, P86
+   ROSENMOND KW, 1920, BER, V53, P2235
+   SHRINER RL, 1930, J AM CHEM SOC, V52, P2066
+   Slotta KH, 1930, BER DTSCH CHEM GES, V63, P678, DOI 10.1002/cber.19300630322
+   SMILES S, 1948, ORGANIC SYNTHESES, V1, P7
+   SPYROUDIS S, 1975, SYNTHESIS-STUTTGART, P445
+   STAHL CR, 1957, ANAL CHEM, V29, P154, DOI 10.1021/ac60121a046
+   STRATING J, 1950, RECL TRAV CHIM PAY B, V69, P638
+   Suter CM, 1932, J AM CHEM SOC, V54, P4100, DOI 10.1021/ja01349a040
+   TAKAGI S, 1949, YAKUGAKU ZASSHI, V69, P358
+   Vogel AI, 1943, J CHEM SOC, P16, DOI 10.1039/jr9430000016
+   WEINSTEIN AH, 1958, J ORG CHEM, V23, P554, DOI 10.1021/jo01098a015
+   WHITMORE FC, 1923, J AM CHEM SOC, V45, P1067
+   1986, 13TH S PROGR ORG REA, P166
+NR 48
+TC 11
+Z9 12
+PU PHARMACEUTICAL SOC JAPAN
+PI TOKYO
+PA 2-12-15-201 SHIBUYA, SHIBUYA-KU, TOKYO 150, JAPAN
+SN 0009-2363
+J9 CHEM PHARM BULL
+JI Chem. Pharm. Bull.
+PD MAY
+PY 1987
+VL 35
+IS 5
+BP 1770
+EP 1776
+PG 7
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA H6672
+UT WOS:A1987H667200012
+ER
+
+PT J
+AU GILBERT, JA
+   DUDDERAR, TD
+   NOSE, A
+AF GILBERT, JA
+   DUDDERAR, TD
+   NOSE, A
+TI REMOTE DEFORMATION FIELD MEASUREMENT THROUGH DIFFERENT MEDIA USING FIBER
+   OPTICS
+SO OPTICAL ENGINEERING
+LA English
+DT Article
+C1 AT&T BELL LABS,MURRAY HILL,NJ 07974.
+CR DUDDERAR TD, 1983, APPL OPTICS, V22, P1000
+   GILBERT JA, 1982, EXP MECH, V22, P398, DOI 10.1007/BF02325407
+   GILBERT JA, 1978, EXP MECH, V18, P382, DOI 10.1007/BF02324537
+   GILBERT JA, 1983, EXP MECH, V23, P190, DOI 10.1007/BF02320408
+   GILBERT JA, 1981, EXP MECH, V21, P315, DOI 10.1007/BF02325772
+   LEITE AMPP, 1979, OPT COMMUN, V28, P303, DOI 10.1016/0030-4018(79)90325-0
+   NOBIS D, 1978, APPL OPTICS, V17, P2198, DOI 10.1364/AO.17.002198
+   Roark R. J., 1954, FORMULAS STRESS STRA
+   SCIAMMARELLA CA, 1976, APPL OPTICS, V15, P2176, DOI 10.1364/AO.15.002176
+   SOLLID JE, 1969, APPL OPTICS, V8, P1587, DOI 10.1364/AO.8.001587
+   SUHARA T, 1974, ANAL RAD CHARACTERIS
+   SUHARA T, 1977, T IECE JPN SEC E, V60, P533
+   SUHARA T, 1975, MAR P ANN M IECE JAP
+   WATSON J, 1983, OPT LASER TECHNOL, V15, P215, DOI 10.1016/0030-3992(83)90080-4
+NR 14
+TC 2
+Z9 2
+PU SOC PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+PI BELLINGHAM
+PA PO BOX 10, BELLINGHAM, WA 98227-0010
+SN 0091-3286
+J9 OPT ENG
+JI Opt. Eng.
+PY 1985
+VL 24
+IS 4
+BP 628
+EP 631
+PG 4
+WC Optics
+SC Optics
+GA AMN73
+UT WOS:A1985AMN7300015
+ER
+
+EF

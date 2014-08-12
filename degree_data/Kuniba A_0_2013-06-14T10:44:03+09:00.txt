@@ -1,0 +1,4372 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Kuniba, A
+   Okado, M
+AF Kuniba, Atsuo
+   Okado, Masato
+TI Tetrahedron and 3D reflection equations from quantized algebra of
+   functions
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND THEORETICAL
+LA English
+DT Article
+ID YANG-BAXTER EQUATION; LATTICE MODELS; QUANTUM GROUPS; INTEGRABILITY;
+   SYSTEMS; MATRIX
+AB Soibelman's theory of quantized function algebra A(q)(SLn) provides a representation theoretical scheme to construct a solution of the Zamolodchikov tetrahedron equation. We extend this idea originally due to Kapranov and Voevodsky to A(q)(Sp(2n)) and obtain the intertwiner K corresponding to the quartic Coxeter relation. Together with the previously known three-dimensional (3D) R matrix, the K yields the first ever solution to the 3D analogue of the reflection equation proposed by Isaev and Kulish. It is shown that matrix elements of R and K are polynomials in q and that there are combinatorial and birational counterparts for R and K. The combinatorial ones arise either at q = 0 or by tropicalization of the birational ones. A conjectural description for type B and F-4 cases is also given.
+C1 Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Komaba, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Math Sci, Toyonaka, Osaka 5608531, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Komaba, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; okado@sigmath.es.osaka-u.ac.jp
+FU JSPS [23340007, 24540203, 23654007]
+FX A part of this work was presented in the 29th International Colloquium
+   on Group-Theoretical Methods in Physics (Chern Institute of Mathematics,
+   Tianjin, China, 20-26 August 2012). The authors thank Alexey Isaev for a
+   generous explanation of the tetrahedron reflection equation and an
+   important remark. They also thank Murray Batchelor, Vladimir Bazhanov,
+   Anatol Kirillov, Igor Korepanov and Peter Kulish for kind interest and
+   comments. They also thank Toshiki Nakashima, Soichi Okada, Itaru Terada
+   and Hiroyuki Yamane for communications. AK thanks Vladimir Mangazeev for
+   kind interest in the previous work and Sergey Sergeev for showing an
+   unpublished review article, which provided useful information to
+   initiate this work. This work was supported by grants-in-aid for
+   Scientific Research numbers 23340007, 24540203 and 23654007 from JSPS.
+CR Abe E., 1980, HOPF ALGEBRAS
+   Baxter R J, 2007, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1986, PHYSICA D, V18, P321, DOI 10.1016/0167-2789(86)90195-8
+   BAZHANOV VV, 1992, J STAT PHYS, V69, P453, DOI 10.1007/BF01050423
+   BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   Bazhanov VV, 2006, J PHYS A-MATH GEN, V39, P3295, DOI 10.1088/0305-4470/39/13/009
+   Berenstein A, 1996, ADV MATH, V122, P49, DOI 10.1006/aima.1996.0057
+   Bourbaki N., 2002, LIE GROUPS LIE ALGEB
+   CHEREDNIK IV, 1984, THEOR MATH PHYS+, V61, P977, DOI 10.1007/BF01038545
+   Drinfel'd V. G., 1987, P INT C MATH BERKELE, V1, P798
+   HIETARINTA J, 1994, J PHYS A-MATH GEN, V27, P5727, DOI 10.1088/0305-4470/27/17/010
+   Inoue R, 2012, J PHYS A-MATH THEOR, V45, DOI 10.1088/1751-8113/45/7/073001
+   Isaev AP, 1997, MOD PHYS LETT A, V12, P427, DOI 10.1142/S0217732397000443
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   Kapranov M.M., 1994, P S PURE MATH 2, V56, P177
+   Kashaev R M, 1998, TEOR MAT FIZ, V117, P370
+   KASHAEV RM, 1993, INT J MOD PHYS A, V8, P587, DOI 10.1142/S0217751X93000230
+   Kashaev RM, 1996, LETT MATH PHYS, V38, P389, DOI 10.1007/BF01815521
+   Kazhdan D, 1993, GELF MATH SEM 1990 1, P163
+   Korepanov I G, 1995, ARXIVSOLVINT9506003
+   Korepanov I G, 1989, NEW SOLUTIONS TETRAH
+   KOREPANOV IG, 1993, COMMUN MATH PHYS, V154, P85, DOI 10.1007/BF02096833
+   KULISH PP, 1992, J PHYS A-MATH GEN, V25, P5963, DOI 10.1088/0305-4470/25/22/022
+   Kuniba A, 2012, ARXIV12036436
+   Kuniba A, 2005, J NONLINEAR MATH PHY, V12, P475, DOI 10.2991/jnmp.2005.12.4.4
+   Kuniba A, 2007, COMBINATORIAL ASPECT
+   LIGUORI A, 1993, J PHYS A-MATH GEN, V26, pL887, DOI 10.1088/0305-4470/26/17/023
+   Lusztig G., 1990, J AM MATH SOC, V3, P447, DOI 10.2307/1990961
+   MAILLET JM, 1989, PHYS LETT B, V224, P389, DOI 10.1016/0370-2693(89)91466-4
+   NOUMI M, 1989, P JPN ACAD A-MATH, V65, P169
+   Reshetikhin N., 1990, LENINGRAD MATH J, V1, p[178, 193]
+   Sergeev SM, 1998, LETT MATH PHYS, V45, P113, DOI 10.1023/A:1007483621814
+   Sergeev SM, 1996, J STAT PHYS, V82, P31, DOI 10.1007/BF02189224
+   Shiroishi M, 1995, J PHYS SOC JPN, V64, P4598, DOI 10.1143/JPSJ.64.4598
+   SKLYANIN EK, 1988, J PHYS A-MATH GEN, V21, P2375, DOI 10.1088/0305-4470/21/10/015
+   SOIBELMAN YS, 1992, INT J MOD PHYS A, V7, P859, DOI 10.1142/S0217751X92004087
+   VAKSMAN LL, 1988, FUNCT ANAL APPL+, V22, P170
+   YA S. SOIBELMAN, 1991, LENINGRAD MATH J, V2, P161
+   Yamada Y, 2001, PHYSICS AND COMBINATORICS, P305, DOI 10.1142/9789812810007_0014
+   Zamolodchikov A B, 1980, SOV PHYS JETP, V79, P641
+   ZAMOLODCHIKOV AB, 1981, COMMUN MATH PHYS, V79, P489, DOI 10.1007/BF01209309
+NR 43
+TC 0
+Z9 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1751-8113
+J9 J PHYS A-MATH THEOR
+JI J. Phys. A-Math. Theor.
+PD NOV 23
+PY 2012
+VL 45
+IS 46
+AR 465206
+DI 10.1088/1751-8113/45/46/465206
+PG 27
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 029AO
+UT WOS:000310467400016
+ER
+
+PT J
+AU Kuniba, A
+   Takagi, T
+AF Kuniba, Atsuo
+   Takagi, Taichiro
+TI Fermionic partition functions for a periodic soliton cellular automaton
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND THEORETICAL
+LA English
+DT Article
+ID BOX-BALL SYSTEM
+AB Fermionic formulas in a combinatorial Bethe ansatz consist of sums of products of q-binomial coefficients. There exist refinements without a sum that are known to yield partition functions of box-ball systems with a prescribed soliton content. In this paper, such a refined fermionic formula is extended to the periodic box-ball system and a q-analog of the Bethe root counting formula for the XXZ chain at Delta = infinity.
+C1 Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+RP Takagi, T (reprint author), Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; takagi@nda.ac.jp
+FU JSPS [21540209, 25540241]
+FX This work is supported by Grants-in-Aid for Scientific Research nos
+   21540209 and 25540241 from JSPS.
+CR Andrews G. E., 1984, THEORY PARTITIONS
+   Baxter R J, 2007, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   KASHIWARA M, 2000, PROGR MATH, V191
+   Kerov S., 1988, J SOVIET MATH, V41, P916, DOI 10.1007/BF01247087
+   Kirillov AN, 2009, LETT MATH PHYS, V89, P51, DOI 10.1007/s11005-009-0318-3
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2000, PROG MATH, V191, P185
+   KUNIBA A, 2007, MATH SOC JAPAN MEMOI, V17
+   Mada J, 2006, J PHYS A-MATH GEN, V39, pL617, DOI 10.1088/0305-4470/39/43/L01
+   Stanley R. P., 1999, ENUMERATIVE COMBINAT, V1
+   Takagi T, 2005, NUCL PHYS B, V707, P577, DOI 10.1016/j.nuclphysb.2004.11.047
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Yoshihara D, 2003, J PHYS A-MATH GEN, V36, P99, DOI 10.1088/0305-4470/36/1/307
+NR 14
+TC 1
+Z9 1
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1751-8113
+J9 J PHYS A-MATH THEOR
+JI J. Phys. A-Math. Theor.
+PD APR 1
+PY 2011
+VL 44
+IS 13
+AR 135204
+DI 10.1088/1751-8113/44/13/135204
+PG 22
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 731QN
+UT WOS:000288124500008
+ER
+
+PT J
+AU Inoue, R
+   Iyama, O
+   Kuniba, A
+   Nakanishi, T
+   Suzuki, J
+AF Inoue, Rei
+   Iyama, Osamu
+   Kuniba, Atsuo
+   Nakanishi, Tomoki
+   Suzuki, Junji
+TI PERIODICITIES OF T-SYSTEMS AND Y-SYSTEMS
+SO NAGOYA MATHEMATICAL JOURNAL
+LA English
+DT Article
+ID QUANTUM AFFINE ALGEBRAS; SOLVABLE LATTICE MODELS; FINITE-DIMENSIONAL
+   REPRESENTATIONS; KIRILLOV-RESHETIKHIN CONJECTURE; THERMODYNAMIC
+   BETHE-ANSATZ; CLUSTER ALGEBRAS; TRIANGULATED CATEGORIES; FUNCTIONAL
+   RELATIONS; Q-CHARACTERS; QUIVER REPRESENTATIONS
+AB The unrestricted T-system is a family of relations in the Grothendieck ring of the category of the finite-dimensional modules of Yangian or quantum affine algebra, associated with a complex simple Lie algebra. The unrestricted T-system admits a. reduction called the restricted T-system. In this paper we formulate the periodicity conjecture for the restricted T-systems. which is the counterpart of the known and partially proved periodicity conjecture for the restricted Y-systems, Then, we partially prove the conjecture by various methods: the cluster algebra and cluster category method for the simply laced case, the determinant method for types A and C, and the direct method for types A, D and B (level 2).
+C1 Suzuka Univ Med Sci, Fac Pharmaceut Sci, Suzuka 5138670, Japan.
+   Nagoya Univ, Grad Sch Math, Nagoya, Aichi 4648604, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Shizuoka Univ, Fac Sci, Dept Phys, Ohya 836, Japan.
+RP Inoue, R (reprint author), Suzuka Univ Med Sci, Fac Pharmaceut Sci, Suzuka 5138670, Japan.
+EM reiiy@suzuka-u.ac.jp; iyama@math.nagoya-u.ac.jp;
+   atsuo@gokutan.c.c-tokyo.ac.jp; nakanisi@math.nagoya-u.ac.jp;
+   sjsuzuk@ipc.shizuko.ka.ac.jp
+CR AMIOT C, ARXIV08051035
+   ANDRIACCHI T P, 1984, Journal of Orthopaedic Research, V1, P266
+   Assem I., 2006, LONDON MATH SOC STUD, V65
+   Auslander M., 1995, CAMBRIDGE STUD ADV M, V36
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   Bourbaki N., 1981, GROUPES ALGEBRES LIE, DOI DOI 10.1007/978-3-540-34491-9
+   BUAN A, COMPOS MATH IN PRESS
+   Buan AB, 2008, COMMENT MATH HELV, V83, P143
+   Buan AB, 2006, ADV MATH, V204, P572, DOI 10.1016/j.aim.2005.06.003
+   Caldero P, 2008, INVENT MATH, V172, P169, DOI 10.1007/s00222-008-0111-4
+   Caldero P, 2006, ANN SCI ECOLE NORM S, V39, P983, DOI 10.1016/j.ansens.2006.09.003
+   Caldero P, 2006, COMMENT MATH HELV, V81, P595
+   Caracciolo R, 1999, INT J MOD PHYS B, V13, P2927, DOI 10.1142/S0217979299002757
+   Chad V., 1995, CMS C P, V16, P59
+   CHARI V, 1991, COMMUN MATH PHYS, V142, P261, DOI 10.1007/BF02102063
+   DEHY R, 2008, COMBINATORICS RIGID
+   DIFRANCESCO P, ARXIV08030362
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   Drinfeld V.G., 1985, SOV MATH DOKL, V32, P254
+   Fomin S, 2003, ANN MATH, V158, P977
+   Fomin S, 2003, INVENT MATH, V154, P63, DOI 10.1007/s00222-003-0302-y
+   Fomin S, 2007, COMPOS MATH, V143, P112, DOI 10.1112/S0010437X06002521
+   Fomin S, 2002, J AM MATH SOC, V15, P497, DOI 10.1090/S0894-0347-01-00385-X
+   FRENKEL E, 2001, COMMUN MATH PHYS, V216, P57
+   Frenkel E., 1995, MATH RES LETT, V2, P677
+   Frenkel E, 2002, ADV MATH, V171, P139, DOI 10.1006/aima.2002.2084
+   Frenkel E., 1998, CONT MATH, V248, P163
+   Gabriel P., 1980, LECT NOTES MATH, V831, P1
+   Gliozzi F, 1996, INT J MOD PHYS A, V11, P4051, DOI 10.1142/S0217751X96001905
+   Happel D., 1988, LONDON MATH SOC LECT, V119
+   Hatayama G., 1999, CONT MATH, V248, P243
+   Hatayama G, 2002, PROG MATH P, V23, P205
+   Henriques A, 2007, J ALGEBR COMB, V26, P1, DOI 10.1007/s10801-006-0045-0
+   Hernandez D, 2006, J REINE ANGEW MATH, V596, P63, DOI 10.1515/CRELLE.2006.052
+   Hernandez D., ARXIV07042838
+   HERNANDEZ D, 2008, COMMUNICATION    MAR
+   HIROTA R, 1987, J PHYS SOC JPN, V56, P4285, DOI 10.1143/JPSJ.56.4285
+   HIROTA R, 1977, J PHYS SOC JPN, V43, P2074, DOI 10.1143/JPSJ.43.2074
+   Iyama O, 2008, INVENT MATH, V172, P117, DOI 10.1007/s00222-007-0096-4
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   KEDEM R, ARXIV07122695
+   KELLER B, DEFORMED CY CO UNPUB
+   Keller B., ARXIV08071960
+   Keller B, 2005, DOC MATH, V10, P551
+   KELLER B, PERIODICITY CO UNPUB
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, COMMUNICATION
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   KNIGHT H, 1995, J ALGEBRA, V174, P187, DOI 10.1006/jabr.1995.1123
+   Krichever I, 1997, COMMUN MATH PHYS, V188, P267, DOI 10.1007/s002200050165
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P6211, DOI 10.1088/0305-4470/28/21/024
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5267, DOI 10.1142/S0217751X94002120
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   Kuniba A, 2002, COMMUN MATH PHYS, V227, P155, DOI 10.1007/s002200200631
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P711, DOI 10.1088/0305-4470/28/3/024
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   Kuniba A, 2002, J PHYS A-MATH GEN, V35, P1415, DOI 10.1088/0305-4470/35/6/307
+   Nakajima H, 2004, ANN MATH, V160, P1057
+   Nakajima H., 2003, REPRESENT THEOR, V7, P259, DOI 10.1090/S1088-4165-03-00164-X
+   Nakajima H, 2001, J AM MATH SOC, V14, P145, DOI 10.1090/S0894-0347-00-00353-2
+   Palu Y, 2008, ANN I FOURIER, V58, P2221
+   PASQUIER V, 1988, COMMUN MATH PHYS, V118, P335
+   RAVANINI F, 1993, INT J MOD PHYS A, V8, P1707, DOI 10.1142/S0217751X93000709
+   Sato M., 1981, RIMS KOKYUROKU, V439, P30
+   Volkov AY, 2007, COMMUN MATH PHYS, V276, P509, DOI 10.1007/s00220-007-0343-y
+   YANG S, ARXIV08043303, P68629
+   ZAMOLODCHIKOV AB, 1991, PHYS LETT B, V253, P391, DOI 10.1016/0370-2693(91)91737-G
+NR 71
+TC 18
+Z9 18
+PU DUKE UNIV PRESS
+PI DURHAM
+PA 905 W MAIN ST, STE 18-B, DURHAM, NC 27701 USA
+SN 0027-7630
+J9 NAGOYA MATH J
+JI Nagoya Math. J.
+PD MAR
+PY 2010
+VL 197
+BP 59
+EP 174
+DI 10.1215/00277630-2009-003
+PG 116
+WC Mathematics
+SC Mathematics
+GA 582KS
+UT WOS:000276596800003
+ER
+
+PT J
+AU Kuniba, A
+   Takagi, T
+AF Kuniba, Atsuo
+   Takagi, Taichiro
+TI Bethe Ansatz, Inverse Scattering Transform and Tropical Riemann Theta
+   Function in a Periodic Soliton Cellular Automaton for A(n)((1))
+SO SYMMETRY INTEGRABILITY AND GEOMETRY-METHODS AND APPLICATIONS
+LA English
+DT Article
+DE soliton cellular automaton; crystal basis; combinatorial Bethe ansatz;
+   inverse scattering/spectral method; tropical Riemann theta function
+ID BOX-BALL SYSTEM; LIE-ALGEBRAS; CRYSTALS; EQUATION; ANALOG; Q=0
+AB We study an integrable vertex model with a periodic boundary condition associated with U-q(A(n)(1)) at the crystallizing point q = 0. It is an (n + 1)-state cellular automaton describing the factorized scattering of solitons. The dynamics originates in the commuting family of fusion transfer matrices and generalizes the ultradiscrete Toda/KP flow corresponding to the periodic box-ball system. Combining Bethe ansatz and crystal theory in quantum group, we develop an inverse scattering/spectral formalism and solve the initial value problem based on several conjectures. The action-angle variables are constructed representing the amplitudes and phases of solitons. By the direct and inverse scattering maps, separation of variables into solitons is achieved and nonlinear dynamics is transformed into a straight motion on a tropical analogue of the Jacobi variety. We decompose the level set into connected components under the commuting family of time evolutions and identify each of them with the set of integer points on a torus. The weight multiplicity formula derived from the q = 0 Bethe equation acquires an elegant interpretation as the volume of the phase space expressed by the size and multiplicity of these tori. The dynamical period is determined as an explicit arithmetical function of the n-tuple of Young diagrams specifying the level set. The inverse map, i.e., tropical Jacobi inversion is expressed in terms of a tropical Riemann theta function associated with the Bethe ansatz data. As an application, time average of some local variable is calculated.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; takagi@nda.ac.jp
+CR Baxter R J, 2007, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   DATE E, 1976, SUPPL PROG THEOR PHY, V59, P107
+   Dubrovin B. A., 1976, USP MAT NAUK, V31, P55
+   Fulton W, 1997, LONDON MATH SOC STUD, V35
+   GARDNER CS, 1967, PHYS REV LETT, V19, P1095, DOI 10.1103/PhysRevLett.19.1095
+   Hatayama G, 2001, J STAT PHYS, V102, P843, DOI 10.1023/A:1004803003717
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Inoue R, 2009, COMMUN MATH PHYS, V289, P995, DOI 10.1007/s00220-009-0815-3
+   Inoue R, 2008, INT MATH RES NOTICES, DOI 10.1093/imrn/rnn019
+   JIMBO M, 1983, PUBL RES I MATH SCI, V19, P943, DOI 10.2977/prims/1195182017
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   Kang S.-J., 1992, ADV SER MATH PHYS, V16, P449
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   Kerov S., 1988, J SOVIET MATH, V41, P916, DOI 10.1007/BF01247087
+   Kirillov A.N., 2002, SELECTA MATH, V8, P67, DOI 10.1007/s00029-002-8102-6
+   Kirillov AN, 2009, LETT MATH PHYS, V89, P51, DOI 10.1007/s11005-009-0318-3
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2007, NUCL PHYS B, V786, P207, DOI 10.1016/j.nuclphysb.2007.06.007
+   Kuniba A, 2002, J ALGEBRA, V251, P577, DOI 10.1006/jabr.2001.8774
+   Kuniba A, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/09/P09005
+   Kuniba A, 2006, NANKAI TRACTS MATH, V10, P293, DOI 10.1142/9789812772527_0024
+   Kuniba A, 2006, J PHYS A-MATH GEN, V39, P2551, DOI 10.1088/0305-4470/39/11/002
+   Kuniba A, 2008, REV MATH PHYS, V20, P493, DOI 10.1142/S0129055X08003365
+   Kuniba A, 2007, LETT MATH PHYS, V80, P199, DOI 10.1007/s11005-007-0162-2
+   Kuniba A, 2006, NUCL PHYS B, V747, P354, DOI 10.1016/j.nuclphysb.2006.04.003
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   Mada J, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/17/175207
+   Mada J, 2005, J MATH PHYS, V46, DOI 10.1063/1.1842354
+   Mikhalkin G, 2008, CONTEMP MATH, V465, P203
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Okado M., 2003, ALGEBRAIC COMBINATOR, P85, DOI 10.1142/9789812775405_0005
+   Sakamoto R, 2009, INT MATH RES NOTICES, P579, DOI 10.1093/imrn/rnn140
+   Shimozono M, 2002, J ALGEBR COMB, V15, P151, DOI 10.1023/A:1013894920862
+   Stanley R.P., 1997, CAMBRIDGE STUDIES AD, V49
+   TAKAGI T, ARXIV09061410
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Yamada Y, 2001, PHYSICS AND COMBINATORICS, P305, DOI 10.1142/9789812810007_0014
+   Yoshihara D, 2003, J PHYS A-MATH GEN, V36, P99, DOI 10.1088/0305-4470/36/1/307
+   Yura F, 2002, J PHYS A-MATH GEN, V35, P3787, DOI 10.1088/0305-4470/35/16/317
+NR 41
+TC 2
+Z9 2
+PU NATL ACAD SCI UKRAINE, INST MATH
+PI KYIV 4
+PA 3 TERESCHCHENKIV SKA ST, KYIV 4, 01601, UKRAINE
+SN 1815-0659
+J9 SYMMETRY INTEGR GEOM
+JI Symmetry Integr. Geom.
+PY 2010
+VL 6
+AR 013
+DI 10.3842/SIGMA.2010.013
+PG 52
+WC Physics, Mathematical
+SC Physics
+GA 558TV
+UT WOS:000274771200008
+ER
+
+PT J
+AU Arita, C
+   Kuniba, A
+   Sakai, K
+   Sawabe, T
+AF Arita, Chikashi
+   Kuniba, Atsuo
+   Sakai, Kazumitsu
+   Sawabe, Tsuyoshi
+TI Spectrum of a multi-species asymmetric simple exclusion process on a
+   ring
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND THEORETICAL
+LA English
+DT Article
+ID MODEL; DIFFUSION; EQUATION; SYSTEMS; STATES
+AB The spectrum of the Hamiltonian (Markov matrix) of a multi-species asymmetric simple exclusion process on a ring is studied. The dynamical exponent concerning the relaxation time is found to coincide with the one-species case. It implies that the system belongs to the Kardar-Parisi-Zhang or Edwards-Wilkinson universality classes depending on whether the hopping rate is asymmetric or symmetric, respectively. Our derivation exploits a poset structure of the particle sectors, leading to a new spectral duality and inclusion relations. The Bethe ansatz integrability is also demonstrated.
+C1 Kyushu Univ, Fac Math, Fukuoka 8128581, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Math Syst Inc, Data Min Div, Shinjuku Ku, Tokyo 1600022, Japan.
+RP Arita, C (reprint author), Kyushu Univ, Fac Math, Fukuoka 8128581, Japan.
+FU JSPS [19.7744, 18340112, 19540393]
+FX This work is partially supported by Grants-in-Aid for Scientific
+   Research No. 19.7744, (B) No. 18340112 and (C) No. 19540393 from JSPS.
+   The author CA is grateful to Professor H Hinrichsen, Professor J
+   Lebowitz, Professor A Schadschneider and Professor E R Speer for
+   fruitful discussion.
+CR ALCARAZ FC, 1993, PHYS LETT B, V314, P377, DOI 10.1016/0370-2693(93)91252-I
+   Alcaraz FC, 2000, BRAZ J PHYS, V30, P655
+   Arndt PF, 1998, J PHYS A-MATH GEN, V31, pL45, DOI 10.1088/0305-4470/31/2/001
+   BABELON O, 1982, NUCL PHYS B, V200, P266, DOI 10.1016/0550-3213(82)90087-6
+   Baxter R J, 2007, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Blythe RA, 2007, J PHYS A-MATH THEOR, V40, pR333, DOI 10.1088/1751-8113/40/46/R1
+   de Gier J, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/12/P12011
+   DERRIDA B, 1993, J PHYS A-MATH GEN, V26, P1493, DOI 10.1088/0305-4470/26/7/011
+   EDWARDS SF, 1982, P ROY SOC LOND A MAT, V381, P17, DOI 10.1098/rspa.1982.0056
+   Evans MR, 1998, PHYS REV E, V58, P2764, DOI 10.1103/PhysRevE.58.2764
+   Golinelli O, 2005, J PHYS A-MATH GEN, V38, P1419, DOI 10.1088/0305-4470/38/7/001
+   GWA LH, 1992, PHYS REV A, V46, P844, DOI 10.1103/PhysRevA.46.844
+   KARDAR M, 1986, PHYS REV LETT, V56, P889, DOI 10.1103/PhysRevLett.56.889
+   Kerov S., 1988, J SOVIET MATH, V41, P916, DOI 10.1007/BF01247087
+   KIM D, 1995, PHYS REV E, V52, P3512, DOI 10.1103/PhysRevE.52.3512
+   Kim KH, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.021107
+   MACDONAL.CT, 1968, BIOPOLYMERS, V6, P1, DOI 10.1002/bip.1968.360060102
+   OKADO M, 1991, ICM 90 SATELL C P SP, V289
+   PERK JHH, 1981, PHYS LETT A, V84, P407, DOI 10.1016/0375-9601(81)90994-4
+   Prolhac S, 2009, J PHYS A-MATH THEOR, V42, DOI 10.1088/1751-8113/42/16/165004
+   Rajewsky N, 2000, PHYSICA A, V279, P123, DOI 10.1016/S0378-4371(99)00537-3
+   SCHULTZ CL, 1983, PHYSICA A, V122, P71, DOI 10.1016/0378-4371(83)90083-3
+   Schutz GM, 2001, PHASE TRANS, V19, P1, DOI 10.1016/S1062-7901(01)80015-X
+   Schutz GM, 1997, J STAT PHYS, V88, P427, DOI 10.1007/BF02508478
+   Stanley R. P., 2000, ENUMERATIVE COMBINAT, VI
+   Takahashi M., 1999, THERMODYNAMICS ONE D
+NR 27
+TC 13
+Z9 13
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1751-8113
+J9 J PHYS A-MATH THEOR
+JI J. Phys. A-Math. Theor.
+PD AUG 28
+PY 2009
+VL 42
+IS 34
+AR 345002
+DI 10.1088/1751-8113/42/34/345002
+PG 41
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 481TG
+UT WOS:000268834100005
+ER
+
+PT J
+AU Kuniba, A
+   Nakanishi, T
+   Suzuki, J
+AF Kuniba, Atsuo
+   Nakanishi, Tomoki
+   Suzuki, Junji
+TI T-Systems and Y-Systems for Quantum Affinizations of Quantum Kac-Moody
+   Algebras
+SO SYMMETRY INTEGRABILITY AND GEOMETRY-METHODS AND APPLICATIONS
+LA English
+DT Article
+DE T-systems; Y-systems; quantum groups; cluster algebras
+ID THERMODYNAMIC BETHE-ANSATZ; SOLVABLE LATTICE MODELS; CONFORMAL
+   FIELD-THEORY; AFFINE ALGEBRAS; FUNCTIONAL RELATIONS; SCATTERING
+   THEORIES; INTEGRABLE MODELS; REPRESENTATIONS; EQUATIONS; CONJECTURE
+AB The T-systems and Y-systems are classes of algebraic relations originally associated with quantum affine algebras and Yangians. Recently the T-systems were generalized to quantum affinizations of a wide class of quantum Kac-Moody algebras by Hernandez. In this note we introduce the corresponding Y-systems and establish a relation between T and Y-systems. We also introduce the T and Y-systems associated with a class of cluster algebras, which include the former T and Y-systems of simply laced type as special cases.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Nagoya Univ, Grad Sch Math, Nagoya, Aichi 4648604, Japan.
+   Shizuoka Univ, Fac Sci, Dept Phys, Ohya 836, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; nakanisi@math.nagoya-u.ac.jp;
+   sjsuzuk@ipc.shizuoka.ac.jp
+CR Batchelor MT, 2007, ADV PHYS, V56, P465, DOI 10.1080/00018730701265383
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   Bazhanov VV, 1996, COMMUN MATH PHYS, V177, P381, DOI 10.1007/BF02101898
+   BECK J, 1994, COMMUN MATH PHYS, V165, P555, DOI 10.1007/BF02099423
+   Berenstein A, 2005, DUKE MATH J, V126, P1, DOI 10.1215/S0012-7094-04-12611-9
+   Caracciolo R, 1999, INT J MOD PHYS B, V13, P2927, DOI 10.1142/S0217979299002757
+   Chad V., 1995, CMS C P, V16, P59
+   Chari V, 1996, J ALGEBRA, V184, P1, DOI 10.1006/jabr.1996.0247
+   CHARI V, 1991, COMMUN MATH PHYS, V142, P261, DOI 10.1007/BF02102063
+   Di Francesco P, 2009, LETT MATH PHYS, V89, P183, DOI 10.1007/s11005-009-0354-z
+   DI FRANCESCO P., ARXIV09083122
+   Dorey P, 2003, NUCL PHYS B, V661, P464, DOI 10.1016/S0550-3213(03)00182-2
+   Dorey P, 2007, J PHYS A-MATH THEOR, V40, pR205, DOI 10.1088/1751-8113/40/32/R01
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   Drinfeld V.G., 1985, SOV MATH DOKL, V32, P254
+   Fomin S, 2003, ANN MATH, V158, P977
+   Fomin S, 2003, INVENT MATH, V154, P63, DOI 10.1007/s00222-003-0302-y
+   Fomin S, 2007, COMPOS MATH, V143, P112, DOI 10.1112/S0010437X06002521
+   Fomin S, 2002, J AM MATH SOC, V15, P497, DOI 10.1090/S0894-0347-01-00385-X
+   Frenkel E., 1995, MATH RES LETT, V2, P677
+   Frenkel E., 1998, CONT MATH, V248, P163
+   GEISS C, MATHRT0703039
+   Gliozzi F, 1996, INT J MOD PHYS A, V11, P4051, DOI 10.1142/S0217751X96001905
+   Gromov N., ARXIV08125091
+   HERNANDEZ D, 2008, WORKSH LIE THEOR MSR
+   Hernandez D, 2005, TRANSFORM GROUPS, V10, P163, DOI 10.1007/s00031-005-1005-9
+   Hernandez D, 2006, J REINE ANGEW MATH, V596, P63, DOI 10.1515/CRELLE.2006.052
+   Hernandez D., ARXIV07042838
+   Hernandez D, 2007, P LOND MATH SOC, V95, P567, DOI 10.1112/plms/pdm017
+   HERNANDEZ D, ARXIV09031452
+   Hutchins H. C., 1990, PERIOD MATH HUNG, V21, P113, DOI 10.1007/BF01946851
+   INOUE R, NAGOYA MATH IN PRESS
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   Jing NH, 1998, LETT MATH PHYS, V44, P261
+   KAC VG, 1960, INFINITE DIMENSIONAL
+   Keller B., ARXIV08071960
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KLASSEN TR, 1990, NUCL PHYS B, V338, P485, DOI 10.1016/0550-3213(90)90643-R
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   Krichever I, 1997, COMMUN MATH PHYS, V188, P267, DOI 10.1007/s002200050165
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5267, DOI 10.1142/S0217751X94002120
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P711, DOI 10.1088/0305-4470/28/3/024
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   Miki K, 2000, J MATH PHYS, V41, P7079, DOI 10.1063/1.1287436
+   Nakajima H., 2003, REPRESENT THEOR, V7, P259, DOI 10.1090/S1088-4165-03-00164-X
+   Nakajima H, 2001, J AM MATH SOC, V14, P145, DOI 10.1090/S0894-0347-00-00353-2
+   NAKAJIMA H., ARXIV09050002
+   Noumi M, 2001, PHYSICS AND COMBINATORICS 1999, P287, DOI 10.1142/9789812810199_0010
+   Noumi M, 1998, COMMUN MATH PHYS, V199, P281, DOI 10.1007/s002200050502
+   RAVANINI F, 1993, INT J MOD PHYS A, V8, P1707, DOI 10.1142/S0217751X93000709
+   Runkel I, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/10/105401
+   Tsuboi Z, 2010, NUCL PHYS B, V826, P399, DOI 10.1016/j.nuclphysb.2009.08.009
+   Tsuboi Z, 1997, J PHYS SOC JPN, V66, P3391, DOI 10.1143/JPSJ.66.3391
+   Varagnolo M, 1996, COMMUN MATH PHYS, V182, P469, DOI 10.1007/BF02517898
+   Volkov AY, 2007, COMMUN MATH PHYS, V276, P509, DOI 10.1007/s00220-007-0343-y
+   ZAMOLODCHIKOV AB, 1991, PHYS LETT B, V253, P391, DOI 10.1016/0370-2693(91)91737-G
+NR 58
+TC 4
+Z9 4
+PU NATL ACAD SCI UKRAINE, INST MATH
+PI KYIV 4
+PA 3 TERESCHCHENKIV SKA ST, KYIV 4, 01601, UKRAINE
+SN 1815-0659
+J9 SYMMETRY INTEGR GEOM
+JI Symmetry Integr. Geom.
+PY 2009
+VL 5
+AR 108
+DI 10.3842/SIGMA.2009.108
+PG 23
+WC Physics, Mathematical
+SC Physics
+GA 537UI
+UT WOS:000273139300002
+ER
+
+PT J
+AU Kuniba, A
+   Sakamoto, R
+   Yamada, Y
+AF Kuniba, Atsuo
+   Sakamoto, Reiho
+   Yamada, Yasuhiko
+TI Tau functions in combinatorial Bethe ansatz
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+ID RAMANUJAN-TYPE IDENTITIES; CONFORMAL FIELD-THEORY; CELLULAR-AUTOMATA;
+   CRYSTAL BASES; MODELS; ALGEBRAS
+AB We introduce ultradiscrete tau functions associated with rigged configurations for A They satisfy an ultradiscrete version of the Hirota bilinear equation and play a role analogous to a corner transfer matrix for the box-ball system. As an application, we establish a piecewise linear formula for the Kerov-Kirillov-Reshetikhin bijection in the combinatorial Bethe ansatz. They also lead to general N-soliton solutions of the box-ball system. (c) 2007 Elsevier B.V. All rights reserved.
+C1 Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Tokyo 1538902, Japan.
+   Univ Tokyo, Dept Phys, Grad Sch Sci, Tokyo 1130033, Japan.
+   Kobe Univ, Fac Sci, Dept Math, Kobe, Hyogo 6578501, Japan.
+RP Yamada, Y (reprint author), Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Tokyo 1538902, Japan.
+EM yamaday@math.kobe-u.ac.jp
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Berkovich A, 1998, COMMUN MATH PHYS, V191, P325, DOI 10.1007/s002200050271
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Birman J. S., 1974, BRAIDS LINKS MAPPING
+   DASMAHAPATRA S, 1993, INT J MOD PHYS B, V7, P3617, DOI 10.1142/S0217979293003437
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   Deka L, 2006, J COMB THEORY A, V113, P1435, DOI 10.1016/j.jcta.2006.01.003
+   FEIGIN BL, QUASIPARTICLE MODELS
+   Foda O, 1999, CONT MATH, V248, P207
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Gaudin M, 1983, FONCTION ONDE BETHE
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G., 1999, CONT MATH, V248, P243
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G, 2002, PROG MATH P, V23, P205
+   Hatayama G., 2002, CONT MATH, V297, P151
+   JIMBO M, 1983, PUBL RES I MATH SCI, V19, P943, DOI 10.2977/prims/1195182017
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1991, DUKE MATH J, V63, P465, DOI 10.1215/S0012-7094-91-06321-0
+   Kerov S., 1988, J SOVIET MATH, V41, P916, DOI 10.1007/BF01247087
+   Kirillov A.N., 2002, SELECTA MATH, V8, P67, DOI 10.1007/s00029-002-8102-6
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Korepin V. E., 1997, QUANTUM INVERSE SCAT
+   Kuniba A, 2005, J NONLINEAR MATH PHY, V12, P475, DOI 10.2991/jnmp.2005.12.4.4
+   KUNIBA A, 2007, MSJ MEMOIRS, V17
+   Kuniba A, 2006, NUCL PHYS B, V740, P299, DOI 10.1016/j.nuclphysb.2006.02.005
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Okado M., 2003, ALGEBRAIC COMBINATOR, P85, DOI 10.1142/9789812775405_0005
+   SAKAMOTO R, IN PRESS J ALG COMB
+   Sato M., 1982, LECTURE NOTES NUM AP, V5, P259
+   Schilling A, 2006, J ALGEBRA, V295, P562, DOI 10.1016/j.jalgebra.2005.04.023
+   Schilling A., 2007, MSJ MEMOIRS, V17, P75
+   SCHULTZ CL, 1983, PHYSICA A, V122, P71, DOI 10.1016/0378-4371(83)90083-3
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Takahashi M., 1999, THERMODYNAMICS 1 DIM
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Warnaar SO, 1996, J STAT PHYS, V82, P657
+   Yamada Y, 2001, PHYSICS AND COMBINATORICS, P305, DOI 10.1142/9789812810007_0014
+NR 41
+TC 15
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD DEC 17
+PY 2007
+VL 786
+IS 3
+BP 207
+EP 266
+DI 10.1016/j.nuclphysb.2007.06.007
+PG 60
+WC Physics, Particles & Fields
+SC Physics
+GA 231KP
+UT WOS:000250946000001
+ER
+
+PT J
+AU Kuniba, A
+   Sakamoto, R
+AF Kuniba, Atsuo
+   Sakamoto, Reiho
+TI Combinatorial Bethe ansatz and ultradiscrete Riemann theta function with
+   rational characteristics
+SO LETTERS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+DE crystal basis; periodic box-ball system; Bethe ansatz; Riemann theta
+   function
+ID BOX-BALL SYSTEMS; CELLULAR-AUTOMATA; CRYSTAL BASES; ALGEBRAS; EQUATION;
+   Q=0
+AB The U-q ((s) over capl(2)) vertex model at q = 0 with periodic boundary condition is an integrable cellular automaton in one-dimension. By the combinatorial Bethe ansatz, the initial value problem is solved for arbitrary states in terms of an ultradiscrete analogue of the Riemann theta function with rational characteristics.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; reiho@monet.phys.s.u-tokyo.ac.jp
+CR Ablowitz M. J., 1981, SIAM STUD APPL MATH, V4
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   DATE E, 1976, SUPPL PROG THEOR PHY, V59, P107
+   Dubrovin B. A., 1976, RUSS MATH SURV, V31, P59, DOI 10.1070/RM1976v031n01ABEH001446
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   GARDNER CS, 1967, PHYS REV LETT, V19, P1095, DOI 10.1103/PhysRevLett.19.1095
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   JIMBO M, 1983, PUBL RES I MATH SCI, V19, P943, DOI 10.2977/prims/1195182017
+   KAC M, 1975, P NATL ACAD SCI USA, V72, P2879, DOI 10.1073/pnas.72.8.2879
+   KASHIWARA M, 1991, DUKE MATH J, V63, P465, DOI 10.1215/S0012-7094-91-06321-0
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2000, PROG MATH, V191, P185
+   KUNIBA A, 2006, NUCL PHYS B, P354
+   Kuniba A, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/09/P09005
+   KUNIBA A, MATHQA0610505
+   Kuniba A, 2006, J PHYS A-MATH GEN, V39, P2551, DOI 10.1088/0305-4470/39/11/002
+   Mumford D, 1984, TATA LECT THETA
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Yoshihara D, 2003, J PHYS A-MATH GEN, V36, P99, DOI 10.1088/0305-4470/36/1/307
+NR 22
+TC 8
+Z9 8
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0377-9017
+J9 LETT MATH PHYS
+JI Lett. Math. Phys.
+PD JUN
+PY 2007
+VL 80
+IS 3
+BP 199
+EP 209
+DI 10.1007/s11005-007-0162-2
+PG 11
+WC Physics, Mathematical
+SC Physics
+GA 179GS
+UT WOS:000247278300001
+ER
+
+PT J
+AU Kuniba, A
+   Sakamoto, R
+AF Kuniba, Atsuo
+   Sakamoto, Reiho
+TI The Bethe ansatz in a periodic box-ball system and the ultradiscrete
+   Riemann theta function
+SO JOURNAL OF STATISTICAL MECHANICS-THEORY AND EXPERIMENT
+LA English
+DT Article
+DE classical integrability; integrable spin chains (vertex models); quantum
+   integrability (Bethe ansatz); cellular automata
+ID EQUATION
+AB Vertex models with quantum group symmetry give rise to integrable cellular automata at q = 0. We study a prototype example known as the periodic box-ball system. The initial value problem is solved in terms of an ultradiscrete analogue of the Riemann theta function whose period matrix originates in the Bethe ansatz at q = 0.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; reiho@monet.phys.s.u-tokyo.ac.jp
+CR Ablowitz M. J., 1981, SIAM STUD APPL MATH, V4
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   DATE E, 1976, SUPPL PROG THEOR PHY, V59, P107
+   Dubrovin B. A., 1976, RUSS MATH SURV, V31, P59, DOI 10.1070/RM1976v031n01ABEH001446
+   GARDNER CS, 1967, PHYS REV LETT, V19, P1095, DOI 10.1103/PhysRevLett.19.1095
+   JIMBO M, 1983, PUBL RES I MATH SCI, V19, P943, DOI 10.2977/prims/1195182017
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2000, PROG MATH, V191, P185
+   Kuniba A, 2006, NUCL PHYS B, V747, P354, DOI 10.1016/j.nuclphysb.2006.04.003
+   Mumford D., 1984, TATA LECT THETA
+   Yoshihara D, 2003, J PHYS A-MATH GEN, V36, P99, DOI 10.1088/0305-4470/36/1/307
+NR 12
+TC 12
+Z9 12
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1742-5468
+J9 J STAT MECH-THEORY E
+JI J. Stat. Mech.-Theory Exp.
+PD SEP
+PY 2006
+AR P09005
+DI 10.1088/1742-5468/2006/09/P09005
+PG 12
+WC Mechanics; Physics, Mathematical
+SC Mechanics; Physics
+GA 096YQ
+UT WOS:000241413300005
+ER
+
+PT J
+AU Kuniba, A
+   Takagi, T
+   Takenouchi, A
+AF Kuniba, A.
+   Takagi, T.
+   Takenouchi, A.
+TI Bethe ansatz and inverse scattering transform in a periodic box-ball
+   system
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+ID SOLITON CELLULAR-AUTOMATON; CRYSTAL BASES; EQUATION; Q=0
+AB We formulate the inverse scattering method for a periodic box-ball system and solve the initial value problem. It is done by a synthesis of the combinatorial Bethe ansatzes at q = 1 and q = 0, which provides the ultradiscrete analogue of quasi-periodic solutions in soliton equations, e.g., action-angle variables, Jacobi varieties, period matrices and so forth. As an application we establish explicit formulas counting the states characterized by conserved quantities and the generic and fundamental period under the commuting family of time evolutions. (c) 2006 Elsevier B.V. All Rights reserved.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; takagi@nda.ac.jp;
+   takenouchi@gokutan.c.u-tokyo.ac.jp
+CR Ablowitz M. J., 1981, SIAM STUDIES APPL MA, V4
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   DATE E, 1976, SUPPL PROG THEOR PHY, V59, P107
+   Dubrovin B. A., 1976, RUSS MATH SURV, V31, P59, DOI 10.1070/RM1976v031n01ABEH001446
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   GARDNER CS, 1967, PHYS REV LETT, V19, P1095, DOI 10.1103/PhysRevLett.19.1095
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G., 2002, CONT MATH, V297, P151
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1994, DUKE MATH J, V73, P383, DOI 10.1215/S0012-7094-94-07317-1
+   KEROV SV, 1986, ZAP NAUCH SEMIN LOMI, V155, P50
+   Kirillov A.N., 2002, SELECTA MATH, V8, P67, DOI 10.1007/s00029-002-8102-6
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2000, PROG MATH, V191, P185
+   KUNIBA A, 2003, RIMS KOKYUROKU, V1302, P91
+   KUNIBA A, 1995, COMMUN MATH PHYS, V173, P225, DOI 10.1007/BF02101234
+   KUNIBA A, IN PRESS P 23 INT C
+   Kuniba A, 2006, J PHYS A-MATH GEN, V39, P2551, DOI 10.1088/0305-4470/39/11/002
+   MADA J, 2005, FUNDAMENTAL CYCLE PE
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   RESHETIKHIN NY, 1983, ZH EKSP TEOR FIZ, V57, P691
+   SCHILLING A, MATHQA0512161
+   Takagi T, 2005, NUCL PHYS B, V707, P577, DOI 10.1016/j.nuclphysb.2004.11.047
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Yoshihara D, 2003, J PHYS A-MATH GEN, V36, P99, DOI 10.1088/0305-4470/36/1/307
+   Yura F, 2002, J PHYS A-MATH GEN, V35, P3787, DOI 10.1088/0305-4470/35/16/317
+NR 28
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD JUL 24
+PY 2006
+VL 747
+IS 3
+BP 354
+EP 397
+DI 10.1016/j.nuclphysb.2006.04.003
+PG 44
+WC Physics, Particles & Fields
+SC Physics
+GA 061SE
+UT WOS:000238891900002
+ER
+
+PT J
+AU Kuniba, A
+   Okado, M
+   Sakamoto, R
+   Takagi, T
+   Yamada, Y
+AF Kuniba, A
+   Okado, M
+   Sakamoto, R
+   Takagi, T
+   Yamada, Y
+TI Crystal interpretation of Kerov-Kirillov-Reshetikhin bijection
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+ID SOLITON CELLULAR-AUTOMATON; COMBINATORIAL R-MATRICES; ALGEBRAS; FAMILY;
+   BASES
+AB The Kerov-Kirillov-Reshetikhin (KKR) bijection is the crux in proving fermionic formulas. It is defined by a combinatorial algorithm on rigged configurations and highest paths. We reformulate the KKR bijection as a vertex operator by purely using combinatorial R in crystal base theory. The result is viewed as a nested Bethe ansatz at q = 0 as well as the direct and the inverse scattering (Gel'fand-Levitan) map in the associated soliton cellular automaton. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn, Dept Math Sci, Osaka 5608531, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Kobe Univ, Fac Sci, Dept Math, Hyogo 6578501, Japan.
+RP Takagi, T (reprint author), Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; okado@sigmath.es.osakzi-u.ac.jp;
+   reiho@monet.phys.s.u-tokyo.ac.jp; takagi@nda.ac.jp;
+   yamaday@math.kobe-u.ac.jp
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G., 1999, CONT MATH, V248, P243
+   Hatayama G, 2000, PROG MATH, V191, P105
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G, 2002, PROG MATH P, V23, P205
+   Hatayama G, 2002, J ALGEBRA, V247, P577, DOI 10.1006/jabr.2001.9017
+   Hatayama G., 2002, CONT MATH, V297, P151
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1991, DUKE MATH J, V63, P465, DOI 10.1215/S0012-7094-91-06321-0
+   Kerov S., 1988, J SOVIET MATH, V41, P916, DOI 10.1007/BF01247087
+   Kirillov A.N., 2002, SELECTA MATH, V8, P67, DOI 10.1007/s00029-002-8102-6
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2004, J PHYS A-MATH GEN, V37, P1691, DOI 10.1088/0305-4470/37/5/015
+   KUNIBA A, 2003, INT MATH RES NOTICES, V48, P2565
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Okado M., 2003, ALGEBRAIC COMBINATOR, P85, DOI 10.1142/9789812775405_0005
+   SAKAMOTO R, MATHQA0601697
+   Schilling A, 2006, J ALGEBRA, V295, P562, DOI 10.1016/j.jalgebra.2005.04.023
+   SCHILLING A, MATHQA0512161
+   SCHULTZ CL, 1983, PHYSICA A, V122, P71, DOI 10.1016/0378-4371(83)90083-3
+   Shimozono M, 2002, J ALGEBR COMB, V15, P151, DOI 10.1023/A:1013894920862
+   Takagi T, 2005, J PHYS A-MATH GEN, V38, P1961, DOI [10.1088/0305-4470/38/9/009, 10.1088/0305-4470/68/9/009]
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+NR 27
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD APR 24
+PY 2006
+VL 740
+IS 3
+BP 299
+EP 327
+DI 10.1016/j.nuclphysb.2006.02.005
+PG 29
+WC Physics, Particles & Fields
+SC Physics
+GA 031BS
+UT WOS:000236679700004
+ER
+
+PT J
+AU Kuniba, A
+   Takenouchi, A
+AF Kuniba, A
+   Takenouchi, A
+TI Bethe ansatz at q=0 and periodic box-ball systems
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID SOLITON CELLULAR-AUTOMATON; AFFINE LIE-ALGEBRAS; CRYSTAL BASES
+AB A class of periodic soliton cellular automata is introduced associated with crystals of non-exceptional quantum affine algebras. Based on the Bethe ansatz at q = 0, we propose explicit formulae for the dynamical period and the size of certain orbits under the time evolution in the A(n)((1)) case.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; takenouchi@gokutan.c.u-tokyo.ac.jp
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2001, J STAT PHYS, V102, P843, DOI 10.1023/A:1004803003717
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G., 2002, CONT MATH, V297, P151
+   Inoue R, 2004, REV MATH PHYS, V16, P1227, DOI 10.1142/S0129055X04002254
+   Kajiwara K, 2002, LETT MATH PHYS, V60, P211, DOI 10.1023/A:1016298925276
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KEROV SV, 1986, NAUCH SEMIN LOMI, V155, P50
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   Kuniba A, 2002, J ALGEBRA, V251, P577, DOI 10.1006/jabr.2001.8774
+   Kuniba A, 2005, J NONLINEAR MATH PHY, V12, P475, DOI 10.2991/jnmp.2005.12.4.4
+   KUNIBA A, 2003, RIMS KOKYUROKU, V1302, P91
+   KUNIBA A, 1995, COMMUN MATH PHYS, V173, P225, DOI 10.1007/BF02101234
+   Mada J, 2005, J MATH PHYS, V46, DOI 10.1063/1.1842354
+   RESHETIKHIN NY, 1983, ZH EKSP TEOR FIZ, V57, P691
+   SKLYANIN EK, 1980, THEOR MATH PHYS, V40, P688
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Yang W, 2001, JOOP, V13, P12
+   Yoshihara D, 2003, J PHYS A-MATH GEN, V36, P99, DOI 10.1088/0305-4470/36/1/307
+   Yura F, 2002, J PHYS A-MATH GEN, V35, P3787, DOI 10.1088/0305-4470/35/16/317
+NR 26
+TC 5
+Z9 5
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD MAR 17
+PY 2006
+VL 39
+IS 11
+BP 2551
+EP 2562
+DI 10.1088/0305-4470/39/11/002
+PG 12
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 032LP
+UT WOS:000236776200004
+ER
+
+PT J
+AU Kuniba, A
+   Okado, M
+   Yamada, Y
+AF Kuniba, A
+   Okado, M
+   Yamada, Y
+TI Box-ball system with reflecting end
+SO JOURNAL OF NONLINEAR MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID INTEGRABLE CELLULAR-AUTOMATA; CRYSTAL BASES; ALGEBRAS
+AB A soliton cellular automaton on a one dimensional semi-infinite lattice with a reflecting end is presented. It extends a box-ball system on an infinite lattice associated with the crystal base of U-q((s) over capl(n)). A commuting family of time evolutions are obtained by adapting the K matrices and the double row construction of transfer matrices in solvable lattice models to a crystal setting. Factorized scattering among the left and the right moving solitons and the boundary reflection rule are determined.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Math Sci, Osaka 5608531, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; okado@sigmath.es.osaka-u.ac.jp;
+   yamaday@math.kobe-u.ac.jp
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Cherednik IV, 1984, TEOR MAT FIZ, V61, P35
+   Fukuda K, 2004, J ALGEBR COMB, V19, P67, DOI 10.1023/B:JACO.0000022567.30060.3a
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G, 2001, J PHYS A-MATH GEN, V34, P10697, DOI 10.1088/0305-4470/34/48/331
+   Hatayama G., 2002, CONT MATH, V297, P151
+   Hikami K, 1999, J PHYS SOC JPN, V68, P2234, DOI 10.1143/JPSJ.68.2234
+   Inoue R, 2004, REV MATH PHYS, V16, P1227, DOI 10.1142/S0129055X04002254
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, 887 RIMS
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   KASHIWARA M, 1994, DUKE MATH J, V73, P383, DOI 10.1215/S0012-7094-94-07317-1
+   Kirillov AN, 2001, PHYSICS AND COMBINATORICS, P82, DOI 10.1142/9789812810007_0005
+   KULISH PP, 1996, LECT NOTE PHYS, V469, P125, DOI 10.1007/BFb0102555
+   Kuniba A, 2004, COMMUN MATH PHYS, V245, P491, DOI 10.1007/s00220-003-1015-1
+   Kuniba A, 2004, J PHYS A-MATH GEN, V37, P1691, DOI 10.1088/0305-4470/37/5/015
+   KUNIBA A, 2003, KOKYUROKU, V1302, P91
+   KUNIBA A, 2003, INT MATH RES NOTICES, V48, P2565
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Noumi M., 2004, ADV STUD PURE MATH, V40, P371
+   SKLYANIN EK, 1988, J PHYS A-MATH GEN, V21, P2375, DOI 10.1088/0305-4470/21/10/015
+   Takagi T, 2005, NUCL PHYS B, V707, P577, DOI 10.1016/j.nuclphysb.2004.11.047
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1999, INVERSE PROBL, V15, P1639, DOI 10.1088/0266-5611/15/6/314
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Yamada Y, 2001, PHYSICS AND COMBINATORICS, P305, DOI 10.1142/9789812810007_0014
+NR 30
+TC 6
+Z9 6
+PU NORBERT EULER
+PI LULEA
+PA LULEA UNIV TECHNOL, DEPT MATHEMATICS, SE-971 87 LULEA, SWEDEN
+SN 1402-9251
+J9 J NONLINEAR MATH PHY
+JI J. Nonlinear Math. Phys.
+PY 2005
+VL 12
+IS 4
+BP 475
+EP 507
+DI 10.2991/jnmp.2005.12.4.4
+PG 33
+WC Physics, Mathematical
+SC Physics
+GA 977AT
+UT WOS:000232775500004
+ER
+
+PT J
+AU Kuniba, A
+   Okado, M
+   Takagi, T
+   Yamada, Y
+AF Kuniba, A
+   Okado, M
+   Takagi, T
+   Yamada, Y
+TI Tropical R and tau functions
+SO COMMUNICATIONS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID DISCRETE SOLITON-EQUATIONS; YANG-BAXTER EQUATION; CRYSTAL BASES;
+   DIFFERENCE-EQUATIONS; CELLULAR-AUTOMATA; LIE-ALGEBRAS; BALL SYSTEMS;
+   MATRICES; BOX
+AB Tropical R is the birational map that intertwines products of geometric crystals and satisfies the Yang-Baxter equation. We show that the D-n((1)) tropical R introduced by the authors and its reduction to A(2n-1)((2)) and C-n((1)) are equivalent to a system of bilinear difference equations of Hirota type. Associated tropical vertex models admit solutions in terms of tau functions of the BKP and DKP hierarchies.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Informat & Math Sci, Osaka 5608531, Japan.
+   Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+   Kobe Univ, Fac Sci, Dept Math, Kobe, Hyogo 6578501, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; okado@sigmath.es.osaka-u.ac.jp;
+   takagi@nda.ac.jp; yamaday@math.kobe-u.ac.jp
+CR ADLER VE, MATHQA0202024
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Berenstein A., 1999, GEOM FUNCT ANAL, VI, P188
+   Berenstein A, 1996, ADV MATH, V122, P49, DOI 10.1006/aima.1996.0057
+   DATE E, 1982, J PHYS SOC JPN, V51, P4125, DOI 10.1143/JPSJ.51.4125
+   DATE E, 1982, J PHYS SOC JPN, V51, P4116, DOI 10.1143/JPSJ.51.4116
+   DRINFELD VG, 1992, LECT NOTES MATH, V1510, P1
+   Etingof P, 1999, DUKE MATH J, V100, P169, DOI 10.1215/S0012-7094-99-10007-X
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G, 2001, J PHYS A-MATH GEN, V34, P10697, DOI 10.1088/0305-4470/34/48/331
+   Hatayama G, 2002, J ALGEBRA, V247, P577, DOI 10.1006/jabr.2001.9017
+   Hatayama G., 2002, CONT MATH, V297, P151
+   HIROTA R, 1981, J PHYS SOC JPN, V50, P3785, DOI 10.1143/JPSJ.50.3785
+   HIROTA R, 1995, J PHYS SOC JPN, V64, P3125, DOI 10.1143/JPSJ.64.3125
+   HITOTA R, 1993, FUTURE DIRECTIONS NO, P7
+   JIANGHUA L, 2000, DUKE MATH J, V104, P1
+   JIMBO M, 1983, PUBL RES I MATH SCI, V19, P943, DOI 10.2977/prims/1195182017
+   Kajiwara K, 2002, LETT MATH PHYS, V60, P211, DOI 10.1023/A:1016298925276
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KASHIWARA M, 1994, DUKE MATH J, V73, P383, DOI 10.1215/S0012-7094-94-07317-1
+   Kirillov AN, 2001, PHYSICS AND COMBINATORICS, P82, DOI 10.1142/9789812810007_0005
+   KUNIBA A, 2003, INT MATH RES NOTICES, V48, P2565
+   Lusztig G., 1994, PROGR MATH, V123, P531
+   MIWA T, 1982, P JPN ACAD A-MATH, V58, P9
+   MOSER J, 1991, COMMUN MATH PHYS, V139, P217, DOI 10.1007/BF02352494
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   NOUMI M, IN PRESS ADV STUD PU
+   ODESSKII A, MATHQA0205051
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1999, INVERSE PROBL, V15, P1639, DOI 10.1088/0266-5611/15/6/314
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   VESELOV AP, 1991, RUSS MATH SURV+, V46, P1, DOI 10.1070/RM1991v046n05ABEH002856
+   VESELOV AP, MATHQA0205335
+   WEINSTEIN A, 1992, COMMUN MATH PHYS, V148, P309, DOI 10.1007/BF02100863
+   Yamada Y, 2001, PHYSICS AND COMBINATORICS, P305, DOI 10.1142/9789812810007_0014
+NR 37
+TC 5
+Z9 5
+PU SPRINGER-VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010 USA
+SN 0010-3616
+J9 COMMUN MATH PHYS
+JI Commun. Math. Phys.
+PD MAR
+PY 2004
+VL 245
+IS 3
+BP 491
+EP 517
+DI 10.1007/s00220-003-1015-1
+PG 27
+WC Physics, Mathematical
+SC Physics
+GA 800UT
+UT WOS:000220053900003
+ER
+
+PT J
+AU Kuniba, A
+   Takagi, T
+   Takenouchi, A
+AF Kuniba, A
+   Takagi, T
+   Takenouchi, A
+TI Factorization, reduction and embedding in integrable cellular automata
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID CRYSTAL BASES; BOX
+AB Factorized dynamics in soliton cellular automata with quantum group symmetry is identified with a motion of particles and anti-particles exhibiting pair creation and annihilation. An embedding scheme is presented showing that the D-n((1))- automaton contains, as certain subsectors, the box-ball systems and all the other automata associated with the crystal bases of non-exceptional affine Lie algebras. The results extend the earlier ones to higher representations by a certain reduction and to a wider class of boundary conditions.
+C1 Univ Tokyo, Inst Phys, Komaba, Tokyo 1538902, Japan.
+   Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Komaba, Tokyo 1538902, Japan.
+CR FUKUDA K, 2001, IN PRESS J ALG CAMB
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2001, J STAT PHYS, V102, P843, DOI 10.1023/A:1004803003717
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G, 2001, J PHYS A-MATH GEN, V34, P10697, DOI 10.1088/0305-4470/34/48/331
+   Hatayama G., 2002, CONT MATH, V297, P151
+   Hikami K, 1999, J PHYS SOC JPN, V68, P2234, DOI 10.1143/JPSJ.68.2234
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KASHIWARA M, 1994, DUKE MATH J, V73, P383, DOI 10.1215/S0012-7094-94-07317-1
+   KUNIBA A, 2003, INT MATH RES NOTICES, V78, P2565
+   KUNIBA A, 2003, IN PRESS COMMUN MATH
+   Takahashi D, 1997, J PHYS A-MATH GEN, V30, pL733, DOI 10.1088/0305-4470/30/21/005
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+NR 16
+TC 4
+Z9 4
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD FEB 6
+PY 2004
+VL 37
+IS 5
+BP 1691
+EP 1709
+DI 10.1088/0305-4470/37/5/015
+PG 19
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 773YF
+UT WOS:000188952400018
+ER
+
+PT J
+AU Kuniba, A
+   Okado, M
+   Takagi, T
+   Yamada, Y
+AF Kuniba, A
+   Okado, M
+   Takagi, T
+   Yamada, Y
+TI Geometric crystal and tropical R for D-n((1))
+SO INTERNATIONAL MATHEMATICS RESEARCH NOTICES
+LA English
+DT Article; Proceedings Paper
+CT Workshop on Solvable Models and Quantum Integrable Systems
+CY NOV, 2001
+CL TAIPEI, TAIWAN
+HO ACAD SINICA
+ID CELLULAR-AUTOMATA; MATRICES; BASES; ALGEBRAS; SYSTEMS; FAMILY
+C1 Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Informat & Math Sci, Osaka 5608531, Japan.
+   Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+   Kobe Univ, Fac Sci, Dept Math, Kobe, Hyogo 6578501, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+EM atsuo@gokutan.c.u-tokyo.ac.jp; okado@sigmath.es.osaka-u.ac.jp;
+   takagi@nda.ac.jp; yamaday@math.kobe-u.ac.jp
+CR Berenstein A, 2000, GEOM FUNCT ANAL, P188
+   Berenstein A, 1996, ADV MATH, V122, P49, DOI 10.1006/aima.1996.0057
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2001, J STAT PHYS, V102, P843, DOI 10.1023/A:1004803003717
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hatayama G, 2000, PROG MATH, V191, P105
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hatayama G, 2002, J ALGEBRA, V247, P577, DOI 10.1006/jabr.2001.9017
+   Hatayama G., 2002, CONT MATH, V297, P151
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   Kajiwara K, 2002, LETT MATH PHYS, V60, P211, DOI 10.1023/A:1016298925276
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   KASHIWARA M, 1994, DUKE MATH J, V73, P383, DOI 10.1215/S0012-7094-94-07317-1
+   Kirillov AN, 2001, PHYSICS AND COMBINATORICS, P82, DOI 10.1142/9789812810007_0005
+   Kuniba A., 1998, J ALGEBRA, V208, P185, DOI 10.1006/jabr.1998.7503
+   Lusztig G., 1993, PROGR MATH, V110
+   Lusztig G., 1994, PROGR MATH, V123, P531
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   NOUMI M, IN PRESS ADV STUD PU
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Yamada Y, 2001, PHYSICS AND COMBINATORICS, P305, DOI 10.1142/9789812810007_0014
+NR 22
+TC 3
+Z9 3
+PU HINDAWI PUBLISHING CORPORATION
+PI CAYAHOGA FALLS
+PA PO BOX 3079, CAYAHOGA FALLS, OH 44233 USA
+SN 1073-7928
+J9 INT MATH RES NOTICES
+JI Int. Math. Res. Notices
+PY 2003
+IS 48
+BP 2565
+EP 2620
+PG 56
+WC Mathematics
+SC Mathematics
+GA 771YC
+UT WOS:000188812800001
+ER
+
+PT J
+AU Kuniba, A
+   Nakanishi, T
+AF Kuniba, A
+   Nakanishi, T
+TI The Bethe equation at q=0, the Mobius inversion formula, and weight
+   multiplicities. II. The X-n case
+SO JOURNAL OF ALGEBRA
+LA English
+DT Article
+ID FINITE-DIMENSIONAL REPRESENTATIONS; ANSATZ
+AB We study a family of power series characterized by a system of recursion relations (Q-system) with a certain convergence property. We show that the coefficients of the series are expressed by the numbers which formally count the off-diagonal solutions of the U-q(X-n((1))) Bethe equation at q = 0. The series are conjectured to be the X-n-characters of a certain family of irreducible finite-dimensional U-q(X-n((1)))-modules which we call the KR (Kirillov-Reshetikhin) modules. Under the above conjecture, these coefficients give a formula of the weight multiplicities of the tensor products of the KR modules, which is also interpreted as the formal completeness of the XXZ-type Bethe vectors. (C) 2002 Elsevier Science (USA).
+C1 Nagoya Univ, Grad Sch Math, Nagoya, Aichi 4648602, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+RP Nakanishi, T (reprint author), Nagoya Univ, Grad Sch Math, Nagoya, Aichi 4648602, Japan.
+CR Andrews G.E., 1976, ENCY MATH ITS APPL, V2
+   Arakawa T, 1999, COMMUN MATH PHYS, V205, P1, DOI 10.1007/s002200050664
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Cassels J. W. S., 1971, INTRO GEOMETRY NUMBE
+   CHARI V, 2000, MATHQA0006090
+   CHARI V, 1991, COMMUN MATH PHYS, V142, P261, DOI 10.1007/BF02102063
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   Frenkel E., 1998, CONT MATH, V248, P163
+   Hatayama G., 1999, CONT MATH, V248, P243
+   Kirillov A., 1985, J SOVIET MATH, V30, P2298, DOI 10.1007/BF02105347
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J SOVIET MATH, V36, P115
+   KNIGHT H, 1995, J ALGEBRA, V174, P187, DOI 10.1006/jabr.1995.1123
+   Kuniba A, 2000, PROG MATH, V191, P185
+   OGIEVETSKY E, 1986, PHYS LETT B, V168, P360, DOI 10.1016/0370-2693(86)91644-8
+   RESHETIKHIN NY, 1987, PHYS LETT B, V189, P125, DOI 10.1016/0370-2693(87)91282-2
+   Stanley R., 1997, ENUMERATIVE COMBINAT, VI
+   TARASOV V, 1995, COMPLETENESS BETHE B, P637
+NR 19
+TC 10
+Z9 10
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0021-8693
+J9 J ALGEBRA
+JI J. Algebra
+PD MAY 15
+PY 2002
+VL 251
+IS 2
+BP 577
+EP 618
+DI 10.1006/jabr.2001.8774
+PG 42
+WC Mathematics
+SC Mathematics
+GA 586AD
+UT WOS:000177559000006
+ER
+
+PT J
+AU Kuniba, A
+   Nakanishi, T
+   Tsuboi, Z
+AF Kuniba, A
+   Nakanishi, T
+   Tsuboi, Z
+TI The canonical solutions of the Q-systems and the Kirillov-Reshetikhin
+   conjecture
+SO COMMUNICATIONS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID QUANTUM AFFINE ALGEBRAS; EXCLUSION STATISTICS; INVERSION-FORMULA; BETHE
+   ANSATZ; THERMODYNAMICS; REPRESENTATION; YANGIANS; EQUATION; GAS
+AB We study a class of systems of functional equations closely related to various kinds of integrable statistical and quantum mechanical models. We call them the finite and infinite Q-systems according to the number of functions and equations. The finite Q-systems appear as the thermal equilibrium conditions (the Sutherland-Wu equation) for certain statistical mechanical systems. Some infinite Q-systems appear as the relations of the normalized characters of the KR modules of the Yangians and the quantum affine algebras. We give two types of power series formulae for the unique solution (resp. the unique canonical solution) for a finite (resp. infinite) Q-system. As an application, we reformulate the Kirillov-Reshetikhin conjecture on the multiplicities formula of the KR modules in terms of the canonical solutions of Q-systems.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Nagoya Univ, Grad Sch Math, Nagoya, Aichi 4648602, Japan.
+   Univ Tokyo, Grad Sch Math Sci, Tokyo 1538914, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+CR AOMOTO K, 1999, P INT WORKSH SPEC FU, P1
+   AOMOTO K, 1998, METHODS APPL ANAL, V6, P55
+   BERNDT B, RAMANUJANS NOTEBOO 1
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Bouwknegt P, 1999, NUCL PHYS B, V547, P501, DOI 10.1016/S0550-3213(99)00095-4
+   Chad V., 1995, CMS C P, V16, P59
+   Chari V, 1998, COMMUN MATH PHYS, V196, P461, DOI 10.1007/s002200050431
+   CHARI V, 2001, INT MATH RES NOTICES, V12, P629
+   CHARI V, 1991, J REINE ANGEW MATH, V417, P87
+   DRINFELD V, 1985, SOV MATH DOKL, V32, P264
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   FADDEEV LD, 1990, INTEGRABLE SYSTEMS, P23
+   Faddeev L.D., 1984, J SOVIET MATH, V24, P241, DOI DOI 10.1007/BF01087245
+   Fulton W., 1991, REPRESENTATION THEOR
+   GESSEL IM, 1987, J COMB THEORY A, V45, P178, DOI 10.1016/0097-3165(87)90013-6
+   HATAYAMA G, IN PRESS PROGR MATH
+   Hatayama G., 1999, CONT MATH, V248, P243
+   Iguchi K, 1998, PHYS REV B, V58, P6892, DOI 10.1103/PhysRevB.58.6892
+   Iguchi K, 1999, PHYS REV B, V59, P10370, DOI 10.1103/PhysRevB.59.10370.2
+   Iguchi K, 2000, INT J MOD PHYS B, V14, P485, DOI 10.1142/S0217979200000455
+   Jing NH, 1998, OHIO ST U M, V7, P195
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   Kerov S., 1988, J SOVIET MATH, V41, P916, DOI 10.1007/BF01247087
+   Kirillov A., 1985, J SOVIET MATH, V30, P2298, DOI 10.1007/BF02105347
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J SOVIET MATH, V36, P115
+   KLEBER M, 1997, INT MATH RES NOTE, V7, P187
+   KULISH PP, 1981, LETT MATH PHYS, V5, P393, DOI 10.1007/BF02285311
+   Kuniba A, 2000, PROG MATH, V191, P185
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   KUNIBA A, IN PRESS J ALGEBRA
+   Kuniba A, 2002, LETT MATH PHYS, V59, P19, DOI 10.1023/A:1014408629411
+   OGIEVETSKY E, 1986, PHYS LETT B, V168, P360, DOI 10.1016/0370-2693(86)91644-8
+   OKADO M, MATHQA0105017
+   RESHETIKHIN NY, 1985, THEOR MATH PHYS+, V63, P555, DOI 10.1007/BF01017501
+   SUTHERLA.B, 1971, J MATH PHYS, V12, P251, DOI 10.1063/1.1665585
+   Varagnolo M, 2000, LETT MATH PHYS, V53, P273, DOI 10.1023/A:1007674020905
+   WU YS, 1994, PHYS REV LETT, V73, P922, DOI 10.1103/PhysRevLett.73.922
+NR 39
+TC 16
+Z9 16
+PU SPRINGER-VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010 USA
+SN 0010-3616
+J9 COMMUN MATH PHYS
+JI Commun. Math. Phys.
+PD MAY
+PY 2002
+VL 227
+IS 1
+BP 155
+EP 190
+DI 10.1007/s002200200631
+PG 36
+WC Physics, Mathematical
+SC Physics
+GA 558QX
+UT WOS:000175979000005
+ER
+
+PT J
+AU Kuniba, A
+   Okado, M
+   Suzuki, J
+   Yamada, Y
+AF Kuniba, A
+   Okado, M
+   Suzuki, J
+   Yamada, Y
+TI Difference L operators related to q-characters
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID DRINFELD-SOKOLOV REDUCTION; ANALYTIC BETHE-ANSATZ; W-ALGEBRAS;
+   FUNCTIONAL RELATIONS; DEFORMATIONS; MODELS; REPRESENTATIONS; VIRASORO;
+   YANGIANS
+AB We introduce a factorized difference operator L(u) annihilated by the Frenkel-Reshetikhin screening operator for the quantum affine algebra U-q (C-n((1))). We identify the coefficients of L(u) with the fundamental q-characters, and establish a number of formulae for their higher analogues. They include Jacobi-Trudi and Weyl-type formulae, cancelling tableau sums, Casorati determinant solution to the T-system, and so forth. Analogous operators for the orthogonal series U-q(B-n((1))) and Uq(D-n((1))) are also presented.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Informat & Math Sci, Toyonaka, Osaka 5608531, Japan.
+   Shizuoka Univ, Fac Sci, Dept Phys, Ohya 836, Japan.
+   Kobe Univ, Fac Sci, Dept Math, Kobe, Hyogo 6578501, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAZHANOV VV, 2001, HEPPH0105177
+   Chad V., 1995, CMS C P, V16, P59
+   Chari V., 1994, GUIDE QUANTUM GROUPS
+   CHARI V, 2000, MATHQA0011161
+   Dorey P, 2000, J PHYS A-MATH GEN, V33, P8427, DOI 10.1088/0305-4470/33/47/308
+   Frenkel E, 1996, COMMUN MATH PHYS, V178, P237, DOI 10.1007/BF02104917
+   Frenkel E, 2001, COMMUN MATH PHYS, V216, P23, DOI 10.1007/s002200000323
+   Frenkel E., 1998, CONT MATH, V248, P163
+   Frenkel E, 1998, COMMUN MATH PHYS, V192, P605, DOI 10.1007/s002200050311
+   KASHIWARA M, 2000, MATHQA0010923
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   KNIGHT H, 1995, J ALGEBRA, V174, P187, DOI 10.1006/jabr.1995.1123
+   Krichever I, 1997, COMMUN MATH PHYS, V188, P267, DOI 10.1007/s002200050165
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P6211, DOI 10.1088/0305-4470/28/21/024
+   KUNIBA A, 1995, COMMUN MATH PHYS, V173, P225, DOI 10.1007/BF02101234
+   Kuniba A, 1996, J PHYS A-MATH GEN, V29, P1759, DOI 10.1088/0305-4470/29/8/022
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   MACDONALD IG, 1992, PUBL IRMA STRASBOURG, P5
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   Nakagawa J, 2001, PHYSICS AND COMBINATORICS, P180, DOI 10.1142/9789812810007_0008
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   Semenov-Tian-Shansky MA, 1998, COMMUN MATH PHYS, V192, P631, DOI 10.1007/s002200050312
+   Suzuki J, 2000, J PHYS A-MATH GEN, V33, P3507, DOI 10.1088/0305-4470/33/17/308
+   SUZUKI J, RIMS KOKYUROKU, V1221, P21
+   Tsuboi Z, 1996, J PHYS A-MATH GEN, V29, P7785, DOI 10.1088/0305-4470/29/23/034
+NR 26
+TC 9
+Z9 9
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD FEB 15
+PY 2002
+VL 35
+IS 6
+BP 1415
+EP 1435
+DI 10.1088/0305-4470/35/6/307
+PG 21
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 527ZP
+UT WOS:000174218500008
+ER
+
+PT J
+AU Hatayama, G
+   Kuniba, A
+   Okado, M
+   Takagi, T
+AF Hatayama, G
+   Kuniba, A
+   Okado, M
+   Takagi, T
+TI Combinatorial R matrices for a family of crystals: Bn(l), Dn(1), A2n(2),
+   and Dn+1(2) cases
+SO JOURNAL OF ALGEBRA
+LA English
+DT Article
+DE affine Lie algebras; crystal bases; Young tableaux
+ID LIE-ALGEBRAS; REPRESENTATIONS; ALGORITHM; MODELS
+AB For coherent families of crystals of affine Lie algebras of type B-n((1)), D-n((1)), A(2n)((2)), and D-n+1((2)) we describe the combinatorial R matrix using column insertion algorithms for B, C, D Young tableaux. This is a continuation of previous work by the authors (2000, in "Physical Combinatorics" (M. Kashiwara and T. Miwa, Eds.), Birkhuser, Boston). (C) 2002 Elsevier Science.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Osaka Univ, Grad Sch Engn Sci, Dept Informat & Math Sci, Osaka 5608531, Japan.
+   Natl Def Acad, Dept Appl Phys, Kanagawa 2398686, Japan.
+RP Hatayama, G (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 1538902, Japan.
+CR BAKER TH, 2000, P INT WORKSH SPEC FU, P16
+   BAKER TH, 2000, PHYSICAL COMBINATORI
+   BERELE A, 1986, J COMB THEORY A, V43, P320, DOI 10.1016/0097-3165(86)90070-1
+   Fulton W, 1997, LONDON MATH SOC STUD, V35
+   HATAYAMA G, 2000, PHYSICAL COMBINATORI
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1994, J ALGEBRA, V165, P295, DOI 10.1006/jabr.1994.1114
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   LASCOUX A, 1978, CR ACAD SC PARIS A, V288, P323
+   LECOUVEY C, SCHENSTED TYPE CORRE
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   PROCTOR RA, 1990, CAN J MATH, V42, P28, DOI 10.4153/CJM-1990-002-1
+   SCHENSTED C, 1961, CANADIAN J MATH, V13, P179, DOI 10.4153/CJM-1961-015-3
+   Schilling A, 1999, COMMUN MATH PHYS, V202, P359, DOI 10.1007/s002200050586
+   SHIMOZONO M, MATHQA9804039
+   SUNDARAM S, 1990, J COMB THEORY A, V53, P239, DOI 10.1016/0097-3165(90)90059-6
+NR 18
+TC 8
+Z9 8
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0021-8693
+J9 J ALGEBRA
+JI J. Algebra
+PD JAN 15
+PY 2002
+VL 247
+IS 2
+BP 577
+EP 615
+DI 10.1006/jabr.2001.9017
+PG 39
+WC Mathematics
+SC Mathematics
+GA 514RB
+UT WOS:000173453900011
+ER
+
+PT J
+AU Kuniba, A
+   Nakanishi, T
+   Tsuboi, Z
+AF Kuniba, A
+   Nakanishi, T
+   Tsuboi, Z
+TI The Bethe equation at q=0, the Mobius inversion formula, and weight
+   multiplicities: III. The X-N((r)) case
+SO LETTERS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+DE Bethe ansatz; completeness; Kirillov-Reshetikhin module; Mobius
+   inversion formula; Q-system; quantum affine algebra; string hypothesis;
+   weight multiplicity
+ID ANSATZ
+AB It is shown that the numbers of off-diagonal solutions to the U-q(X-N((r))) Bethe equation at q = 0 coincide with the coefficients in the recently introduced canonical power series solution of the Q-system. Conjecturally, the canonical solutions are characters of KR (Kirillov-Reshetikhin) modules. This implies that the numbers of off-diagonal solutions agree with the weight multiplicities, which is interpreted as a formal completeness of the U-q(X-N((r))) Bethe ansatz at q = 0.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Nagoya Univ, Grad Sch Math, Nagoya, Aichi 4648602, Japan.
+   Univ Tokyo, Grad Sch Math Sci, Tokyo 1538914, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   Chad V., 1995, CMS C P, V16, P59
+   Chari V, 1998, COMMUN MATH PHYS, V196, P461, DOI 10.1007/s002200050431
+   CHARI V, 2001, INT MATH RES NOTICES, V12, P629
+   HATAYAMA G, IN PRESS PROGR MATH
+   Hatayama G., 1999, CONT MATH, V248, P243
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   Kirillov A., 1985, J SOVIET MATH, V30, P2298, DOI 10.1007/BF02105347
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J SOVIET MATH, V36, P115
+   Kuniba A, 2000, PROG MATH, V191, P185
+   KUNIBA A, IN PRESS J ALGEBRA
+   KUNIBA A, IN PRESS COMM MATH P
+   OGIEVETSKY E, 1986, PHYS LETT B, V168, P360, DOI 10.1016/0370-2693(86)91644-8
+   RESHETIKHIN NY, 1987, PHYS LETT B, V189, P125, DOI 10.1016/0370-2693(87)91282-2
+NR 17
+TC 3
+Z9 3
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0377-9017
+J9 LETT MATH PHYS
+JI Lett. Math. Phys.
+PD JAN
+PY 2002
+VL 59
+IS 1
+BP 19
+EP 31
+DI 10.1023/A:1014408629411
+PG 13
+WC Physics, Mathematical
+SC Physics
+GA 527GD
+UT WOS:000174177600002
+ER
+
+PT J
+AU Hatayama, G
+   Kuniba, A
+   Takagi, T
+AF Hatayama, G
+   Kuniba, A
+   Takagi, T
+TI Simple algorithm for factorized dynamics of the g(n)-automaton
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article; Proceedings Paper
+CT 4th International Meeting on Symmetries and Integrability of Difference
+   Equations (SIDE IV)
+CY NOV 27-DEC 01, 2000
+CL TOKYO, JAPAN
+ID CELLULAR-AUTOMATA; BALL SYSTEMS; BOX; CRYSTALS
+AB We present an elementary algorithm for the dynamics of recently introduced soliton cellular automata associated with quantum affine algebra U-q(g(n)) at q = 0. For g(n) = A(n)((1)), the rule reproduces the ball-moving algorithm in Takahashi-Satsuma's box-ball system. For non-exceptional g(n) other than A(n)((1)), it is described as a motion of particles and anti-particles which undergo pair-annihilation and creation through a neutral bound state. The algorithm is formulated without using representation theory or crystal basis theory.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Natl Def Acad, Dept Appl Phys, Yokosuka, Kanagawa 2398686, Japan.
+RP Hatayama, G (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2001, J STAT PHYS, V102, P843, DOI 10.1023/A:1004803003717
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   HATAYAMA G, 2000, MATHQA0012247
+   HATAYAMA G, 2000, MATHQA0007175
+   Hatayama G, 2000, PROG MATH, V191, P105
+   Hatayama G, 2001, J MATH PHYS, V42, P274, DOI 10.1063/1.1322077
+   Hikami K, 1999, J PHYS SOC JPN, V68, P2234, DOI 10.1143/JPSJ.68.2234
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1999, INVERSE PROBL, V15, P1639, DOI 10.1088/0266-5611/15/6/314
+   Tokihiro T, 2000, J PHYS A-MATH GEN, V33, P607, DOI 10.1088/0305-4470/33/3/313
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+NR 17
+TC 11
+Z9 11
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD DEC 7
+PY 2001
+VL 34
+IS 48
+BP 10697
+EP 10705
+DI 10.1088/0305-4470/34/48/331
+PG 9
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 505YU
+UT WOS:000172943800033
+ER
+
+PT J
+AU Hatayama, G
+   Kuniba, A
+   Takagi, T
+AF Hatayama, G
+   Kuniba, A
+   Takagi, T
+TI Factorization of combinatorial R matrices and associated cellular
+   automata
+SO JOURNAL OF STATISTICAL PHYSICS
+LA English
+DT Article
+DE quantum integrable systems; quantum groups; crystal bases; soliton
+   cellular automata
+ID AFFINE LIE-ALGEBRAS; CRYSTAL BASES; PERFECT CRYSTALS; DEMAZURE MODULES;
+   BALL SYSTEMS; EQUATIONS; BOX; LATTICE; FORMULA; MODELS
+AB Solvable vertex models in statistical mechanics give rise to soliton cellular automats at q=0 in a ferromagnetic regime. By means of the crystal base theory we study a class of such automata associated with non-exceptional quantum affine algebras U ' (q)((g) over cap (n)). Let B-l be the crystal of the U ' (q)((g) over cap (n))-module corresponding to the l-fold symmetric fusion of the vector representation. For any crystal of the form B=B(l1)circle times...circle timesB(lN), we prove that the combinatorial R matrix B(M)circle timesB similar or equal toB circle timesB(M) is factorized into a product of Weyl group operators in a certain domain if M is sufficiently large. II implies the Factorization of certain transfer matrix at q=0, hence the time evolution in the associated cellular automata. The result generalizes the bail-moving algorithm in the box-ball systems.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Natl Def Acad, Dept Appl Phys, Yokosuka, Kanagawa 2398686, Japan.
+RP Hatayama, G (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   CHEREDNIK I, 1992, COMMUN MATH PHYS, V150, P109, DOI 10.1007/BF02096568
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   HATAYAMA G, UNPUB
+   HATAYAMA G, QA9912209
+   HATAYAMA G, 2000, ADV STUD PURE MATH, V28, P115
+   HATAYAMA G, QA0007175
+   Hikami K, 1999, J PHYS SOC JPN, V68, P2234, DOI 10.1143/JPSJ.68.2234
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   KASHIWARA M, 1994, DUKE MATH J, V73, P383, DOI 10.1215/S0012-7094-94-07317-1
+   KASHIWARA M, 1993, DUKE MATH J, V71, P839, DOI 10.1215/S0012-7094-93-07131-1
+   KHOROSHKIN SM, 1991, COMMUN MATH PHYS, V141, P599, DOI 10.1007/BF02102819
+   KIRILLOV AN, 1990, COMMUN MATH PHYS, V134, P421, DOI 10.1007/BF02097710
+   Kuniba A, 1998, COMMUN MATH PHYS, V192, P555, DOI 10.1007/s002200050309
+   Kuniba A, 1998, NUCL PHYS B, V510, P555
+   Kuniba A., 1998, J ALGEBRA, V208, P185, DOI 10.1006/jabr.1998.7503
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Noumi M, 1998, COMMUN MATH PHYS, V199, P281, DOI 10.1007/s002200050502
+   Soibelman Y.S., 1991, REND CIRC MAT PALE S, V26, P233
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1999, INVERSE PROBL, V15, P1639, DOI 10.1088/0266-5611/15/6/314
+   Tokihiro T, 2000, J PHYS A-MATH GEN, V33, P607, DOI 10.1088/0305-4470/33/3/313
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Torii M, 1996, PHYSICA D, V92, P209, DOI 10.1016/0167-2789(95)00285-5
+NR 29
+TC 9
+Z9 9
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0022-4715
+J9 J STAT PHYS
+JI J. Stat. Phys.
+PD FEB
+PY 2001
+VL 102
+IS 3-4
+BP 843
+EP 863
+DI 10.1023/A:1004803003717
+PG 21
+WC Physics, Mathematical
+SC Physics
+GA 435VX
+UT WOS:000168903800015
+ER
+
+PT J
+AU Hatayama, G
+   Hikami, K
+   Inoue, R
+   Kuniba, A
+   Takagi, T
+   Tokihiro, T
+AF Hatayama, G
+   Hikami, K
+   Inoue, R
+   Kuniba, A
+   Takagi, T
+   Tokihiro, T
+TI The A(M)((1)) automata related to crystals of symmetric tensors
+SO JOURNAL OF MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID LIE-ALGEBRAS; Q-ANALOG; EQUATIONS; BOX
+AB A soliton cellular automaton associated with crystals of symmetric tensor representations of the quantum affine algebra U-q'(A(M)((1))) is introduced. It is a crystal theoretic formulation of the generalized box-ball system in which capacities of boxes and carriers are arbitrary and inhomogeneous. Scattering matrices of two solitons coincide with the combinatorial R matrices of U-q'(A(M-1)((1))). A piecewise linear evolution equation of the automaton is identified with an ultradiscrete limit of the nonautonomous discrete Kadomtsev-Petviashivili equation. A class of N soliton solutions is obtained through the ultradiscretization of soliton solutions of the latter. (C) 2001 American Institute of Physics.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Natl Def Acad, Dept Math & Phys, Yokosuka, Kanagawa 2398686, Japan.
+   Univ Tokyo, Grad Sch Math Sci, Tokyo 1538914, Japan.
+RP Hatayama, G (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Date E., 1983, P RIMS S NONL INT SY, P39
+   Fukuda K, 2000, INT J MOD PHYS A, V15, P1379, DOI 10.1142/S0217751X00000616
+   Fulton W., 1997, YOUNG TABLEAUX
+   Hatayama G, 2000, NUCL PHYS B, V577, P619, DOI 10.1016/S0550-3213(00)00105-X
+   Hikami K, 1999, J PHYS SOC JPN, V68, P2234, DOI 10.1143/JPSJ.68.2234
+   Hikami K, 2000, J PHYS A-MATH GEN, V33, P4081, DOI 10.1088/0305-4470/33/22/311
+   HIROTA R, 1995, J PHYS SOC JPN, V64, P3125, DOI 10.1143/JPSJ.64.3125
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   KASHIWARA M, 1994, J ALGEBRA, V165, P295, DOI 10.1006/jabr.1994.1114
+   Matsukidaira J, 1997, PHYS LETT A, V225, P287, DOI 10.1016/S0375-9601(96)00899-7
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   Sato M., 1982, LECTURE NOTES NUM AP, V5, P259
+   Takahashi D, 1997, J PHYS A-MATH GEN, V30, pL733, DOI 10.1088/0305-4470/30/21/005
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1999, INVERSE PROBL, V15, P1639, DOI 10.1088/0266-5611/15/6/314
+   Tokihiro T, 2000, J PHYS A-MATH GEN, V33, P607, DOI 10.1088/0305-4470/33/3/313
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   Willox R, 1997, J MATH PHYS, V38, P6455, DOI 10.1063/1.532222
+NR 22
+TC 60
+Z9 60
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0022-2488
+J9 J MATH PHYS
+JI J. Math. Phys.
+PD JAN
+PY 2001
+VL 42
+IS 1
+BP 274
+EP 308
+DI 10.1063/1.1322077
+PG 35
+WC Physics, Mathematical
+SC Physics
+GA 388PP
+UT WOS:000166190600016
+ER
+
+PT J
+AU Kuniba, A
+   Misra, KC
+   Okado, M
+   Takagi, T
+   Uchiyama, J
+AF Kuniba, A
+   Misra, KC
+   Okado, M
+   Takagi, T
+   Uchiyama, J
+TI Paths, Demazure crystals, and symmetric functions
+SO JOURNAL OF MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID PERFECT CRYSTALS; VERTEX MODELS; ALGEBRAS; CHARACTERS; TABLEAUX; MODULES
+AB The path realization of Demazure crystals is reviewed and Demazure characters in the light of symmetric functions are discussed. (C) 2000 American Institute of Physics. [S0022-2488(00)02808-5].
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   N Carolina State Univ, Dept Math, Raleigh, NC 27695 USA.
+   Osaka Univ, Grad Sch Engn Sci, Dept Informat & Math Sci, Osaka 5608531, Japan.
+   Natl Def Acad, Dept Math & Phys, Yokosuka, Kanagawa 2398686, Japan.
+   Rikkyo Univ, Dept Phys, Tokyo 1718501, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Dasmahapatra S, 1998, INT J MOD PHYS A, V13, P501, DOI 10.1142/S0217751X98000214
+   Dasmahapatra S, 1997, INT J MOD PHYS A, V12, P3551, DOI 10.1142/S0217751X97001845
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   KASHIWARA M, 1993, DUKE MATH J, V71, P839, DOI 10.1215/S0012-7094-93-07131-1
+   KIRILLOV AN, 1995, LECT MATH SCI, V7
+   KIRILLOV AN, MATHCO9901037
+   Kuniba A, 1998, COMMUN MATH PHYS, V192, P555, DOI 10.1007/s002200050309
+   Kuniba A, 1998, NUCL PHYS B, V510, P555
+   Kuniba A., 1998, J ALGEBRA, V208, P185, DOI 10.1006/jabr.1998.7503
+   Lascoux A, 1997, J MATH PHYS, V38, P1041, DOI 10.1063/1.531807
+   LECLERC B, MATHQA9809122
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   SANDERSON YB, 1995, THESIS RUTGERS U
+   SHIMOZONO M, MATHQA9804039
+NR 20
+TC 7
+Z9 7
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0022-2488
+J9 J MATH PHYS
+JI J. Math. Phys.
+PD SEP
+PY 2000
+VL 41
+IS 9
+BP 6477
+EP 6486
+DI 10.1063/1.1286284
+PG 10
+WC Physics, Mathematical
+SC Physics
+GA 347TC
+UT WOS:000088944400039
+ER
+
+PT J
+AU Hatayama, G
+   Kuniba, A
+   Takagi, T
+AF Hatayama, G
+   Kuniba, A
+   Takagi, T
+TI Soliton cellular automata associated with crystal bases
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+DE quantum affine algebras; crystal bases; integrable systems
+ID AFFINE LIE-ALGEBRAS; VERTEX MODELS; RULE
+AB We introduce a class of cellular automata associated with crystals of irreducible finite dimensional representations of quantum affine algebras U-q'((g) over cap(n)). They have solitons labeled by crystals of the smaller algebra U-q'((g) over cap(n-1)). We prove stable propagation of one soliton for (g) over cap(n) = A(2n-1)((2)), A(2n)((2)), B-n((1)), D-n((1)) and D-n+1((2)). For (g) over cap(n) = C-n((1)), we also prove that the scattering matrices of two solitons coincide with the combinatorial R matrices of U-q'(C-n-1((1)))-crystals. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Natl Def Acad, Dept Math & Phys, Yokosuka, Kanagawa 2398686, Japan.
+RP Hatayama, G (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 1538902, Japan.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   DATE E, 1990, MEMORIAL VOLUME V KN, P185
+   FOKAS AS, 1990, PHYSICA D, V41, P287
+   FUKUDA M, COMMUNICATION
+   HATAYAMA G, MATHQA9901082
+   HATAYAMA G, MATHQA9912209
+   HATAYAMA G, MATHQA9909068
+   Hikami K, 1999, J PHYS SOC JPN, V68, P2234, DOI 10.1143/JPSJ.68.2234
+   HIKAMI K, COMMUNICATION
+   KANG SJ, 1994, COMPOS MATH, V92, P299
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1990, COMMUN MATH PHYS, V133, P249, DOI 10.1007/BF02097367
+   KASHIWARA M, 1991, IN PRESS J ALG
+   KIRILLOV AN, 1998, COMMUNICATION    DEC
+   Kulish P., 1982, LECTURE NOTES PHYSIC, V151, P61
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   Matsukidaira J, 1997, PHYS LETT A, V225, P287, DOI 10.1016/S0375-9601(96)00899-7
+   NAKASHIMA T, 1993, COMMUN MATH PHYS, V154, P215, DOI 10.1007/BF02096996
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   PAPATHEODOROU TS, 1988, STUD APPL MATH, V79, P173
+   PAPATHEODOROU TS, 1989, STUD APPL MATH, V80, P165
+   PARK JK, 1986, PHYSICA D, V19, P423, DOI 10.1016/0167-2789(86)90068-0
+   SKLYANIN EK, 1980, THEOR MATH PHYS, V40, P688
+   Takahashi D., 1993, P INT S NONL THEOR I, P555
+   TAKAHASHI D, 1990, J PHYS SOC JPN, V59, P3514, DOI 10.1143/JPSJ.59.3514
+   Tokihiro T, 1996, PHYS REV LETT, V76, P3247, DOI 10.1103/PhysRevLett.76.3247
+   TOKIHIRO T, PROOF SOLITONICAL NA
+   Wolfram S., 1986, THEORY APPL CELLULAR
+NR 31
+TC 28
+Z9 28
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD JUN 26
+PY 2000
+VL 577
+IS 3
+BP 619
+EP 645
+DI 10.1016/S0550-3213(00)00105-X
+PG 27
+WC Physics, Particles & Fields
+SC Physics
+GA 326XE
+UT WOS:000087761900009
+ER
+
+PT J
+AU Hatayama, G
+   Kirillov, AN
+   Kuniba, A
+   Okado, M
+   Takagi, T
+   Yamada, Y
+AF Hatayama, G
+   Kirillov, AN
+   Kuniba, A
+   Okado, M
+   Takagi, T
+   Yamada, Y
+TI Character formulae of (sl)over-cap(n)-modules and inhomogeneous paths
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+DE affine algebra; Bethe ansatz; combinatorics
+ID VERTEX MODELS; LIE-ALGEBRAS; CRYSTALS
+AB Let B-(1) be the perfect crystal for the I-symmetric tensor representation of the quantum affine algebra U'(q)(<(sl)over cap>(n)). For a partition mu = (mu(1),...,mu(m),), elements of the tensor product B(mu(1)) circle times ... circle times B(mu(m)) can be regarded as inhomogeneous paths. We establish a bijection between a certain large CL limit of this crystal and the crystal of an (generally reducible) integrable U-q(<(sl)over cap>(n))-module, which forms a large family depending on the inhomogeneity of mu kept in the limit, For the associated one-dimensional sums, relations with the Kostka-Foulkes polynomials are clarified, and new fermionic formulae are presented. By combining their limits with the bijection, we prove or conjecture several formulae for the string functions, branching functions, coset branching functions and spinon character formula of both vertex and RSOS types. (C) 1999 Elsevier Science B.V.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Univ Montreal, Ctr Rech Math, Montreal, PQ H3C 3J7, Canada.
+   VA Steklov Math Inst, St Petersburg 191011, Russia.
+   Osaka Univ, Fac Engn Sci, Dept Math Sci, Toyonaka, Osaka 5608531, Japan.
+   Natl Def Acad, Dept Math & Phys, Yokosuka, Kanagawa 2398686, Japan.
+   Kobe Univ, Fac Sci, Dept Math, Kobe, Hyogo 6578501, Japan.
+RP Hatayama, G (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   ARAKAWA T, 1996, COMMUN MATH PHYS, V181, P159
+   BERKOVICH A, BONNTH9607
+   BERNARD D, 1994, NUCL PHYS B, V428, P612, DOI 10.1016/0550-3213(94)90366-2
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   BOUWKNEGT P, 1995, PHYS LETT B, V359, P304, DOI 10.1016/0370-2693(95)01078-5
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   FEIGIN B, HEPTH9308079
+   GEORGIEV G, HEPTH9412054
+   GEORGIEV G, QALG9504024
+   GUPTA RK, 1987, B AM MATH SOC, V16, P287, DOI 10.1090/S0273-0979-1987-15519-4
+   KAC VG, 1984, ADV MATH, V53, P125
+   KANG SJ, QALG9710008
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1991, DUKE MATH J, V63, P465, DOI 10.1215/S0012-7094-91-06321-0
+   Kirillov A.N., 1988, Journal of Geometry and Physics, V5, DOI 10.1016/0393-0440(88)90030-7
+   KIRILLOV AN, MATHQA9803006
+   KIRILLOV AN, QALG9711009
+   KIRILLOV AN, 1995, LECT MATH SCI, V7
+   Kirillov A.N., 1988, J SOVIET MATH, V41, P925, DOI 10.1007/BF01247088
+   KIROLLOV AN, MATHQA9803062
+   Kuniba A, 1998, NUCL PHYS B, V510, P555
+   KUNIBA A, 1993, MOD PHYS LETT A, V8, P1649, DOI 10.1142/S0217732393001392
+   KUNIBA A, 1996, IN PRESS NANK CRM P
+   LASCOUX A, 1978, CR ACAD SC PARIS A, V288, P323
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   Nakayashiki A., 1996, Frontiers in Quantum Field Theory
+   Nalcayashiki A., 1997, SELECTA MATH, V3, P547, DOI 10.1007/s000290050020
+   SCHILLING A, QALG9701007
+   Stanley R.P., 1984, LINEAR MULTILINEAR A, V16, P3, DOI 10.1080/03081088408817606
+NR 32
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD DEC 28
+PY 1998
+VL 536
+IS 3
+BP 575
+EP 616
+DI 10.1016/S0550-3213(98)00647-6
+PG 42
+WC Physics, Particles & Fields
+SC Physics
+GA 153ER
+UT WOS:000077798600003
+ER
+
+PT J
+AU Kirillov, AN
+   Kuniba, A
+   Nakanishi, T
+AF Kirillov, AN
+   Kuniba, A
+   Nakanishi, T
+TI Skew Young diagram method in spectral decomposition of integrable
+   lattice models II: Higher levels
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+DE vertex model; spectral decomposition; Kostka-Foulkes polynomials
+ID CRYSTAL GRAPHS
+AB The spectral decomposition of the path space of the vertex model associated to the level-l representation of the quantized affine algebra U-q(<(sl)over cap>(n)) is studied. The spectrum and its degeneracy are parametrized by skew Young diagrams and what we call non-movable tableaux on them, respectively. As a result we obtain the characters for the degeneracy of the spectrum in terms of an alternating sum of skew Schur functions. Also studied are new combinatorial descriptions (spectral decomposition) of the Kostka numbers and the Kostka-Foulkes polynomials. As an application we give a new proof of Nakayashiki-Yamada's theorem about the branching functions of the level-l basic representation l Lambda(k) of <(sl)over cap>(n) and a generalization of the theorem. (C) 1998 Elsevier Science B.V.
+C1 Univ Montreal, CRM, Montreal, PQ H3W 2P6, Canada.
+   Univ Tokyo, Inst Phys, Meguro Ku, Tokyo 153, Japan.
+   Nagoya Univ, Dept Math, Chikusa Ku, Nagoya, Aichi 464, Japan.
+   VA Steklov Math Inst, St Petersburg 191011, Russia.
+RP Kirillov, AN (reprint author), Univ Montreal, CRM, Succursale A,Ctr Ville, Montreal, PQ H3W 2P6, Canada.
+CR Andrews G.E., 1976, THEORY PARTITIONS
+   ARAKAWA T, 1996, COMMUN MATH PHYS, V181, P159
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   DATE E, 1990, MEMORIAL VOLUME V KN, P185
+   GELFAND IM, 1985, FUNCT ANAL APPL+, V19, P141, DOI 10.1007/BF01078396
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1994, J ALGEBRA, V165, P295, DOI 10.1006/jabr.1994.1114
+   KIRILLOV AN, 1995, PROG THEOR PHYS SUPP, P61
+   KIRILLOV AN, 1995, J ALG ANAL, V7, P77
+   Kirillov A.N., 1988, Journal of Geometry and Physics, V5, DOI 10.1016/0393-0440(88)90030-7
+   KIRILLOV AN, 1986, ZAP NAUCHN SEM LOMI, V155, P65
+   Kirillov AN, 1997, COMMUN MATH PHYS, V185, P441, DOI 10.1007/s002200050098
+   LASCOUX A, 1978, CR ACAD SCI A MATH, V286, P323
+   LASCOUX A, 1995, LETT MATH PHYS, V35, P359, DOI 10.1007/BF00750843
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   NAKAYASHIKI A, IN PRESS SELECTA MAT
+   TAKEMURA K, QALG9706011
+NR 19
+TC 3
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD OCT 5
+PY 1998
+VL 529
+IS 3
+BP 611
+EP 638
+PG 28
+WC Physics, Particles & Fields
+SC Physics
+GA 131NX
+UT WOS:000076583100004
+ER
+
+PT J
+AU Kuniba, A
+   Sakai, K
+   Suzuki, J
+AF Kuniba, A
+   Sakai, K
+   Suzuki, J
+TI Continued fraction TBA and functional relations in XXZ model at root of
+   unity
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+DE XXZ model; correlation length; quantum transfer matrix; functional
+   relations; Takahashi-Suzuki; numbers; thermodynamic Bethe ansatz
+ID ST-TRANSFORMATION APPROACH; SPIN-1/2 HEISENBERG CHAIN; SOLVABLE LATTICE
+   MODELS; BETHE-ANSATZ EQUATIONS; FINITE-TEMPERATURE; ANALYTIC SOLUTIONS;
+   CORRELATION LENGTH; QUANTUM-SYSTEMS; TRANSFER-MATRIX; FREE-ENERGY
+AB Thermodynamics of the spin 1/2 XXZ model is studied in the critical regime using the quantum transfer matrix (QTM) approach. We find functional relations indexed by the Takahashi-Suzuki numbers among the fusion hierarchy of the QTM's (T-system) and their certain combinations (Y-system). By investigating analyticity of the latter, we derive a closed set of nonlinear integral equations which characterize the free energy and the correlation lengths for both [sigma(j)(+)sigma(i)(-)] and [sigma(j)(z)sigma(i)(z)] at any finite temperatures. Concerning the free energy, they exactly coincide with Takahashi-Suzuki's TEA equations based on the string hypothesis. By solving the integral equations numerically the correlation lengths are determined, which agrees with the earlier results in the low temperature limit. (C) 1998 Elsevier Science B.V.
+C1 Univ Tokyo, Inst Phys, Meguro Ku, Tokyo 153, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, Meguro Ku, Komaba, Tokyo 153, Japan.
+CR ALCARAZ FC, 1988, J PHYS A-MATH GEN, V21, P4397, DOI 10.1088/0305-4470/21/23/021
+   BAROUCH E, 1971, PHYS REV A, V3, P786, DOI 10.1103/PhysRevA.3.786
+   Bazhanov VV, 1997, NUCL PHYS B, V489, P487, DOI 10.1016/S0550-3213(97)00022-9
+   Chari V., 1990, ENSEIGNEMENT MATH, V36, P267
+   DESTRI C, 1992, PHYS REV LETT, V69, P2313, DOI 10.1103/PhysRevLett.69.2313
+   ESSLER FHL, 1992, J PHYS A-MATH GEN, V25, P4115, DOI 10.1088/0305-4470/25/15/019
+   FENDLEY P, HEPTH9706161
+   Fioravanti D, 1997, PHYS LETT B, V390, P243, DOI 10.1016/S0370-2693(96)01409-8
+   INOUE M, 1988, PROG THEOR PHYS, V79, P645, DOI 10.1143/PTP.79.645
+   JUTTNER G, IN PRESS NUCL PHYS B
+   Juttner G, 1997, EUROPHYS LETT, V37, P335, DOI 10.1209/epl/i1997-00153-2
+   JUTTNER G, CONDMAT9711310
+   Juttner G, 1997, NUCL PHYS B, V487, P650, DOI 10.1016/S0550-3213(96)00627-X
+   JUTTNER G, 1993, J PHYS A-MATH GEN, V26, P3105, DOI 10.1088/0305-4470/26/13/015
+   Juttner G, 1997, J PHYS A-MATH GEN, V30, P1881, DOI 10.1088/0305-4470/30/6/014
+   KATSURA S, 1962, PHYS REV, V127, P1508, DOI 10.1103/PhysRev.127.1508
+   KIRILLOV AN, 1985, ZAP NAUCH SEMINARA L, V146, P47
+   KIRILLOV AN, 1985, ZAP NAUCH SEMIN LOMI, V146, P31
+   Kirillov AN, 1997, J PHYS A-MATH GEN, V30, P1209, DOI 10.1088/0305-4470/30/4/022
+   KLUMPER A, 1991, J STAT PHYS, V64, P13, DOI 10.1007/BF01057867
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   KLUMPER A, 1992, ANN PHYS-LEIPZIG, V1, P540
+   KLUMPER A, 1993, Z PHYS B CON MAT, V91, P507, DOI 10.1007/BF01316831
+   KOMA T, 1987, PROG THEOR PHYS, V78, P1213, DOI 10.1143/PTP.78.1213
+   Korepin V. E., 1993, QUANTUM INVERSE SCAT
+   KOREPIN VE, 1979, THEOR MATH PHYS+, V41, P953, DOI 10.1007/BF01028501
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5267, DOI 10.1142/S0217751X94002120
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P711, DOI 10.1088/0305-4470/28/3/024
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   Lieb E., 1961, ANN PHYS-NEW YORK, V16, P406
+   MIZUTA H, 1994, J PHYS SOC JPN, V63, P3951, DOI 10.1143/JPSJ.63.3951
+   SUZUKI J, 1990, J PHYS SOC JPN, V59, P2667, DOI 10.1143/JPSJ.59.2667
+   SUZUKI J, 1992, INT J MOD PHYS B, V6, P1119, DOI 10.1142/S021797929200058X
+   SUZUKI M, 1985, PHYS REV B, V31, P2957, DOI 10.1103/PhysRevB.31.2957
+   SUZUKI M, 1987, PROG THEOR PHYS, V78, P787, DOI 10.1143/PTP.78.787
+   TAKAHASHI M, 1991, PHYS REV B, V43, P5788, DOI 10.1103/PhysRevB.43.5788
+   TAKAHASH.M, 1972, PROG THEOR PHYS, V48, P2187, DOI 10.1143/PTP.48.2187
+   TATEO R, 1995, PHYS LETT B, V355, P157, DOI 10.1016/0370-2693(95)00751-6
+   YANG CN, 1969, J MATH PHYS, V10, P1115, DOI 10.1063/1.1664947
+NR 40
+TC 46
+Z9 46
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD AUG 17
+PY 1998
+VL 525
+IS 3
+BP 597
+EP 626
+PG 30
+WC Physics, Particles & Fields
+SC Physics
+GA 109PT
+UT WOS:000075332500004
+ER
+
+PT J
+AU Kuniba, A
+   Misra, KC
+   Okado, M
+   Uchiyama, J
+AF Kuniba, A
+   Misra, KC
+   Okado, M
+   Uchiyama, J
+TI Demazure modules and perfect crystals
+SO COMMUNICATIONS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID VERTEX MODELS; LIE-ALGEBRAS; AFFINE
+AB We give a criterion for the Demazure crystal B-w(lambda) defined by Kashiwara to have a tensor product structure. We study the <(sl)over cap>(n) symmetric tensor case, and see some Demazure characters are expressed using Kostka-Foulkes polynomials.
+C1 Univ Melbourne, Dept Math, Parkville, Vic 3052, Australia.
+   Univ Tokyo, Inst Phys, Tokyo 153, Japan.
+   N Carolina State Univ, Dept Math, Raleigh, NC 27695 USA.
+   Rikkyo Univ, Dept Phys, Tokyo 171, Japan.
+   Osaka Univ, Fac Engn Sci, Dept Math Sci, Toyonaka, Osaka 560, Japan.
+RP Kuniba, A (reprint author), Univ Melbourne, Dept Math, Parkville, Vic 3052, Australia.
+CR DASMAHAPATRA S, QALG9601011
+   DASMAHAPATRA S, HEPTH9512095
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   FODA O, QALG9602018
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1993, DUKE MATH J, V71, P839, DOI 10.1215/S0012-7094-93-07131-1
+   KASHIWARA M, 1994, J ALGEBRA, V165, P295, DOI 10.1006/jabr.1994.1114
+   KIRILLOV AN, 1995, LECT MATH SCI, V7
+   Moody R. V., 1995, LIE ALGEBRAS TRIANGU
+   NAKAYASHIKI A, QALG9512027
+   LITTELMANN P, 1995, ANN MATH, V142, P499, DOI 10.2307/2118553
+   SANDERSON YB, 1995, THESIS RUTGERS U
+NR 14
+TC 15
+Z9 16
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010 USA
+SN 0010-3616
+J9 COMMUN MATH PHYS
+JI Commun. Math. Phys.
+PD APR
+PY 1998
+VL 192
+IS 3
+BP 555
+EP 567
+DI 10.1007/s002200050309
+PG 13
+WC Physics, Mathematical
+SC Physics
+GA ZL766
+UT WOS:000073469400004
+ER
+
+PT J
+AU Kuniba, A
+   Misra, KC
+   Okado, M
+   Takagi, T
+   Uchiyama, J
+AF Kuniba, A
+   Misra, KC
+   Okado, M
+   Takagi, T
+   Uchiyama, J
+TI Characters of Demazure modules and solvable lattice models
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+DE solvable lattice models; quantum affine algebras; crystal base; paths;
+   Demazure modules sep; characters
+ID AFFINE LIE-ALGEBRAS; VERTEX MODELS; CRYSTALS
+AB We study the path realization of Demazure crystals related to solvable lattice models in statistical mechanics, Various characters are represented in a unified way as the sums over one-dimensional configurations which we call unrestricted, classically restricted and restricted paths, As an application, characters of Demazure modules are obtained in terms of q-multinomial coefficients for several level-1 modules of classical affine algebras. (C) 1998 Elsevier Science B.V.
+C1 Univ Tokyo, Inst Phys, Tokyo 153, Japan.
+   N Carolina State Univ, Dept Math, Raleigh, NC 27695 USA.
+   Osaka Univ, Fac Engn Sci, Dept Math Sci, Osaka 560, Japan.
+   Natl Def Acad, Dept Math & Phys, Yokosuka, Kanagawa 239, Japan.
+   Rikkyo Univ, Dept Phys, Tokyo 171, Japan.
+RP Kuniba, A (reprint author), Univ Tokyo, Inst Phys, 4-6-1 Komaba, Tokyo 153, Japan.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   DATE E, 1993, COMMUN MATH PHYS, V155, P47, DOI 10.1007/BF02100049
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   Demazure M., 1974, ANN SCI ECOLE NORM S, V7, P53
+   FODA O, ALG9602018
+   JINBO M, 1988, NUCL PHYS B, V300, P74
+   KAC VG, 1984, ADV MATH, V53, P125
+   KAC VG, 1990, ACTA APPL MATH, V21, P3, DOI 10.1007/BF00053290
+   KANG SJ, 1992, DUKE MATH J, V68, P499, DOI 10.1215/S0012-7094-92-06821-9
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   KASHIWARA M, 1993, DUKE MATH J, V71, P839, DOI 10.1215/S0012-7094-93-07131-1
+   KIRILLOV AN, 1995, LECT MATH SCI, V7
+   KUMAR S, 1987, INVENT MATH, V89, P395, DOI 10.1007/BF01389086
+   KUNIBA A, IN PRESS COMMUN MATH
+   KUNIBA A, 1996, IN PRESS NANKAI CRM
+   KUNIBA A, 1991, NUCL PHYS B, V355, P801, DOI 10.1016/0550-3213(91)90495-J
+   KUNIBA A, QALG9707014
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   MATHIEU O, 1986, CR ACAD SCI I-MATH, V303, P391
+   NAKAYASHIKI A, IN PRESS SELECTA MAT
+NR 21
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD JAN 26
+PY 1998
+VL 510
+IS 3
+BP 555
+EP 576
+PG 22
+WC Physics, Particles & Fields
+SC Physics
+GA YW623
+UT WOS:000071955400003
+ER
+
+PT J
+AU Kirillov, AN
+   Kuniba, A
+   Nakanishi, T
+AF Kirillov, AN
+   Kuniba, A
+   Nakanishi, T
+TI Skew Young diagram method in spectral decomposition of integrable
+   lattice models
+SO COMMUNICATIONS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID CONFORMAL FIELD-THEORY; LONG-RANGE INTERACTIONS; YANGIAN SYMMETRY;
+   LIE-ALGEBRAS; CHAIN
+AB The spectral decomposition of the path space of the vertex model associated to the vector representation of the quantized affine algebra U-q(<(sl)over cap>(n)) is studied. We give a one-to-one correspondence between the spin configurations and the semistandard tableaux of skew Young diagrams. As a result we obtain a formula of the characters for the degeneracy of the spectrum in terms of skew Schur functions. We conjecture that our result describes the sl(n)-module contents of the Yangian Y(sl(n))-module structures of the level 1 integrable modules of the affine Lie algebra <(sl)over cap>(n). An analogous result is obtained also for a vertex model associated to the quantized twisted affine algebra U-q(A(2n)((2))), where Y(B-n) characters appear for the degeneracy of the spectrum. The relations to the spectrum of the Haldane-Shastry and the Polychronakos models are also discussed.
+C1 UNIV TOKYO,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+   UNIV N CAROLINA,DEPT MATH,CHAPEL HILL,NC 27599.
+   VA STEKLOV MATH INST,FONTANKA 27,ST PETERSBURG 191011,RUSSIA.
+   NAGOYA UNIV,DEPT MATH,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+RP Kirillov, AN (reprint author), UNIV TOKYO,DEPT MATH SCI,MEGURO KU,4-6-1 KOMABA,TOKYO 153,JAPAN.
+CR Andrews G.E., 1976, THEORY PARTITIONS
+   Arakawa T, 1996, COMMUN MATH PHYS, V181, P157, DOI 10.1007/BF02101676
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BERNARD D, 1994, NUCL PHYS B, V428, P612, DOI 10.1016/0550-3213(94)90366-2
+   BERNARD D, 1994, COMMUNICATION    NOV
+   BERNARD D, 1993, J PHYS A-MATH GEN, V26, P5219, DOI 10.1088/0305-4470/26/20/010
+   CHEREDNIK IV, 1987, DUKE MATH J, V54, P563, DOI 10.1215/S0012-7094-87-05423-8
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   HA ZNC, 1993, PHYS REV B, V47, P12459, DOI 10.1103/PhysRevB.47.12459
+   HALDANE FDM, 1992, PHYS REV LETT, V69, P2021, DOI 10.1103/PhysRevLett.69.2021
+   HIKAMI K, 1995, NUCL PHYS B, V441, P530, DOI 10.1016/0550-3213(95)00035-Q
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   KAC VG, 1984, ADV MATH, V53, P125
+   KANG SJ, 1992, INT J MOD PHYS A, V7, P449, DOI 10.1142/S0217751X92003896
+   Kirillov A. N., 1995, PROG THEOR PHYS SUPP, V118, P61, DOI 10.1143/PTPS.118.61
+   KIRILLOV AN, 1995, LECT MATH SCI, V1
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P6211, DOI 10.1088/0305-4470/28/21/024
+   KUNIBA A, 1991, NUCL PHYS B, V355, P801, DOI 10.1016/0550-3213(91)90495-J
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   NAZAROV M, 1994, REPRESENTATIONS YANG
+   POLYCHRONAKOS AP, 1994, NUCL PHYS B, V419, P553, DOI 10.1016/0550-3213(94)90344-1
+   SCHOUTENS K, 1994, PHYS LETT B, V331, P335, DOI 10.1016/0370-2693(94)91061-8
+NR 23
+TC 19
+Z9 19
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0010-3616
+J9 COMMUN MATH PHYS
+JI Commun. Math. Phys.
+PD MAY
+PY 1997
+VL 185
+IS 2
+BP 441
+EP 465
+DI 10.1007/s002200050098
+PG 25
+WC Physics, Mathematical
+SC Physics
+GA XD175
+UT WOS:A1997XD17500009
+ER
+
+PT J
+AU Tsuboi, Z
+   Kuniba, A
+AF Tsuboi, Z
+   Kuniba, A
+TI Solutions of a discretized toda field equation for D-r from analytic
+   Bethe ansatz
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID PARTIAL DIFFERENCE EQUATIONS; SOLITON-EQUATIONS; REPRESENTATION;
+   LATTICE; ANALOG
+AB Commuting transfer matrices of U-q(X(r)((l))) vertex models obey the functional relations which can be viewed as an X(r) type Toda field equation on discrete spacetime. Based on analytic Bethe ansatz we present, for X(r) = D-r, a new expression of its solution in terms of determinants and Pfaffians.
+RP Tsuboi, Z (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR ABLOWITZ MJ, 1976, STUD APPL MATH, V55, P213
+   ABLOWITZ MJ, 1977, STUD APPL MATH, V57, P1
+   DATE E, 1982, J PHYS SOC JPN, V51, P4125, DOI 10.1143/JPSJ.51.4125
+   DATE E, 1982, J PHYS SOC JPN, V51, P4116, DOI 10.1143/JPSJ.51.4116
+   DATE E, 1983, J PHYS SOC JPN, V52, P388, DOI 10.1143/JPSJ.52.388
+   DATE E, 1983, J PHYS SOC JPN, V52, P761, DOI 10.1143/JPSJ.52.761
+   HIROTA R, 1978, J PHYS SOC JPN, V45, P321, DOI 10.1143/JPSJ.45.321
+   HIROTA R, 1987, J PHYS SOC JPN, V56, P4285, DOI 10.1143/JPSJ.56.4285
+   HIROTA R, 1981, J PHYS SOC JPN, V50, P3785, DOI 10.1143/JPSJ.50.3785
+   HIROTA R, 1977, J PHYS SOC JPN, V43, P1424, DOI 10.1143/JPSJ.43.1424
+   KRICHEVER I, 1996, 330 ESI
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P6211, DOI 10.1088/0305-4470/28/21/024
+   KUNIBA A, 1995, COMMUN MATH PHYS, V173, P225, DOI 10.1007/BF02101234
+   Kuniba A, 1996, J PHYS A-MATH GEN, V29, P1759, DOI 10.1088/0305-4470/29/8/022
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   LEZNOV AN, 1979, LETT MATH PHYS, V3, P489, DOI 10.1007/BF00401930
+   MIKHAILOV AV, 1981, COMMUN MATH PHYS, V79, P473, DOI 10.1007/BF01209308
+   RESHETIKHIN NY, 1983, ZH EKSP TEOR FIZ, V57, P691
+NR 18
+TC 14
+Z9 14
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL, ENGLAND BS1 6BE
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD DEC 7
+PY 1996
+VL 29
+IS 23
+BP 7785
+EP 7796
+DI 10.1088/0305-4470/29/23/034
+PG 12
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA VZ709
+UT WOS:A1996VZ70900034
+ER
+
+PT J
+AU Batchelor, MT
+   Fridkin, V
+   Kuniba, A
+   Zhou, YK
+AF Batchelor, MT
+   Fridkin, V
+   Kuniba, A
+   Zhou, YK
+TI Solutions of the reflection equation for face and vertex models
+   associated with A(n)((1)), B-n((1)), C-n((1)), D-n((1)) and A(n)((2))
+SO PHYSICS LETTERS B
+LA English
+DT Article
+ID SOLVABLE LATTICE MODELS; INTEGRABLE QUANTUM-SYSTEMS; CLASSICAL
+   LIE-ALGEBRAS; SPIN CHAINS; ISING-MODEL; FIELD
+AB We present new diagonal solutions of the reflection equation for elliptic solutions of the star-triangle relation. The models considered are related to the affine Lie algebras A(n)((1)), B-n((1)), C-n((1)), D-n((1)) and A(n)((2)). We recover all known diagonal solutions associated with these algebras and find how these solutions are related in the elliptic regime. Furthermore, new solutions of the reflection equation follow for the associated vertex models in the trigonometric limit.
+C1 UNIV TOKYO,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+RP Batchelor, MT (reprint author), AUSTRALIAN NATL UNIV,SCH MAT SCI,DEPT MATH,CANBERRA,ACT 0200,AUSTRALIA.
+RI Batchelor, Murray/A-2234-2008; Batchelor, Murray/A-9453-2013
+CR AHN C, HEPTH9508080
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   ARTZ S, 1995, INT J MOD PHYS A, V10, P1937, DOI 10.1142/S0217751X95000942
+   ARTZ S, 1995, J PHYS A-MATH GEN, V28, P5131, DOI 10.1088/0305-4470/28/18/006
+   Batchelor MT, 1996, J PHYS A-MATH GEN, V29, pL61, DOI 10.1088/0305-4470/29/4/001
+   BATCHELOR MT, 1995, PHYS REV LETT, V74, P2026, DOI 10.1103/PhysRevLett.74.2026
+   BATCHELOR MT, 1995, J PHYS A-MATH GEN, V28, pL421, DOI 10.1088/0305-4470/28/16/001
+   BATCHELOR MT, 1996, IN PRESS STATISTICAL
+   BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   BAZHANOV VV, 1987, COMMUN MATH PHYS, V113, P471, DOI 10.1007/BF01221256
+   BEHREND RE, HEPTH9507118
+   CHEREDNIK IV, 1984, THEOR MATH PHYS+, V61, P977, DOI 10.1007/BF01038545
+   DEVEGA HJ, 1993, J PHYS A-MATH GEN, V26, pL519, DOI 10.1088/0305-4470/26/12/007
+   DEVEGA HJ, 1994, PHYS LETT B, V332, P123, DOI 10.1016/0370-2693(94)90868-0
+   DEVEGA HJ, 1994, NUCL PHYS B, V417, P553, DOI 10.1016/0550-3213(94)90484-7
+   FAN H, 1995, J PHYS A-MATH GEN, V28, P4743, DOI 10.1088/0305-4470/28/17/010
+   FRING A, 1994, NUCL PHYS B, V419, P647, DOI 10.1016/0550-3213(94)90349-2
+   FRING A, 1994, NUCL PHYS B, V421, P159, DOI 10.1016/0550-3213(94)90229-1
+   GHOSHAL S, 1994, INT J MOD PHYS A, V9, P3841, DOI 10.1142/S0217751X94001552
+   JIMBO M, 1995, NUCL PHYS B, V441, P437, DOI 10.1016/0550-3213(95)00062-W
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JIMBO M, 1987, LETT MATH PHYS, V14, P123, DOI 10.1007/BF00420302
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   JIMBO M, 1995, NUCL PHYS B, V448, P429, DOI 10.1016/0550-3213(95)00218-H
+   KULISH P, HEPTH9507070
+   KUNIBA A, 1991, NUCL PHYS B, V355, P801, DOI 10.1016/0550-3213(91)90495-J
+   LECLAIR A, HEPTH9503227
+   MEZINCESCU L, 1991, INT J MOD PHYS A, V6, P5231, DOI 10.1142/S0217751X91002458
+   MEZINCESCU L, 1992, INT J MOD PHYS A, V7, P5657, DOI 10.1142/S0217751X9200257X
+   MEZINCESCU L, 1992, NUCL PHYS B, V372, P597, DOI 10.1016/0550-3213(92)90367-K
+   MEZINCESCU L, 1991, MOD PHYS LETT A, V6, P2497, DOI 10.1142/S0217732391002931
+   SKLYANIN EK, 1988, J PHYS A-MATH GEN, V21, P2375, DOI 10.1088/0305-4470/21/10/015
+   WARNAAR SO, 1992, PHYS REV LETT, V69, P710, DOI 10.1103/PhysRevLett.69.710
+   WARNAAR SO, 1993, INT J MOD PHYS B, V7, P3727, DOI 10.1142/S0217979293003474
+   YUNG CM, 1995, NUCL PHYS B, V453, P552, DOI 10.1016/0550-3213(95)00355-V
+   YUNG CM, 1995, PHYS LETT A, V198, P395, DOI 10.1016/0375-9601(95)00083-F
+   YUNG CM, 1995, NUCL PHYS B, V435, P430, DOI 10.1016/0550-3213(94)00448-N
+   Zhou YK, 1996, NUCL PHYS B, V458, P504, DOI 10.1016/0550-3213(95)00553-6
+   ZHOU YK, IN PRESS J PHYS A
+   ZHOU YK, 1996, IN PRESS STATISTICAL
+NR 40
+TC 34
+Z9 34
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD MAY 30
+PY 1996
+VL 376
+IS 4
+BP 266
+EP 274
+DI 10.1016/0370-2693(96)00319-X
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA UR276
+UT WOS:A1996UR27600003
+ER
+
+PT J
+AU Kuniba, A
+   Nakamura, S
+   Hirota, R
+AF Kuniba, A
+   Nakamura, S
+   Hirota, R
+TI Pfaffian and determinant solutions to a discretized Toda equation for
+   B-r, C-r and D-r
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID PARTIAL DIFFERENCE EQUATIONS; SOLITON-EQUATIONS; INVERSE SCATTERING;
+   TIME; INTEGRABILITY; LATTICES; ANALOG
+AB We consider a class of two-dimensional Toda equations on discrete spacetime. It has arisen as functional relations in a commuting family of transfer matrices in solvable lattice models associated with any classical simple Lie algebra X(r). For X(r) = B-r, C-r and D-r we present the solution in terms of Pfaffians and determinants. They may be viewed as Yangian analogues of the classical Jacobi-Trudi formula on Schur functions.
+C1 WASEDA UNIV,SCH SCI & ENGN,DEPT ELECT & COMMUN ENGN,TOKYO 169,JAPAN.
+   WASEDA UNIV,DEPT COMP & INFORMAT SCI,TOKYO 169,JAPAN.
+RP Kuniba, A (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR ABLOWITZ MJ, 1976, STUD APPL MATH, V55, P213
+   ABLOWITZ MJ, 1977, STUD APPL MATH, V57, P1
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   BOBENKO A, 1993, PHYS LETT A, V177, P399, DOI 10.1016/0375-9601(93)90965-3
+   CHARI V, 1991, J REINE ANGEW MATH, V417, P87
+   DATE E, 1982, J PHYS SOC JPN, V51, P4125, DOI 10.1143/JPSJ.51.4125
+   DATE E, 1983, J PHYS SOC JPN, V52, P766, DOI 10.1143/JPSJ.52.766
+   DATE E, 1982, J PHYS SOC JPN, V51, P4116, DOI 10.1143/JPSJ.51.4116
+   DATE E, 1983, J PHYS SOC JPN, V52, P388, DOI 10.1143/JPSJ.52.388
+   DATE E, 1983, J PHYS SOC JPN, V52, P761, DOI 10.1143/JPSJ.52.761
+   HIROTA R, 1978, J PHYS SOC JPN, V45, P321, DOI 10.1143/JPSJ.45.321
+   HIROTA R, 1987, J PHYS SOC JPN, V56, P4285, DOI 10.1143/JPSJ.56.4285
+   HIROTA R, 1981, J PHYS SOC JPN, V50, P3785, DOI 10.1143/JPSJ.50.3785
+   HIROTA R, 1977, J PHYS SOC JPN, V43, P1424, DOI 10.1143/JPSJ.43.1424
+   HITOTA R, 1992, NATO ASI SERIES
+   KRICHEVER IM, 1978, RUSS MATH SURV, V33, P255, DOI 10.1070/RM1978v033n04ABEH002503
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5267, DOI 10.1142/S0217751X94002120
+   KUNIBA A, 1995, IN PRESS J PHYS A
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P711, DOI 10.1088/0305-4470/28/3/024
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   LEZNOV AN, 1979, LETT MATH PHYS, V3, P489, DOI 10.1007/BF00401930
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   MIKHAILOV AV, 1981, COMMUN MATH PHYS, V79, P473, DOI 10.1007/BF01209308
+   SURIS YB, 1990, PHYS LETT A, V145, P113, DOI 10.1016/0375-9601(90)90202-Y
+   SURIS YB, 1991, PHYS LETT A, V156, P467, DOI 10.1016/0375-9601(91)90181-7
+   Toda M., 1988, THEORY NONLINEAR LAT
+   VOLKOV AY, 1992, THEOR MATH PHYS+, V92, P837, DOI 10.1007/BF01015552
+   WARD RS, 1995, PHYS LETT A, V199, P45, DOI 10.1016/0375-9601(95)00108-F
+   WIEGMANN PB, 1995, SAT M STATPH 19
+NR 29
+TC 23
+Z9 23
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD APR 21
+PY 1996
+VL 29
+IS 8
+BP 1759
+EP 1766
+DI 10.1088/0305-4470/29/8/022
+PG 8
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA UH360
+UT WOS:A1996UH36000022
+ER
+
+PT J
+AU KUNIBA, A
+   OHTA, Y
+   SUZUKI, J
+AF KUNIBA, A
+   OHTA, Y
+   SUZUKI, J
+TI QUANTUM JACOBI-TRUDI AND GIAMBELLI FORMULAS FOR U-Q(B-R((1))) FROM THE
+   ANALYTIC BETHE-ANSATZ
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID ALGEBRAS; MODELS
+AB The analytic Bethe ansatz is executed for a wide class of finite-dimensional U-q(B-r((1))) modules. They are labelled by skew-Young diagrams which, in general, contain a fragment corresponding to the spin representation. For the transfer matrix spectra of the relevant vertex models, we establish a number of formulae, which are U-q(B-r((1))) analogues of the classical ones due to Jacobi-Trudi and Giambelli on Schur functions. They yield a full solution to the previously proposed functional relation (T-system), which is a Toda equation on discrete spacetime.
+C1 HIROSHIMA UNIV,FAC ENGN,HIGASHIHIROSHIMA 724,JAPAN.
+RP KUNIBA, A (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   CHEREDNIK I, 1989, 17 P INT C DIFF GEOM
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   KASHIWARA M, 1991, RIMS767 PREPR
+   KOIKE K, 1987, J ALGEBRA, V107, P466, DOI 10.1016/0021-8693(87)90099-8
+   KUNIBA A, 1995, J PHYS A-MATH GEN, V28, P711, DOI 10.1088/0305-4470/28/3/024
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   KUNIBA A, 1995, IN PERSS COMMUN MATH
+   KUNIBA A, 1994, J PHYS A-MATH GEN, V27, pL113, DOI 10.1088/0305-4470/27/5/002
+   Macdonald I.G., 1995, SYMMETRIC FUNCTIONS
+   RESHETIKHIN NY, 1983, ZH EKSP TEOR FIZ, V57, P691
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1987, PHYS LETT B, V189, P125, DOI 10.1016/0370-2693(87)91282-2
+   RESHETIKHIN NY, 1985, THEOR MATH PHYS+, V63, P555, DOI 10.1007/BF01017501
+   SKLYANIN E, COMMUNICATION
+NR 15
+TC 38
+Z9 38
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD NOV 7
+PY 1995
+VL 28
+IS 21
+BP 6211
+EP 6226
+DI 10.1088/0305-4470/28/21/024
+PG 16
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA TE323
+UT WOS:A1995TE32300024
+ER
+
+PT J
+AU KUNIBA, A
+   SUZUKI, J
+AF KUNIBA, A
+   SUZUKI, J
+TI ANALYTIC BETHE-ANSATZ FOR FUNDAMENTAL REPRESENTATIONS OF YANGIANS
+SO COMMUNICATIONS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+ID CONFORMAL FIELD-THEORIES; MODELS; ALGEBRAS; SPECTRUM; MATRICES
+AB We study the analytic Bethe ansatz in solvable vertex models associated with the Yangian Y(X(r)) or its quantum affine analogue U-q(X(r)((1)))) for X(r) = B-r C-r and D-r. Eigenvalue formulas are proposed for the transfer matrices related to all the fundamental representations of Y(X(r)). Under the Bethe ansatz equation, we explicitly prove that they are pole-free, a crucial property in the ansatz. Conjectures are also given on higher representation cases by applying the T-system, the transfer matrix functional relations proposed recently. The eigenvalues are neatly described in terms of Yangian analogues of the semi-standard Young tableaux.
+RP KUNIBA, A (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1972, ANN PHYS-NEW YORK, V70, P193, DOI 10.1016/0003-4916(72)90335-1
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   Bethe H, 1931, Z PHYS, V71, P205, DOI 10.1007/BF01341708
+   CHARI V, 1991, J REINE ANGEW MATH, V417, P87
+   Drinfel'd V.G, 1985, DOKL AKAD NAUK SSSR, V32, P254
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   DRINFELD VG, 1986, ICM P, P798
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   KASHIWARA M, 1991, RIMS767 PREPR
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J PHYS A-MATH GEN, V20, P1565, DOI 10.1088/0305-4470/20/6/038
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   Kulish P., 1982, LECTURE NOTES PHYSIC, V151, P61
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5267, DOI 10.1142/S0217751X94002120
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   KUNIBA A, 1993, MOD PHYS LETT A, V8, P1649, DOI 10.1142/S0217732393001392
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   KUNIBA A, 1994, J PHYS A-MATH GEN, V27, pL113, DOI 10.1088/0305-4470/27/5/002
+   NAKASHIMA T, 1993, COMMUN MATH PHYS, V154, P215, DOI 10.1007/BF02096996
+   OGIEVETSKY E, 1986, PHYS LETT B, V168, P360, DOI 10.1016/0370-2693(86)91644-8
+   PAZ R, 1989, PHYS TODAY, V42, P88
+   RESHETIKHIN NY, 1983, ZH EKSP TEOR FIZ, V57, P691
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1990, COMMUN MATH PHYS, V134, P467
+   RESHETIKHIN NY, 1985, THEOR MATH PHYS+, V63, P555, DOI 10.1007/BF01017501
+   Sklyanin E. K., 1992, QUANTUM GROUP QUANTU
+   SKLYANIN EK, 1980, THEOR MATH PHYS, V40, P688
+   SUZUKI J, 1994, PHYS LETT A, V195, P190, DOI 10.1016/0375-9601(94)90151-1
+   YANG CN, 1969, J MATH PHYS, V10, P1115, DOI 10.1063/1.1664947
+NR 34
+TC 58
+Z9 58
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0010-3616
+J9 COMMUN MATH PHYS
+JI Commun. Math. Phys.
+PD OCT
+PY 1995
+VL 173
+IS 2
+BP 225
+EP 264
+DI 10.1007/BF02101234
+PG 40
+WC Physics, Mathematical
+SC Physics
+GA TC572
+UT WOS:A1995TC57200001
+ER
+
+PT J
+AU KUNIBA, A
+   SUZUKI, J
+AF KUNIBA, A
+   SUZUKI, J
+TI FUNCTIONAL RELATIONS AND ANALYTIC BETHE-ANSATZ FOR TWISTED QUANTUM
+   AFFINE ALGEBRAS
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID YANG-BAXTER EQUATION; FIELD-THEORIES; SYSTEM; THERMODYNAMICS; MODEL
+AB Functional relations are proposed for transfer matrices of solvable vertex models associated with the twisted quantum affine algebras U-q(X(n)((kappa))), where X(n)((kappa)) = A(n)((2)), D-n((2)), E(6)((2)) and D-4((3)). Their solutions are obtained for A(n)((2)) and conjectured for D-4((3)) in the dressed vacuum form of the analytic Bethe ansatz.
+C1 KYUSHU UNIV,DEPT MATH SCI,FUKUOKA 812,JAPAN.
+RP KUNIBA, A (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1982, J PHYS A-MATH GEN, V15, P897, DOI 10.1088/0305-4470/15/3/027
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   DRINFELD VG, 1987, P ICM BERKELEY
+   IZERGIN AG, 1981, COMMUN MATH PHYS, V79, P303, DOI 10.1007/BF01208496
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   KIRILLOV AN, 1987, J PHYS A-MATH GEN, V20, P1587, DOI 10.1088/0305-4470/20/6/039
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   KULISH PP, 1982, SPRINGER LECTURE NOT, V151
+   KULISH PP, 1981, LETT MATH PHYS, V5, P393, DOI 10.1007/BF02285311
+   KUNIBA A, 1993, HUTP93A022 PREPR
+   KUNIBA A, IN PRESS COMMUN MATH
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   KUNIBA A, 1993, HUTP93A023 PREPR
+   KUNIBA A, IN PRESS INT J MOD A
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   KUNIBA A, 1991, NUCL PHYS B, V3555, P801
+   RESHETIKHIN NY, 1983, ZH EKSP TEOR FIZ, V57, P691
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1987, PHYS LETT B, V189, P125, DOI 10.1016/0370-2693(87)91282-2
+   RESHETIKHIN NYU, 1983, LETT MATH PHYS, V7, P205, DOI 10.1007/BF00400435
+NR 25
+TC 26
+Z9 26
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD FEB 7
+PY 1995
+VL 28
+IS 3
+BP 711
+EP 722
+DI 10.1088/0305-4470/28/3/024
+PG 12
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA QG191
+UT WOS:A1995QG19100024
+ER
+
+PT J
+AU KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+AF KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+TI FUNCTIONAL RELATIONS IN SOLVABLE LATTICE MODELS .1. FUNCTIONAL RELATIONS
+   AND REPRESENTATION-THEORY
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS A
+LA English
+DT Article
+ID THERMODYNAMIC BETHE ANSATZ; CHIRAL POTTS-MODEL; ELASTIC-SCATTERING
+   THEORIES; CONFORMAL FIELD-THEORIES; QUANTUM AFFINE ALGEBRAS; YANG-BAXTER
+   EQUATION; WZW FUSION RULES; 2 DIMENSIONS; TRANSFER-MATRIX; HARD HEXAGONS
+AB We study a system of functional relations among a commuting family of row-to-row transfer matrices in solvable lattice models.  The role of exact sequences of the finite-dimensional quantum group modules is clarified.  We find a curious phenomenon where the solutions of those functional relations also solve the so-called thermodynamic Bethe ansatz equations in the high temperature limit for sl(r + 1) models.  Based on this observation, we propose possible functional relations for models associated with all the simple Lie algebras.  We show that these functional relations certainly fulfill strong constraints coming from the fusion procedure analysis.  The application to the calculations of physical quantities will be presented in the subsequent paper.
+C1 KYUSHU UNIV,DEPT MATH,FUKUOKA 812,JAPAN.
+   HARVARD UNIV,LYMAN LAB PHYS,CAMBRIDGE,MA 02138.
+   NAGOYA UNIV,DEPT MATH,NAGOYA,AICHI 464,JAPAN.
+RP KUNIBA, A (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR AKIN K, 1988, J ALGEBRA, V117, P494, DOI 10.1016/0021-8693(88)90122-6
+   ALBERTINI G, 1989, PHYS LETT A, V135, P159, DOI 10.1016/0375-9601(89)90254-5
+   AUYANG H, 1987, PHYS LETT A, V123, P219, DOI 10.1016/0375-9601(87)90065-X
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1983, J PHYS A-MATH GEN, V16, P2239, DOI 10.1088/0305-4470/16/10/022
+   BAXTER RJ, 1982, J PHYS A-MATH GEN, V15, P897, DOI 10.1088/0305-4470/15/3/027
+   BAXTER RJ, 1990, PHYS LETT A, V146, P110, DOI 10.1016/0375-9601(90)90646-6
+   BAXTER RJ, 1990, INT J M P B, V4, P803, DOI 10.1142/S0217979290000395
+   BAXTER RJ, 1988, PHYS LETT A, V128, P138, DOI 10.1016/0375-9601(88)90896-1
+   BAZHANOV VV, 1989, INT J MOD PHYS A, V4, P115, DOI 10.1142/S0217751X89000042
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   BELAVIN AA, 1983, FUNCT ANAL APPL, V16, P159, DOI 10.1007/BF01081585
+   Chari V., 1990, ENSEIGNEMENT MATH, V36, P267
+   CHARI V, 1991, COMMUN MATH PHYS, V142, P261, DOI 10.1007/BF02102063
+   CHARI V, 1991, J REINE ANGEW MATH, V417, P87
+   CHEREDNIK I, 1989, 17 P INT C DIFF GEOM
+   Cherednik I., 1986, SOV MATH DOKL, V287, p[1076, 507]
+   CHEREDNIK IV, 1986, FUNCT ANAL APPL+, V20, P76, DOI 10.1007/BF01077327
+   DASMAHAPATRA S, HEPTH9305024 PREPR
+   DATE E, 1993, COMMUN MATH PHYS, V155, P47, DOI 10.1007/BF02100049
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   Drinfel'd V.G, 1985, DOKL AKAD NAUK SSSR, V32, P254
+   Drinfeld V.G., 1988, SOV MATH DOKL, V36, P212
+   DRINFELD VG, 1987, P INT C MATH BERKELE
+   FRENKEL IB, 1992, COMMUN MATH PHYS, V146, P1, DOI 10.1007/BF02099206
+   FUCHS J, 1990, NUCL PHYS B, V346, P632, DOI 10.1016/0550-3213(90)90296-P
+   FULTON W, 1990, REPRESENTATION THEOR
+   FURLAN P, 1990, NUCL PHYS B, V343, P205, DOI 10.1016/0550-3213(90)90601-9
+   GOODMAN FM, 1991, PHYS LETT B, V262, P259, DOI 10.1016/0370-2693(91)91563-B
+   Jimbo M., 1990, YANG BAXTER EQUATION
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   KELLER G, 1991, LETT MATH PHYS, V21, P273, DOI 10.1007/BF00398325
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J PHYS A-MATH GEN, V20, P1587, DOI 10.1088/0305-4470/20/6/039
+   KIRILLOV AN, 1984, LOMI, V134, P169
+   KLASSEN TR, 1992, NUCL PHYS B, V370, P511, DOI 10.1016/0550-3213(92)90422-8
+   KLASSEN TR, 1990, NUCL PHYS B, V338, P485, DOI 10.1016/0550-3213(90)90643-R
+   KLASSEN TR, 1991, NUCL PHYS B, V350, P635, DOI 10.1016/0550-3213(91)90159-U
+   KLUMPER A, 1991, J STAT PHYS, V64, P13, DOI 10.1007/BF01057867
+   KLUMPER A, 1989, Z PHYS B CON MAT, V76, P247, DOI 10.1007/BF01312692
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   KLUMPER A, 1991, PHYS REV LETT, V66, P974
+   KNIZHNIK VG, 1984, NUCL PHYS B, V247, P83, DOI 10.1016/0550-3213(84)90374-2
+   Kulish P.P., 1982, J SOVIET MATH, V19, P1596, DOI 10.1007/BF01091463
+   KULISH PP, 1982, LECTURE NOTES PHYSIC, V151
+   KULISH PP, 1981, LETT MATH PHYS, V5, P393, DOI 10.1007/BF02285311
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5267, DOI 10.1142/S0217751X94002120
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   KUNIBA A, 1993, 21 P DIFF GEOM METH
+   Lusztig G., 1989, CONT MATH, P59
+   Macdonald I. G., 1979, SYMMETRIC FUNCTIONS
+   MCGUIRE JB, 1964, J MATH PHYS, V5, P622, DOI 10.1063/1.1704156
+   OGIEVETSKY EI, 1986, J PHYS G NUCL PARTIC, V12, pL105, DOI 10.1088/0305-4616/12/4/001
+   OGIEVETSKY E, 1987, NUCL PHYS B, V280, P45, DOI 10.1016/0550-3213(87)90138-6
+   OGIEVETSKY EI, 1986, PHYS LETT B, V168, P369
+   PASQUIER V, 1988, COMMUN MATH PHYS, V118, P335
+   PASQUIER V, 1990, NUCL PHYS B, V330, P330
+   PEARCE PA, 1987, PHYS REV LETT, V58, P1502, DOI 10.1103/PhysRevLett.58.1502
+   RAVANINI F, 1993, INT J MOD PHYS A, V8, P1707, DOI 10.1142/S0217751X93000709
+   RAVANINI F, 1992, PHYS LETT B, V293, P361, DOI 10.1016/0370-2693(92)90896-C
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1988, LOMI, V169, P122
+   RESHETIKHIN NYU, 1983, LETT MATH PHYS, V7, P205, DOI 10.1007/BF00400435
+   ROCHE P, 1989, LETT MATH PHYS, V17, P295, DOI 10.1007/BF00399753
+   Sklyanin E. K., 1992, QUANTUM GROUP QUANTU
+   Tarasov V., 1984, THEOR MATH PHYS, V61, P163
+   Tarasov V., 1985, THEOR MATH PHYS, V63, P175
+   WALTON MA, 1990, PHYS LETT B, V241, P365, DOI 10.1016/0370-2693(90)91657-W
+   YANG CN, 1969, J MATH PHYS, V10, P1115, DOI 10.1063/1.1664947
+   YANG CN, 1967, PHYS REV LETT, V19, P1312, DOI 10.1103/PhysRevLett.19.1312
+   ZAMOLODCHIKOV AB, 1990, NUCL PHYS B, V342, P695, DOI 10.1016/0550-3213(90)90333-9
+   ZAMOLODCHIKOV AB, 1991, NUCL PHYS B, V358, P497, DOI 10.1016/0550-3213(91)90422-T
+   ZAMOLODCHIKOV AB, 1991, PHYS LETT B, V253, P391, DOI 10.1016/0370-2693(91)91737-G
+   ZELEVINSKII AV, 1987, FUNCT ANAL APPL+, V21, P152, DOI 10.1007/BF01078032
+   HUTP93A023 PREPR
+NR 79
+TC 162
+Z9 162
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA JOURNAL DEPT PO BOX 128 FARRER ROAD, SINGAPORE 9128, SINGAPORE
+SN 0217-751X
+J9 INT J MOD PHYS A
+JI Int. J. Mod. Phys. A
+PD DEC 10
+PY 1994
+VL 9
+IS 30
+BP 5215
+EP 5266
+DI 10.1142/S0217751X94002119
+PG 52
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA PX408
+UT WOS:A1994PX40800002
+ER
+
+PT J
+AU KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+AF KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+TI FUNCTIONAL RELATIONS IN SOLVABLE LATTICE MODELS .2. APPLICATIONS
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS A
+LA English
+DT Article
+ID CONFORMAL FIELD-THEORIES; BETHE-ANSATZ EQUATIONS; LOW-LYING EXCITATIONS;
+   ON-SOLID MODELS; LIE-ALGEBRAS; CORRELATION LENGTH; HEISENBERG-MODEL;
+   ARBITRARY SPIN; HARD HEXAGONS; 2 DIMENSIONS
+AB Reported are two applications of the functional relations (T system) among a commuting family of row-to-row transfer matrices proposed in the previous paper (Part I).  For a general simple Lie algebra X(r), we determine the correlation lengths of the associated massive vertex models in the antiferroelectric regime and central charges of the RSOS models in two critical regimes.  The results reproduce known values or even generalize them, demonstrating the efficiency of the T system.
+C1 KYUSHU UNIV,DEPT MATH,FUKUOKA 812,JAPAN.
+   HARVARD UNIV,LYMAN LAB PHYS,CAMBRIDGE,MA 02138.
+RP KUNIBA, A (reprint author), UNIV TOKYO,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR AFFLECK I, 1986, PHYS REV LETT, V56, P746, DOI 10.1103/PhysRevLett.56.746
+   ALCARAZ FC, 1988, J PHYS A-MATH GEN, V21, P4397, DOI 10.1088/0305-4470/21/23/021
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   AVDEEV LV, 1985, NUCL PHYS B, V257, P253, DOI 10.1016/0550-3213(85)90345-1
+   BABELON O, 1983, NUCL PHYS B, V220, P13, DOI 10.1016/0550-3213(83)90131-1
+   BABUJIAN M, 1983, NUCL PHYS B, V125, P317
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1982, J PHYS A-MATH GEN, V15, P897, DOI 10.1088/0305-4470/15/3/027
+   BAXTER RJ, 1983, J PHYS A, V15, P2239
+   BAZHANOV VV, 1989, INT J MOD PHYS A, V4, P115, DOI 10.1142/S0217751X89000042
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   BLOTE HWJ, 1986, PHYS REV LETT, V56, P742, DOI 10.1103/PhysRevLett.56.742
+   DASMAHAPATRA S, 1993, INT J MOD PHYS B, V7, P3617, DOI 10.1142/S0217979293003437
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   Drinfel'd V.G, 1985, DOKL AKAD NAUK SSSR, V32, P254
+   DRINFELD VG, 1987, ICM P BERKELEY
+   DUPONT JL, 1994, COMMUN MATH PHYS, V161, P265, DOI 10.1007/BF02099777
+   FRENKEL E, 1993, INT MATH RES NOTICES, V2, P53
+   FRENKEL E, CRYSTAL BASES DILOGA
+   GAUDIN M, 1971, PHYS REV LETT, V26, P1301, DOI 10.1103/PhysRevLett.26.1301
+   GEPNER D, 1987, NUCL PHYS B, V290, P10, DOI 10.1016/0550-3213(87)90176-3
+   GODDARD P, 1985, PHYS LETT B, V152, P88
+   Jimbo M., 1985, LETT MATH PHYS, V10, P537
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JOHNSON JD, 1973, PHYS REV A, V8, P2526, DOI 10.1103/PhysRevA.8.2526
+   KAC VG, 1984, ADV MATH, V53, P125
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J PHYS A-MATH GEN, V20, P1587, DOI 10.1088/0305-4470/20/6/039
+   KLUMPER A, 1991, J STAT PHYS, V64, P13, DOI 10.1007/BF01057867
+   KLUMPER A, 1989, Z PHYS B CON MAT, V76, P247, DOI 10.1007/BF01312692
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   KLUMPER A, 1991, PHYS REV LETT, V66, P974
+   KLUMPER A, 1991, J PHYS A-MATH GEN, V24, P3111, DOI 10.1088/0305-4470/24/13/025
+   KUNIBA A, 1993, NUCL PHYS B, V389, P209, DOI 10.1016/0550-3213(93)90291-V
+   KUNIBA A, 1991, NUCL PHYS B, V355, P801, DOI 10.1016/0550-3213(91)90495-J
+   KUNIBA A, 1991, MODERN QUANTUM FIELD
+   KUNIBA A, 1992, MOD PHYS LETT A, V7, P3487, DOI 10.1142/S0217732392002895
+   KUNIBA A, 1993, 21 P DIFF GEOM METH
+   KUNIBA A, 1991, PHYS LETT A, V166, P216
+   KUNIBA A, 1993, MOD PHYS LETT A, V8, P1649, DOI 10.1142/S0217732393001392
+   KUNIBA A, 1994, INT J MOD PHYS A, V9, P5215, DOI 10.1142/S0217751X94002119
+   NAHN W, 1993, MOD PHYS LETT A, V8, P1835
+   OGIEVETSKY E, 1987, NUCL PHYS B, V280, P45, DOI 10.1016/0550-3213(87)90138-6
+   PEARCE PA, 1987, PHYS REV LETT, V58, P1502, DOI 10.1103/PhysRevLett.58.1502
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1987, PHYS LETT B, V189, P125, DOI 10.1016/0370-2693(87)91282-2
+   SUZUKI J, 1989, J PHYS SOC JPN, V58, P3111, DOI 10.1143/JPSJ.58.3111
+   TAKAHASH.M, 1972, PROG THEOR PHYS, V48, P2187, DOI 10.1143/PTP.48.2187
+   TAKAHASH.M, 1971, PHYS LETT A, VA 36, P325, DOI 10.1016/0375-9601(71)90531-7
+   TAKHTAJAN LA, 1982, PHYS LETT A, V87, P479, DOI 10.1016/0375-9601(82)90764-2
+   WARNAAR SO, 1992, PHYS REV LETT, V69, P710, DOI 10.1103/PhysRevLett.69.710
+   YANG CN, 1969, J MATH PHYS, V10, P1115, DOI 10.1063/1.1664947
+NR 55
+TC 51
+Z9 51
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA JOURNAL DEPT PO BOX 128 FARRER ROAD, SINGAPORE 9128, SINGAPORE
+SN 0217-751X
+J9 INT J MOD PHYS A
+JI Int. J. Mod. Phys. A
+PD DEC 10
+PY 1994
+VL 9
+IS 30
+BP 5267
+EP 5312
+DI 10.1142/S0217751X94002120
+PG 46
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA PX408
+UT WOS:A1994PX40800003
+ER
+
+PT J
+AU KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+AF KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+TI CHARACTERS IN CONFORMAL FIELD-THEORIES FROM THERMODYNAMIC BETHE-ANSATZ
+SO MODERN PHYSICS LETTERS A
+LA English
+DT Article
+AB We propose a new q-series formula for a character of parafermion conformal field theories associated with arbitrary non-twisted affine Lie algebra g. We show its natural origin from a thermodynamic Bethe Ansatz analysis including chemical potentials.
+RP KUNIBA, A (reprint author), KYUSHU UNIV,DEPT MATH,FUKUOKA 812,JAPAN.
+NR 0
+TC 37
+Z9 37
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA JOURNAL DEPT PO BOX 128 FARRER ROAD, SINGAPORE 9128, SINGAPORE
+SN 0217-7323
+J9 MOD PHYS LETT A
+JI Mod. Phys. Lett. A
+PD JUN 14
+PY 1993
+VL 8
+IS 18
+BP 1649
+EP 1659
+DI 10.1142/S0217732393001392
+PG 11
+WC Physics, Nuclear; Physics, Particles & Fields; Physics, Mathematical
+SC Physics
+GA LR065
+UT WOS:A1993LR06500002
+ER
+
+PT J
+AU KUNIBA, A
+AF KUNIBA, A
+TI THERMODYNAMICS OF THE U(Q)(XR(1)) BETHE ANSATZ SYSTEM WITH Q A ROOT OF
+   UNITY
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+ID SOLVABLE LATTICE MODELS; FINITE-SIZE CORRECTIONS; ON-SOLID MODELS;
+   TWISTED BOUNDARY-CONDITIONS; ELASTIC-SCATTERING THEORIES; CONFORMAL
+   FIELD-THEORY; YANG-BAXTER EQUATION; 2 DIMENSIONS; HEISENBERG CHAIN;
+   LIE-ALGEBRAS
+AB The Bethe ansatz equations connected to the U(q)(X(r)(1)) algebra are studied at q = exp(2 pii/(l + g)), with l being a level and g the dual Coxeter number.  Based on a ''string hypothesis'' in the thermodynamic limit, the central charges relevant to the X(r)(1) restricted solid-on-solid models and their fusion hierarchies are determined in two critical regimes. The calculation leads naturally to a generalized conjecture on the Rogers dilogarithmic function identity for an arbitrary pair (X(r)(1), l), which includes the earlier one for the simply-laced cases X(r)(1) = A(r)(1), D(r)(1) and E6,7,8(1).
+C1 KYUSHU UNIV,DEPT MATH,FUKUOKA 812,JAPAN.
+RP KUNIBA, A (reprint author), AUSTRALIAN NATL UNIV,INST ADV STUDIES,GPO BOX 4,CANBERRA,ACT 2601,AUSTRALIA.
+CR AFFLECK I, 1986, PHYS REV LETT, V56, P746, DOI 10.1103/PhysRevLett.56.746
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   AOMOTO K, 1991, SOLUTION YANGBAXTER
+   BABUJIAN HM, 1983, NUCL PHYS B, V215, P317, DOI 10.1016/0550-3213(83)90668-5
+   BATCHELOR MT, 1989, PHYS REV B, V39, P2391, DOI 10.1103/PhysRevB.39.2391
+   BAZHANOV VV, 1989, INT J MOD PHYS A, V4, P115, DOI 10.1142/S0217751X89000042
+   BAZHANOV VV, 1990, PROG THEOR PHYS SUPP, V102, P301, DOI 10.1143/PTPS.102.301
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   BELAVIN AA, 1984, NUCL PHYS B, V241, P333, DOI 10.1016/0550-3213(84)90052-X
+   BLOTE HWJ, 1986, PHYS REV LETT, V56, P742, DOI 10.1103/PhysRevLett.56.742
+   DATE E, 1988, UNPUB TANIGUCHI C IN
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   DEVEGA HJ, 1988, J PHYS A-MATH GEN, V21, pL1089
+   DEVEGA HJ, 1987, NUCL PHYS B, V285, P619, DOI 10.1016/0550-3213(87)90358-0
+   DRINFELD VG, 1987, 1986 P INT C MATH BE, P798
+   ECKLE HP, 1991, J PHYS A-MATH GEN, V24, P191, DOI 10.1088/0305-4470/24/1/027
+   FRENKEL IB, 1991, QUANTUM AFFINE ALGEB
+   GODDARD P, 1985, PHYS LETT B, V152, P88
+   GOODMAN FM, 1991, PHYS LETT B, V262, P259, DOI 10.1016/0370-2693(91)91563-B
+   HAMER CJ, 1987, J PHYS A-MATH GEN, V20, P5677, DOI 10.1088/0305-4470/20/16/040
+   HAMER CJ, 1986, J PHYS A-MATH GEN, V19, P3335, DOI 10.1088/0305-4470/19/16/030
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1988, NUCL PHYS B, V300, P74, DOI 10.1016/0550-3213(88)90587-1
+   JIMBO M, 1991, COMMUN MATH PHYS, V136, P543, DOI 10.1007/BF02099073
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   Kac V. G., 1990, INFINITE DIMENSIONAL
+   Kirillov A N, 1990, J SOVIET MATH, V52, P3156, DOI 10.1007/BF02342935
+   Kirillov A. N., 1989, J SOVIET MATH, V47, P2450, DOI 10.1007/BF01840426
+   KIRILLOV AN, 1987, J PHYS A-MATH GEN, V20, P1587, DOI 10.1088/0305-4470/20/6/039
+   KIRILLOV AN, COMMUNICATION
+   KLASSEN TR, 1990, NUCL PHYS B, V338, P485, DOI 10.1016/0550-3213(90)90643-R
+   KLASSEN TR, 1991, NUCL PHYS B, V350, P635, DOI 10.1016/0550-3213(91)90159-U
+   KLUMPER A, 1992, PHYSICA A, V183, P304, DOI 10.1016/0378-4371(92)90149-K
+   KLUMPER A, 1991, J PHYS A-MATH GEN, V24, P3111, DOI 10.1088/0305-4470/24/13/025
+   KNIZHNIK VG, 1984, NUCL PHYS B, V247, P83, DOI 10.1016/0550-3213(84)90374-2
+   KULISH PP, 1981, LETT MATH PHYS, V5, P393, DOI 10.1007/BF02285311
+   KUNIBA A, 1991, PHYS LETT A, V160, P216, DOI 10.1016/0375-9601(91)90765-Z
+   KUNIBA A, 1990, J PHYS A, V23, P134
+   KUNIBA A, 1991, NUCL PHYS B, V355, P801, DOI 10.1016/0550-3213(91)90495-J
+   KUNIBA A, 1991, MODERN QUANTUM FIELD
+   KUNIBA A, 1990, NUMATH005 NAG U PREP
+   KUNIBA A, 1991, NUCL PHYS B, V356, P750, DOI 10.1016/0550-3213(91)90385-B
+   Lewin L., 1958, DILOGARITHMS ASS FUN
+   MARTINS MJ, 1990, PHYS LETT B, V240, P404
+   NAKANISHI T, 1990, NUCL PHYS B, V334, P745, DOI 10.1016/0550-3213(90)90320-D
+   OKADO M, 1990, COMMUN MATH PHYS, V134, P467, DOI 10.1007/BF02098442
+   PASQUIER V, 1990, NUCL PHYS B, V330, P523, DOI 10.1016/0550-3213(90)90122-T
+   PASQUIER V, 1988, COMMUN MATH PHYS, V118, P355, DOI 10.1007/BF01466721
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1987, PHYS LETT B, V189, P125, DOI 10.1016/0370-2693(87)91282-2
+   RIGGS H, 1989, NUCL PHYS B, V326, P673, DOI 10.1016/0550-3213(89)90549-X
+   SUZUKI J, 1988, J PHYS SOC JPN, V57, P2966, DOI 10.1143/JPSJ.57.2966
+   SUZUKI J, 1988, J PHYS A-MATH GEN, V21, pL1175
+   Takhtajan L.A., 1984, J SOVIET MATH, V109, p[134, 241]
+   TSVELICK AM, 1983, ADV PHYS, V32, P453, DOI 10.1080/00018738300101581
+   WITTEN E, 1984, COMMUN MATH PHYS, V92, P455, DOI 10.1007/BF01215276
+   WOYNAROVICH F, 1987, J PHYS A-MATH GEN, V20, pL97, DOI 10.1088/0305-4470/20/2/010
+   YANG CN, 1969, J MATH PHYS, V10, P1115, DOI 10.1063/1.1664947
+   ZAMOLODCHIKOV AB, 1989, INT J MOD PHYS A, V4, P4235, DOI 10.1142/S0217751X8900176X
+   ZAMOLODCHIKOV AB, 1990, NUCL PHYS B, V342, P695, DOI 10.1016/0550-3213(90)90333-9
+   ZAMOLODCHIKOV AB, 1991, NUCL PHYS B, V358, P497, DOI 10.1016/0550-3213(91)90422-T
+NR 66
+TC 48
+Z9 48
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD JAN 4
+PY 1993
+VL 389
+IS 1
+BP 209
+EP 244
+DI 10.1016/0550-3213(93)90291-V
+PG 36
+WC Physics, Particles & Fields
+SC Physics
+GA KK816
+UT WOS:A1993KK81600009
+ER
+
+PT J
+AU KUNIBA, A
+   NAKANISHI, T
+AF KUNIBA, A
+   NAKANISHI, T
+TI SPECTRA IN CONFORMAL FIELD-THEORIES FROM THE ROGERS DILOGARITHM
+SO MODERN PHYSICS LETTERS A
+LA English
+DT Article
+AB We propose a system of functional relations having a universal form connected to the U(q)(X((r)(1)) Bethe ansatz equation. Based on the analysis of it, we conjecture a new sum formula for the Rogers dilogarithm function in terms of the scaling dimensions of the X(r)(1) parafermion conformal field theory.
+RP KUNIBA, A (reprint author), KYUSHU UNIV,DEPT MATH,FUKUOKA 812,JAPAN.
+NR 0
+TC 50
+Z9 50
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA JOURNAL DEPT PO BOX 128 FARRER ROAD, SINGAPORE 9128, SINGAPORE
+SN 0217-7323
+J9 MOD PHYS LETT A
+JI Mod. Phys. Lett. A
+PD DEC 7
+PY 1992
+VL 7
+IS 37
+BP 3487
+EP 3494
+DI 10.1142/S0217732392002895
+PG 8
+WC Physics, Nuclear; Physics, Particles & Fields; Physics, Mathematical
+SC Physics
+GA KC521
+UT WOS:A1992KC52100006
+ER
+
+PT J
+AU KUNIBA, A
+   NAKANISHI, T
+AF KUNIBA, A
+   NAKANISHI, T
+TI FUSION RSOS MODELS AND RATIONAL COSET MODELS
+SO LECTURE NOTES IN MATHEMATICS
+LA English
+DT Article
+ID SOLVABLE LATTICE MODELS; CONFORMAL FIELD-THEORY; 8-VERTEX SOS MODEL;
+   LIE-ALGEBRAS; IDENTITIES; REPRESENTATION; PROBABILITIES; AN(1)
+AB A series of conjectures is presented for a family of fusion sl(n)l RSOS models labeled by rank n, level l, degree N of the fusion and primitive roots of unity e2piit/n+l. Based on it, we introduce rational coset models which are the universality classes of their critical behaviors.
+C1 NAGOYA UNIV, DEPT MATH, CHIKUSA KU, NAGOYA, AICHI 464, JAPAN.
+   AUSTRALIAN NATL UNIV, IAS, SCH MATH SCI, CANBERRA, ACT 2600, AUSTRALIA.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   BAGGER J, 1988, PHYS REV LETT, V60, P389, DOI 10.1103/PhysRevLett.60.389
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAZHANOV VV, 1989, INT J MOD PHYS A, V4, P115, DOI 10.1142/S0217751X89000042
+   DATE E, 1990, PHYSICS MATH STRINGS, P185
+   DATE E, 1989, LETT MATH PHYS, V17, P51, DOI 10.1007/BF00420014
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   DATE E, 1990, IN PRESS P INT C MOD
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   DIFRANCESCO P, 1988, NUCL PHYS B, V300, P393, DOI 10.1016/0550-3213(88)90605-0
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   GOODMAN FM, 1990, FUSION ALGEBRAS INTE
+   HAMADA K, 1990, NUCL PHYS B, V334
+   Jimbo M., 1987, Modern Physics Letters B, V1, DOI 10.1142/S0217984987000119
+   JIMBO M, 1988, NUCL PHYS B, V300, P74, DOI 10.1016/0550-3213(88)90587-1
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JIMBO M, 1990, COMBINATORICS REPRES
+   KAC VG, 1984, ADV MATH, V53, P125
+   KAC VG, 1989, INFIN DIMENS ANAL QU, P138
+   KASTOR D, 1988, PHYS LETT B, V200, P434, DOI 10.1016/0370-2693(88)90148-7
+   KUNIBA A, IN PRESS NUCL PHYS B
+   KUNIBA A, 1990, IN PRESS P IT C MODE
+   NAKANISHI T, 1990, NUCL PHYS B, V334, P745, DOI 10.1016/0550-3213(90)90320-D
+   PASQUIER V, 1988, NUCL PHYS B, V295, P491, DOI 10.1016/0550-3213(88)90532-9
+   PASQUIER V, 1987, NUCL PHYS B, V285, P162, DOI 10.1016/0550-3213(87)90332-4
+   RAVANINI F, 1988, MOD PHYS LETT A, V3, P271, DOI 10.1142/S0217732388000325
+   RIGGS H, 1989, NUCL PHYS B, V326, P673, DOI 10.1016/0550-3213(89)90549-X
+   Tsuchiya Akihiro, 1989, ADV STUD PURE MATH, V19, P459
+   VERLINDE E, 1988, NUCL PHYS B, V300, P360, DOI 10.1016/0550-3213(88)90603-7
+NR 32
+TC 0
+Z9 0
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0075-8434
+J9 LECT NOTES MATH
+JI Lect. Notes Math.
+PY 1992
+VL 1510
+BP 302
+EP 311
+PG 10
+WC Mathematics
+SC Mathematics
+GA KR017
+UT WOS:A1992KR01700024
+ER
+
+PT J
+AU KUNIBA, A
+   SUZUKI, J
+AF KUNIBA, A
+   SUZUKI, J
+TI EXACTLY SOLVABLE G2(1) SOLID-ON-SOLID MODELS
+SO PHYSICS LETTERS A
+LA English
+DT Article
+ID 8-VERTEX SOS MODEL; LATTICE MODELS; LIE-ALGEBRAS; IDENTITIES
+AB We construct a new solvable solid-on-solid model associated with G2(1), an affine Lie algebra of exceptional type. The Boltzmann weights are parametrized with a trigonometric function of the spectra parameter so as to satisfy the star-triangle relation. Based on numerical tests, we also conjecture an elliptic solution.
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+RP KUNIBA, A (reprint author), AUSTRALIAN NATL UNIV,INST ADV STUDIES,SCH MATH SCI,GPO BOX 4,CANBERRA,ACT 2601,AUSTRALIA.
+CR ALTSCHULER D, 1990, SPHT90077 SACL PREPR
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   DRINFELD VG, 1987, 1986 P INT C MATH BE, P798
+   FADDEEV LD, 1989, ALGEBRAIC ANAL, P129
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   KAC VG, 1984, ADV MATH, V53, P125
+   KUNIBA A, 1991, NUCL PHYS B, V355, P801, DOI 10.1016/0550-3213(91)90495-J
+   KUNIBA A, 1990, J PHYS A-MATH GEN, V23, P1349, DOI 10.1088/0305-4470/23/8/011
+   KUNIBA A, 1990, NUMATH005 NAG U PREP
+   KUNIBA A, 1991, NUCL PHYS B, V356, P750, DOI 10.1016/0550-3213(91)90385-B
+   NAKANISHI T, 1990, NUCL PHYS B, V334, P745, DOI 10.1016/0550-3213(90)90320-D
+   OGIEVETSKY EI, 1986, J PHYS G NUCL PARTIC, V12, pL105, DOI 10.1088/0305-4616/12/4/001
+   PASQUIER V, 1988, COMMUN MATH PHYS, V118, P355, DOI 10.1007/BF01466721
+   Reshetikhin N.Y., QUANTIZED UNIVERSAL
+   RIGGS H, 1989, NUCL PHYS B, V326, P673, DOI 10.1016/0550-3213(89)90549-X
+NR 19
+TC 6
+Z9 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD NOV 18
+PY 1991
+VL 160
+IS 3
+BP 216
+EP 222
+DI 10.1016/0375-9601(91)90765-Z
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA GR803
+UT WOS:A1991GR80300003
+ER
+
+PT J
+AU KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+AF KUNIBA, A
+   NAKANISHI, T
+   SUZUKI, J
+TI FERRO-MAGNETIZATIONS AND ANTIFERRO-MAGNETIZATIONS IN RSOS MODELS
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+ID CONFORMAL FIELD-THEORIES; 8-VERTEX SOS MODEL; 2 DIMENSIONS; S-MATRICES;
+   ALGEBRAS; IDENTITIES; INTEGRALS; SYMMETRY; MOTION
+AB We study a class of restricted solid-on-solid (RSOS) models related to the quantum group U(q)(sl(n)) with q a general primitive root of unity.  Physical regimes of the models enjoy intriguing equivalence properties under the interchange of the rank n and the relevant level of the affine Lie algebra A(n-1)(1) (level-rank duality) and also the q- and q-1-deformations (q +/- 1 duality).  By using these we give a classification scheme for ferromagnetic and antiferromagnetic orderings at low temperature.  We also propose that the level-rank duality is inherited in rational Toda field theories with imaginary coupling constants.  This explains the deficiency structure of the conserved currents in a series of deformed non-unitary conformal field theories.
+C1 KYUSHU UNIV,FAC SCI,DEPT MATH,FUKUOKA 812,JAPAN.
+   UNIV TOKYO,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR ALVAREZGAUME L, 1990, PHYSICS MATH STRINGS
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAZHANOV VV, 1990, J PHYS A-MATH GEN, V23, P1477, DOI 10.1088/0305-4470/23/9/012
+   CARDY JL, 1989, PHYS LETT B, V225, P275, DOI 10.1016/0370-2693(89)90818-6
+   DASHEN RF, 1975, PHYS REV D, V11, P3424, DOI 10.1103/PhysRevD.11.3424
+   EGUCHI T, 1989, PHYS LETT B, V224, P373, DOI 10.1016/0370-2693(89)91463-9
+   EGUCHI T, 1990, PHYS LETT B, V235, P282, DOI 10.1016/0370-2693(90)91964-D
+   FATEEV VA, 1987, NUCL PHYS B, V280, P644, DOI 10.1016/0550-3213(87)90166-0
+   FATEEV VA, 1988, INT J MOD PHYS A, V3, P507, DOI 10.1142/S0217751X88000205
+   FATEEV VA, 1990, PHYSICS MATH STRINGS
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   FREUND PGO, 1989, PHYS LETT B, V229, P243, DOI 10.1016/0370-2693(89)91165-9
+   GODDARD P, 1986, COMMUN MATH PHYS, V103, P105, DOI 10.1007/BF01464283
+   GOODMAN FM, 1990, ADV MATH, V82, P244, DOI 10.1016/0001-8708(90)90090-A
+   HENKEL M, 1990, J PHYS A, V23, P253
+   HOLLOWOOD TJ, 1989, PHYS LETT B, V226, P73, DOI 10.1016/0370-2693(89)90291-8
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JIMBO M, 1988, NUCL PHYS B, V300, P74, DOI 10.1016/0550-3213(88)90587-1
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   KUNIBA A, 1990, IN PRESS JAN P INT C
+   LECLAIR A, 1989, PHYS LETT B, V230, P103, DOI 10.1016/0370-2693(89)91661-4
+   NAKANISHI T, 1990, NUCL PHYS B, V334, P745, DOI 10.1016/0550-3213(90)90320-D
+   SALEUR H, LEVEL RANK DUALITY Q
+   SMIRNOV FA, 1989, INT J MOD PHYS A, V4, P4231
+   Zamolodchikov A., 1989, ADV STUDIES PURE MAT, V19, P641
+   ZAMOLODCHIKOV AB, 1989, INT J MOD PHYS A, V4, P4235, DOI 10.1142/S0217751X8900176X
+   ZAMOLODCHIKOV AB, 1988, INT J MOD PHYS A, V3, P743, DOI 10.1142/S0217751X88000333
+   ZAMOLODCHIKOV AB, 1979, ANN PHYS-NEW YORK, V120, P253, DOI 10.1016/0003-4916(79)90391-9
+NR 29
+TC 15
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD JUN 17
+PY 1991
+VL 356
+IS 3
+BP 750
+EP 774
+DI 10.1016/0550-3213(91)90385-B
+PG 25
+WC Physics, Particles & Fields
+SC Physics
+GA FP514
+UT WOS:A1991FP51400008
+ER
+
+PT J
+AU BATCHELOR, MT
+   KUNIBA, A
+AF BATCHELOR, MT
+   KUNIBA, A
+TI TEMPERLEY-LIEB LATTICE MODELS ARISING FROM QUANTUM GROUPS
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID NONINTERSECTING STRING MODEL; 2 DIMENSIONS; POTTS-MODEL; SOS MODELS;
+   ALGEBRAS; PROBABILITIES; CHAINS; TRANSFORMATIONS; REPRESENTATION;
+   PERCOLATION
+AB We construct families of solvable quantum spin chains, vertex and interactions round a face (IRF) models from representations of the Temperley-Lieb algebra associated with the quantum groups U(q)(X(n)) for X(n) = A1, B(n), C(n) and D(n).  We determine a correlation measuring order in the IRF models via the fusion rule in the level l X(n)(1) Wess-Zumino-Witten model.
+C1 AUSTRALIAN NATL UNIV,SCH MATH SCI,INST ADV STUDIES,CANBERRA,ACT 2601,AUSTRALIA.
+   AUSTRALIAN NATL UNIV,INST ADV STUDIES,DEPT THEORET PHYS,CANBERRA,ACT 2601,AUSTRALIA.
+RP BATCHELOR, MT (reprint author), AUSTRALIAN NATL UNIV,INST ADV STUDIES,DEPT APPL MATH,CANBERRA,ACT 2601,AUSTRALIA.
+RI Batchelor, Murray/A-2234-2008; Batchelor, Murray/A-9453-2013
+CR AFFLECK I, 1990, J PHYS-CONDENS MAT, V2, P405, DOI 10.1088/0953-8984/2/2/016
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   BARBER MN, 1989, PHYS REV B, V40, P4621, DOI 10.1103/PhysRevB.40.4621
+   BATCHELOR MT, 1990, J PHYS A-MATH GEN, V23, pL141, DOI 10.1088/0305-4470/23/4/003
+   BATCHELOR MT, 1990, J PHYS A-MATH GEN, V23, pL15, DOI 10.1088/0305-4470/23/1/004
+   BATCHELOR MT, 1990, IN PRESS PROG THEOR, V102
+   BAXTER RJ, 1976, J PHYS A-MATH GEN, V9, P397, DOI 10.1088/0305-4470/9/3/009
+   BAXTER RJ, 1982, J STAT PHYS, V28, P1, DOI 10.1007/BF01011621
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   DEGUCHI T, 1989, ADV STUD PURE MATH, V19, P193
+   DEGUCHI T, 1990, INT J MOD PHYS A, V5, P2195, DOI 10.1142/S0217751X9000101X
+   DIFRANCESCO P, 1991, PUPT1243 PREPR
+   Drinfeld V.G., 1986, P INT C MATH, P798
+   GINSPARG P, 1989, SPR TRIEST SCH LECT
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JONES VFR, 1983, INVENT MATH, V72, P1, DOI 10.1007/BF01389127
+   KAC VG, 1988, ADV MATH, V70, P156, DOI 10.1016/0001-8708(88)90055-2
+   KAC VG, 1984, ADV MATH, V53, P125
+   KLUMPER A, 1990, J PHYS A-MATH GEN, V23, P809, DOI 10.1088/0305-4470/23/5/023
+   KLUMPER A, 1990, IN PRESS
+   KNIZHNIK VG, 1984, NUCL PHYS B, V247, P83, DOI 10.1016/0550-3213(84)90374-2
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P3285, DOI 10.1143/JPSJ.55.3285
+   KUNIBA A, 1988, J STAT PHYS, V52, P829, DOI 10.1007/BF01019732
+   KUNIBA A, 1990, IN PRESS NUCL PHYS B
+   MELJANAC S, 1991, J PHYS A-MATH GEN, V24, P581, DOI 10.1088/0305-4470/24/3/016
+   MLAWER EJ, 1991, NUCL PHYS B, V352, P863, DOI 10.1016/0550-3213(91)90110-J
+   OWCZAREK AL, 1987, J STAT PHYS, V49, P1093, DOI 10.1007/BF01017562
+   OWCZAREK AL, 1987, J PHYS A-MATH GEN, V20, P5263, DOI 10.1088/0305-4470/20/15/038
+   PASQUIER V, 1990, NUCL PHYS B, V330, P523, DOI 10.1016/0550-3213(90)90122-T
+   PASQUIER V, 1988, COMMUN MATH PHYS, V118, P355, DOI 10.1007/BF01466721
+   PASQUIER V, 1987, NUCL PHYS B, V285, P162, DOI 10.1016/0550-3213(87)90332-4
+   PEARCE PA, 1990, INT J MOD PHYS A, V5, P715
+   PERK JHH, 1983, PHYSICA A, V122, P50, DOI 10.1016/0378-4371(83)90082-1
+   PERK JHH, 1986, J STAT PHYS, V42, P727, DOI 10.1007/BF01010443
+   RESHETIKHIN NY, 1988, LOMI E4 PREPR
+   TEMPERLE.HN, 1971, PROC R SOC LON SER-A, V322, P251, DOI 10.1098/rspa.1971.0067
+   TRUONG TT, 1986, J STAT PHYS, V42, P349, DOI 10.1007/BF01127716
+   Tsuchiya A., 1998, ADV STUDIES PURE MAT, V16, P297
+   VERLINDE E, 1988, NUCL PHYS B, V300, P360, DOI 10.1016/0550-3213(88)90603-7
+   WITTEN E, 1984, COMMUN MATH PHYS, V92, P455, DOI 10.1007/BF01215276
+NR 41
+TC 30
+Z9 31
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD JUN 7
+PY 1991
+VL 24
+IS 11
+BP 2599
+EP 2614
+DI 10.1088/0305-4470/24/11/026
+PG 16
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA FR406
+UT WOS:A1991FR40600026
+ER
+
+PT J
+AU KUNIBA, A
+AF KUNIBA, A
+TI EXACT SOLUTION OF SOLID-ON-SOLID MODELS FOR TWISTED AFFINE LIE-ALGEBRAS
+   A2N(2) AND A2N-1(2)
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+ID MODULAR-FORMS; REPRESENTATIONS; IDENTITIES; EQUATIONS
+AB We report new exact solutions of restricted and unrestricted solid-on-solid (SOS) models associated with the twisted affine Lie algebras X(n)(2) = A2n(2) and A2n-1(2).  The Boltzmann weights are parametrized by elliptic theta functions and fulfill the Yang-Baxter equation.  The trigonometric case of the solutions corresponds to the SOS counterpart of the solvable vertex models arising from the X(n)(2) quantum R-matrices.  The restricted models (RSOS) are labeled by the level l as well as the rank n.  We show that the level-l A2n-1(2) RSOS model is equivalent to the level-n C(l)(1) RSOS model, which is a manifestation of the level-rank duality.  One-point functions of the A2n-1(2) RSOS model are obtained by using the coset pair C(n)(1) + A2n-1(1) superset-of C(n)(1).  We also determine the one-point functions of the X(n)(2) vertex models in terms of X(n)(2) string functions.
+RP KUNIBA, A (reprint author), AUSTRALIAN NATL UNIV,SCH MATH SCI,IAS,GPO BOX 4,CANBERRA,ACT 2601,AUSTRALIA.
+CR ALTSCHULER D, 1990, SPHT90077 SECL PREPR
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   BELAVIN AA, 1984, NUCL PHYS B, V241, P333, DOI 10.1016/0550-3213(84)90052-X
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   DEVEGA HJ, 1990, EXACT SOLUTION A2N L
+   Fateev V.A., 1985, ZH EKSP TEOR FIZ, V62, P215
+   FRENKEL IB, 1982, LECT NOTES MATH, V933, P71, DOI 10.1007/BFb0093354
+   GOODMAN FM, 1989, LITTLEWOOD RICHARDSO
+   HASEGAWA K, 1989, PUBL RES I MATH SCI, V25, P741, DOI 10.2977/prims/1195172705
+   IZERGIN AG, 1981, COMMUN MATH PHYS, V79, P303, DOI 10.1007/BF01208496
+   JIMBO M, 1985, ADV STUDIES PURE MAT, V6, P17
+   JIMBO M, 1988, COMMUN MATH PHYS, V119, P543, DOI 10.1007/BF01218344
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   Kac V G, 1983, INFINITE DIMENSIONAL
+   KAC VG, 1984, ADV MATH, V53, P125
+   KUNIBA A, IN PRESS NUCL PHYS B
+   KUNIBA A, 1990, J PHYS A-MATH GEN, V23, P1349, DOI 10.1088/0305-4470/23/8/011
+   KUNIBA A, 1990, P INT C MODERN QUANT
+   LUSZTIG G, 1988, ADV MATH, V70, P237, DOI 10.1016/0001-8708(88)90056-4
+   NACULICH SG, 1990, DUALITY SU K N SU N
+   NAKANISHI T, 1990, LEVEL RANK DUALITY W
+   PASQUIER V, 1988, COMMUN MATH PHYS, V118, P355, DOI 10.1007/BF01466721
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   ROSSO M, 1988, COMMUN MATH PHYS, V117, P581, DOI 10.1007/BF01218386
+   SALEUR H, 1990, LEVEL RANK DUALITY Q
+NR 31
+TC 36
+Z9 36
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD MAY 27
+PY 1991
+VL 355
+IS 3
+BP 801
+EP 821
+DI 10.1016/0550-3213(91)90495-J
+PG 21
+WC Physics, Particles & Fields
+SC Physics
+GA FL649
+UT WOS:A1991FL64900008
+ER
+
+PT J
+AU KUNIBA, A
+AF KUNIBA, A
+TI QUANTUM-R MATRIX FOR G2 AND A SOLVABLE 175-VERTEX MODEL
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+RP KUNIBA, A (reprint author), KYUSHU UNIV,FAC SCI,DEPT MATH,FUKUOKA 812,JAPAN.
+CR Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   DATE E, 1989, LETT MATH PHYS, V17, P51, DOI 10.1007/BF00420014
+   Date E., 1989, ADV STUD PURE MATH, V19, P149
+   DATE E, 1989, CR ACAD SCI I-MATH, V308, P129
+   DATE E, 1987, PHYS REV B, V35, P2105, DOI 10.1103/PhysRevB.35.2105
+   DATE E, 1989, REPRESENTATION UQ GL, V656
+   DATE E, 1989, LETT MATH PHYS, V17, P69, DOI 10.1007/BF00420017
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   Drinfeld V, 1986, P INT C MATH BERKELE, V1, P798
+   JIMBO M, 1988, NUCL PHYS B, V300, P74, DOI 10.1016/0550-3213(88)90587-1
+   JIMBO M, 1987, LETT MATH PHYS, V14, P123, DOI 10.1007/BF00420302
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   Kac V G, 1983, INFINITE DIMENSIONAL
+   KAC VG, 1984, ADV MATH, V53, P125
+   KUNIBA A, 1988, J PHYS A-MATH GEN, V21, P519, DOI 10.1088/0305-4470/21/2/029
+   KUNIBA A, 1988, J STAT PHYS, V52, P829, DOI 10.1007/BF01019732
+   OGIEVETSKY EI, 1986, J PHYS G NUCL PARTIC, V12, pL105, DOI 10.1088/0305-4616/12/4/001
+   RESHETIKHIN NY, 1987, LETT MATH PHYS, V14, P235, DOI 10.1007/BF00416853
+   RESHETIKHIN NY, 1988, QUANTIZED UNIVERSAL
+   ROSSO M, 1988, COMMUN MATH PHYS, V117, P581, DOI 10.1007/BF01218386
+   SKLYANIN EK, 1982, FUNCT ANAL APPL+, V16, P263
+   SKLYANIN EK, 1983, FUNCT ANAL APPL+, V17, P273
+NR 25
+TC 25
+Z9 25
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD APR 21
+PY 1990
+VL 23
+IS 8
+BP 1349
+EP 1362
+DI 10.1088/0305-4470/23/8/011
+PG 14
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA DA185
+UT WOS:A1990DA18500011
+ER
+
+PT J
+AU DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+AF DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+TI PATHS, MAYA DIAGRAMS AND REPRESENTATIONS OF SL(R, C)
+SO COMPTES RENDUS DE L ACADEMIE DES SCIENCES SERIE I-MATHEMATIQUE
+LA French
+DT Article
+C1 KYOTO UNIV,FAC SCI,DEPT MATH,KYOTO 606,JAPAN.
+   KYOTO UNIV,MATH SCI RES INST,KYOTO 606,JAPAN.
+   UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+RP DATE, E (reprint author), KYOTO UNIV,COLL GEN EDUC,DEPT MATH,KYOTO 606,JAPAN.
+CR DATE E, IN PRESS LETT MATH P
+   LAKSHMIBAI V, 1987, CR ACAD SCI I-MATH, V305, P183
+   PRIMC M, UNPUB STANDARD REPRE
+   SATO M, 1984, COURS DONNE U KYOTO
+NR 4
+TC 1
+Z9 1
+PU GAUTHIER-VILLARS
+PI PARIS
+PA S P E S-JOURNAL DEPT, 120 BD ST GERMAIN, F-75006 PARIS, FRANCE
+SN 0764-4442
+J9 CR ACAD SCI I-MATH
+JI Comptes Rendus Acad. Sci. Ser. I-Math.
+PD FEB 2
+PY 1989
+VL 308
+IS 5
+BP 129
+EP 132
+PG 4
+WC Mathematics
+SC Mathematics
+GA T2294
+UT WOS:A1989T229400003
+ER
+
+PT J
+AU DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+AF DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+TI A NEW REALIZATION OF THE BASIC REPRESENTATION OF AN(1)
+SO LETTERS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+C1 KYOTO UNIV,MATH SCI RES INST,KYOTO 606,JAPAN.
+   UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+RP DATE, E (reprint author), KYOTO UNIV,COLL GEN EDUC,DEPT MATH,KYOTO 606,JAPAN.
+CR DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   DATE E, 1981, J PHYS SOC JPN, V50, P3806, DOI 10.1143/JPSJ.50.3806
+   DRINFELD VG, 1985, DOKL AKAD NAUK SSSR+, V283, P1060
+   FRENKEL IB, 1980, INVENT MATH, V62, P23, DOI 10.1007/BF01391662
+   JIMBO M, 1985, LETT MATH PHYS, V10, P63, DOI 10.1007/BF00704588
+   JIMBO M, 1983, NONLINEAR INTEGRABLE
+   JIMBO M, 1983, PUBL RES I MATH SCI, V19, P943, DOI 10.2977/prims/1195182017
+   JIMBO M, 1988, NUCL PHYS B, V300, P74, DOI 10.1016/0550-3213(88)90587-1
+   KAC VG, 1981, ADV MATH, V42, P83, DOI 10.1016/0001-8708(81)90053-0
+   KAC VG, 1984, ADV MATH, V53, P125
+   KAC VG, 1981, P NATL ACAD SCI USA, V78, P3308, DOI 10.1073/pnas.78.6.3308
+   LEPOWSKY J, 1978, COMMUN MATH PHYS, V62, P43, DOI 10.1007/BF01940329
+NR 13
+TC 8
+Z9 8
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0377-9017
+J9 LETT MATH PHYS
+JI Lett. Math. Phys.
+PD JAN
+PY 1989
+VL 17
+IS 1
+BP 51
+EP 54
+DI 10.1007/BF00420014
+PG 4
+WC Physics, Mathematical
+SC Physics
+GA U0531
+UT WOS:A1989U053100008
+ER
+
+PT J
+AU DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+AF DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+TI ONE-DIMENSIONAL CONFIGURATION SUMS IN VERTEX MODELS AND AFFINE
+   LIE-ALGEBRA CHARACTERS
+SO LETTERS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+C1 KYOTO UNIV,MATH SCI RES INST,KYOTO 606,JAPAN.
+   UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+RP DATE, E (reprint author), KYOTO UNIV,COLL GEN EDUC,DEPT MATH,KYOTO 606,JAPAN.
+CR BAZHANOV VV, 1985, PHYS LETT B, V159, P321, DOI 10.1016/0370-2693(85)90259-X
+   DATE E, 1989, LETT MATH PHYS, V17, P51, DOI 10.1007/BF00420014
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   JIMBO M, 1988, NUCL PHYS B, V300, P74, DOI 10.1016/0550-3213(88)90587-1
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JIMBO M, 1987, LETT MATH PHYS, V14, P123, DOI 10.1007/BF00420302
+   JIMBO M, 1986, COMMUN MATH PHYS, V102, P537, DOI 10.1007/BF01221646
+   KAC VG, 1988, ADV MATH, V70, P156, DOI 10.1016/0001-8708(88)90055-2
+   KAC VG, 1984, ADV MATH, V53, P125
+   Lepowsky J., 1985, CONT MATH, V46
+NR 11
+TC 42
+Z9 42
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0377-9017
+J9 LETT MATH PHYS
+JI Lett. Math. Phys.
+PD JAN
+PY 1989
+VL 17
+IS 1
+BP 69
+EP 77
+DI 10.1007/BF00420017
+PG 9
+WC Physics, Mathematical
+SC Physics
+GA U0531
+UT WOS:A1989U053100011
+ER
+
+PT J
+AU KUNIBA, A
+   YAJIMA, T
+AF KUNIBA, A
+   YAJIMA, T
+TI LOCAL STATE PROBABILITIES FOR SOLVABLE RESTRICTED SOLID-ON-SOLID MODELS
+   - AN, DN, DN(1), AND AN(1)
+SO JOURNAL OF STATISTICAL PHYSICS
+LA English
+DT Article
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1880, DOI 10.1143/JPSJ.55.1880
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1981, J STAT PHYS, V26, P427, DOI 10.1007/BF01011427
+   BAXTER RJ, 1982, J STAT PHYS, V28, P1, DOI 10.1007/BF01011621
+   BELAVIN AA, 1984, NUCL PHYS B, V241, P333, DOI 10.1016/0550-3213(84)90052-X
+   BERSHADSKY MA, 1985, PHYS LETT B, V151, P31, DOI 10.1016/0370-2693(85)90818-4
+   CAPPELLI A, 1987, NUCL PHYS B, V280, P445, DOI 10.1016/0550-3213(87)90155-6
+   CARDY JL, 1986, NUCL PHYS B, V270, P186, DOI 10.1016/0550-3213(86)90552-3
+   DATE E, 1986, LETT MATH PHYS, V12, P209, DOI 10.1007/BF00416511
+   DATE E, 1988, ADV STUD PURE MATH, V16, P17
+   DATE E, 1987, NUCL PHYS B, V290, P231, DOI 10.1016/0550-3213(87)90187-8
+   Fateev V., 1985, SOV PHYS JETP, V62, P215
+   FEIGIN BL, 1987, FUNCT ANAL APPL, V17, P91
+   FEIGIN BL, 1984, LECT NOTES MATH, V1060, P230
+   FRIEDAN D, 1985, PHYS LETT B, V37
+   GEPNER D, 1987, NUCL PHYS B, V285, P423, DOI 10.1016/0550-3213(87)90348-8
+   GODDARD P, 1985, PHYS LETT B, V152, P88
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JIMBO M, 1988, COMMUN MATH PHYS, V116, P507, DOI 10.1007/BF01229206
+   JIMBO M, 1987, LETT MATH PHYS, V14, P123, DOI 10.1007/BF00420302
+   JIMBO M, 1985, PHYSICA D, V15, P335
+   JONES VFR, 1983, INVENT MATH, V72, P1, DOI 10.1007/BF01389127
+   Kac V, 1984, INFINITE DIMENSIONAL
+   Kato A, 1987, MOD PHYS LETT A, V2, P585, DOI 10.1142/S0217732387000732
+   KUNIBA A, 1988, J PHYS A-MATH GEN, V21, P519, DOI 10.1088/0305-4470/21/2/029
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P3285, DOI 10.1143/JPSJ.55.3285
+   PASQUIER V, 1987, J PHYS A-MATH GEN, V20, pL221, DOI 10.1088/0305-4470/20/4/008
+   PASQUIER V, 1987, J PHYS A-MATH GEN, V20, pL217, DOI 10.1088/0305-4470/20/4/007
+   PASQUIER V, 1987, NUCL PHYS B, V285, P162, DOI 10.1016/0550-3213(87)90332-4
+   Rocha-Caridi A., 1985, VERTEX OPERATORS MAT
+   TEMPERLE.HN, 1971, PROC R SOC LON SER-A, V322, P251, DOI 10.1098/rspa.1971.0067
+   WENZL H, 1985, THESIS U PENNSYLVANI
+NR 34
+TC 28
+Z9 28
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0022-4715
+J9 J STAT PHYS
+JI J. Stat. Phys.
+PD AUG
+PY 1988
+VL 52
+IS 3-4
+BP 829
+EP 883
+DI 10.1007/BF01019732
+PG 55
+WC Physics, Mathematical
+SC Physics
+GA Q3236
+UT WOS:A1988Q323600017
+ER
+
+PT J
+AU KUNIBA, A
+AF KUNIBA, A
+TI LOCAL STATE PROBABILITIES FOR AN INFINITE SEQUENCE OF SOLVABLE LATTICE
+   MODELS
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,MEGURO KU,TOKYO 153,JAPAN.
+CR AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1466, DOI 10.1143/JPSJ.55.1466
+   AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1880, DOI 10.1143/JPSJ.55.1880
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Andrews G.E., 1976, THEORY PARTITIONS
+   BAXTER RJ, 1984, EXACTLY SOLVED MODEL
+   BELAVIN AA, 1984, J STAT PHYS, V34, P763, DOI 10.1007/BF01009438
+   DATE E, 1987, IN PRESS ADV STUD PU, V16
+   DATE E, 1987, PHYS REV B, V35, P2105, DOI 10.1103/PhysRevB.35.2105
+   DATE E, 1986, LETT MATH PHYS, V12, P209, DOI 10.1007/BF00416511
+   DATE E, 1987, IN PRESS NUCL PHYS B
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P3285, DOI 10.1143/JPSJ.55.3285
+   PASQUIER V, 1987, NUCL PHYS B, V285, P162, DOI 10.1016/0550-3213(87)90332-4
+   PASQUIER V, 1987, J PHYS A, V20, P5717
+NR 14
+TC 13
+Z9 13
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD JAN 21
+PY 1988
+VL 21
+IS 2
+BP 519
+EP 527
+DI 10.1088/0305-4470/21/2/029
+PG 9
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA L8379
+UT WOS:A1988L837900029
+ER
+
+PT J
+AU JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+AF JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+TI THE AN(1) FACE MODELS
+SO COMMUNICATIONS IN MATHEMATICAL PHYSICS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+RP JIMBO, M (reprint author), KYOTO UNIV,MATH SCI RES INST,KYOTO 606,JAPAN.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   BAIRD GE, 1965, J MATH PHYS, V6, P1847, DOI 10.1063/1.1704732
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1986, J STAT PHYS, V44, P249, DOI 10.1007/BF01010916
+   Cherednik I., 1986, FUNCT ANAL APPL, V20, P87
+   DATA E, 1987, NUCL PHYS B, V290, P231
+   DATE E, 1987, PHYS REV B, V35, P2105, DOI 10.1103/PhysRevB.35.2105
+   DATE E, 1986, LETT MATH PHYS, V12, P209, DOI 10.1007/BF00416511
+   DATE E, 1988, ADV STUD PURE MATH, V16
+   GODDARD P, 1985, PHYS LETT B, V152, P88
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JAMES GD, 1981, ENCY MATH ITS APPLIC, V16
+   JIMBO M, 1988, RIMS592 KYOT U ALG A
+   Jimbo M., 1987, Modern Physics Letters B, V1, DOI 10.1142/S0217984987000119
+   JIMBO M, 1986, NUCL PHYS B, V275, P517, DOI 10.1016/0550-3213(86)90611-5
+   JIMBO M, 1988, KYOTO U NUCL PHYS B, V300, P74
+   JIMBO M, 1987, LETT MATH PHYS, V14, P123, DOI 10.1007/BF00420302
+   JIMBO M, 1985, PHYSICA D, V15, P335
+   KULISH PP, 1981, LETT MATH PHYS, V5, P393, DOI 10.1007/BF02285311
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   PASQUIER V, 1986, COMMUN MATH PHYS, V118, P355
+NR 21
+TC 60
+Z9 60
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0010-3616
+J9 COMMUN MATH PHYS
+JI Commun. Math. Phys.
+PY 1988
+VL 119
+IS 4
+BP 543
+EP 565
+DI 10.1007/BF01218344
+PG 23
+WC Physics, Mathematical
+SC Physics
+GA R3497
+UT WOS:A1988R349700002
+ER
+
+PT J
+AU DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+AF DATE, E
+   JIMBO, M
+   KUNIBA, A
+   MIWA, T
+   OKADO, M
+TI EXACTLY SOLVABLE SOS MODELS - LOCAL HEIGHT PROBABILITIES AND
+   THETA-FUNCTION IDENTITIES
+SO NUCLEAR PHYSICS B
+LA English
+DT Article
+C1 KYOTO UNIV, MAT SCI RES INST, KYOTO 606, JAPAN.
+   UNIV TOKYO, COLL ARTS & SCI, INST PHYS, TOKYO 153, JAPAN.
+RP DATE, E (reprint author), KYOTO UNIV, COLL GEN EDUC, DEPT MATH, KYOTO 606, JAPAN.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER R, 1973, ANN PHYS-NEW YORK, V76, P25, DOI 10.1016/0003-4916(73)90440-5
+   BAXTER RJ, 1986, J STAT PHYS, V44, P249, DOI 10.1007/BF01010916
+   ANDREWS GE, 1986, J STAT PHYS, V44, P713, DOI 10.1007/BF01011904
+   BELAVIN AA, 1984, NUCL PHYS B, V241, P333, DOI 10.1016/0550-3213(84)90052-X
+   BERSHADSKY MA, 1985, PHYS LETT B, V151, P31, DOI 10.1016/0370-2693(85)90818-4
+   DATE E, ADV STUD PURE MATH, V16
+   DATE E, 1987, PHYS REV B, V35, P2105, DOI 10.1103/PhysRevB.35.2105
+   DATE E, 1986, LETT MATH PHYS, V12, P209, DOI 10.1007/BF00416511
+   Fateev V., 1985, SOV PHYS JETP, V62, P215
+   FATEEV VA, 1987, THEOR MATH PHYS, V71, P163
+   FEINGOLD AJ, 1978, ADV MATH, V29, P271, DOI 10.1016/0001-8708(78)90020-8
+   FORRESTER PJ, ITPSB8694 PREPR
+   FORRESTER PJ, 1986, J PHYS A-MATH GEN, V19, pL923, DOI 10.1088/0305-4470/19/15/011
+   FRIEDAN D, 1985, PHYS LETT B, V151, P37, DOI 10.1016/0370-2693(85)90819-6
+   FRIEDAN D, 1984, PHYS REV LETT, V52, P1575, DOI 10.1103/PhysRevLett.52.1575
+   GODDARD P, 1986, COMMUN MATH PHYS, V103, P105, DOI 10.1007/BF01464283
+   GODDARD P, 1985, PHYS LETT B, V152, P88
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JIMBO M, 1986, NUCL PHYS B, V275, P517, DOI 10.1016/0550-3213(86)90611-5
+   JIMBO M, 1985, ADV STUDIES PURE MAT, V6, P17
+   JIMBO M, 1984, ADV STUD PURE MATH, V4, P97
+   JIMBO M, 1985, PHYSICA D, V15, P335
+   KAC V, 1985, INFINITE DIMENSIONAL
+   KAC VG, 1978, ADV MATH, V30, P85, DOI 10.1016/0001-8708(78)90033-6
+   KAC VG, 1984, ADV MATH, V53, P125
+   Kac V.G., 1979, LECTURE NOTES PHYSIC, V94, P441
+   KASHIWARA M, 1986, NUCL PHYS B, V275, P121, DOI 10.1016/0550-3213(86)90591-2
+   KULISH PP, 1981, LETT MATH PHYS, V5, P393, DOI 10.1007/BF02285311
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P2605, DOI 10.1143/JPSJ.55.2605
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P3338, DOI 10.1143/JPSJ.55.3338
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P2166, DOI 10.1143/JPSJ.55.2166
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   LEPOWSKY J, 1984, INVENT MATH, V77, P199, DOI 10.1007/BF01388447
+   LEPOWSKY J, 1982, ADV MATH, V45, P21, DOI 10.1016/S0001-8708(82)80012-1
+   PEARCE PA, 1985, J PHYS A-MATH GEN, V18, P3217, DOI 10.1088/0305-4470/18/16/022
+NR 38
+TC 148
+Z9 148
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0550-3213
+J9 NUCL PHYS B
+JI Nucl. Phys. B
+PD OCT 26
+PY 1987
+VL 290
+IS 2
+BP 231
+EP 273
+DI 10.1016/0550-3213(87)90187-8
+PG 43
+WC Physics, Particles & Fields
+SC Physics
+GA K6851
+UT WOS:A1987K685100005
+ER
+
+PT J
+AU KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+AF KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+TI THE GORDON-GENERALIZATION HIERARCHY OF EXACTLY SOLVABLE IRF MODELS
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 KANAGAWA UNIV,INST PHYS,KANAGAWA KU,YOKOHAMA 221,JAPAN.
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1466, DOI 10.1143/JPSJ.55.1466
+   AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1880, DOI 10.1143/JPSJ.55.1880
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Andrews G.E., PREPRINT
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1980, J PHYS A-MATH GEN, V13, pL61, DOI 10.1088/0305-4470/13/3/007
+   BAXTER RJ, UNPUB J STAT PHYS
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P2605, DOI 10.1143/JPSJ.55.2605
+   KUNIBA A, 1986, PHYS LETT A, V116, P382, DOI 10.1016/0375-9601(86)90060-5
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P2166, DOI 10.1143/JPSJ.55.2166
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+NR 11
+TC 13
+Z9 13
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD OCT
+PY 1986
+VL 55
+IS 10
+BP 3338
+EP 3353
+DI 10.1143/JPSJ.55.3338
+PG 16
+WC Physics, Multidisciplinary
+SC Physics
+GA F8991
+UT WOS:A1986F899100012
+ER
+
+PT J
+AU KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+AF KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+TI AN EXACTLY SOLVABLE 5-STATE IRF MODEL
+SO PHYSICS LETTERS A
+LA English
+DT Article
+C1 KANAGAWA UNIV,INST PHYS,KANAGAWA KU,YOKOHAMA 221,JAPAN.
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR BAXTER RJ, UNPUB J STAT PHYS
+   BAXTER RJ, 1982, J STAT PHYS, V28, P1, DOI 10.1007/BF01011621
+   KUNIBA A, UNPUB
+   KUNIBA A, 1986, J PHYS SOC JAPAN, V55
+   KUNIBA A, 1986, PHYS LETT A, V116, P382, DOI 10.1016/0375-9601(86)90060-5
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   SHANKAR R, 1981, PHYS REV LETT, V47, P1177, DOI 10.1103/PhysRevLett.47.1177
+   STROGANOV YG, 1979, PHYS LETT A, V74, P116, DOI 10.1016/0375-9601(79)90601-7
+NR 8
+TC 10
+Z9 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD SEP 1
+PY 1986
+VL 117
+IS 7
+BP 358
+EP 364
+DI 10.1016/0375-9601(86)90681-X
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA D8830
+UT WOS:A1986D883000011
+ER
+
+PT J
+AU KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+AF KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+TI EXACTLY SOLVABLE IRF MODELS .5. A FURTHER NEW HIERARCHY
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1466, DOI 10.1143/JPSJ.55.1466
+   AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1880, DOI 10.1143/JPSJ.55.1880
+   AKUTSU Y, 1986, UNPUB J PHYS SOC JPN, V55
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1980, J PHYS A-MATH GEN, V13, pL61, DOI 10.1088/0305-4470/13/3/007
+   BAXTER RJ, 1981, J STAT PHYS, V26, P427, DOI 10.1007/BF01011427
+   BAXTER RJ, PREPRINT
+   BELAVIN AA, 1984, J STAT PHYS, V34, P763, DOI 10.1007/BF01009438
+   DATE E, PREPRINT
+   Faddeev L.D., 1980, SOV SCI REV C, V1, P107
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   FRIEDAN D, 1984, PHYS REV LETT, V52, P1575, DOI 10.1103/PhysRevLett.52.1575
+   GORDON B, 1961, AM J MATH, V83, P393, DOI 10.2307/2372962
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JIMBO M, 1985, PHYSICA D, V15, P336
+   Kac V G, 1983, INFINITE DIMENSIONAL
+   Kulish P., 1982, LECTURE NOTES PHYSIC, V151, P61
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P2166, DOI 10.1143/JPSJ.55.2166
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   LEPOWSKY J, 1981, P NATL ACAD SCI USA, V78, P7254, DOI 10.1073/pnas.78.12.7254
+   THACKER HB, 1981, REV MOD PHYS, V53, P253, DOI 10.1103/RevModPhys.53.253
+   WADATI M, 1985, DYNAMICAL PROBLEMS S, P68
+   1986, J PHYS SOC JPN, V55
+NR 25
+TC 18
+Z9 18
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD AUG
+PY 1986
+VL 55
+IS 8
+BP 2605
+EP 2617
+DI 10.1143/JPSJ.55.2605
+PG 13
+WC Physics, Multidisciplinary
+SC Physics
+GA E5379
+UT WOS:A1986E537900024
+ER
+
+PT J
+AU KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+AF KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+TI AN EXACTLY SOLVABLE 4-STATE IRF MODEL
+SO PHYSICS LETTERS A
+LA English
+DT Article
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1980, J PHYS A-MATH GEN, V13, pL61, DOI 10.1088/0305-4470/13/3/007
+   BAXTER RJ, 1981, J STAT PHYS, V26, P427, DOI 10.1007/BF01011427
+   GORDON B, 1961, AM J MATH, V83, P393, DOI 10.2307/2372962
+   KUNIBA A, 1986, J PHYS SOC JAPAN, V55
+   Whittaker E. T., 1927, COURSE MODERN ANAL
+NR 7
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD JUL 7
+PY 1986
+VL 116
+IS 8
+BP 382
+EP 386
+DI 10.1016/0375-9601(86)90060-5
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA D2693
+UT WOS:A1986D269300007
+ER
+
+PT J
+AU KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+AF KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+TI EXACTLY SOLVABLE IRF MODELS .4. GENERALIZED ROGERS-REMANUJAN IDENTITIES
+   AND A SOLVABLE HIERARCHY
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1466, DOI 10.1143/JPSJ.55.1466
+   AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1880, DOI 10.1143/JPSJ.55.1880
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1981, J STAT PHYS, V26, P427, DOI 10.1007/BF01011427
+   BAXTER RJ, 1982, J STAT PHYS, V28, P1, DOI 10.1007/BF01011621
+   BELAVIN AA, 1984, J STAT PHYS, V34, P763, DOI 10.1007/BF01009438
+   FRIEDAN D, 1984, PHYS REV LETT, V52, P1575, DOI 10.1103/PhysRevLett.52.1575
+   GORDON B, 1961, AM J MATH, V83, P393, DOI 10.2307/2372962
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   SHANKAR R, 1981, PHYS REV LETT, V47, P1177, DOI 10.1103/PhysRevLett.47.1177
+   SOGO K, 1983, PROG THEOR PHYS, V70, P739, DOI 10.1143/PTP.70.739
+   SOGO K, 1983, PROG THEOR PHYS, V70, P730, DOI 10.1143/PTP.70.730
+   STROGANOV YG, 1979, PHYS LETT A, V74, P116, DOI 10.1016/0375-9601(79)90601-7
+   Whittaker E. T., 1927, COURSE MODERN ANAL
+NR 16
+TC 14
+Z9 14
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUL
+PY 1986
+VL 55
+IS 7
+BP 2166
+EP 2176
+DI 10.1143/JPSJ.55.2166
+PG 11
+WC Physics, Multidisciplinary
+SC Physics
+GA E1429
+UT WOS:A1986E142900016
+ER
+
+PT J
+AU AKUTSU, Y
+   KUNIBA, A
+   WADATI, M
+AF AKUTSU, Y
+   KUNIBA, A
+   WADATI, M
+TI EXACTLY SOLVABLE IRF MODELS .3. A NEW HIERARCHY OF SOLVABLE MODELS
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP AKUTSU, Y (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR AKUTSU Y, 1986, J PHYS SOC JPN, V55, P1466, DOI 10.1143/JPSJ.55.1466
+   ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1980, J PHYS A-MATH GEN, V13, pL61, DOI 10.1088/0305-4470/13/3/007
+   BAXTER RJ, 1982, J STAT PHYS, V28, P1, DOI 10.1007/BF01011621
+   BELAVIN AA, 1984, J STAT PHYS, V34, P763, DOI 10.1007/BF01009438
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   FRIEDAN D, 1984, PHYS REV LETT, V52, P1575, DOI 10.1103/PhysRevLett.52.1575
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JIMBO M, 1985, PHYSICA D, V15, P335
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   SHANKAR R, 1981, PHYS REV LETT, V47, P1177, DOI 10.1103/PhysRevLett.47.1177
+   STROGANOV YG, 1979, PHYS LETT A, V74, P116, DOI 10.1016/0375-9601(79)90601-7
+NR 13
+TC 25
+Z9 25
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUN
+PY 1986
+VL 55
+IS 6
+BP 1880
+EP 1886
+DI 10.1143/JPSJ.55.1880
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA D6118
+UT WOS:A1986D611800017
+ER
+
+PT J
+AU AKUTSU, Y
+   KUNIBA, A
+   WADATI, M
+AF AKUTSU, Y
+   KUNIBA, A
+   WADATI, M
+TI EXACTLY SOLVABLE IRF MODELS .2. SN-GENERALIZATIONS
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP AKUTSU, Y (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1980, J PHYS A-MATH GEN, V13, pL61, DOI 10.1088/0305-4470/13/3/007
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   JIMBO M, 1984, LETT MATH PHYS, V8, P529, DOI 10.1007/BF00400983
+   JIMBO M, 1985, PHYSICA D, V15, P335
+   KUNIBA A, 1986, J PHYS SOC JPN, V55, P1092, DOI 10.1143/JPSJ.55.1092
+   Whittaker E. T., 1927, COURSE MODERN ANAL
+NR 8
+TC 30
+Z9 30
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD MAY
+PY 1986
+VL 55
+IS 5
+BP 1466
+EP 1474
+DI 10.1143/JPSJ.55.1466
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA D5561
+UT WOS:A1986D556100014
+ER
+
+PT J
+AU KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+AF KUNIBA, A
+   AKUTSU, Y
+   WADATI, M
+TI EXACTLY SOLVABLE IRF MODELS .1. A 3-STATE MODEL
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KUNIBA, A (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR ANDREWS GE, 1984, J STAT PHYS, V35, P193, DOI 10.1007/BF01014383
+   Andrews G.E., 1976, THEORY PARTITIONS
+   Baxter R. J., 1982, EXACTLY SOLVED MODEL
+   BAXTER RJ, 1980, J PHYS A-MATH GEN, V13, pL61, DOI 10.1088/0305-4470/13/3/007
+   BAXTER RJ, 1982, J STAT PHYS, V28, P1, DOI 10.1007/BF01011621
+   BAZHANOV VV, 1982, NUCL PHYS B, V205, P505, DOI 10.1016/0550-3213(82)90075-X
+   BELAVIN AA, 1984, J STAT PHYS, V34, P763, DOI 10.1007/BF01009438
+   Faddeev L.D., 1980, SOV SCI REV C, V1, P107
+   FORRESTER PJ, 1985, J STAT PHYS, V38, P435, DOI 10.1007/BF01010471
+   FRIEDAN D, 1984, PHYS REV LETT, V52, P1575, DOI 10.1103/PhysRevLett.52.1575
+   HUSE DA, 1984, PHYS REV B, V30, P3908, DOI 10.1103/PhysRevB.30.3908
+   JIMBO M, 1985, PHYSICA D, V15, P335
+   KADANOFF LP, 1971, PHYS REV B, V4, P3989, DOI 10.1103/PhysRevB.4.3989
+   KAROWSKI M, 1977, PHYS LETT B, V67, P321, DOI 10.1016/0370-2693(77)90382-3
+   Kulish P., 1982, LECTURE NOTES PHYSIC, V151, P61
+   SHANKAR R, 1981, PHYS REV LETT, V47, P1177, DOI 10.1103/PhysRevLett.47.1177
+   SOGO K, 1982, PROG THEOR PHYS, V68, P508, DOI 10.1143/PTP.68.508
+   SOGO K, 1983, PROG THEOR PHYS, V70, P739, DOI 10.1143/PTP.70.739
+   SOGO K, 1981, PROG THEOR PHYS, V66, P1284, DOI 10.1143/PTP.66.1284
+   SOGO K, 1983, PROG THEOR PHYS, V70, P730, DOI 10.1143/PTP.70.730
+   STROGANOV YG, 1979, PHYS LETT A, V74, P116, DOI 10.1016/0375-9601(79)90601-7
+   THACKER HB, 1981, REV MOD PHYS, V53, P253, DOI 10.1103/RevModPhys.53.253
+   WADATI M, 1985, DYNAMICAL PROBLEMS S, P68
+   WU FW, 1971, PHYS REV B, V4, P2312, DOI 10.1103/PhysRevB.4.2312
+   ZAMOLODCHIKOV AB, 1979, ANN PHYS-NEW YORK, V120, P253, DOI 10.1016/0003-4916(79)90391-9
+   ZAMOLODCHIKOV AB, 1979, COMMUN MATH PHYS, V69, P165, DOI 10.1007/BF01221446
+NR 26
+TC 35
+Z9 35
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD APR
+PY 1986
+VL 55
+IS 4
+BP 1092
+EP 1101
+DI 10.1143/JPSJ.55.1092
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA C7321
+UT WOS:A1986C732100013
+ER
+
+PT J
+AU WADATI, M
+   KUNIBA, A
+AF WADATI, M
+   KUNIBA, A
+TI THE QUANTUM NONLINEAR SCHRODINGER MODEL - CONSERVED QUANTITIES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP WADATI, M (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR Faddeev L.D., 1980, SOV SCI REV C, V1, P107
+   FLASCHKA H, 1975, LECTURE NOTES PHYSIC, V38, P355
+   Kulish P. P., 1976, TEOR MAT FIZ, V28, P38
+   LIEB EH, 1963, PHYS REV, V130, P1605, DOI 10.1103/PhysRev.130.1605
+   MCGUIRE JB, 1964, J MATH PHYS, V5, P622, DOI 10.1063/1.1704156
+   NOHL CR, 1976, ANN PHYS US, V96, P264
+   SOGO K, 1981, PROG THEOR PHYS, V66, P1284, DOI 10.1143/PTP.66.1284
+   THACKER HB, 1981, REV MOD PHYS, V53, P253, DOI 10.1103/RevModPhys.53.253
+   WADATI M, DYNAMICAL PROBLEMS S, P68
+   WADATI M, 1984, J PHYS SOC JPN, V53, P1983
+   WADATI M, 1985, J PHYS SOC JPN, V54, P1710, DOI 10.1143/JPSJ.54.1710
+   ZAKHAROV VE, 1972, SOV PHYS JETP-USSR, V34, P62
+   ZAKHAROV VE, 1975, THEOR MATH PHYS, V19, P551
+NR 13
+TC 6
+Z9 6
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JAN
+PY 1986
+VL 55
+IS 1
+BP 76
+EP 81
+DI 10.1143/JPSJ.55.76
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA A8477
+UT WOS:A1986A847700019
+ER
+
+PT J
+AU WADATI, M
+   KUNIBA, A
+   KONISHI, T
+AF WADATI, M
+   KUNIBA, A
+   KONISHI, T
+TI THE QUANTUM NONLINEAR SCHRODINGER MODEL - GELFAND-LEVITAN EQUATION AND
+   CLASSICAL SOLITON
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP WADATI, M (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR GOCKELER M, 1981, Z PHYS C PART FIELDS, V11, P125, DOI 10.1007/BF01573995
+   GOCKELER M, 1981, Z PHYS C PART FIELDS, V7, P263, DOI 10.1007/BF01436316
+   KAWATA T, 1978, J PHYS SOC JPN, V44, P1722, DOI 10.1143/JPSJ.44.1722
+   LIEB EH, 1963, PHYS REV, V130, P1605, DOI 10.1103/PhysRev.130.1605
+   MCGUIRE JB, 1965, J MATH PHYS, V6, P432, DOI 10.1063/1.1704291
+   NOHL CR, 1976, ANN PHYS-NEW YORK, V96, P234, DOI 10.1016/0003-4916(76)90191-3
+   Scott Adrian, COMMUNICATION
+   Sklyanin E.K., 1979, SOV PHYS DOKL, V24, P107
+   SMIRNOV FA, 1982, DOKL AKAD NAUK SSSR+, V262, P78
+   SOGO K, 1983, PROG THEOR PHYS, V69, P431, DOI 10.1143/PTP.69.431
+   THACKER HB, 1982, LECTURE NOTES PHYSIC, V151, P1
+   THACKER HB, 1981, REV MOD PHYS, V53, P253, DOI 10.1103/RevModPhys.53.253
+   WADATI M, UNPUB DYNAMICAL PROB
+   WADATI M, 1984, J PHYS SOC JPN, V53, P1983
+   Zakharov V. E., 1973, SOV PHYS JETP, V37, P823
+   ZAKHAROV VE, 1972, SOV PHYS JETP-USSR, V34, P62
+NR 16
+TC 20
+Z9 20
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1985
+VL 54
+IS 5
+BP 1710
+EP 1723
+DI 10.1143/JPSJ.54.1710
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA AMT54
+UT WOS:A1985AMT5400013
+ER
+
+EF

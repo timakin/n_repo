@@ -1,0 +1,1881 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Koura, KG
+   Ouedraogo, S
+   Cottrell, G
+   Le Port, A
+   Massougbodji, A
+   Garcia, A
+AF Koura, Kobto G.
+   Ouedraogo, Smaila
+   Cottrell, Gilles
+   Le Port, Agnes
+   Massougbodji, Achille
+   Garcia, Andre
+TI Maternal Anaemia at Delivery and Haemoglobin Evolution in Children
+   during Their First 18 Months of Life Using Latent Class Analysis
+SO PLOS ONE
+LA English
+DT Article
+ID SICKLE-CELL TRAIT; LOW-BIRTH-WEIGHT; DEVELOPMENTAL TRAJECTORIES;
+   PLASMODIUM-FALCIPARUM; RISK-FACTOR; IRON-DEFICIENCY; PREGNANCY; MODELS;
+   COHORT; PREVALENCE
+AB Background: Anaemia during pregnancy and at delivery is an important public health problem in low-and middle-income countries. Its association with the children's haemoglobin level over time remains unclear. Our goals were to identify distinct haemoglobin level trajectories using latent class analysis and to assess the association between these trajectories and maternal anaemia and other risk factors.
+   Method: A prospective study of children from birth to 18 months of life was conducted in a rural setting in Tori-Bossito, Benin. The main outcome measure was the haemoglobin levels repeatedly measured at 3, 6, 9, 12, 15 and 18 months. Variables were collected from the mothers at delivery and from their children at birth and during the follow-up. The analyses were performed by means of Latent Class Analysis which has never been used for this kind of data. All the analyses were performed with Stata software, version 11.0, using the generalized linear latent and mixed model (GLLAMM) framework.
+   Results: We showed that 33.7% of children followed a low haemoglobin trajectory and 66.3% a high trajectory during the first 18 months of life. Newborn anaemia, placental malaria, malaria attack, sickle cell trait and male gender were significantly associated with a lower children's haemoglobin level over time, whereas maternal age, children living in a polygamous family and with good feeding practices had a higher Hb level in the first18 months. We also showed that maternal anaemia was a predictor for 'low haemoglobin level trajectory' group membership but have no significant effect on children haemoglobin level over time.
+   Conclusion: Latent Class Analyses framework seems well suited to analyse longitudinal data under the hypothesis that different subpopulations of subjects are present in the data, each with its own set of parameters, with distinctive evolutions that themselves may reflect distinctive aetiologies.
+C1 IRD UMR216 Mere & Enfant Face Infect Trop, Paris, France.
+   Univ Paris 05, Fac Pharm, Paris, France.
+   Univ Pierre Marie Curie, Paris, France.
+   Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   Paludisme Associe Grossesse & Enfant, Ctr Etud & Rech, Cotonou, Benin.
+RP Koura, KG (reprint author), IRD UMR216 Mere & Enfant Face Infect Trop, Paris, France.
+EM kourakobtoghislain@yahoo.fr
+RI KOURA, Kobto/F-3421-2013
+OI KOURA, Kobto/0000-0002-8928-6732
+FU Agence Nationale de la Recherche (ANR), Paris, France [SEST
+   2006/040/001]
+FX This work was supported by Agence Nationale de la Recherche (ANR),
+   Paris, France. (Project SEST 2006/040/001). The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Andruff H, 2009, TUTORIALS QUANTITATI, V5, P11
+   Barker ED, 2007, ARCH GEN PSYCHIAT, V64, P592, DOI 10.1001/archpsyc.64.5.592
+   BARRETT JFR, 1994, BRIT MED J, V309, P79
+   Bernat DH, 2008, J ADOLESCENT HEALTH, V43, P334, DOI 10.1016/j.jadohealth.2008.02.014
+   Broadbent JM, 2008, J DENT RES, V87, P69
+   de Pee S, 2002, J NUTR, V132, P2215
+   EVANS RW, 1945, T ROY SOC TROP MED H, V39, P207
+   Gambling L, 2001, BIOCHEM J, V356, P883, DOI 10.1042/0264-6021:3560883
+   Gong L, 2012, BLOOD, V119, P3808, DOI 10.1182/blood-2011-08-371062
+   Hagenaars J, 2002, APPL LATENT CLASS AN
+   Hamalainen H, 2003, CLIN NUTR, V22, P271, DOI 10.1016/S0261-5614(02)00209-1
+   Hoeve M, 2008, J ABNORM CHILD PSYCH, V36, P223, DOI 10.1007/s10802-007-9172-x
+   IDJRADINATA P, 1993, LANCET, V341, P1, DOI 10.1016/0140-6736(93)92477-B
+   Jedidi K, 1997, MARKET SCI, V16, P39, DOI 10.1287/mksc.16.1.39
+   Jones BL, 2001, SOCIOL METHOD RES, V29, P374, DOI 10.1177/0049124101029003005
+   Kilbride J, 1999, INT J EPIDEMIOL, V28, P461, DOI 10.1093/ije/28.3.461
+   Kiryluk K, 2007, KIDNEY INT, V71, P706, DOI 10.1038/sj.ki.5002060
+   Koura GK, 2012, TROP MED INT HEALTH, V17, P283, DOI 10.1111/j.1365-3156.2011.02932.x
+   Le Port A, 2012, BMJ OPEN, V2, DOI 10.1136/bmjopen-2011-000342
+   Le Port A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0027516
+   Levy A, 2005, EUR J OBSTET GYN R B, V122, P182, DOI 10.1016/j.ejogrb.2005.02.015
+   Li CY, 2007, OBESITY, V15, P760, DOI 10.1038/oby.2007.585
+   LINDSAY B, 1991, J AM STAT ASSOC, V86, P96, DOI 10.2307/2289719
+   McCutcheon A., 1987, LATENT CLASS ANAL
+   McElroy PD, 1999, AM J TROP MED HYG, V61, P932
+   McLean E, 2009, PUBLIC HEALTH NUTR, V12, P444, DOI 10.1017/S1368980008002401
+   Mora PA, 2009, AM J EPIDEMIOL, V169, P24, DOI 10.1093/aje/kwn283
+   Mutabingwa TK, 2005, PLOS MED, V2, P1260, DOI 10.1371/journal.pmed.0020407
+   Muthen B., 2004, HDB QUANTITATIVE MET, P345
+   Nagin D., 2005, GROUP BASED MODELING
+   Nagin DS, 2005, CRIMINOLOGY, V43, P873, DOI 10.1111/j.1745-9125.2005.00026.x
+   Nagin DS, 2010, ANNU REV CLIN PSYCHO, V6, P109, DOI 10.1146/annurev.clinpsy.121208.131413
+   Nylund KL, 2007, STRUCT EQU MODELING, V14, P535
+   Ostbye T, 2011, INT J EPIDEMIOL, V40, P240, DOI 10.1093/ije/dyq142
+   Preziosi P, 1997, AM J CLIN NUTR, V66, P1178
+   Rabe-Hesketh S, 2004, WORKING PAPER SERIES
+   Rabe-Hesketh S, 2008, MULTILEVEL LONGITUDI
+   REDD SC, 1994, AM J TROP MED HYG, V51, P170
+   Roeder K, 1997, J AM STAT ASSOC, V92, P894, DOI 10.2307/2965553
+   SEARS DA, 1978, AM J MED, V64, P1021, DOI 10.1016/0002-9343(78)90458-8
+   Shobeiri F, 2006, NUTR RES, V26, P209, DOI 10.1016/j.nutres.2006.05.008
+   Skrondal A, 2004, GEN LATENT VARIABLE
+   Tsaras G, 2009, AM J MED, V122, P507, DOI 10.1016/j.amjmed.2008.12.020
+   Van Rheenen P, 2007, EUROPEAN J CLIN NUTR, V62, P1379
+   WHO/UNICEF, 2010, IND ASS INF YOUNG 2
+   Williams TN, 2005, J INFECT DIS, V192, P178, DOI 10.1086/430744
+   World Health Organization, 2008, WORLDW PREV AN 1993
+   YAMADA M, 1989, AM J TROP MED HYG, V41, P161
+NR 48
+TC 0
+Z9 0
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 21
+PY 2012
+VL 7
+IS 11
+AR e50136
+DI 10.1371/journal.pone.0050136
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 047ER
+UT WOS:000311821000188
+ER
+
+PT J
+AU Koura, K
+AF Koura, K
+TI Direct simulation Monte Carlo study of rotational nonequilibrium in
+   shock wave and spherical expansion of nitrogen using classical
+   trajectory calculations
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+ID RELAXATION; TEMPERATURE
+AB The rotational nonequilibrium in a normal shock wave and in a steady spherical expansion is studied for nitrogen using the direct simulation Monte Carlo method coupled with classical trajectory calculations. The intermolecular potential for nitrogen is taken as an accurate potential energy surface constructed by van der Avoird [J. Chem. Phys. 84, 1629 (1986)] and readjusted by Cappelletti [Mol. Phys. 93, 485 (1998)]. The shock wave results are compared with the rotational distribution and the number density and rotational temperature profiles measured by Robben and Talbot [Phys. Fluids 9, 653 (1966)]. The agreement is generally good except at extremely low upstream temperatures, where the classical-mechanical treatment may be inadequate. The spherical expansion results are compared with the rotational distribution and the number density and rotational temperature profiles measured by Marrone [Phys. Fluids 10, 521 (1967)] and Coe [Phys. Fluids 23, 706 (1980)] along the axis of a low density free jet expansion. It is shown that the rotational distribution gradually departs from a Boltzmann distribution farther downstream with an overpopulation in the higher rotational levels, in good agreement with the measured spectral data except near the orifice, where the spherical source expansion analogy may be inapplicable. The rotational temperature obtained by a Boltzmann fit at the low rotational levels or defined as the mean rotational energy agrees satisfactorily, except near the orifice, with the experimental rotational temperatures determined from the spectral data. (C) 2002 American Institute of Physics.
+C1 Natl Aerosp Lab, Fluid Sci Res Ctr, Tokyo 1828522, Japan.
+RP Koura, K (reprint author), Natl Aerosp Lab, Fluid Sci Res Ctr, 7-44-1 Jindaijihigashi, Tokyo 1828522, Japan.
+EM koura@nal.go.jp
+CR Ashkenas H, 1966, RAREFIED GAS DYN, VII, P84
+   Bernstein RB, 1979, ATOM MOL COLLISION T
+   Bird G. A, 1994, MOL GAS DYNAMICS DIR
+   Bird GA, 1970, AIAA J, V8, P1998, DOI 10.2514/3.6037
+   Cappelletti D, 1998, MOL PHYS, V93, P485, DOI 10.1080/002689798169177
+   CATTOLICA R, 1974, PHYS FLUIDS, V17, P1793, DOI 10.1063/1.1694620
+   CATTOLICA RJ, 1974, RAREFIED GAS DYNAMIC, V1
+   CHATWANI AU, 1977, PROG ASTRONAUT AERON, V51, P461
+   CHATWANI AU, 1979, RAREFIED GAS DYN, V2, P809
+   COE D, 1980, PHYS FLUIDS, V23, P706, DOI 10.1063/1.863041
+   Koura K, 2001, AIP CONF PROC, V585, P7
+   KOURA K, 1999, RAREFIED GAS DYN, V2, P23
+   Koura K, 1998, PHYS FLUIDS, V10, P2689, DOI 10.1063/1.869782
+   Koura K, 1997, PHYS FLUIDS, V9, P3543, DOI 10.1063/1.869462
+   Koura K, 1999, PHYS FLUIDS, V11, P3174, DOI 10.1063/1.870220
+   MARRONE PV, 1967, PHYS FLUIDS, V10, P521, DOI 10.1063/1.1762146
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+   VANDERAVOIRD A, 1986, J CHEM PHYS, V84, P1629, DOI 10.1063/1.450457
+   Wysong IJ, 1998, PHYS FLUIDS, V10, P2983, DOI 10.1063/1.869818
+NR 19
+TC 7
+Z9 7
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PD MAY
+PY 2002
+VL 14
+IS 5
+BP 1689
+EP 1695
+DI 10.1063/1.1467059
+PG 7
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA 540PY
+UT WOS:000174938400014
+ER
+
+PT J
+AU Koura, K
+AF Koura, K
+TI Direct simulation Monte Carlo study of quantum effects on the spherical
+   expansion of He-4
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+AB Quantum effects on the translational nonequilibrium at low temperatures in a spherical expansion of He-4 from room temperature are studied using the direct simulation Monte Carlo method to make a comparison with the experimental measurements along the axis of a helium free jet expansion. The quantum-mechanical scattering cross sections are obtained by a quantum phase-shift calculation for the Lennard-Jones and more elaborate Hartree-Fock dispersion potentials. It is shown that the parallel and perpendicular kinetic temperatures are higher and lower, respectively, for the quantum-mechanical scattering than for the classical-mechanical scattering. A comparison with the parallel temperature determined by fitting the ellipsoidal velocity distribution function to the measured spectral profiles indicates that the parallel kinetic temperature for the quantum-mechanical scattering is higher than the measured temperature, with which the parallel kinetic temperature for the classical-mechanical scattering is fortuitously in better agreement. Because both the parallel and perpendicular velocity distribution functions appreciably deviate from Maxwellians and the Maxwellian (half-width) fit temperatures are lower than the kinetic temperatures, the discrepancy between the quantum-mechanical and measured parallel temperatures may partly be resolved by the difference between the kinetic and fitting temperatures. (C) 1999 American Institute of Physics. [S1070-6631(99)00210-X].
+C1 Natl Aerosp Lab, Fluid Sci Res Ctr, Tokyo 1828522, Japan.
+RP Koura, K (reprint author), Natl Aerosp Lab, Fluid Sci Res Ctr, Tokyo 1828522, Japan.
+CR AZIZ RA, 1979, J CHEM PHYS, V70, P4330, DOI 10.1063/1.438007
+   BARD GA, 1994, MOL GAS DYNAMICS DIR
+   BARKER JA, 1964, PHYS FLUIDS, V7, P897, DOI 10.1063/1.1711301
+   BECKER EW, 1955, Z PHYS, V140, P535, DOI 10.1007/BF01337559
+   BECKER EW, 1954, Z PHYS, V137, P126, DOI 10.1007/BF01328548
+   BERNSTEIN RB, 1960, J CHEM PHYS, V33, P795, DOI 10.1063/1.1731265
+   CATTOLICA R, 1974, PHYS FLUIDS, V17, P1793, DOI 10.1063/1.1694620
+   CATTOLICA RJ, 1974, RAREFIED GAS DYNAMIC, V1
+   CHATWANI AU, 1977, PROG ASTRONAUT AERON, V51, P461
+   CLARKE AG, 1969, J CHEM PHYS, V51, P4156, DOI 10.1063/1.1672640
+   COREMANS JMJ, 1958, PHYSICA, V24, P557, DOI 10.1016/S0031-8914(58)80070-1
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   MONCHICK L, 1965, PHYS REV, V139, P1076
+   Prince P., 1981, J COMPUT APPL MATH, V7, P67, DOI 10.1016/0771-050X(81)90010-3
+   ROTHE DE, 1966, PHYS FLUIDS, V9, P1643, DOI 10.1063/1.1761919
+NR 17
+TC 4
+Z9 4
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+   USA
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PD OCT
+PY 1999
+VL 11
+IS 10
+BP 3174
+EP 3180
+DI 10.1063/1.870220
+PG 7
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA 233BH
+UT WOS:000082405300039
+ER
+
+PT J
+AU Koura, K
+AF Koura, K
+TI Monte Carlo direct simulation of rotational relaxation of nitrogen
+   through high total temperature shock waves using classical trajectory
+   calculations
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+ID CROSS-SECTION MODEL; DIATOMIC-MOLECULES; INTERNAL ENERGY
+AB The rotational relaxation of nitrogen through high total temperature shock waves is studied using the direct simulation Monte Carlo method coupled with classical trajectory calculations. The results are obtained for the extended Morse potential employed previously for low total temperature shock waves and agree well with the experimental results of Smith and Alsmeyer except Smith's data in the rearward portion of the shock wave. (C) 1998 American Institute of Physics.
+C1 Natl Aerosp Lab, Chofu, Tokyo, Japan.
+RP Koura, K (reprint author), Natl Aerosp Lab, 7-44-1 Jindaijihigashi Machi, Chofu, Tokyo, Japan.
+CR ALSMEYER H, 1976, J FLUID MECH, V74, P497, DOI 10.1017/S0022112076001912
+   BARTELS C, 1995, RAREFIED GAS DYN, V1, P420
+   BARTELS C, 1997, RAREFIED GAS DYN, V20, P749
+   Bird G. A, 1994, MOL GAS DYNAMICS DIR
+   BOYD ID, 1993, PHYS FLUIDS A-FLUID, V5, P2278, DOI 10.1063/1.858531
+   BOYD ID, 1993, J FLUID MECH, V246, P343, DOI 10.1017/S0022112093000163
+   EVANS DJ, 1977, MOL PHYS, V34, P327, DOI 10.1080/00268977700101761
+   HASH DB, 1994, J THERMOPHYS HEAT TR, V8, P758, DOI 10.2514/3.609
+   KOURA K, 1981, PHYS FLUIDS, V24, P583, DOI 10.1063/1.863424
+   KOURA K, 1980, J CHEM PHYS, V73, P3218, DOI 10.1063/1.440516
+   Koura K, 1997, PHYS FLUIDS, V9, P3543, DOI 10.1063/1.869462
+   KOURA K, 1993, PHYS FLUIDS A-FLUID, V5, P778, DOI 10.1063/1.858664
+   KOURA K, 1977, J CHEM PHYS, V67, P1275, DOI 10.1063/1.434940
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1782, DOI 10.1063/1.858400
+   KOURA K, 1979, RAREFIED GAS DYN, V2, P833
+   MACPHERS.AK, 1971, J FLUID MECH, V49, P337, DOI 10.1017/S0022112071002106
+   MATSUMOTO Y, 1995, RAREFIED GAS DYN, V2, P808
+   NYELAND C, 1978, CHEM PHYS, V30, P401, DOI 10.1016/0301-0104(78)87011-6
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+   SMITH RB, 1972, PHYS FLUIDS, V15, P1010, DOI 10.1063/1.1694021
+NR 20
+TC 5
+Z9 5
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+   USA
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PD OCT
+PY 1998
+VL 10
+IS 10
+BP 2689
+EP 2691
+DI 10.1063/1.869782
+PG 3
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA 122DP
+UT WOS:000076056900025
+ER
+
+PT J
+AU Koura, K
+AF Koura, K
+TI Improved null-collision technique in the direct simulation Monte Carlo
+   method: Application to vibrational relaxation of nitrogen
+SO COMPUTERS & MATHEMATICS WITH APPLICATIONS
+LA English
+DT Article
+DE improved null-collision technique; direct simulation Monte Carlo method;
+   vibrational relaxation; hypersonic rarefied flow
+ID SPHERE MOLECULAR-MODEL; CROSS-SECTION MODEL; INTERNAL ENERGY; ATOM
+AB The improved null-collision (INC) technique in the direct simulation Monte Carlo (DSMC) method is developed for the simulation of diatom-diatom collision processes and detailed for elastic and rotationally and vibrationally inelastic collision processes in a spatially homogeneous cell using the realistic cross-sections. The accuracy of the INC-DSMC method is assessed by comparing with the solution of the master relaxation equation for the vibrational relaxation of nitrogen in an isolated spatially homogeneous cell. The feasibility of the INC-DSMC method for practical use is verified by simulating a hypersonic rarefied nitrogen flow over a circular cylinder.
+C1 Natl Aerosp Lab, Chofu, Tokyo 182, Japan.
+RP Koura, K (reprint author), Natl Aerosp Lab, 7-44-1 Jindaijihigashi Machi, Chofu, Tokyo 182, Japan.
+CR Bird G. A, 1994, MOL GAS DYNAMICS DIR
+   HEIDRICH FE, 1971, J CHEM PHYS, V54, P3885, DOI 10.1063/1.1675442
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   Huber K. P., 1979, MOL SPECTRA MOL STRU
+   KOURA K, 1994, PROGR ASTRONAUT AERO, V159, P459
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1995, RAREFIED GAS DYNA 19, V1, P483
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P2459, DOI 10.1063/1.858184
+   KOURA K, 1993, PHYS FLUIDS A-FLUID, V5, P778, DOI 10.1063/1.858664
+   KOURA K, 1994, PHYS FLUIDS, V6, P3473, DOI 10.1063/1.868404
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1782, DOI 10.1063/1.858400
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1083, DOI 10.1063/1.858262
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   MILLIKAN RC, 1963, J CHEM PHYS, V39, P3209, DOI 10.1063/1.1734182
+   MORSE RI, 1972, J CHEM PHYS, V56, P2329, DOI 10.1063/1.1677536
+   PARK C, 1993, J THERMOPHYS HEAT TR, V7, P385, DOI 10.2514/3.431
+   PARKER JG, 1959, PHYS FLUIDS, V2, P449, DOI 10.1063/1.1724417
+   RAPP D, 1965, J CHEM PHYS, V43, P316, DOI 10.1063/1.1696481
+   RAPP D, 1964, J CHEM PHYS, V40, P573, DOI 10.1063/1.1725158
+NR 20
+TC 9
+Z9 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0898-1221
+J9 COMPUT MATH APPL
+JI Comput. Math. Appl.
+PD JAN
+PY 1998
+VL 35
+IS 1-2
+BP 139
+EP 154
+DI 10.1016/S0898-1221(97)00264-2
+PG 16
+WC Computer Science, Interdisciplinary Applications; Mathematics, Applied
+SC Computer Science; Mathematics
+GA YQ250
+UT WOS:000071366500012
+ER
+
+PT J
+AU Koura, K
+AF Koura, K
+TI Monte Carlo direct simulation of rotational relaxation of diatomic
+   molecules using classical trajectory calculations: Nitrogen shock wave
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+ID CROSS-SECTION MODEL; INTERNAL ENERGY
+AB For accurate and realistic simulations of the rotational relaxation of diatomic molecules, the direct simulation Monte Carlo (DSMC) method is coupled with the classical trajectory calculations (CTC) for full three-dimensional collisions of two rigid diatomic molecules. The CTC-DSMC method with the null-collision technique is examined by simulating the rotational relaxation of nitrogen in an isolated cell over a wide range of temperature using the extended Morse and Lennard-Jones potentials. Although both the potentials yield almost the same results, the extended Morse potential is more efficient than the extended Lennard-Jones potential for use in the CTC-DSMC method. The CTC-DSMC method with the extended Morse potential is applied to the simulation of the rotational relaxation of nitrogen through low and high Mach number shock waves. The CTC-DSMC results obtained using available values of the potential parameters agree well with the experimental results of Robben and Talbot. (C) 1997 American Institute of Physics.
+RP Koura, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO 182,JAPAN.
+CR BARKER JA, 1964, PHYS FLUIDS, V7, P897, DOI 10.1063/1.1711301
+   BARTELS C, 1995, RAREFIED GAS DYN, V1, P420
+   Bird G. A, 1994, MOL GAS DYNAMICS DIR
+   BROMLEY LA, 1951, IND ENG CHEM, V43, P1641, DOI 10.1021/ie50499a046
+   GOLDSTEIN H, 1950, CLASSICAL MECHANICS
+   KISTEMAKER PG, 1975, CHEM PHYS, V7, P371, DOI 10.1016/0301-0104(75)87020-0
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1993, PHYS FLUIDS A-FLUID, V5, P778, DOI 10.1063/1.858664
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1782, DOI 10.1063/1.858400
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   LORDI JA, 1970, PHYS FLUIDS, V13, P291, DOI 10.1063/1.1692920
+   MACPHERS.AK, 1971, J FLUID MECH, V49, P337, DOI 10.1017/S0022112071002106
+   MATSUMOTO Y, 1995, RAREFIED GAS DYN, V2, P808
+   NYELAND C, 1978, CHEM PHYS, V30, P401, DOI 10.1016/0301-0104(78)87011-6
+   PARKER JG, 1959, PHYS FLUIDS, V2, P449, DOI 10.1063/1.1724417
+   PATTENGILL MD, 1976, J CHEM PHYS, V65, P4007, DOI 10.1063/1.432852
+   Prince P., 1981, J COMPUT APPL MATH, V7, P67, DOI 10.1016/0771-050X(81)90010-3
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+NR 18
+TC 22
+Z9 22
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PD NOV
+PY 1997
+VL 9
+IS 11
+BP 3543
+EP 3549
+DI 10.1063/1.869462
+PG 7
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA YE012
+UT WOS:A1997YE01200040
+ER
+
+PT J
+AU Koura, K
+AF Koura, K
+TI A generalization for Parker rotational relaxation model based on
+   variable soft sphere collision model
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+ID MONTE-CARLO SIMULATION; CROSS-SECTION MODEL; INTERNAL ENERGY; MOLECULES
+AB A generalization for the Parker rotational relaxation model is made on the basis of the variable soft sphere collision model. The statistical inelastic cross section model for the Monte Carlo direct simulation of rotational relaxation is modified to reproduce Parker's rotational collision number for the variable soft sphere model. (C) 1996 American Institute of Physics.
+RP Koura, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO 182,JAPAN.
+CR Bird G. A, 1994, MOL GAS DYNAMICS DIR
+   Bird G. A., 1981, PROG ASTRONAUT AERON, V74, P239
+   BORGNAKKE C, 1975, J COMPUT PHYS, V18, P405, DOI 10.1016/0021-9991(75)90094-7
+   BOYD ID, 1990, PHYS FLUIDS A-FLUID, V2, P447, DOI 10.1063/1.857740
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P2459, DOI 10.1063/1.858184
+   KOURA K, 1993, PHYS FLUIDS A-FLUID, V5, P778, DOI 10.1063/1.858664
+   KOURA K, 1994, PHYS FLUIDS, V6, P3473, DOI 10.1063/1.868404
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1782, DOI 10.1063/1.858400
+   PARKER JG, 1959, PHYS FLUIDS, V2, P449, DOI 10.1063/1.1724417
+NR 9
+TC 1
+Z9 1
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PD MAY
+PY 1996
+VL 8
+IS 5
+BP 1336
+EP 1337
+DI 10.1063/1.868904
+PG 2
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA UH305
+UT WOS:A1996UH30500021
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI A SET OF MODEL CROSS-SECTIONS FOR THE MONTE-CARLO SIMULATION OF RAREFIED
+   REAL GASES - ATOM DIATOM COLLISIONS
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+ID TRANSLATIONAL ENERGY-TRANSFER; SPHERE MOLECULAR-MODEL;
+   VIBRATION-DISSOCIATION; INTERNAL ENERGY; SHOCK-WAVES; NITROGEN;
+   RELAXATION; PARTICLE; FLOWS
+AB A set of model cross sections for atom-diatom collisions is presented for use in the Monte Carlo simulation of rarefied real gases and in the master relaxation equation.  The elastic and rotationally inelastic cross sections are taken as the variable-soft-sphere and statistical-inelastic-cross-section models, respectively.  The vibrationally inelastic and dissociation cross sections are derived by combining the improvement-to-forced-oscillator-impulsive-transfer-semiclassical vibrational transition probability and the weak-vibrational-bias dissociation probability, respectively, with the line-of-centers cross section.  The recombination is modeled by the two-step binary collision process with two cross sections for the formation and stabilization of an orbiting pair.  Assessment of reality and feasibility of the model cross sections is made by comparing the master-relaxation-equation and Monte Carlo results with available experimental data of the vibrational relaxation time, dissociation rate constant and induction time, and recombination rate constant of oxygen diluted in argon.
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Bird G. A., 1981, PROG ASTRONAUT AERON, V74, P239
+   BIRD GA, 1977, J COMPUT PHYS, V25, P353, DOI 10.1016/0021-9991(77)90003-1
+   BORGNAKKE C, 1975, J COMPUT PHYS, V18, P405, DOI 10.1016/0021-9991(75)90094-7
+   BOYD ID, 1991, PHYS FLUIDS A-FLUID, V3, P1785, DOI 10.1063/1.857959
+   BOYD ID, 1993, PHYS FLUIDS A-FLUID, V5, P2278, DOI 10.1063/1.858531
+   BOYD ID, 1990, PHYS FLUIDS A-FLUID, V2, P447, DOI 10.1063/1.857740
+   BOYD ID, 1992, PHYS FLUIDS A-FLUID, V4, P178, DOI 10.1063/1.858495
+   BRESHEAR.WD, 1971, J CHEM PHYS, V55, P4017, DOI 10.1063/1.1676695
+   CAMAC M, 1961, J CHEM PHYS, V34, P460
+   Cottrell T.L., 1961, MOL ENERGY TRANSFER
+   DAVIS J, 1983, J FLUID MECH, V135, P355, DOI 10.1017/S0022112083003122
+   GALLIS MA, 1993, 9301 IMP COLL AER RE
+   HAAS BL, 1993, PHYS FLUIDS A-FLUID, V5, P478, DOI 10.1063/1.858870
+   HAAS BL, 1992, J THERMOPHYS HEAT TR, V6, P200, DOI 10.2514/3.346
+   HANSEN FC, 1959, NASA TR R50
+   HARVEY JK, 1992, J THERMOPHYS HEAT TR, V6, P35, DOI 10.2514/3.315
+   HASH DB, 1993, J THERMOPHYS HEAT TR, V7, P680, DOI 10.2514/3.477
+   HEIDRICH FE, 1971, J CHEM PHYS, V54, P3885, DOI 10.1063/1.1675442
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   Huber K. P., 1979, MOL SPECTRA MOL STRU
+   KIEFER JH, 1979, CHEM PHYS, V38, P329, DOI 10.1016/0301-0104(79)89007-2
+   KIEFER JH, 1975, CHEM PHYS LETT, V30, P424, DOI 10.1016/0009-2614(75)80023-6
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, IN PRESS PROG ASTRON
+   KOURA K, IN PRESS MATH COMPUT
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P2459, DOI 10.1063/1.858184
+   KOURA K, 1993, PHYS FLUIDS A-FLUID, V5, P778, DOI 10.1063/1.858664
+   KOURA K, 1993, J PHYS SOC JPN, V62, P3874, DOI 10.1143/JPSJ.62.3874
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1782, DOI 10.1063/1.858400
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1083, DOI 10.1063/1.858262
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   LIGHT JC, 1969, KINETIC PROCESSES GA, P281
+   LUMPKIN FE, 1991, PHYS FLUIDS A-FLUID, V3, P2282, DOI 10.1063/1.857964
+   MARRIOTT PM, 1991, RAREFIED GAS DYNAMICS, P784
+   MILLIKAN RC, 1963, J CHEM PHYS, V39, P3209, DOI 10.1063/1.1734182
+   MORSE RI, 1971, J CHEM PHYS, V55, P1522, DOI 10.1063/1.1676274
+   OLYNICK DP, 1992, J THERMOPHYS HEAT TR, V6, P22, DOI 10.2514/3.313
+   OLYNICK DP, 1992, J THERMOPHYS HEAT TR, V6, P626, DOI 10.2514/3.11543
+   PARK C, 1993, J THERMOPHYS HEAT TR, V7, P385, DOI 10.2514/3.431
+   PARKER JG, 1964, J CHEM PHYS, V41, P1600, DOI 10.1063/1.1726130
+   PARKER JG, 1959, PHYS FLUIDS, V2, P449, DOI 10.1063/1.1724417
+   SMITH FT, 1969, KINETIC PROCESSES GA, P321
+   VINCENTI WG, 1965, INTRO PHYSICAL GAS D
+   WATT WS, 1969, J CHEM PHYS, V51, P1638, DOI 10.1063/1.1672225
+   WRAY KL, 1962, J CHEM PHYS, V37, P1254, DOI 10.1063/1.1733273
+   WRAY KL, 1963, J CHEM PHYS, V38, P1518, DOI 10.1063/1.1776912
+NR 46
+TC 14
+Z9 14
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PD OCT
+PY 1994
+VL 6
+IS 10
+BP 3473
+EP 3486
+DI 10.1063/1.868404
+PG 14
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA PJ435
+UT WOS:A1994PJ43500028
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF RAREFIED NITROGEN GASES CONTAINED BETWEEN
+   PARALLEL PLATES USING STATISTICAL INELASTIC CROSS-SECTION MODEL
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID SPHERE MOLECULAR-MODEL
+AB The statistical inelastic cross-section [SICS(D)] model for molecules with discrete rotational energy is used for the Monte Carlo simulation of rarefied nitrogen gases contained between two parallel plates at a large temperature difference with the null-collision direct-simulation Monte Carlo method. The density distribution is compared with the experimental data and fair agreement is obtained for the fully diffuse reflection plates. The rotational distribution near the cold plate indicates the bimodal form represented approximately by the merging of two Boltzmann distributions at the cold and hot plate temperatures.
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO 182,JAPAN.
+CR ALOFS DJ, 1971, PHYS FLUIDS, V14, P529, DOI 10.1063/1.1693466
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1993, PREPRINT
+   KOURA K, IN PRESS AIAA PROG A
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P2459, DOI 10.1063/1.858184
+   KOURA K, 1993, PHYS FLUIDS A-FLUID, V5, P778, DOI 10.1063/1.858664
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1782, DOI 10.1063/1.858400
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1083, DOI 10.1063/1.858262
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   PARKER JG, 1959, PHYS FLUIDS, V2, P449, DOI 10.1063/1.1724417
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+   TEAGAN WP, 1968, PHYS FLUIDS, V11, P497, DOI 10.1063/1.1691944
+NR 13
+TC 2
+Z9 2
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD NOV
+PY 1993
+VL 62
+IS 11
+BP 3874
+EP 3880
+DI 10.1143/JPSJ.62.3874
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA MH621
+UT WOS:A1993MH62100023
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI STATISTICAL INELASTIC CROSS-SECTION MODEL FOR THE MONTE-CARLO SIMULATION
+   OF MOLECULES WITH DISCRETE INTERNAL ENERGY
+SO PHYSICS OF FLUIDS A-FLUID DYNAMICS
+LA English
+DT Article
+ID INVERSE-POWER-LAW; COLLISION NUMBER; NONEQUILIBRIUM; SPHERE
+AB The statistical inelastic cross-section (SICS) model based on the statistical uncorrelation assumption is derived using the microscopic reversibility relation for the Monte Carlo simulation of molecules with discrete internal energy. The SICS model is specified for rotationally inelastic collisions by employing Parker's rotational energy gain function and applied to the calculation of the rotational distribution through a nitrogen shock wave with the null-collision direct-simulation Monte Carlo method. It is shown that the SICS model produces the Boltzmann and bimodal rotational distributions in low and high Mach number shock waves, respectively, consistent with the experimental results of Robben and Talbot [Phys. Fluids 9, 653 (1966)]. Quantitative agreement between the Monte Carlo and experimental results of the rotational distribution as well as the density and rotational temperature profiles is reasonable for available values of the SICS parameters.
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ALEXANDER MH, 1980, J CHEM PHYS, V73, P3797, DOI 10.1063/1.440609
+   Bird G. A., 1981, PROG ASTRONAUT AERON, V74, P239
+   BORGNAKKE C, 1975, J COMPUT PHYS, V18, P405, DOI 10.1016/0021-9991(75)90094-7
+   BOYD ID, 1990, AIAA J, V28, P1997, DOI 10.2514/3.10511
+   BOYD ID, 1990, PHYS FLUIDS A-FLUID, V2, P447, DOI 10.1063/1.857740
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P1835, DOI 10.1063/1.857912
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P2459, DOI 10.1063/1.858184
+   KOURA K, 1992, PHYS FLUIDS A-FLUID, V4, P1083, DOI 10.1063/1.858262
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   LIGHT JC, 1969, KINETIC PROCESSES GA, P281
+   LUMPKIN FE, 1991, PHYS FLUIDS A-FLUID, V3, P2282, DOI 10.1063/1.857964
+   MAITLAND GC, 1972, J CHEM ENG DATA, V17, P150, DOI 10.1021/je60053a015
+   PARKER JG, 1964, J CHEM PHYS, V41, P1600, DOI 10.1063/1.1726130
+   PARKER JG, 1959, PHYS FLUIDS, V2, P449, DOI 10.1063/1.1724417
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+   Uhlenbeck G.E., 1964, STUD STAT MECH, V2, P241
+NR 19
+TC 20
+Z9 20
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0899-8213
+J9 PHYS FLUIDS A-FLUID
+PD AUG
+PY 1992
+VL 4
+IS 8
+BP 1782
+EP 1788
+DI 10.1063/1.858400
+PG 7
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA JE923
+UT WOS:A1992JE92300023
+ER
+
+PT J
+AU MATSUMOTO, H
+   KOURA, K
+AF MATSUMOTO, H
+   KOURA, K
+TI COMPARISON OF VELOCITY DISTRIBUTION-FUNCTIONS IN AN ARGON SHOCK-WAVE
+   BETWEEN EXPERIMENTS AND MONTE-CARLO CALCULATIONS FOR LENNARD-JONES
+   POTENTIAL
+SO PHYSICS OF FLUIDS A-FLUID DYNAMICS
+LA English
+DT Article
+ID SIMULATION
+AB The velocity distribution functions (VDF's) in an argon normal shock wave at an upstream high Mach number 7.183 and low temperature 16 K are calculated using the null-collision direct-simulation Monte Carlo method for the Lennard-Jones (LJ) potential to compare with the experimental results of Holtz and Muntz [Phys. Fluids 26, 2425 (1983)].  The convolved VDF's for the LJ potential are in reasonable agreement with the measured data in early and late regions of the shock wave but significantly different in the middle region.  This discrepancy cannot be explained by a possible uncertainty in the potential well depth.  Moreover, the difference in the convolved VDF's between the LJ potential and the softest and hardest unrealistic molecular models with no attractive force, i.e., the Maxwell molecule and hard sphere, is much smaller than the discrepancy between the experiments and Monte Carlo calculations.
+C1 NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Bird G. A., 1976, MOL GAS DYNAMICS
+   ERWIN DA, 1989, AIAA891883 PAP
+   ERWIN DA, 1991, PHYS FLUIDS A-FLUID, V3, P697, DOI 10.1063/1.858075
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   HIRSCHFELDER JO, 1948, J CHEM PHYS, V16, P968, DOI 10.1063/1.1746696
+   HOLTZ T, 1974, THESIS U SO CALIFORN
+   HOLTZ T, 1983, PHYS FLUIDS, V26, P2425, DOI 10.1063/1.864428
+   Johnston HL, 1942, J PHYS CHEM-US, V46, P948, DOI 10.1021/j150422a019
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   Maitland G. C., 1981, INTERMOLECULAR FORCE
+   MASON EA, 1962, ATOMIC MOLECULAR PRO, P663
+   MATSUMOTO H, 1991, THESIS U TOKYO
+   PHAMVANDIEP GC, 1989, PROG ASTRONAUT AERON, V118, P271
+   Takahasi H., 1974, PUBL RES I MATH SCI, V9, P721, DOI DOI 10.2977/PRIMS/1195192451
+   YEN SM, 1967, RAREFIED GAS DYN, V1, P785
+NR 17
+TC 3
+Z9 3
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0899-8213
+J9 PHYS FLUIDS A-FLUID
+PD DEC
+PY 1991
+VL 3
+IS 12
+BP 3038
+EP 3045
+DI 10.1063/1.857848
+PG 8
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA GT358
+UT WOS:A1991GT35800024
+ER
+
+PT J
+AU KOURA, K
+   MATSUMOTO, H
+AF KOURA, K
+   MATSUMOTO, H
+TI VARIABLE SOFT SPHERE MOLECULAR-MODEL FOR INVERSE-POWER-LAW OF
+   LENNARD-JONES POTENTIAL
+SO PHYSICS OF FLUIDS A-FLUID DYNAMICS
+LA English
+DT Article
+ID MONTE-CARLO METHOD; SIMULATION
+AB The variable soft sphere (VSS) molecular model is introduced for both the viscosity and diffusion cross sections (coefficients) to be consistent with those of the inverse-power-law (IPL) or Lennard-Jones (LJ) potential.  The VSS model has almost the same analytical and computational simplicity (computation time) as the variable hard sphere (VHS) model in the Monte Carlo simulation of rarefied gas flows.  The null-collision Monte Carlo method is used to make comparative calculations for the molecular diffusion in a heat-bath gas and the normal shock wave structure in a simple gas.  For the most severe test of the VSS model for the IPL potential, the softest practical model corresponding to the Maxwell molecule is chosen.  The agreement in the molecular diffusion and shock wave structure between the VSS model and the IPL or LJ potential is remarkably good.
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Bird G. A., 1981, PROG ASTRONAUT AERON, V74, P239
+   Bird G. A., 1976, MOL GAS DYNAMICS
+   BIRD GA, 1983, PHYS FLUIDS, V26, P3222, DOI 10.1063/1.864095
+   Chapman S, 1970, MATH THEORY NONUNIFO
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   HIRSCHFELDER JO, 1948, J CHEM PHYS, V16, P968, DOI 10.1063/1.1746696
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1991, PHYS FLUIDS A-FLUID, V3, P1835, DOI 10.1063/1.857912
+   KOURA K, 1990, PHYS FLUIDS A-FLUID, V2, P1287, DOI 10.1063/1.857577
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   Maitland G. C., 1981, INTERMOLECULAR FORCE
+   MATSUMOTO H, 1991, THESIS U TOKYO
+   MATSUMOTO H, IN PRESS PHYS FLUI A
+   Takahasi H., 1974, PUBL RES I MATH SCI, V9, P721, DOI DOI 10.2977/PRIMS/1195192451
+NR 14
+TC 119
+Z9 121
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0899-8213
+J9 PHYS FLUIDS A-FLUID
+PD OCT
+PY 1991
+VL 3
+IS 10
+BP 2459
+EP 2465
+DI 10.1063/1.858184
+PG 7
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA GM595
+UT WOS:A1991GM59500017
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI DIRECT SIMULATION OF VORTEX SHEDDING IN DILUTE GAS-FLOWS PAST AN
+   INCLINED FLAT-PLATE
+SO PHYSICS OF FLUIDS A-FLUID DYNAMICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Bird G. A., 1976, MOL GAS DYNAMICS
+   BIRD GA, 1987, PHYS FLUIDS, V30, P364, DOI 10.1063/1.866386
+   KOURA K, 1988, PUBLICATION NAL SP, V9, P183
+   KOURA K, 1986, PUBLICATION NAL SP, V7, P159
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1989, NAL TR1016T NAT AER
+   KOURA K, 1984, PUBLICATION NAL SP, V3, P17
+   KOURA K, 1987, PUBLICATION NAL SP, V8, P103
+   KOURA K, 1970, PHYS FLUIDS, V13, P1457, DOI 10.1063/1.1693102
+   KOURA K, 1989, PROG ASTRONAUT AERON, V117, P25
+   MEIBURG E, 1986, PHYS FLUIDS, V29, P3107, DOI 10.1063/1.865961
+   SARPKAYA T, 1975, J FLUID MECH, V68, P109, DOI 10.1017/S0022112075000717
+   SHAIR FH, 1963, J FLUID MECH, V17, P546, DOI 10.1017/S0022112063001506
+NR 13
+TC 8
+Z9 9
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0899-8213
+J9 PHYS FLUIDS A-FLUID
+PD FEB
+PY 1990
+VL 2
+IS 2
+BP 209
+EP 213
+DI 10.1063/1.857771
+PG 5
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA CL863
+UT WOS:A1990CL86300011
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI THERMALIZATION PROCESS OF KEV SOURCE ELECTRONS IN HE
+SO RADIATION PHYSICS AND CHEMISTRY
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ANDERSEN K, 1964, J CHEM PHYS, V40, P633, DOI 10.1063/1.1725183
+   BRAGLIA GL, 1966, NUOVO CIMENT B, V41, P96, DOI 10.1007/BF02711127
+   BRAGLIA GL, 1981, NUOVO CIMENTO B, V62, P139, DOI 10.1007/BF02721256
+   CROMPTON RW, 1970, AUST J PHYS, V23, P667
+   DEHEER FJ, 1977, J PHYS B-AT MOL OPT, V10, P3741, DOI 10.1088/0022-3700/10/18/030
+   DOUTHAT DA, 1975, RADIAT RES, V61, P1, DOI 10.2307/3574054
+   DOUTHAT D, 1971, RADIAT RES, V47, P333
+   DOUTHAT DA, 1983, J CHEM PHYS, V79, P4599, DOI 10.1063/1.446375
+   HAYASHI M, 1981, IPPJAM19 NAG U I PLA
+   Huxley L.G.H., 1974, DIFFUSION DRIFT ELEC
+   INOKUTI M, 1987, INT J QUANTUM CHEM S, V21, P251
+   KNIERIM KD, 1982, J CHEM PHYS, V77, P943, DOI 10.1063/1.443870
+   KOURA K, 1984, J CHEM PHYS, V81, P4180, DOI 10.1063/1.448133
+   KOURA K, 1987, J PHYS SOC JPN, V56, P429, DOI 10.1143/JPSJ.56.429
+   KOURA K, 1985, J CHEM PHYS, V82, P4724, DOI 10.1063/1.448971
+   KOURA K, 1984, J CHEM PHYS, V80, P5799, DOI 10.1063/1.446604
+   KOURA K, 1987, J CHEM PHYS, V87, P6481, DOI 10.1063/1.453430
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   KOURA K, 1986, J CHEM PHYS, V84, P6227, DOI 10.1063/1.450766
+   KOURA K, 1985, NAL TR866T NAT AER L
+   KOURA K, 1984, J CHEM PHYS, V81, P303, DOI 10.1063/1.447385
+   KOURA K, 1985, J CHEM PHYS, V82, P2566, DOI 10.1063/1.448307
+   KOURA K, 1987, J CHEM PHYS, V86, P500, DOI 10.1063/1.452796
+   MASSEY HWS, 1969, ELECTRONIC IONIC IMP, V1
+   MILLOY HB, 1977, PHYS REV A, V15, P1847, DOI 10.1103/PhysRevA.15.1847
+   MOZUMDER A, 1982, J CHEM PHYS, V76, P3277, DOI 10.1063/1.443322
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P1657, DOI 10.1063/1.439274
+   NISHIGORI T, 1985, J CHEM PHYS, V82, P2106, DOI 10.1063/1.448347
+   OPAL CB, 1971, J CHEM PHYS, V55, P4100, DOI 10.1063/1.1676707
+   OSER H, 1964, J CHEM PHYS, V1, P2661
+   PLATZMAN RL, 1955, RADIAT RES, V2, P1, DOI 10.2307/3570224
+   REGISTER DF, 1980, PHYS REV A, V21, P1134, DOI 10.1103/PhysRevA.21.1134
+   SHIZGAL B, 1984, J PHYS CHEM-US, V88, P4854, DOI 10.1021/j150665a011
+   SHIZGAL B, 1983, J CHEM PHYS, V78, P5741, DOI 10.1063/1.445456
+   SHIZGAL B, 1983, CHEM PHYS LETT, V100, P41, DOI 10.1016/0009-2614(83)87259-5
+   SKULLERU.HR, 1968, J PHYS D APPL PHYS, V1, P1567, DOI 10.1088/0022-3727/1/11/423
+   SUZUKI E, 1986, J CHEM PHYS, V85, P5341, DOI 10.1063/1.451678
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 39
+TC 1
+Z9 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+J9 RADIAT PHYS CHEM
+JI Radiat. Phys. Chem.
+PY 1989
+VL 34
+IS 1
+BP 51
+EP 60
+PG 10
+WC Chemistry, Physical; Nuclear Science & Technology; Physics, Atomic,
+   Molecular & Chemical
+SC Chemistry; Nuclear Science & Technology; Physics
+GA AF722
+UT WOS:A1989AF72200005
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF ELECTRON THERMALIZATION IN GASES .8.
+   THERMALIZATION DISTANCE AND MICROWAVE CONDUCTIVITY IN RARE-GASES
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,JINDAIJIHIGASHI,CHOFU,TOKYO,JAPAN.
+CR DESLOGE EA, 1958, PHYS REV, V112, P1437, DOI 10.1103/PhysRev.112.1437
+   HAYASHI M, 1981, IPPJAM19 NAG U I PLA
+   Hayashi M, UNPUB
+   Huxley L.G.H., 1974, DIFFUSION DRIFT ELEC
+   IKUTA N, 1985, J PHYS SOC JPN, V54, P2485, DOI 10.1143/JPSJ.54.2485
+   IKUTA N, 1983, JPN J APPL PHYS 1, V22, P117, DOI 10.1143/JJAP.22.117
+   KOIZUMI T, 1986, J PHYS B-AT MOL OPT, V19, P2331
+   KOURA K, 1984, J CHEM PHYS, V81, P4180, DOI 10.1063/1.448133
+   KOURA K, 1987, NALTR926T NAT AER LA
+   KOURA K, 1987, J PHYS SOC JPN, V56, P429, DOI 10.1143/JPSJ.56.429
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   KOURA K, 1986, J CHEM PHYS, V84, P6227, DOI 10.1063/1.450766
+   KOURA K, 1987, J CHEM PHYS, V87, P1248, DOI 10.1063/1.453306
+   KOURA K, 1986, J PHYS SOC JPN, V55, P2500, DOI 10.1143/JPSJ.55.2500
+   KOURA K, 1985, J CHEM PHYS, V82, P2566, DOI 10.1063/1.448307
+   KOURA K, 1987, J CHEM PHYS, V86, P500, DOI 10.1063/1.452796
+   LIN SL, 1977, J CHEM PHYS, V66, P435, DOI 10.1063/1.433988
+   MARGENAU H, 1958, PHYS REV, V109, P6, DOI 10.1103/PhysRev.109.6
+   MCMAHON DRA, 1985, PHYS REV A, V31, P1894, DOI 10.1103/PhysRevA.31.1894
+   MILLOY HB, 1977, AUST J PHYS, V30, P61
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P6289, DOI 10.1063/1.439043
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P1657, DOI 10.1063/1.439274
+   NESBET RK, 1979, PHYS REV A, V20, P58, DOI 10.1103/PhysRevA.20.58
+   OGAWA I, COMMUNICATION
+   OMALLEY TF, 1980, J PHYS B-AT MOL OPT, V13, P3451, DOI 10.1088/0022-3700/13/17/023
+   RANGANATHAN S, 1987, CHEM PHYS LETT, V134, P220, DOI 10.1016/0009-2614(87)87125-7
+   SKULLERU.HR, 1968, J PHYS D APPL PHYS, V1, P1567, DOI 10.1088/0022-3727/1/11/423
+   SUZUKI E, 1986, J CHEM PHYS, V84, P4915, DOI 10.1063/1.449979
+   SUZUKI E, 1986, J CHEM PHYS, V85, P5341, DOI 10.1063/1.451678
+   SUZUKI M, 1982, NUCL INSTRUM METHODS, V192, P565, DOI 10.1016/0029-554X(82)90874-6
+   TAKAHASHI T, 1981, IONIZING RAD, V8, P20
+   TEMBE BL, 1983, J CHEM PHYS, V78, P2030, DOI 10.1063/1.444950
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 35
+TC 8
+Z9 8
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD DEC 1
+PY 1987
+VL 87
+IS 11
+BP 6481
+EP 6487
+DI 10.1063/1.453430
+PG 7
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA L0568
+UT WOS:A1987L056800030
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF ELECTRON THERMALIZATION IN GASES .7. IMAGINARY
+   COMPONENT OF MICROWAVE CONDUCTIVITY OF AR
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR DESLOGE EA, 1958, PHYS REV, V112, P1437, DOI 10.1103/PhysRev.112.1437
+   HADDAD GN, 1982, AUST J PHYS, V35, P35
+   HAYASHI M, 1981, IPPJAM19 NAG U I PLA
+   KOURA K, 1986, J CHEM PHYS, V84, P6227, DOI 10.1063/1.450766
+   KOURA K, 1985, NAL TR866T NAT AER L
+   KOURA K, 1985, J CHEM PHYS, V82, P2566, DOI 10.1063/1.448307
+   KOURA K, 1987, J CHEM PHYS, V86, P500, DOI 10.1063/1.452796
+   MARGENAU H, 1958, PHYS REV, V109, P6, DOI 10.1103/PhysRev.109.6
+   MILLOY HB, 1977, AUST J PHYS, V30, P61
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P6289, DOI 10.1063/1.439043
+   SUZUKI E, 1986, J CHEM PHYS, V84, P4915, DOI 10.1063/1.449979
+   SUZUKI E, COMMUNICATION
+   SUZUKI E, 1986, J CHEM PHYS, V85, P5341, DOI 10.1063/1.451678
+   TAKAHASHI T, 1982, PHYS REV A, V25, P2820, DOI 10.1103/PhysRevA.25.2820
+   TAKAHASHI T, 1982, PHYS REV A, V25, P600, DOI 10.1103/PhysRevA.25.600
+   TEMBE BL, 1983, PHYS REV A, V27, P3274, DOI 10.1103/PhysRevA.27.3274
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+NR 17
+TC 5
+Z9 5
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JUL 15
+PY 1987
+VL 87
+IS 2
+BP 1248
+EP 1250
+DI 10.1063/1.453306
+PG 3
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA J1661
+UT WOS:A1987J166100053
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI SCALING RULE FOR ELECTRON SWARM IN RARE-GASES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO 182,JAPAN.
+CR HAYASHI M, 1981, IPPJAM19 NAG U I PLA
+   Huxley L.G.H., 1974, DIFFUSION DRIFT ELEC
+   KOURA K, 1984, J CHEM PHYS, V81, P4180, DOI 10.1063/1.448133
+   KOURA K, 1986, PHYS FLUIDS, V29, P3509, DOI 10.1063/1.865826
+   KOURA K, 1986, J PHYS SOC JPN, V55, P2500, DOI 10.1143/JPSJ.55.2500
+   LIN SL, 1977, J CHEM PHYS, V66, P435, DOI 10.1063/1.433988
+   NESBET RK, 1979, PHYS REV A, V20, P58, DOI 10.1103/PhysRevA.20.58
+   OMALLY TF, 1963, PHYS REV, V130, P1020, DOI 10.1103/PhysRev.130.1020
+   SKULLERU.HR, 1968, J PHYS D APPL PHYS, V1, P1567, DOI 10.1088/0022-3727/1/11/423
+NR 9
+TC 7
+Z9 7
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD FEB
+PY 1987
+VL 56
+IS 2
+BP 429
+EP 432
+DI 10.1143/JPSJ.56.429
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA H0945
+UT WOS:A1987H094500003
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF AN ELECTRON SWARM IN AN ARGON-LIKE GAS
+SO AUSTRALIAN JOURNAL OF PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,7-44-1 JINDAIJIHIGASHI,CHOFU,TOKYO,JAPAN.
+CR GOLDEN DE, 1966, PHYS REV, V151, P48, DOI 10.1103/PhysRev.151.48
+   Huxley L.G.H., 1974, DIFFUSION DRIFT ELEC
+   KOURA K, 1984, J CHEM PHYS, V80, P5799, DOI 10.1063/1.446604
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   MCMAHON DRA, 1985, PHYS REV A, V31, P1894, DOI 10.1103/PhysRevA.31.1894
+   MILLOY HB, 1977, AUST J PHYS, V30, P73
+   WARMAN JM, 1985, PHYS REV A, V31, P1974, DOI 10.1103/PhysRevA.31.1974
+NR 7
+TC 4
+Z9 4
+PU C S I R O PUBLICATIONS
+PI COLLINGWOOD
+PA 150 OXFORD ST, PO BOX 1139, COLLINGWOOD VICTORIA 3066, AUSTRALIA
+SN 0004-9506
+J9 AUST J PHYS
+JI Aust. J. Phys.
+PY 1987
+VL 40
+IS 1
+BP 61
+EP 64
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA G8189
+UT WOS:A1987G818900006
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF ELECTRON THERMALIZATION IN GASES .6. MICROWAVE
+   CONDUCTIVITIES OF HE AND AR
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR DESLOGE EA, 1958, PHYS REV, V112, P1437, DOI 10.1103/PhysRev.112.1437
+   HADDAD GN, 1982, AUST J PHYS, V35, P35
+   HAYASHI M, 1981, IPPJAM19 NAG U I PLA
+   KOURA K, 1985, TR866T NAT AER LAB T
+   KOURA K, 1985, AT COLLISION RES JPN, V11, P161
+   KOURA K, 1984, J CHEM PHYS, V81, P303, DOI 10.1063/1.447385
+   KOURA K, 1985, J CHEM PHYS, V82, P2566, DOI 10.1063/1.448307
+   MARGENAU H, 1946, PHYS REV, V69, P508, DOI 10.1103/PhysRev.69.508
+   MARGENAU H, 1958, PHYS REV, V109, P6, DOI 10.1103/PhysRev.109.6
+   MCMAHON DRA, 1985, PHYS REV A, V31, P1894, DOI 10.1103/PhysRevA.31.1894
+   MILLOY HB, 1977, AUST J PHYS, V30, P61
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P1657, DOI 10.1063/1.439274
+   NESBET RK, 1979, PHYS REV A, V20, P58, DOI 10.1103/PhysRevA.20.58
+   OMALLY TF, 1963, PHYS REV, V130, P1020, DOI 10.1103/PhysRev.130.1020
+   SHIZGAL B, 1984, J PHYS CHEM-US, V88, P4854, DOI 10.1021/j150665a011
+   SMITH D, 1975, J PHYS B-AT MOL OPT, V8, P997, DOI 10.1088/0022-3700/8/6/027
+   SOWADA U, 1982, J ELECTROSTAT, V12, P37, DOI 10.1016/0304-3886(82)90064-X
+   SUZUKI E, 1986, J CHEM PHYS, V84, P4915, DOI 10.1063/1.449979
+   SUZUKI E, COMMUNICATION
+   TAYLOR LS, 1961, PHYS FLUIDS, V4, P1499, DOI 10.1063/1.1706250
+   TEMBE BL, 1984, J CHEM PHYS, V81, P2492, DOI 10.1063/1.447908
+   WARMAN JM, 1985, PHYS REV A, V31, P1974, DOI 10.1103/PhysRevA.31.1974
+   WARMAN JM, 1984, J CHEM PHYS, V81, P3908, DOI 10.1063/1.448174
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 25
+TC 11
+Z9 11
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JUN 1
+PY 1986
+VL 84
+IS 11
+BP 6227
+EP 6232
+DI 10.1063/1.450766
+PG 6
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA C4237
+UT WOS:A1986C423700030
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF ELECTRON THERMALIZATION IN GASES .5.
+   SUBEXCITATION ELECTRONS IN RARE-GASES
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ANDERSEN K, 1964, J CHEM PHYS, V40, P633, DOI 10.1063/1.1725183
+   BRAGLIA GL, 1981, NUOVO CIMENTO B, V62, P139, DOI 10.1007/BF02721256
+   CROMPTON RW, 1970, AUST J PHYS, V23, P667
+   CROMPTON RW, 1967, AUST J PHYS, V20, P369
+   DEAN AG, 1974, J PHYS B-AT MOL OPT, V7, P644, DOI 10.1088/0022-3700/7/5/016
+   KNIERIM KD, 1982, J CHEM PHYS, V77, P943, DOI 10.1063/1.443870
+   KOURA K, 1984, J CHEM PHYS, V81, P4180, DOI 10.1063/1.448133
+   KOURA K, 1984, NAL TR843T NAT AER L
+   KOURA K, 1984, J CHEM PHYS, V80, P5799, DOI 10.1063/1.446604
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   KOURA K, 1984, NAL TR834T NAT AER L
+   KOURA K, 1984, J PHYS SOC JPN, V53, P4192, DOI 10.1143/JPSJ.53.4192
+   KOURA K, 1984, J CHEM PHYS, V81, P303, DOI 10.1063/1.447385
+   MILLOY HB, 1977, PHYS REV A, V15, P1847, DOI 10.1103/PhysRevA.15.1847
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P6289, DOI 10.1063/1.439043
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P1657, DOI 10.1063/1.439274
+   NESBET RK, 1979, PHYS REV A, V20, P58, DOI 10.1103/PhysRevA.20.58
+   NISHIKAWA A, COMMUNICATION
+   OMALLY TF, 1963, PHYS REV, V130, P1020, DOI 10.1103/PhysRev.130.1020
+   OGAWA I, COMMUNICATION
+   OSER H, 1964, J CHEM PHYS, V41, P2661, DOI 10.1063/1.1726334
+   SHIZGAL B, 1984, J PHYS CHEM-US, V88, P4854, DOI 10.1021/j150665a011
+   SHIZGAL B, 1983, J CHEM PHYS, V78, P5741, DOI 10.1063/1.445456
+   SHIZGAL B, 1983, CHEM PHYS LETT, V100, P41, DOI 10.1016/0009-2614(83)87259-5
+   SMITH D, 1975, J PHYS B-AT MOL OPT, V8, P997, DOI 10.1088/0022-3700/8/6/027
+   SOWADA U, 1982, J ELECTROSTAT, V12, P37, DOI 10.1016/0304-3886(82)90064-X
+   SUZUKI E, COMMUNICATION
+   TAKAHASHI T, UNPUB PHYS REV
+   TAKAHASHI T, 1982, PHYS REV A, V25, P600, DOI 10.1103/PhysRevA.25.600
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1970, J CHEM PHYS, V52, P6428, DOI 10.1063/1.1672964
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 32
+TC 17
+Z9 17
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1985
+VL 82
+IS 6
+BP 2566
+EP 2572
+DI 10.1063/1.448307
+PG 7
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA AFE18
+UT WOS:A1985AFE1800008
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF ELECTRON THERMALIZATION IN GASES .3.
+   EPITHERMAL ELECTRONS IN MOLECULAR NITROGEN
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR CAPITELLI M, 1981, J PHYS LETT-PARIS, V42, pL469
+   CAPITELLI M, 1983, J PHYS LETT-PARIS, V44, pL251
+   CHANDRA N, 1973, J PHYS B-AT MOL OPT, V6, P2355, DOI 10.1088/0022-3700/6/11/030
+   ENGELHARDT AG, 1964, PHYS REV A-GEN PHYS, V135, P1566
+   FROST LS, 1962, PHYS REV, V127, P1621, DOI 10.1103/PhysRev.127.1621
+   GERJUOY E, 1955, PHYS REV, V97, P1671, DOI 10.1103/PhysRev.97.1671
+   Herzberg G., 1950, MOL SPECTRA MOL STRU, VI
+   Huber K P, 1979, CONSTANTS DIATOMIC M, V4
+   HUXLEY LGH, 1974, DIFFUSION DRIFT ELEC, P82
+   KOURA K, 1983, J CHEM PHYS, V80, P5799
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   MENTZONI MH, 1963, PHYS REV, V130, P2312, DOI 10.1103/PhysRev.130.2312
+   NIGHAN WL, 1970, PHYS REV A, V2, P1989, DOI 10.1103/PhysRevA.2.1989
+   RAO KVN, 1963, 6 P INT C ION PHEN, V3, P69
+   SMITH D, 1975, J PHYS B-AT MOL OPT, V8, P997, DOI 10.1088/0022-3700/8/6/027
+   TEMBE BL, 1983, J CHEM PHYS, V78, P2030, DOI 10.1063/1.444950
+   VANLINT VAJ, 1964, IEEE T NUCL SCI, VNS11, P266, DOI 10.1109/TNS.1964.4323354
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 19
+TC 19
+Z9 19
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1984
+VL 81
+IS 1
+BP 303
+EP 308
+DI 10.1063/1.447385
+PG 6
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA TA661
+UT WOS:A1984TA66100036
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI MONTE-CARLO SIMULATION OF ELECTRON THERMALIZATION IN GASES .2.
+   SUBEXCITATION ELECTRONS IN MOLECULAR-HYDROGEN
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Chapman S, 1970, MATH THEORY NONUNIFO
+   CROMPTON RW, 1969, AUST J PHYS, V22, P715
+   CROMPTON RW, 1970, PHYS REV A, V2, P1386, DOI 10.1103/PhysRevA.2.1386
+   DOUTHAT DA, 1979, J PHYS B-AT MOL OPT, V12, P663, DOI 10.1088/0022-3700/12/4/015
+   EHRHARDT H, 1968, PHYS REV, V173, P222, DOI 10.1103/PhysRev.173.222
+   ENGELHARDT AG, 1963, PHYS REV, V131, P2115, DOI 10.1103/PhysRev.131.2115
+   GERJUOY E, 1955, PHYS REV, V97, P1671, DOI 10.1103/PhysRev.97.1671
+   GIBSON DK, 1970, AUST J PHYS, V23, P683
+   Hayashi M., COMMUNICATION
+   Herzberg G., 1950, MOL SPECTRA MOL STRU, VI
+   Huber K P, 1979, CONSTANTS DIATOMIC M, V4
+   ITIKAWA Y, 1973, PHYS FLUIDS, V16, P831, DOI 10.1063/1.1694435
+   KNIERIM KD, 1982, J CHEM PHYS, V77, P943, DOI 10.1063/1.443870
+   KOURA K, 1973, J CHEM PHYS, V59, P691, DOI 10.1063/1.1680076
+   KOURA K, 1983, NAL TM502 NATL AER L
+   KOURA K, 1974, RAREFIED GAS DYNAMIC, P487
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   KOURA K, 1980, J CHEM PHYS, V72, P268, DOI 10.1063/1.438888
+   KOURA K, 1975, J CHEM PHYS, V63, P3302, DOI 10.1063/1.431817
+   KOURA K, 1970, PHYS FLUIDS, V13, P1457, DOI 10.1063/1.1693102
+   KOURA K, UNPUB
+   KOURA K, 1969, THESIS U TOKYO
+   LINDER F, 1971, Z NATURFORSCH PT A, VA 26, P1603
+   MASSEY HSW, 1969, ELECTRONIC IONIC IMP, V2
+   MOZUMDER A, 1981, J CHEM PHYS, V74, P6911, DOI 10.1063/1.441102
+   MOZUMDER A, 1982, J CHEM PHYS, V76, P3277, DOI 10.1063/1.443322
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P6289, DOI 10.1063/1.439043
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P1657, DOI 10.1063/1.439274
+   PLATZMAN RL, 1955, RADIAT RES, V2, P1, DOI 10.2307/3570224
+   SHIZGAL B, 1983, J CHEM PHYS, V78, P5741, DOI 10.1063/1.445456
+   SHIZGAL B, 1983, CHEM PHYS LETT, V100, P41, DOI 10.1016/0009-2614(83)87259-5
+   TEMBE BL, 1983, J CHEM PHYS, V78, P2030, DOI 10.1063/1.444950
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 34
+TC 15
+Z9 15
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1984
+VL 80
+IS 11
+BP 5799
+EP 5805
+DI 10.1063/1.446604
+PG 7
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA SV519
+UT WOS:A1984SV51900061
+ER
+
+PT J
+AU KAMIMURA, T
+   TSUCHIYA, M
+   URAKAMI, K
+   KOURA, K
+   SEKINE, M
+   SHINOZAKI, K
+   MIURA, K
+   HATA, T
+AF KAMIMURA, T
+   TSUCHIYA, M
+   URAKAMI, K
+   KOURA, K
+   SEKINE, M
+   SHINOZAKI, K
+   MIURA, K
+   HATA, T
+TI SYNTHESIS OF A DODECARIBONUCLEOTIDE, GUAUCAAUAAUG, BY USE OF FULLY
+   PROTECTED RIBONUCLEOTIDE BUILDING-BLOCKS
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+C1 TOKYO INST TECHNOL,DEPT LIFE CHEM,YOKOHAMA,KANAGAWA 227,JAPAN.
+   UNIV TOKYO,FAC ENGN,DEPT IND CHEM,BUNKYO KU,TOKYO 113,JAPAN.
+CR AMARNATH V, 1977, CHEM REV, V77, P183, DOI 10.1021/cr60306a002
+   BRIDSON PK, 1977, J CHEM SOC CHEM COMM, V477, P791
+   DASGUPTA R, 1975, NATURE, V256, P624, DOI 10.1038/256624a0
+   DASKALOV HP, 1981, B CHEM SOC JPN, V54, P3076, DOI 10.1246/bcsj.54.3076
+   DASKALOV HP, 1980, TETRAHEDRON LETT, V21, P3899, DOI 10.1016/0040-4039(80)80211-5
+   DAVIES JE, 1983, ANGEW CHEM INT EDIT, V22, P13, DOI 10.1002/anie.198300131
+   DENHARTOG JAJ, 1982, BIOCHEMISTRY-US, V21, P1009, DOI 10.1021/bi00534a028
+   DIVAKAR KJ, 1982, J CHEM SOC PERK T 1, P1171, DOI 10.1039/p19820001171
+   GAFFNEY BL, 1982, TETRAHEDRON LETT, V23, P2257, DOI 10.1016/S0040-4039(00)87315-3
+   HAINES JA, 1962, J CHEM SOC, P5281, DOI 10.1039/jr9620005281
+   HATA T, 1982, B CHEM SOC JPN, V55, P2949, DOI 10.1246/bcsj.55.2949
+   HMMELSBACH F, 1983, TETRAHEDRON LETT, P3583
+   HONDA S, 1983, TETRAHEDRON, V40, P153
+   HONDA S, 1982, CHEM LETT, P15, DOI 10.1246/cl.1982.15
+   IKEHARA M, 1978, ADV CARBOHYDR CHEM B, V36, P135
+   ITAKURA K, 1980, SCIENCE, V209, P1401, DOI 10.1126/science.6106285
+   ITO H, 1982, NUCLEIC ACIDS RES, V10, P1755, DOI 10.1093/nar/10.5.1755
+   JONES SS, 1981, TETRAHEDRON LETT, V22, P4755, DOI 10.1016/S0040-4039(01)83032-X
+   KAMIMURA T, 1983, TETRAHEDRON LETT, V24, P2775, DOI 10.1016/S0040-4039(00)88019-3
+   KAMIMURA T, 1982, CHEM LETT, P965, DOI 10.1246/cl.1982.965
+   KAMIMURA T, 1983, CHEM LETT, P1051, DOI 10.1246/cl.1983.1051
+   KOHLI V, 1980, TETRAHEDRON LETT, V21, P2683, DOI 10.1016/S0040-4039(00)78579-0
+   KUME A, 1982, TETRAHEDRON LETT, V23, P4365, DOI 10.1016/S0040-4039(00)85601-4
+   MATTEUCCI MD, 1980, TETRAHEDRON LETT, V21, P3243, DOI 10.1016/S0040-4039(00)78657-6
+   MAXAM AM, 1977, P NATL ACAD SCI USA, V74, P560, DOI 10.1073/pnas.74.2.560
+   NARANG SA, 1983, TETRAHEDRON, V39, P3, DOI 10.1016/S0040-4020(01)97623-9
+   OHTSUKA E, 1981, CHEM PHARM BULL, V29, P759
+   OHTSUKA E, 1982, NUCLEIC ACIDS RES, V10, P6553, DOI 10.1093/nar/10.21.6553
+   OHTSUKA E, 1983, NUCLEIC ACIDS RES, V11, P1325, DOI 10.1093/nar/11.5.1325
+   PEATTIE DA, 1979, P NATL ACAD SCI USA, V76, P1760, DOI 10.1073/pnas.76.4.1760
+   RAYNER B, 1980, J CHEM SOC CHEM COMM, P972, DOI 10.1039/c39800000972
+   REESE CB, 1978, TETRAHEDRON LETT, P2727
+   REESE CB, 1980, NUCLEIC ACIDS RES S, V7, pS5
+   REESE CB, 1978, TETRAHEDRON, V34, P3143, DOI 10.1016/0040-4020(78)87013-6
+   REESE CB, 1980, TETRAHEDRON LETT, V21, P2265
+   SCHULZ BS, 1983, TETRAHEDRON LETT, P3587
+   SEKINE M, 1982, TETRAHEDRON LETT, V23, P5287, DOI 10.1016/S0040-4039(00)85820-7
+   SEKINE M, 1982, J ORG CHEM, V47, P571, DOI 10.1021/jo00342a042
+   SEKINE M, 1981, B CHEM SOC JPN, V54, P3815, DOI 10.1246/bcsj.54.3815
+   SEKINE M, 1979, J ORG CHEM, V44, P2325, DOI 10.1021/jo01327a077
+   SEKINE M, 1983, J AM CHEM SOC, V105, P2044, DOI 10.1021/ja00345a062
+   SEKINE M, 1981, TETRAHEDRON LETT, V22, P3209, DOI 10.1016/S0040-4039(01)81865-7
+   SMITH M, 1962, J AM CHEM SOC, V84, P430, DOI 10.1021/ja00862a023
+   SMRT J, 1973, COLLECT CZECH CHEM C, V38, P3189
+   SUND WL, 1981, NUCLEIC ACIDS RES, V9, P6139
+   SUNG WL, 1982, J ORG CHEM, V47, P3623, DOI 10.1021/jo00140a005
+   SUNG WL, 1982, CAN J CHEM, V60, P111, DOI 10.1139/v82-021
+   TAKAKU H, 1980, J ORG CHEM, V45, P3347, DOI 10.1021/jo01304a042
+   TAKAKU H, 1982, J ORG CHEM, V47, P4937, DOI 10.1021/jo00146a022
+   TRICHTINGER T, 1983, TETRAHEDRON LETT, V24, P711, DOI 10.1016/S0040-4039(00)81505-1
+   WATKINS BE, 1982, J AM CHEM SOC, V104, P5703
+   WATKINS BE, 1982, J ORG CHEM, V47, P4471, DOI 10.1021/jo00144a014
+   WELCH CJ, 1983, ACTA CHEM SCAND B, V37, P147, DOI 10.3891/acta.chem.scand.37b-0147
+   Wu R, 1978, Prog Nucleic Acid Res Mol Biol, V21, P101, DOI 10.1016/S0079-6603(08)60268-8
+NR 54
+TC 80
+Z9 80
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PY 1984
+VL 106
+IS 16
+BP 4552
+EP 4557
+DI 10.1021/ja00328a042
+PG 6
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA TD410
+UT WOS:A1984TD41000042
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI ISOTOPE EFFECTS OF H-2 AND D-2 ON ELECTRON THERMALIZATION IN GASES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,JINDAIJI MACHI,CHOFU,TOKYO 182,JAPAN.
+CR CROMPTON RW, 1969, AUST J PHYS, V22, P715
+   ENGELHARDT AG, 1963, PHYS REV, V131, P2115, DOI 10.1103/PhysRev.131.2115
+   FROST LS, 1962, PHYS REV, V127, P1621, DOI 10.1103/PhysRev.127.1621
+   GERJUOY E, 1955, PHYS REV, V97, P1671, DOI 10.1103/PhysRev.97.1671
+   GIBSON DK, 1970, AUST J PHYS, V23, P683
+   Herzberg G., 1950, MOL SPECTRA MOL STRU, VI
+   Huber K P, 1979, CONSTANTS DIATOMIC M, V4
+   KOURA K, 1984, J CHEM PHYS, V80, P5799, DOI 10.1063/1.446604
+   KOURA K, 1983, J CHEM PHYS, V79, P3367, DOI 10.1063/1.446238
+   KOURA K, 1984, J CHEM PHYS, V81, P303, DOI 10.1063/1.447385
+   LINDER F, 1971, Z NATURFORSCH PT A, VA 26, P1603
+   MOZUMDER A, 1982, J CHEM PHYS, V76, P3277, DOI 10.1063/1.443322
+   TEMBE BL, 1983, J CHEM PHYS, V78, P2030, DOI 10.1063/1.444950
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 15
+TC 6
+Z9 6
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1984
+VL 53
+IS 12
+BP 4192
+EP 4199
+DI 10.1143/JPSJ.53.4192
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA ACB80
+UT WOS:A1984ACB8000018
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI NON-EQUILIBRIUM ELECTRON VELOCITY DISTRIBUTION AND TEMPERATURE IN
+   THERMALIZATION OF LOW-ENERGY ELECTRONS IN MOLECULAR-HYDROGEN
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ANDERSEN K, 1964, J CHEM PHYS, V40, P633, DOI 10.1063/1.1725183
+   CHRISTOPHOROU LG, 1975, CHEM PHYS LETT, V30, P104, DOI 10.1016/0009-2614(75)85508-4
+   CROMPTON RW, 1969, AUST J PHYS, V22, P715
+   DEAN AG, 1974, J PHYS B-AT MOL OPT, V7, P644, DOI 10.1088/0022-3700/7/5/016
+   FROST LS, 1962, PHYS REV, V127, P1621, DOI 10.1103/PhysRev.127.1621
+   GERJUOY E, 1955, PHYS REV, V97, P1671, DOI 10.1103/PhysRev.97.1671
+   GIBSON DK, 1970, AUST J PHYS, V23, P683
+   HATANO Y, UNPUB
+   Herzberg G., 1950, MOL SPECTRA MOL STRU
+   KNIERIM KD, 1982, J CHEM PHYS, V77, P943, DOI 10.1063/1.443870
+   KOURA K, 1973, J CHEM PHYS, V59, P691, DOI 10.1063/1.1680076
+   KOURA K, 1980, J CHEM PHYS, V72, P268, DOI 10.1063/1.438888
+   KOURA K, 1975, J CHEM PHYS, V63, P3302, DOI 10.1063/1.431817
+   KOURA K, 1982, UNPUB RAREFIED GAS D
+   KOURA K, UNPUB
+   MENTZONI MH, 1963, PHYS REV, V130, P2312, DOI 10.1103/PhysRev.130.2312
+   MENTZONI MH, 1965, PHYS REV LETT, V14, P779, DOI 10.1103/PhysRevLett.14.779
+   MOZUMDER A, 1981, J CHEM PHYS, V74, P6911, DOI 10.1063/1.441102
+   MOZUMDER A, 1982, J CHEM PHYS, V76, P3277, DOI 10.1063/1.443322
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P6289, DOI 10.1063/1.439043
+   MOZUMDER A, 1980, J CHEM PHYS, V72, P1657, DOI 10.1063/1.439274
+   OSER H, 1964, J CHEM PHYS, V41, P2661, DOI 10.1063/1.1726334
+   PEYRAUD N, 1977, PHYS FLUIDS, V20, P2037, DOI 10.1063/1.861836
+   PLATZMAN RL, 1955, RADIAT RES, V2, P1, DOI 10.2307/3570224
+   TAKAHASHI T, 1982, PHYS REV A, V25, P2820, DOI 10.1103/PhysRevA.25.2820
+   TAKAHASHI T, 1982, PHYS REV A, V25, P600, DOI 10.1103/PhysRevA.25.600
+   WARMAN JM, 1975, J CHEM PHYS, V63, P2094, DOI 10.1063/1.431548
+   WARMAN JM, 1970, J CHEM PHYS, V52, P6428, DOI 10.1063/1.1672964
+   WARMAN JM, 1975, J CHEM PHYS, V62, P1971, DOI 10.1063/1.430687
+NR 29
+TC 25
+Z9 25
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1983
+VL 79
+IS 7
+BP 3367
+EP 3372
+DI 10.1063/1.446238
+PG 6
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA RJ504
+UT WOS:A1983RJ50400022
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI STUDY OF ROTATIONAL DISTRIBUTION OF N2 IN THE AR FREE JET USING
+   2-PARAMETER POWER GAP MODEL
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ABUAF N, 1967, RAREFIED GAS DYN, V2, P1317
+   BATCHA IN, 1981, CHEM PHYS LETT, V79, P264, DOI 10.1016/0009-2614(81)80201-1
+   CATTOLICA R, 1974, PHYS FLUIDS, V17, P1793, DOI 10.1063/1.1694620
+   COE D, 1980, PHYS FLUIDS, V23, P706, DOI 10.1063/1.863041
+   FAUBEL M, 1981, J CHEM PHYS, V75, P641, DOI 10.1063/1.442103
+   GALLAGHE.RJ, 1974, J CHEM PHYS, V60, P3487, DOI 10.1063/1.1681564
+   JENDREK EF, 1980, J CHEM PHYS, V72, P6452, DOI 10.1063/1.439145
+   KISTEMAKER PG, 1975, CHEM PHYS, V7, P371, DOI 10.1016/0301-0104(75)87020-0
+   KOURA K, 1981, PHYS FLUIDS, V24, P401, DOI 10.1063/1.863385
+   KOURA K, 1980, J CHEM PHYS, V73, P3218, DOI 10.1063/1.440516
+   KOURA K, 1976, J CHEM PHYS, V65, P2156, DOI 10.1063/1.433371
+   KOURA K, 1979, RAREFIED GAS DYN, V2, P833
+   KOURA K, 1980, J CHEM PHYS, V72, P3847, DOI 10.1063/1.439572
+   LUIJKS G, 1981, CHEM PHYS, V62, P217, DOI 10.1016/0301-0104(81)80201-7
+   Miller D., 1969, 6TH S RAR GAS DYN, V2, P1385
+   PACK RT, 1975, J CHEM PHYS, V62, P3143, DOI 10.1063/1.430861
+   PATTENGILL MD, 1976, J CHEM PHYS, V65, P4007, DOI 10.1063/1.432852
+   PATTENGILL MD, 1975, CHEM PHYS LETT, V36, P25, DOI 10.1016/0009-2614(75)85678-8
+   PATTENGI.MD, 1971, J CHEM PHYS, V55, P5517, DOI 10.1063/1.1675717
+   Poulsen P., 1977, Rarefied Gas Dynamics
+   PRITCHARD DE, 1979, J CHEM PHYS, V70, P2115, DOI 10.1063/1.437770
+   RABITZ H, 1975, J CHEM PHYS, V63, P3532, DOI 10.1063/1.431792
+   REPETSKI JJ, 1971, PHYS FLUIDS, V14, P2605, DOI 10.1063/1.1693381
+   ROTHE DE, 1966, PHYS FLUIDS, V9, P1643, DOI 10.1063/1.1761919
+   SCHINKE R, 1981, J CHEM PHYS, V75, P5205, DOI 10.1063/1.441875
+   TSIEN TP, 1973, J CHEM PHYS, V59, P5373, DOI 10.1063/1.1679884
+   WALCHLI PH, 1982, J CHEM PHYS, V76, P273
+NR 27
+TC 12
+Z9 12
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1982
+VL 77
+IS 10
+BP 5141
+EP 5145
+DI 10.1063/1.443689
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA PN580
+UT WOS:A1982PN58000042
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI HOLE BURNING INTO VELOCITY DISTRIBUTION OF THERMAL ELECTRONS DUE TO
+   RESONANCE ATTACHMENT TO O2
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Bloch F, 1935, PHYS REV, V48, P689, DOI 10.1103/PhysRev.48.689
+   CAVALLER.G, 1969, PHYS REV, V179, P186, DOI 10.1103/PhysRev.179.186
+   CROMPTON RW, 1979, P INT SEMINAR SWARM, P18
+   FIQUETFAYARD F, 1975, J PHYS B-AT MOL OPT, V8, P2880, DOI 10.1088/0022-3700/8/17/020
+   GERJUOY E, 1955, PHYS REV, V97, P1671, DOI 10.1103/PhysRev.97.1671
+   GIBSON DK, 1973, J PHYS B-AT MOL OPT, V6, P1118, DOI 10.1088/0022-3700/6/6/026
+   HAKE RD, 1967, PHYS REV, V158, P70, DOI 10.1103/PhysRev.158.70
+   Herzberg G., 1950, MOL SPECTRA MOL STRU
+   HERZENBE.A, 1969, J CHEM PHYS, V51, P4942, DOI 10.1063/1.1671887
+   KOKAKU Y, 1980, J CHEM PHYS, V73, P6167, DOI 10.1063/1.440109
+   KOKAKU YI, 1979, J CHEM PHYS, V71, P4883, DOI 10.1063/1.438301
+   KOURA K, 1973, J CHEM PHYS, V59, P691, DOI 10.1063/1.1680076
+   KOURA K, 1981, J CHEM PHYS, V74, P6742, DOI 10.1063/1.441131
+   KOURA K, 1980, J CHEM PHYS, V72, P268, DOI 10.1063/1.438888
+   KOURA K, 1976, J CHEM PHYS, V65, P3883, DOI 10.1063/1.432905
+   KOURA K, 1975, J CHEM PHYS, V63, P3302, DOI 10.1063/1.431817
+   LAWTON SA, 1978, J CHEM PHYS, V69, P1055, DOI 10.1063/1.436700
+   PARLANT G, 1976, J PHYS B-AT MOL OPT, V9, P1617, DOI 10.1088/0022-3700/9/9/024
+   SHIMAMORI H, 1981, J CHEM PHYS, V74, P453, DOI 10.1063/1.440853
+   SHIMAMORI H, 1976, CHEM PHYS, V12, P439, DOI 10.1016/0301-0104(76)87082-6
+   SHIMAMORI H, 1977, CHEM PHYS, V21, P187, DOI 10.1016/0301-0104(77)80013-X
+NR 21
+TC 11
+Z9 11
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1982
+VL 76
+IS 1
+BP 390
+EP 392
+DI 10.1063/1.442734
+PG 3
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA MW465
+UT WOS:A1982MW46500050
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI EFFECT OF TRANSLATIONAL TEMPERATURE ANISOTROPY ON THE ROTATIONAL
+   DISTRIBUTION OF N-2 IN THE AR FREE JET
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ABUAF N, 1967, RAREFIED GAS DYN, V2, P1317
+   BASSI D, 1981, J CHEM PHYS, V74, P2221, DOI 10.1063/1.441384
+   CATTOLICA R, 1974, PHYS FLUIDS, V17, P1793, DOI 10.1063/1.1694620
+   GALLAGHE.RJ, 1974, J CHEM PHYS, V60, P3487, DOI 10.1063/1.1681564
+   KOURA K, 1981, PHYS FLUIDS, V24, P401, DOI 10.1063/1.863385
+   Miller D., 1969, 6TH S RAR GAS DYN, V2, P1385
+   PATTENGILL MD, 1976, J CHEM PHYS, V65, P4007, DOI 10.1063/1.432852
+   Poulsen P., 1977, Rarefied Gas Dynamics
+   PRITCHARD DE, 1979, J CHEM PHYS, V70, P2115, DOI 10.1063/1.437770
+   ROTHE DE, 1966, PHYS FLUIDS, V9, P1643, DOI 10.1063/1.1761919
+NR 10
+TC 2
+Z9 2
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PY 1982
+VL 25
+IS 8
+BP 1346
+EP 1348
+DI 10.1063/1.863914
+PG 3
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA PA774
+UT WOS:A1982PA77400009
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI NON-EQUILIBRIUM VELOCITY DISTRIBUTION AND REACTION-RATE IN ION-MOLECULE
+   REACTIONS
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR Bowers M. T., 1979, GAS PHASE ION CHEM
+   GIESE CF, 1963, J CHEM PHYS, V39, P739, DOI 10.1063/1.1734318
+   KANEKO Y, 1969, J PHYS SOC JPN, V27, P992, DOI 10.1143/JPSJ.27.992
+   KANEKO Y, 1974, J PHYS SOC JPN, V36, P1649, DOI 10.1143/JPSJ.36.1649
+   KOBAYASH.N, 1974, J PHYS SOC JPN, V37, P1082, DOI 10.1143/JPSJ.37.1082
+   KOBAYASH.N, 1973, J PHYS SOC JPN, V34, P496, DOI 10.1143/JPSJ.34.496
+   KOBAYASHI N, 1975, J PHYS SOC JPN, V38, P519, DOI 10.1143/JPSJ.38.519
+   KOBAYASH.N, 1974, J PHYS SOC JPN, V36, P259, DOI 10.1143/JPSJ.36.259
+   KOSTIN MD, 1967, J CHEM PHYS, V46, P1316, DOI 10.1063/1.1840850
+   KOURA K, 1973, J CHEM PHYS, V59, P691, DOI 10.1063/1.1680076
+   KOURA K, 1976, J CHEM PHYS, V64, P3784, DOI 10.1063/1.432695
+   KOURA K, 1975, J CHEM PHYS, V63, P3302, DOI 10.1063/1.431817
+   MAHAN BH, 1960, J CHEM PHYS, V32, P362, DOI 10.1063/1.1730699
+   PYUN CW, 1968, J CHEM PHYS, V48, P1306, DOI 10.1063/1.1668796
+   SHIZGAL B, 1971, J CHEM PHYS, V54, P4345, DOI 10.1063/1.1674683
+   SHIZGAL B, 1971, J CHEM PHYS, V54, P4357, DOI 10.1063/1.1674684
+   SHIZGAL B, 1970, J CHEM PHYS, V52, P4262, DOI 10.1063/1.1673637
+NR 17
+TC 4
+Z9 4
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1981
+VL 74
+IS 12
+BP 6742
+EP 6745
+DI 10.1063/1.441131
+PG 4
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA LS422
+UT WOS:A1981LS42200027
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI ROTATIONAL DISTRIBUTION OF N2 IN AR FREE JET
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR ASHKENAS H, 1967, PHYS FLUIDS, V10, P2509, DOI 10.1063/1.1762070
+   BORZENKO BN, 1977, J APPL MECH TECHN PH, V17, P615, DOI 10.1007/BF00864147
+   CATTOLICA R, 1974, PHYS FLUIDS, V17, P1793, DOI 10.1063/1.1694620
+   COE D, 1979, RAREFIED GAS DYN, V2, P907
+   Herzberg G., 1950, MOL SPECTRA MOL STRU
+   HINCHEN JJ, 1976, J CHEM PHYS, V65, P2732, DOI 10.1063/1.433417
+   KOURA K, 1980, J CHEM PHYS, V73, P3218, DOI 10.1063/1.440516
+   KOURA K, 1976, J CHEM PHYS, V65, P2156, DOI 10.1063/1.433371
+   KOURA K, 1979, RAREFIED GAS DYN, V2, P833
+   KOURA K, 1980, J CHEM PHYS, V72, P3847, DOI 10.1063/1.439572
+   MARRONE PV, 1967, PHYS FLUIDS, V10, P521, DOI 10.1063/1.1762146
+   MUNTZ EP, 1962, PHYS FLUIDS, V5, P80, DOI 10.1063/1.1706495
+   PATTENGILL MD, 1976, J CHEM PHYS, V65, P4007, DOI 10.1063/1.432852
+   POLANYI JC, 1972, J CHEM PHYS, V56, P1563, DOI 10.1063/1.1677406
+   Poulsen P., 1977, Rarefied Gas Dynamics
+   PRITCHARD DE, 1979, J CHEM PHYS, V70, P2115, DOI 10.1063/1.437770
+   PROCACCIA I, 1976, J CHEM PHYS, V64, P808, DOI 10.1063/1.432227
+   REPETSKI JJ, 1971, PHYS FLUIDS, V14, P2605, DOI 10.1063/1.1693381
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P644, DOI 10.1063/1.1761729
+   SCOTT PB, 1971, RAREFIED GAS DYNAMIC, V1, P637
+NR 20
+TC 14
+Z9 14
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PY 1981
+VL 24
+IS 3
+BP 401
+EP 405
+DI 10.1063/1.863385
+PG 5
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA LG446
+UT WOS:A1981LG44600005
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI ROTATIONAL DISTRIBUTION OF PARA-H2 IN HE SHOCK-WAVE
+SO PHYSICS OF FLUIDS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR BOITNOTT CA, 1971, PHYS FLUIDS, V14, P2312, DOI 10.1063/1.1693335
+   GALLAGHE.RJ, 1974, J CHEM PHYS, V60, P3492, DOI 10.1063/1.1681565
+   Herzberg G., 1950, MOL SPECTRA MOL STRU
+   KOURA K, 1980, J CHEM PHYS, V73, P3218, DOI 10.1063/1.440516
+   KOURA K, 1977, J CHEM PHYS, V67, P1275, DOI 10.1063/1.434940
+   KOURA K, 1979, RAREFIED GAS DYN, V2, P833
+   MARRONE PV, 1967, PHYS FLUIDS, V10, P521, DOI 10.1063/1.1762146
+   POLANYI JC, 1972, J CHEM PHYS, V56, P1563, DOI 10.1063/1.1677406
+   RABITZ H, 1975, J CHEM PHYS, V63, P3532, DOI 10.1063/1.431792
+   RABITZ H, 1975, J CHEM PHYS, V62, P1425, DOI 10.1063/1.430600
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+   SMITH RB, 1972, PHYS FLUIDS, V15, P1010, DOI 10.1063/1.1694021
+   YODER MJ, 1972, J CHEM PHYS, V56, P3226, DOI 10.1063/1.1677683
+NR 13
+TC 2
+Z9 2
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 1070-6631
+J9 PHYS FLUIDS
+JI Phys. Fluids
+PY 1981
+VL 24
+IS 4
+BP 583
+EP 587
+DI 10.1063/1.863424
+PG 5
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA LL228
+UT WOS:A1981LL22800004
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI ROTATIONAL DISTRIBUTION OF N2 IN AR SHOCK-WAVE
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,TOKYO,JAPAN.
+CR EMANUEL G, 1962, AEDCTDR62131
+   FISZDON W, 1974, RAREFIED GAS DYNAMIC, V2
+   Herzberg G., 1950, MOL SPECTRA MOL STRU
+   HINCHEN JJ, 1976, J CHEM PHYS, V65, P2732, DOI 10.1063/1.433417
+   Hirschfelder J., 1954, MOL THEORY GASES LIQ
+   KOURA K, 1976, J CHEM PHYS, V65, P2156, DOI 10.1063/1.433371
+   KOURA K, 1977, J CHEM PHYS, V67, P1275, DOI 10.1063/1.434940
+   KOURA K, 1979, RAREFIED GAS DYN, V2, P833
+   LIEPMANN HW, 1962, PHYS FLUIDS, V5, P1313, DOI 10.1063/1.1706527
+   MARRONE PV, 1967, PHYS FLUIDS, V10, P521, DOI 10.1063/1.1762146
+   MUCKENFUSS C, 1962, PHYS FLUIDS, V5, P1325, DOI 10.1063/1.1706528
+   MUNTZ EP, 1962, PHYS FLUIDS, V5, P80, DOI 10.1063/1.1706495
+   PATTENGILL MD, 1976, J CHEM PHYS, V65, P4007, DOI 10.1063/1.432852
+   POLANYI JC, 1972, J CHEM PHYS, V56, P1563, DOI 10.1063/1.1677406
+   PRITCHARD DE, 1979, J CHEM PHYS, V70, P2115, DOI 10.1063/1.437770
+   PROCACCIA I, 1976, J CHEM PHYS, V64, P808, DOI 10.1063/1.432227
+   PROCACCIA I, 1975, J CHEM PHYS, V63, P3181, DOI 10.1063/1.431720
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P653, DOI 10.1063/1.1761730
+   ROBBEN F, 1966, PHYS FLUIDS, V9, P633, DOI 10.1063/1.1761728
+   SMITH RB, 1972, PHYS FLUIDS, V15, P1010, DOI 10.1063/1.1694021
+NR 20
+TC 4
+Z9 4
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1980
+VL 73
+IS 7
+BP 3218
+EP 3222
+DI 10.1063/1.440516
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA KJ693
+UT WOS:A1980KJ69300027
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI HOLE BURNING INTO MOLECULAR VELOCITY DISTRIBUTION DUE TO MONOCHROMATIC
+   RADIATION AND MOLECULAR ELASTIC COLLISION
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSPACE LAB,CHOFU,TOKYO,JAPAN.
+CR BHATNAGAR PL, 1954, PHYS REV, V94, P511, DOI 10.1103/PhysRev.94.511
+   CABEZAS AY, 1966, J APPL PHYS, V37, P3556, DOI 10.1063/1.1708901
+   CIPOLLA JW, 1971, PHYS FLUIDS, V14, P1850, DOI 10.1063/1.1693694
+   GOELA JS, 1975, AIAA J, V13, P1629, DOI 10.2514/3.7039
+   GRANEK H, 1972, IEEE J QUANTUM ELECT, VQE 8, P404, DOI 10.1109/JQE.1972.1076977
+   HEALY JJ, 1972, PHYS REV A, V6, P2457, DOI 10.1103/PhysRevA.6.2457
+   KAN T, 1971, IEEE J QUANTUM ELECT, VQE 7, P141
+   KOLCHENK.AB, 1968, SOV PHYS JETP-USSR, V27, P511
+   KOURA K, 1973, J CHEM PHYS, V59, P691, DOI 10.1063/1.1680076
+   PERESSIN.ER, 1968, IEEE J QUANTUM ELECT, VQE 4, P657, DOI 10.1109/JQE.1968.1074941
+   SZOKE A, 1966, PHYS REV, V145, P137, DOI 10.1103/PhysRev.145.137
+NR 11
+TC 5
+Z9 5
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1980
+VL 72
+IS 1
+BP 268
+EP 271
+DI 10.1063/1.438888
+PG 4
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA JB999
+UT WOS:A1980JB99900035
+ER
+
+PT J
+AU KOURA, K
+AF KOURA, K
+TI STEADY-STATE VELOCITY DISTRIBUTION IN HOT ATOM REACTION
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KOURA, K (reprint author), NATL AEROSP LAB,CHOFU,TOKYO,JAPAN.
+CR BHATNAGAR PL, 1954, PHYS REV, V94, P511, DOI 10.1103/PhysRev.94.511
+   GRANT ER, 1978, ACS SYM SER, V66, P314
+   KEIZER J, 1973, J CHEM PHYS, V58, P4524, DOI 10.1063/1.1679015
+   KOURA K, 1977, J CHEM PHYS, V66, P4078, DOI 10.1063/1.434480
+   KOURA K, 1977, PROG ASTRONAUT AERON, V51, P949
+   KOURA K, 1976, J CHEM PHYS, V65, P3883, DOI 10.1063/1.432905
+   ROBSON RE, 1978, 57 J COOK U NAT PHIL
+   Shizgal B., 1978, Journal of Chemical Physics, V69, DOI 10.1063/1.436564
+NR 8
+TC 6
+Z9 6
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1980
+VL 72
+IS 3
+BP 1756
+EP 1758
+DI 10.1063/1.439288
+PG 3
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA JH118
+UT WOS:A1980JH11800042
+ER
+
+EF

@@ -1,0 +1,2084 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Stormvinter, A
+   Miyamoto, G
+   Furuhara, T
+   Hedstrom, P
+   Borgenstam, A
+AF Stormvinter, A.
+   Miyamoto, G.
+   Furuhara, T.
+   Hedstrom, P.
+   Borgenstam, A.
+TI Effect of carbon content on variant pairing of martensite in Fe-C alloys
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE Carbon content; Crystallography; Electron backscattered diffraction;
+   Fe-C alloy; Martensite
+ID AUSTENITE GRAIN-SIZE; LATH MARTENSITE; ORIENTATION RELATIONSHIP; IRON
+   ALLOYS; NI-C; MORPHOLOGY; STEELS; CRYSTALLOGRAPHY; TRANSFORMATION;
+   BAINITE
+AB The effect of carbon content on the variant pairing tendency of martensite formed in Fe-C alloys is investigated by means of electron backscattered diffraction analysis. The method used is based on experimentally determined orientation relationships between austenite and martensite. The results show that the carbon content has a strong effect on the martensite variant pairing tendency. This observed change in variant pairing tendency is discussed in relation to the well-known morphological transition from lath to plate martensite in Fe-C alloys and the formation of packets and plate groups. The results indicate that quantitative analysis of variant pairing, as demonstrated here, may facilitate martensite characterization in Fe-C alloys as well as in other alloy systems. (C) 2012 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 KTH Royal Inst Technol, Dept Mat Sci & Engn, Stockholm, Sweden.
+   Tohoku Univ, Inst Mat Res, Sendai, Miyagi 980, Japan.
+RP Stormvinter, A (reprint author), KTH Royal Inst Technol, Dept Mat Sci & Engn, Stockholm, Sweden.
+EM stormvin@kth.se
+FU Stiftelsen Axel Hultgrens Fond; KTH Royal Institute of Technology;
+   VINNOVA, the Swedish Governmental Agency for Innovation Systems, Swedish
+   industry
+FX A.S. is grateful for the financial support of the Stiftelsen Axel
+   Hultgrens Fond. This work was performed within the VINN Excellence
+   Center Hero-m, financed by VINNOVA, the Swedish Governmental Agency for
+   Innovation Systems, Swedish industry, and KTH Royal Institute of
+   Technology. H.K. Yeddu is gratefully acknowledged for proofreading the
+   manuscript.
+CR BOKROS JC, 1963, ACTA METALL MATER, V11, P1291, DOI 10.1016/0001-6160(63)90024-5
+   Gourgues AF, 2000, MATER SCI TECH SER, V16, P26, DOI 10.1179/026708300773002636
+   Greninger AB, 1940, T AM I MIN MET ENG, V140, P307
+   GRENINGER AB, 1949, T AM I MIN MET ENG, V185, P590
+   KELLY PM, 1960, PROC R SOC LON SER-A, V259, P45, DOI 10.1098/rspa.1960.0210
+   KELLY PM, 1990, ACTA METALL MATER, V38, P1075, DOI 10.1016/0956-7151(90)90180-O
+   Kitahara H, 2006, ACTA MATER, V54, P1279, DOI 10.1016/j.actamat.2005.11.001
+   KRAUSS G, 1971, METALL TRANS, V2, P2343, DOI 10.1007/BF02814873
+   Krauss G, 1999, MAT SCI ENG A-STRUCT, V273, P40, DOI 10.1016/S0921-5093(99)00288-9
+   Kurdjumow G, 1930, Z PHYS, V64, P325, DOI 10.1007/BF01397346
+   Machlin E, 1951, J MET, V11, P1019
+   Maki T., 2007, P 1 INT S STEEL SCI, P1
+   MAKI T, 1980, T IRON STEEL I JPN, V20, P207
+   MARDER AR, 1967, ASM TRANS Q, V60, P651
+   McDougall P.G., 1992, MARTENSITE, P59
+   Miyamoto G, 2009, SCRIPTA MATER, V60, P1113, DOI 10.1016/j.scriptamat.2009.02.053
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   Morito S, 2006, ACTA MATER, V54, P5323, DOI 10.1016/j.actamat.2006.07.009
+   Morito S, 2005, ISIJ INT, V45, P91, DOI 10.2355/isijinternational.45.91
+   Morito S, 2006, MAT SCI ENG A-STRUCT, V438, P237, DOI 10.1016/j.msea.2005.12.048
+   MORTON AJ, 1966, ACTA METALL MATER, V14, P1567, DOI 10.1016/0001-6160(66)90178-7
+   Naraghi R, 2011, STEEL RES INT, V82, P337, DOI 10.1002/srin.201000118
+   Nishiyama Z., 1934, Science Reports of the Tohoku Imperial University, V23
+   OKA M, 1969, ASM TRANS Q, V62, P370
+   OKAMOTO H, 1978, T JPN I MET, V19, P674
+   PATTERSO.RL, 1966, ACTA METALL MATER, V14, P347, DOI 10.1016/0001-6160(66)90094-0
+   SANDVIK BPJ, 1983, METALL TRANS A, V14, P809, DOI 10.1007/BF02644284
+   Stormvinter A, 2011, SOLID STATE PHENOMEN, V172-174, P61, DOI 10.4028/www.scientific.net/SSP.172-174.61
+   Stormvinter A, UNPUB
+   Takayama N, 2012, ACTA MATER, V60, P2387, DOI 10.1016/j.actamat.2011.12.018
+   UMEMOTO M, 1983, J MATER SCI, V18, P2893, DOI 10.1007/BF00700770
+   UMEMOTO M, 1984, ACTA METALL MATER, V32, P1191, DOI 10.1016/0001-6160(84)90126-3
+   UMEMOTO M, 1978, ACTA METALL MATER, V26, P1529, DOI 10.1016/0001-6160(78)90063-9
+   Wassermann G, 1935, MITTEILUNGEN KW I EI, V17, P149
+   Yang HS, 2009, SCRIPTA MATER, V60, P493, DOI 10.1016/j.scriptamat.2008.11.043
+   Zhang MX, 2002, SCRIPTA MATER, V47, P749, DOI 10.1016/S1359-6462(02)00196-3
+NR 36
+TC 1
+Z9 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD DEC
+PY 2012
+VL 60
+IS 20
+BP 7265
+EP 7274
+DI 10.1016/j.actamat.2012.09.046
+PG 10
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 059BO
+UT WOS:000312679600037
+ER
+
+PT J
+AU Miyamoto, G
+   Shinbo, K
+   Furuhara, T
+AF Miyamoto, Goro
+   Shinbo, Kunio
+   Furuhara, Tadashi
+TI Quantitative measurement of carbon content in Fe-C binary alloys by atom
+   probe tomography
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE Atom probe tomography; Quantitative analysis; Carbon; Steel; Loss in
+   detection
+AB The carbon content in high-purity Fe-C binary alloys was measured by 3-D atom probe microscopy. The apparent carbon content increased with decreasing measurement temperature and greatly exceeded the nominal value. This anomaly is caused by the loss of some Fe ions during detection, resulting in an overestimation of the carbon content. A simple method was proposed to correct for this effect. The corrected carbon content agreed well with the nominal value to within 0.5 at.% in most cases. (C) 2012 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+   Japan Sci & Technol Agcy, CREST, Chiyoda Ku, Tokyo 1020076, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Miyamoto, Goro/G-2802-2010
+CR Bohlke JK, 2005, J PHYS CHEM REF DATA, V34, P57, DOI 10.1063/1.1836764
+   CEREZO A, 1984, J PHYS-PARIS, V45, P315, DOI 10.1051/jphyscol:1984953
+   Gault B., 2012, ULTRAMICROSCOPY, V13, P182
+   Miller M. K., 2000, ATOM PROBE TOMOGRAPH
+   SHA W, 1992, SURF SCI, V266, P416, DOI 10.1016/0039-6028(92)91055-G
+   Takahashi J, 2011, ULTRAMICROSCOPY, V111, P1233, DOI 10.1016/j.ultramic.2011.03.024
+   Thuvander M, 2011, ULTRAMICROSCOPY, V111, P604, DOI 10.1016/j.ultramic.2010.12.024
+   TSONG TT, 1978, APPL PHYS LETT, V32, P778, DOI 10.1063/1.89892
+   Yao L, 2010, PHIL MAG LETT, V90, P121, DOI 10.1080/09500830903472997
+NR 9
+TC 1
+Z9 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD DEC
+PY 2012
+VL 67
+IS 12
+BP 999
+EP 1002
+DI 10.1016/j.scriptamat.2012.09.007
+PG 4
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 037VQ
+UT WOS:000311135000020
+ER
+
+PT J
+AU Chiba, T
+   Miyamoto, G
+   Furuhara, T
+AF Chiba, T.
+   Miyamoto, G.
+   Furuhara, T.
+TI Variant selection of lenticular martensite by ausforming
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE Electron backscattering diffraction (EBSD); Martensitic phase
+   transformation; Texture; Deformation structure
+ID CR-C ALLOYS; FE-NI-C; LATH MARTENSITE; BURST TRANSFORMATION;
+   SINGLE-CRYSTALS; MORPHOLOGY; MECHANISM; TEXTURE; STEELS
+AB The variant selection of lenticular martensite transformed from austenite in an Fe-25Ni-0.5C alloy uniaxially compressed at 973 K was investigated quantitatively. It was found that four variants with habit planes closely parallel to the compression plane were favorably formed. Preferential growth along elongated austenite grains parallel to the compression plane was proposed for the selection of variants since it involves fewer disturbances at the austenite grain boundaries. (C) 2012 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Grad Sch Engn, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Chiba, T (reprint author), Tohoku Univ, Grad Sch Engn, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM tchiba@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+FU Ministry of Education, Culture, Sports, Science and Technology
+   [23686098]; Iron and Steel Institute of Japan
+FX G.M. gratefully acknowledges the financial support provided by the
+   Ministry of Education, Culture, Sports, Science and Technology through a
+   Grant-in-Aid for Young Scientists (A) No. 23686098 (2011-2013), and the
+   Iron and Steel Institute of Japan through a Research Promotion Grant
+   (2012-2013). The authors wish to thank Prof. M. Imafuku (Tokyo City
+   University, Japan) and Prof. S. Sato (Tohoku University, Japan) for the
+   residual stress measurements.
+CR Abe H., 1966, J JAPAN I METALS, V31, P37
+   Abe H., 1967, J JPN I MET, V31, P1305
+   BOKROS JC, 1963, ACTA METALL MATER, V11, P1291, DOI 10.1016/0001-6160(63)90024-5
+   DURLU TN, 1979, ACTA METALL MATER, V27, P663, DOI 10.1016/0001-6160(79)90017-8
+   Gong W, 2010, SCRIPTA MATER, V63, P819, DOI [10.1016/j.scriptamat.2010.06.024, 10.1016/j.seriptamat.2010.06.024]
+   Inagaki H., 1981, 6 INT C TEXT MAT, P149
+   KAUFMAN L, 1958, PROG MET PHYS, V7, P165, DOI 10.1016/0502-8205(58)90005-4
+   Kundu S, 2009, MAT SCI ENG A-STRUCT, V516, P290, DOI 10.1016/j.msea.2009.02.054
+   Kurdjumow G, 1930, Z PHYS, V64, P325, DOI 10.1007/BF01397346
+   LIU WP, 1991, MATER LETT, V10, P336, DOI 10.1016/0167-577X(91)90149-Z
+   Miyamoto G, 2012, ACTA MATER, V60, P1139, DOI 10.1016/j.actamat.2011.11.018
+   Miyamoto G, 2009, SCRIPTA MATER, V60, P1113, DOI 10.1016/j.scriptamat.2009.02.053
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   PATEL JR, 1953, ACTA METALL MATER, V1, P531, DOI 10.1016/0001-6160(53)90083-2
+   RAY RK, 1990, INT MATER REV, V35, P1
+   STRIFE JR, 1977, METALL TRANS A, V8, P1471, DOI 10.1007/BF02642861
+   TAMURA I, 1987, T IRON STEEL I JPN, V27, P763
+   UMEMOTO M, 1983, J MATER SCI, V18, P2893, DOI 10.1007/BF00700770
+   Wittridge NJ, 2001, METALL MATER TRANS A, V32, P889, DOI 10.1007/s11661-001-0346-9
+NR 19
+TC 1
+Z9 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD AUG
+PY 2012
+VL 67
+IS 4
+BP 324
+EP 327
+DI 10.1016/j.scriptamat.2012.05.007
+PG 4
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 978DZ
+UT WOS:000306722100004
+ER
+
+PT J
+AU Takayama, N
+   Miyamoto, G
+   Furuhara, T
+AF Takayama, N.
+   Miyamoto, G.
+   Furuhara, T.
+TI Effects of transformation temperature on variant pairing of bainitic
+   ferrite in low carbon steel
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE Variant selection; Crystallography; Electron backscatter diffraction;
+   Bainitic steels; Martensitic steels
+ID LATH MARTENSITE; ORIENTATION RELATIONSHIP; C ALLOYS; CRYSTALLOGRAPHY;
+   MORPHOLOGY; AUSTENITE; MICROSTRUCTURE; DIFFRACTION; CRACKING; EBSD
+AB The effects of transformation temperature on the variant pairing tendency of bainitic ferrite (BF) and the orientation relationship (OR) between BF and austenite matrix are investigated quantitatively in low-carbon, low-alloy steel by means of electron backscatter diffraction analysis. By numerical reconstruction of the austenite orientation it was found that BF holds a near Kurdjumov-Sachs OR with respect to the austenite matrix. The angular deviation of the close-packed planes (CPPs) becomes smaller with decreasing transformation temperature, while the small misorientation angle between the close-packed directions (CPDs) remains nearly the same. BF variants with small misorientations are formed side by side at high transformation temperatures by sharing the same Bain correspondence. In contrast, BF variants are formed adjacently at lower transformation temperatures by sharing the same parallel relations for CPP. In particular, pairing of twin-related variants is dominant in this case. Such a variant pairing tendency with respect to transformation temperature is discussed from the viewpoint of self-accommodation of transformation strain and inter-variant boundary energy. (C) 2011 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Takayama, N (reprint author), Tohoku Univ, Dept Met, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM takayama@imr.tohoku.ac.jp
+RI Miyamoto, Goro/G-2802-2010; Furuhara, Tadashi/B-2149-2010
+FU Japan Society for the Promotion of Science; Global COE of Materials
+   Integration International Center of Education Research in Tohoku
+   University; Ministry of Education, Culture, Sports, Science and
+   Technology [23686098, 21760526]; Iron and Steel Institute of Japan
+FX N.T. gratefully acknowledges the financial support of Research
+   Fellowships of the Japan Society for the Promotion of Science for Young
+   Scientists and the Global COE program of Materials Integration
+   International Center of Education Research in Tohoku University. G.M. is
+   grateful for financial support from the Ministry of Education, Culture,
+   Sports, Science and Technology through Grants-in-Aid for Young
+   Scientists (A) No. 23686098 (2011-2013) and Young Scientists (B) No.
+   21760526 (2009-2010), and support by the Iron and Steel Institute of
+   Japan through a Research Promotion Grant (2008-2009). T.F. is grateful
+   for support by the Iron and Steel Institute of Japan through a Research
+   Promotion Grant (2007-2008).
+CR BHADESHIA HKDH, 1980, ACTA METALL MATER, V28, P1265, DOI 10.1016/0001-6160(80)90082-6
+   BHADESHIA HKDH, 1979, METALL TRANS A, V10, P895, DOI 10.1007/BF02658309
+   Bouyne E, 1998, SCRIPTA MATER, V39, P295, DOI 10.1016/S1359-6462(98)00170-5
+   Eterasivili TV, 1979, PHYS MET METALLOGR, V48, P113
+   Furuhara T, 2006, MAT SCI ENG A-STRUCT, V431, P228, DOI 10.1016/j.msea.2006.06.032
+   Gourgues AF, 2003, MATER SCI FORUM, V426-4, P3629
+   Gourgues AF, 2000, MATER SCI TECH SER, V16, P26, DOI 10.1179/026708300773002636
+   Kawata H, 2006, MAT SCI ENG A-STRUCT, V388-440, P140
+   KELLY PM, 1992, MATER T JIM, V33, P235
+   KELLY PM, 1990, ACTA METALL MATER, V38, P1075, DOI 10.1016/0956-7151(90)90180-O
+   Lambert-Perlade A, 2004, ACTA MATER, V52, P2337, DOI 10.1016/j.actamat.2004.01.025
+   Law N.C., 1979, Metal Science, V13
+   LUO CP, 1992, METALL TRANS A, V23, P1403, DOI 10.1007/BF02647323
+   MAKI T, 1980, T IRON STEEL I JPN, V20, P207
+   Marder A. R., 1967, T ASM, V60, P991
+   MARDER JM, 1969, ASM TRANS Q, V62, P1
+   Matsuda S., 1968, T JIM, V9, P343
+   MATSUDA S, 1972, T IRON STEEL I JPN, V12, P325
+   Miyamoto G, 2010, ACTA MATER, V58, P6393, DOI 10.1016/j.actamat.2010.08.001
+   Miyamoto G, 2009, ACTA MATER, V57, P1120, DOI 10.1016/j.actamat.2008.10.050
+   Miyamoto G, 2009, SCRIPTA MATER, V60, P1113, DOI 10.1016/j.scriptamat.2009.02.053
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   Morito S, 2005, CAMP ISIJ, V18, P1304
+   Morito S, 2006, ACTA MATER, V54, P5323, DOI 10.1016/j.actamat.2006.07.009
+   Morris JW, 2003, ISIJ INT, V43, P410
+   Ohmori T, 1971, T ISIJ, V11, P250
+   OKA M, 1990, METALL TRANS A, V21, P845, DOI 10.1007/BF02656568
+   Pancholi V, 2008, ACTA MATER, V56, P2037, DOI 10.1016/j.actamat.2007.12.057
+   RAO BVN, 1979, METALL TRANS A, V10, P645, DOI 10.1007/BF02658328
+   Read WT, 1953, DISLOCATIONS SOLIDS, P159
+   SANDVIK BPJ, 1983, METALL TRANS A, V14, P809, DOI 10.1007/BF02644284
+   SANDVIK BPJ, 1983, METALLOGRAPHY, V16, P199, DOI 10.1016/0026-0800(83)90005-8
+   SANDVIK BPJ, 1982, METALL TRANS A, V13, P777, DOI 10.1007/BF02642391
+   Sarikaya M, 1986, P INT C MART TRANSF, P613
+   Shibata A, 2010, ACTA MATER, V58, P3477, DOI 10.1016/j.actamat.2010.02.022
+   Shinohara Y, 2007, P 1 INT S STEEL SCI, P131
+   SRINIVAS.GR, 1968, ACTA METALL MATER, V16, P621, DOI 10.1016/0001-6160(68)90136-3
+   Steven W, 1956, J IRON STEEL I, V183, P349
+   WAKASA K, 1981, ACTA METALL MATER, V29, P991, DOI 10.1016/0001-6160(81)90052-3
+   Zhang MX, 2002, SCRIPTA MATER, V47, P749, DOI 10.1016/S1359-6462(02)00196-3
+NR 40
+TC 4
+Z9 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD MAR
+PY 2012
+VL 60
+IS 5
+BP 2387
+EP 2396
+DI 10.1016/j.actamat.2011.12.018
+PG 10
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 926MN
+UT WOS:000302835300048
+ER
+
+PT J
+AU Miyamoto, G
+   Iwata, N
+   Takayama, N
+   Furuhara, T
+AF Miyamoto, G.
+   Iwata, N.
+   Takayama, N.
+   Furuhara, T.
+TI Quantitative analysis of variant selection in ausformed lath martensite
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE Lath martensite; Steels; EBSD; Reconstruction; Variant selection
+ID GRAIN-BOUNDARIES; TRANSFORMATION TEXTURES; EQUILIBRIUM SHAPE;
+   STAINLESS-STEEL; AUSTENITE; ORIENTATION; CRYSTALLOGRAPHY; DEFORMATION;
+   MORPHOLOGY; BAINITE
+AB Variant selection in lath martensite transformed from deformed austenite in a low-carbon low-alloy steel is examined quantitatively on the basis of electron backscatter diffraction analysis of martensite, in concert with a novel method for the reconstruction of austenite orientation. At a strain of 10%, variants whose (011)(alpha) plane was nearly parallel to the primary slip plane in austenite ((111)(gamma)) were formed dominantly. At strains of 30% and 50%, variants whose (011)(alpha) plane was nearly parallel to the secondary slip plane ((-111)(gamma)) as well as the primary slip plane were formed. Transmission electron microscopy observation of an austenite-stabilized alloy deformed under the same condition as the low-carbon low-alloy steel clarified that microband structures develop along the primary and secondary slip planes of austenite when its orientation is close to the main component of the deformation texture in austenite. A simple variant selection model is proposed in which martensite variants with habit planes nearly parallel to the primary and secondary slip planes nucleate preferentially on microband boundaries as a result of a smaller amount of activation energy and grow dominantly as a result of less inhibition from the microband boundaries. (C) 2011 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+FU Ministry of Education, Culture, Sports, Science and Technology
+   [23686098, 21760526]; Iron and Steel Institute of Japan; Japan Society
+   for the Promotion of Science; Global COE of Materials Integration
+   International Center of Education Research at Tohoku University
+FX G.M. gratefully acknowledges the financial support provided by the
+   Ministry of Education, Culture, Sports, Science and Technology through a
+   Grant-in-Aid for Young Scientists (A) No. 23686098 (2011-2013), a
+   Grant-in-Aid for Young Scientists (B) No. 21760526 (2009-2010), and the
+   Iron and Steel Institute of Japan through a Research Promotion Grant
+   (2008-2009). NT acknowledges financial support from the Research
+   Fellowships of the Japan Society for the Promotion of Science for Young
+   Scientists and the Global COE program of the Materials Integration
+   International Center of Education Research at Tohoku University.
+CR Abe H, 1967, J JAPAN I METALS, V31, P1300
+   Abe H., 1966, J JAPAN I METALS, V31, P37
+   AMEYAMA K, 1986, J JPN I MET, V50, P602
+   Bate P, 2000, ACTA MATER, V48, P3183, DOI 10.1016/S1359-6454(00)00106-3
+   BOKROS JC, 1963, ACTA METALL MATER, V11, P1291, DOI 10.1016/0001-6160(63)90024-5
+   Cizek P, 2004, J MICROSC-OXFORD, V213, P285, DOI 10.1111/j.0022-2720.2004.01305.x
+   FURUBAYASHI EI, 1985, TETSU TO HAGANE, V71, P1359
+   FURUBAYASHI E, 1985, TETSU TO HAGANE, V71, P1155
+   Godet S, 2004, J APPL CRYSTALLOGR, V37, P417, DOI 10.1107/S0021889804007320
+   Gong W, 2010, SCRIPTA MATER, V63, P819, DOI [10.1016/j.scriptamat.2010.06.024, 10.1016/j.seriptamat.2010.06.024]
+   Hansen N, 2001, METALL MATER TRANS A, V32, P2917, DOI 10.1007/s11661-001-0167-x
+   He YL, 2006, METALL MATER TRANS A, V37A, P2641, DOI 10.1007/BF02586099
+   KAUFMAN L, 1958, PROG MET PHYS, V7, P165, DOI 10.1016/0502-8205(58)90005-4
+   Kundu S, 2009, MAT SCI ENG A-STRUCT, V516, P290, DOI 10.1016/j.msea.2009.02.054
+   LEE JK, 1975, ACTA METALL MATER, V23, P799, DOI 10.1016/0001-6160(75)90196-0
+   LEE JK, 1975, ACTA METALL MATER, V23, P809, DOI 10.1016/0001-6160(75)90197-2
+   LIU WP, 1991, MATER LETT, V10, P336, DOI 10.1016/0167-577X(91)90149-Z
+   MAGEE CL, 1971, ACTA METALL MATER, V19, P345, DOI 10.1016/0001-6160(71)90102-7
+   Malet L, 2009, SCRIPTA MATER, V61, P520, DOI 10.1016/j.scriptamat.2009.05.015
+   Miyamoto G, 2011, ISIJ INT, V51, P1174, DOI 10.2355/isijinternational.51.1174
+   Miyamoto G, 2010, ACTA MATER, V58, P6393, DOI 10.1016/j.actamat.2010.08.001
+   Miyamoto G, 2009, SCRIPTA MATER, V60, P1113, DOI 10.1016/j.scriptamat.2009.02.053
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   Morito S, 2003, J PHYS IV, V112, P453, DOI 10.1051/jp4:2003923
+   MURR LE, 1970, PHILOS MAG, V22, P515, DOI 10.1080/14786437008225841
+   OLSON GB, 1976, METALL TRANS A, V7, P1897, DOI 10.1007/BF02654987
+   Regle H, 2004, P INT C ADV HIGH STR, P239
+   SANDVIK BPJ, 1983, METALL TRANS A, V14, P809, DOI 10.1007/BF02644284
+   Shirzadi AA, 2009, INT J MATER RES, V100, P40, DOI 10.3139/146.101789
+   Sum M, 1999, TEXTURE MICROSTRUCT, V31, P187, DOI 10.1155/TSM.31.187
+   Tamura I, 1982, J PHYS C SOLID STATE, VC4, P551
+   Verlinden B, 2001, SCRIPTA MATER, V45, P909, DOI 10.1016/S1359-6462(01)01110-1
+   WAKASA K, 1981, ACTA METALL MATER, V29, P973, DOI 10.1016/0001-6160(81)90051-1
+   Wittridge NJ, 2001, METALL MATER TRANS A, V32, P889, DOI 10.1007/s11661-001-0346-9
+   Wittridge NJ, 2000, ACTA MATER, V48, P2737, DOI 10.1016/S1359-6454(99)00460-7
+   YANG Z, 1993, MODEL SIMUL MATER SC, V1, P707, DOI 10.1088/0965-0393/1/5/010
+NR 36
+TC 5
+Z9 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD FEB
+PY 2012
+VL 60
+IS 3
+BP 1139
+EP 1148
+DI 10.1016/j.actamat.2011.11.018
+PG 10
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 903YA
+UT WOS:000301157900035
+ER
+
+PT J
+AU Li, ZD
+   Miyamoto, G
+   Yang, ZG
+   Furuhara, T
+AF Li, Zhao-Dong
+   Miyamoto, Goro
+   Yang, Zhi-Gang
+   Furuhara, Tadashi
+TI Kinetics of Reverse Transformation from Pearlite to Austenite in an
+   Fe-0.6 Mass pct C Alloy and the Effects of Alloying Elements
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+LA English
+DT Article
+ID CONTROLLED PRECIPITATE GROWTH; TERNARY-SYSTEMS; DIFFUSION; FERRITE;
+   NUCLEATION; CEMENTITE; STEELS
+AB Substitutional alloying effects on reversion kinetics from pearlite structure at 1073 K (800 A degrees C) in an Fe-0.6 mass pct C binary alloy and Fe-0.6C-1 or 2 mass pct M (M = Mn, Si, Cr) ternary alloys were studied. Reverse transformation in the Fe-0.6C binary alloy at 1073 K (800 A degrees C) was finished after holding for approximately 5.5 seconds. The reversion kinetics was accelerated slightly by the addition of Mn but retarded by the addition of Si or Cr. The difference of acceleration effects by the addition of the 1 and 2 mass pct Mn is small, whereas the retardation effect becomes more significant by increasing the amount of addition of Si or Cr. It is clarified from the thermodynamic viewpoint of carbon diffusion that austenite can grow without partitioning of Mn or Si in the Mn- or Si-added alloys. On the one hand, austenite growth is controlled by the carbon diffusion, whereas the addition of them affects carbon activity gradient, resulting in changes in reversion kinetics. On the other hand, thermodynamic calculation implies that the long-range diffusion of Cr is necessary for austenite growth in the Cr-added alloys. It is proposed that austenite growth from pearlite in the Cr-added alloys is controlled by the diffusion of Cr along austenite/pearlite interface.
+C1 Tsinghua Univ, Minist Educ, Dept Mat Sci & Engn, Key Lab Adv Mat, Beijing 100084, Peoples R China.
+   Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+RP Li, ZD (reprint author), Tsinghua Univ, Minist Educ, Dept Mat Sci & Engn, Key Lab Adv Mat, Beijing 100084, Peoples R China.
+EM lizd06@mails.tsinghua.edu.cn; miyamoto@imr.tohoku.ac.jp
+RI Miyamoto, Goro/G-2802-2010; Furuhara, Tadashi/B-2149-2010
+CR Brooks C. R., 1992, PRINCIPLES AUSTENITI, P81
+   COATES DE, 1973, METALL TRANS, V4, P2313, DOI 10.1007/BF02669370
+   COATES DE, 1973, METALL TRANS, V4, P1077, DOI 10.1007/BF02645611
+   COATES DE, 1972, METALL TRANS, V3, P1203, DOI 10.1007/BF02642453
+   FRIDBERG J, 1969, JKA-JERNKONTORET ANN, V153, P263
+   Caballero FG, 2000, SCRIPTA MATER, V42, P1159, DOI 10.1016/S1359-6462(00)00352-3
+   HILLERT M, 1971, J IRON STEEL I, V209, P49
+   Hillert M., 1953, INTERNAL REPORT SWED
+   HULTGREN A, 1947, T AM SOC METAL, V39, P915
+   Jacot A, 1997, ACTA MATER, V45, P575, DOI 10.1016/S1359-6454(96)00199-1
+   JUDD RR, 1968, T METALL SOC AIME, V242, P206
+   KRAMER JJ, 1958, ACTA METALL MATER, V6, P763, DOI 10.1016/0001-6160(58)90051-8
+   Kumar M, 1998, ACTA MATER, V46, P6291, DOI 10.1016/S1359-6454(98)00243-2
+   KUO K, 1953, ISOTHERMAL TRANSFO 4, V4, P46
+   Li ZD, 2009, SCRIPTA MATER, V60, P485, DOI 10.1016/j.scriptamat.2008.11.041
+   Miyamoto G, 2010, ACTA MATER, V58, P4492, DOI 10.1016/j.actamat.2010.04.045
+   OIKAWA H, 1982, TECHNOLOGY REPORTS T, V47, P216
+   Roberts R. A., 1943, T AIME, V31, P613
+   ROOSZ A, 1983, ACTA METALL MATER, V31, P509, DOI 10.1016/0001-6160(83)90039-1
+   SCHNEIDER A, 2004, CONTINUUM SCALE SIMU, P3
+   Shtansky DV, 1997, ACTA MATER, V45, P2879, DOI 10.1016/S1359-6454(96)00374-6
+   Shtansky DV, 1999, ACTA MATER, V47, P2619
+   SPEICH GR, 1969, T METALL SOC AIME, V245, P1063
+   UNDERWOOD EE, 1968, QUANTITATIVE MICROSC, P77
+   ZENER C, 1946, T AM I MIN MET ENG, V167, P550
+NR 25
+TC 3
+Z9 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1073-5623
+J9 METALL MATER TRANS A
+JI Metall. Mater. Trans. A-Phys. Metall. Mater. Sci.
+PD JUN
+PY 2011
+VL 42A
+IS 6
+BP 1586
+EP 1596
+DI 10.1007/s11661-010-0560-4
+PG 11
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 758PB
+UT WOS:000290176100023
+ER
+
+PT J
+AU Komai, Y
+   Okitsu, K
+   Nishimura, R
+   Ohtsu, N
+   Miyamoto, G
+   Furuhara, T
+   Semboshi, S
+   Mizukoshi, Y
+   Masahashi, N
+AF Komai, Yosuke
+   Okitsu, Kenji
+   Nishimura, Rokuro
+   Ohtsu, Naofumi
+   Miyamoto, Goro
+   Furuhara, Tadashi
+   Semboshi, Satoshi
+   Mizukoshi, Yoshiteru
+   Masahashi, Naoya
+TI Visible light response of nitrogen and sulfur co-doped TiO2
+   photocatalysts fabricated by anodic oxidation
+SO CATALYSIS TODAY
+LA English
+DT Article; Proceedings Paper
+CT 1st Joint International Conference of the 8th Tokyo Conference on
+   Advanced Catalytic Science and Technology/5th Asia Pacific Congress on
+   Catalysis
+CY JUL 18-23, 2010
+CL Sapporo, JAPAN
+DE Photocatalysts; TiO2; Anodic oxidation; Visible light response
+ID TITANIUM-DIOXIDE; ION-IMPLANTATION; WATER; FILMS; SUPERHYDROPHILICITY;
+   SENSITIZATION; IRRADIATION; OXIDES
+AB N,S-codoped TiO2 photocatalysts were successfully immobilized on the surface of plasma-nitrided pure Ti substrate by anodic oxidation in a sulfuric acid electrolyte and their photocatalytic activities were evaluated. The anodic TiO2 photocatalysts effectively bleached methylene blue (MB) aqueous solution under visible light illumination. X-ray photoelectron spectroscopy (XPS) analysis clarified the presence of nitrogen and sulfur, and auger electron spectroscopy (AES) analysis revealed that sulfur was distributed over the anodic oxide. It is estimated that N, S-codoping in the anodic TiO2 narrows the band gap of pristine TiO2 and improves the photocatalytic activity under visible light illumination. (C) 2010 Elsevier B. V. All rights reserved.
+C1 Osaka Prefecture Univ, Grad Sch Engn, Dept Mat Sci, Osaka 5998531, Japan.
+   Kitami Inst Technol, Instrumental Anal Ctr, Kitami, Hokkaido 0908507, Japan.
+   Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Inst Mat Res, Osaka Ctr Ind Mat Res, Osaka 5998531, Japan.
+RP Komai, Y (reprint author), Osaka Prefecture Univ, Grad Sch Engn, Dept Mat Sci, Osaka 5998531, Japan.
+EM dm0704@mtr.osakafu-u.ac.jp
+RI Miyamoto, Goro/G-2802-2010; Furuhara, Tadashi/B-2149-2010; Mizukoshi,
+   Yoshiteru/B-5547-2011
+CR Asahi R, 2001, SCIENCE, V293, P269, DOI 10.1126/science.1061051
+   BORGARELLO E, 1982, J AM CHEM SOC, V104, P2996, DOI 10.1021/ja00375a010
+   Borgioli F, 2004, SURF COAT TECH, V184, P255, DOI 10.1016/j.surfcoat.2003.10.004
+   Chen XB, 2004, J PHYS CHEM B, V108, P15446, DOI 10.1021/jp0469160
+   Diamanti MV, 2007, CORROS SCI, V49, P939, DOI 10.1016/j.corsci.2006.04.002
+   Diwald O, 2004, J PHYS CHEM B, V108, P6004, DOI 10.1021/jp031267y
+   Diwald O, 2004, J PHYS CHEM B, V108, P52, DOI 10.1021/jp030529t
+   FUJISHIMA A, 1972, NATURE, V238, P37, DOI 10.1038/238037a0
+   Ghicov A, 2006, NANO LETT, V6, P1080, DOI 10.1021/nl0600979
+   Gole JL, 2004, J PHYS CHEM B, V108, P1230, DOI 10.1021/jp.030843n
+   Irie H, 2003, J PHYS CHEM B, V107, P5483, DOI 10.1021/jp030133h
+   Khan SUM, 2002, SCIENCE, V297, P2243, DOI 10.1126/science.1077386
+   Komai Y, 2009, MATER TRANS, V50, P2182, DOI 10.2320/matertrans.MAW200912
+   Lakshmi SG, 2002, MATER CHEM PHYS, V76, P187
+   Masahashi N, 2008, THIN SOLID FILMS, V516, P7488, DOI 10.1016/j.tsf.2008.03.047
+   Masahashi N, 2009, APPL CATAL B-ENVIRON, V90, P255, DOI 10.1016/j.apcatb.2009.03.011
+   Masahashi N, 2008, CHEM LETT, V37, P1126, DOI 10.1246/cl.2008.1126
+   Mizukoshi Y, 2009, APPL CATAL B-ENVIRON, V91, P152, DOI 10.1016/j.apcatb.2009.05.018
+   Morikawa T, 2001, JPN J APPL PHYS 2, V40, pL561, DOI 10.1143/JJAP.40.L561
+   NAZEERUDDIN MK, 1993, J AM CHEM SOC, V115, P6382, DOI 10.1021/ja00067a063
+   Nazeeruddin MK, 1997, CHEM COMMUN, P1705, DOI 10.1039/a703277c
+   Onoda K, 2008, APPL CATAL B-ENVIRON, V80, P277, DOI 10.1016/j.apcatb.2007.11.023
+   SAHA NC, 1992, J APPL PHYS, V72, P3072, DOI 10.1063/1.351465
+   Sato S, 2005, APPL CATAL A-GEN, V284, P131, DOI 10.1016/j.apcata.2005.01.028
+   Umebayashi T, 2002, APPL PHYS LETT, V81, P454, DOI 10.1063/1.1493647
+   Wang LQ, 1995, SURF SCI, V344, P237, DOI 10.1016/0039-6028(95)00859-4
+   Yamashita H, 1999, J SYNCHROTRON RADIAT, V6, P451, DOI 10.1107/S0909049598017257
+NR 27
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0920-5861
+J9 CATAL TODAY
+JI Catal. Today
+PD APR 30
+PY 2011
+VL 164
+IS 1
+BP 399
+EP 403
+DI 10.1016/j.cattod.2010.10.085
+PG 5
+WC Chemistry, Applied; Chemistry, Physical; Engineering, Chemical
+SC Chemistry; Engineering
+GA 752TE
+UT WOS:000289716300071
+ER
+
+PT J
+AU Miyamoto, G
+   Tomio, Y
+   Aota, H
+   Oh-ishi, K
+   Hono, K
+   Furuhara, T
+AF Miyamoto, G.
+   Tomio, Y.
+   Aota, H.
+   Oh-ishi, K.
+   Hono, K.
+   Furuhara, T.
+TI Precipitation of nanosized nitrides in plasma nitrided Fe-M (M=Al, Cr,
+   Ti, V) alloys
+SO MATERIALS SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Steel; Precipitation; Nitriding; Metastable; Transmission electron
+   microscopy
+ID IRON-TITANIUM-ALLOYS; AL-ALLOY; NITROGEN; MATRIX; STEELS; EXCESS
+AB Nanosized alloy nitrides or alloying element (M)-Nitrogen(N) cluster formed in plasma nitriding of Fe-M binary alloys were investigated by means of high resolution TEM. Specimen surface of the Fe-Cr alloys was hardened by the formation of disk shaped CrN of NaCl structure, which is similar to 2 nm thick and 10 nm in diameter. In nitrided Fe-Al specimen, two kinds of AlN nitrides of metastable NaCl type and stable wurtzite type were formed near the specimen surface. Both of these were much larger than CrN. Contrasting to these specimens, in nitrided Fe-Ti and Fe-V alloys, high density M-N clusters of few nanometres diameter, many of which were monolayered lying on {001}(alpha), were formed, leading to larger hardness increase than that in Fe-Cr and Fe-Al alloys. The formation of M-N clusters in nitriding is explained by the thermodynamical analysis of phase separation between M/N poor and M/N rich bcc phases.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Sumitomo Met Ind Ltd, Corp Res & Dev Lab, Amagasaki, Hyogo 6600891, Japan.
+   Komatsu Ltd, Hiratsuka, Kanagawa 2548567, Japan.
+   Nagaoka Univ Technol, Dept Mech Engn, Nagaoka, Niigata 9402188, Japan.
+   Natl Inst Mat Sci, Tsukuba, Ibaraki 3050047, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM furuhara@imr.tohoku.ac.jp
+RI Miyamoto, Goro/G-2802-2010; Hono, Kazuhiro/B-9202-2008; Furuhara,
+   Tadashi/B-2149-2010
+OI Hono, Kazuhiro/0000-0001-7367-0193; 
+CR BIGLARI MH, 1995, PHILOS MAG A, V72, P1281
+   BIGLARI MH, 1995, METALL MATER TRANS A, V26, P765, DOI 10.1007/BF02649075
+   JACK DH, 1976, ACTA METALL MATER, V24, P137, DOI 10.1016/0001-6160(76)90016-X
+   Jessner P, 2010, PHIL MAG LETT, V90, P793, DOI 10.1080/09500839.2010.506425
+   Jessner P, 2009, ULTRAMICROSCOPY, V109, P530, DOI 10.1016/j.ultramic.2008.11.028
+   Kirkwood D.H., 1974, Metal Science, V8
+   Kusumi K, 2000, TETSU TO HAGANE, V86, P42
+   Locquet JN, 1997, MICROSC MICROANAL M, V8, P335, DOI 10.1051/mmm:1997126
+   MIYAMOTO G, 2006, MATER SCI FORUM, V492, P539
+   PHILLIPS VA, 1968, T METALL SOC AIME, V242, P2415
+   Pope M., 1973, SCAND J METALS, V2, P29
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1925, DOI 10.1016/0001-6160(86)90251-8
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1687, DOI 10.1016/0001-6160(86)90116-1
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1911, DOI 10.1016/0001-6160(86)90250-6
+   SOMERS MAJ, 1989, PHILOS MAG A, V59, P353
+   Takase T., 1976, Journal of the Japan Institute of Metals, V40
+   XIA Q, 1993, J APPL PHYS, V73, P8198, DOI 10.1063/1.353435
+NR 17
+TC 1
+Z9 1
+PU MANEY PUBLISHING
+PI LEEDS
+PA STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS LS3 1AB, W YORKS, ENGLAND
+SN 0267-0836
+J9 MATER SCI TECH-LOND
+JI Mater. Sci. Technol.
+PD APR
+PY 2011
+VL 27
+IS 4
+BP 742
+EP 746
+DI 10.1179/1743284710Y.0000000014
+PG 5
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 744FM
+UT WOS:000289080300007
+ER
+
+PT J
+AU Miyamoto, G
+   Iwata, N
+   Takayama, N
+   Furuhara, T
+AF Miyamoto, Goro
+   Iwata, Naomichi
+   Takayama, Naoki
+   Furuhara, Tadashi
+TI Mapping the parent austenite orientation reconstructed from the
+   orientation of martensite by EBSD and its application to ausformed
+   martensite
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE Lath martensite; Electron backscattering diffraction; Austenite; Steels;
+   Orientation relationship
+ID TEMPERATURE ALPHA-PHASE; LATH MARTENSITE; ALLOY-STEELS; BETA-PHASE;
+   CRYSTALLOGRAPHY; TRANSFORMATION; MORPHOLOGY; TI-6AL-4V; BAINITE; GRAIN
+AB A new method is developed for reconstruction of the local orientation of the parent austenite based on the orientation of lath martensite measured by electron backscattered diffraction. The local orientation of austenite was obtained by least squares fitting as the difference between the experimental data and the predicted martensite orientation was minimal, assuming the specific orientation relationship (OR) between martensite and the parent austenite. First, the average OR between austenite and lath martensite was precisely determined and it was shown that both close packed planes and directions between martensite and the parent austenite deviated by more than 1 degrees in low carbon martensite. The quality of the reconstructed austenite orientation map depended strongly on the OR used for the calculation. When Kurdjumov Sachs (K-S) or Nishiyama-Wasserman (N-W) ORs were used the austenite orientation was frequently mis-indexed as a twin orientation with respect to the true orientation because of the mirror symmetry of (0 1 1)(alpha) stacking in the K S or N-W ORs. In contrast, the frequency of mis-indexing was significantly reduced by using the measured OR, where the close packed planes and directions were not parallel. The deformation structure in austenite was successfully reconstructed by applying the proposed method to ausformed martensite in low carbon steel. (C) 2010 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Miyamoto, Goro/G-2802-2010; Furuhara, Tadashi/B-2149-2010
+FU Ministry of Education, Culture, Sports, Science and Technology
+   [21760526]; Iron and Steel Institute of Japan; Materials Integration
+   International Center of Education Research at Tohoku University
+FX The financial support of the Ministry of Education, Culture, Sports,
+   Science and Technology through a Grant-in-Aid for Young Scientists (B)
+   No. 21760526 (2009-2010), and the Iron and Steel Institute of Japan
+   through a Research Promotion Grant (2008-2009) are gratefully
+   acknowledged. N.T. acknowledges financial support from the Global COE
+   program of the Materials Integration International Center of Education
+   Research at Tohoku University.
+CR Blaineau P, 2010, SOL ST PHEN, V160, P203, DOI 10.4028/www.scientific.net/SSP.160.203
+   Cayron C, 2006, MATER CHARACT, V57, P386, DOI 10.1016/j.matchar.2006.03.008
+   Gey N, 2003, J MATER SCI, V38, P1289, DOI 10.1023/A:1022842712172
+   Glavicic MG, 2003, MAT SCI ENG A-STRUCT, V351, P258, DOI 10.1016/S0921-5093(02)00844-4
+   Glavicic MG, 2003, MAT SCI ENG A-STRUCT, V346, P50, DOI 10.1016/S0921-5093(02)00535-X
+   Guo Z, 2004, ACTA MATER, V52, P5511, DOI 10.1016/j.actamat.2004.08.011
+   Humbert M, 2002, J APPL CRYSTALLOGR, V35, P401, DOI 10.1107/S0021889802005824
+   HUMBERT M, 1995, J APPL CRYSTALLOGR, V28, P571, DOI 10.1107/S0021889895004067
+   Kawata H, 2006, MAT SCI ENG A-STRUCT, V438, P140, DOI 10.1016/j.msea.2006.02.175
+   KELLY PM, 1990, ACTA METALL MATER, V38, P1075, DOI 10.1016/0956-7151(90)90180-O
+   MADER AR, 1967, T ASM, V60, P651
+   Maki T., 1988, P INT C PHYS MET THE, P458
+   Matsuda S., 1971, IMPROVED DUCTILITY T, P45
+   Miyamoto G, 2009, ACTA MATER, V57, P1120, DOI 10.1016/j.actamat.2008.10.050
+   Miyamoto G, 2009, SCRIPTA MATER, V60, P1113, DOI 10.1016/j.scriptamat.2009.02.053
+   Morimoto T, 2007, TETSU TO HAGANE, V93, P591
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   Morito S, 2006, ACTA MATER, V54, P5323, DOI 10.1016/j.actamat.2006.07.009
+   Morito S, 2003, J PHYS IV, V112, P453, DOI 10.1051/jp4:2003923
+   OLSON GB, 1976, METALL TRANS A, V7, P1897, DOI 10.1007/BF02654987
+   Regle H, 2004, P INT C ADV HIGH STR, P239
+   Steven W, 1956, J IRON STEEL I, V183, P349
+   Tamura I, 1982, J PHYS C SOLID STATE, VC4, P551
+NR 23
+TC 13
+Z9 13
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD NOV
+PY 2010
+VL 58
+IS 19
+BP 6393
+EP 6403
+DI 10.1016/j.actamat.2010.08.001
+PG 11
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 675EB
+UT WOS:000283807900019
+ER
+
+PT J
+AU Miyamoto, G
+   Usuki, H
+   Li, ZD
+   Furuhara, T
+AF Miyamoto, G.
+   Usuki, H.
+   Li, Z. -D.
+   Furuhara, T.
+TI Effects of Mn, Si and Cr addition on reverse transformation at 1073 K
+   from spheroidized cementite structure in Fe-0.6 mass% C alloy
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE Phase transformation kinetics; Steels; Austenitization; Alloying effect;
+   Partitioning
+ID AUSTENITE; STEEL; FERRITE; KINETICS; DIFFUSION; DISSOLUTION; MARTENSITE;
+   SYSTEMS; GROWTH; CARBON
+AB The effects of addition of Si, Mn and Cr on the kinetics of reverse transformation at 1073 K from the spheroidized cementite structure obtained by heavy tempering of high carbon martensite are investigated. The rate for reverse transformation is the fastest in the Fe-0.6 mass% C binary material, and becomes slower with the addition of Mn, Si and Cr. In particular, the retarding effect of Cr addition is remarkable, and holding times orders of magnitude longer than for other alloys are necessary to complete the reverse transformation. Based on thermodynamics and TEM/EDS analyses, it is supposed that austenite growth is controlled by carbon diffusion in specimens with Si and Mn added, as well as the Fe-0.6 mass% C binary material, while a decrease in the carbon activity gradient with the addition of these elements results in slower reversion kinetics. However, in the Cr-added specimen, Cr diffusion is necessary for austenite growth, yielding extremely sluggish reaction kinetics. (C) 2010 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Nippon Steel Corp Ltd, Kimitsu Works, Kimitsu 2991141, Japan.
+   Tsinghua Univ, Dept Mat Sci & Engn, Beijing 100084, Peoples R China.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Miyamoto, Goro/G-2802-2010; Furuhara, Tadashi/B-2149-2010
+CR Akbay T, 1996, J MATER SCI, V31, P2221, DOI 10.1007/BF01152931
+   BABU SS, 1993, APPL SURF SCI, V67, P321, DOI 10.1016/0169-4332(93)90333-7
+   Bain E. C., 1945, FUNCTIONS ALLOYING E
+   COATES DE, 1972, METALL TRANS, V3, P1203, DOI 10.1007/BF02642453
+   DIRNFELD SF, 1974, METALL TRANS, V5, P1437, DOI 10.1007/BF02646630
+   Furuhara T, 2008, ISIJ INT, V48, P1038, DOI 10.2355/isijinternational.48.1038
+   GRANGE RA, 1971, METALL TRANS, V2, P65, DOI 10.1007/BF02662639
+   HILLERT M, 1947, PARAEQUILIBRIUM INTE
+   HILLERT M, 1971, J IRON STEEL I, V209, P49
+   HULTGREN A, 1947, T AM SOC METAL, V39, P915
+   JUDD RR, 1968, T METALL SOC AIME, V242, P206
+   KARMAZIN L, 1991, MAT SCI ENG A-STRUCT, V142, P71, DOI 10.1016/0921-5093(91)90755-C
+   KARMAZIN L, 1994, MAT SCI ENG A-STRUCT, V185, pL5, DOI 10.1016/0921-5093(94)90944-X
+   KIRKALDY JS, 1958, CAN J PHYS, V36, P907
+   Li ZD, 2009, SCRIPTA MATER, V60, P485, DOI 10.1016/j.scriptamat.2008.11.041
+   LIU ZK, 1991, METALL TRANS A, V22, P1745, DOI 10.1007/BF02646498
+   MIYAMOTO G, 2008, P INT FED HEAT TREAT, P485
+   Miyamoto G, 2007, ACTA MATER, V55, P5027, DOI 10.1016/j.actamat.2007.05.023
+   MOLINDER G, 1956, ACTA METALL MATER, V4, P565, DOI 10.1016/0001-6160(56)90157-2
+   NEHRENBERG AE, 1950, T AM I MIN MET ENG, V188, P162
+   Oi K, 2000, ACTA MATER, V48, P2147, DOI 10.1016/S1359-6454(00)00041-0
+   PAXTON HW, 1967, S TRANSF HARD STEELS, P3
+   Ridley N., 1984, PHASE TRANSFORMATION, P201
+   Roberts GA, 1943, T ASM, V31, P613
+   SAKUMA T, 1971, B JPN I MET, V10, P279
+   Shtansky DV, 1999, ACTA MATER, V47, P2619
+   SPEICH GR, 1969, T METALL SOC AIME, V245, P1063
+   THOMPSON AR, 1995, SOUTHERN MED J, V88, P185
+   UMEMOTO M, 1997, B IRON STEEL I JPN, V2, P731
+NR 29
+TC 9
+Z9 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD AUG
+PY 2010
+VL 58
+IS 13
+BP 4492
+EP 4502
+DI 10.1016/j.actamat.2010.04.045
+PG 11
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 623ZY
+UT WOS:000279787100019
+ER
+
+PT J
+AU Furuhara, T
+   Yamaguchi, T
+   Miyamoto, G
+   Maki, T
+AF Furuhara, T.
+   Yamaguchi, T.
+   Miyamoto, G.
+   Maki, T.
+TI Incomplete transformation of upper bainite in Nb bearing low carbon
+   steels
+SO MATERIALS SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Steel; Phase transformation; Bainite; Ferrite; Cementite; Pearlite;
+   Microalloying
+ID ALLOYING ELEMENTS; MN STEELS; FE-C; FERRITE; NIOBIUM; NUCLEATION;
+   MECHANISM; KINETICS; HAZ
+AB Kinetics and microstructure of bainite transformation in Fe-(0.15 or 0.05)C-0.2Si-1.5Mn (mass%) alloys with Nb addition of 0.03 mass%. Bainite transformation occurs at temperatures below 873 K. At 853 K, transformation rapidly proceeds by formation of bainitic ferrite without carbide precipitation, but transformation stasis appears for a certain period in the Nb added alloys leaving untransformed austenite film between neighbouring bainitic ferrites. On the other band, the Nb free alloys do not show such a stasis until the transformation is completed. By further holding, the transformation in the Nb added alloy restarts by forming the mixture of dislocation free ferrite with cementite precipitation in the austenite films. In contrast, bainite transformation accompanying cementite precipitation occurs in both Nb free and Nb added alloys at 773 K, resulting in no difference in transformation kinetics. It is proposed that the incomplete transformation is caused by suppression of ferrite nucleation at interphase boundaries between pre-existing bainitic ferrite and austenite due to Nb segregation.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Technol Res Inst Osaka Prefecture, Izumi 5941157, Japan.
+   Nippon Steel Corp Ltd, Futtsu 2938511, Japan.
+RP Furuhara, T (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM furuhara@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+FU CBMM Asia; Institute of Iron and Steel Japan
+FX The authors are grateful to the financial supports from CBMM Asia and
+   from the Research Promotion Fund of the Institute of Iron and Steel
+   Japan.
+CR Aaronson HI, 2006, METALL MATER TRANS A, V37A, P1731, DOI 10.1007/s11661-006-0116-9
+   BHADESHIA HKDH, 1980, ACTA METALL MATER, V28, P1265, DOI 10.1016/0001-6160(80)90082-6
+   Bhadeshia H.K.D.H., 2001, BAINITE STEELS
+   Caballero FG, 2009, ACTA MATER, V57, P8, DOI 10.1016/j.actamat.2008.08.041
+   DeKazinczy F, 1963, JERNKONT ANN, V147, P408
+   ENOMOTO M, 1994, MATER T JIM, V35, P859
+   Hara T, 2004, ISIJ INT, V44, P1431, DOI 10.2355/isijinternational.44.1431
+   Hatano H, 2005, TETSU TO HAGANE, V91, P875
+   Hattingh RJ, 1998, INT J PRES VES PIP, V75, P661, DOI 10.1016/S0308-0161(98)00066-0
+   Hillert M, 2004, METALL MATER TRANS A, V35A, P3693, DOI 10.1007/s11661-004-0275-5
+   HONEYCOM.RW, 1972, METALL TRANS, V3, P1099, DOI 10.1007/BF02642441
+   IRVINE KJ, 1957, J IRON STEEL I, V186, P292
+   Irvine K.J., 1957, J IRON STEEL I, V186, P54
+   JUNG YC, 1995, ISIJ INT, V35, P1001, DOI 10.2355/isijinternational.35.1001
+   KASAMATSU Y, 1978, TETSU TO HAGANE, V65, P1222
+   KAWABATA F, 1993, J SOC NAVAL ARCH JPN, V173, P349
+   KOBAYASHI H, 1981, TETSU TO HAGANE, V67, P2191
+   LEE GI, 1995, MAT SCI ENG A-STRUCT, V194, P179
+   MAEKAWA S, 1972, TETSU TO HAGANE, V58, P1861
+   MATSUBARA H, 1972, TETSU TO HAGANE, V58, P1848
+   OHMORI Y, 1971, T IRON STEEL I JPN, V11, P250
+   Park JS, 2007, SCRIPTA MATER, V57, P109, DOI 10.1016/j.scriptamat.2007.03.041
+   REYNOLDS WT, 1990, METALL TRANS A, V21, P1433, DOI 10.1007/BF02672561
+   RIGSBEE JM, 1979, ACTA METALL MATER, V27, P365, DOI 10.1016/0001-6160(79)90029-4
+   Suehiro M, 1996, ACTA MATER, V44, P4241, DOI 10.1016/S1359-6454(96)00036-5
+   Takahashi K, 2007, UNPUB
+   THOMPSON SW, 1990, METALL TRANS A, V21, P1493, DOI 10.1007/BF02672564
+   TSUZAKI K, 1994, METALL MATER TRANS A, V25, P2009, DOI 10.1007/BF02649049
+   WANG SC, 1993, J MATER SCI, V28, P5169, DOI 10.1007/BF00570058
+   WANG SC, 1992, MAT SCI ENG A-STRUCT, V154, P43, DOI 10.1016/0921-5093(92)90361-4
+NR 30
+TC 3
+Z9 3
+PU MANEY PUBLISHING
+PI LEEDS
+PA STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS LS3 1AB, W YORKS, ENGLAND
+SN 0267-0836
+J9 MATER SCI TECH-LOND
+JI Mater. Sci. Technol.
+PD APR
+PY 2010
+VL 26
+IS 4
+BP 392
+EP 397
+DI 10.1179/026708309X12512744
+PG 6
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 579BI
+UT WOS:000276341000003
+ER
+
+PT J
+AU Poorganji, B
+   Yamaguchi, M
+   Itsumi, Y
+   Matsumoto, K
+   Tanaka, T
+   Asa, Y
+   Miyamoto, G
+   Furuhara, T
+AF Poorganji, Behrang
+   Yamaguchi, Makoto
+   Itsumi, Yoshio
+   Matsumoto, Katsushi
+   Tanaka, Tomofumi
+   Asa, Yusuke
+   Miyamoto, Goro
+   Furuhara, Tadashi
+TI Microstructure evolution during deformation of a near-alpha titanium
+   alloy with different initial structures in the two-phase region
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE Titanium alloy; Thermomechanical processing; Grain refining; Dynamic
+   recrystallization
+ID ULTRAFINE GRAINED FERRITE; HOT-WORKING; WARM DEFORMATION; LATH
+   MARTENSITE; TI-6AL-4V; STEELS; FLOW; MAPS
+AB The effects of initial microstructure on the microstructure evolution of a Ti-1.5Fe (mass%) alloy during deformation in the (alpha + beta) two-phase region are studied at different deformation temperatures. Refining interlamellar spacing and colony size of the (alpha + beta) lamellar structure by quenching after beta solutionizing results in promotion of dynamic recrystallization. (C) 2009 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Osaka Titanium Technol Co Ltd, Amagasaki, Hyogo 6608533, Japan.
+   Kobe Steel Ltd, Nishi Ku, Kobe, Hyogo 6512271, Japan.
+RP Poorganji, B (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM behrang@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR Furuhara FT, 2007, JOM-US, V59, P64
+   Furuhara T, 2007, MATER SCI FORUM, V539-543, P155
+   Humphreys F.J., 2004, RECRYSTALLIZATION RE, P356
+   Lutjering G., 2003, TITANIUM, P177
+   Lutjering G, 1998, MAT SCI ENG A-STRUCT, V243, P32, DOI 10.1016/S0921-5093(97)00778-8
+   Ma FC, 2006, MAT SCI ENG A-STRUCT, V416, P59, DOI 10.1016/j.msea.2005.09.082
+   Poorganji B, 2007, MATER SCI FORUM, V558-559, P557
+   POORGANJI B, 2007, THESIS TOHOKU U
+   POORGANJI B, 2008, P 17 C IFHT IN PRESS
+   Poorganji B, 2008, SCRIPTA MATER, V59, P279, DOI 10.1016/j.scriptamat.2008.03.041
+   Prasad YVRK, 1998, MAT SCI ENG A-STRUCT, V243, P82, DOI 10.1016/S0921-5093(97)00782-X
+   SARGENT PM, 1982, SCRIPTA METALL MATER, V16, P1415, DOI 10.1016/0036-9748(82)90439-2
+   Semiatin SL, 1999, MAT SCI ENG A-STRUCT, V263, P257, DOI 10.1016/S0921-5093(98)01156-3
+   Semiatin SL, 2001, ACTA MATER, V49, P3565, DOI 10.1016/S1359-6454(01)00236-1
+   Seshacharyulu T, 2000, MAT SCI ENG A-STRUCT, V284, P184, DOI 10.1016/S0921-5093(00)00741-3
+   Seshacharyulu T, 2002, MAT SCI ENG A-STRUCT, V325, P112, DOI 10.1016/S0921-5093(01)01448-4
+   Wanjara P, 2006, MAT SCI ENG A-STRUCT, V416, P300, DOI 10.1016/j.msea.2005.10.042
+   Weiss I, 1998, MAT SCI ENG A-STRUCT, V243, P46, DOI 10.1016/S0921-5093(97)00783-1
+   Weiss I, 1999, MAT SCI ENG A-STRUCT, V263, P243, DOI 10.1016/S0921-5093(98)01155-1
+NR 19
+TC 12
+Z9 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD AUG
+PY 2009
+VL 61
+IS 4
+BP 419
+EP 422
+DI 10.1016/j.scriptamat.2009.04.033
+PG 4
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 464JD
+UT WOS:000267500300021
+ER
+
+PT J
+AU Miyamoto, G
+   Takayama, N
+   Furuhara, T
+AF Miyamoto, G.
+   Takayama, N.
+   Furuhara, T.
+TI Accurate measurement of the orientation relationship of lath martensite
+   and bainite by electron backscatter diffraction analysis
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE Steels; Orientation relationship; Electron backscatter diffraction
+   (EBSD); Martensite; Bainite
+ID ALLOY-STEELS; LOW-CARBON; AUSTENITE; CRYSTALLOGRAPHY; SI
+AB A new method to determine the orientation relationship between martensite and bainite with the parent austenite is developed based on electron backscatter diffraction analysis. This method can determine the orientation relationship accurately without the presence of retained austenite, and is applicable to lath martensite and bainite in low-alloyed carbon steels. The angles between close-packed directions are about 3 degrees for lath martensite regardless of the carbon content, while the angles between close-packed planes become smaller with increasing carbon content. (C) 2009 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR Gourgues-Lorenzon AF, 2007, INT MATER REV, V52, P65, DOI 10.1179/174328007X160254
+   GRENINGER AB, 1949, T AM I MIN MET ENG, V185, P590
+   KELLY PM, 1990, ACTA METALL MATER, V38, P1075, DOI 10.1016/0956-7151(90)90180-O
+   Law N.C., 1979, Metal Science, V13
+   Li ZD, 2009, SCRIPTA MATER, V60, P485, DOI 10.1016/j.scriptamat.2008.11.041
+   LUO CP, 1992, METALL TRANS A, V23, P1403, DOI 10.1007/BF02647323
+   Miyamoto G, 2009, ACTA MATER, V57, P1120, DOI 10.1016/j.actamat.2008.10.050
+   Morito S, 2006, ACTA MATER, V54, P5323, DOI 10.1016/j.actamat.2006.07.009
+   Nolze G, 2006, CRYST RES TECHNOL, V41, P72, DOI 10.1002/crat.200410533
+   OKA M, 1990, METALL TRANS A, V21, P845, DOI 10.1007/BF02656568
+   RAO BVN, 1979, METALL TRANS A, V10, P645, DOI 10.1007/BF02658328
+   SANDVIK BPJ, 1983, METALL TRANS A, V14, P809, DOI 10.1007/BF02644284
+   SANDVIK BPJ, 1982, METALL TRANS A, V13, P777, DOI 10.1007/BF02642391
+   SCHWARTZ AJ, 2000, ELECT BACKSCATTER DI
+   Shibata A, 2005, SCRIPTA MATER, V53, P597, DOI 10.1016/j.scriptamat.2005.04.023
+   Steven W, 1956, J IRON STEEL I, V183, P349
+   Wayman C.M., 1968, ADV MATER RES, V3, P147
+   Zhang MX, 2002, SCRIPTA MATER, V47, P749, DOI 10.1016/S1359-6462(02)00196-3
+NR 18
+TC 29
+Z9 32
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD JUN
+PY 2009
+VL 60
+IS 12
+BP 1113
+EP 1116
+DI 10.1016/j.scriptamat.2009.02.053
+PG 4
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 442AV
+UT WOS:000265813000018
+ER
+
+PT J
+AU Li, ZD
+   Miyamoto, G
+   Yang, ZG
+   Furuhara, T
+AF Li, Z. -D.
+   Miyamoto, G.
+   Yang, Z. -G.
+   Furuhara, T.
+TI Nucleation of austenite from pearlitic structure in an Fe-0.6C-1Cr alloy
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE Pearlitic steels; Austenitization; Electron backscattering diffraction
+   (EBSD); Nucleation of phase transformations; Crystallography
+ID FERRITE; STEEL
+AB The nucleation site of austenite from pearlitic structure during reverse transformation at 1073 K in Fe- 0.6C- 1Cr (mass%) alloy was examined by means of electron backscattering diffraction. It was found that austenite preferentially nucleates at high-angle boundaries (HABs) of pearlitic ferrite. Some austenite nuclei maintain a near Kurdjumov-Sachs (K-S) orientation relationship (OR) with one or two pearlitic ferrites adjacent to the HAB. Austenite nucleated at the HAB face preferentially grows into the adjacent pearlitic ferrite, deviating greatly from the K-S OR. (C) 2008 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tsinghua Univ, Dept Mat Sci & Engn, Key Lab Adv Mat, Beijing 100084, Peoples R China.
+   Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Li, ZD (reprint author), Tohoku Univ, Dept Met, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+EM lizd2006@gmail.com
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+FU National Natural Science Foundation of China [50871059]
+FX This work is partially supported by the National Natural Science
+   Foundation of China (No. 50871059).
+CR Brooks C. R., 1992, PRINCIPLES AUSTENITI, P81
+   JUDD RR, 1968, T METALL SOC AIME, V242, P206
+   ROOSZ A, 1983, ACTA METALL MATER, V31, P509, DOI 10.1016/0001-6160(83)90039-1
+   Shtansky DV, 1999, ACTA MATER, V47, P2619
+   SPEICH GR, 1969, T METALL SOC AIME, V245, P1063
+   TAKAHASHI T, 1978, J JPN I MET, V42, P716
+   Walentek A, 2006, J MICROSC-OXFORD, V224, P256, DOI 10.1111/j.1365-2818.2006.01702.x
+NR 7
+TC 10
+Z9 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD APR
+PY 2009
+VL 60
+IS 7
+BP 485
+EP 488
+DI 10.1016/j.scriptamat.2008.11.041
+PG 4
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 411BE
+UT WOS:000263621800003
+ER
+
+PT J
+AU Miyamoto, G
+   Shibata, A
+   Maki, T
+   Furuhara, T
+AF Miyamoto, G.
+   Shibata, A.
+   Maki, T.
+   Furuhara, T.
+TI Precise measurement of strain accommodation in austenite matrix
+   surrounding martensite in ferrous alloys by electron backscatter
+   diffraction analysis
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE Martensitic phase transformation; Iron alloys; EBSD; Deformation
+   inhomogeneities; Shape strain accommodation
+ID THIN-PLATE MARTENSITES; NI-C ALLOY; LATH MARTENSITE; FE-NI; LENTICULAR
+   MARTENSITE; CRYSTALLOGRAPHY; TRANSFORMATION; MICROSCOPY; GROWTH; STEELS
+AB Local strain distributions in austenite matrix that is deformed to accommodate shape strain associated with formation of martensite were investigated by means of electron backscatter diffraction (EBSD) analysis for various morphologies of lath, lenticular and thin plate martensite in ferrous alloys. By detecting small changes in EBSD patterns through image analysis of the patterns. components of both strain and rotation tensors in austenite matrix adjacent to martensite were measured quantitatively. In the austenite matrix surrounding thin plate martensite, the magnitude of components of strain tensor is nearly as large as those of rotation tensor, implying that shape strain of thin plate martensite is accommodated by elastic deformation of austenite. On the other hand, in the austenite matrices surrounding lenticular and lath martensite, components of strain tensor are found to be much smaller than those of rotation tensor even near the austenite/martensite interface. This indicates that most of the shape strain associated with the formation of lenticular and lath martensite is accommodated by plastic deformation in the austenite matrix. The misorientation axis of austenite adjacent to lenticular and lath martensite coincides well with that predicted from the phenomenological theory of martensite crystallography. (C) 2008 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tokyo Inst Technol, Precis & Intelligence Lab, Midori Ku, Yokohama, Kanagawa 2268503, Japan.
+   Kyoto Univ, Sakyo Ku, Kyoto 6068501, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010; Shibata,
+   Akinobu/C-7884-2012
+FU Japan Society for the Promotion of Science for Young Scientists;
+   Institute for Materials Research, Tohoku University
+FX The authors gratefully acknowledge financial Support from the Research
+   Promotion Fund of the Iron and Steel Institute of Japan and Research
+   Fellowships by the Japan Society for the Promotion of Science for Young
+   Scientists. This work was performed Under the Inter-University
+   Cooperative Research program of the Institute for Materials Research,
+   Tohoku University. The authors wish to thank Prof. K. Osamura (formally
+   Kyoto University, Currently at Research Institute for Applied Sciences,
+   Japan) and Dr. H. Adachi (Kyoto University, Japan) for allowing us to
+   use a field-emission SEM instrument. Further, the authors are deeply
+   indebted to Prof. S. Onaka (Tokyo Institute of Technology, Japan) for
+   valuable discussions about strain analysis.
+CR BOWLES JS, 1954, ACTA METALL MATER, V2, P129, DOI 10.1016/0001-6160(54)90102-9
+   BREEDIS JF, 1962, T METALL SOC AIME, V224, P1128
+   Furuhara T, 2008, METALL MATER TRANS A, V39A, P1003, DOI 10.1007/s11661-008-9510-9
+   GRENINGER AB, 1949, T AM I MIN MET ENG, V185, P590
+   KAKESHITA T, 1980, SCRIPTA METALL MATER, V14, P1067, DOI 10.1016/0036-9748(80)90207-0
+   KELLY PM, 1992, MATER T JIM, V33, P235
+   KIKUCHI T, 1985, T JPN I MET, V26, P861
+   LING HC, 1981, ACTA METALL MATER, V29, P1721, DOI 10.1016/0001-6160(81)90006-7
+   Maki T, 1990, MATER SCI FORUM, V56-58, P157
+   MAKI T, 1976, METALL TRANS A, V7, P1511, DOI 10.1007/BF02656393
+   MIYAMOTO G, UNPUB
+   NYE JF, 1953, ACTA METALL MATER, V1, P153, DOI 10.1016/0001-6160(53)90054-6
+   OKAMOTO H, 1979, ACTA METALL MATER, V27, P1789, DOI 10.1016/0001-6160(79)90070-1
+   OLSON GB, 1976, P 1 JIM INT S NEWS A, P105
+   Ross N.D.H., 1970, Acta Metallurgica, V18, DOI 10.1016/0001-6160(70)90126-4
+   SANDVIK BPJ, 1983, METALL TRANS A, V14, P809, DOI 10.1007/BF02644284
+   SANDVIK BPJ, 1983, METALL TRANS A, V14, P835, DOI 10.1007/BF02644286
+   Shibata A, 2008, MATER TRANS, V49, P1242, DOI 10.2320/matertrans.MRA2007296
+   Shibata A, 2005, SCRIPTA MATER, V53, P597, DOI 10.1016/j.scriptamat.2005.04.023
+   Takita K, 2003, IEICE T FUND ELECTR, VE86A, P1925
+   Timoshenko S.P., 1970, THEORY ELASTICITY
+   VEVECKA A, 1995, MATER SCI TECH SER, V11, P109
+   WAKASA K, 1981, ACTA METALL MATER, V29, P973, DOI 10.1016/0001-6160(81)90051-1
+   Wayman C.M., 1968, ADV MATER RES, V3, P147
+   WECHSLER MS, 1953, T AM I MIN MET ENG, V197, P1503
+   Wilkinson AJ, 2006, ULTRAMICROSCOPY, V106, P307, DOI 10.1016/j.ultramic.2005.10.001
+   Wilkinson AJ, 2006, MATER SCI TECH-LOND, V22, P1271, DOI 10.1179/174328406X130966
+   YAMAMOTO M, 1994, J VAC SCI TECHNOL B, V12, P1813, DOI 10.1116/1.587606
+   YANG ZG, 1995, PHYS REV B, V52, P7879, DOI 10.1103/PhysRevB.52.7879
+NR 29
+TC 30
+Z9 31
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD FEB
+PY 2009
+VL 57
+IS 4
+BP 1120
+EP 1131
+DI 10.1016/j.actamat.2008.10.050
+PG 12
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 419VV
+UT WOS:000264248700017
+ER
+
+PT J
+AU Poorganji, B
+   Miyamoto, G
+   Maki, T
+   Furuhara, T
+AF Poorganji, Behrang
+   Miyamoto, Goro
+   Maki, Tadashi
+   Furuhara, Tadashi
+TI Formation of ultrafine grained ferrite by warm deformation of lath
+   martensite in low-alloy steels with different carbon content
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE thermomechanical processing; grain refining; lath martensite; dynamic
+   recrystallization
+ID DYNAMIC RECRYSTALLIZATION; FE-C; MICROSTRUCTURE; COMPRESSION; EVOLUTION;
+   TEXTURE
+AB Formation of ultrafine grained ferrite by warm deformation of tempered lath martensite was investigated in Fe-2Mn-(0.1-0.8)C (mass%) alloys. Analysis of initial microstructure shows that an increase in carbon content leads to a decrease of lath martensite block size. Fine equiaxed (alpha) grains surrounded by high-angle boundaries are formed by dynamic recrystallization. As carbon content increases, the recrystallized alpha grain size decreases. It is considered that dynamic recrystallization of tempered lath martensite is a continuous type. (c) 2008 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Mat Res Inst, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Kyoto Univ, Futtsu 2938511, Japan.
+RP Poorganji, B (reprint author), Tohoku Univ, Mat Res Inst, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM behrang@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR Bao YZ, 2005, SCRIPTA MATER, V53, P1471, DOI 10.1016/j.scriptamat.2005.08.017
+   Furuhara T, 2007, MATER SCI FORUM, V539-543, P155
+   Huang YD, 2003, J MATER PROCESS TECH, V134, P19, DOI 10.1016/S0924-0136(02)00272-8
+   Humphreys F. J., 2004, RECRYSTALLIZATION RE
+   Li JH, 2007, MATER SCI FORUM, V558-559, P539
+   MAKI T, 2006, P 3 INT C ADV STRUCT, P68
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   Morito S, 2003, ISIJ INT, V43, P1475, DOI 10.2355/isijinternational.43.1475
+   Murty SVSN, 2005, SCRIPTA MATER, V53, P763, DOI [10.1016/j.scriptamat.2005.05.027, 10.1016/j.scriptmat.2005.05.027]
+   Murty SVSN, 2007, MAT SCI ENG A-STRUCT, V457, P162, DOI 10.1016/j.msea.2006.12.078
+   Niikura M, 2001, J MATER PROCESS TECH, V117, P341, DOI 10.1016/S0924-0136(01)00800-7
+   Ohmori A, 2004, MATER TRANS, V45, P2224, DOI 10.2320/matertrans.45.2224
+   Poorganji B, 2007, MATER SCI FORUM, V558-559, P557
+   POORGANJI B, 2007, P 4 INT S ULTR GRAIN, P81
+   Song R, 2005, ACTA MATER, V53, P845, DOI 10.1016/j.actamat.2004.10.051
+   Storojeva L, 2004, ACTA MATER, V52, P2209, DOI 10.1016/j.actamat.2004.01.024
+   Tsuji N, 1998, J JPN I MET, V62, P967
+NR 17
+TC 15
+Z9 15
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD AUG
+PY 2008
+VL 59
+IS 3
+BP 279
+EP 281
+DI 10.1016/j.scriptamat.2008.03.041
+PG 3
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 326IM
+UT WOS:000257651800005
+ER
+
+PT J
+AU Furuhara, T
+   Kawata, H
+   Morito, S
+   Miyamoto, G
+   Maki, T
+AF Furuhara, T.
+   Kawata, H.
+   Morito, S.
+   Miyamoto, G.
+   Maki, T.
+TI Variant selection in grain boundary nucleation of upper bainite
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT Symposium on Solid-State Necleation and Critical Nuclei during
+   Fires-Order Diffusional Phase Transformations
+CY OCT 15-19, 2006
+CL Cincinnati, OH
+ID HIGH-STRENGTH STEELS; LATH MARTENSITE; PHASE-TRANSFORMATION; C ALLOYS;
+   CRYSTALLOGRAPHY; PRECIPITATION; MORPHOLOGY; MICROSTRUCTURE; TOUGHNESS;
+   AUSTENITE
+AB The crystallography of bainitic ferrite nucleated at austenite grain boundaries was studied in an Fe-9Ni-0.15C (mass pct) alloy. The relationship between bainitic ferrite orientations (variants) and grain boundary characters, i.e., misorientation and boundary orientation, was examined by electron backscatter diffraction analysis in scanning electron microscopy and serial sectioning observation. Bainitic ferrite holds nearly the Kurdjumov-Sachs (K-S) orientation relationship with respect to the austenite grain into which it grows. At the beginning of transformation, the variants of bainitic ferrite are severely restricted by the following two rules, both advantageous in terms of interfacial energy: (1) smaller misorientation from the K-S relationship with respect to the opposite austenite grain and (2) elimination of the larger grain boundary area by the nucleation of bainitic ferrite. As the transformation proceeds, variant selection establishing plastic accommodation of transformation strain to a larger extent becomes important. Those kinds of variant selection result in formation of coarse blocks for small undercooling.
+C1 Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+   Kyoto Univ, Dept Mat Sci & Technol, Sakyo Ku, Kyoto 6068501, Japan.
+   Nippon Steel Corp Ltd, Steel Res Labs, Futtsu 2938511, Japan.
+   Shimane Univ, Dept Mat Sci, Matsue, Shimane 6908504, Japan.
+RP Furuhara, T (reprint author), Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+EM furuhara@imr.tohoku.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR AMEYAMA K, 1986, J JPN I MET, V50, P602
+   Bouyne E, 1998, SCRIPTA MATER, V39, P295, DOI 10.1016/S1359-6462(98)00170-5
+   Furuhara T, 2006, MAT SCI ENG A-STRUCT, V431, P228, DOI 10.1016/j.msea.2006.06.032
+   Furuhara T, 2001, MAT SCI ENG A-STRUCT, V312, P145, DOI 10.1016/S0921-5093(00)01904-3
+   FURUHARA T, 1996, METALL MATER TRANS A, V27, P1630
+   Gourgues AF, 2000, MATER SCI TECH SER, V16, P26, DOI 10.1179/026708300773002636
+   Kawata H, 2006, MAT SCI ENG A-STRUCT, V438, P140, DOI 10.1016/j.msea.2006.02.175
+   KELLY PM, 1992, MATER T JIM, V33, P235
+   Kitahara H, 2006, ACTA MATER, V54, P1279, DOI 10.1016/j.actamat.2005.11.001
+   Lambert-Perlade A, 2004, ACTA MATER, V52, P2337, DOI 10.1016/j.actamat.2004.01.025
+   LEE JK, 1975, ACTA METALL MATER, V23, P809, DOI 10.1016/0001-6160(75)90197-2
+   LEE JK, 1979, ACTA METALL, V23, P799
+   LUO CP, 1987, ACTA METALL MATER, V35, P1963, DOI 10.1016/0001-6160(87)90025-3
+   MAKI T, 1980, T IRON STEEL I JPN, V20, P207
+   Matsuda S., 1968, T JIM, V9, P343
+   MATSUDA S, 1972, T IRON STEEL I JPN, V12, P325
+   Morito S, 2003, ACTA MATER, V51, P1789, DOI 10.1016/S1359-6454(02)00577-3
+   Morito S, 2006, MAT SCI ENG A-STRUCT, V438, P237, DOI 10.1016/j.msea.2005.12.048
+   OHMORI Y, 1971, T IRON STEEL I JPN, V11, P250
+   ROBERTS MJ, 1970, METALL TRANS, V1, P3287
+   SWARR T, 1976, METALL TRANS A, V7, P41, DOI 10.1007/BF02644037
+NR 21
+TC 23
+Z9 24
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1073-5623
+J9 METALL MATER TRANS A
+JI Metall. Mater. Trans. A-Phys. Metall. Mater. Sci.
+PD MAY
+PY 2008
+VL 39A
+IS 5
+BP 1003
+EP 1013
+DI 10.1007/s11661-008-9510-9
+PG 11
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 285KW
+UT WOS:000254776700007
+ER
+
+PT J
+AU Hasegawa, M
+   Tran, HN
+   Miyamoto, G
+   Murata, Y
+   Harada, H
+   Kato, S
+AF Hasegawa, Mikio
+   Tran, Ha Nguyen
+   Miyamoto, Goh
+   Murata, Yoshitoshi
+   Harada, Hiroshi
+   Kato, Shuzo
+TI Autonomous and decentralized optimization of large-scale heterogeneous
+   wireless networks by neural network dynamics
+SO IEICE TRANSACTIONS ON COMMUNICATIONS
+LA English
+DT Article
+DE cognitive radio; heterogeneous wireless networks; neural networks; radio
+   resource management; radio access technology selection
+ID TRAVELING SALESMAN PROBLEMS; CHANNEL ASSIGNMENT; ALGORITHM; MODEL
+AB We propose a neurodynamical approach to a large-scale optimization problem in Cognitive Wireless Clouds, in which a huge number of mobile terminals with multiple different air interfaces autonomously utilize the most appropriate infrastructure wireless networks, by sensing available wireless networks, selecting the most appropriate one, and reconfiguring themselves with seamless handover to the target networks. To deal with such a cognitive radio network, game theory has been applied in order to analyze the stability of the dynamical systems consisting of the mobile terminals' distributed behaviors, but it is not a tool for globally optimizing the state of the network. As a natural optimization dynamical system model suitable for large-scale complex systems, we introduce the neural network dynamics which converges to an optimal state since its property is to continually decrease its energy function. In this paper, we apply such neurodynamics to the optimization problem of radio access technology selection. We compose a neural network that solves the problem, and we show that it is possible to improve total average throughput simply by using distributed and autonomous neuron updates on the terminal side.
+C1 Tokyo Univ Sci, Dept Elect Engn, Fac Engn, Tokyo 1020073, Japan.
+   Natl Inst Informat & Commun Technol, Ubiquitous Mobile Commun Grp, Yokosuka, Kanagawa 2390847, Japan.
+   Iwate Prefectural Univ, Dept Software & Informat Sci, Iwate Ken 0200193, Japan.
+RP Hasegawa, M (reprint author), Tokyo Univ Sci, Dept Elect Engn, Fac Engn, Tokyo 1020073, Japan.
+EM hasegawa@ee.kagu.tus.ac.jp
+CR AARTS EHL, 1989, EUR J OPER RES, V39, P79, DOI 10.1016/0377-2217(89)90355-X
+   AKIYAMA Y, 1989, P IEEE INT JOINT C N, P533
+   Fette B.A., 2006, COGNITIVE RADIO TECH
+   Harada H., 2005, IEEE DYSPAN, V1, P539
+   Harada H., 2007, P IEEE GLOB COMM C G
+   Hasegawa M, 1997, PHYS REV LETT, V79, P2344, DOI 10.1103/PhysRevLett.79.2344
+   Hasegawa M, 1997, IEICE T FUND ELECTR, VE80A, P206
+   Hasegawa M, 2002, EUR J OPER RES, V139, P543, DOI 10.1016/S0377-2217(01)00189-8
+   HASEGAWA M, 2002, NEURAL NETWORKS, V15, P111
+   He ZY, 2002, IEEE T VEH TECHNOL, V51, P1386, DOI 10.1109/TVT.2002.804839
+   HOPFIELD JJ, 1982, P NATL ACAD SCI-BIOL, V79, P2554, DOI 10.1073/pnas.79.8.2554
+   HOPFIELD JJ, 1984, P NATL ACAD SCI-BIOL, V81, P3088, DOI 10.1073/pnas.81.10.3088
+   HOPFIELD JJ, 1985, BIOL CYBERN, V52, P141
+   Inoue M, 2004, IEEE WIREL COMMUN, V11, P56, DOI 10.1109/MWC.2004.1295740
+   NEEL J, 2004, P IEEE WIR COMM NETW, P2250
+   NOZAWA H, 1994, PHYSICA D, V75, P179, DOI 10.1016/0167-2789(94)90282-8
+   Smith K, 1997, IEEE J SEL AREA COMM, V15, P238, DOI 10.1109/49.552073
+   TAKEFUJI Y, 1992, BIOL CYBERN, V67, P243, DOI 10.1007/BF00204397
+   VANDENBOUT DE, 1989, BIOL CYBERN, V62, P129
+   Wu G, 2002, IEEE COMMUN MAG, V40, P126
+NR 20
+TC 10
+Z9 10
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO, 105, JAPAN
+SN 0916-8516
+J9 IEICE T COMMUN
+JI IEICE Trans. Commun.
+PD JAN
+PY 2008
+VL E91B
+IS 1
+BP 110
+EP 118
+DI 10.1093/ietcom/e9l-b.1.110
+PG 9
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA 254VW
+UT WOS:000252617100015
+ER
+
+PT J
+AU Miyamoto, G
+   Oh, JC
+   Hono, K
+   Furuhara, T
+   Maki, T
+AF Miyamoto, G.
+   Oh, J. C.
+   Hono, K.
+   Furuhara, T.
+   Maki, T.
+TI Effect of partitioning of Mn and Si on the growth kinetics of cementite
+   in tempered Fe-0.6 mass% C martensite
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE tempering; partitioning; steels; cementite; APFIM
+ID LOW-ALLOY STEEL; COARSENING BEHAVIOR; CARBON MARTENSITE; ATOM-PROBE;
+   PRECIPITATION; TRANSFORMATIONS; PARTICLES; ELEMENTS; FERRITE; MICROSCOPY
+AB The effects of Mn and Si addition on the growth rate of cementite in Fe-0.6 mass% C martensite have been studied by means of scanning electron microscopy, transmission electron microscopy and a three-dimensional atom probe. The growth rate of the cementite during tempering at 723 K decreases substantially with the addition of Si due to the redistribution of Si between the cementite and ferrite matrix. Mn retards cementite coarsening more effectively than Si at 923 K. In tempering at both 723 and 923 K, the Si concentration in the cementite starts to decrease from an early stage of precipitation, whereas the cementite develops initially without the redistribution of Mn, before the Mn gradually enriches into the cementite during tempering. Calculations of phase boundaries for stable equilibrium (partition local equilibrium) and metastable equilibria (para and negligible-partition local equilibriums) have revealed that there is a sufficient driving force for the formation of paracementite in the Mn-added alloys. On the other hand, paracementite is difficult to form in the Si-containing alloy because the cementite becomes unstable due to the dissolution of Si. (C) 2007 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Natl Inst Mat Sci, Tsukuba, Ibaraki 3050047, Japan.
+   Kyoto Univ, Dept Mat Sci & Engn, Sakyo Ku, Kyoto 6068501, Japan.
+RP Miyamoto, G (reprint author), Tohoku Univ, Inst Mat Res, Aoba Ku, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM miyamoto@imr.tohoku.ac.jp
+RI Hono, Kazuhiro/B-9202-2008; Furuhara, Tadashi/B-2149-2010; Miyamoto,
+   Goro/G-2802-2010
+OI Hono, Kazuhiro/0000-0001-7367-0193; 
+CR AGREN J, 1982, ACTA METALL MATER, V30, P841, DOI 10.1016/0001-6160(82)90082-7
+   AIREY GP, 1968, T METALL SOC AIME, V242, P1853
+   BABU SS, 1993, APPL SURF SCI, V67, P321, DOI 10.1016/0169-4332(93)90333-7
+   BABU SS, 1994, METALL MATER TRANS A, V25, P499, DOI 10.1007/BF02651591
+   BANNYH O, 1962, JERNKONTORETS ANN, V146, P774
+   BARNARD SJ, 1981, P SOLID SOLID PHASE, P881
+   BJORKLUN.S, 1972, ACTA METALL MATER, V20, P867, DOI 10.1016/0001-6160(72)90079-X
+   CHANG L, 1984, J PHY, pC9
+   CHIPMAN J, 1972, METALL TRANS, V3, P55, DOI 10.1007/BF02680585
+   COATES DE, 1972, METALL TRANS, V3, P1203, DOI 10.1007/BF02642453
+   DAS SK, 1993, ACTA METALL MATER, V41, P777, DOI 10.1016/0956-7151(93)90010-P
+   DUGGIN MJ, 1968, T METALL SOC AIME, V242, P1091
+   FASISKA EJ, 1965, ACTA CRYSTALLOGR, V19, P463, DOI 10.1107/S0365110X65003602
+   Ghosh G, 2002, ACTA MATER, V50, P2099, DOI 10.1016/S1359-6454(02)00054-X
+   Gurry RW, 1961, T ASM, V53, P187
+   HILLERT M, 1947, PARAEQUILIBRIUM INTE
+   Hillert M, 1957, JERNKONTORETS ANN, V141, P67
+   HOBBS RM, 1972, JISI, V757
+   HULTGREN A, 1947, T AM SOC METAL, V39, P915
+   HULTGREN A, 1953, REV METALL, V50, P847
+   KIRKALDY JS, 1958, CAN J PHYS, V36, P907
+   KRAMER JJ, 1958, ACTA METALL MATER, V6, P763, DOI 10.1016/0001-6160(58)90051-8
+   Kresse G, 1996, PHYS REV B, V54, P11169, DOI 10.1103/PhysRevB.54.11169
+   Kresse G., 1993, PHYS REV B, V47, pR558, DOI DOI 10.1103/PHYSREVB.47.558
+   KUROSAWA F, 1979, J JPN I MET, V43, P1068
+   LI CY, 1966, ACTA METALL MATER, V14, P1397, DOI 10.1016/0001-6160(66)90159-3
+   Lifshits I.M., 1958, Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki, V35
+   LIFSHITZ IM, 1961, J PHYS CHEM SOLIDS, V19, P35, DOI 10.1016/0022-3697(61)90054-3
+   Lindsley B.A., 1997, ACTA MAT, V46, P341
+   MIYAMOTO G, 2005, P SOLID SOLID PHASE, P363
+   MUKHERJE.T, 1969, J IRON STEEL I, V207, P621
+   NAKAMURA Y, 1986, T JPN I MET, V27, P842
+   Nam WJ, 1999, SCRIPTA MATER, V41, P313, DOI 10.1016/S1359-6462(99)00168-2
+   OHMORI Y, 1972, T IRON STEEL I JPN, V12, P112
+   Oikawa H., 1982, Technology Reports of the Tohoku University, V47
+   ORIANI RA, 1964, ACTA METALL MATER, V12, P1399, DOI 10.1016/0001-6160(64)90128-2
+   OWEN WS, 1954, T AM SOC METAL, V46, P812
+   Ridley N., 1984, PHASE TRANSFORMATION, P201
+   SAKUMA T, 1980, T JPN I MET, V21, P159
+   SATO T, 1957, TETSU HAGANE, V43, P485
+   SATO T, 1955, TETSU HAGANE, V41, P1188
+   Sato T, 1955, J JPN I MET, V19, P385
+   THOMSON RC, 1995, APPL SURF SCI, V87-8, P185, DOI 10.1016/0169-4332(94)00496-X
+   Thomson RC, 1998, ACTA MATER, V46, P2203, DOI 10.1016/S1359-6454(97)00420-5
+   Thomson RC, 1996, APPL SURF SCI, V94-5, P313, DOI 10.1016/0169-4332(95)00392-4
+   VEDULA KM, 1970, METALL TRANS, V1, P9
+   WAGNER C, 1961, Z ELEKTROCHEM, V65, P581
+NR 47
+TC 37
+Z9 38
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD SEP
+PY 2007
+VL 55
+IS 15
+BP 5027
+EP 5038
+DI 10.1016/j.actamat.2007.05.023
+PG 12
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 216RG
+UT WOS:000249896100010
+ER
+
+PT J
+AU Miyamoto, G
+   Yonemoto, A
+   Tanaka, Y
+   Furuhara, T
+   Maki, T
+AF Miyamoto, G.
+   Yonemoto, A.
+   Tanaka, Y.
+   Furuhara, T.
+   Maki, T.
+TI Microstructure in a plasma-nitrided Fe-18 mass% Cr alloy
+SO ACTA MATERIALIA
+LA English
+DT Article
+DE plasma nitriding; precipitation; EBSD; TEM; steel
+ID IRON-CHROMIUM-ALLOYS; DISCONTINUOUS PRECIPITATION; TITANIUM-ALLOYS;
+   EXCESS NITROGEN; KINETICS; BICRYSTALS; MIGRATION; BOUNDARY; GROWTH
+AB Microstructures in a nitrided zone of an Fe-18 mass% Cr binary alloy plasma-nitrided at temperatures between 743 and 943 K were investigated by mens of electron microscopy. The morphology of the nitrided zone changed drastically depending on the nitriding temperatures. On nitriding at 943 K, disk- and rod-shaped CrN and rod-shaped Cr2N were observed in the original ferrite grains. Examination of orientation relationships between the ferrite matrix and the rod-shaped Cr nitrides suggested that a transition from Cr2N to CrN occurs during nitriding at 943 K. On nitriding at 843 K, elongated columnar-shaped ferrite grains containing regularly spaced lamellar CrN precipitates developed from the specimen surface and grew inwards. Most of the columnar ferrite grains held Sigma 9 coincidence site lattice relationships with respect to the original ferrite grains. The columnar ferrite tends to form at a lower nitriding temperature or a higher Cr content. (c) 2006 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+C1 Kyoto Univ, Dept Mat Sci & Engn, Sakyo Ku, Kyoto 6068501, Japan.
+   Tohoku Univ, Inst Mat Res, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Miyamoto, G (reprint author), Kyoto Univ, Dept Mat Sci & Engn, Sakyo Ku, Yoshida honmachi, Kyoto 6068501, Japan.
+EM goro.miyamoto@materials.mbox.media.kyoto-u.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR Alves C, 2000, MAT SCI ENG A-STRUCT, V279, P10, DOI 10.1016/S0921-5093(99)00692-9
+   Bywater K.A., 1975, Metal Science, V9
+   FURUHARA T, 2006, METALL MATER TRANS A, V32, P951
+   Granito N, 2002, J MATER SCI, V37, P835, DOI 10.1023/A:1013860419127
+   GRIEVESON P, 1964, T METALL SOC AIME, V230, P1604
+   HEKKER PM, 1985, J MATER SCI, V20, P718, DOI 10.1007/BF01026547
+   Hosmani SS, 2005, MATER SCI TECH-LOND, V21, P113, DOI 10.1179/174328405X16289
+   JACK DH, 1976, ACTA METALL MATER, V24, P137, DOI 10.1016/0001-6160(76)90016-X
+   MITTEMEIJER EJ, 1980, J MATER SCI, V15, P3129, DOI 10.1007/BF00550386
+   MIYAMOTO G, 2006, THESIS KYOTO U
+   Miyamoto G, 2005, MATER SCI FORUM, V492-493, P539
+   Mortimer B, 1972, SCAND J METALL, V1, P203
+   Nakashima H, 1996, TETSU TO HAGANE, V82, P238
+   PODGURSK.HH, 1969, T METALL SOC AIME, V245, P1595
+   RAGHAVAN V, 1987, PHASE DIAGRAMS TER 1, P171
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1925, DOI 10.1016/0001-6160(86)90251-8
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1687, DOI 10.1016/0001-6160(86)90116-1
+   Schacherl RE, 2004, METALL MATER TRANS A, V35A, P3387, DOI 10.1007/s11661-004-0175-8
+   Schacherl RE, 2002, Z METALLKD, V93, P468
+   Sennour M, 2004, J MATER SCI, V39, P4521, DOI 10.1023/B:JMSC.0000034146.64444.80
+   Uehara M, 1998, TETSU TO HAGANE, V84, P212
+   Zaefferer S, 2000, J APPL CRYSTALLOGR, V33, P10, DOI 10.1107/S0021889899010894
+NR 22
+TC 8
+Z9 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6454
+J9 ACTA MATER
+JI Acta Mater.
+PD OCT
+PY 2006
+VL 54
+IS 18
+BP 4771
+EP 4779
+DI 10.1016/j.actamat.2006.06.006
+PG 9
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 097GT
+UT WOS:000241435900013
+ER
+
+PT S
+AU Miyamoto, G
+   Tomio, Y
+   Furuhara, T
+   Maki, T
+AF Miyamoto, G
+   Tomio, Y
+   Furuhara, T
+   Maki, T
+BE VanderBiest, O
+   Gasik, M
+   Vleugels, J
+TI Precipitation in plasma nitrided Fe-M(M=Ti, V, Al) alloys
+SO FUNCTIONALLY GRADED MATERIALS VIII
+SE MATERIALS SCIENCE FORUM
+LA English
+DT Article; Proceedings Paper
+CT 8th International Symposium on Multifunctional and Functionally Graded
+   Materials (FMG2004)
+CY JUL 11-14, 2004
+CL Leuven, BELGIUM
+SP Royal Soc Flemish Engineers, Technol Inst, Katholieke Univ Leuven, Dept Met & Mat Engn
+DE steel; precipitation; nitriding; microstructure; transmission electron
+   microscopy
+ID FE-TI ALLOYS; IRON-TITANIUM-ALLOYS; BEHAVIOR
+AB Microstructures of the plasma nitrided ferritic Fe-M (M = 0.5, 0.7, 1.0mass%Ti, 1.0mass%V, 1.0mass%Al) binary alloys were studied mainly by TEM. Metastable clusters are uniformly formed in the Ti added alloys. Near the surface of the specimen, transition from the clusters to the equilibrium B1-type TiN is observed. The microstructure formed in the 1%V alloy is similar to that of the Ti added alloy. In contrast, no cluster is formed in the 1%Al alloy and B1-type AIN is observed to nucleate on dislocations.
+C1 Kyoto Univ, Dept Mat Sci & Engn, Kyoto, Japan.
+RP Miyamoto, G (reprint author), Kyoto Univ, Dept Mat Sci & Engn, Kyoto, Japan.
+EM goro.miyamoto@materials.mbox.media.kyoto-u.ac.jp;
+   tomio@mb6.mbox.media.kyoto-u.ac.jp;
+   tadashi.furuhara@materials.mbox.media.kyoto-u.ac.jp;
+   tadashi.maki@materials.mbox.media.kyoto-u.ac.jp
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR ATASOY OE, 1976, T JPN I MET, V17, P625
+   BIGLARI MH, 1995, PHILOS MAG A, V72, P1281
+   BIGLARI MH, 1995, METALL MATER TRANS A, V26, P765, DOI 10.1007/BF02649075
+   BOR S, 1977, METALL TRANS A, V8, P975, DOI 10.1007/BF02661582
+   CUDDY LJ, 1977, METALL TRANS A, V8, P245, DOI 10.1007/BF02661636
+   HU XF, 1993, ACTA METALL MATER, V41, P1625, DOI 10.1016/0956-7151(93)90271-S
+   JACK DH, 1976, ACTA METALL MATER, V24, P137, DOI 10.1016/0001-6160(76)90016-X
+   Kirkwood D.H., 1974, Metal Science, V8
+   KRAWITZ A, 1977, SCRIPTA METALL MATER, V11, P117, DOI 10.1016/0036-9748(77)90289-7
+   Kusumi K, 2000, TETSU TO HAGANE, V86, P42
+   Locquet JN, 1997, MICROSC MICROANAL M, V8, P335, DOI 10.1051/mmm:1997126
+   MIYAMOTO G, UNPUB MAT SCI ENG A
+   Ozdemir AT, 1998, J MATER SCI, V33, P2683, DOI 10.1023/A:1004382025283
+   PHILLIPS VA, 1968, MET PROG, V242, P2415
+   Pope M., 1973, SCAND J METALS, V2, P29
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1925, DOI 10.1016/0001-6160(86)90251-8
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1687, DOI 10.1016/0001-6160(86)90116-1
+   RICKERBY DS, 1986, ACTA METALL MATER, V34, P1911, DOI 10.1016/0001-6160(86)90250-6
+   TAKADA J, 1986, OXID MET, V26, P19, DOI 10.1007/BF00664271
+   Takase T., 1976, Journal of the Japan Institute of Metals, V40
+   XIA Q, 1993, J APPL PHYS, V73, P8198, DOI 10.1063/1.353435
+NR 21
+TC 4
+Z9 4
+PU TRANS TECH PUBLICATIONS LTD
+PI ZURICH-UETIKON
+PA BRANDRAIN 6, CH-8707 ZURICH-UETIKON, SWITZERLAND
+SN 0255-5476
+BN 0-87849-970-9
+J9 MATER SCI FORUM
+PY 2005
+VL 492-493
+BP 539
+EP 544
+PG 6
+WC Materials Science, Multidisciplinary; Materials Science, Biomaterials;
+   Materials Science, Characterization & Testing; Materials Science,
+   Coatings & Films
+SC Materials Science
+GA BCR97
+UT WOS:000230986100087
+ER
+
+PT J
+AU Miyamoto, G
+   Shinyoshi, T
+   Yamaguchi, J
+   Furuhara, T
+   Maki, T
+   Uemori, R
+AF Miyamoto, G
+   Shinyoshi, T
+   Yamaguchi, J
+   Furuhara, T
+   Maki, T
+   Uemori, R
+TI Crystallography of intragranular ferrite formed on (MnS + V(C, N))
+   complex precipitate in austenite
+SO SCRIPTA MATERIALIA
+LA English
+DT Article
+DE steel; phase transformation; nucleation; crystallography; electron
+   diffraction
+ID STEEL
+AB Crystallography of intragranular ferrite formed on incoherent MnS + V(C, N) complex precipitate in austenite was studied in an Fe-Mn-C hypoeutectoid alloy. As transformation temperature decreases, intragranular ferrite morphology changes from idiomorph to acicular ferrite. Idiomorphic ferrite has no specific orientation relationship with austenite although acicular one holds near Kurdjumov-Sachs relationship. (C) 2002 Acta Materialia Inc. Published by Elsevier Science Ltd. All rights reserved.
+C1 Kyoto Univ, Dept Mat Sci & Engn, Sakyo Ku, Kyoto 6068501, Japan.
+RP Miyamoto, G (reprint author), Kyoto Univ, Dept Mat Sci & Engn, Sakyo Ku, Kyoto 6068501, Japan.
+RI Furuhara, Tadashi/B-2149-2010; Miyamoto, Goro/G-2802-2010
+CR FURUHARA T, 1998, MAT JPN, V37, P366
+   FURUHARA T, 2000, P MICR MICR 2000 NEW, P340
+   ISHIKAWA F, 1994, METALL MATER TRANS A, V25, P929, DOI 10.1007/BF02652268
+   MORITO S, P 4 INT C RECR REL P, P295
+   Ohmori A, 1998, TETSU TO HAGANE, V84, P797
+   RANDLE V, 1992, MICROTEXTURE DETERMI, P82
+   Takamura J., 1990, P 6 INT IR STEEL C I, P591
+   YANG JR, 1989, MATER SCI TECH SER, V5, P93
+   Zaefferer S, 2000, J APPL CRYSTALLOGR, V33, P10, DOI 10.1107/S0021889899010894
+NR 9
+TC 25
+Z9 32
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-6462
+J9 SCRIPTA MATER
+JI Scr. Mater.
+PD FEB 17
+PY 2003
+VL 48
+IS 4
+BP 371
+EP 377
+DI 10.1016/S1359-6462(02)00451-7
+PG 7
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 644EE
+UT WOS:000180904300009
+ER
+
+PT J
+AU Miyamoto, G
+   Zahid, N
+   Uetrecht, JP
+AF Miyamoto, G
+   Zahid, N
+   Uetrecht, JP
+TI Oxidation of diclofenac to reactive intermediates by neutrophils,
+   myeloperoxidase, and hypochlorous acid
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+LA English
+DT Article
+ID ANTIINFLAMMATORY DRUG DICLOFENAC; LIVER PROTEIN ADDUCTS; NONCOVALENT
+   INTERACTIONS; COVALENT; THROMBOCYTOPENIA; METABOLITES; AGRANULOCYTOSIS;
+   CHLORINATION; ANTIBODIES; MECHANISM
+AB Diclofenac is associated with a low, but significant, incidence of hepatotoxicity and bone marrow toxicity. It has been suggested that this could be due to a reactive acyl glucuronide. An alternative hypothesis is that an oxidative reactive metabolite could be responsible for such reactions and such metabolites formed by the enzymes present in neutrophils could be responsible for bone marrow toxicity. Others had reported the formation of 2,2'-dihydroxyazobenzene during the oxidation of diclofenac by myeloperoxidase/hydrogen peroxide. In contrast, in similar experiments we did not find evidence for the formation of 2,2'-dihydroxyazobenzene, but we did find several products, including a reactive iminoquinone. The same iminoquinone was formed by the oxidation of 5-hydroxydiclofenac. This iminoquinone was also formed by oxidation of diclofenac by HOCl or by activated neutrophils. It reacted with glutathione to form a conjugate. 5-Hydroxydiclofenac is also a major hepatic metabolite of diclofenac, and we found that rat hepatic microsomes oxidized 5-hydroxydiclofenac to the iminoquinone which was trapped with glutathione. This reactive metabolite represents another possible cause of the idiosyncratic reactions associated with the use of diclofenac.
+C1 UNIV TORONTO,FAC PHARM,TORONTO,ON M5S 2S2,CANADA.
+   UNIV TORONTO,DRUG SAFETY RES GRP,TORONTO,ON M5S 2S2,CANADA.
+CR BELL AL, 1991, RHEUMATOL INT, V11, P27, DOI 10.1007/BF00290247
+   DUNK AA, 1982, BRIT MED J, V284, P1605
+   EPSTEIN M, 1990, J RHEUMATOL, V17, P1403
+   EUSTACE S, 1989, IRISH J MED SCI, V158, P217, DOI 10.1007/BF02943616
+   HARGUS SJ, 1995, CHEM RES TOXICOL, V8, P993, DOI 10.1021/tx00050a001
+   HARGUS SJ, 1994, CHEM RES TOXICOL, V7, P575, DOI 10.1021/tx00040a014
+   HELFGOTT SM, 1990, JAMA-J AM MED ASSOC, V264, P2660, DOI 10.1001/jama.264.20.2660
+   HINSON JA, 1992, ANNU REV PHARMACOL, V32, P471, DOI 10.1146/annurev.pharmtox.32.1.471
+   HUSSAIN A, 1970, J PHARM SCI, V59, P1168, DOI 10.1002/jps.2600590824
+   ICHIHARA S, 1986, BIOCHEM PHARMACOL, V35, P3935, DOI 10.1016/0006-2952(86)90007-9
+   KALYANARAMAN B, 1985, J CLIN INVEST, V75, P1618, DOI 10.1172/JCI111868
+   Kaufman D.W., 1991, DRUG ETIOLOGY AGRANU
+   KIM HL, 1995, ANN PHARMACOTHER, V29, P713
+   KLEBANOFF SJ, 1992, BLOOD, V80, P225
+   KRAMER MR, 1986, SCAND J HAEMATOL, V36, P118
+   KRETZROMMEL A, 1994, DRUG METAB DISPOS, V22, P956
+   KRETZROMMEL A, 1994, MOL PHARMACOL, V45, P237
+   Liu ZC, 1995, J PHARMACOL EXP THER, V275, P1476
+   MARQUEZ LA, 1994, J BIOL CHEM, V269, P7950
+   NELSON SD, 1990, ANNU REV PHARMACOL, V30, P169, DOI 10.1146/annurev.pharmtox.30.1.169
+   PUMFORD NR, 1993, CHEM RES TOXICOL, V6, P147, DOI 10.1021/tx00032a002
+   SALAMA A, 1991, BRIT J HAEMATOL, V77, P546
+   SALAMA A, 1989, BRIT J HAEMATOL, V72, P127, DOI 10.1111/j.1365-2141.1989.tb07672.x
+   SAWCHUK RJ, 1995, PHARMACEUT RES, V12, P756, DOI 10.1023/A:1016276012891
+   SPAHNLANGGUTH H, 1992, DRUG METAB REV, V24, P5
+   UETRECHT JP, 1992, DRUG METAB REV, V24, P299, DOI 10.3109/03602539208996297
+   UETRECHT JP, 1995, CHEM RES TOXICOL, V8, P226, DOI 10.1021/tx00044a007
+   WASIL M, 1987, BIOCHEM PHARMACOL, V36, P3847, DOI 10.1016/0006-2952(87)90448-5
+   ZUURBIER KWM, 1990, BIOCHEM PHARMACOL, V40, P1801, DOI 10.1016/0006-2952(90)90359-S
+NR 29
+TC 65
+Z9 65
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0893-228X
+J9 CHEM RES TOXICOL
+JI Chem. Res. Toxicol.
+PD APR
+PY 1997
+VL 10
+IS 4
+BP 414
+EP 419
+DI 10.1021/tx960190k
+PG 6
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Toxicology
+SC Pharmacology & Pharmacy; Chemistry; Toxicology
+GA WU385
+UT WOS:A1997WU38500010
+ER
+
+PT J
+AU Cho, YB
+   Kim, KH
+   Kim, DK
+   Miyamoto, G
+AF Cho, YB
+   Kim, KH
+   Kim, DK
+   Miyamoto, G
+TI Mammary excretion and placental transfer of
+   cis-malonato[(4R,5R)-4,5-bis(aminomethyl)-2-isopropyl-1,3-dioxolane]plat
+   inum(II) in rats
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+DE anticancer agent; CAS 146665-77-2;
+   cis-malonato[(4R,SR)-4,5-bis(aminomethyl)-2-isopropyl-1,3-dioxolane]plat
+   inum(II); SKI 2053R, C-14-labelled, mammary excretion, placental
+   transfer
+ID ANTITUMOR-ACTIVITY; SKI 2053R; PLATINUM; DICHLORIDE; COMPLEXES; ACID;
+   MILK
+AB The mammary excretion and placental transfer of cis-malonato[4R, 5R)-4,5-bis(aminomethyl)-2-isopropyl-1,3-dioxolane]platinum(II) (GAS 146665-77-2, SKI 2053R), a new potential anticancer agent, were investigated in the lactating or pregnant rats after a single intravenous administration of C-14-SKI 2053R (20 mg/kg, 100 mu Ci/kg). The radioactivity of the milk declined in a biexponential fashion with an initial half-life of 0.39 h and with a terminal half-life of 14.05 h in the lactating rats. The radioactivity of the milk was lower than that of plasma until 1 h after dosing, bur was higher than that of plasma from 4 h after dosing. C-14-SKI 2053R was well distributed to most tissues including uterus and placenta in the pregnant rats, but the levels of radioactivity in the amniotic fluid and fetuses were markedly lower than that in the maternal plasma. Therefore, it is concluded that SKI 2053R scarcely passes the blood-placenta barrier, which was confirmed by the whole-body autoradiography study.
+C1 SUNKYONG IND, LIFE SCI RES CTR, CHANGAN KU, SUWON 440745, DYUNGKI DO, SOUTH KOREA.
+   OTSUKA PHARMACEUT CO LTD, TOKUSHIMA RES INST, TOKUSHIMA 77101, JAPAN.
+CR Cho YB, 1996, ARZNEIMITTEL-FORSCH, V46, P629
+   DEWAAL WAJ, 1990, J PHARMACEUT BIOMED, V8, P1, DOI 10.1016/0731-7085(90)80003-8
+   EGAN PC, 1985, CANCER TREAT REP, V69, P1387
+   HONG WS, 1995, ANTICANCER RES, V15, P51
+   KANG KS, 1992, KOREAN J TOXICOL, V8, P205
+   KIM DK, 1995, CANCER CHEMOTH PHARM, V35, P441, DOI 10.1007/s002800050260
+   KIM DK, 1995, CANCER CHEMOTH PHARM, V37, P1
+   KIM DK, 1994, J MED CHEM, V37, P1471, DOI 10.1021/jm00036a013
+   KIM DK, 1994, ARZNEIMITTEL-FORSCH, V44-2, P1080
+   KIM DK, 1994, J LABELLED COMPD RAD, V34, P157, DOI 10.1002/jlcr.2580340208
+   KIM HO, 1992, KOREAN J TOXICOL, V8, P217
+   KOPFMAIER P, 1985, EUR J CANC CLIN ONCO, V19, P533
+   LEE YS, 1992, KOREAN J TOXICOL, V8, P235
+   MAULDIN SK, 1986, ANAL BIOCHEM, V157, P129, DOI 10.1016/0003-2697(86)90206-X
+   RILEY CM, 1988, J PHARMACEUT BIOMED, V6, P669, DOI 10.1016/0731-7085(88)80078-5
+   ROBINS AB, 1973, CHEM-BIOL INTERACT, V6, P35, DOI 10.1016/0009-2797(73)90084-7
+   SUGIHARA K, 1990, ARZNEIMITTEL-FORSCH, V40-2, P806
+   TAYLOR DM, 1973, BIOCHEM PHARMACOL, V22, P833, DOI 10.1016/0006-2952(73)90363-8
+   Tinker N.D., 1988, PLATINUM OTHER METAL, P144
+NR 19
+TC 2
+Z9 2
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PD SEP
+PY 1996
+VL 46
+IS 9
+BP 926
+EP 930
+PG 5
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA VJ337
+UT WOS:A1996VJ33700018
+ER
+
+PT J
+AU Cho, YB
+   Kim, DK
+   Kim, KH
+   Miyamoto, G
+AF Cho, YB
+   Kim, DK
+   Kim, KH
+   Miyamoto, G
+TI Pharmacokinetics of
+   cis-Malonato[(4R,5R)-4,5-bis(aminomethyl)-2-isopropyl-1,3-dioxolane]plat
+   inum(II) in rats
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+DE anticancer agent; CAS 146665-77-2;
+   cis-Malonato[(4R,5R)-4,5-bis(aminomethyl)-2-isopropyl-1,3-dioxolane]plat
+   inum(II); SKI 2053R, excretion, pharmacokinetics, tissue distribution
+AB The blood concentration-time profile, distribution, and excretion of cis-malonato[(4R, 5R)-4, 5-bis(aminomethyl)-2-isopropyl-1,3-dioxolane]platin (GAS 146665-77-2, SKI 2053R), a new potential anticancer agent, were investigated in rats after intravenous administration of C-14-SKI 2053R. After a single intravenous administration, the radioactivity of blood declined in a biexponential fashion with the initial half-lives of 0.42 h and 0.37 h and with the terminal half-lives of 68.67 h and 64.67 h in male and female rats, respectively. Radioactivity was distributed very rapidly and extensively into all tissues except the central nervous system. The major amount of the radioactivity was found in the gastrointestinal contents, urine, and organs of elimination at all time points. The distribution pattern of C-14-SKI 2053R observed by the measurement of tissue concentrations was in accordance with that observed by whole-body autoradiography. The 0-7 days cumulative urinary and fecal recoveries of total radioactivity after a single dose were 83.0 +/- 4.5 (mean +/- S.D.) and 11.3 +/- 1.0 % in male rats and 85.1 +/- 2.6 and 11.3 +/- 2.3 % in female rats, respectively, resulting in total recoveries of 94.3 +/- 3.6 % in male rats and 96.3 +/- 1.1 % in female rats. The 0-24 h cumulative excretions of total radioactivity in the bile after a single dose were 8.7 +/- 0.4 and 15.8 +/- 3.5 % in male and female rats, respectively, showing a significant sex difference.
+C1 SUNKYONG IND,LIFE SCI RES CTR,CHANGAN KU,SUWON 440745,SOUTH KOREA.
+   OTSUKA PHARMACEUT CO LTD,TOKUSHIMA RES INST,TOKUSHIMA 77101,JAPAN.
+CR COLE WC, 1980, CHEM-BIOL INTERACT, V30, P223, DOI 10.1016/0009-2797(80)90128-3
+   GAVER RC, 1987, CANCER CHEMOTH PHARM, V20, P271
+   GORMLEY PE, 1979, CLIN PHARMACOL THER, V25, P351
+   HONG WS, 1995, ANTICANCER RES, V15, P51
+   KANG KS, 1992, KOREAN J TOXICOL, V8, P205
+   KIM DK, 1995, CANCER CHEMOTH PHARM, V35, P441, DOI 10.1007/s002800050260
+   KIM DK, 1995, CANCER CHEMOTH PHARM, V37, P1
+   KIM DK, 1994, J MED CHEM, V37, P1471, DOI 10.1021/jm00036a013
+   KIM DK, 1994, ARZNEIMITTEL-FORSCH, V44-2, P1080
+   KIM DK, 1994, J LABELLED COMPD RAD, V34, P157, DOI 10.1002/jlcr.2580340208
+   KIM HO, 1992, KOREAN J TOXICOL, V8, P217
+   LEE YS, 1992, KOREAN J TOXICOL, V8, P235
+   TINKER N, 1990, NUCL MED BIOL, V17, P427
+   VANDERVIJGH WJF, 1991, CLIN PHARMACOKINET, V21, P242, DOI 10.2165/00003088-199121040-00002
+NR 14
+TC 2
+Z9 2
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PD JUN
+PY 1996
+VL 46
+IS 6
+BP 629
+EP 634
+PG 6
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA UW129
+UT WOS:A1996UW12900015
+ER
+
+PT J
+AU MIYAMOTO, G
+   SASABE, H
+AF MIYAMOTO, G
+   SASABE, H
+TI PHARMACOKINETICS OF A NEW POSITIVE INOTROPIC AGENT,
+   3,4-DIHYDRO-6-[4-(3,4-DIMETHOXYBENZOYL)-1-PIPERAZINYL]-2(1H)-QUINOLINONE
+   (OPC-8212), IN THE RAT, RABBIT, BEAGLE DOG AND RHESUS-MONKEY
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+RP MIYAMOTO, G (reprint author), OTSUKA PHARMACEUT CO LTD,TOKUSHIMA RES INST,DRUG METAB & ANALYT RES LABS,TOKUSHIMA 77101,JAPAN.
+CR TOMINAGA M, CHEM PHARM B
+   YAMASHITA S, 1984, ARZNEIMITTEL-FORSCH, V34-1, P342
+NR 2
+TC 1
+Z9 1
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PY 1984
+VL 34-1
+IS 3A
+BP 394
+EP 403
+PG 10
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA SK061
+UT WOS:A1984SK06100014
+ER
+
+PT J
+AU SHIRAI, Y
+   KAWAI, T
+   MIYAMOTO, G
+AF SHIRAI, Y
+   KAWAI, T
+   MIYAMOTO, G
+TI THE PREPARATION AND REGENERATION OF TITANIUM CITRATE DEVELOPER BY THE
+   IRRADIATION OF ULTRAVIOLET-LIGHT
+SO NIPPON KAGAKU KAISHI
+LA Japanese
+DT Article
+RP SHIRAI, Y (reprint author), TOKYO INST POLYTECH,FAC ENGN,ATSUGI 24302,JAPAN.
+CR HAIST GM, 1956, PHOTOGR ENG, V7, P182
+   LANBERT JL, 1963, INORG CHEM, V2, P127
+   MIZUSAWA S, 1968, B SOC SCI PHOT JPN, V18, P38
+   PRICE HJ, 1975, PHOTOGR SCI ENG, V19, P283
+   PRICE HJ, 1970, PHOTOGR SCI ENG, V14, P391
+   PRIESTHOFF JH, 1956, J SMPTE, V65, P478
+   PRIESTHOFF JH, 1957, J SMPTE, V66, P64
+   RZYMKOWSKI J, 1941, PHOT IND, V39, P497
+NR 8
+TC 0
+Z9 0
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0369-4577
+J9 NIPPON KAGAKU KAISHI
+JI Nippon Kagaku Kaishi
+PY 1980
+IS 9
+BP 1321
+EP 1326
+PG 6
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA KJ069
+UT WOS:A1980KJ06900003
+ER
+
+PT J
+AU ISHIGAMI, M
+   SABUROMARU, K
+   NIINO, K
+   KIDO, M
+   MORITA, S
+   MIYAMOTO, G
+   KOHRI, H
+AF ISHIGAMI, M
+   SABUROMARU, K
+   NIINO, K
+   KIDO, M
+   MORITA, S
+   MIYAMOTO, G
+   KOHRI, H
+TI PHARMACOKINETICS OF PROCATEROL IN THE RAT, RABBIT AND BEAGLE DOG
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+RP ISHIGAMI, M (reprint author), OTSUKA PHARMACEUT CO LTD,DEPT BIOCHEM,BIOL RES LABS,TOKUSHIMA,JAPAN.
+CR CUMMINGS AJ, 1967, BRIT J PHARM CHEMOTH, V29, P150
+   GREENBLATT D J, 1976, Clinical Pharmacokinetics, V1, P36, DOI 10.2165/00003088-197601010-00004
+   HIMORI N, 1977, BRIT J PHARMACOL, V61, P9
+   LEVY G, 1967, J PHARMACOL EXP THER, V156, P285
+   LEVY G, 1965, J PHARM SCI, V54, P959, DOI 10.1002/jps.2600540703
+   RIEGELMA.S, 1968, J PHARM SCI, V57, P117, DOI 10.1002/jps.2600570123
+   SHIMIZU T, 1978, XENOBIOTICA, V8, P349
+   TAKAYANAGI T, 1977, J PHARM PHARMACOL, V29, P187
+   YABUUCHI Y, 1977, J PHARMACOL EXP THER, V202, P326
+   YASUDA Y, UNPUBLISHED
+   YOSHIZAKI S, 1976, J MED CHEM, V19, P1138, DOI 10.1021/jm00231a011
+   YOSHIZAKI S, 1977, J MED CHEM, V20, P1103, DOI 10.1021/jm00218a024
+NR 12
+TC 15
+Z9 15
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PY 1979
+VL 29-1
+IS 2
+BP 266
+EP 270
+PG 5
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA GL290
+UT WOS:A1979GL29000019
+ER
+
+PT J
+AU MASE, H
+   TANABE, T
+   MIYAMOTO, G
+AF MASE, H
+   TANABE, T
+   MIYAMOTO, G
+TI DIRECT MEASUREMENT OF DIFFUSION-COEFFICIENTS OF SPUTTERED ATOMS IN AR
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+RP MASE, H (reprint author), IBARAKI UNIV,DEPT ELECTR ENGN,HITACHI 316,JAPAN.
+CR BEHRISCH R, 1974, 5TH C PLASM PHYS CON
+   CHANDRI RH, 1932, P R SOC LONDON     A, V137, P662
+   Chapman S., 1960, MATH THEORY NONUNIFO
+   Crank J., 1967, MATH DIFFUSION
+   Dalgarno A., 1962, ATOMIC MOL PROCESSES
+   Kaminsky M, 1965, ATOMIC IONIC IMPACT
+   KISTEMAKER L, UNPUBLISHED
+   LITTLE PF, 1954, PROC R SOC LON SER-A, V224, P209, DOI 10.1098/rspa.1954.0152
+   Maissel L.I., 1970, HDB THIN FILM TECHNO
+   Mase H., 1974, 3rd International Conference on Gas Discharges
+   MASE H, 1969, J FACULTY ENG IBARAK, V17, P171
+   MASE H, 1967, J APPL PHYS, V38, P2960, DOI 10.1063/1.1710032
+   SRIVASTAVA BN, 1959, J CHEM PHYS, V30, P984, DOI 10.1063/1.1730140
+   STOKER BJ, 1961, BRIT J APPL PHYS, V12, P465
+   Townes CH, 1944, PHYS REV, V65, P319, DOI 10.1103/PhysRev.65.319
+NR 15
+TC 0
+Z9 0
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PY 1979
+VL 50
+IS 5
+BP 3684
+EP 3686
+DI 10.1063/1.326297
+PG 3
+WC Physics, Applied
+SC Physics
+GA GZ301
+UT WOS:A1979GZ30100109
+ER
+
+EF

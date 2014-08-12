@@ -1,0 +1,1182 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Nakata, I
+   Yamashiro, K
+   Yamada, R
+   Gotoh, N
+   Nakanishi, H
+   Hayashi, H
+   Tsujikawa, A
+   Otani, A
+   Saito, M
+   Iida, T
+   Oishi, A
+   Matsuo, K
+   Tajima, K
+   Matsuda, F
+   Yoshimura, N
+AF Nakata, Isao
+   Yamashiro, Kenji
+   Yamada, Ryo
+   Gotoh, Norimoto
+   Nakanishi, Hideo
+   Hayashi, Hisako
+   Tsujikawa, Akitaka
+   Otani, Atsushi
+   Saito, Masaaki
+   Iida, Tomohiro
+   Oishi, Akio
+   Matsuo, Keitaro
+   Tajima, Kazuo
+   Matsuda, Fumihiko
+   Yoshimura, Nagahisa
+TI Association between the SERPING1 Gene and Age-Related Macular
+   Degeneration and Polypoidal Choroidal Vasculopathy in Japanese
+SO PLOS ONE
+LA English
+DT Article
+ID COMPLEMENT FACTOR-H; CLINICAL CHARACTERISTICS; POPULATION; POLYMORPHISM;
+   RISK; VARIANTS; CFH; MACULOPATHY; INCREASES; PROJECT
+AB Purpose: Recently, a complement component 1 inhibitor (SERPING1) gene polymorphism was identified as a novel risk factor for age-related macular degeneration (AMD) in Caucasians. We aimed to investigate whether variations in SERPING1 are associated with typical AMD or with polypoidal choroidal vasculopathy (PCV) in a Japanese population.
+   Methods: We performed a case-control study in a group of Japanese patients with typical AMD (n = 401) or PCV (n = 510) and in 2 independent control groups-336 cataract patients without age-related maculopathy and 1,194 healthy Japanese individuals. Differences in the observed genotypic distribution between the case and control groups were tested using chi-square test for trend. Age and gender were adjusted using logistic regression analysis.
+   Results: We targeted rs2511989 as the haplotype-tagging single nucleotide polymorphism (SNP) for the SERPING1 gene, which was reported to be associated with the risk of AMD in Caucasians. Although we compared the genotypic distributions of rs2511989 in typical AMD and PCV patients against 2 independent control groups (cataract patients and healthy Japanese individuals), SERPING1 rs2511989 was not significantly associated with typical AMD (P = 0.932 and 0.513, respectively) or PCV (P = 0.505 and 0.141, respectively). After correction for age and gender differences based on a logistic regression model, the difference in genotypic distributions remained insignificant (P>0.05). Our sample size had a statistical power of more than 90% to detect an association of a risk allele with an odds ratio reported in the original studies for rs2511989 for developing AMD.
+   Conclusions: In the present study, we could not replicate the reported association between SERPING1 and either neovascular AMD or PCV in a Japanese population; thus, the results suggest that SERPING1 does not play a significant role in the risk of developing AMD or PCV in Japanese.
+C1 Kyoto Univ, Grad Sch Med, Dept Ophthalmol & Visual Sci, Kyoto, Japan.
+   Kyoto Univ, Grad Sch Med, Ctr Genom Med, INSERM,U852, Kyoto, Japan.
+   Fukushima Med Univ, Dept Ophthalmol, Fukushima, Japan.
+   Kobe City Med Ctr Gen Hosp, Dept Ophthalmol, Kobe, Hyogo, Japan.
+   Aichi Canc Ctr, Res Inst, Div Epidemiol & Prevent, Nagoya, Aichi 464, Japan.
+RP Nakata, I (reprint author), Kyoto Univ, Grad Sch Med, Dept Ophthalmol & Visual Sci, Kyoto, Japan.
+EM yamashro@kuhp.kyoto-u.ac.jp
+RI Matsuda, Fumihiko/B-9893-2009
+FU Japan Society for the Promotion of Science, Tokyo, Japan [19390442,
+   22791706, 27091294]; Japanese National Society for the Prevention of
+   Blindness
+FX The study was supported in part by grants-in-aid for scientific research
+   (Nos. 19390442, 22791706, and 27091294) from the Japan Society for the
+   Promotion of Science, Tokyo, Japan, and by the Japanese National Society
+   for the Prevention of Blindness. No additional external funding received
+   for this study. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Allikmets R, 2009, LANCET, V374, P875, DOI 10.1016/S0140-6736(09)61618-4
+   Barrett JC, 2005, BIOINFORMATICS, V21, P263, DOI 10.1093/bioinformatics/bth457
+   Bird AC, 2003, EYE, V17, P457, DOI 10.1038/sj.eye.6700562
+   BIRD AEC, 1995, SURV OPHTHALMOL, V39, P367, DOI 10.1016/S0039-6257(05)80092-X
+   Chandak GR, 2007, DIABETOLOGIA, V50, P63, DOI 10.1007/s00125-006-0502-2
+   Chang TS, 1999, CAN J OPHTHALMOL, V34, P266
+   Dewan A, 2006, SCIENCE, V314, P989, DOI 10.1126/science.1133807
+   Edwards AO, 2005, SCIENCE, V308, P421, DOI 10.1126/science.1110189
+   Ennis S, 2008, LANCET, V372, P1828, DOI 10.1016/S0140-6736(08)61348-3
+   Gauderman WJ, 2002, STAT MED, V21, P35, DOI 10.1002/sim.973
+   Gotoh N, 2009, AM J OPHTHALMOL, V147, P1037, DOI 10.1016/j.ajo.2008.12.036
+   Gotoh N, 2008, CLIN EXP OPHTHALMOL, V36, P437, DOI 10.1111/j.1442-9071.2008.01791.x
+   Haga H, 2002, J HUM GENET, V47, P605, DOI 10.1007/s100380200092
+   Haines JL, 2005, SCIENCE, V308, P419, DOI 10.1126/science.1110359
+   Hayashi H, 2010, INVEST OPHTH VIS SCI, V51, P5914, DOI 10.1167/iovs.10-5554
+   Helgason A, 2007, NAT GENET, V39, P218, DOI 10.1038/ng1960
+   Horikoshi M, 2007, DIABETOLOGIA, V50, P747, DOI 10.1007/s00125-006-0588-6
+   KAWASAKI R, 2008, OPHTHALMOLOGY, V115, P1381
+   Klein R, 1997, OPHTHALMOLOGY, V104, P7
+   Klein RJ, 2005, SCIENCE, V308, P385, DOI 10.1126/science.1109557
+   Kondo N, 2009, OPHTHALMOLOGY, V116, P304, DOI 10.1016/j.ophtha.2008.11.011
+   Lee AY, 2010, BRIT J OPHTHALMOL, V94, P915, DOI 10.1136/bjo.2009.172007
+   Lee KY, 2008, INVEST OPHTH VIS SCI, V49, P2613, DOI 10.1167/iovs.07-0860
+   Li M, 2010, MOL VIS, V16, P231
+   Lu F, 2010, MOL VIS, V16, P1
+   Maruko I, 2007, AM J OPHTHALMOL, V144, P15, DOI 10.1016/j.ajo.2007.03.047
+   Mori K, 2010, OPHTHALMOLOGY, V117, P928, DOI 10.1016/j.ophtha.2009.10.001
+   Park KH, 2009, MOL VIS, V15, P200
+   Seitsonen S, 2006, MOL VIS, V12, P796
+   Sho K, 2003, ARCH OPHTHALMOL-CHIC, V121, P1392, DOI 10.1001/archopht.121.10.1392
+   Simonelli F, 2006, BRIT J OPHTHALMOL, V90, P1142, DOI 10.1136/bjo.2006.096487
+   Terasaki H, 2002, BRIT J OPHTHALMOL, V86, P321, DOI 10.1136/bjo.86.3.321
+   Gibbs RA, 2003, NATURE, V426, P789, DOI 10.1038/nature02168
+   Yang ZL, 2006, SCIENCE, V314, P992, DOI 10.1126/science.1133811
+NR 34
+TC 7
+Z9 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 185 BERRY ST, STE 1300, SAN FRANCISCO, CA 94107 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 19
+PY 2011
+VL 6
+IS 4
+AR e19108
+DI 10.1371/journal.pone.0019108
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 752EC
+UT WOS:000289671100051
+ER
+
+PT J
+AU Itoga, H
+   Haraikawa, T
+   Yamashita, Y
+   Nakata, I
+AF Itoga, Hiroya
+   Haraikawa, Tomohiro
+   Yamashita, Yoshiyuki
+   Nakata, Ikuo
+TI Register allocation methods of improved software pipelining for loops
+   with conditional branches
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN PART III-FUNDAMENTAL ELECTRONIC
+   SCIENCE
+LA English
+DT Article
+DE software pipelining; conditional branches; register allocation;
+   interference graph
+AB Improved Enhanced Modulo Scheduling (Improved EMS) is proposed as an efficient software pipelining method for loops with conditional branches. In EMS and Improved EMS, multiple pipeline kernels are generated, depending on the truth value of the condition, and the appropriate one is selected on execution at each iteration. Since these kernels have variables that live for the number of stages with different conditions mixed together, register allocation becomes difficult. In this paper, the authors discuss register allocation methods using interference graphs for EMS and improved EMS. The first method is a register allocation method using conventional interference graph which is applied to the deployed kernels. Because the interference graph becomes very large, however, in proportion to the number of kernels deployed in the method, the proposed method reduces the size of the interference graph by overlapping the graphs and improves the results of register allocation. These two methods were evaluated with approximating coloring algorithms. It was clear that allocation could be performed rapidly, and in a manner in no way inferior to the conventional method for the number of registers by the method by overlapping and reducing the size of the graphs. (c) 2006 Wiley Periodicals, Inc.
+C1 Univ Tsukuba, Doctoral Program Engn, Tsukuba, Ibaraki 3058573, Japan.
+   Shizuoka Univ, Fac Informat, Hamamatsu, Shizuoka 4328011, Japan.
+   Univ Tsukuba, Inst Engn Mech & Syst, Tsukuba, Ibaraki 3058573, Japan.
+   Hosei Univ, Fac Comp & Informat Sci, Koganei, Tokyo 1848584, Japan.
+RP Itoga, H (reprint author), Ritsumeikan Univ, Dept Comp Sci, Kusatsu 5258577, Japan.
+CR Allan VH, 1995, ACM COMPUT SURV, V27, P367, DOI 10.1145/212094.212131
+   Allen JR, 1983, P 10 ACM S PRINC PRO, P177, DOI http://doi.acm.org/10.1145/567067.567085
+   Eichenberger A.E., 1995, Proceedings of the 28th Annual International Symposium on  Microarchitecture (Cat. No.95TB100012), DOI 10.1109/MICRO.1995.476825
+   Imori H., 1993, Transactions of the Information Processing Society of Japan, V34
+   SASSA M, 1989, IWANAMI LECT SOFTWAR, V5
+   WARTER NJ, P ACM SIGPLAN 1993 C, P290
+   WARTER NJ, 1992, P 25 ANN INT S MICR, P170
+   YAMASHITA Y, JOINT S PAR PROC JSP, P17
+NR 8
+TC 0
+Z9 0
+PU SCRIPTA TECHNICA-JOHN WILEY & SONS
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158 USA
+SN 1042-0967
+J9 ELECTRON COMM JPN 3
+JI Electron. Commun. Jpn. Pt. III-Fundam. Electron. Sci.
+PY 2006
+VL 89
+IS 12
+BP 59
+EP 69
+DI 10.1002/ecjc.20290
+PG 11
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 059PC
+UT WOS:000238743700006
+ER
+
+PT J
+AU Guo, MY
+   Nakata, I
+AF Guo, MY
+   Nakata, I
+TI A framework for efficient data redistribution on distributed memory
+   multicomputers
+SO JOURNAL OF SUPERCOMPUTING
+LA English
+DT Article
+DE parallelizing compilers; HPF; array redistribution; communication
+   scheduling; distributed memory machines
+ID CYCLIC ARRAY REDISTRIBUTION; ALGORITHMS; PROCESSOR; COMMUNICATION;
+   GENERATION
+AB Array redistribution is required often in programs on distributed memory parallel computers. It is essential to use efficient algorithms for redistribution; otherwise the performance of the programs will degrade considerably. The redistribution overheads consist of two parts: index computation and inter-processor communication. In this paper, by using a notation for the local data description called an LDD, we propose a framework to optimize the array redistribution algorithm both in index computation and inter-processor communication. That is, our work makes an effort to optimize not only the computation cost but also communication cost for array redistribution algorithms. We present an efficient index computation method and generate a schedule that minimizes the number of communication steps and eliminates node contention in each communication step. Some experiments show the efficiency and flexibility of our techniques.
+C1 Univ Aizu, Dept Comp Software, Aizu Wakamatsu, Fukushima, Japan.
+   Hosei Univ, Fac Comp & Informat Sci, Tokyo, Japan.
+RP Guo, MY (reprint author), Univ Aizu, Dept Comp Software, Aizu Wakamatsu, Fukushima, Japan.
+CR BIXBY R, 1994, P 1994 INT C PAR ARC
+   CHUNG Y, 1988, IEEE T PARALL DISTR, V9, P359
+   Desprez F, 1998, IEEE T PARALL DISTR, V9, P192, DOI 10.1109/71.663945
+   GUO M, 1998, P 3 INT WORKSH HIGH
+   GUO M, 1998, THESIS U TSUKUBA JAP
+   Guo MY, 1998, IEICE T INF SYST, VE81D, P1195
+   Hsu CH, 2000, IEEE T PARALL DISTR, V11, P1201
+   Kalns ET, 1995, IEEE T PARALL DISTR, V6, P1234, DOI 10.1109/71.476166
+   KAUSHIK SD, 1994, P 8 ACM INT C SUP MA
+   Kaushik SD, 1996, J PARALLEL DISTR COM, V38, P237, DOI 10.1006/jpdc.1996.0144
+   KAUSHIK SD, 1995, MULTIPHASE REDISTRIB
+   KENNEDY K, 1995, P SUP 95 SAN DIEG CA
+   KENNEDY K, 1995, P INT C SUP BARC JUL
+   KREMER U, 1993, P 4 WORKSH COMP PAR
+   LIM YW, 1996, IEEE S PAR DISTR OCT
+   LIM YW, 1997, P 26 INT C PAR PROC
+   Nakazawa K, 1999, PARALLEL COMPUT, V25, P1635, DOI 10.1016/S0167-8191(99)00078-2
+   Nakazawa K., 1996, Joho Shori, V37
+   Palermo DJ, 1996, J PARALLEL DISTR COM, V38, P158, DOI 10.1006/jpdc.1996.0138
+   PALERMO DJ, 1995, P 8 WORKSH LANG COMP
+   Park N, 1999, IEEE T PARALL DISTR, V10, P1217
+   Ramaswamy S, 1996, J PARALLEL DISTR COM, V38, P217, DOI 10.1006/jpdc.1996.0142
+   RANKA S, 1994, IEEE T PARALL DISTR, V5, P1266, DOI 10.1109/71.334900
+   RANKA S, 1995, P FRONT 95
+   STICHNOTH J, 1994, J PARALLEL DISTRIBUT, P150
+   Thakur R, 1996, IEEE T PARALL DISTR, V7, P587, DOI 10.1109/71.506697
+   THAKUR R, 1994, PROCEEDINGS OF THE SCALABLE HIGH-PERFORMANCE COMPUTING CONFERENCE, P309, DOI 10.1109/SHPCC.1994.296659
+   Tseng EHY, 1999, IEEE T PARALL DISTR, V10, P136, DOI 10.1109/71.752780
+   *HPF FOR, 1996, HIGH PERF FORTR LANG
+NR 29
+TC 24
+Z9 24
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0920-8542
+J9 J SUPERCOMPUT
+JI J. Supercomput.
+PD NOV
+PY 2001
+VL 20
+IS 3
+BP 243
+EP 265
+DI 10.1023/A:1011602732570
+PG 23
+WC Computer Science, Hardware & Architecture; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 468ZK
+UT WOS:000170787900003
+ER
+
+PT J
+AU Ono, H
+   Nakata, I
+AF Ono, H
+   Nakata, I
+TI Electromagnetic shock waves in the dielectric medium under an external
+   magnetic field
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE shock wave; dielectric medium; a derivative nonlinear Schrodinger (DNLS)
+   equation; internal loss
+AB By the reductive perturbation method, effects of internal loss on electromagnetic waves propagating in the nonlinear dielectric medium parallel to an external magnetic field are investigated. The resultant equation takes the form of derivative nonlinear Schrodinger equation with an additive dissipation term, which is shown to admit the exact shock wave solution combining an empty state and a uniform state with non-vanishing boundary value. In weaker nonlinear cases, we can explicitly show that there exist more general shapes of shock wave solutions, which combine tyro different uniform states. In both cases, a rarefaction type of shock wave is possible in the medium with nonlinearly softer anharmonic force. These results suggest the general existence of another fundamental nonlinear wave different from solitons in general systems subject to a derivative nonlinear Schrodinger equation in the absence of dissipation.
+C1 Setsunan Univ, Dept Math & Phys, Neyagawa, Osaka 5728503, Japan.
+   Osaka Univ, Coll Integrated Arts & Sci, Osaka 5998531, Japan.
+RP Ono, H (reprint author), Setsunan Univ, Dept Math & Phys, Neyagawa, Osaka 5728503, Japan.
+CR ABLOWITZ MJ, 1981, SOLITONS INVERSE SCA, pCH4
+   Cai D, 1997, PHYS REV LETT, V78, P223, DOI 10.1103/PhysRevLett.78.223
+   GHOSH S, 1987, PHYS FLUIDS, V30, P1371, DOI 10.1063/1.866252
+   KODAMA Y, 1987, IEEE J QUANTUM ELECT, V23, P510, DOI 10.1109/JQE.1987.1073392
+   MIO K, 1976, J PHYS SOC JPN, V41, P265, DOI 10.1143/JPSJ.41.265
+   Nakata I, 1998, J PHYS SOC JPN, V67, P426, DOI 10.1143/JPSJ.67.426
+   NAKATA I, 1993, PROG THEOR PHYS, V90, P739, DOI 10.1143/PTP.90.739
+   SOMMERFELD A, 1989, VORLESUNGEN THEORETI, V4, pCH3
+   WHITHAM GB, 1974, LINEAR NONLINEAR, pCH16
+NR 9
+TC 2
+Z9 2
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO, 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUN
+PY 1999
+VL 68
+IS 6
+BP 1838
+EP 1842
+DI 10.1143/JPSJ.68.1838
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 210GT
+UT WOS:000081097300013
+ER
+
+PT J
+AU Nakata, I
+   Ono, H
+AF Nakata, I
+   Ono, H
+TI Limit shock wave in a ferromagnet
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE nonlinear wave; ferromagnet; limit shock wave; reductive perturbation
+   method
+ID ELECTROMAGNETIC-WAVES
+AB Weakly nonlinear waves in a ferromagnet with dissipation are investigated. By means of reductive perturbation method, the derivative nonlinear Schrodinger equation with a dissipation term is derived and the possibility of propagation of shock waves similar to the limit shock waves in magnetohydrodynamics is shown.
+C1 Univ Osaka Prefecture, Coll Integrated Arts & Sci, Osaka 591, Japan.
+   Setsunan Univ, Fac Engn, Dept Math & Phys, Osaka 572, Japan.
+RP Nakata, I (reprint author), Univ Osaka Prefecture, Coll Integrated Arts & Sci, Osaka 591, Japan.
+CR CHIKAZUMI S, 1995, PHYSICS FERROMAGNETI, V2, P328
+   GILBERT TL, 1955, PHYS REV, V100, P1243
+   HOGAN CL, 1953, REV MOD PHYS, V25, P253, DOI 10.1103/RevModPhys.25.253
+   JEFFREY A, 1966, NONLINEAR WAVE PROPA
+   Landau L., 1935, Physikalische Zeitschrift der Sowjetunion, V8
+   NAKATA I, 1991, J PHYS SOC JPN, V60, P77, DOI 10.1143/JPSJ.60.77
+   NAKATA I, 1991, J PHY SOC JPN, V60, P3676
+   NAKATA I, 1991, J PHYS SOC JPN, V60, P2179, DOI 10.1143/JPSJ.60.2179
+   Soohoo R F, 1960, THEORY APPL FERRITES
+   WALKER ADM, 1985, P ROY SOC LOND A MAT, V399, P217, DOI 10.1098/rspa.1985.0056
+NR 10
+TC 2
+Z9 2
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO, 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD FEB
+PY 1998
+VL 67
+IS 2
+BP 426
+EP 429
+DI 10.1143/JPSJ.67.426
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA YZ714
+UT WOS:000072283500017
+ER
+
+PT J
+AU NISHIDA, S
+   HAIKAWA, Y
+   NAKATA, I
+   YAMAMOTO, H
+   MINODA, H
+   TANAKA, T
+AF NISHIDA, S
+   HAIKAWA, Y
+   NAKATA, I
+   YAMAMOTO, H
+   MINODA, H
+   TANAKA, T
+TI NEW DEVELOPMENTS FOR THE MINI DISC SYSTEM
+SO IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+LA English
+DT Article
+AB The introduction of a portable Mini Disc (M)) player for the next generation has been made possible by developments in digital circuits (LSI's). The main technology of the digital circuits are digital-servo, digital-PLL, sampling rate conversion and audio data conpression.
+RP NISHIDA, S (reprint author), SHARP CO LTD,COMMUN & AUDIO SYST LAB,1484-6 LIDA HACHIHONMATSU CHO,HIGASHIHIROSHIMA,HIROSHIMA,JAPAN.
+NR 0
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0098-3063
+J9 IEEE T CONSUM ELECTR
+JI IEEE Trans. Consum. Electron.
+PD AUG
+PY 1994
+VL 40
+IS 3
+BP 774
+EP 780
+DI 10.1109/30.320870
+PG 7
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA PK786
+UT WOS:A1994PK78600076
+ER
+
+PT J
+AU ONO, H
+   NAKATA, I
+AF ONO, H
+   NAKATA, I
+TI SOLITON FORMATION IN A SELF-GRAVITATING GAS
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID WAVES
+AB Nonlinear wave modulation associated with the gravitational stability of an infinite homogeneous gas is investigated by the reductive perturbation method. It is shown that the weakly nonlinear wave with the carrier wave number more than the Jeans wave number k(J) is governed by a nonlinear Schrodinger (NLS) equation. That NLS equation changes its type from modulationally unstable one to stable one across a critical wave number k(c) (>k(J)). Further it is shown that the weakly nonlinear wave near the marginal state of instability, i.e., near k(J), obeys an unstable NLS equation. From these results, it is conjectured that the nonlinearity may lead to various types of envelope soliton formations in a self-gravitating medium.
+C1 UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+RP ONO, H (reprint author), SETSUNAN UNIV,FAC ENGN,DEPT MATH & PHYS,NEYAGAWA 572,JAPAN.
+CR CHANDRASEKHAR S, 1954, ASTROPHYS J, V119, P7, DOI 10.1086/145790
+   CHANDRASEKHAR S, 1953, ASTROPHYS J, V118, P116, DOI 10.1086/145732
+   HASIMOTO H, 1972, J PHYS SOC JPN, V33, P805, DOI 10.1143/JPSJ.33.805
+   Jeans J. H., 1902, PHIL T R SOC A, V199, P49
+   KAKUTANI T, 1974, J PHYS SOC JPN, V37, P529, DOI 10.1143/JPSJ.37.529
+   KATES RE, 1986, ASTRON ASTROPHYS, V168, P1
+   NAKATA I, 1975, J PHYS SOC JPN, V38, P1147, DOI 10.1143/JPSJ.38.1147
+   Taniuti T., 1974, Progress of Theoretical Physics Supplement
+   Wadati M., 1991, Chaos, Solitons and Fractals, V1, DOI 10.1016/0960-0779(91)90035-8
+   WATANABE T, 1969, J PHYS SOC JPN, V27, P1341, DOI 10.1143/JPSJ.27.1341
+   WEINER AM, 1988, PHYS REV LETT, V61, P2445, DOI 10.1103/PhysRevLett.61.2445
+   YAJIMA T, 1990, J PHYS SOC JPN, V59, P3237, DOI 10.1143/JPSJ.59.3237
+   YUEH TY, 1981, STUD APPL MATH, V65, P1
+   YUEN HC, 1980, ANNU REV FLUID MECH, V12, P303, DOI 10.1146/annurev.fl.12.010180.001511
+NR 14
+TC 1
+Z9 1
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD JUL
+PY 1994
+VL 92
+IS 1
+BP 9
+EP 15
+DI 10.1143/PTP.92.9
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA NZ358
+UT WOS:A1994NZ35800002
+ER
+
+PT J
+AU KURATA, M
+   KIYONAGA, C
+   SENZAI, T
+   NAKATA, I
+   HAIKAWA, Y
+   NISHIDA, S
+AF KURATA, M
+   KIYONAGA, C
+   SENZAI, T
+   NAKATA, I
+   HAIKAWA, Y
+   NISHIDA, S
+TI DEVELOPMENT OF DIGITAL COMPACT CASSETTE SYSTEM
+SO SHARP TECHNICAL JOURNAL
+LA Japanese
+DT Article
+AB Together with the MD(Mini Disc) system, the DCC(Digital Compact Cassette) system is considered a successor to the ACC(Analogue Compact Cassette) system.
+   In the system which we developed, a new architec ture for signal processing is adopted to apply for the magnetic heads which have the wrong frequency characteristics caused by coating processes.
+   This paper describes newly developed technology includes the above architecture:head technology, head amplifier technology, digital-equalizing technology, data-detecting technology, errorcorrecting technology, and PASC(Precision Adaptive Subband Coding) technology.
+NR 0
+TC 0
+Z9 0
+PU SHARP CORP
+PI NARA
+PA ENGINEERING CENTER 2613-1 ICHINOMOTO-CHO TENRISHI, NARA 632, JAPAN
+SN 0285-0362
+J9 SHARP TECH J
+JI Sharp Tech. J.
+PD MAY
+PY 1994
+IS 58
+BP 29
+EP 34
+PG 6
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Instruments & Instrumentation
+SC Computer Science; Engineering; Instruments & Instrumentation
+GA NM746
+UT WOS:A1994NM74600006
+ER
+
+PT J
+AU ONO, H
+   NAKATA, I
+AF ONO, H
+   NAKATA, I
+TI REFLECTION AND TRANSMISSION OF AN ION-ACOUSTIC SOLITON AT A STEP-LIKE
+   INHOMOGENEITY
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE ION-ACOUSTIC SOLITON; INHOMOGENEOUS MEDIUM; MASS INTERFACE; REFLECTION;
+   TRANSMISSION; SOLITON FISSION
+AB The propgation of an ion-acoustic soliton through a mass interface of cold ions in a plasma is investigated both for a discontinuous change and for a gradual change. It is shown that the behaviors of transmitted waves are similar for both cases and an incident soliton may fission when it passes through the mass interface from the region of heavy ions to that of lighter ones. It is also found that the plane of density discontinuity moves towards the propagation direction of the incident soliton after its passing.
+C1 UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+RP ONO, H (reprint author), SETSUNAN UNIV,FAC ENGN,DEPT MATH & PHYS,NEYAGAWA,OSAKA 572,JAPAN.
+CR Clarkson P A, 1991, SOLITON NONLINEAR EV
+   IKEZI H, 1970, PHYS REV LETT, V25, P11, DOI 10.1103/PhysRevLett.25.11
+   NAKATA I, 1988, J PHYS SOC JPN, V57, P2209, DOI 10.1143/JPSJ.57.2209
+   ONO H, 1992, J PHYS SOC JPN, V61, P4336, DOI 10.1143/JPSJ.61.4336
+   ONO H, 1972, J PHYS SOC JPN, V32, P332, DOI 10.1143/JPSJ.32.332
+   ONO H, 1974, J PHYS SOC JPN, V37, P882, DOI 10.1143/JPSJ.37.882
+   SUGIMOTO N, 1987, J PHYS SOC JPN, V56, P1717, DOI 10.1143/JPSJ.56.1717
+   WASHIMI H, 1966, PHYS REV LETT, V17, P996, DOI 10.1103/PhysRevLett.17.996
+   YAJIMA N, 1984, B RES I APPL MECH KY, V60, P277
+   YAJIMA N, 1977, PROG THEOR PHYS, V58, P1114, DOI 10.1143/PTP.58.1114
+NR 10
+TC 15
+Z9 16
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JAN
+PY 1994
+VL 63
+IS 1
+BP 40
+EP 46
+DI 10.1143/JPSJ.63.40
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA MT787
+UT WOS:A1994MT78700009
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI SOLITARY WAVES IN A FERROMAGNET PROPAGATING OBLIQUELY TO A UNIFORM
+   MAGNETIC-FIELD
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID NONLINEAR ELECTROMAGNETIC-WAVES
+AB Solitary waves in a ferromagnet propagating at an arbitrary angle to a uniform magnetic field are investigated in the case of steady propagation. Solitary wave solutions of the basic system of equations for the waves in the ferromagnet are obtained exactly. The possibility of propagation of the hyperbolic and algebraic solitary waves is shown.
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR HOGAN CL, 1953, REV MOD PHYS, V25, P253, DOI 10.1103/RevModPhys.25.253
+   ICHIKAWA YH, 1980, J PHYS SOC JPN, V48, P279, DOI 10.1143/JPSJ.48.279
+   NAKATA I, 1991, J PHYS SOC JPN, V60, P77, DOI 10.1143/JPSJ.60.77
+   NAKATA I, 1991, J PHYS SOC JPN, V60, P3976, DOI 10.1143/JPSJ.60.3976
+   NAKATA I, 1991, J PHYS SOC JPN, V60, P712, DOI 10.1143/JPSJ.60.712
+   SOOHOO RF, 1960, THEORY APPLICATION F
+   WALKER ADM, 1985, P ROY SOC LOND A MAT, V399, P217, DOI 10.1098/rspa.1985.0056
+NR 7
+TC 0
+Z9 0
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD NOV
+PY 1992
+VL 61
+IS 11
+BP 3934
+EP 3938
+DI 10.1143/JPSJ.61.3934
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA JZ890
+UT WOS:A1992JZ89000018
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI ASYMPTOTIC-BEHAVIOR OF A SOLITARY WAVE ON A RANDOM ELECTRIC
+   TRANSMISSION-LINE
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID CIRCUIT
+AB Weak nonlinear waves on an LC ladder line with small random imhomogeneities are investigated.  By means of a nonlinear perturbation method, a nonlinear integro-differential equation which describes asymptotic behaviour of weak nonlinear waves on the line is derived from the basic system of equations.  It is shown from this equation that the amplitude of a solitary wave decays due to the presence of the random inhomogeneities.  The possibility of shock wave propagation due to the presence of the random inhomogeneities is also shown.
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR BOURRET RC, 1962, NUOVO CIMENTO, V26, P1, DOI 10.1007/BF02754339
+   DAIKOKU K, 1974, JPN J APPL PHYS, V13, P989, DOI 10.1143/JJAP.13.989
+   DAIKOKU K, 1975, JPN J APPL PHYS, V14, P367, DOI 10.1143/JJAP.14.367
+   Frisch U., 1968, WAVE PROPAGATION RAN, P75
+   HIROTA R, 1970, J PHYS SOC JPN, V28, P1366, DOI 10.1143/JPSJ.28.1366
+   HOWE MS, 1971, J FLUID MECH, V45, P785, DOI 10.1017/S0022112071000338
+   HOWE MS, 1971, J FLUID MECH, V45, P769, DOI 10.1017/S0022112071000326
+   ISHIWATA S, 1990, J PHYS SOC JPN, V59, P3029, DOI 10.1143/JPSJ.59.3029
+   KARAL FC, 1964, J MATH PHYS, V5, P537, DOI 10.1063/1.1704145
+   KAWAHARA T, 1976, J PHYS SOC JPN, V41, P1402, DOI 10.1143/JPSJ.41.1402
+   KAWAHARA T, 1970, J PHYS SOC JPN, V28, P1321, DOI 10.1143/JPSJ.28.1321
+   Keller J.B., 1964, P S APPL MATH, V16, P145
+   MUROYA K, 1981, J PHYS SOC JPN, V50, P3159, DOI 10.1143/JPSJ.50.3159
+   NAKATA I, 1980, J PHYS SOC JPN, V49, P1607, DOI 10.1143/JPSJ.49.1607
+   PAYTON DN, 1967, PHYS REV, V160, P706, DOI 10.1103/PhysRev.160.706
+   Scott A.C., 1970, ACTIVE NONLINEAR WAV
+   TSURUI A, 1973, J PHYS SOC JPN, V34, P1462, DOI 10.1143/JPSJ.34.1462
+   WADATI M, 1990, J PHYS SOC JPN, V59, P4201, DOI 10.1143/JPSJ.59.4201
+   WADATI M, 1983, J PHYS SOC JPN, V52, P2642, DOI 10.1143/JPSJ.52.2642
+   WATANABE S, 1981, J PHYS SOC JPN, V50, P3443, DOI 10.1143/JPSJ.50.3443
+   WATANABE S, 1981, J PHYS SOC JPN, V50, P3166, DOI 10.1143/JPSJ.50.3166
+   YAJIMA N, 1972, J PHYS SOC JPN, V33, P1471, DOI 10.1143/JPSJ.33.1471
+   YOSHINAGA T, 1980, J PHYS SOC JPN, V49, P2072, DOI 10.1143/JPSJ.49.2072
+   YOSHINAGA T, 1982, J PHYS SOC JPN, V51, P1303, DOI 10.1143/JPSJ.51.1303
+NR 24
+TC 3
+Z9 3
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD DEC
+PY 1991
+VL 60
+IS 12
+BP 4045
+EP 4050
+DI 10.1143/JPSJ.60.4045
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA GX192
+UT WOS:A1991GX19200017
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI SHOCK-WAVES IN A FERROMAGNET
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+AB Nonlinear electromagnetic waves in a ferromagnet under an external magnetic field are investigated in the presence of dissipative effect by using a nonlinear perturbation method.  In the lowest order of perturbation, it is found that the system of equations for the electromagnetic waves in a ferromagnet can the reduced to an integro-differential equation.  It is shown that this equation admits steady state solutions representing either monotone or oscillatory shock waves according to the relative strength of the dissipation to the dispersion.
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR HOGAN CL, 1953, REV MOD PHYS, V25, P253, DOI 10.1103/RevModPhys.25.253
+   JEFFREY A, 1966, NONLINEAR WAVE PROPA
+   KAKUTANI T, 1969, J PHYS SOC JPN, V26, P1305, DOI 10.1143/JPSJ.26.1305
+   Landau L., 1935, Physikalische Zeitschrift der Sowjetunion, V8
+   NAKATA I, 1991, J PHYS SOC JPN, V60, P77, DOI 10.1143/JPSJ.60.77
+   NAKATA I, 1978, J PHYS SOC JPN, V44, P314, DOI 10.1143/JPSJ.44.314
+   SOOHOO RF, 1960, THEORY APPLICATION F
+   TANIUTI T, 1968, J PHYS SOC JPN, V24, P941, DOI 10.1143/JPSJ.24.941
+   WALKER ADM, 1985, P ROY SOC LOND A MAT, V399, P217, DOI 10.1098/rspa.1985.0056
+NR 9
+TC 18
+Z9 18
+PU PHYSICAL SOCIETY JAPAN KIKAI-SHINKO BUILDING
+PI TOKYO
+PA 3-5-8 SHIBA-KOEN MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUL
+PY 1991
+VL 60
+IS 7
+BP 2179
+EP 2183
+DI 10.1143/JPSJ.60.2179
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA GD374
+UT WOS:A1991GD37400015
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI NONLINEAR ALFVEN WAVES IN A COMPRESSIBLE VISCOUS-FLUID
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+AB Nonlinear Alfven waves in a compressible viscous fluid with thermal and electrical conductivities in the presence of an external magnetic field are investigated by using a nonlinear perturbation method.  In the lowest order of perturbation, it is found that the system of equations for the Alfven waves can be reduced to a nonlinear integro-differential equation.  It is shown that in the case of steady propagation this equation has solutions representing the Alfven shock waves.
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR COURANT R, 1848, SUPERSONIC FLOW SHOC
+   JEFFREY A, 1966, NONLINEAR WAVE PROPA
+   KAKUTANI T, 1969, J PHYS SOC JPN, V26, P1305, DOI 10.1143/JPSJ.26.1305
+   Landau L.D., 1960, ELECTRODYNAMICS CONT
+   Lighthill MJ., 1956, SURVEYS MECH, P250
+   TANIUTI T, 1968, J PHYS SOC JPN, V24, P941, DOI 10.1143/JPSJ.24.941
+NR 6
+TC 6
+Z9 6
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING,RM 211, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO,
+   105-0011, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUN
+PY 1991
+VL 60
+IS 6
+BP 1952
+EP 1958
+DI 10.1143/JPSJ.60.1952
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA FX305
+UT WOS:A1991FX30500021
+ER
+
+PT J
+AU NAKATA, I
+   SASSA, M
+AF NAKATA, I
+   SASSA, M
+TI PROGRAMMING WITH STREAMS IN A PASCAL-LIKE LANGUAGE
+SO IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+LA English
+DT Article
+DE CONVENTIONAL PROGRAMMING; COROUTINE; IN-LINE EXPANSION; NETWORK OF
+   PROGRAM MODULES; PASCAL; PROGRAM MODULARIZATION; PROGRAM REUSABILITY;
+   STREAM OF VALUES; TERMINATION OF PROCESS
+ID ABSTRACTION; GENERATORS; ITERATION
+AB This paper describes facilities added to a conventional programming language that will manipulate streams of values.  A stream is a sequence of values of a certain fixed type.  The number of elements of a stream may be determined at execution time, and evaluation of each element can be postponed until its value is actually needed.  Many programs can be expressed naturally and clearly as networks of processes communicating by means of streams.  The network is called a composite function and consists of several component functions.  Since component functions are connected solely by streams, they greatly increase the flexibility of combinations and the reusability of programs.  Loop statements can be considered as iterative statements over streams.  One general problem in these networks is the mechanism of terminating each process of the network.  This paper presents a practical solution for this problem.  Comparisons to other programming styles, such as coroutines, Lisp, functional programming, and data flow languages, are described.  There modes of execution are considered for the implementation of composite functions:  parellel mode, coroutine mode, and in-line mode.  In the in-line mode, a composite function is expanded and transformed into a single function, realizing maximum run-time efficiency.  Algorithms for this expansion are given.  The language in this paper has been designed as an extension of Pascal.  A subset of it has been implemented.
+RP NAKATA, I (reprint author), UNIV TSUKUBA,INST INFORMAT SCI & ELECTR,TSUKUBA,IBARAKI 305,JAPAN.
+CR ARVIND, 1978, LECTURE NOTES COMPUT, V143, P452
+   ARVIND KP, 1978, TR114A U CAL TECH RE
+   ASHCROFT EA, 1977, COMMUN ACM, V20, P519, DOI 10.1145/359636.359715
+   BACKUS J, 1978, COMMUN ACM, V21, P613, DOI 10.1145/359576.359579
+   BURGE WH, 1975, IBM J RES DEV, V19, P12
+   CRISTIAN F, 1982, IEEE T COMPUT, V31, P531
+   CRISTIAN F, 1982, ACTA INFORM, V17, P365
+   DAHL DJ, 1968, NORWEGIAN COMPUTIN S, V2
+   DENNIS JB, 1979, 1979 P INT C PAR PRO, P35
+   GRISWOLD RE, 1981, ACM T PROGR LANG SYS, V3, P144, DOI 10.1145/357133.357136
+   HAGINO T, 1982, OCT WGSF M WG SOFTW
+   HENDERSON P, 1976, 3RD ACM S PRINC PROG, P95
+   HENDERSON P, 1980, FUNCTIONAL PROGRAMMI
+   HOARE CAR, 1978, COMMUN ACM, V21, P666, DOI 10.1145/359576.359585
+   IDA T, 1983, INFORM PROCESSING, V83
+   IVERSON KE, 1980, COMMUN ACM, V28, P444
+   IWAMOTO K, 1981, P COMPCON 81, P271
+   Jackson M. A., 1975, PRINCIPLES PROGRAM D
+   Jackson M.A., 1978, 3rd International Conference on Software Engineering
+   Kahn G, 1977, INFORMATION PROCESSI, P993
+   KRIZ J, 1980, SOFTWARE PRACT EXPER, V10, P773, DOI 10.1002/spe.4380101003
+   Kuse K., 1986, Journal of Information Processing, V9
+   LISKOV B, 1977, COMMUN ACM, V20, P564, DOI 10.1145/359763.359789
+   MARLIN CD, 1980, LECTURE NOTES COMPUT, V95
+   MIYASHITA Y, 1979, 21ST P IPSJ NAT C
+   MOODY JKM, 1980, SOFTWARE PRACTICE EX, V10, P765
+   NAKATA I, 1975, J INFORM PROCESSING, V16, P186
+   NAKATA I, 1983, IBM RJ3751 RES REP
+   RITCHIE DM, 1974, COMMUN ACM, V17, P365, DOI 10.1145/361011.361061
+   SATO M, 1983, 26TH P IPSJ NAT C
+   SHAW M, 1977, COMMUN ACM, V20, P553, DOI 10.1145/359763.359782
+   STEVENS WP, 1982, IBM SYST J, V21, P162
+   TEITELMAN W, 1981, COMPUTER, V14, P25, DOI 10.1109/C-M.1981.220410
+   TRIANCE JM, 1980, SOFTWARE PRACT EXPER, V10, P791, DOI 10.1002/spe.4380101004
+   Turner D.A., 1982, Functional programming and its applications. An advanced course
+   VANEK LI, 1979, 4TH P INT C SOFTW EN, V5, P274
+   WADLER P, 1981, P FUNCATIONAL PROGRA, P25, DOI 10.1145/800223.806759
+   WATERS RC, 1979, IEEE T SOFTWARE ENG, V5, P237, DOI 10.1109/TSE.1979.234185
+   1984, OCCAM PROGRAMMING MA
+   1982, REFERENCE MANUAL ADA
+NR 40
+TC 1
+Z9 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264
+SN 0098-5589
+J9 IEEE T SOFTWARE ENG
+JI IEEE Trans. Softw. Eng.
+PD JAN
+PY 1991
+VL 17
+IS 1
+BP 1
+EP 9
+DI 10.1109/32.67573
+PG 9
+WC Computer Science, Software Engineering; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA EV903
+UT WOS:A1991EV90300001
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI NONLINEAR ELECTROMAGNETIC-WAVES IN A FERROMAGNET
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+AB Nonlinear electromagnetic waves in a ferromagnet in the presence of an external magnetic field are investigated by using a nonlinear perturbation method.  In the lowest order of perturbation, it is found that the system of equations for the electromagnetic waves in a ferromagnet can be reduced to the modified Korteweg-de Vries equation. In the case of steady propagation this equation can be integrated to give a solution in closed form, which exhibits a solitary wave.  Two kinds of solitary wave are found to be possible.
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR HOGAN CL, 1953, REV MOD PHYS, V25, P253, DOI 10.1103/RevModPhys.25.253
+   KAKUTANI T, 1969, J PHYS SOC JPN, V26, P1305, DOI 10.1143/JPSJ.26.1305
+   Miura R.M., 1968, Journal of Mathematical Physics, V9, DOI 10.1063/1.1664701
+   MIURA RM, 1968, J MATH PHYS, V9, P1202, DOI 10.1063/1.1664700
+   SOOHOO RF, 1960, THEORY APPLICATION F
+   WADATI M, 1973, J PHYS SOC JPN, V34, P1289, DOI 10.1143/JPSJ.34.1289
+   WALKER ADM, 1985, P ROY SOC LOND A MAT, V399, P217, DOI 10.1098/rspa.1985.0056
+   Zabusky N. J., 1967, P S NONLINEAR PARTIA, P223
+NR 8
+TC 41
+Z9 41
+PU PHYSICAL SOCIETY JAPAN KIKAI-SHINKO BUILDING
+PI TOKYO
+PA 3-5-8 SHIBA-KOEN MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JAN
+PY 1991
+VL 60
+IS 1
+BP 77
+EP 81
+DI 10.1143/JPSJ.60.77
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA EV474
+UT WOS:A1991EV47400018
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI NONLINEAR MAGNETOACOUSTIC WAVES IN A COLD COLLISIONLESS PLASMA WITH
+   RANDOM INHOMOGENEOUS DENSITY DISTRIBUTION
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR ADLAM JH, 1958, PHILOS MAG, V3, P448, DOI 10.1080/14786435808236833
+   BANOS A, 1960, NUOVO CIMENTO, V15, P269, DOI 10.1007/BF02860251
+   CORDEY JG, 1964, PHYS FLUIDS, V7, P778, DOI 10.1063/1.1711285
+   DAVIS L, 1958, Z NATURFORSCH PT A, V13, P916
+   HAIN K, 1960, REV MOD PHYS, V32, P967, DOI 10.1103/RevModPhys.32.967
+   KAKO M, 1972, J PHYS SOC JPN, V33, P1678, DOI 10.1143/JPSJ.33.1678
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P660, DOI 10.1143/JPSJ.24.660
+   KAKUTANI T, 1969, J PHYS SOC JPN, V26, P1305, DOI 10.1143/JPSJ.26.1305
+   KAKUTANI T, 1971, J PHYS SOC JPN, V31, P1246, DOI 10.1143/JPSJ.31.1246
+   KAKUTANI T, 1967, J PHYS SOC JPN, V23, P1138, DOI 10.1143/JPSJ.23.1138
+   KAKUTANI T, 1966, J PHYS SOC JPN, V21, P385, DOI 10.1143/JPSJ.21.385
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P1159, DOI 10.1143/JPSJ.24.1159
+   MONTGOMERY D, 1959, PHYS FLUIDS, V2, P585, DOI 10.1063/1.1705958
+   NAKATA I, 1987, J PHYS SOC JPN, V56, P4357, DOI 10.1143/JPSJ.56.4357
+   SAFFMAN PG, 1961, J FLUID MECH, V11, P552, DOI 10.1017/S002211206100072X
+   SAFFMAN PG, 1961, J FLUID MECH, V11, P16, DOI 10.1017/S0022112061000822
+NR 16
+TC 0
+Z9 0
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD AUG
+PY 1988
+VL 57
+IS 8
+BP 2711
+EP 2716
+DI 10.1143/JPSJ.57.2711
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA Q6046
+UT WOS:A1988Q604600031
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI NONLINEAR MODULATED GRAVITY-WAVE ON A LIQUID LAYER WITH RANDOM
+   INHOMOGENEOUS DEPTH
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR BOURRET RC, 1962, NUOVO CIMENTO, V26, P1, DOI 10.1007/BF02754339
+   COLLIN RE, 1969, RADIO SCI, V4, P279, DOI 10.1029/RS004i003p00279
+   FRISCH U, 1968, PROBABILISTIC METHOD, P75
+   HOWE MS, 1971, J FLUID MECH, V45, P785, DOI 10.1017/S0022112071000338
+   HOWE MS, 1971, J FLUID MECH, V45, P769, DOI 10.1017/S0022112071000326
+   KARAL FC, 1964, J MATH PHYS, V5, P537, DOI 10.1063/1.1704145
+   KAWAHARA T, 1976, J PHYS SOC JPN, V41, P1402, DOI 10.1143/JPSJ.41.1402
+   Keller J.B., 1964, P S APPL MATH, V16, P145
+   LIU CH, 1969, PHYS FLUIDS, V12, P1642, DOI 10.1063/1.1692720
+   LIU CH, 1973, J PLASMA PHYS, V9, P443
+   NAKATA I, 1980, J PHYS SOC JPN, V49, P1607, DOI 10.1143/JPSJ.49.1607
+   PEREGRIN.DH, 1967, J FLUID MECH, V27, P815, DOI 10.1017/S0022112067002605
+   Tatarski V. I., 1961, WAVE PROPAGATION TUR
+   YAJIMA N, 1972, J PHYS SOC JPN, V33, P1471, DOI 10.1143/JPSJ.33.1471
+   YOUAKIM M, 1970, RADIO SCI, V4, P757
+NR 15
+TC 0
+Z9 0
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD DEC
+PY 1987
+VL 56
+IS 12
+BP 4306
+EP 4311
+DI 10.1143/JPSJ.56.4306
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA M2366
+UT WOS:A1987M236600024
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI MAGNETOACOUSTIC WAVE IN A COLD COLLISIONLESS PLASMA WITH RANDOM
+   INHOMOGENEOUS DENSITY DISTRIBUTION
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,COLL INTEGRATED ARTS & SCI,SAKAI,OSAKA 591,JAPAN.
+CR ADLAM JH, 1958, PHILOS MAG, V3, P448, DOI 10.1080/14786435808236833
+   BANOS A, 1960, NUOVO CIMENTO, V15, P269, DOI 10.1007/BF02860251
+   CORDEY JG, 1964, PHYS FLUIDS, V7, P778, DOI 10.1063/1.1711285
+   DAVIS L, 1958, Z NATURFORSCH PT A, V13, P916
+   HAIN K, 1960, REV MOD PHYS, V32, P967, DOI 10.1103/RevModPhys.32.967
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P660, DOI 10.1143/JPSJ.24.660
+   KAKUTANI T, 1969, J PHYS SOC JPN, V26, P1305, DOI 10.1143/JPSJ.26.1305
+   KAKUTANI T, 1971, J PHYS SOC JPN, V31, P1246, DOI 10.1143/JPSJ.31.1246
+   KAKUTANI T, 1967, J PHYS SOC JPN, V23, P1138, DOI 10.1143/JPSJ.23.1138
+   KAKUTANI T, 1966, J PHYS SOC JPN, V21, P385, DOI 10.1143/JPSJ.21.385
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P1159, DOI 10.1143/JPSJ.24.1159
+   MONTGOMERY D, 1959, PHYS FLUIDS, V2, P585, DOI 10.1063/1.1705958
+   NAKATA I, 1980, J PHYS SOC JPN, V48, P1358, DOI 10.1143/JPSJ.48.1358
+   SAFFMAN PG, 1961, J FLUID MECH, V11, P552, DOI 10.1017/S002211206100072X
+   SAFFMAN PG, 1961, J FLUID MECH, V11, P16, DOI 10.1017/S0022112061000822
+NR 15
+TC 1
+Z9 1
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD DEC
+PY 1987
+VL 56
+IS 12
+BP 4357
+EP 4360
+DI 10.1143/JPSJ.56.4357
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA M2366
+UT WOS:A1987M236600029
+ER
+
+PT J
+AU SUZUKI, Y
+   ISHIBASHI, S
+   MATSUSAKI, S
+   DOYAMA, M
+   NAKATA, I
+AF SUZUKI, Y
+   ISHIBASHI, S
+   MATSUSAKI, S
+   DOYAMA, M
+   NAKATA, I
+TI POSITRON-ANNIHILATION IN (SN)X
+SO SYNTHETIC METALS
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 105,JAPAN.
+RP SUZUKI, Y (reprint author), UNIV TOKYO,FAC ENGN,DEPT MAT SCI,BUNKYO KU,7-3-1 HONGO,TOKYO 113,JAPAN.
+CR NAKADA I, 1981, TECHNICAL REPORT I A, V1104
+NR 1
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0379-6779
+J9 SYNTHETIC MET
+JI Synth. Met.
+PD FEB
+PY 1987
+VL 18
+IS 1-3
+BP 601
+EP 604
+DI 10.1016/0379-6779(87)90947-7
+PG 4
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter; Polymer
+   Science
+SC Materials Science; Physics; Polymer Science
+GA G1474
+UT WOS:A1987G147400104
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI WAVE-PROPAGATION ON A LIQUID LAYER WITH RANDOM INHOMOGENEOUS DEPTH
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,JR COLL ENGN,SAKAI,OSAKA 591,JAPAN.
+CR BOURRET RC, 1962, NUOVO CIMENTO, V26, P1, DOI 10.1007/BF02754339
+   COLLIN RE, 1969, RADIO SCI, V4, P279, DOI 10.1029/RS004i003p00279
+   FRISCH U, 1968, PROBABILISTIC METHOD, P75
+   HOWE MS, 1971, J FLUID MECH, V45, P785, DOI 10.1017/S0022112071000338
+   HOWE MS, 1971, J FLUID MECH, V45, P769, DOI 10.1017/S0022112071000326
+   KARAL FC, 1964, J MATH PHYS, V5, P537, DOI 10.1063/1.1704145
+   KAWAHARA T, 1976, J PHYS SOC JPN, V41, P1402, DOI 10.1143/JPSJ.41.1402
+   Keller J.B., 1964, P S APPL MATH, V16, P145
+   LIU CH, 1969, PHYS FLUIDS, V12, P1642, DOI 10.1063/1.1692720
+   LIU CH, 1973, J PLASMA PHYS, V9, P443
+   PEREGRIN.DH, 1967, J FLUID MECH, V27, P815, DOI 10.1017/S0022112067002605
+   Tatarski V. I., 1961, WAVE PROPAGATION TUR
+   YAJIMA N, 1972, J PHYS SOC JPN, V33, P1471, DOI 10.1143/JPSJ.33.1471
+   YOUAKIM M, 1970, RADIO SCI, V4, P757
+NR 14
+TC 3
+Z9 3
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1980
+VL 49
+IS 4
+BP 1607
+EP 1610
+DI 10.1143/JPSJ.49.1607
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA KT786
+UT WOS:A1980KT78600057
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI SIGNAL PROPAGATION IN A ONE-DIMENSIONAL ANHARMONIC LATTICE WITH
+   IMPURITIES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,JR COLL ENGN,SAKAI,OSAKA 591,JAPAN.
+CR BOURRET RC, 1962, NUOVO CIMENTO, V26, P1, DOI 10.1007/BF02754339
+   COLLIN RE, 1969, RADIO SCI, V4, P279, DOI 10.1029/RS004i003p00279
+   Frisch U., 1968, WAVE PROPAGATION RAN, P75
+   HOWE MS, 1971, J FLUID MECH, V45, P785, DOI 10.1017/S0022112071000338
+   HOWE MS, 1971, J FLUID MECH, V45, P769, DOI 10.1017/S0022112071000326
+   KARAL FC, 1964, J MATH PHYS, V5, P537, DOI 10.1063/1.1704145
+   KAWAHARA T, 1976, J PHYS SOC JPN, V41, P1402, DOI 10.1143/JPSJ.41.1402
+   Keller J.B., 1964, P S APPL MATH, V16, P145
+   LIU CH, 1969, PHYS FLUIDS, V12, P1642, DOI 10.1063/1.1692720
+   LIU CH, 1973, J PLASMA PHYS, V9, P443
+   ONO H, 1972, J PHYS SOC JPN, V32, P332, DOI 10.1143/JPSJ.32.332
+   Tatarski V. I., 1961, WAVE PROPAGATION TUR
+   TSURUI A, 1973, J PHYS SOC JPN, V34, P1462, DOI 10.1143/JPSJ.34.1462
+   YAJIMA N, 1972, J PHYS SOC JPN, V33, P1471, DOI 10.1143/JPSJ.33.1471
+   YOUAKIM M, 1970, RADIO SCI, V4, P757
+   Zabusky N. J., 1967, P S NONLINEAR PARTIA, P223
+NR 16
+TC 1
+Z9 1
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1980
+VL 49
+IS 5
+BP 2059
+EP 2062
+DI 10.1143/JPSJ.49.2059
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA KX124
+UT WOS:A1980KX12400057
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI SHOCK-WAVE IN A COLD COLLISIONLESS PLASMA WITH RANDOM INHOMOGENEOUS
+   DENSITY DISTRIBUTION
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,JR COLL ENGN,SAKAI,OSAKA 591,JAPAN.
+CR HOWE MS, 1971, J FLUID MECH, V45, P769, DOI 10.1017/S0022112071000326
+   KAKUTANI T, 1971, J PHYS SOC JPN, V31, P1246, DOI 10.1143/JPSJ.31.1246
+   KAKUTANI T, 1967, J PHYS SOC JPN, V23, P1138, DOI 10.1143/JPSJ.23.1138
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P1159, DOI 10.1143/JPSJ.24.1159
+   KAWAHARA T, 1970, J PHYS SOC JPN, V28, P1321, DOI 10.1143/JPSJ.28.1321
+NR 5
+TC 1
+Z9 1
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1980
+VL 48
+IS 4
+BP 1358
+EP 1360
+DI 10.1143/JPSJ.48.1358
+PG 3
+WC Physics, Multidisciplinary
+SC Physics
+GA JV396
+UT WOS:A1980JV39600044
+ER
+
+PT J
+AU NAKATA, I
+AF NAKATA, I
+TI LIMIT SHOCK-WAVES IN A PLASMA
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP NAKATA, I (reprint author), UNIV OSAKA PREFECTURE,JR COLL ENGN,SAKAI,OSAKA 591,JAPAN.
+CR ADLAM JH, 1958, PHILOS MAG, V3, P448, DOI 10.1080/14786435808236833
+   BANOS A, 1960, NUOVO CIMENTO, V15, P269, DOI 10.1007/BF02860251
+   CORDEY JG, 1964, PHYS FLUIDS, V7, P778, DOI 10.1063/1.1711285
+   DAVIS L, 1958, Z NATURFORSCH PT A, V13, P916
+   HAIN K, 1960, REV MOD PHYS, V32, P967, DOI 10.1103/RevModPhys.32.967
+   IKUTA T, 1976, J PHYS SOC JPN, V41, P2105, DOI 10.1143/JPSJ.41.2105
+   JEFFREY A, 1966, NONLINEAR WAVE PROPA
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P660, DOI 10.1143/JPSJ.24.660
+   KAKUTANI T, 1969, J PHYS SOC JPN, V26, P1305, DOI 10.1143/JPSJ.26.1305
+   KAKUTANI T, 1967, J PHYS SOC JPN, V23, P1138, DOI 10.1143/JPSJ.23.1138
+   KAKUTANI T, 1966, J PHYS SOC JPN, V21, P385, DOI 10.1143/JPSJ.21.385
+   KAKUTANI T, 1968, J PHYS SOC JPN, V24, P1159, DOI 10.1143/JPSJ.24.1159
+   Karpman V.I, 1964, SOV PHYS-TECH PHYS, V8, P715
+   KARPMAN VI, 1964, SOV PHYS-TECH PHYS, V8, P606
+   KAWAHARA T, 1973, RIMS187 KYOT U SEM N
+   KAWAHARA T, 1970, J PHYS SOC JPN, V28, P1321, DOI 10.1143/JPSJ.28.1321
+   MONTGOMERY D, 1959, PHYS FLUIDS, V2, P585, DOI 10.1063/1.1705958
+   NAKATA I, 1978, J PHYS SOC JPN, V44, P314, DOI 10.1143/JPSJ.44.314
+   SAFFMAN PG, 1961, J FLUID MECH, V11, P552, DOI 10.1017/S002211206100072X
+   SAFFMAN PG, 1961, J FLUID MECH, V11, P16, DOI 10.1017/S0022112061000822
+   SAGDEEV RZ, 1962, SOVIET PHYSICS TECHN, V6, P1305
+   YOSHI H, 1978, J PHYS COLLOQUE    S, V38, P6
+NR 22
+TC 0
+Z9 0
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1979
+VL 46
+IS 6
+BP 1915
+EP 1919
+DI 10.1143/JPSJ.46.1915
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA HF488
+UT WOS:A1979HF48800033
+ER
+
+EF

@@ -1,0 +1,3481 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Ouchida, M
+   Kanzaki, H
+   Ito, S
+   Hanafusa, H
+   Jitsumori, Y
+   Tamaru, S
+   Shimizu, K
+AF Ouchida, Mamoru
+   Kanzaki, Hirotaka
+   Ito, Sachio
+   Hanafusa, Hiroko
+   Jitsumori, Yoshimi
+   Tamaru, Seiji
+   Shimizu, Kenji
+TI Novel Direct Targets of miR-19a Identified in Breast Cancer Cells by a
+   Quantitative Proteomic Approach
+SO PLOS ONE
+LA English
+DT Article
+ID DOMINANT RETINITIS-PIGMENTOSA; MICRORNA TARGETS; MIR-17-92 CLUSTER;
+   MICROARRAY ANALYSIS; PROLIFERATION; DIFFERENTIATION; EXPRESSION;
+   PREDICTION; GENES; RNAS
+AB The miR-17-92 cluster encodes 7 miRNAs inside a single polycistronic transcript, and is known as a group of oncogenic miRNAs that contribute to tumorigenesis in several cancers. However, their direct targets remain unclear, and it has been suggested that a single miRNA is capable of reducing the production of hundreds of proteins. The majority of reports on the identification of miRNA targets are based on computational approaches or the detection of altered mRNA levels, despite the fact that most miRNAs are thought to regulate their targets primarily by translational inhibition in higher organisms. In this study, we examined the target profiles of miR-19a, miR-20a and miR-92-1 in MCF-7 breast cancer cells by a quantitative proteomic strategy to identify their direct targets. A total of 123 proteins were significantly increased after the endogenous miR-19a, miR-20a and miR-92-1 were knocked down, and were identified as potential targets by two-dimensional electrophoresis and a mass spectrometric analysis. Among the upregulated proteins, four (PPP2R2A, ARHGAP1, IMPDH1 and NPEPL1) were shown to have miR-19a or miR-20a binding sites on their mRNAs. The luciferase activity of the plasmids with each binding site was observed to decrease, and an increased luciferase activity was observed in the presence of the specific anti-miRNA-LNA. A Western blot analysis showed the expression levels of IMPDH1 and NPEPL1 to increase after treatment with anti-miR-19a, while the expression levels of PPP2R2A and ARHGAP1 did not change. The expression levels of IMPDH1 and NPEPL1 did not significantly change by anti-miR-19a-LNA at the mRNA level. These results suggest that the IMPDH1 and NPEPL1 genes are direct targets of miR-19a in breast cancer, while the exogenous expression of these genes is not associated with the growth suppression of MCF-7 cells. Furthermore, our proteomic approaches were shown to be valuable for identifying direct miRNA targets.
+C1 Okayama Univ, Grad Sch Med Dent & Pharmaceut Sci, Dept Mol Genet, Okayama 7008530, Japan.
+   Okayama Univ, Grad Sch Med Dent & Pharmaceut Sci, Cent Res Lab, Okayama 7008530, Japan.
+   Cedars Sinai Med Ctr, Dept Biomed Sci, Los Angeles, CA 90048 USA.
+RP Ouchida, M (reprint author), Okayama Univ, Grad Sch Med Dent & Pharmaceut Sci, Dept Mol Genet, Okayama 7008530, Japan.
+EM ouchidam@md.okayama-u.ac.jp
+FU New Energy and Industrial Technology Development Organization; Okayama
+   University Budget for Centers of Excellence
+FX This work was supported by grants from the New Energy and Industrial
+   Technology Development Organization (to KS), and from the Okayama
+   University Budget for Centers of Excellence (to KS and MO). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Aherne A, 2004, HUM MOL GENET, V13, P641, DOI 10.1093/hmg/ddh061
+   Bartel DP, 2004, CELL, V116, P281, DOI 10.1016/S0092-8674(04)00045-5
+   Bowne SJ, 2006, INVEST OPHTH VIS SCI, V47, P34, DOI 10.1167/iovs.05-0868
+   Calin GA, 2004, P NATL ACAD SCI USA, V101, P2999, DOI 10.1073/pnas.0307323101
+   COLLART FR, 1988, J BIOL CHEM, V263, P15769
+   Dews M, 2006, NAT GENET, V38, P1060, DOI 10.1038/ng1855
+   Frankel LB, 2008, J BIOL CHEM, V283, P1026, DOI 10.1074/jbc.M707224200
+   Garzon R, 2010, NAT REV DRUG DISCOV, V9, P775, DOI 10.1038/nrd3179
+   Hackl M, 2010, AGING CELL, V9, P291, DOI 10.1111/j.1474-9726.2010.00549.x
+   Hayashita Y, 2005, CANCER RES, V65, P9628, DOI 10.1158/0008-5472.CAN-05-2352
+   He L, 2005, NATURE, V435, P828, DOI 10.1038/nature03552
+   Ishibe T, 2005, CLIN CANCER RES, V11, P2702, DOI 10.1158/1078-0432.CCR-04-2057
+   Ivanovska I, 2008, MOL CELL BIOL, V28, P2167, DOI 10.1128/MCB.01977-07
+   John B, 2004, PLOS BIOL, V2, P1862, DOI 10.1371/journal.pbio.0020363
+   Kanzaki H, 2011, PROTEOMICS, V11, P3531, DOI 10.1002/pmic.201000501
+   Kawai A, 2004, CANCER LETT, V204, P105, DOI 10.1016/j.canlet.2003.09.031
+   Kennan A, 2002, HUM MOL GENET, V11, P547, DOI 10.1093/hmg/11.5.547
+   Kobayashi T, 2008, P NATL ACAD SCI USA, V105, P1949, DOI 10.1073/pnas.0707900105
+   Krek A, 2005, NAT GENET, V37, P495, DOI 10.1038/ng1536
+   Lee YS, 2005, J BIOL CHEM, V280, P16635, DOI 10.1074/jbc.M412247200
+   Lewis BP, 2005, CELL, V120, P15, DOI 10.1016/j.cell.2004.12.035
+   Lewis BP, 2003, CELL, V115, P787, DOI 10.1016/S0092-8674(03)01018-3
+   Li HL, 2011, BREAST CANCER RES TR, V126, P565, DOI 10.1007/s10549-010-0954-4
+   Lim LP, 2005, NATURE, V433, P769, DOI 10.1038/nature03315
+   Lu Y, 2007, DEV BIOL, V310, P442, DOI 10.1016/j.ydbio.2007.08.007
+   Martin G, 2007, J BIOSCIENCES, V32, P1049, DOI 10.1007/s12038-007-0106-0
+   Mu P, 2009, GENE DEV, V23, P2806, DOI 10.1101/gad.1872909
+   Olive V, 2009, GENE DEV, V23, P2839, DOI 10.1101/gad.1861409
+   Olive V, 2010, INT J BIOCHEM CELL B, V42, P1348, DOI 10.1016/j.biocel.2010.03.004
+   Petrocca F, 2008, CANCER CELL, V13, P272, DOI 10.1016/j.ccr.2008.02.013
+   Pichiorri F, 2008, P NATL ACAD SCI USA, V105, P12885, DOI 10.1073/pnas.0806202105
+   Pineau P, 2010, P NATL ACAD SCI USA, V107, P264, DOI 10.1073/pnas.0907904107
+   Poliseno L, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002542
+   Sethupathy P, 2006, RNA, V12, P192, DOI 10.1261/rna.2239606
+   SONOBE H, 1992, LAB INVEST, V67, P498
+   Taguchi A, 2008, CANCER RES, V68, P5540, DOI 10.1158/0008-5472.CAN-07-6460
+   Takakura S, 2008, CANCER SCI, V99, P1147, DOI 10.1111/j.1349-7006.2008.00800.x
+   Tanzer A, 2004, J MOL BIOL, V339, P327, DOI 10.1016/j.jmb.2004.03.065
+   Vasudevan S, 2007, SCIENCE, V318, P1931, DOI 10.1126/science.1149460
+   Ventura A, 2009, CELL, V136, P586, DOI 10.1016/j.cell.2009.02.005
+   Volinia S, 2006, P NATL ACAD SCI USA, V103, P2257, DOI 10.1073/pnas.0510565103
+   Wang XW, 2006, NUCLEIC ACIDS RES, V34, P1646, DOI 10.1093/nar/gkl068
+   Zamore PD, 2005, SCIENCE, V309, P1519, DOI 10.1126/science.1111444
+   Zhang BH, 2007, DEV BIOL, V302, P1, DOI 10.1016/j.ydbio.2006.08.028
+NR 44
+TC 1
+Z9 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 30
+PY 2012
+VL 7
+IS 8
+AR e44095
+DI 10.1371/journal.pone.0044095
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 997ZH
+UT WOS:000308206500045
+ER
+
+PT J
+AU Enpuku, K
+   Watanabe, H
+   Higuchi, Y
+   Yoshida, T
+   Kuma, H
+   Hamasaki, N
+   Mitsunaga, M
+   Kanzaki, H
+   Kandori, A
+AF Enpuku, Keiji
+   Watanabe, Hideki
+   Higuchi, Yuichi
+   Yoshida, Takashi
+   Kuma, Hiroyuki
+   Hamasaki, Naotaka
+   Mitsunaga, Masakazu
+   Kanzaki, Hisao
+   Kandori, Akihiko
+TI Characterization of Magnetic Markers for Liquid-Phase Immunoassays Using
+   Brownian Relaxation
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID QUANTUM INTERFERENCE DEVICE; SIZE DISTRIBUTION; BIOSENSOR;
+   SUSCEPTIBILITY; SENSOR
+AB We characterized the magnetic markers used in biological immunoassays based on Brownian relaxation. Because the markers are composed of aggregated nanoparticles, i.e., magnetic nanoclusters, we first clarified their magnetic properties using AC susceptibility measurements, magnetization (M-H) curves, and magnetic relaxation properties. Analyzing the experimental results, we obtained the key parameters for the immunoassay, i.e., hydrodynamic diameter d(h), magnetic moment m(B), and anisotropy energy E-B of the markers. Because these parameters were distributed in practical samples, we took their distribution into account in the analysis. Next, we showed the relationship between these parameters obtained from different samples. It was shown that m(B) increased approximately in proportion to d(h). On the other hand, no clear correlation between m(B) and E-B was obtained. These results were very different from those expected from single-domain nanoparticles and must be taken into account when magnetic markers are used in immunoassays based on Brownian relaxation. (C) 2012 The Japan Society of Applied Physics
+C1 Kyushu Univ, Res Inst Superconductor Sci & Syst, Fukuoka 8190395, Japan.
+   Nagasaki Int Univ, Fac Pharmaceut Sci, Sasebo, Nagasaki 8593298, Japan.
+   Hitachi Maxell Ltd, R&D Div, Kyoto 6188525, Japan.
+   Hitachi Ltd, Cent Res Lab, Kokubunji, Tokyo 1858601, Japan.
+RP Enpuku, K (reprint author), Kyushu Univ, Res Inst Superconductor Sci & Syst, Fukuoka 8190395, Japan.
+FU Japan Science and Technology Agency
+FX The present study was partly supported by the Strategic Promotion of
+   Innovative R&D from the Japan Science and Technology Agency.
+CR Aytur T, 2006, J IMMUNOL METHODS, V314, P21, DOI 10.1016/j.jim.2006.05.006
+   Berkov DV, 2000, J PHYS D APPL PHYS, V33, P331, DOI 10.1088/0022-3727/33/4/303
+   Berry CC, 2009, J PHYS D APPL PHYS, V42, DOI 10.1088/0022-3727/42/22/224003
+   Chen DX, 2008, J APPL PHYS, V104, DOI 10.1063/1.3005988
+   Chiu MJ, 2011, IEEE T APPL SUPERCON, V21, P477, DOI 10.1109/TASC.2010.2087304
+   Colombo M, 2009, ANAL BIOCHEM, V392, P96, DOI 10.1016/j.ab.2009.05.034
+   Dormann J.L., 1997, ADV CHEM PHYS, VXCVIII
+   Eberbeck D, 2009, J MAGN MAGN MATER, V321, P1617, DOI 10.1016/j.jmmm.2009.02.098
+   Enpuku K, 2009, APPL PHYS EXPRESS, V2, DOI 10.1143/APEX.2.037001
+   Enpuku K, 2007, JPN J APPL PHYS 1, V46, P7524, DOI 10.1143/JJAP.46.7524
+   Enpuku K, 2010, J APPL PHYS, V108, DOI 10.1063/1.3457233
+   Enpuku K, 2007, J APPL PHYS, V102, DOI 10.1063/1.2775882
+   Enpuku K, 2009, IEEE T APPL SUPERCON, V19, P844, DOI 10.1109/TASC.2009.2018819
+   Enpuku K, 2008, JPN J APPL PHYS, V47, P7859, DOI 10.1143/JJAP.47.7859
+   Fannin P. C., 1998, ADV CHEM PHYS, V104
+   Gaster RS, 2011, NAT NANOTECHNOL, V6, P314, DOI [10.1038/nnano.2011.45, 10.1038/NNANO.2011.45]
+   Grossman HL, 2004, P NATL ACAD SCI USA, V101, P129, DOI 10.1073/pnas.0307128101
+   Hong HB, 2011, J IMMUNOL METHODS, V365, P95, DOI 10.1016/j.jim.2010.12.005
+   Koets M, 2009, BIOSENS BIOELECTRON, V24, P1893, DOI 10.1016/j.bios.2008.09.023
+   Lu M, 2006, BIOSENS BIOELECTRON, V21, P2248, DOI 10.1016/j.bios.2005.11.008
+   Ludwig F, 2006, J APPL PHYS, V99, DOI 10.1063/1.2171121
+   Mujika M, 2009, BIOSENS BIOELECTRON, V24, P1253, DOI 10.1016/j.bios.2008.07.024
+   Nikitin PI, 2007, J MAGN MAGN MATER, V311, P445, DOI 10.1016/j.jmmm.2006.10.1180
+   Oisjoen F, 2009, IEEE T APPL SUPERCON, V19, P848, DOI 10.1109/TASC.2009.2019246
+   Pankhurst QA, 2009, J PHYS D APPL PHYS, V42, DOI 10.1088/0022-3727/42/22/224001
+   Payet B, 1998, J MAGN MAGN MATER, V186, P168, DOI 10.1016/S0304-8853(98)00082-1
+   Stromberg M, 2007, J APPL PHYS, V101, DOI 10.1063/1.2424522
+   Stromberg M, 2008, BIOSENS BIOELECTRON, V24, P696, DOI 10.1016/j.bios.2008.06.043
+   Tamanaha CR, 2008, BIOSENS BIOELECTRON, V24, P1, DOI 10.1016/j.bios.2008.02.009
+   Yoshida T, 2009, JPN J APPL PHYS, V48, DOI 10.1143/JJAP.48.127002
+   Yoshida T, 2010, AIP CONF PROC, V1311, P102, DOI 10.1063/1.3529998
+   Yoshida T, 2010, JPN J APPL PHYS, V49, DOI 10.1143/JJAP.49.053001
+NR 32
+TC 1
+Z9 1
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+JI Jpn. J. Appl. Phys.
+PD FEB
+PY 2012
+VL 51
+IS 2
+AR 023002
+DI 10.1143/JJAP.51.023002
+PN 1
+PG 7
+WC Physics, Applied
+SC Physics
+GA 897EJ
+UT WOS:000300627200036
+ER
+
+PT J
+AU Obata, N
+   Mizobuchi, S
+   Itano, Y
+   Matsuoka, Y
+   Kaku, R
+   Tomotsuka, N
+   Morita, K
+   Kanzaki, H
+   Ouchida, M
+   Yokoyama, M
+AF Obata, Norihiko
+   Mizobuchi, Satoshi
+   Itano, Yoshitaro
+   Matsuoka, Yoshikazu
+   Kaku, Ryuji
+   Tomotsuka, Naoto
+   Morita, Kiyoshi
+   Kanzaki, Hirotaka
+   Ouchida, Mamoru
+   Yokoyama, Masataka
+TI Decoy strategy targeting the brain-derived neurotrophic factor exon I to
+   attenuate tactile allodynia in the neuropathic pain model of rats
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Neuropathic pain; Brain-derived neurotrophic factor; Spinal nerve
+   ligation; Decoy oligodeoxynucleotide
+ID DORSAL-ROOT GANGLION; SPINAL NERVE LIGATION; SENSORY NEURONS; BDNF-GENE;
+   EXPRESSION; INFLAMMATION; RESPONSES; FIBERS; CORD
+AB The mechanism underlying neuropathic pain is still largely unclear. Recently, much attention has been focused on the role of brain-derived neurotrophic factor (BDNF) as a neuromodulator in the spinal cord. We previously reported that the expression of Bdnf exon I mRNA was remarkably up-regulated in the dorsal root ganglion (DRG) neurons with the rat L5 spinal nerve ligation (SNL) model. In the present study, we investigated whether neuropathic pain response would be reduced by the inhibition of the Bdnf exon I in the rat SNL model. We identified the promoter region of exon I and synthesized the decoy ODNs targeting the region. Reverse transcription-polymerase chain reaction analysis confirmed that the decoy ODN treatment reduced SNL-induced Bdnf exon I mRNA up-regulation in ipsilateral L4 and L5 DRGs. Furthermore, post-treatment with the decoy ODNs significantly attenuated SNL-induced tactile allodynia. This study suggested that decoy ODNs targeting the Bdnf exon I might provide a novel analgesic strategy for the treatment of neuropathic pain. (C) 2011 Elsevier Inc. All rights reserved.
+C1 Okayama Univ, Dept Anesthesiol & Resuscitol, Grad Sch Med Dent & Pharmaceut Sci, Kita Ku, Okayama 7008558, Japan.
+   Okayama Univ, Dept Mol Genet, Grad Sch Med Dent & Pharmaceut Sci, Kita Ku, Okayama 7008558, Japan.
+   Kochi Med Sch, Dept Anesthesiol & Crit Care Med, Nanko Ku, Kochi 7838505, Japan.
+RP Obata, N (reprint author), Okayama Univ, Dept Anesthesiol & Resuscitol, Grad Sch Med Dent & Pharmaceut Sci, Kita Ku, 2-5-1 Shikata Cho, Okayama 7008558, Japan.
+EM obatti@v102.vaio.ne.jp
+RI KAKU, Ryuji/B-2385-2011
+CR Aid T, 2007, J NEUROSCI RES, V85, P525, DOI 10.1002/jnr.21139
+   CHAPLAN SR, 1994, J NEUROSCI METH, V53, P55, DOI 10.1016/0165-0270(94)90144-9
+   Cho HJ, 1997, BRAIN RES, V749, P358, DOI 10.1016/S0006-8993(97)00048-6
+   Coull JAM, 2005, NATURE, V438, P1017, DOI 10.1038/nature04223
+   DIXON WJ, 1980, ANNU REV PHARMACOL, V20, P441, DOI 10.1146/annurev.pa.20.040180.002301
+   Fukuoka T, 2001, J NEUROSCI, V21, P4891
+   HOFER MM, 1988, NATURE, V331, P261, DOI 10.1038/331261a0
+   Kerr BJ, 1999, J NEUROSCI, V19, P5138
+   Kim DS, 2001, MOL BRAIN RES, V92, P167, DOI 10.1016/S0169-328X(01)00154-1
+   KIM SH, 1992, PAIN, V50, P355
+   Kobayashi H, 2008, BRAIN RES, V1206, P13, DOI 10.1016/j.brainres.2007.12.004
+   Lee KM, 2009, EUR J PAIN, V13, P794, DOI 10.1016/j.ejpain.2008.09.009
+   Li YB, 2000, PAIN, V85, P493, DOI 10.1016/S0304-3959(00)00250-5
+   Ma YL, 1998, NEUROSCIENCE, V82, P957
+   Mann MJ, 2000, J CLIN INVEST, V106, P1071, DOI 10.1172/JCI11459
+   Matsuoka Y, 2007, BIOCHEM BIOPH RES CO, V362, P682, DOI 10.1017/j.bbrc.2007.08.022
+   Michael GJ, 1999, EUR J NEUROSCI, V11, P3539, DOI 10.1046/j.1460-9568.1999.00767.x
+   SHEEN K, 1993, BRAIN RES, V610, P62, DOI 10.1016/0006-8993(93)91217-G
+   Shen H, 1999, MOL BRAIN RES, V64, P186, DOI 10.1016/S0169-328X(98)00314-3
+   Thompson SWN, 1999, P NATL ACAD SCI USA, V96, P7714, DOI 10.1073/pnas.96.14.7714
+   TIMMUSK T, 1993, NEURON, V10, P475, DOI 10.1016/0896-6273(93)90335-O
+   Tonra JR, 1998, J NEUROSCI, V18, P4374
+   Zhou XF, 1996, NEUROSCIENCE, V74, P945, DOI 10.1016/S0306-4522(96)00237-0
+   ZIMMERMANN M, 1983, PAIN, V16, P109, DOI 10.1016/0304-3959(83)90201-4
+NR 24
+TC 4
+Z9 4
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD APR 29
+PY 2011
+VL 408
+IS 1
+BP 139
+EP 144
+DI 10.1016/j.bbrc.2011.03.137
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 766KM
+UT WOS:000290781000024
+ER
+
+PT J
+AU Yoshida, T
+   Ogawa, K
+   Enpuku, K
+   Usuki, N
+   Kanzaki, H
+AF Yoshida, Takashi
+   Ogawa, Kotaro
+   Enpuku, Keiji
+   Usuki, Naoki
+   Kanzaki, Hisao
+TI AC Susceptibility of Magnetic Fluid in Nonlinear Brownian Relaxation
+   Region: Experiment and Comparison with Numerical Simulation
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID QUANTUM INTERFERENCE DEVICE; NANOPARTICLES; PARTICLES; BIOSENSOR;
+   BACTERIA
+AB This study investigated the AC susceptibility of magnetic fluids in the nonlinear Brownian relaxation region. The nonlinear properties of the susceptibility in high excitation fields were measured comprehensively, including the decrease in susceptibility, field-dependent Brownian relaxation time, and occurrence of the third harmonic for the susceptibility. These experimental results were compared with numerical simulations based on the Fokker-Planck equation, which describes nonlinear Brownian relaxation. We first performed the numerical simulation by assuming mono-dispersed single-domain nanoparticles. The observed nonlinear properties were shown to be roughly explained by the simulation. To compare the experiment and simulation more accurately, we then considered the size distribution of the magnetic nanoparticles existing in practical samples; this was obtained by analyzing the frequency dependence of the susceptibility in weak fields. Quantitative agreements were obtained between the experiment and simulation for the frequency and field dependences of the nonlinear susceptibility. (C) 2010 The Japan Society of Applied Physics
+C1 Kyushu Univ, Dept Elect Engn, Fukuoka 8190395, Japan.
+   Hitachi Maxell Ltd, Div Res & Dev, Oyamazaki, Kyoto 6188525, Japan.
+RP Yoshida, T (reprint author), Kyushu Univ, Dept Elect Engn, Fukuoka 8190395, Japan.
+FU Japan Society for the Promotion of Science
+FX Financial support was provided by a Grant-in-Aid for Scientific Research
+   (B) from the Japan Society for the Promotion of Science.
+CR Astalan AP, 2004, BIOSENS BIOELECTRON, V19, P945, DOI 10.1016/j.bios.2003.09.005
+   Berkov DV, 2000, J PHYS D APPL PHYS, V33, P331, DOI 10.1088/0022-3727/33/4/303
+   Chemla YR, 1999, BIOPHYS J, V76, P3323, DOI 10.1016/S0006-3495(99)77485-0
+   Chen DX, 2008, J APPL PHYS, V104, DOI 10.1063/1.3005988
+   Coffey W. T, 1993, ADV CHEM PHYS, V83, P263
+   Eberbeck Dietmar, 2008, Journal of Nanobiotechnology, V6, P4, DOI 10.1186/1477-3155-6-4
+   Enpuku K, 2009, APPL PHYS EXPRESS, V2, DOI 10.1143/APEX.2.037001
+   Enpuku K, 2007, JPN J APPL PHYS 1, V46, P7524, DOI 10.1143/JJAP.46.7524
+   Enpuku K, 2007, IEEE T APPL SUPERCON, V17, P816, DOI 10.1109/TASC.2007.897699
+   Enpuku K, 2007, J APPL PHYS, V102, DOI 10.1063/1.2775882
+   Giannitsis AT, 2005, J MAGN MAGN MATER, V289, P165, DOI 10.1016/j.jmmm.2004.11.048
+   Gleich B, 2005, NATURE, V435, P1214, DOI 10.1038/nature03808
+   GLOCKL G, 2005, J APPL PHYS, V10
+   Glockl G, 2005, J MAGN MAGN MATER, V289, P480, DOI 10.1016/j.jmmm.2004.11.135
+   Grossman HL, 2004, P NATL ACAD SCI USA, V101, P129, DOI 10.1073/pnas.0307128101
+   Hergt R, 2004, J MAGN MAGN MATER, V280, P358, DOI 10.1016/j.jmmm.2004.03.034
+   Hong CY, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2206557
+   Mac Oireachtaigh C, 2008, J MAGN MAGN MATER, V320, P871, DOI 10.1016/j.jmmm.2007.09.004
+   Meyer MHF, 2007, J MICROBIOL METH, V68, P218, DOI 10.1016/j.mimet.2006.08.004
+   Nikitin PI, 2007, J MAGN MAGN MATER, V311, P445, DOI 10.1016/j.jmmm.2006.10.1180
+   Pankhurst QA, 2003, J PHYS D APPL PHYS, V36, pR167, DOI 10.1088/0022-3727/36/13/201
+   Stromberg M, 2008, BIOSENS BIOELECTRON, V24, P696, DOI 10.1016/j.bios.2008.06.043
+   Suto M, 2009, J MAGN MAGN MATER, V321, P1493, DOI 10.1016/j.jmmm.2009.02.070
+   Yoshida T, 2009, JPN J APPL PHYS, V48, DOI 10.1143/JJAP.48.127002
+NR 24
+TC 4
+Z9 4
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+JI Jpn. J. Appl. Phys.
+PD MAY
+PY 2010
+VL 49
+IS 5
+AR 053001
+DI 10.1143/JJAP.49.053001
+PN Part 1
+PG 7
+WC Physics, Applied
+SC Physics
+GA 600PH
+UT WOS:000277998700035
+ER
+
+PT J
+AU Wang, ZF
+   Yamada, S
+   Zhang, M
+   Kanzaki, H
+   Yoshinaga, K
+AF Wang, Zhifeng
+   Yamada, Shuhei
+   Zhang, Ming
+   Kanzaki, Hisao
+   Yoshinaga, Kohji
+TI Controlled crystallization of titanium dioxide particles in the presence
+   of poly(vinyl alcohol) from peroxytitanic acid
+SO COLLOID AND POLYMER SCIENCE
+LA English
+DT Article
+DE Titanium dioxide; Nanoparticles; pH; Poly(vinyl alcohol); Crystal
+   structure; Morphology
+ID ANATASE TIO2 NANOPARTICLES; THIN-FILMS; SIZE; SUSPENSION; FRAMEWORK;
+   POLYMER; WATER
+AB Crystallization of TiO(2) particles from peroxytatanic acid in the presence of poly(vinyl alcohol) (PVA) via a hydrothermal process was investigated. The crystal structure and morphology of TiO(2) were significantly affected by pH and PVA dosage. High acidic condition without PVA led to the formation of rutile TiO(2), while addition of PVA resulted in the formation of anatase TiO(2). Much amount of PVA addition, and neutral or high pH circumstance were favorable for formation of anatase TiO(2) particles. The pH of solution also affected morphology of TiO(2) particles produced. From TEM images, it was observed that in pH 5.5 solution rod-shaped clusters and in pH 8.5 solution nanoparticles aggregates composed of 20-30 nm TiO(2) particles were formed.
+C1 Kyushu Inst Technol, Dept Appl Chem, Fac Engn, Kitakyushu, Fukuoka 8048550, Japan.
+   Yangzhou Univ, Coll Chem & Chem Engn, Yangzhou 225002, Jiangsu, Peoples R China.
+   Hitachi Maxwell Co, Div Res & Dev, Ohyamazaki, Kyoto 6188525, Japan.
+RP Yoshinaga, K (reprint author), Kyushu Inst Technol, Dept Appl Chem, Fac Engn, 1-1 Sensui, Kitakyushu, Fukuoka 8048550, Japan.
+EM khyosina@che.kyutech.ac.jp
+CR Bakandritsos A, 2008, LANGMUIR, V24, P11489, DOI 10.1021/la801901j
+   Biswas S, 2004, CHEM PHYS, V306, P163, DOI 10.1016/j.chemphys.2004.07.022
+   Chae SY, 2003, CHEM MATER, V15, P3326, DOI 10.1021/cm030171d
+   Chang CM, 2006, MACROMOL MATER ENG, V291, P1521, DOI 10.1002/mame.200600244
+   Chen X, 2007, CHEM REV, V107, P2891, DOI 10.1021/cr0500535
+   CHENG H, 1995, CHEM MATER, V663, P7
+   COMBA P, 1987, INORG CHEM, V26, P1315, DOI 10.1021/ic00255a024
+   FUJISHIMA A, 1972, NATURE, V238, P37, DOI 10.1038/238037a0
+   GRATZEL M, 1985, INORG CHEM, V24, P2320
+   Gutierrez J, 2008, NANOTECHNOLOGY, V19, DOI 10.1088/0957-4484/19/15/155607
+   HENRY M, 1992, STRUCT BOND, V77, P153
+   Hu Q, 1999, POLYMER, V40, P4833, DOI 10.1016/S0032-3861(98)00264-X
+   Jiang K, 2009, SOLID STATE SCI, V11, P1692, DOI 10.1016/j.solidstatesciences.2009.05.026
+   Kikuchi Y, 1997, J PHOTOCH PHOTOBIO A, V106, P51, DOI 10.1016/S1010-6030(97)00038-5
+   Kim JW, 2002, COLLOID POLYM SCI, V280, P584, DOI 10.1007/s00396-002-0655-6
+   Lee J, 1996, J COLLOID INTERF SCI, V177, P490, DOI 10.1006/jcis.1996.0062
+   Lee LH, 2001, CHEM MATER, V13, P1137, DOI 10.1021/cm000937z
+   Li FB, 2004, APPL CATAL B-ENVIRON, V48, P185, DOI 10.1016/j.apcatb.2003.10.003
+   Liu Y, 2007, J NANOSCI NANOTECHNO, V7, P4339, DOI 10.1166/jnn.2007.898
+   Moritz T, 1997, J PHYS CHEM B, V101, P8052, DOI 10.1021/jp9705131
+   Pfaff G, 1999, CHEM REV, V99, P1963, DOI 10.1021/cr970075u
+   SPURR RA, 1957, ANAL CHEM, V29, P760, DOI 10.1021/ac60125a006
+   Sugimoto T, 2003, J COLLOID INTERF SCI, V259, P53, DOI 10.1016/S0021-9797(03)00035-3
+   Sugimoto T, 2003, J COLLOID INTERF SCI, V259, P43, DOI 10.1016/S0021-9797(03)00036-5
+   SURYANARAYANA D, 1982, J PHYS CHEM-US, V86, P4579, DOI 10.1021/j100220a025
+   Yamada S, 2009, COLLOID POLYM SCI, V287, P139, DOI 10.1007/s00396-008-1957-0
+   Yang PD, 1999, CHEM MATER, V11, P2813, DOI 10.1021/cm990185c
+   Yin HB, 2001, J MATER CHEM, V11, P1694, DOI 10.1039/b008974p
+   Yu JC, 2004, CHEM MATER, V16, P1523, DOI 10.1021/cm049955x
+   Zheng YQ, 2001, J MATER CHEM, V11, P1547
+NR 30
+TC 2
+Z9 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0303-402X
+J9 COLLOID POLYM SCI
+JI Colloid Polym. Sci.
+PD FEB
+PY 2010
+VL 288
+IS 4
+BP 433
+EP 438
+DI 10.1007/s00396-009-2141-x
+PG 6
+WC Chemistry, Physical; Polymer Science
+SC Chemistry; Polymer Science
+GA 549GI
+UT WOS:000274034800008
+ER
+
+PT J
+AU Cai, P
+   Ma, ZW
+   Kanzaki, H
+AF Cai, Peng
+   Ma, Zhewang
+   Kanzaki, Hitoshi
+TI A WIDEBAND QUASI-MILLIMETER-WAVE BANDPASS FILTER USING DUAL-MODE
+   RESONATOR WITH 5/4 WAVELENGTH FOLDED STUBS
+SO MICROWAVE AND OPTICAL TECHNOLOGY LETTERS
+LA English
+DT Article
+DE wideband filter; quasi-millimeter-wave; dual-mode ring resonator;
+   parallel-coupled two-mode resonator; sharp attenuations; wide stopband
+ID RING RESONATORS; COMPACT
+AB A novel wideband quasi-millimeter-wave filter with good in-band and out-band performances is proposed in this article. A dual-mode square ring resonator loaded with two 5 lambda(0)/4 (lambda(0) is the center wavelength of the filter) folded stubs is introduced to realize a 3 dB passband bandwidth of about 15%. Because of the transmission zeros produced by the dual-mode ring resonator in the stopbands, the proposed filter exhibits sharp attenuations near the passband. On the other hand, a parallel-coupled two-mode resonator is introduced and integrated with the dual-mode ring resonator to get a further improvement of the out-band performance with wide stopbands. The fabricated filter has an insertion loss better than 2 dB in the passband and rejections greater than 20 dB at most of the frequencies in the stopbands. (C) 2009 Wiley Periodicals, Inc. Microwave Opt Technol Lett 51: 1708-1711, 2009; Published online in Wiley Interscience (www.interscience.wiley.com). DOI 10.1002/mop.24457
+C1 Jiangxi Univ Finance & Econ, Sch Elect Sci, Nanchang 330013, Peoples R China.
+   Saitama Univ, Grad Sch Sci & Engn, Saitama 3388570, Japan.
+   Nippon Pillar Packing Co Ltd, Sanda City, Hyougo 6691333, Japan.
+RP Cai, P (reprint author), Jiangxi Univ Finance & Econ, Sch Elect Sci, Nanchang 330013, Peoples R China.
+EM jxlpcp@yahoo.com.cn
+CR Cai P, 2007, MICROW OPT TECHN LET, V49, P481, DOI 10.1002/mop.22149
+   Cai P, 2006, IEICE T ELECTRON, VE89C, P1858, DOI 10.1093/ietele/e89-c.12.1858
+   Chen HJ, 2004, MICROW OPT TECHN LET, V43, P99, DOI 10.1002/mop.20388
+   Hsieh LH, 2001, ELECTRON LETT, V37, P1345, DOI 10.1049/el:20010905
+   Ishida H., 2004, IEEE MTT S INT MICR, P1307
+   Liu JC, 2005, MICROW OPT TECHN LET, V44, P219, DOI 10.1002/mop.20593
+   Liu JC, 2004, IEE P-MICROW ANTEN P, V151, P430, DOI 10.1049/ip-map:20040725
+   MA Z, 2007, IEEE MTT S INT MICR, P743
+   *SONN SOFTW INC, 2004, SONN SUIT VER 9 52
+NR 9
+TC 0
+Z9 0
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0895-2477
+J9 MICROW OPT TECHN LET
+JI Microw. Opt. Technol. Lett.
+PD JUL
+PY 2009
+VL 51
+IS 7
+BP 1708
+EP 1711
+DI 10.1002/mop.24457
+PG 4
+WC Engineering, Electrical & Electronic; Optics
+SC Engineering; Optics
+GA 443JE
+UT WOS:000265905200030
+ER
+
+PT J
+AU Enpuku, K
+   Tokumitsu, H
+   Sugimoto, Y
+   Kuma, H
+   Hamasaki, N
+   Tsukamoto, A
+   Mizoguchi, T
+   Kandori, A
+   Yoshinaga, K
+   Kanzaki, H
+   Usuki, N
+AF Enpuku, Keiji
+   Tokumitsu, H.
+   Sugimoto, Y.
+   Kuma, H.
+   Hamasaki, N.
+   Tsukamoto, A.
+   Mizoguchi, T.
+   Kandori, A.
+   Yoshinaga, K.
+   Kanzaki, H.
+   Usuki, N.
+TI Fast Detection of Biological Targets With Magnetic Marker and SQUID
+SO IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT Applied Superconductivity Conference
+CY AUG 17-22, 2008
+CL Chicago, IL
+SP ATI Wah Chang, Coalit Commercial Applicat Superconductors, CryoZone, GE Global Res Ctr, IEEE Council Superconductiv, IEEE Magnet Soc, PHPK Technologies, SuperPower Inc, Teax Ctr Superconductiv, Univ Houston
+DE BF separation; Brownian rotation; HTS SQUID; immunoassay; liquid-phase
+   detection; magnetic marker
+ID HTS SQUID; NANOPARTICLES; IMMUNOASSAYS
+AB We have been developing a SQUID system for the detection of biological targets. In this system, magnetic markers are bound to the targets, and the magnetic signal from the bound markers is detected with the SQUID. In order to realize fast detection of the targets, we developed a liquid-phase detection method. First, we used large polymer beads as material to capture the targets. Since the polymer beads are uniformly dispersed in liquid, biological targets on the surface of the polymer bead can be easily coupled to the markers, which results in the fast reaction time. Next, we detected the bound markers without using the washing process to separate the bound and unbound markers, which was realized by using the difference in the Brownian relaxation time between them. Using this procedure, we demonstrated the detection of the target called IgE, as well as biotin-coated polymer beads. We obtained a good relationship between the amount of IgE and the magnetic signal. The result was the same as that obtained using the conventional procedure. The reaction time for the coupling between the magnetic marker and the target was 4 min, which was much shorter than the conventional method. These results show the usefulness of the present method.
+C1 Kyushu Univ, Res Inst Superconductor Sci & Syst, Fukuoka 8190395, Japan.
+   Nagasaki Int Univ, Dept Clin Chem, Nagasaki 8593298, Japan.
+   Nagasaki Int Univ, Lab Med, Nagasaki 8593298, Japan.
+   Hitachi Ltd, Adv Res Lab, Tokyo 1858601, Japan.
+   Kyushu Inst Technol, Dept Appl Chem, Kitakyushu, Fukuoka 8048550, Japan.
+   Hitachi Maxell Ltd, Dev & Technol Grp, Kyoto 6188525, Japan.
+RP Enpuku, K (reprint author), Kyushu Univ, Res Inst Superconductor Sci & Syst, Fukuoka 8190395, Japan.
+EM enpuku@sc.kyushu-u.ac.jp
+CR Chung SY, 2005, THESCIENTIFICWORLDJO, V5, P1, DOI 10.1100/tsw.2005.3
+   EBERBECK D, 2006, J PHYS CONDENS MATT, V18, pS2859
+   Enpuku K, 2005, IEEE T APPL SUPERCON, V15, P660, DOI 10.1109/TASC.2005.849991
+   ENPUKU K, 2006, J APPL PHYS, V100
+   Enpuku K, 2007, IEEE T APPL SUPERCON, V17, P816, DOI 10.1109/TASC.2007.897699
+   Glockl G, 2005, J MAGN MAGN MATER, V289, P480, DOI 10.1016/j.jmmm.2004.11.135
+   Grossman HL, 2004, P NATL ACAD SCI USA, V101, P129, DOI 10.1073/pnas.0307128101
+   Hong C-Y, 2006, APPL PHYS LETT, V88
+   Lange J, 2002, J MAGN MAGN MATER, V252, P381, DOI 10.1016/S0304-8853(02)00657-1
+   Lu M, 2006, BIOSENS BIOELECTRON, V21, P2248, DOI 10.1016/j.bios.2005.11.008
+   Meyer MHF, 2007, J MICROBIOL METH, V68, P218, DOI 10.1016/j.mimet.2006.08.004
+   Payet B, 1998, J MAGN MAGN MATER, V186, P168, DOI 10.1016/S0304-8853(98)00082-1
+   Tsukamoto A, 2005, IEEE T APPL SUPERCON, V15, P656, DOI 10.1109/TASC.2005.849988
+NR 13
+TC 5
+Z9 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 1051-8223
+J9 IEEE T APPL SUPERCON
+JI IEEE Trans. Appl. Supercond.
+PD JUN
+PY 2009
+VL 19
+IS 3
+BP 844
+EP 847
+DI 10.1109/TASC.2009.2018819
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 474KK
+UT WOS:000268282000168
+ER
+
+PT J
+AU Tsukamoto, A
+   Mizoguchi, T
+   Kandori, A
+   Kuma, H
+   Hamasaki, N
+   Kanzaki, H
+   Usuki, N
+   Yoshinaga, K
+   Enpuku, K
+AF Tsukamoto, Akira
+   Mizoguchi, Takako
+   Kandori, Akihiko
+   Kuma, Hiroyuki
+   Hamasaki, Naotaka
+   Kanzaki, Hisao
+   Usuki, Naoki
+   Yoshinaga, Kohji
+   Enpuku, Keiji
+TI Development of a SQUID System Using Field Reversal for Rapidly Detecting
+   Bacteria
+SO IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT Applied Superconductivity Conference
+CY AUG 17-22, 2008
+CL Chicago, IL
+SP ATI Wah Chang, Coalit Commercial Applicat Superconductors, CryoZone, GE Global Res Ctr, IEEE Council Superconductiv, IEEE Magnet Soc, PHPK Technologies, SuperPower Inc, Teax Ctr Superconductiv, Univ Houston
+DE Brownian rotation; magnetic marker; pathogen testing; SQUID
+ID QUANTUM INTERFERENCE DEVICE; MAGNETIC NANOPARTICLES; HTS SQUID;
+   BIOLOGICAL IMMUNOASSAYS; BOUND/FREE SEPARATION; MARKER
+AB Pathogen identification usually requires growth of the pathogen by culture, which requires considerable time and manipulation by an experienced operator, leading to delays in diagnosis and treatment. We have investigated pathogen detection using a highly sensitive HTS-SQUID and magnetic markers and have developed a rapid and simple pathogen detection method. The magnetic markers, magnetic nanoparticles coated with detecting antibodies, bind to the target substance (antigen). The magnetic signal of the bound markers is measured with the highly sensitive SQUID. A remarkable feature of the magnetic assay is the disappearance of the magnetic signal from the unbound markers due to Brownian rotation. This makes it possible to detect the magnetic signal of the bound magnetic markers without removal of the unbound markers. In practice, however, the residual field around the SQUID generates an undesired magnetic signal from the unbound markers as a result of biased Brownian rotation. We developed a field reversal method-a measurement scheme-that eliminates the magnetic signal from the unbound markers. A difference signal is obtained by subtracting the magnetic signals measured by applying a magnetization field in two directions. The validity of this method was demonstrated experimentally using polymer beads as simulated bacteria. Its feasibility was demonstrated by the detection of Candida albicans, a pathogenic fungus. A magnetic signal of 3 m Phi(0) was detected from a sample containing 300 cells of Candida albicans. The detection limit was estimated from the system noise level of 0.5m Phi(0) to be about one hundred cells of Candida albicans, indicating that this method has high sensitivity. These results show that magnetic assay using a highly sensitive SQUID can provide rapid and simple pathogen testing without culture.
+C1 Hitachi Ltd, Adv Res Lab, Tokyo 1858601, Japan.
+   Nagasaki Int Univ, Fac Pharmaceut Sci, Sasebo, Nagasaki 8593292, Japan.
+   Hitachi Maxell Ltd, R&D Div, Kyoto 6188525, Japan.
+   Kyushu Inst Technol, Dept Appl Chem, Fukuoka 8048550, Japan.
+   Kyushu Univ, Res Inst Superconductor Sci & Syst, Fukuoka 8190395, Japan.
+RP Tsukamoto, A (reprint author), Hitachi Ltd, Adv Res Lab, Tokyo 1858601, Japan.
+EM akira.tsukamoto.tw@hitachi.com; takako.mizoguchi.ww@hitachi.com;
+   akihiko.kan-dori.vc@hitachi.com; kuma@niu.ac.jp; hamasaki-nao@niu.ac.jp;
+   hisao-kan-zaki@maxell.co.jp; naoki-usuki@maxell.co.jp;
+   khyosina@che.kyutech.ac.jp; enpuku@sc.kyushu-u.ac.jp
+CR CHEMLA YR, 2000, P NATL ACAD SCI USA, V97, P14628
+   Enpuku K, 2005, IEICE T ELECTRON, VE88C, P158, DOI 10.1093/ietele/E88-C.2.158
+   Enpuku K, 2007, IEEE T APPL SUPERCON, V17, P816, DOI 10.1109/TASC.2007.897699
+   Enpuku K, 1999, JPN J APPL PHYS 2, V38, pL1102, DOI 10.1143/JJAP.38.L1102
+   Grossman HL, 2004, P NATL ACAD SCI USA, V101, P129, DOI 10.1073/pnas.0307128101
+   Kotitz R, 1997, IEEE T APPL SUPERCON, V7, P3678, DOI 10.1109/77.622216
+   Tsukamoto A, 2007, PHYSICA C, V463, P1024, DOI 10.1016/j.physc.2007.04.284
+   Tsukamoto A, 2005, IEEE T APPL SUPERCON, V15, P656, DOI 10.1109/TASC.2005.849988
+   Tsukamoto A, 2006, PHYSICA C, V445, P975, DOI 10.1016/j.physc.2006.06.019
+NR 9
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 1051-8223
+J9 IEEE T APPL SUPERCON
+JI IEEE Trans. Appl. Supercond.
+PD JUN
+PY 2009
+VL 19
+IS 3
+BP 853
+EP 856
+DI 10.1109/TASC.2009.2019247
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 474KK
+UT WOS:000268282000170
+ER
+
+PT J
+AU Cai, P
+   Ma, ZW
+   Kanzaki, H
+   Zhang, Y
+   Chen, B
+AF Cai, Peng
+   Ma, Zhewang
+   Kanzaki, Hitoshi
+   Zhang, Yong
+   Chen, Bin
+TI Millimeter-Wave Ultra-Wideband Bandpass Filter Employing Dual-Mode Ring
+   Resonators Fed by Step-Impedance Coupled Lines
+SO JOURNAL OF INFRARED MILLIMETER AND TERAHERTZ WAVES
+LA English
+DT Article
+DE Ultra-wideband (UWB); Millimeter-wave; Bandpass filter (BPF); Microstrip
+   dual-mode rectangular ring resonators; Step-impedance parallel-coupled
+   structure
+ID LOW INSERTION-LOSS; SHARP-REJECTION; COMPACT
+AB This paper presents a novel millimeter-wave ultra-wideband (UWB) bandpass filter (BPF) based on microstrip dual-mode rectangular ring resonators. In order to get strong coupling between the input/output line and the dual-mode ring resonators, a step-impedance parallel-coupled structure is adopted for the design of the filter. On the other hand, transmission zeros are produced by the dual-mode resonator. As a consequence, the filter has low insertion-loss in its passband, sharp attenuation in its lower and upper stopbands and very wide stopbands. As an example, a filter with two dual-mode ring resonators is designed and fabricated. The measured frequency property of the fabricated filter shows good agreement with the simulated response.
+C1 Jiangxi Univ Finance & Econ, Sch Elect Sci, Nanchang 330013, Peoples R China.
+   Saitama Univ, Dept Elect & Elect Syst, Saitama 3388570, Japan.
+   Nippon Pillar Packing Co Ltd, Sanda City, Hyougo 6691333, Japan.
+RP Cai, P (reprint author), Jiangxi Univ Finance & Econ, Sch Elect Sci, 632 W Feng Lin St, Nanchang 330013, Peoples R China.
+EM jxlpcp@yahoo.com.cn
+FU Youth Foundation of Jiangxi Province Office of Education [GJJ09553,
+   GJJ09554, GJJ09286]
+FX This work is supported in part by the Youth Foundation of Jiangxi
+   Province Office of Education (GJJ09553, GJJ09554 and GJJ09286).
+CR Cai P, 2007, MICROW OPT TECHN LET, V49, P481, DOI 10.1002/mop.22149
+   Chang DC, 2002, IEEE T MICROW THEORY, V50, P1114
+   Chen HJ, 2004, MICROW OPT TECHN LET, V43, P99, DOI 10.1002/mop.20388
+   Hsieh LH, 2001, ELECTRON LETT, V37, P1345, DOI 10.1049/el:20010905
+   Hsieh LH, 2003, IEEE T MICROW THEORY, V51, P1241, DOI 10.1109/TMTT.2003.809643
+   Ishida H., 2004, 2004 IEEE MTT-S International Microwave Symposium Digest (IEEE  Cat. No.04CH37535), DOI 10.1109/MWSYM.2004.1338806
+   Li KR, 2005, IEEE MTT-S, P675, DOI 10.1109/MWSYM.2005.1516697
+   Lin YS, 2004, IEEE MICROW WIREL CO, V14, P422, DOI 10.1109/LMWC.2004.832069
+   MA Z, 2007, 2007 ASIA PACIFIC MI, P1183
+   MA Z, 2007, 2007 IEEE MTT S INT, P743, DOI 10.1109/MWSYM.2007.380046
+   Zhu L, 2005, IEEE MICROW WIREL CO, V15, P796, DOI 10.1109/LMWC.2005.85901
+   *SONN SOFTW INC, 2004, SONN SUIT VER 9 52
+NR 12
+TC 0
+Z9 0
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1866-6892
+J9 J INFRARED MILLIM TE
+JI J. Infrared Millim. Terahertz Waves
+PD MAY
+PY 2009
+VL 30
+IS 5
+BP 432
+EP 438
+DI 10.1007/s10762-009-9469-7
+PG 7
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA 423GL
+UT WOS:000264484700003
+ER
+
+PT J
+AU Enpuku, K
+   Sugimoto, Y
+   Tamai, Y
+   Tsukamoto, A
+   Mizoguchi, T
+   Kandori, A
+   Usuki, N
+   Kanzaki, H
+   Yoshinaga, K
+   Sugiura, Y
+   Kuma, H
+   Hamasaki, N
+AF Enpuku, Keiji
+   Sugimoto, Yuki
+   Tamai, Yuya
+   Tsukamoto, Akira
+   Mizoguchi, Takako
+   Kandori, Akihiko
+   Usuki, Naoki
+   Kanzaki, Hisao
+   Yoshinaga, Kohji
+   Sugiura, Yoshinori
+   Kuma, Hiroyuki
+   Hamasaki, Naotaka
+TI Liquid-Phase Detection of Biological Targets with Magnetic Marker and
+   Superconducting Quantum Interference Device
+SO IEICE TRANSACTIONS ON ELECTRONICS
+LA English
+DT Article
+DE liquid-phase immunoassay; magnetic marker; Brownian relaxation; Neel
+   relaxation; B/F separation; SQUID
+ID HTS SQUID; NANOPARTICLES; IMMUNOASSAYS; RELAXATION
+AB Liquid-phase detection of biological targets utilizing magnetic marker and Superconducting quantum interference device (SQUID) magnetometer is shown. In this method. magnetic markers are coupled to he biological targets. and the binding reaction between them is detected by measuring the magnetic signal from the bound markers. Detection can be done in the liquid phase, i.e., we can detect only the bound markers even in the presence of unbound (free) markers. Since the detection principle is based on the different magnetic properties between the free and bound markers, we clarified the Brownian relaxation of the free markets and the Neel relaxation of the bound markers. Usefulness of the present method is demonstrated front the detection of the biological targets, Such as biotin-coated polymer beads, IgE and Candida albicans.
+C1 Kyushu Univ, Res Inst Supercondutor Sci & Syst, Fukuoka 8190395, Japan.
+   Hitachi Ltd, Adv Res Lab, Kokubunji, Tokyo 1858601, Japan.
+   Hitachi Maxell Ltd, R&D Div, Hatoyama, Saitama 6188525, Japan.
+   Kyushu Inst Technol, Dept Appl Chem, Kitakyushu, Fukuoka 8048550, Japan.
+   INOAC Corp, Plast Prod Div, Nagoya, Aichi 4560054, Japan.
+   Nagasaki Int Univ, Fac Pharmaceut Sci, Sasebo, Japan.
+RP Enpuku, K (reprint author), Kyushu Univ, Res Inst Supercondutor Sci & Syst, Fukuoka 8190395, Japan.
+EM enpuku@sc.kyushu-u.ac.jp
+CR Astalan AP, 2004, BIOSENS BIOELECTRON, V19, P945, DOI 10.1016/j.bios.2003.09.005
+   Berkov DV, 2000, J PHYS D APPL PHYS, V33, P331, DOI 10.1088/0022-3727/33/4/303
+   CHUNG SH, 2005, J APPL PHYS, V97
+   EBERBECK D, 2006, J PHYS-CONDENS MAT, V18, P2829
+   Enpuku K, 2005, IEEE T APPL SUPERCON, V15, P660, DOI 10.1109/TASC.2005.849991
+   Enpuku K, 2007, JPN J APPL PHYS 1, V46, P7524, DOI 10.1143/JJAP.46.7524
+   Enpuku K, 2007, IEEE T APPL SUPERCON, V17, P816, DOI 10.1109/TASC.2007.897699
+   Enpuku K, 2006, J APPL PHYS, V100, DOI 10.1063/1.2337384
+   Enpuku K, 2007, J APPL PHYS, V102, DOI 10.1063/1.2775882
+   Fischer B, 2005, J MAGN MAGN MATER, V289, P74, DOI 10.1016/j.jmmm.2004.11.021
+   Glockl G, 2005, J MAGN MAGN MATER, V289, P480, DOI 10.1016/j.jmmm.2004.11.135
+   Grossman HL, 2004, P NATL ACAD SCI USA, V101, P129, DOI 10.1073/pnas.0307128101
+   Hong CY, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2206557
+   Lange J, 2002, J MAGN MAGN MATER, V252, P381, DOI 10.1016/S0304-8853(02)00657-1
+   Lu M, 2006, BIOSENS BIOELECTRON, V21, P2248, DOI 10.1016/j.bios.2005.11.008
+   Meyer MHF, 2007, J MICROBIOL METH, V68, P218, DOI 10.1016/j.mimet.2006.08.004
+   Payet B, 1998, J MAGN MAGN MATER, V186, P168, DOI 10.1016/S0304-8853(98)00082-1
+   Stromberg M, 2007, J APPL PHYS, V101, DOI 10.1063/1.2424522
+   Tsukamoto A, 2005, IEEE T APPL SUPERCON, V15, P656, DOI 10.1109/TASC.2005.849988
+NR 19
+TC 1
+Z9 1
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO, 105, JAPAN
+SN 0916-8524
+J9 IEICE T ELECTRON
+JI IEICE Trans. Electron.
+PD MAR
+PY 2009
+VL E92C
+IS 3
+BP 315
+EP 322
+DI 10.1587/transele.E92.C.315
+PG 8
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 439MA
+UT WOS:000265630000006
+ER
+
+PT J
+AU Enpuku, K
+   Tanaka, T
+   Tamai, Y
+   Dang, F
+   Enomoto, N
+   Hojo, J
+   Kanzaki, H
+   Usuki, N
+AF Enpuku, Keiji
+   Tanaka, Tsuyoshi
+   Tamai, Yuya
+   Dang, Feng
+   Enomoto, Naoya
+   Hojo, Junichi
+   Kanzaki, Hisao
+   Usuki, Naoki
+TI Size Distribution of Magnetic Marker Estimated from AC Susceptibility in
+   Solution for Biosensor Application
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+DE magnetic marker; magnetic nanoparticle; Brownian rotation; ac
+   susceptibility; size distribution; singular value decomposition;
+   biosensor
+ID QUANTUM INTERFERENCE DEVICE; NANOPARTICLES; MAGNETORELAXOMETRY;
+   IMMUNOASSAYS; SQUID; RELAXATION; FLUIDS
+AB The ac susceptibility of magnetic markers in solution was Studied for biosensor application, where the marker consisted of magnetic nanoparticles and a coating material. From the frequency dependence of the susceptibility caused by the Brownian rotation of the marker, we estimated the distribution of marker size, which is an important parameter for biosensor application. For this purpose, we analyzed the experimental data by the singular value decomposition (SVD) method. Using this method, we can directly estimate the size distribution without assuming any distribution function. The estimated distributions were also compared with those obtained from optical dynamic light scattering (DLS) measurements. It was shown that the size distribution estimated by magnetic measurement (SVD) slightly shifts to a size lower than that estimated by the optical measurement (DLS). It was also shown that the frequency dependence of the susceptibility can be better explained by the size distribution estimated by the SVD method than by the distribution estimated with DLS. The difference between the magnetic and optical measurement results was discussed in terms of aggregation of the markers. [DOI: 10.1143/JJAP.47.7859]
+C1 Kyushu Univ, Res Inst Supercond Sci & Syst, Fukuoka 8190395, Japan.
+   Kyushu Univ, Dept Appl Chem, Fukuoka 8190395, Japan.
+   Hitachi Maxell Ltd, Div Res & Dev, Kyoto 6188525, Japan.
+RP Enpuku, K (reprint author), Kyushu Univ, Res Inst Supercond Sci & Syst, Fukuoka 8190395, Japan.
+EM enpuku@sc.kyushu-u.ac.jp
+FU Japan Society for the Promotion of Science
+FX Financial Support by a Grant-in Aid for Scientific Research (B) from the
+   Japan Society for the Promotion of Science is acknowledged.
+CR Berkov DV, 2000, J PHYS D APPL PHYS, V33, P331, DOI 10.1088/0022-3727/33/4/303
+   Chung SH, 2005, J APPL PHYS, V97, DOI 10.1063/1.1853694
+   Eberbeck D, 2006, J PHYS-CONDENS MAT, V18, pS2829, DOI 10.1088/0953-8984/18/38/S20
+   Eberbeck D, 2005, J MAGN MAGN MATER, V289, P435, DOI [10.1016/j.jmmm.2004.11.122, 10.1016/j.jmmm.2004.12.122]
+   Embs JP, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036302
+   Enpuku K, 2005, IEEE T APPL SUPERCON, V15, P660, DOI 10.1109/TASC.2005.849991
+   Enpuku K, 2006, J APPL PHYS, V100, DOI 10.1063/1.2337384
+   Enpuku K, 1999, JPN J APPL PHYS 2, V38, pL1102, DOI 10.1143/JJAP.38.L1102
+   Enpuku K, 2007, J APPL PHYS, V102, DOI 10.1063/1.2775882
+   Enpuku K, 2003, IEEE T APPL SUPERCON, V13, P371, DOI 10.1109/TASC.2003.813856
+   Fannin PC, 1998, ADV CHEM PHYS, V104, P181, DOI 10.1002/9780470141632.ch3
+   Fischer B, 2005, J MAGN MAGN MATER, V289, P74, DOI 10.1016/j.jmmm.2004.11.021
+   Glockl G, 2005, J MAGN MAGN MATER, V289, P480, DOI 10.1016/j.jmmm.2004.11.135
+   Grossman HL, 2004, P NATL ACAD SCI USA, V101, P129, DOI 10.1073/pnas.0307128101
+   Hong CY, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2206557
+   Lange J, 2002, J MAGN MAGN MATER, V252, P381, DOI 10.1016/S0304-8853(02)00657-1
+   Lu M, 2006, BIOSENS BIOELECTRON, V21, P2248, DOI 10.1016/j.bios.2005.11.008
+   Ludwig F, 2005, REV SCI INSTRUM, V76, DOI 10.1063/1.2069776
+   Meyer MHF, 2007, J MICROBIOL METH, V68, P218, DOI 10.1016/j.mimet.2006.08.004
+   Payet B, 1998, J MAGN MAGN MATER, V186, P168, DOI 10.1016/S0304-8853(98)00082-1
+   Stromberg M, 2007, J APPL PHYS, V101, DOI 10.1063/1.2424522
+NR 21
+TC 11
+Z9 12
+PU JAPAN SOCIETY APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+JI Jpn. J. Appl. Phys.
+PD OCT
+PY 2008
+VL 47
+IS 10
+BP 7859
+EP 7865
+DI 10.1143/JJAP.47.7859
+PG 7
+WC Physics, Applied
+SC Physics
+GA 365XV
+UT WOS:000260443900024
+ER
+
+PT J
+AU Usuki, H
+   Nitoda, T
+   Ichikawa, M
+   Yamaji, N
+   Iwashita, T
+   Komura, H
+   Kanzaki, H
+AF Usuki, Hirokazu
+   Nitoda, Teruhiko
+   Ichikawa, Misato
+   Yamaji, Nahoko
+   Iwashita, Takashi
+   Komura, Hajime
+   Kanzaki, Hiroshi
+TI TMG-chitotriomycin, an enzyme inhibitor specific for insect and fungal
+   beta-N-acetylglucosaminidases, produced by actinomycete Streptomyces
+   anulatus NBRC 13369
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID ACID-SEQUENCE SIMILARITIES; GLIOCLADIUM SP FTD-0668; CHITIN-BINDING
+   DOMAIN; PHYSICOCHEMICAL PROPERTIES; BIOLOGICAL-ACTIVITIES;
+   CRYSTAL-STRUCTURE; D-GLUCOSAMINIDASE; PLANT CHITINASES;
+   HEXOSAMINIDASE-B; SANDHOFF-DISEASE
+AB A novel beta-N-acetylglucosaminidase (GIcNAcase) inhibitor named TMG-chitotriomycin (1) was isolated from the culture filtrate of Streptomyces anulatus NBRC13369. The strain produced 1 only when colloidal chitin was used as the sole carbon source in the production medium. The structure of 1 was determined by spectral and constitutive sugar analyses of the corresponding alditol derivatives to be an equilibrated mixture of alpha-D-N,N,N-triMeGIcNH(2)-(1,4)-beta-D-GIcNAc-(1,4)-beta-D-GIcNAc-(1,4)-D-GlcNAc and its C-2 epimer of the reducing end residue. TMG-chitotriomycin (1) showed potent and selective inhibition of insect and fungal GIcNAcases with no inhibition of mammalian and plant GIcNAcases. In contrast, the known GIcNAcase inhibitor nagstatin potently inhibited all GIcNAcases. It should be emphasized that synthesized D-N,N,N-triMeGIcNH(2), which is the component sugar of 1, showed no inhibition of the insect Spodoptera litura GIcNAcase. These results suggest that the (GIcNAc)(3) unit positioned at the reducing end of 1 is essential for its enzyme inhibitory activity. The unique inhibitory spectrum of 1 will be useful to study chitinolytic systems and to develop selective fungicides or pesticides.
+C1 Okayama Univ, Grad Sch Nat Sci & Technol, Lab Bioresources Chem, Okayama 7008503, Japan.
+   Suntory Inst Bioorgan Res, Osaka 6188503, Japan.
+RP Usuki, H (reprint author), Okayama Univ, Grad Sch Nat Sci & Technol, Lab Bioresources Chem, Okayama 7008503, Japan.
+EM hkanzaki@cc.okayama-u.ac.jp
+CR Akagi K, 2006, J BIOCHEM, V139, P483, DOI 10.1093/jb/mvj062
+   Andersen OA, 2005, NAT PROD REP, V22, P563, DOI 10.1039/b416660b
+   AOYAGI T, 1992, J ANTIBIOT, V45, P1404
+   AOYAMA T, 1992, J ANTIBIOT, V45, P1557
+   Arai N, 2000, CHEM PHARM BULL, V48, P1442
+   Arai N, 2000, J ANTIBIOT, V53, P609
+   Blayer S, 1999, BIOTECHNOL BIOENG, V66, P131, DOI 10.1002/(SICI)1097-0290(1999)66:2<131::AID-BIT6>3.0.CO;2-X
+   FALKOWSKI L, 1983, POL J CHEM, V57, P1353
+   Flatt PM, 2007, NAT PROD REP, V24, P358, DOI 10.1039/b603816f
+   HENRISSAT B, 1993, BIOCHEM J, V293, P781
+   HENRISSAT B, 1991, BIOCHEM J, V280, P309
+   Horsch M, 1997, PHARMACOL THERAPEUT, V76, P187, DOI 10.1016/S0163-7258(97)00110-1
+   HORSCH M, 1991, EUR J BIOCHEM, V197, P815, DOI 10.1111/j.1432-1033.1991.tb15976.x
+   Iseli B, 1996, FEBS LETT, V382, P186, DOI 10.1016/0014-5793(96)00174-3
+   Kaplan JB, 2004, ANTIMICROB AGENTS CH, V48, P2633, DOI 10.1128/AAC.48.7.2633-2636.2004
+   Kasprzewska A, 2003, CELL MOL BIOL LETT, V8, P809
+   Kato M, 2005, BIOORGAN MED CHEM, V13, P1563, DOI 10.1016/j.bmc.2004.12.017
+   Kawase T, 2004, APPL ENVIRON MICROB, V70, P1135, DOI 10.1128/AEM.70.2.1135-1144.2004
+   Kimura Y, 1997, BIOSCI BIOTECH BIOCH, V61, P1866
+   Knapp S, 1996, J AM CHEM SOC, V118, P6804, DOI 10.1021/ja960826u
+   KONDO A, 1990, AGR BIOL CHEM TOKYO, V54, P2169
+   Maier T, 2003, J MOL BIOL, V328, P669, DOI 10.1016/S0022-2836(03)00311-5
+   Mark BL, 2001, J BIOL CHEM, V276, P10330, DOI 10.1074/jbc.M011067200
+   Mark BL, 2003, J MOL BIOL, V327, P1093, DOI 10.1016/S0022-2836(03)00216-X
+   MEGA T, 1982, ANAL BIOCHEM, V119, P17, DOI 10.1016/0003-2697(82)90659-5
+   Merzendorfer H, 2003, J EXP BIOL, V206, P4393, DOI 10.1242/jeb.00709
+   NISHIMOTO Y, 1991, J ANTIBIOT, V44, P716
+   Nitoda T, 2003, Z NATURFORSCH C, V58, P891
+   Omura S, 2000, J ANTIBIOT, V53, P603
+   Panday N, 2000, HELV CHIM ACTA, V83, P1205, DOI 10.1002/1522-2675(20000607)83:6<1205::AID-HLCA1205>3.0.CO;2-L
+   Papanikolau Y, 2001, BIOCHEMISTRY-US, V40, P11338, DOI 10.1021/bi010505h
+   Rast DM, 2003, PHYTOCHEMISTRY, V64, P339, DOI 10.1016/S0031-9422(03)00350-9
+   SAKUDA S, 1987, J ANTIBIOT, V40, P296
+   Stubbs KA, 2006, ORG BIOMOL CHEM, V4, P839, DOI 10.1039/b516273d
+   Tatsuta K, 1996, J ANTIBIOT, V49, P836
+   TATSUTA K, 1995, J ANTIBIOT, V48, P286
+   Tharanathan RN, 2003, CRIT REV FOOD SCI, V43, P61, DOI 10.1080/10408690390826455
+   Tjoelker LW, 2000, J BIOL CHEM, V275, P514, DOI 10.1074/jbc.275.1.514
+   Usuki H, 2006, J PESTIC SCI, V31, P41, DOI 10.1584/jpestics.31.41
+   van Aalten DMF, 2001, P NATL ACAD SCI USA, V98, P8979, DOI 10.1073/pnas.151103798
+   Van de Velde K, 2004, CARBOHYD POLYM, V58, P409, DOI 10.1016/j.carbpol.2004.08.004
+   Wang W, 2003, CHEM COMMUN, P2600, DOI 10.1039/b308382a
+   Zhou CC, 2005, J ANTIBIOT, V58, P539
+NR 43
+TC 13
+Z9 13
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD MAR 26
+PY 2008
+VL 130
+IS 12
+BP 4146
+EP 4152
+DI 10.1021/ja077641f
+PG 7
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 276WE
+UT WOS:000254173600079
+ER
+
+PT J
+AU Nakamura, T
+   Kanzaki, H
+   Higashikawa, K
+   Hoshino, T
+   Muta, I
+AF Nakamura, T
+   Kanzaki, H
+   Higashikawa, K
+   Hoshino, T
+   Muta, I
+TI Analysis of shielding layers in HTS cable taking account of spiral
+   structure
+SO IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT 2004 Applied Superconductivity Conference
+CY OCT 03-08, 2004
+CL Jacksonville, FL
+ID SUPERCONDUCTING CABLE; SYSTEM
+AB Analysis code for shielding layers of HTS cable, which was taken account of spiral structure of Bi-2223/Ag tape conductors, was developed based on finite element method. The 66 kV class HTS cable, which was fabricated and successfully tested in cooperation of Tokyo Electric Power Co. (TEPCO) and Sumitomo Electric Industries, Ltd. (SEI), was subjected in this study. Electric field vs. current density property was expressed based on percolation depinning model (Yamafuji-Kiss model). Multifilamentary structure of the tapes and spiral structure of the conductors were directly modeled in order to analyze precisely. Systematic analysis results were presented and discussed.
+C1 Kyoto Univ, Kyoto 6158510, Japan.
+   Saga Univ, Saga 8408502, Japan.
+RP Nakamura, T (reprint author), Kyoto Univ, Kyoto Daigaku Katsura 1, Kyoto 6158510, Japan.
+EM tk_naka@kuee.kyoto-u.ac.jp; kohei@asl.kuee.kyoto-u.ac.jp;
+   hoshino@asl.kuee.kyoto-u.ac.jp; muta128@bb.excite.co.jp
+CR Honjo S, 2003, IEEE T APPL SUPERCON, V13, P1952, DOI 10.1109/TASC.2003.812975
+   KISS T, 1998, P MT15, P1052
+   Masuda T, 2002, PHYSICA C, V378, P1174, DOI 10.1016/S0921-4534(02)01750-1
+   Nakamura T, 2002, SUPERCOND SCI TECH, V15, P230, DOI 10.1088/0953-2048/15/2/309
+   NAKAMURA T, IN PRESS J MAT PROCE
+   Steve N, 2001, PHYSICA C, V354, P49, DOI 10.1016/S0921-4534(01)00021-1
+   Tonnesen O, 2004, SUPERCOND SCI TECH, V17, pS101, DOI 10.1088/0953-2048/17/5/002
+   Ueda K, 2003, IEEE T APPL SUPERCON, V13, P1946, DOI 10.1109/TASC.2003.812973
+   Xin Y, 2004, SUPERCOND SCI TECH, V17, pS332, DOI 10.1088/0953-2048/17/5/048
+   Yamafuji K, 1996, PHYSICA C, V258, P197, DOI 10.1016/0921-4534(95)00803-9
+NR 10
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 1051-8223
+J9 IEEE T APPL SUPERCON
+JI IEEE Trans. Appl. Supercond.
+PD JUN
+PY 2005
+VL 15
+IS 2
+BP 1747
+EP 1750
+DI 10.1109/TASC.2005.849272
+PN Part 2
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 935FS
+UT WOS:000229765700162
+ER
+
+PT J
+AU Nakamura, T
+   Kanzaki, H
+   Tsuboi, T
+   Higashikawa, K
+   Hoshino, T
+   Muta, I
+AF Nakamura, T
+   Kanzaki, H
+   Tsuboi, T
+   Higashikawa, K
+   Hoshino, T
+   Muta, I
+TI Analysis of shielding property in Bi-2223/Ag multifilamentary tapes with
+   multi-layer arrangement
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 3rd Japanese/Mediterranean Workshop on Applied Electronmagnetic
+   Engineering for Magnetic and Superconducting Materials/3rd
+   Superconducting Flywheel Workshop
+CY MAY 19-21, 2003
+CL Athens, GREECE
+SP Natl Tech Univ Athens, Lab Mfg Technol, Japan Soc Appl Electromagnet & Mach, Natl Tech Univ Athems, Lab Elect Mach
+DE shielding property; HTS cable; Bi-2223/Ag multifilamentary tape; E-J
+   curves; percolation depinning model; FEM
+AB Shielding property of Bi-2223/Ag multifilamentary tapes is analyzed based on the finite-element method. Quantitative expression of electric field versus current density, which is expressed as a function of temperature, magnetic field intensity and its applied direction, is taken into account. Detailed cross-sectional structure of the Bi-2223/Ag multifilamentary tape is also modeled for the precise analysis. It is shown that the power-law approximation of J-E curves (so-called n-value model) is inadequate to the analysis of the fault current condition. It is also to be reported that the shielding property of the multifilamentary tape is different from that of the monofilamentary tape. These results are crucial to the limit design of the HTS cable. (c) 2004 Elsevier B.V. All rights reserved.
+C1 Kyoto Univ, Grad Sch Engn, Dept Elect Engn, Nishikyo Ku, Kyoto 6158510, Japan.
+RP Nakamura, T (reprint author), Kyoto Univ, Grad Sch Engn, Dept Elect Engn, Nishikyo Ku, Kyoto Daigaku Katsura 1, Kyoto 6158510, Japan.
+EM tk_naka@kuee.kyoto-u.ac.jp
+CR Kimura H, 2002, PHYSICA C, V372, P1694, DOI 10.1016/S0921-4534(02)01103-6
+   Kiss T, 2001, IEEE T APPL SUPERCON, V11, P3900, DOI 10.1109/77.919921
+   KISS T, 1999, CRYOGENIC ENG, V34, P322
+   KISS T, 1998, P MT, V15, P1052
+   Masuda T, 2002, PHYSICA C, V378, P1174, DOI 10.1016/S0921-4534(02)01750-1
+   Nakamura T, 2002, SUPERCOND SCI TECH, V15, P230, DOI 10.1088/0953-2048/15/2/309
+   Nick W, 2002, PHYSICA C, V372, P1506, DOI 10.1016/S0921-4534(02)01069-9
+NR 7
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0924-0136
+J9 J MATER PROCESS TECH
+JI J. Mater. Process. Technol.
+PD APR 10
+PY 2005
+VL 161
+IS 1-2
+SI SI
+BP 22
+EP 27
+DI 10.1016/j.jmatprotec.2004.07.004
+PG 6
+WC Engineering, Industrial; Engineering, Manufacturing; Materials Science,
+   Multidisciplinary
+SC Engineering; Materials Science
+GA 929VR
+UT WOS:000229375200005
+ER
+
+PT J
+AU Kitamura, T
+   Kanzaki, H
+   Hamada, R
+   Nishiyama, S
+   Tsuruya, S
+AF Kitamura, T
+   Kanzaki, H
+   Hamada, R
+   Nishiyama, S
+   Tsuruya, S
+TI Liquid-phase oxidation of benzene to phenol by copper catalysts in
+   aqueous solvent with a high acetic acid concentration
+SO CANADIAN JOURNAL OF CHEMISTRY-REVUE CANADIENNE DE CHIMIE
+LA English
+DT Article
+DE supported copper catalysts; zeolite; oxidation; benzene; phenol; oxygen;
+   ascorbic acid
+ID HYDROGEN-PEROXIDE; VANADIUM CATALYSTS; MOLECULAR-OXYGEN; HYDROXYLATION;
+   ZEOLITES; REDUCTION; IONS; NO
+AB The liquid-phase catalytic oxidation of benzene was carried out under mild reaction conditions over Cu-impregnated zeolite catalysts (Cu/NaX, Cu/HX, Cu/NaY, Cu/HY, Cu/NaZSM-5, Cu/HZSM-5, Cu/Namordenite, Cu/Hmordenite, and Cu/Hbeta) using both molecular oxygen and ascorbic acid as the oxidant and the reducing reagents, respectively. Phenol was exclusively produced as the oxidation product and no other product was detected. Among the catalysts tested in this study, the Cu/HY catalyst had the highest activity for phenol formation. H-type zeolites were more effective supports for phenol formation than the corresponding Na-type ones. The yield of phenol was found to increase with the simultaneous increase in the amounts of both the supported Cu and the added ascorbic acid. The Cu species supported on HY began to elute as Cu2+ species in the solvent from the HY support with the initiation of the oxidation of benzene. The dissolved Cu2+ species were reduced to form precipitated Cu1+ species during the benzene oxidation. The homogeneous Cu species dissolved from the Cu/HY catalyst were thus suggested as mainly contributing to the phenol formation. The precipitated Cu1+ species that had no activity for the benzene oxidation were found to be regenerated in their oxidation activity toward phenol formation by calcination of the Cu1+ species in flowing air, although parts of the Cu species were found to be converted to aggregated CuO during the calcination.
+C1 Kobe Univ, Fac Engn, Dept Sci & Chem Engn, Kobe, Hyogo 6578501, Japan.
+   Kobe Univ, Grad Sch Sci & Technol, Div Mol Sci, Kobe, Hyogo 6578501, Japan.
+RP Tsuruya, S (reprint author), Kobe Univ, Fac Engn, Dept Sci & Chem Engn, Kobe, Hyogo 6578501, Japan.
+EM tsuruya@cx.kobe-u.ac.jp
+CR Bhaumik A, 1998, J CATAL, V178, P101, DOI 10.1006/jcat.1998.2131
+   CHEN NY, 1972, Patent No. 3700585
+   DEDECEK J, 1995, J PHYS CHEM-US, V99, P16327, DOI 10.1021/j100044a020
+   DIXON WT, 1964, J CHEM SOC, P4857, DOI 10.1039/jr9640004857
+   GENTI G, 1998, RES CHEM INTERMEDIAT, V24, P541
+   HAMILTON GA, 1966, J AM CHEM SOC, V88, P5269, DOI 10.1021/ja00974a043
+   HERMAN RG, 1975, J PHYS CHEM-US, V79, P2388, DOI 10.1021/j100589a009
+   Ishida MA, 1999, J CHEM SOC PERK T 2, P847, DOI 10.1039/a808115h
+   ITHO S, 1983, J ORG SYNTH CHEM, V41, P839
+   Kanzaki H, 2004, J MOL CATAL A-CHEM, V208, P203, DOI 10.1016/S1381-1169(03)00516-8
+   Lo Jacono M., 1997, J PHYS CHEM B, V101, P1979
+   Masumoto YK, 2002, J MOL CATAL A-CHEM, V184, P215, DOI 10.1016/S1381-1169(01)00528-3
+   Miyahara T, 2001, J MOL CATAL A-CHEM, V176, P141, DOI 10.1016/S1381-1169(01)00242-4
+   MIYAKE T, 1995, APPL CATAL A-GEN, V131, P33, DOI 10.1016/0926-860X(95)00134-4
+   NABETA T, 1998, 2 S SEL OX, P31
+   NAGAKURA S, 1981, RIKAGAKU JITEN, P13
+   Nomiya K, 1996, J MOL CATAL A-CHEM, V114, P181, DOI 10.1016/S1381-1169(96)00316-0
+   OHTANI T, 1995, J CATAL, V155, P158, DOI 10.1006/jcat.1995.1198
+   OHTANI T, 1993, P 10 INT C CAT BUD 1, P1999
+   Okamura J, 1998, J MOL CATAL A-CHEM, V135, P133, DOI 10.1016/S1381-1169(97)00298-7
+   Passoni LC, 1997, J MOL CATAL A-CHEM, V120, P117, DOI 10.1016/S1381-1169(96)00440-2
+   Sheldon R. A., 1981, METAL CATALYZED OXID
+   SHTAMM EV, 1974, INT J CHEM KINET, V11, P461
+   Torre-Abreu C, 1999, CATAL TODAY, V54, P407, DOI 10.1016/S0920-5861(99)00204-7
+   Balducci L, 2003, ANGEW CHEM INT EDIT, V42, P4937, DOI 10.1002/anie.200352184
+   1993, Patent No. 54935
+NR 26
+TC 12
+Z9 12
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA, ONTARIO K1A 0R6, CANADA
+SN 0008-4042
+J9 CAN J CHEM
+JI Can. J. Chem.-Rev. Can. Chim.
+PD NOV
+PY 2004
+VL 82
+IS 11
+BP 1597
+EP 1605
+DI 10.1139/V04-123
+PG 9
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 887JJ
+UT WOS:000226301700004
+ER
+
+PT J
+AU Kanzaki, H
+   Kitamura, T
+   Hamada, R
+   Nishiyama, S
+   Tsuruya, S
+AF Kanzaki, H
+   Kitamura, T
+   Hamada, R
+   Nishiyama, S
+   Tsuruya, S
+TI Activities for phenol formation using Cu catalysts supported on Al2O3 in
+   the liquid-phase oxidation of benzene in aqueous solvent with high
+   acetic acid concentration
+SO JOURNAL OF MOLECULAR CATALYSIS A-CHEMICAL
+LA English
+DT Article
+DE copper catalyst supported on Al2O3; oxidation; benzene; phenol; oxygen;
+   ascorbic acid; acetic acid
+ID HYDROGEN-PEROXIDE; VANADIUM CATALYSTS; MOLECULAR-OXYGEN; HYDROXYLATION;
+   PALLADIUM; 2,6-DI-TERT-BUTYLPHENOL; MCM-41; ION
+AB The liquid-phase oxidation of benzene to phenol using a Cu catalyst supported on Al2O3 was studied at 303 K in an aqueous solvent with a variety of concentrations of acetic acid. Gaseous O-2 and ascorbic acid were utilized as an oxidant and a reducing reagent, respectively. An aqueous solvent with more than around 70-80 vol.% acetic acid concentration was confirmed to cause a sharp apparent decrease in the Cu leaching from a Cu catalyst (Cu/Al2O3) impregnated on Al2O3, as well as a CuO-Al2O3 catalyst prepared by a co-precipitation method reported previously, during the benzene oxidation, keeping the yield of phenol comparatively high. The apparent Cu leaching was largely inhibited in an aqueous solvent with high acetic acid concentration in comparison with a solvent of low acetic acid concentration, irrespective of the presence of benzene and/or ascorbic acid. The influences of both the Cu amount supported on the Cu/Al2O3 catalyst and the amount of ascorbic acid on the yield of phenol were investigated in the aqueous solvents with acetic acid concentrations of both 5.7 and 80 vol. %. The Cu/Al2O3 catalyst in the aqueous acetic acid solvent was deactivated in the comparatively initial stage of the oxidation of benzene. The catalytic activity of the used Cu supported catalyst for phenol formation was almost completely recovered by calcining the catalyst at 773 K. The amount of the deactivated Cu species based on a XRD peak at 2theta = 23degrees in the used Cu/Al2O3 catalyst was found to have a correlation with the yield of phenol. (C) 2003 Published by Elsevier B.V.
+C1 Kobe Univ, Fac Engn, Dept Sci & Chem Engn, Kobe, Hyogo 6578501, Japan.
+   Kobe Univ, Grad Sch Sci & Technol, Div Mol Sci, Kobe, Hyogo 6578501, Japan.
+RP Tsuruya, S (reprint author), Kobe Univ, Fac Engn, Dept Sci & Chem Engn, Kobe, Hyogo 6578501, Japan.
+CR Bahranowski K, 2001, APPL CLAY SCI, V18, P93, DOI 10.1016/S0169-1317(00)00033-8
+   CAVANI F, 1992, APPL CATAL A-GEN, V88, P115, DOI 10.1016/0926-860X(92)80210-4
+   Centi G., 2001, SELECTIVE OXIDATION
+   DIXON WT, 1964, J CHEM SOC, P4857, DOI 10.1039/jr9640004857
+   FLESZAR B, 1976, ROCZ CHEM, V50, P271
+   Fujiyama H, 1999, J CATAL, V188, P417, DOI 10.1006/jcat.1999.2667
+   HAMADA M, 1995, Patent No. 05004935
+   HAMILTON GA, 1966, J AM CHEM SOC, V88, P5269, DOI 10.1021/ja00974a043
+   Ishida MA, 1999, J CHEM SOC PERK T 2, P847, DOI 10.1039/a808115h
+   ITHO S, 1983, J ORG SYNTH CHEM, V41, P839
+   Itoh N, 2003, CATAL COMMUN, V4, P243, DOI 10.1016/S1566-7367(03)00046-3
+   Kohara I, 2000, J MOL CATAL A-CHEM, V153, P93, DOI 10.1016/S1381-1169(99)00306-4
+   Masumoto YK, 2002, J MOL CATAL A-CHEM, V184, P215, DOI 10.1016/S1381-1169(01)00528-3
+   Miyahara T, 2001, J MOL CATAL A-CHEM, V176, P141, DOI 10.1016/S1381-1169(01)00242-4
+   Miyake T, 2002, J MOL CATAL A-CHEM, V178, P199, DOI 10.1016/S1381-1169(01)00304-1
+   MIYAKE T, 1995, APPL CATAL A-GEN, V131, P33, DOI 10.1016/0926-860X(95)00134-4
+   NABETA T, 1998, P 2 S SEL OX TOK, P31
+   NAGAKURA S, 1998, RIKAGAKU JITEN
+   Niwa S, 2002, SCIENCE, V29, P125
+   Nomiya K, 1996, J MOL CATAL A-CHEM, V114, P181, DOI 10.1016/S1381-1169(96)00316-0
+   OHTANI T, 1995, J CATAL, V155, P158, DOI 10.1006/jcat.1995.1198
+   Ohtani T, 1992, P 10 INT C CAT BUD
+   Okamura J, 1998, J MOL CATAL A-CHEM, V135, P133, DOI 10.1016/S1381-1169(97)00298-7
+   Passoni LC, 1997, J MOL CATAL A-CHEM, V120, P117, DOI 10.1016/S1381-1169(96)00440-2
+   Passoni LC, 1998, J MOL CATAL A-CHEM, V134, P229, DOI 10.1016/S1381-1169(98)00040-5
+   Sheldon R. A., 1981, METAL CATALYZED OXID
+   SHTAMM EV, 1974, INT J CHEM KINET, V11, P461
+NR 27
+TC 39
+Z9 44
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1381-1169
+J9 J MOL CATAL A-CHEM
+JI J. Mol. Catal. A-Chem.
+PD FEB 2
+PY 2004
+VL 208
+IS 1-2
+BP 203
+EP 211
+DI 10.1016/S1381-1169(03)00516-8
+PG 9
+WC Chemistry, Physical
+SC Chemistry
+GA 759EW
+UT WOS:000187726200025
+ER
+
+PT J
+AU Kandori, A
+   Shimizu, W
+   Yokokawa, M
+   Maruo, T
+   Kanzaki, H
+   Nakatani, S
+   Kamakura, S
+   Miyatake, K
+   Murakami, M
+   Miyashita, T
+   Ogata, K
+   Tsukada, K
+AF Kandori, A
+   Shimizu, W
+   Yokokawa, M
+   Maruo, T
+   Kanzaki, H
+   Nakatani, S
+   Kamakura, S
+   Miyatake, K
+   Murakami, M
+   Miyashita, T
+   Ogata, K
+   Tsukada, K
+TI Detection of spatial repolarization abnormalities in patients with LQT1
+   and LQT2 forms of congenital long-QT syndrome
+SO PHYSIOLOGICAL MEASUREMENT
+LA English
+DT Article
+DE long-QT syndrome; magnetocardiogram; current-arrow map
+ID TORSADE-DE-POINTES; ISCHEMIC-HEART-DISEASE; EARLY AFTERDEPOLARIZATIONS;
+   T-WAVE; FETAL MAGNETOCARDIOGRAM; MYOCARDIAL ABNORMALITY; TRANSMURAL
+   DISPERSION; CARDIAC-ARRHYTHMIA; CELLULAR BASIS; DIAGNOSIS
+AB The aim of this study is to detect the spatial current dispersion that appears in the T-wave of patients with congenital long-QT syndrome (LQTS). To observe this dispersion, magnetocardiograms (MCGs)-which have a high spatial resolution-of LQT1 patients (n = 7), LQT2 patients (n = 9) and a control group (n = 3 3) were recorded. The dispersion was evaluated by plotting current-arrow maps (CAMs) calculated from the MCG signals. In the case of LQT1, abnormal current arrows in the CAMs appeared above the inferior part of the heart in two LQT1 patients with a long corrected QT interval (QTc) (>0.6), and the current direction was from the left (origin side) to the right ventricular muscle (110degrees). In six out of nine LQT2 patients, abnormal current arrows with angles below 20degrees were observed above the right inferior part or lower septum; the current direction was from the right (origin side) to the left ventricular muscle. However, in the case of the LQT2 patients, the QTc values did not correlate with the abnormal current. These findings suggest that the origin of abnormal repolarization in LQT1 is the left ventricular muscle and the origin of that in LQT2 is the right ventricular muscle or lower septum. The estimation of the origin in LQTS patients can provide important information such as the risk factor of sudden death.
+C1 Hitachi Ltd, Cent Res Lab, Kokubunji, Tokyo 1858601, Japan.
+   Natl Cardiovasc Ctr, Osaka, Japan.
+   Hitachi High Technol, Ibaraki, Japan.
+RP Kandori, A (reprint author), Hitachi Ltd, Cent Res Lab, 1-280 Higashi Koigakubo, Kokubunji, Tokyo 1858601, Japan.
+CR CURRAN ME, 1995, CELL, V80, P795, DOI 10.1016/0092-8674(95)90358-5
+   Fujiki A, 2001, JPN CIRC J, V65, P1087, DOI 10.1253/jcj.65.1087
+   HAMALAINEN M, 1993, REV MOD PHYS, V65, P413, DOI 10.1103/RevModPhys.65.413
+   Hanninen H., 2000, Annals of Noninvasive Electrocardiology, V5, DOI 10.1111/j.1542-474X.2000.tb00380.x
+   Horigome H, 1999, INT J CARDIAC IMAG, V15, P331, DOI 10.1023/A:1006136525382
+   HOSAKA H, 1976, J ELECTROCARDIOL, V9, P426, DOI 10.1016/S0022-0736(76)80043-X
+   Kandori A, 2001, PHYSIOL MEAS, V22, P377, DOI 10.1088/0967-3334/22/2/309
+   Kandori A, 1999, MED BIOL ENG COMPUT, V37, P545, DOI 10.1007/BF02513346
+   Kandori A, 2001, MED BIOL ENG COMPUT, V39, P21, DOI 10.1007/BF02345262
+   Kandori A, 2001, MED BIOL ENG COMPUT, V39, P29, DOI 10.1007/BF02345263
+   Kandori A, 2002, MED BIOL ENG COMPUT, V40, P213, DOI 10.1007/BF02348127
+   Kandori A, 1999, REV SCI INSTRUM, V70, P4702, DOI 10.1063/1.1150133
+   Kurita T, 1997, PACE, V20, P695, DOI 10.1111/j.1540-8159.1997.tb03888.x
+   Miyashita T, 1998, P ANN INT IEEE EMBS, V20, P520
+   MOSS AJ, 1985, CIRCULATION, V71, P17
+   OHE T, 1990, JPN CIRC J, V54, P1323
+   Schmidt GJ, 1998, MED SCI SPORT EXER, V30, P105, DOI 10.1097/00005768-199801000-00015
+   SCHWARTZ PJ, 1975, AM HEART J, V89, P378, DOI 10.1016/0002-8703(75)90089-7
+   SHIMIZU W, 1995, J AM COLL CARDIOL, V26, P1299, DOI 10.1016/0735-1097(95)00313-4
+   SHIMIZU W, 1991, CIRCULATION, V84, P1915
+   Shimizu W, 1999, J CARDIOVASC ELECTR, V10, P154, DOI 10.1111/j.1540-8167.1999.tb00656.x
+   Shimizu W, 1998, CIRCULATION, V97, P1581
+   Shimizu W, 1997, CIRCULATION, V96, P2038
+   SHIMIZU W, 1994, J CARDIOVASC ELECTR, V5, P438, DOI 10.1111/j.1540-8167.1994.tb01183.x
+   Shimizu W, 1998, CIRCULATION, V98, P2314
+   Shimizu W, 1999, CIRCULATION, V99, P1499
+   Takala P, 2001, PHYS MED BIOL, V46, P975, DOI 10.1088/0031-9155/46/4/305
+   Tsukada K, 1999, J ELECTROCARDIOL, V32, P305, DOI 10.1016/S0022-0736(99)90001-8
+   Tsukada K, 2000, INT J CARDIAC IMAG, V16, P55, DOI 10.1023/A:1006376326755
+   Tsukada K, 1998, P ANN INT IEEE EMBS, V20, P524
+   Tsukada K, 2000, COMPUT CARDIOL, V27, P505
+   Vos MA, 2000, CARDIOVASC RES, V48, P421, DOI 10.1016/S0008-6363(00)00192-9
+   Wang Q, 1996, NAT GENET, V12, P17, DOI 10.1038/ng0196-17
+   WANG Q, 1995, CELL, V80, P805, DOI 10.1016/0092-8674(95)90359-3
+   Wilde AAM, 1999, J AM COLL CARDIOL, V33, P327, DOI 10.1016/S0735-1097(98)00578-6
+   YAMADA S, 2001, 12 INT C BIOM BIOM 2, P514
+   Yan GX, 1998, CIRCULATION, V98, P1928
+   ZIPES DP, 1991, CIRCULATION, V84, P1414
+NR 38
+TC 11
+Z9 11
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0967-3334
+J9 PHYSIOL MEAS
+JI Physiol. Meas.
+PD NOV
+PY 2002
+VL 23
+IS 4
+BP 603
+EP 614
+DI 10.1088/0967-3334/23/4/301
+PG 12
+WC Biophysics; Engineering, Biomedical; Physiology
+SC Biophysics; Engineering; Physiology
+GA 618MN
+UT WOS:000179422000002
+ER
+
+PT J
+AU Miyahara, T
+   Kanzaki, H
+   Hamada, R
+   Kuroiwa, S
+   Nishiyama, S
+   Tsuruya, S
+AF Miyahara, T
+   Kanzaki, H
+   Hamada, R
+   Kuroiwa, S
+   Nishiyama, S
+   Tsuruya, S
+TI Liquid-phase oxidation of benzene to phenol by CuO-Al2O3 catalysts
+   prepared by co-precipitation method
+SO JOURNAL OF MOLECULAR CATALYSIS A-CHEMICAL
+LA English
+DT Article
+DE benzene oxidation; phenol; CuO-Al2O3; ascorbic acid; H2O2; supported Cu
+   catalysts; acetic acid
+ID MOLECULAR-OXYGEN; HYDROGEN-PEROXIDE; NITROUS-OXIDE; HYDROXYLATION; ACID
+AB The liquid-phase catalytic oxidation of benzene to directly produce phenol was attempted under mild reaction conditions using supported Cu catalysts in aqueous acetic acid solvent. Gaseous oxygen and ascorbic acid were used as an oxidant and a reductant, respectively. Among the supported Cu catalysts studied, the Cu catalysts prepared by the impregnation method, irrespective of the oxide supports, the Cu species were considerably leached during the benzene oxidation. A supported Cu catalyst (CuO-Al2O3) prepared by co-precipitation of Cu(NO3)(2).3H(2)O and Al(NO3)(2).3H(2)O inhibited the leaching of Cu species in comparison with the Cu catalysts supported by the impregnation method on Al2O3, SiO2, MCM-41, etc. The influences of the amount of supported Cu, the partial pressure Of O-2, the amount of ascorbic acid, the concentration of acetic acid in the solvent, and the reaction temperature on the phenol yield were investigated using the CuO-Al2O3 catalyst. The aqueous solvent including high concentration of acetic acid (around 80 vol.%) dramatically inhibited the leaching of Cu species in the CuO-Al2O3 catalyst. H2O2, which is considered to play an important role in phenol formation, was detected during the benzene oxidation catalyzed by CuO-Al2O3. (C) 2001 Elsevier Science BN. All rights reserved.
+C1 Kobe Univ, Dept Sci & Chem Engn, Fac Engn, Kobe, Hyogo 6578501, Japan.
+   Kobe Univ, Grad Sch Sci & Technol, Div Mol Sci, Kobe, Hyogo 6578501, Japan.
+RP Tsuruya, S (reprint author), Kobe Univ, Dept Sci & Chem Engn, Fac Engn, Kobe, Hyogo 6578501, Japan.
+CR DIXON WT, 1964, J CHEM SOC, P4857, DOI 10.1039/jr9640004857
+   Haber F., 1934, P ROY SOC LOND A MAT, V147, P332, DOI 10.1098/rspa.1934.0221
+   Hafele M, 1997, APPL CATAL A-GEN, V150, P153, DOI 10.1016/S0926-860X(96)00283-9
+   HARI PR, 1993, APPL CATAL A-GEN, V93, P123
+   ISHIBASHI M, 1965, TIERYOU BUNSEKI JIKK, P259
+   Ishida MA, 1999, J CHEM SOC PERK T 2, P847, DOI 10.1039/a808115h
+   Kuznetsova LI, 1996, J MOL CATAL A-CHEM, V111, P81, DOI 10.1016/1381-1169(96)00207-5
+   Nomiya K, 1996, J MOL CATAL A-CHEM, V114, P181, DOI 10.1016/S1381-1169(96)00316-0
+   OHTANI T, 1995, J CATAL, V155, P158, DOI 10.1006/jcat.1995.1198
+   OHTANI T, 1993, P 10 INT C CAT BUD 1, P1999
+   Okamura J, 1998, J MOL CATAL A-CHEM, V135, P133, DOI 10.1016/S1381-1169(97)00298-7
+   Passoni LC, 1997, J MOL CATAL A-CHEM, V120, P117, DOI 10.1016/S1381-1169(96)00440-2
+   Seo YJ, 1997, J MOL CATAL A-CHEM, V120, P149, DOI 10.1016/S1381-1169(96)00426-8
+   SHTAMM EV, 1979, INT J CHEM KINET, V11, P461, DOI 10.1002/kin.550110503
+   Sobolev VI, 1996, APPL CATAL A-GEN, V141, P185, DOI 10.1016/0926-860X(96)00055-5
+NR 15
+TC 71
+Z9 74
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1381-1169
+J9 J MOL CATAL A-CHEM
+JI J. Mol. Catal. A-Chem.
+PD NOV 20
+PY 2001
+VL 176
+IS 1-2
+BP 141
+EP 150
+DI 10.1016/S1381-1169(01)00242-4
+PG 10
+WC Chemistry, Physical
+SC Chemistry
+GA 489LQ
+UT WOS:000171993200017
+ER
+
+PT J
+AU Kanzaki, H
+   Imura, D
+   Nitoda, T
+   Kawazu, K
+AF Kanzaki, H
+   Imura, D
+   Nitoda, T
+   Kawazu, K
+TI Enzymatic dehydrogenation of cyclo(L-Phe-L-Leu) to a bioactive
+   derivative, albonoursin
+SO JOURNAL OF MOLECULAR CATALYSIS B-ENZYMATIC
+LA English
+DT Article
+DE bioconversion; dehydrodiketopiperazines; cyclic dipeptide;
+   dioxopiperazine; piprazinedione
+AB The cell-free extract of Streptomyces sp. KO-2388, an albonoursin-producing strain, was found to catalyze the conversion of cyclo(L-Phe-L-Leu) to albonoursin. The conversion activity was simply determined by measuring the increase in ultraviolet (UV) absorption of the reaction mixture at 317 nm, lambda(max) (epsilon 25,400) of albonoursin, where cyclo(L-Phe-L-Leu) had no absorption. The optimum pH and temperature of this bioconversion using the cell-free extract were determined to be pH 8.0-9.5 and 60 degrees C, respectively. Under the optimum conditions, 620 mg/l of albonoursin was obtained with a conversion ratio of 62% after 24 h incubation. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Okayama Univ, Fac Agr, Lab Bioresources Chem, Okayama 7008530, Japan.
+RP Kanzaki, H (reprint author), Okayama Univ, Fac Agr, Lab Bioresources Chem, Okayama 7008530, Japan.
+CR BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1006/abio.1976.9999
+   FUKUSHIM.K, 1973, J ANTIBIOT, V26, P175
+   KANZAKI H, UNPUB
+   KOBAYASHI A, 1989, TENNEN YUKI KAGOBUTS, P51
+   KOPPLE KD, 1968, J ORG CHEM, V33, P862, DOI 10.1021/jo01266a090
+   Sammes P G, 1975, Fortschr Chem Org Naturst, V32, P51
+   SHIN C, 1967, TETRAHEDRON LETT, P4601
+   SHIN C, 1969, B CHEM SOC JPN, V42, P191, DOI 10.1246/bcsj.42.191
+   SHIN CG, 1977, TETRAHEDRON LETT, P863
+   SHIN CG, 1967, J ORG CHEM, V32, P1860, DOI 10.1021/jo01281a035
+NR 10
+TC 15
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1381-1177
+J9 J MOL CATAL B-ENZYM
+JI J. Mol. Catal. B-Enzym.
+PD MAR 11
+PY 1999
+VL 6
+IS 3
+BP 265
+EP 270
+DI 10.1016/S1381-1177(98)00079-4
+PG 6
+WC Biochemistry & Molecular Biology; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Chemistry
+GA 168FV
+UT WOS:000078681800014
+ER
+
+PT J
+AU Kanzaki, H
+   Tadakuma, Y
+AF Kanzaki, H
+   Tadakuma, Y
+TI Luminescence and luminescence-modulation studies on chemical sensitizer
+   centers in emulsion grains of silver bromide
+SO JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS
+LA English
+DT Article
+DE inorganic compounds; chemical synthesis; defects; luminescence; optical
+   properties
+ID IDENTIFICATION; HALIDES
+AB Electronic process at chemical sensitizer centers in AgBr emulsion grains is studied by luminescence and luminescence-modulation spectroscopy at low temperature. All the sensitizer-induced luminescences are concluded as the radiative decay of bound exciton with a common feature; shallow bound electron in the Coulomb field of trapped hole at the sensitizer center; In addition to the prompt luminescence due to exciton decay, delayed luminescence is expected due to tunnelling recombination of distant-pair of trapped electron and hole, and photoexcitation of such slow-decaying states results in luminescence-modulation. In sulfur sensitization, the trapped electron-hole pair located at distant sulfur-dimer centers is responsible for luminescence-modulation. A new structure model is proposed for sulfur-dimer center and an estimate is made on the concentration of sulfur cluster centers, the dissociation of which is concluded as the main feature of plus-gold effects. Relaxation precesses of photoexcited states at low and room temperatures are successfully described in terms of a configuration coordinate diagram. (C) 1997 Elsevier Science Limited. All rights reserved.
+RP Kanzaki, H (reprint author), FUJI PHOTO FILM CO LTD,ASHIGARA RES LABS,MINAMIASHIGARA,KANAGAWA 25001,JAPAN.
+CR BABCOCK TA, 1975, PHOTOGR SCI ENG, V19, P49
+   BAETZOLD RC, 1995, J PHYS-CONDENS MAT, V7, P3991, DOI 10.1088/0953-8984/7/21/001
+   HAMILTON JF, 1988, J IMAGING SCI, V32, P17
+   HAMILTON JF, 1988, ADV PHYS, V37, P359, DOI 10.1080/00018738800101399
+   HOHNE M, 1967, PHYS STATUS SOLIDI, V20, P667, DOI 10.1002/pssb.19670200229
+   KANZAKI H, 1969, J PHYS SOC JPN, V27, P109, DOI 10.1143/JPSJ.27.109
+   KANZAKI H, 1984, J PHOTOGR SCI, V32, P117
+   KANZAKI H, 1994, J PHYS CHEM SOLIDS, V55, P631, DOI 10.1016/0022-3697(94)90063-9
+   KOSWIG HD, 1957, Z PHYS, V49, P204
+   LIDIARD AB, 1954, PHYS REV, V94, P29, DOI 10.1103/PhysRev.94.29
+   McWeeny R, 1979, COULSONS VALENCE
+   MILFUNE H, UNPUB
+   MULLER P, 1965, PHYS STATUS SOLIDI, V12, P775, DOI 10.1002/pssb.19650120223
+   MUMAW CT, 1980, PHOTOGR SCI ENG, V24, P77
+   SAKURAGI S, 1977, PHYS REV LETT, V38, P1302, DOI 10.1103/PhysRevLett.38.1302
+   STONEHAM AM, 1975, THEORY DEFECTS SOLID, pCH26
+   STONEHAM AM, 1975, THEORY DEFECTS SOLID, pCH25
+   THOMAS DG, 1965, PHYS REV, V140, pA202, DOI 10.1103/PhysRev.140.A202
+   UETA M, 1986, EXITONIC PROCESSES S, pCH6
+   VOLKE C, 1954, Z PHYS, V138, P623, DOI 10.1007/BF01333530
+NR 20
+TC 20
+Z9 21
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0022-3697
+J9 J PHYS CHEM SOLIDS
+JI J. Phys. Chem. Solids
+PD FEB
+PY 1997
+VL 58
+IS 2
+BP 221
+EP 233
+DI 10.1016/S0022-3697(96)00121-7
+PG 13
+WC Chemistry, Multidisciplinary; Physics, Condensed Matter
+SC Chemistry; Physics
+GA WF664
+UT WOS:A1997WF66400005
+ER
+
+PT J
+AU KANZAKI, H
+   TADAKUMA, Y
+AF KANZAKI, H
+   TADAKUMA, Y
+TI ELECTRONIC PROCESSES IN CHEMICALLY-SENSITIZED EMULSION GRAINS OF SILVER
+   BROMIDE
+SO JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS
+LA English
+DT Article
+DE SILVER HALIDE; PHOTOGRAPHIC SENSITIVITY; CHEMICAL SENSITIZATION;
+   MODULATION SPECTROSCOPY; LATENT-IMAGE FORMATION
+ID HALIDES; CRYSTALS; IDENTIFICATION; CENTERS; HOLES
+AB Microscopic information on the localized electronic states in chemically sensitized emulsion grains of silver bromide is obtained by luminescence-modulation spectroscopy at liquid helium temperature. Electronic functions of chemical sensitization which is absolutely necessary for the high photographic sensitivity are twofold. One is the formation of hole-trap to suppress electron-hole recombination in the case of reduction- and hydrogen-sensitization. The other is the formation of a deep electron-trap to trigger the nucleation of latent-image in the sulfur- and sulfur-plus-gold-sensitization. The electron-trap essential for sulfur-sensitization is concluded to be due to the dimer of the (substitutional sulfur - interstitial silver) complex. A structural model and mechanism of deep electron-trapping are proposed for the sulfur dimer center, and the latent-image nucleation process is discussed for sulfur-sensitized emulsions.
+RP KANZAKI, H (reprint author), FUJI PHOTO FILM CO LTD,ASHIGARA RES LABS,MINAMIASHIGARA,KANAGAWA 25001,JAPAN.
+CR BERRY CR, 1962, PHOTOGR SCI ENG, V6, P159
+   COOK JS, 1962, P PHYS SOC LOND, V80, P479, DOI 10.1088/0370-1328/80/2/315
+   DERI RJ, 1982, J PHYS D APPL PHYS, V15, P1059, DOI 10.1088/0022-3727/15/6/015
+   Eachus R.S., 1989, Crystal Lattice Defects and Amorphous Materials, V18
+   FAYET P, 1985, PHYS REV LETT, V55, P3002, DOI 10.1103/PhysRevLett.55.3002
+   FOWLER WB, 1972, PHYS STATUS SOLIDI B, V52, P591, DOI 10.1002/pssb.2220520227
+   Friauf R.J., 1984, Physics of Latent Image Formation in Silver Halides. Proceedings  of an International Symposium
+   Gurney RW, 1938, PROC R SOC LON SER-A, V164, P0151
+   HAMILTON JF, 1988, ADV PHYS, V37, P359, DOI 10.1080/00018738800101399
+   HIRANO A, 1979, ANN M PHOT SOC JPN, P52
+   ITOH N, 1990, J PHYS CHEM SOLIDS, V51, P717, DOI 10.1016/0022-3697(90)90145-6
+   KANEDA T, 1991, J IMAGING SCI, V35, P293
+   KANZAKI H, UNPUB
+   KANZAKI H, 1984, PHYS REV B, V29, P3573, DOI 10.1103/PhysRevB.29.3573
+   KANZAKI H, 1993, DEFECTS INSULATING M, V1, P310
+   Kanzaki H., 1990, Reviews of Solid State Science, V4
+   KANZAKI H, 1969, J PHYS SOC JPN, V27, P109, DOI 10.1143/JPSJ.27.109
+   KANZAKI H, 1984, J PHOTOGR SCI, V32, P117
+   KANZAKI H, 1973, PHOTOGR SCI ENG, V17, P69
+   KANZAKI H, 1991, SOLID STATE COMMUN, V80, P33, DOI 10.1016/0038-1098(91)90593-K
+   KANZAKI H, 1980, PHOTOGR SCI ENG, V24, P219
+   KELLOGG LM, 1974, PHOTOGR SCI ENG, V18, P378
+   LAX M, 1960, PHYS REV, V119, P1502, DOI 10.1103/PhysRev.119.1502
+   LEVINE JD, 1965, PHYS REV, V140, pA586, DOI 10.1103/PhysRev.140.A586
+   MCWEENY R, 1979, COULSONS VALENCE, P86
+   MITCHELL JW, 1983, PHOTOGR SCI ENG, V27, P96
+   MITCHELL JW, 1982, PHOTOGR SCI ENG, V26, P270
+   MULLER P, 1965, PHYS STATUS SOLIDI, V12, P775, DOI 10.1002/pssb.19650120223
+   SAKURAGI S, 1977, PHYS REV LETT, V38, P1302, DOI 10.1103/PhysRevLett.38.1302
+   SAUNDERS VI, 1985, J PHOTOGR SCI, V33, P135
+   SCOP PM, 1965, PHYS REV, V139, pA934, DOI 10.1103/PhysRev.139.A934
+   SPENCER HE, 1983, J PHOTOGR SCI, V31, P158
+   TADAKUMA Y, 1990, ANN C SOC PHOT SCI T, P98
+   TAKADA S, 1981, J SOC PHOTOGR SCI TE, V44, P81
+   TAKADA S, 1973, JPN J APPL PHYS, V12, P190, DOI 10.1143/JJAP.12.190
+   Teltow J., 1950, Zeitschrift fur Physikalische Chemie, V195
+   THOMAS DG, 1965, PHYS REV, V140, pA202, DOI 10.1103/PhysRev.140.A202
+   TOYOZAWA Y, 1983, PHYSICA B & C, V116, P7, DOI 10.1016/0378-4363(83)90219-X
+   TSUKAKOS.M, 1971, J PHYS SOC JPN, V30, P1423, DOI 10.1143/JPSJ.30.1423
+   UETA M, 1986, EXITONIC PROCESSES S, pCH6
+   YOSHIDA Y, 1992, ANN M SOC PHO SCI TE, P50
+   YOSHIDA Y, COMMUNICATION
+NR 42
+TC 32
+Z9 34
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0022-3697
+J9 J PHYS CHEM SOLIDS
+JI J. Phys. Chem. Solids
+PD JUL
+PY 1994
+VL 55
+IS 7
+BP 631
+EP 645
+DI 10.1016/0022-3697(94)90063-9
+PG 15
+WC Chemistry, Multidisciplinary; Physics, Condensed Matter
+SC Chemistry; Physics
+GA PB774
+UT WOS:A1994PB77400012
+ER
+
+PT J
+AU KAYASTHA, AM
+   SAWA, Y
+   NAGATA, S
+   KANZAKI, H
+   MILES, EW
+AF KAYASTHA, AM
+   SAWA, Y
+   NAGATA, S
+   KANZAKI, H
+   MILES, EW
+TI CIRCULAR-DICHROISM STUDIES OF THE COENZYME ENVIRONMENT IN THE
+   ACTIVE-SITES OF MUTANT FORMS OF THE BETA-SUBUNIT IN THE TRYPTOPHAN
+   SYNTHASE ALPHA-2-BETA-2 COMPLEX
+SO INDIAN JOURNAL OF BIOCHEMISTRY & BIOPHYSICS
+LA English
+DT Article
+AB The circular dichroism has been used to evaluate the effect of mutation on the environment of the pyridoxal phosphate coenzyme in the active site of the beta-subunit in the tryptophan synthase alpha-2-beta-2-complex from Salmonella typhimurium.  Seven mutant forms of the alpha-2-beta-2-complex with single amino acid replacements at residues 87, 109, 188, 306, and 350 of the beta-subunit have been prepared by site-directed mutagenesis, purified to homogeneity, and characterized by absorption and circular dichroism spectroscopy.  Since the wild type and mutant alpha-2-beta-2-complexes all exhibit positive circular dichroism in the coenzyme absorption band, pyridoxal phosphate must bind asymmetrically in the active site of these enzymes.  However, the coenzyme may have an altered orientation or active site environment in five of the mutant enzymes that display less intense ellipticity bands.  The mutant enzyme in which lysine 87 is replaced by threonine has very weak ellipticity at 400 nm.  Since lysine 87 forms a Schiff base with pyridoxal phosphate in wild type enzyme, our results demonstrate the importance of the Schiff base linkage for rigid or asymmetric binding.  Although the mutant enzymes display spectra in the presence of L-serine that differ from that of the wild type enzyme, addition of alpha-glycerol 3-phosphate converts the spectra of two of the mutant enzymes to that of the wild type enzyme.  We conclude that this alpha-subunit ligand may produce a conformational change in the alpha-subunit that is transmitted to the mutant beta-subunits and partially corrects conformational alterations in the mutant enzymes.
+C1 NIADDKD,BIOCHEM PHARMACOL LAB,BLDG 8,ROOM 2A-09,BETHESDA,MD 20892.
+NR 0
+TC 7
+Z9 7
+PU COUNCIL SCIENTIFIC INDUSTRIAL RESEARCH
+PI NEW DELHI
+PA PUBL & INFO DIRECTORATE, NEW DELHI 110012, INDIA
+SN 0301-1208
+J9 INDIAN J BIOCHEM BIO
+JI Indian J. Biochem. Biophys.
+PD OCT-DEC
+PY 1991
+VL 28
+IS 5-6
+BP 352
+EP 357
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA GR718
+UT WOS:A1991GR71800008
+ER
+
+PT J
+AU KANZAKI, H
+   TADAKUMA, Y
+AF KANZAKI, H
+   TADAKUMA, Y
+TI INDIRECT-EXCITON CONFINEMENT AND IMPURITY ISOLATION IN ULTRAFINE
+   PARTICLES OF SILVER BROMIDE
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+ID SEMICONDUCTOR MICROCRYSTALS; LUMINESCENCE SPECTRA; SIZE; AGBR; HALIDES;
+   ALKALI; SHAPE
+AB Photoluminescence of ultrafine particles of AgBr with diameters between 7.9 and 21.6 nm revealed two interesting effects associated with the decrease of particle size.  One is an enhancement of indirect exciton luminescence, and the other is a unique high energy shift of the exciton band.  These observations are discussed, in terms of the mixing of direct-exciton character due to quantum-confinement of indirect-exciton and the isolation of impurities from majority of the particles.
+RP KANZAKI, H (reprint author), FUJI PHOTO FILM CO LTD,ASHIGARA RES LABS,MINAMI ASHIGARA,KANAGAWA 25001,JAPAN.
+CR BABA T, 1987, J PHYS SOC JPN, V56, P2549, DOI 10.1143/JPSJ.56.2549
+   EKIMOV AI, 1985, SOLID STATE COMMUN, V56, P921, DOI 10.1016/S0038-1098(85)80025-9
+   HANAMURA E, 1988, PHYS REV B, V37, P1273, DOI 10.1103/PhysRevB.37.1273
+   ITOH T, 1988, PHYS STATUS SOLIDI B, V145, P567, DOI 10.1002/pssb.2221450222
+   KANZAKI H, 1969, J PHYS SOC JPN, V27, P109, DOI 10.1143/JPSJ.27.109
+   KANZAKI H, 1970, J PHYS SOC JPN, V29, P924, DOI 10.1143/JPSJ.29.924
+   KAYANUMA Y, 1988, PHYS REV B, V38, P9797, DOI 10.1103/PhysRevB.38.9797
+   KAWATE E, 1988, J PHYS SOC JPN, V57, P1814, DOI 10.1143/JPSJ.57.1814
+   MASUMOTO Y, COMMUNICATION
+   ROSSETTI R, 1985, J CHEM PHYS, V83, P1406, DOI 10.1063/1.449407
+   SHIOZAWA T, 1987, PHYS STATUS SOLIDI A, V104, P649, DOI 10.1002/pssa.2211040216
+   TOYOZAWA Y, COMMUNICATION
+   UETA M, 1986, EXITONIC PROCESSES S, pCH6
+   YANAGIHARA M, 1983, J PHYS SOC JPN, V52, P4397, DOI 10.1143/JPSJ.52.4397
+NR 14
+TC 38
+Z9 38
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PD OCT
+PY 1991
+VL 80
+IS 1
+BP 33
+EP 36
+DI 10.1016/0038-1098(91)90593-K
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA GK853
+UT WOS:A1991GK85300008
+ER
+
+PT J
+AU KANZAKI, H
+   MCPHIE, P
+   MILES, EW
+AF KANZAKI, H
+   MCPHIE, P
+   MILES, EW
+TI EFFECT OF SINGLE AMINO-ACID SUBSTITUTIONS AT POSITION-49 AND POSITION-60
+   ON THE THERMAL UNFOLDING OF THE TRYPTOPHAN SYNTHASE-ALPHA SUBUNIT FROM
+   SALMONELLA-TYPHIMURIUM
+SO ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS
+LA English
+DT Article
+ID 2 MUTANT PROTEINS; ALPHA-SUBUNIT; ESCHERICHIA-COLI; BETA-SUBUNIT;
+   CONFORMATIONAL STABILITY; CATALYTIC RESIDUE; UNIQUE POSITION; WILD-TYPE;
+   FRAGMENTS; SITE
+C1 NIDDKD,BIOCHEM PHARMACOL LAB,BLDG 8,ROOM 2A-09,BETHESDA,MD 20892.
+   NIDDKD,BIOCHEM & METAB LAB,BETHESDA,MD 20892.
+CR BEASTY AM, 1986, BIOCHEMISTRY-US, V25, P2965, DOI 10.1021/bi00358a035
+   BEASTY AM, 1985, BIOCHEMISTRY-US, V24, P3547, DOI 10.1021/bi00335a024
+   CHEN GC, 1977, ANAL LETT, V10, P1195
+   CRAWFORD IP, 1987, PROTEINS, V2, P118, DOI 10.1002/prot.340020206
+   CRISANTI MM, 1981, BIOCHEMISTRY-US, V20, P2700, DOI 10.1021/bi00512a052
+   HADERO A, 1986, MOL BIOL EVOL, V3, P191
+   HIGGINS W, 1979, BIOCHEMISTRY-US, V18, P4827, DOI 10.1021/bi00589a010
+   HURLE MR, 1986, BIOCHEMISTRY-US, V25, P6356, DOI 10.1021/bi00369a002
+   HYDE CC, 1988, J BIOL CHEM, V263, P17857
+   IBEL K, 1985, EUR J BIOCHEM, V151, P505, DOI 10.1111/j.1432-1033.1985.tb09131.x
+   KAWASAKI H, 1987, J BIOL CHEM, V262, P10678
+   KNOTT GD, 1979, COMPUT PROG BIOMED, V10, P271, DOI 10.1016/0010-468X(79)90075-8
+   MATTHEWS CR, 1981, BIOCHEMISTRY-US, V20, P784, DOI 10.1021/bi00507a021
+   MATTHEWS CR, 1983, BIOCHEMISTRY-US, V22, P1445, DOI 10.1021/bi00275a019
+   MATTHEWS CR, 1980, BIOCHEMISTRY-US, V19, P1290, DOI 10.1021/bi00548a004
+   MCPHIE P, 1982, BIOCHEMISTRY-US, V21, P5509, DOI 10.1021/bi00265a020
+   Miles E W, 1979, Adv Enzymol Relat Areas Mol Biol, V49, P127
+   MILES EW, 1982, BIOCHEMISTRY-US, V21, P2586, DOI 10.1021/bi00540a002
+   MILES EW, 1986, PYRIDOXAL PHOSPHATE, P253
+   MILES EW, 1989, J BIOL CHEM, V264, P6280
+   MILES EW, 1988, J BIOL CHEM, V263, P8611
+   MILES EW, 1987, BIOCH VITAMIN B6, P73
+   NAGATA S, 1989, J BIOL CHEM, V264, P6288
+   OGASAHARA K, 1984, INT J PEPT PROT RES, V24, P147
+   PRIVALOV PL, 1974, J MOL BIOL, V86, P665, DOI 10.1016/0022-2836(74)90188-0
+   Privalov P L, 1979, Adv Protein Chem, V33, P167, DOI 10.1016/S0065-3233(08)60460-X
+   PTITSYN OB, 1987, J PROTEIN CHEM, V6, P273
+   SANTORO MM, 1988, BIOCHEMISTRY-US, V27, P8063, DOI 10.1021/bi00421a014
+   SHORTLE D, 1989, BIOCHEMISTRY-US, V28, P936, DOI 10.1021/bi00429a003
+   SHORTLE D, 1986, Proteins Structure Function and Genetics, V1, P81, DOI 10.1002/prot.340010113
+   STACKHOUSE TM, 1988, BIOCHEMISTRY-US, V27, P824, DOI 10.1021/bi00402a050
+   SUGISAKI Y, 1990, THERMOCHIM ACTA, V163, P117, DOI 10.1016/0040-6031(90)80386-D
+   TWEEDY NB, 1990, BIOCHEMISTRY-US, V29, P1539, DOI 10.1021/bi00458a027
+   YANOFSKY CHARLES, 1967, COLD SPRING HARBOR SYMP QUANT BIOL, V31, P151
+   YANOFSKY C, 1971, J AMER MED ASSOC, V218, P1026, DOI 10.1001/jama.218.7.1026
+   Yanofsky C., 1972, ENZYMES, P1
+   YUTANI K, 1987, BIOCHEMISTRY-US, V26, P5666, DOI 10.1021/bi00392a013
+   YUTANI K, 1987, J BIOL CHEM, V262, P13429
+   YUTANI K, 1982, INT J PEPT PROT RES, V20, P331
+   YUTANI K, 1980, J BIOCHEM-TOKYO, V87, P117
+   YUTANI K, 1984, ARCH BIOCHEM BIOPHYS, V229, P448, DOI 10.1016/0003-9861(84)90174-7
+   YUTANI K, 1984, J BIOL CHEM, V259, P4076
+   YUTANI K, 1987, P NATL ACAD SCI USA, V84, P4441, DOI 10.1073/pnas.84.13.4441
+   YUTANI K, 1980, J MOL BIOL, V144, P455, DOI 10.1016/0022-2836(80)90331-9
+NR 44
+TC 14
+Z9 14
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0003-9861
+J9 ARCH BIOCHEM BIOPHYS
+JI Arch. Biochem. Biophys.
+PD JAN
+PY 1991
+VL 284
+IS 1
+BP 174
+EP 180
+DI 10.1016/0003-9861(91)90280-V
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA ER531
+UT WOS:A1991ER53100028
+ER
+
+PT J
+AU SHIN, S
+   SUGA, S
+   TANIGUCHI, M
+   FUJISAWA, M
+   KANZAKI, H
+   FUJIMORI, A
+   DAIMON, H
+   UEDA, Y
+   KOSUGE, K
+   KACHI, S
+AF SHIN, S
+   SUGA, S
+   TANIGUCHI, M
+   FUJISAWA, M
+   KANZAKI, H
+   FUJIMORI, A
+   DAIMON, H
+   UEDA, Y
+   KOSUGE, K
+   KACHI, S
+TI VACUUM-ULTRAVIOLET REFLECTANCE AND PHOTOEMISSION-STUDY OF THE
+   METAL-INSULATOR PHASE-TRANSITIONS IN VO2, V6O13, AND V2O3
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+   UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+   KYOTO UNIV,FAC SCI,DEPT CHEM,SAKYO KU,KYOTO 606,JAPAN.
+RP SHIN, S (reprint author), TOHOKU UNIV,SCI MEASUREMENTS RES INST,2-1-1 KATAHIRA,SENDAI,MIYAGI 980,JAPAN.
+CR ADLER D, 1968, REV MOD PHYS, V40, P714, DOI 10.1103/RevModPhys.40.714
+   ASHKENAZ.J, 1973, ADV PHYS, V22, P207, DOI 10.1080/00018737300101289
+   ASHKENAZI J, 1976, J PHYS-PARIS, V37, P189
+   BEATHAM N, 1980, J CHEM SOC FARAD T 2, V76, P929, DOI 10.1039/f29807600929
+   BERTEL E, 1983, PHYS REV B, V27, P1939, DOI 10.1103/PhysRevB.27.1939
+   BERTEL E, 1985, PHYS REV B, V31, P2022
+   BERTEL E, 1984, SURF SCI, V141, P355, DOI 10.1016/0039-6028(84)90137-7
+   BIANCONI A, 1981, PHYS REV B, V24, P4406, DOI 10.1103/PhysRevB.24.4406
+   BLAAUW C, 1975, J PHYS C SOLID STATE, V8, P459, DOI 10.1088/0022-3719/8/4/014
+   BRINGANS RD, 1984, PHYS REV B, V30, P5416, DOI 10.1103/PhysRevB.30.5416
+   CARUTHER.E, 1973, PHYS REV B, V7, P3753, DOI 10.1103/PhysRevB.7.3753
+   CASTELLANI C, 1978, PHYS REV B, V18, P5001, DOI 10.1103/PhysRevB.18.5001
+   CASTELLANI C, 1978, PHYS REV B, V18, P4967, DOI 10.1103/PhysRevB.18.4967
+   CASTELLANI C, 1978, PHYS REV B, V18, P4945, DOI 10.1103/PhysRevB.18.4945
+   DAVIS LC, 1986, J APPL PHYS, V59, pR25, DOI 10.1063/1.336323
+   DEBOER DKG, 1984, PHYS REV B, V29, P4401, DOI 10.1103/PhysRevB.29.4401
+   DEHMER JL, 1971, PHYS REV LETT, V26, P1521, DOI 10.1103/PhysRevLett.26.1521
+   DERBENWICK GF, 1970, THESIS STANFORD U
+   DHAENENS JP, 1975, J PHYS C SOLID STATE, V8, P2267, DOI 10.1088/0022-3719/8/14/009
+   DISSANAYAKE MAK, 1977, THESIS INDIANA U
+   FAN JCC, 1972, THESIS HARVARD U
+   Fiermans L., 1975, Surface Science, V47, DOI 10.1016/0039-6028(75)90267-8
+   FIERMANS L, 1980, PHYS STATUS SOLIDI A, V59, P485, DOI 10.1002/pssa.2210590211
+   FUJIMORI A, 1984, PHYS REV B, V30, P957, DOI 10.1103/PhysRevB.30.957
+   FUJIMORI A, 1986, PHYS REV B, V34, P7318, DOI 10.1103/PhysRevB.34.7318
+   GAVINI A, 1972, PHYS REV B, V5, P3138, DOI 10.1103/PhysRevB.5.3138
+   GERVAIS F, 1985, PHYS REV B, V31, P4809, DOI 10.1103/PhysRevB.31.4809
+   GOODENOU.JB, 1971, J SOLID STATE CHEM, V3, P490, DOI 10.1016/0022-4596(71)90091-0
+   GOSSARD AC, 1974, PHYS REV B, V10, P4178, DOI 10.1103/PhysRevB.10.4178
+   GUPTA M, 1977, PHYS REV B, V16, P3338, DOI 10.1103/PhysRevB.16.3338
+   GUPTA M, 1976, PHYS REV B, V13, P3405, DOI 10.1103/PhysRevB.13.3405
+   LADD LA, 1969, SOLID STATE COMMUN, V7, P425, DOI 10.1016/0038-1098(69)90888-6
+   LAMBRECHT W, 1980, J PHYS C SOLID STATE, V13, P2485, DOI 10.1088/0022-3719/13/13/007
+   LINDBERG PAP, 1987, PHYS REV B, V36, P939, DOI 10.1103/PhysRevB.36.939
+   LINDSTROM J, 1987, PHYS REV B, V36, P9514, DOI 10.1103/PhysRevB.36.9514
+   MCWHAN DB, 1974, PHYS REV B, V10, P490, DOI 10.1103/PhysRevB.10.490
+   MOKEROV VG, 1969, FIZ TVERD TELA+, V11, P150
+   MOKEROV VG, 1976, OPT SPEKTROSK+, V40, P104
+   MOLENDA J, 1989, SOLID STATE IONICS, V36, P43, DOI 10.1016/0167-2738(89)90057-X
+   Mott N. F, 1974, METAL INSULATOR TRAN
+   PAQUET D, 1980, PHYS REV B, V22, P5284, DOI 10.1103/PhysRevB.22.5284
+   POUGET JP, 1974, PHYS REV B, V10, P1801, DOI 10.1103/PhysRevB.10.1801
+   POWELL RJ, 1969, PHYS REV, V178, P1410, DOI 10.1103/PhysRev.178.1410
+   ROSEVEAR WH, 1972, PHYS REV B, V7, P2109
+   SAWATZKY GA, 1979, PHYS REV B, V20, P1546, DOI 10.1103/PhysRevB.20.1546
+   SAWATZKY GA, 1984, PHYS REV LETT, V53, P2339, DOI 10.1103/PhysRevLett.53.2339
+   SHIN S, 1982, J PHYS SOC JPN, V51, P906, DOI 10.1143/JPSJ.51.906
+   SHIN S, UNPUB
+   SHUKER P, 1976, PHYS REV B, V14, P2211, DOI 10.1103/PhysRevB.14.2211
+   SMITH KE, 1988, PHYS REV B, V38, P5965, DOI 10.1103/PhysRevB.38.5965
+   SMITH KE, 1988, PHYS REV B, V38, P9571, DOI 10.1103/PhysRevB.38.9571
+   SOMMERS C, 1975, J PHYS LETT-PARIS, V36, pL157
+   SOMMERS C, 1978, SOLID STATE COMMUN, V28, P133, DOI 10.1016/0038-1098(78)90343-5
+   SRIVASTA.R, 1971, PHYS REV LETT, V27, P727, DOI 10.1103/PhysRevLett.27.727
+   SUGER J, 1972, PHYS REV B, V5, P1785
+   TAKANASHI K, 1983, J PHYS SOC JPN, V52, P3953, DOI 10.1143/JPSJ.52.3953
+   UEDA Y, 1986, SOLID STATE COMMUN, V57, P839, DOI 10.1016/0038-1098(86)90188-2
+   VASUDEVAN S, 1978, SOLID STATE COMMUN, V27, P131, DOI 10.1016/0038-1098(78)90816-5
+   VERLEUR HW, 1968, PHYS REV, V172, P788, DOI 10.1103/PhysRev.172.788
+   WERTHEIM GK, 1975, MAGNETISM MAGNETIC M, P235
+   YAMAGUCHI T, 1982, J PHYS C SOLID STATE, V15, P2625, DOI 10.1088/0022-3719/15/12/012
+   YAMAGUCHI T, 1982, J PHYS C SOLID STATE, V15, P2641, DOI 10.1088/0022-3719/15/12/013
+   YAMAGUCHI T, 1981, A1159 U TOK I SOL ST
+   YEH JJ, 1985, ATOM DATA NUCL DATA, V32, P28
+   ZYLBERSZTEJN A, 1975, PHYS REV B, V11, P4383, DOI 10.1103/PhysRevB.11.4383
+NR 65
+TC 258
+Z9 258
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0163-1829
+J9 PHYS REV B
+JI Phys. Rev. B
+PD MAR 15
+PY 1990
+VL 41
+IS 8
+BP 4993
+EP 5009
+DI 10.1103/PhysRevB.41.4993
+PG 17
+WC Physics, Condensed Matter
+SC Physics
+GA CU944
+UT WOS:A1990CU94400014
+ER
+
+PT J
+AU KANZAKI, H
+   NAGASAWA, T
+   YAMADA, H
+AF KANZAKI, H
+   NAGASAWA, T
+   YAMADA, H
+TI INSIGHT INTO THE ACTIVE-SITE OF STREPTOMYCES CYSTATHIONINE GAMMA-LYASE
+   BASED ON THE RESULTS OF STUDIES ON ITS SUBSTRATE-SPECIFICITY
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+RP KANZAKI, H (reprint author), KYOTO UNIV,FAC AGR,DEPT AGR CHEM,KITASHIRAKAWA OIWAKECHO,SAKYO KU,KYOTO 606,JAPAN.
+CR ELLMAN GL, 1961, BIOCHEM PHARMACOL, V7, P88, DOI 10.1016/0006-2952(61)90145-9
+   FLAVIN M, 1964, J BIOL CHEM, V239, P2220
+   Friedemann TE, 1943, J BIOL CHEM, V147, P415
+   GAITONDE MK, 1967, BIOCHEM J, V104, P626
+   KANZAKI H, 1986, AGR BIOL CHEM TOKYO, V50, P391
+   NAGASAWA T, 1984, J BIOL CHEM, V259, P393
+   ROY AB, 1964, J MOL BIOL, V20, P176
+   WALSH CT, 1971, J BIOL CHEM, V246, P6855
+   YAMADA H, 1984, J BIOTECHNOL, V1, P205, DOI 10.1016/0168-1656(84)90006-3
+NR 9
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PD MAY 27
+PY 1987
+VL 913
+IS 1
+BP 45
+EP 50
+DI 10.1016/0167-4838(87)90230-5
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA H5534
+UT WOS:A1987H553400006
+ER
+
+PT J
+AU KITAGAWA, M
+   KAJIWARA, H
+   KANZAKI, H
+   ZHANG, T
+AF KITAGAWA, M
+   KAJIWARA, H
+   KANZAKI, H
+   ZHANG, T
+TI CRACK-GROWTH UNDER STATIC AND CYCLIC LOADING IN HOT-STRETCHED PMMA
+SO JOURNAL OF MATERIALS SCIENCE
+LA English
+DT Article
+C1 BEIJING CHEM ENGN,DEPT MECH,BEIJING,PEOPLES R CHINA.
+RP KITAGAWA, M (reprint author), KANAZAWA UNIV,FAC ENVIRONM MED,DEPT MECH ENGN,KANAZAWA,ISHIKAWA 920,JAPAN.
+CR Ang DD, 1961, J APPLIED MECHANICS, V28, P372
+   ATKINS AG, 1975, J MATER SCI, V10, P1381, DOI 10.1007/BF00540829
+   Christensen R. M., 1971, THEORY VISCOELASTICI
+   DOLL W, 1979, INT J FRACTURE, V15, pR145
+   Hertzberg R. W., 1980, FATIGUE ENG PLASTICS
+   KISHIMOTO K, 1981, J JSME, V49, P347
+   Kitagawa M., 1980, Journal of the Society of Materials Science, Japan, V29
+   KNAUSS WG, 1970, INT J FRACT MECH, V6, P7
+   MARSHALL GP, 1970, PLAST POLYM, V38, P95
+   SCHAPERY RA, 1975, INT J FRACTURE, V11, P141, DOI 10.1007/BF00034721
+   TIROSH J, 1973, J APPL MECH-T ASME, V40, P785
+   WILLIAMS JG, 1975, P ROY SOC LOND A MAT, V342, P55, DOI 10.1098/rspa.1975.0012
+   WNUK MP, 1971, INT J FRACT MECH, V7, P383
+NR 13
+TC 1
+Z9 1
+PU CHAPMAN HALL LTD
+PI LONDON
+PA 2-6 BOUNDARY ROW, LONDON, ENGLAND SE1 8HN
+SN 0022-2461
+J9 J MATER SCI
+JI J. Mater. Sci.
+PY 1985
+VL 20
+IS 6
+BP 1945
+EP 1952
+DI 10.1007/BF01112276
+PG 8
+WC Materials Science, Multidisciplinary
+SC Materials Science
+GA AJZ48
+UT WOS:A1985AJZ4800005
+ER
+
+PT J
+AU KITAGAWA, M
+   KANZAKI, H
+AF KITAGAWA, M
+   KANZAKI, H
+TI A NEW TYPE OF FATIGUE STRIATION ON PMMA IMMERSED IN ORGANIC-AGENTS
+SO JOURNAL OF MATERIALS SCIENCE
+LA English
+DT Article
+RP KITAGAWA, M (reprint author), KANAZAWA UNIV,FAC TECHNOL,DEPT MECH ENGN,2-40-20 KODATSUNO,KANAZAWA,ISHIKAWA 920,JAPAN.
+CR ARGON AS, 1976, MATER SCI ENG, V23, P219, DOI 10.1016/0025-5416(76)90198-1
+   ATKINS AG, 1975, J MATER SCI, V10, P1381, DOI 10.1007/BF00540829
+   DOLL W, 1979, INT J FRACTURE, V15, pR145
+   HERTZBERG RW, 1978, J MATER SCI, V13, P1038, DOI 10.1007/BF00544699
+   MAI YW, 1974, J MATER SCI, V9, P1896, DOI 10.1007/BF00541761
+   MARSHALL GP, 1969, PLAST POLYM, V37, P75
+   MUKHERJE.B, 1969, EXP MECH, V9, P90, DOI 10.1007/BF02326679
+   PEARSON JRA, 1960, J FLUID MECH, V7, P480
+   PITTS E, 1961, J FLUID MECH, V11, P33, DOI 10.1017/S0022112061000846
+   WILLIAMS JG, 1975, P ROY SOC LOND A MAT, V342, P55, DOI 10.1098/rspa.1975.0012
+   1972, ASTM E39972 AM SOC T
+NR 11
+TC 1
+Z9 1
+PU CHAPMAN HALL LTD
+PI LONDON
+PA 2-6 BOUNDARY ROW, LONDON, ENGLAND SE1 8HN
+SN 0022-2461
+J9 J MATER SCI
+JI J. Mater. Sci.
+PY 1985
+VL 20
+IS 9
+BP 3400
+EP 3408
+DI 10.1007/BF00545209
+PG 9
+WC Materials Science, Multidisciplinary
+SC Materials Science
+GA AQL39
+UT WOS:A1985AQL3900040
+ER
+
+PT J
+AU INOUE, K
+   SAKAMOTO, H
+   KANZAKI, H
+AF INOUE, K
+   SAKAMOTO, H
+   KANZAKI, H
+TI RELAXATION PROCESSES OF ELECTRONIC EXCITED-STATES IN SOLID NEON, ARGON
+   AND KRYPTON
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+CR BELOV AG, 1981, SOV J LOW TEMP PHYS, V7, P172
+   BELOV AG, 1979, JETP LETT+, V30, P114
+   COHEN JS, 1974, J CHEM PHYS, V61, P3230, DOI 10.1063/1.1682481
+   FUGOL IY, 1978, ADV PHYS, V27, P1, DOI 10.1080/00018737800101344
+   INOUE K, 1984, SOLID STATE COMMUN, V49, P191, DOI 10.1016/0038-1098(84)90793-2
+   INOUE K, 1982, SOLID STATE COMMUN, V44, P1007, DOI 10.1016/0038-1098(82)90323-4
+   INOUE K, 1982, ACTIVITY REPORT SRL, P23
+   MATSUURA Y, 1981, J PHYS SOC JPN, V50, P933, DOI 10.1143/JPSJ.50.933
+   Moore C. E., 1949, ATOMIC ENERGY LEVELS, VI
+   SAILE V, 1979, PHYS REV B, V20, P784, DOI 10.1103/PhysRevB.20.784
+   TANAKA Y, 1981, J CHEM PHYS, V74, P2760, DOI 10.1063/1.441446
+   YAKHOT V, 1976, CHEM PHYS, V14, P441, DOI 10.1016/0301-0104(76)80141-3
+   YANAGIHARA M, 1979, ACTIVITY REPORT SYNC, P104
+   ZIMMERER G, 1979, J LUMIN, V18-9, P875, DOI 10.1016/0022-2313(79)90255-2
+NR 14
+TC 8
+Z9 8
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1984
+VL 53
+IS 2
+BP 819
+EP 826
+DI 10.1143/JPSJ.53.819
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA SN109
+UT WOS:A1984SN10900052
+ER
+
+PT J
+AU TANIGUCHI, M
+   SUGA, S
+   SEKI, M
+   MIKUNI, A
+   ASAOKA, S
+   KANZAKI, H
+   AKAHAMA, Y
+   ENDO, S
+   NARITA, S
+AF TANIGUCHI, M
+   SUGA, S
+   SEKI, M
+   MIKUNI, A
+   ASAOKA, S
+   KANZAKI, H
+   AKAHAMA, Y
+   ENDO, S
+   NARITA, S
+TI CORE EXCITONS AND CONDUCTION-BAND STRUCTURES IN LAYERED SEMICONDUCTOR
+   BLACK PHOSPHORUS
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+C1 OSAKA UNIV,FAC ENGN SCI,HIGH PRESSURE RES LAB,TOYONAKA,OSAKA 560,JAPAN.
+   OSAKA UNIV,FAC ENGN SCI,DEPT MAT PHYS,TOYONAKA,OSAKA 560,JAPAN.
+RP TANIGUCHI, M (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR AKAHAMA Y, 1983, J PHYS SOC JPN, V52, P2148, DOI 10.1143/JPSJ.52.2148
+   ASAHINA H, 1983, PHYSICA UTRECHT B, V117, P422
+   ASAHINA H, 1982, J PHYS SOC JPN, V51, P1193, DOI 10.1143/JPSJ.51.1193
+   ASAHINA H, 1984, J PHYS C SOLID STATE, V17, P1839, DOI 10.1088/0022-3719/17/11/006
+   ASPNES DE, 1979, SOLID STATE COMMUN, V31, P99, DOI 10.1016/0038-1098(79)90176-5
+   BROWN A, 1965, ACTA CRYSTALLOGR, V19, P684, DOI 10.1107/S0365110X65004140
+   BROWN FC, 1977, PHYS REV B, V15, P4781, DOI 10.1103/PhysRevB.15.4781
+   CARDONA M, 1970, PHYS REV LETT, V25, P659, DOI 10.1103/PhysRevLett.25.659
+   ENDO S, 1982, JPN J APPL PHYS 2, V21, pL482, DOI 10.1143/JJAP.21.L482
+   FUJII Y, 1982, SOLID STATE COMMUN, V44, P579, DOI 10.1016/0038-1098(82)90558-0
+   GARTZ L, 1979, J CHEM PHYS, V71, P1718
+   GOODMAN NB, 1983, PHYS REV B, V27, P7440, DOI 10.1103/PhysRevB.27.7440
+   GUDAT W, 1972, PHYS STATUS SOLIDI B, V25, P505
+   GUDAT W, 1972, PHYS REV LETT, V29, P169, DOI 10.1103/PhysRevLett.29.169
+   HAGEMANN HJ, 1975, J OPT SOC AM, V65, P742, DOI 10.1364/JOSA.65.000742
+   HARADA Y, 1982, SOLID STATE COMMUN, V44, P877, DOI 10.1016/0038-1098(82)90295-2
+   HAYASI Y, 1984, PHYS REV B, V30, P1891, DOI 10.1103/PhysRevB.30.1891
+   HAYES W, 1972, PHYS REV A, V6, P21, DOI 10.1103/PhysRevA.6.21
+   Ikezawa M., 1983, J PHYS SOC JPN, V52, P1505
+   Keys R. W., 1953, PHYS REV, V92, P580
+   KING GC, 1977, J PHYS B-AT MOL OPT, V10, P2479, DOI 10.1088/0022-3700/10/12/026
+   KOTANI A, 1984, SOLID STATE COMMUN, V51, P97, DOI 10.1016/0038-1098(84)90243-6
+   LAMIESON LC, 1963, SCIENCE, V139, P129
+   LANNIN JS, 1978, 14TH P INT C PHYS SE, P99
+   MARUYAMA Y, 1981, PHYSICA B & C, V105, P99, DOI 10.1016/0378-4363(81)90223-0
+   NARITA S, 1983, J PHYS SOC JPN, V52, P3544, DOI 10.1143/JPSJ.52.3544
+   NARITA S, 1983, PHYSICA B & C, V117, P422, DOI 10.1016/0378-4363(83)90547-8
+   SEKI M, 1983, J NON-CRYST SOLIDS, V59-6, P245, DOI 10.1016/0022-3093(83)90567-7
+   SHIROTANI I, 1982, MOL CRYST LIQ CRYST, V86, P1943
+   SUGAI S, 1981, J PHYS SOC JPN, V50, P3356, DOI 10.1143/JPSJ.50.3356
+   TAKAHASHI T, 1983, SOLID STATE COMMUN, V45, P945, DOI 10.1016/0038-1098(83)90962-6
+   TAKAO Y, 1981, J PHYS SOC JPN, V50, P3362, DOI 10.1143/JPSJ.50.3362
+   TANIGUCHI M, 1983, SOLID STATE COMMUN, V45, P59, DOI 10.1016/0038-1098(83)90340-X
+   TANIGUCHI M, 1983, PHYS REV B, V28, P1165, DOI 10.1103/PhysRevB.28.1165
+   TANIGUCHI M, 1982, SOLID STATE COMMUN, V44, P1079, DOI 10.1016/0038-1098(82)90340-4
+   TANIGUCHI M, 1984, SOLID STATE COMMUN, V49, P867, DOI 10.1016/0038-1098(84)90441-1
+   TANIGUCHI M, 1982, SOLID STATE COMMUN, V44, P85, DOI 10.1016/0038-1098(82)90719-0
+   WARSCHAUER DM, 1963, J APPL PHYS, V34, P1853, DOI 10.1063/1.1729699
+   ZUNGER A, 1983, PHYS REV LETT, V50, P1215, DOI 10.1103/PhysRevLett.50.1215
+NR 39
+TC 8
+Z9 8
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-0121
+J9 PHYS REV B
+JI Phys. Rev. B
+PY 1984
+VL 30
+IS 8
+BP 4555
+EP 4563
+DI 10.1103/PhysRevB.30.4555
+PG 9
+WC Physics, Condensed Matter
+SC Physics
+GA TM473
+UT WOS:A1984TM47300050
+ER
+
+PT J
+AU KANZAKI, H
+   MORI, T
+AF KANZAKI, H
+   MORI, T
+TI PHOTON-STIMULATED DESORPTION OF NEUTRALS FROM SILVER AND ALKALI-HALIDES
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+RP KANZAKI, H (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,TOKYO 106,JAPAN.
+CR AHRENKIE.RK, 1966, PHYS REV, V144, P576, DOI 10.1103/PhysRev.144.576
+   Chandrasekhar S, 1943, REV MOD PHYS, V15, P0001, DOI 10.1103/RevModPhys.15.1
+   COPPERTHWAITE RG, 1978, SOLID STATE COMMUN, V28, P915, DOI 10.1016/0038-1098(78)90110-2
+   EISENMAN.E, 1966, Z PHYS CHEM NEUE FOL, V49, P1
+   FRIEDENBERG A, 1979, SURF SCI, V87, P581, DOI 10.1016/0039-6028(79)90550-8
+   HIMPSEL FJ, 1983, SEMICOND INSUL, V5, P419
+   ITOH N, 1976, NUCL INSTRUM METHODS, V132, P201, DOI 10.1016/0029-554X(76)90736-9
+   KANZAKI H, UNPUB
+   KANZAKI H, 1978, SEMICOND INSUL, V3, P285
+   KANZAKI H, 1983, SEMICOND INSUL, V5, P401
+   KANZAKI H, 1969, J PHYS SOC JPN, V27, P109, DOI 10.1143/JPSJ.27.109
+   KANZAKI H, 1983, SEMICOND INSUL, V5, P517
+   KANZAKI H, 1970, J PHYS SOC JPN, V29, P924, DOI 10.1143/JPSJ.29.924
+   KANZAKI H, 1980, PHOTOGR SCI ENG, V24, P219
+   KNOTEK ML, 1978, PHYS REV LETT, V40, P964, DOI 10.1103/PhysRevLett.40.964
+   KNOTEK ML, 1983, SEMICOND INSUL, V5, P361
+   LARSON LA, 1979, SOLID STATE COMMUN, V32, P347, DOI 10.1016/0038-1098(79)90962-1
+   LUCKEY GW, 1953, J PHYS CHEM-US, V57, P791, DOI 10.1021/j150509a012
+   LUCKEY GW, 1955, J CHEM PHYS, V23, P882, DOI 10.1063/1.1742141
+   Luckey G.W., 1959, Discussions of the Faraday Society, V28, DOI 10.1039/df9592800113
+   MALINOWS.J, 1967, CONTEMP PHYS, V8, P285, DOI 10.1080/00107516708204388
+   MALINOWS.J, 1968, J PHOTOGR SCI, V16, P57
+   MENZEL D, 1982, J VAC SCI TECHNOL, V20, P538, DOI 10.1116/1.571428
+   MULLER P, 1970, PHYS STATUS SOLIDI, V41, P81, DOI 10.1002/pssb.19700410109
+   OVEREIJNDER H, 1978, RADIAT EFF DEFECT S, V36, P63, DOI 10.1080/00337577808233172
+   OVEREIJNDER H, 1979, SURF SCI, V90, P265, DOI 10.1016/0039-6028(79)90343-1
+   OVEREIJNDER H, 1978, RADIAT EFF DEFECT S, V38, P21, DOI 10.1080/00337577808233204
+   PALMBERG PW, 1968, J PHYS CHEM SOLIDS, V29, P1917, DOI 10.1016/0022-3697(68)90041-3
+   SAUNDERS VI, 1972, PHOTOGR SCI ENG, V16, P87
+   SAUNDERS VI, 1977, J OPT SOC AM, V67, P830, DOI 10.1364/JOSA.67.000830
+   SAUNDERS VI, 1962, J CHEM PHYS, V37, P1126, DOI 10.1063/1.1733224
+   SCHMID A, 1975, PHYS REV LETT, V35, P1382, DOI 10.1103/PhysRevLett.35.1382
+   SZYMONSKI M, 1979, SURF SCI, V90, P274, DOI 10.1016/0039-6028(79)90344-3
+   TOLK NH, 1981, PHYS REV LETT, V46, P134, DOI 10.1103/PhysRevLett.46.134
+   TOLK NH, 1982, PHYS REV LETT, V49, P812, DOI 10.1103/PhysRevLett.49.812
+   TOWNSEND PD, 1976, RADIAT EFF DEFECT S, V30, P55, DOI 10.1080/00337577608233516
+   TOYOZAWA Y, 1983, SEMICOND INSUL, V5, P175
+   UETA M, 1967, J PHYS SOC JPN, V23, P1265, DOI 10.1143/JPSJ.23.1265
+NR 38
+TC 44
+Z9 44
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0163-1829
+J9 PHYS REV B
+JI Phys. Rev. B
+PY 1984
+VL 29
+IS 6
+BP 3573
+EP 3585
+DI 10.1103/PhysRevB.29.3573
+PG 13
+WC Physics, Condensed Matter
+SC Physics
+GA SJ110
+UT WOS:A1984SJ11000077
+ER
+
+PT J
+AU SAKAMOTO, H
+   SUGA, S
+   TANIGUCHI, M
+   KANZAKI, H
+   YAMAMOTO, M
+   SEKI, M
+   NAITO, M
+   TANAKA, S
+AF SAKAMOTO, H
+   SUGA, S
+   TANIGUCHI, M
+   KANZAKI, H
+   YAMAMOTO, M
+   SEKI, M
+   NAITO, M
+   TANAKA, S
+TI RESONANT PHOTOEMISSION AND TA 5P CORE REFLECTANCE SPECTRA OF 1T-TASE2
+   AND 2H-TASE2
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,FAC ENGN,DEPT APPL PHYS,TOKYO 113,JAPAN.
+RP SAKAMOTO, H (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TOKYO 188,JAPAN.
+CR BEAL AR, 1975, J PHYS C SOLID STATE, V8, P4236, DOI 10.1088/0022-3719/8/24/015
+   MAMY R, 1977, NUOVO CIMENTO B, V38, P196, DOI 10.1007/BF02723487
+   MATTHEIS.LF, 1973, PHYS REV B, V8, P3719, DOI 10.1103/PhysRevB.8.3719
+   SHIN S, 1982, J PHYS SOC JPN, V51, P906, DOI 10.1143/JPSJ.51.906
+   SHIN S, 1981, SOLID STATE COMMUN, V38, P1281, DOI 10.1016/0038-1098(81)91006-1
+   SMITH NV, 1975, PHYS REV B, V11, P2087, DOI 10.1103/PhysRevB.11.2087
+   SUGA S, 1982, PHYS REV B, V25, P5486, DOI 10.1103/PhysRevB.25.5486
+   SUGA S, 1984, NUCL INSTRUM METH A, V222, P80, DOI 10.1016/0167-5087(84)90507-6
+   SUGA S, 1983, PHYSICA B & C, V117, P353, DOI 10.1016/0378-4363(83)90526-0
+   SUGA S, 1983, PHYSICA B, V118, P353
+   WILSON JA, 1974, PHYS REV LETT, V32, P882, DOI 10.1103/PhysRevLett.32.882
+   YAMAGUCHI T, 1982, J PHYS C SOLID STATE, V15, P2641, DOI 10.1088/0022-3719/15/12/013
+NR 12
+TC 10
+Z9 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1984
+VL 52
+IS 8
+BP 721
+EP 724
+DI 10.1016/0038-1098(84)90397-1
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA TR961
+UT WOS:A1984TR96100004
+ER
+
+PT J
+AU INOUE, K
+   SAKAMOTO, H
+   KANZAKI, H
+AF INOUE, K
+   SAKAMOTO, H
+   KANZAKI, H
+TI EXCITATION SPECTRUM OF THE VISIBLE LUMINESCENCE IN SOLID NEON
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+CR BELOV AG, 1981, SOV J LOW TEMP PHYS, V7, P172
+   BELOV AG, 1979, JETP LETT+, V30, P114
+   CONNOR TR, 1969, PHYS REV, V185, P224
+   FROMMHOLD L, 1969, PHYS REV, V185, P224
+   FUGOL IY, 1978, ADV PHYS, V27, P1, DOI 10.1080/00018737800101344
+   INOUE K, 1982, SOLID STATE COMMUN, V44, P1007, DOI 10.1016/0038-1098(82)90323-4
+   KELLER FJ, 1969, SOLID STATE COMMUN, V7, P1603, DOI 10.1016/0038-1098(69)90107-0
+   Moore C. E., 1949, ATOMIC ENERGY LEVELS, VI
+   POWELL BM, 1977, RARE GAS SOLIDS, V2, pCH15
+   SAILE V, 1979, PHYS REV B, V20, P784, DOI 10.1103/PhysRevB.20.784
+   SODA K, 1981, J PHYS SOC JPN, V50, P3988, DOI 10.1143/JPSJ.50.3988
+   SUEMOTO T, 1981, J PHYS SOC JPN, V50, P3664, DOI 10.1143/JPSJ.50.3664
+   YANAGIHARA M, 1979, ACTIVITY REPORT SYNC, P104
+   ZIMMERER G, 1979, J LUMIN, V18-9, P875, DOI 10.1016/0022-2313(79)90255-2
+NR 14
+TC 14
+Z9 14
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1984
+VL 49
+IS 2
+BP 191
+EP 193
+DI 10.1016/0038-1098(84)90793-2
+PG 3
+WC Physics, Condensed Matter
+SC Physics
+GA RX029
+UT WOS:A1984RX02900021
+ER
+
+PT J
+AU TANIGUCHI, M
+   SUGA, S
+   SEKI, M
+   SAKAMOTO, H
+   KANZAKI, H
+   AKAHAMA, Y
+   ENDO, S
+   TERADA, S
+   NARITA, S
+AF TANIGUCHI, M
+   SUGA, S
+   SEKI, M
+   SAKAMOTO, H
+   KANZAKI, H
+   AKAHAMA, Y
+   ENDO, S
+   TERADA, S
+   NARITA, S
+TI CORE-EXCITON INDUCED RESONANT PHOTOEMISSION IN THE COVALENT
+   SEMICONDUCTOR BLACK PHOSPHORUS
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 OSAKA UNIV,FAC ENGN SCI,HIGH PRESSURE RES LAB,TOYONAKA,OSAKA 560,JAPAN.
+   OSAKA UNIV,FAC ENGN SCI,DEPT MAT PHYS,TOYONAKA,OSAKA 560,JAPAN.
+RP TANIGUCHI, M (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TOKYO 188,JAPAN.
+CR BROWN A, 1965, ACTA CRYSTALLOGR, V19, P684, DOI 10.1107/S0365110X65004140
+   DAVIS LC, 1981, PHYS REV B, V23, P6239, DOI 10.1103/PhysRevB.23.6239
+   DAVIS LC, 1982, PHYS REV B, V25, P2912, DOI 10.1103/PhysRevB.25.2912
+   JENNISON DR, 1978, PHYS REV LETT, V40, P807, DOI 10.1103/PhysRevLett.40.807
+   JOHANSSON LI, 1978, SOLID STATE COMMUN, V28, P53, DOI 10.1016/0038-1098(78)90326-5
+   KOBAYASHI KLI, 1983, PHYS REV LETT, V50, P1701, DOI 10.1103/PhysRevLett.50.1701
+   KOTANI A, UNPUB COMMUNICATION
+   LENTH W, 1978, PHYS REV LETT, V41, P1185, DOI 10.1103/PhysRevLett.41.1185
+   TANIGUCHI M, 1983, SOLID STATE COMMUN, V45, P59, DOI 10.1016/0038-1098(83)90340-X
+   TANIGUCHI M, 1983, PHYS REV B, V28, P1165, DOI 10.1103/PhysRevB.28.1165
+NR 10
+TC 21
+Z9 21
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1984
+VL 49
+IS 9
+BP 867
+EP 870
+DI 10.1016/0038-1098(84)90441-1
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA SE244
+UT WOS:A1984SE24400007
+ER
+
+PT J
+AU SUGA, S
+   TANIGUCHI, M
+   SEKI, M
+   SAKAMOTO, H
+   KANZAKI, H
+   YAMAMOTO, M
+   KURITA, A
+   KANEKO, Y
+   KODA, T
+AF SUGA, S
+   TANIGUCHI, M
+   SEKI, M
+   SAKAMOTO, H
+   KANZAKI, H
+   YAMAMOTO, M
+   KURITA, A
+   KANEKO, Y
+   KODA, T
+TI ULTRAVIOLET PHOTOEMISSION AND 4D CORE REFLECTANCE SPECTRA OF SMSE(100)
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT APPL PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP SUGA, S (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHOTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+RI Kaneko, Yoshio/B-3274-2013
+CR CAMPAGNA M, 1981, TOPICS APPLIED PHYSI, V27, P217
+   CAMPAGNA M, 1974, PHYS REV LETT, V33, P165, DOI 10.1103/PhysRevLett.33.165
+   FARBEROVICH OV, 1980, SOV PHYS-SOLID STATE, V22, P393
+   FRANCIOSI A, 1981, PHYS REV B, V24, P3651, DOI 10.1103/PhysRevB.24.3651
+   GERKEN F, 1982, P INT C XRAY ATOMIC
+   GUDAT W, 1978, SOLID STATE COMMUN, V28, P943, DOI 10.1016/0038-1098(78)90117-5
+   GUDAT W, 1981, J APPL PHYS, V52, P2123, DOI 10.1063/1.328853
+   HERBST JF, 1972, PHYS REV B, V6, P1913, DOI 10.1103/PhysRevB.6.1913
+   LENTH W, 1978, PHYS REV LETT, V41, P1185, DOI 10.1103/PhysRevLett.41.1185
+   SUGA S, NUCL INSTR METH
+   SUGAR J, 1972, PHYS REV B, V5, P1785, DOI 10.1103/PhysRevB.5.1785
+   WELBER B, 1979, J APPL PHYS, V50, P462, DOI 10.1063/1.325634
+NR 12
+TC 5
+Z9 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1984
+VL 49
+IS 11
+BP 1005
+EP 1008
+DI 10.1016/0038-1098(84)90410-1
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA SG101
+UT WOS:A1984SG10100004
+ER
+
+PT J
+AU MIYAHARA, Y
+   ASAOKA, S
+   ISOYAMA, G
+   MIKUNI, A
+   NISHIMURA, H
+   SODA, K
+   KANZAKI, H
+AF MIYAHARA, Y
+   ASAOKA, S
+   ISOYAMA, G
+   MIKUNI, A
+   NISHIMURA, H
+   SODA, K
+   KANZAKI, H
+TI LANDAU DAMPING OF THE LONGITUDINAL COUPLED-BUNCH INSTABILITY IN AN
+   ELECTRON STORAGE RING
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+RP MIYAHARA, Y (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TOKYO 188,JAPAN.
+CR ASAOKA S, 1983, NUCL INSTRUM METHODS, V215, P493, DOI 10.1016/0167-5087(83)90484-2
+   FRISCHHOLZ H, CERNISRRFTH7741
+   Hofmann A., 1980, 11th International Conference on High-Energy Accelerators
+NR 3
+TC 6
+Z9 6
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PY 1983
+VL 22
+IS 11
+BP L733
+EP L735
+DI 10.1143/JJAP.22.L733
+PG 3
+WC Physics, Applied
+SC Physics
+GA SB262
+UT WOS:A1983SB26200022
+ER
+
+PT J
+AU SEKI, M
+   TANIGUCHI, M
+   SUGA, S
+   MIKUNI, A
+   KANZAKI, H
+   MIYAO, M
+   MOTOOKA, T
+AF SEKI, M
+   TANIGUCHI, M
+   SUGA, S
+   MIKUNI, A
+   KANZAKI, H
+   MIYAO, M
+   MOTOOKA, T
+TI DISORDER INDUCED CHANGE OF 2P CORE REFLECTANCE SPECTRA OF ION-IMPLANTED
+   SILICON
+SO JOURNAL OF NON-CRYSTALLINE SOLIDS
+LA English
+DT Article
+C1 HITACHI LTD,CENT RES LAB,KOKUBUNJI,TOKYO 185,JAPAN.
+RP SEKI, M (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR ASPNES DE, 1982, PHYS REV LETT, V48, P1863, DOI 10.1103/PhysRevLett.48.1863
+   BROWN FC, 1972, PHYS REV LETT, V28, P497, DOI 10.1103/PhysRevLett.28.497
+   CHELIKOWSKY JR, 1976, PHYS REV B, V14, P556, DOI 10.1103/PhysRevB.14.556
+   KING GC, 1977, J PHYS B-AT MOL OPT, V10, P2479, DOI 10.1088/0022-3700/10/12/026
+   MIYAO M, 1981, SOLID STATE COMMUN, V37, P605, DOI 10.1016/0038-1098(81)90144-7
+NR 5
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-3093
+J9 J NON-CRYST SOLIDS
+JI J. Non-Cryst. Solids
+PY 1983
+VL 59-6
+IS DEC
+BP 245
+EP 248
+DI 10.1016/0022-3093(83)90567-7
+PG 4
+WC Materials Science, Ceramics; Materials Science, Multidisciplinary
+SC Materials Science
+GA RZ943
+UT WOS:A1983RZ94300055
+ER
+
+PT J
+AU YANAGIHARA, M
+   KONDO, Y
+   KANZAKI, H
+AF YANAGIHARA, M
+   KONDO, Y
+   KANZAKI, H
+TI LUMINESCENCE EXCITATION BY VUV PHOTONS IN ALKALI AND SILVER-HALIDES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+CR ACKERMANN C, 1976, PHYS STATUS SOLIDI B, V74, P579, DOI 10.1002/pssb.2220740217
+   BAUER RS, 1976, PHYS REV B, V14, P4539, DOI 10.1103/PhysRevB.14.4539
+   BEAUMONT JH, 1976, J PHYS C SOLID STATE, V9, P2961, DOI 10.1088/0022-3719/9/15/019
+   BLECHSCH.D, 1969, PHYS STATUS SOLIDI, V36, P625, DOI 10.1002/pssb.19690360226
+   BLECHSCH.D, 1971, PHYS STATUS SOLIDI B, V44, P787, DOI 10.1002/pssb.2220440238
+   Bunger W, 1930, Z PHYS, V66, P311, DOI 10.1007/BF01390910
+   BURNHAM DC, 1960, PHYS REV, V119, P1560, DOI 10.1103/PhysRev.119.1560
+   CARRERA NJ, 1971, PHYS REV B, V4, P3651, DOI 10.1103/PhysRevB.4.3651
+   HAHN U, 1974, THESIS HAMBURG
+   HUGHES AE, 1967, AERE R5604 REP
+   IKEZAWA M, 1969, J PHYS SOC JPN, V27, P1551, DOI 10.1143/JPSJ.27.1551
+   IKEZAWA M, 1969, SCI REPORTS TOHOKU U, V12, P45
+   KABLER MN, 1967, PHYS REV LETT, V19, P652, DOI 10.1103/PhysRevLett.19.652
+   KANE EO, 1967, PHYS REV, V159, P624, DOI 10.1103/PhysRev.159.624
+   KANZAKI H, 1971, SOLID STATE COMMUN, V9, P999, DOI 10.1016/0038-1098(71)90448-0
+   KANZAKI H, 1969, J PHYS SOC JPN, V27, P109, DOI 10.1143/JPSJ.27.109
+   MIYATA T, 1971, J PHYS SOC JPN, V31, P529, DOI 10.1143/JPSJ.31.529
+   MOLLER H, 1976, SOLID STATE COMMUN, V20, P401, DOI 10.1016/0038-1098(76)90535-4
+   RUBLOFF GW, 1972, PHYS REV B, V5, P662, DOI 10.1103/PhysRevB.5.662
+   SATOKO C, 1973, SOLID STATE COMMUN, V13, P1851, DOI 10.1016/0038-1098(73)90743-6
+   SCHWENTNER N, 1976, PHYS REV B, V14, P5490, DOI 10.1103/PhysRevB.14.5490
+   SPRUSSEL G, 1979, SOLID STATE COMMUN, V32, P1091, DOI 10.1016/0038-1098(79)90837-8
+   SUGAWARA H, 1979, J PHYS SOC JPN, V46, P132, DOI 10.1143/JPSJ.46.132
+   TOMIKI T, 1967, J PHYS SOC JPN, V22, P463, DOI 10.1143/JPSJ.22.463
+   TOMIKI T, 1973, J PHYS SOC JPN, V35, P495, DOI 10.1143/JPSJ.35.495
+   VANHEYNINGEN RS, 1958, PHYS REV, V111, P462, DOI 10.1103/PhysRev.111.462
+   YANAGIHARA M, 1979, ACTIVITY REPORT SYNC, P104
+   YANAGIHARA M, 1982, THESIS U TOKYO
+NR 28
+TC 25
+Z9 25
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1983
+VL 52
+IS 12
+BP 4397
+EP 4406
+DI 10.1143/JPSJ.52.4397
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA SE005
+UT WOS:A1983SE00500053
+ER
+
+PT J
+AU NARITA, S
+   AKAHAMA, Y
+   TSUKIYAMA, Y
+   MURO, K
+   MORI, S
+   ENDO, S
+   TANIGUCHI, M
+   SEKI, M
+   SUGA, S
+   MIKUNI, A
+   KANZAKI, H
+AF NARITA, S
+   AKAHAMA, Y
+   TSUKIYAMA, Y
+   MURO, K
+   MORI, S
+   ENDO, S
+   TANIGUCHI, M
+   SEKI, M
+   SUGA, S
+   MIKUNI, A
+   KANZAKI, H
+TI ELECTRICAL AND OPTICAL-PROPERTIES OF BLACK PHOSPHORUS SINGLE-CRYSTALS
+SO PHYSICA B & C
+LA English
+DT Article
+C1 OSAKA UNIV,FAC ENGN SCI,HIGH PRESSURE RES LAB,TOYONAKA,OSAKA 560,JAPAN.
+   UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+RP NARITA, S (reprint author), OSAKA UNIV,FAC ENGN SCI,DEPT MAT PHYS,TOYONAKA,OSAKA 560,JAPAN.
+CR ASAHINA H, COMMUNICATION
+   ASAHINA H, 1982, J PHYS SOC JPN, V51, P1193, DOI 10.1143/JPSJ.51.1193
+   ENDO S, UNPUB JPN J APPL PHY
+   FUJII Y, UNPUB SOLID STATE CO
+   KEYES RW, 1953, PHYS REV, V92, P580, DOI 10.1103/PhysRev.92.580
+   MARUYAMA Y, 1981, PHYSICA B & C, V105, P99, DOI 10.1016/0378-4363(81)90223-0
+   TAKAO Y, 1981, J PHYS SOC JPN, V50, P3362, DOI 10.1143/JPSJ.50.3362
+   WARSCHAUER DM, 1963, J APPL PHYS, V34, P1853, DOI 10.1063/1.1729699
+NR 8
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA B & C
+PY 1983
+VL 117
+IS MAR
+BP 422
+EP 424
+DI 10.1016/0378-4363(83)90547-8
+PG 3
+WC Physics, Multidisciplinary
+SC Physics
+GA QH923
+UT WOS:A1983QH92300117
+ER
+
+PT J
+AU KIMURA, T
+   MOCHIJI, K
+   TSUMITA, N
+   OBAYASHI, H
+   MIKUNI, A
+   KANZAKI, H
+AF KIMURA, T
+   MOCHIJI, K
+   TSUMITA, N
+   OBAYASHI, H
+   MIKUNI, A
+   KANZAKI, H
+TI EXPOSURE CHARACTERISTICS OF ELECTRON-BEAM RESISTS FOR SYNCHROTRON
+   X-RAY-LITHOGRAPHY
+SO PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,TOKYO 106,JAPAN.
+RP KIMURA, T (reprint author), HITACHI LTD,CENT RES LAB,KOKUBUNJI,TOKYO 185,JAPAN.
+CR ARITOME H, 1979, J VAC SCI TECHNOL, V16, P1939, DOI 10.1116/1.570359
+   BOWDEN MJ, 1981, J ELECTROCHEM SOC, V128, P1304, DOI 10.1149/1.2127625
+   GROBMAN WD, 1980, IBM RC8220 RES REP
+   MATSUZAWA T, 1981, IEEE T ED, V28, P1306
+   MOCHIJI K, 1981, JPN J APPL PHYS, V20, P63
+NR 5
+TC 2
+Z9 2
+PU SOC PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+PI BELLINGHAM
+PA PO BOX 10, BELLINGHAM, WA 98227-0010
+SN 0361-0748
+J9 P SOC PHOTO-OPT INST
+PY 1983
+VL 393
+BP 2
+EP 7
+PG 6
+WC Optics; Spectroscopy
+SC Optics; Spectroscopy
+GA RX245
+UT WOS:A1983RX24500001
+ER
+
+PT J
+AU KANZAKI, H
+   SUEMOTO, T
+AF KANZAKI, H
+   SUEMOTO, T
+TI NATURE OF RELAXED EXCITONS IN RARE-GAS SOLIDS
+SO SEMICONDUCTORS AND INSULATORS
+LA English
+DT Article
+RP KANZAKI, H (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,MINAMI KU,TOKYO 106,JAPAN.
+NR 0
+TC 4
+Z9 4
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0309-5591
+J9 SEMICOND INSUL
+PY 1983
+VL 5
+IS 3-4
+BP 345
+EP 359
+PG 15
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA QA409
+UT WOS:A1983QA40900014
+ER
+
+PT J
+AU KANZAKI, H
+   MORI, T
+AF KANZAKI, H
+   MORI, T
+TI PHOTON STIMULATED DESORPTION FROM ALKALI AND SILVER-HALIDES
+SO SEMICONDUCTORS AND INSULATORS
+LA English
+DT Article
+RP KANZAKI, H (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,MINAMI KU,TOKYO 106,JAPAN.
+NR 0
+TC 10
+Z9 10
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0309-5591
+J9 SEMICOND INSUL
+PY 1983
+VL 5
+IS 3-4
+BP 401
+EP 417
+PG 17
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA QA409
+UT WOS:A1983QA40900017
+ER
+
+PT J
+AU KANZAKI, H
+AF KANZAKI, H
+TI LOCALIZED CENTERS IN SILVER-HALIDES IN COMPARISON WITH ALKALI-HALIDES
+SO SEMICONDUCTORS AND INSULATORS
+LA English
+DT Article
+RP KANZAKI, H (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,MINAMI KU,TOKYO 106,JAPAN.
+NR 0
+TC 9
+Z9 9
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0309-5591
+J9 SEMICOND INSUL
+PY 1983
+VL 5
+IS 3-4
+BP 517
+EP 531
+PG 15
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA QA409
+UT WOS:A1983QA40900025
+ER
+
+PT J
+AU TANIGUCHI, M
+   SUGA, S
+   SEKI, M
+   SAKAMOTO, H
+   KANZAKI, H
+   AKAHAMA, Y
+   TERADA, S
+   ENDO, S
+   NARITA, S
+AF TANIGUCHI, M
+   SUGA, S
+   SEKI, M
+   SAKAMOTO, H
+   KANZAKI, H
+   AKAHAMA, Y
+   TERADA, S
+   ENDO, S
+   NARITA, S
+TI VALENCE BAND AND CORE-LEVEL PHOTOEMISSION SPECTRA OF BLACK PHOSPHORUS
+   SINGLE-CRYSTALS
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 OSAKA UNIV,HIGH PRESSURE RES LAB,TOYONAKA,OSAKA 560,JAPAN.
+   OSAKA UNIV,DEPT ENGN SCI,TOYONAKA,OSAKA 560,JAPAN.
+RP TANIGUCHI, M (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR ASAHINA H, 1982, J PHYS SOC JPN, V51, P1193, DOI 10.1143/JPSJ.51.1193
+   ASAHINA H, 1982, INT C SEMICOND VAC U
+   BROWN A, 1965, ACTA CRYSTALLOGR, V19, P684, DOI 10.1107/S0365110X65004140
+   ENDO S, 1982, JPN J APPL PHYS 2, V21, pL482, DOI 10.1143/JJAP.21.L482
+   NARITA S, 1982, 16TH P INT C PHYS SE
+   TAKAO Y, 1981, J PHYS SOC JPN, V50, P3362, DOI 10.1143/JPSJ.50.3362
+   TANIGUCHI M, UNPUB
+NR 7
+TC 18
+Z9 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1983
+VL 45
+IS 2
+BP 59
+EP 61
+DI 10.1016/0038-1098(83)90340-X
+PG 3
+WC Physics, Condensed Matter
+SC Physics
+GA PZ345
+UT WOS:A1983PZ34500002
+ER
+
+PT J
+AU SHIN, S
+   SUGA, S
+   TANIGUCHI, M
+   KANZAKI, H
+   SHIBUYA, S
+   YAMAGUCHI, T
+AF SHIN, S
+   SUGA, S
+   TANIGUCHI, M
+   KANZAKI, H
+   SHIBUYA, S
+   YAMAGUCHI, T
+TI FINAL-STATE INTERACTIONS OF INNER CORE ABSORPTION EXCITATION IN
+   TRANSITION-METAL HALIDES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 SHIZUOKA UNIV,FAC ENGN,DEPT APPL PHYS,HAMAMATSU,SHIZUOKA 432,JAPAN.
+RP SHIN, S (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR ASADA S, 1975, J PHYS SOC JPN, V37, P855
+   BARTH J, 1980, J PHYS C SOLID STATE, V13, P1369, DOI 10.1088/0022-3719/13/7/022
+   BRUHN R, 1978, PHYS LETT A, V69, P9, DOI 10.1016/0375-9601(78)90420-6
+   BRUHN R, 1979, J PHYS B-AT MOL OPT, V12, P203, DOI 10.1088/0022-3700/12/2/011
+   COMES FJ, 1973, J CHEM PHYS, V58, P2230, DOI 10.1063/1.1679497
+   DAVIS LC, 1978, PHYS REV A, V17, P2012, DOI 10.1103/PhysRevA.17.2012
+   DAVIS LC, 1976, SOLID STATE COMMUN, V19, P413, DOI 10.1016/0038-1098(76)91179-0
+   DEHMER JL, 1971, PHYS REV LETT, V26, P1521, DOI 10.1103/PhysRevLett.26.1521
+   FARNOUX FC, 1974, 1974 P INT C VAC ULT, P89
+   FUJITA H, 1969, PHYS REV LETT, V22, P1369, DOI 10.1103/PhysRevLett.22.1369
+   ISHII T, 1975, PHYS REV B, V12, P4320, DOI 10.1103/PhysRevB.12.4320
+   MATSUI S, 1982, UNPUB APPL OPTICS
+   NAKAI S, 1974, PHYS REV B, V9, P1870, DOI 10.1103/PhysRevB.9.1870
+   SAKISAKA Y, 1974, J PHYS SOC JPN, V36, P1365, DOI 10.1143/JPSJ.36.1365
+   SATO S, 1971, J PHYS SOC JPN, V30, P459, DOI 10.1143/JPSJ.30.459
+   SATOKO C, 1973, J PHYS SOC JPN, V34, P701, DOI 10.1143/JPSJ.34.701
+   SATOKO C, 1973, SOLID STATE COMMUN, V13, P1851, DOI 10.1016/0038-1098(73)90743-6
+   SHIN S, 1981, SOLID STATE COMMUN, V38, P1281, DOI 10.1016/0038-1098(81)91006-1
+   SONNTAG B, 1969, SOLID STATE COMMUN, V7, P597, DOI 10.1016/0038-1098(69)90625-5
+   SUGA S, 1982, UNPUB PHYS REV B, V25
+   SUGANO S, 1976, SPECTROSCOPY EXCITED, P279
+   Sugano S, 1970, MULTIPLES TRANSITION
+   SUGIURA C, 1972, J PHYS SOC JPN, V33, P455, DOI 10.1143/JPSJ.33.455
+   TSUTSUMI K, 1979, J PHYS SOC JPN, V47, P1920, DOI 10.1143/JPSJ.47.1920
+   WEHENKEL C, 1974, PHYS LETT A, VA 47, P253, DOI 10.1016/0375-9601(74)90032-2
+   WILLSON JA, 1972, ADV PHYS, V21, P143
+   YAMAGUCHI T, 1982, UNPUB J PHYS C, V15
+   YAMAGUCHI T, 1977, J PHYS SOC JPN, V42, P1949, DOI 10.1143/JPSJ.42.1949
+NR 28
+TC 37
+Z9 37
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1982
+VL 51
+IS 3
+BP 906
+EP 914
+DI 10.1143/JPSJ.51.906
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA NQ097
+UT WOS:A1982NQ09700038
+ER
+
+PT J
+AU TANIGUCHI, M
+   SUGA, S
+   SHIN, S
+   INOUE, K
+   SEKI, M
+   KANZAKI, H
+AF TANIGUCHI, M
+   SUGA, S
+   SHIN, S
+   INOUE, K
+   SEKI, M
+   KANZAKI, H
+TI CORE-LEVEL REFLECTANCE SPECTROSCOPY OF GERMANIUM BY MEANS OF SYNCHROTRON
+   RADIATION
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+RP TANIGUCHI, M (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR CARDONA M, 1970, 10TH P INT C PHYS SE, P209
+   CARDONA M, 1973, PHYS STATUS SOLIDI B, V58, P483, DOI 10.1002/pssb.2220580207
+   CARDONA M, 1966, PHYS REV, V142, P530, DOI 10.1103/PhysRev.142.530
+   CHELIKOWSKY JR, 1976, PHYS REV B, V14, P556, DOI 10.1103/PhysRevB.14.556
+   CONDON EU, 1964, THEORY ATOMIC SPECTR, P243
+   DRESSELH.G, 1967, PHYS REV, V160, P649, DOI 10.1103/PhysRev.160.649
+   EASTMAN DE, 1974, PHYS REV LETT, V33, P1601, DOI 10.1103/PhysRevLett.33.1601
+   ENGELER WE, 1966, PHYS REV LETT, V16, P239, DOI 10.1103/PhysRevLett.16.239
+   FEUERBAC.B, 1968, J OPT SOC AM, V58, P1434
+   GARNER CM, 1977, J VAC SCI TECHNOL, V14, P372, DOI 10.1116/1.569210
+   GROBMAN WD, 1975, PHYS REV B, V12, P4405, DOI 10.1103/PhysRevB.12.4405
+   LUDEKE R, 1975, PHYS REV LETT, V34, P817, DOI 10.1103/PhysRevLett.34.817
+   ONODERA Y, 1967, J PHYS SOC JPN, V22, P833, DOI 10.1143/JPSJ.22.833
+   Phillips J.C., 1966, SOLID STATE PHYS, V18, P55
+   QUATTROPANI A, 1979, NUOVO CIMENTO B, V51, P335, DOI 10.1007/BF02743442
+   ROWE JE, 1974, SOLID STATE COMMUN, V15, P1505, DOI 10.1016/0038-1098(74)90926-0
+   SARAVIA LR, 1968, PHYS REV, V176, P915, DOI 10.1103/PhysRev.176.915
+   TANIGUCHI M, SOLID STATE COMMUN
+   WANG CS, 1981, PHYS REV B, V24, P3393, DOI 10.1103/PhysRevB.24.3393
+NR 19
+TC 4
+Z9 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1982
+VL 44
+IS 1
+BP 85
+EP 88
+DI 10.1016/0038-1098(82)90719-0
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA PG483
+UT WOS:A1982PG48300019
+ER
+
+PT J
+AU INOUE, K
+   SAKAMOTO, H
+   KANZAKI, H
+AF INOUE, K
+   SAKAMOTO, H
+   KANZAKI, H
+TI EXCITATION-SPECTRA OF THE INTRINSIC LUMINESCENCE OF SOLID NEON
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+RP INOUE, K (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+CR ACKERMANN C, 1976, J LUMIN, V12, P315, DOI 10.1016/0022-2313(76)90099-5
+   BELOV AG, 1979, JETP LETT+, V30, P114
+   COHEN JS, 1974, J CHEM PHYS, V61, P3230, DOI 10.1063/1.1682481
+   FUGOL IY, 1978, ADV PHYS, V27, P1, DOI 10.1080/00018737800101344
+   MATSUURA Y, 1981, J PHYS SOC JPN, V50, P933, DOI 10.1143/JPSJ.50.933
+   Moore C. E., 1949, ATOMIC ENERGY LEVELS, VI
+   NASU K, 1981, J PHYS SOC JPN, V50, P235, DOI 10.1143/JPSJ.50.235
+   PUDEWILL D, 1976, PHYS STATUS SOLIDI B, V74, P485, DOI 10.1002/pssb.2220740209
+   ROY D, 1974, CAN J PHYS, V52, P1178
+   TANAKA Y, 1981, J CHEM PHYS, V74, P2760, DOI 10.1063/1.441446
+   YANAGIHARA M, 1979, ACTIVITY REPORT SYNC, P104
+   ZIMMERER G, 1978, LUMINESCENCE INORGAN, P627
+   ZIMMERER G, 1979, J LUMIN, V18-9, P875, DOI 10.1016/0022-2313(79)90255-2
+NR 13
+TC 4
+Z9 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1982
+VL 44
+IS 7
+BP 1007
+EP 1010
+DI 10.1016/0038-1098(82)90323-4
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA PT247
+UT WOS:A1982PT24700008
+ER
+
+PT J
+AU TANIGUCHI, M
+   SUGA, S
+   SHIN, S
+   INOUE, K
+   SEKI, M
+   KANZAKI, H
+   NAKASHIMA, H
+   SHIRAKI, Y
+AF TANIGUCHI, M
+   SUGA, S
+   SHIN, S
+   INOUE, K
+   SEKI, M
+   KANZAKI, H
+   NAKASHIMA, H
+   SHIRAKI, Y
+TI CORE-EXCITON SPECTRA OF ALXGA1-XAS STUDIED WITH SYNCHROTRON RADIATION
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 HITACHI LTD,CENT RES LAB,KOKUBUNJI,TOKYO 185,JAPAN.
+RP TANIGUCHI, M (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR ASPNNES DE, 1973, PHYS REV B, V7, P4605, DOI 10.1103/PhysRevB.7.4605
+   ASPNES DE, 1980, 15TH P INT C PHYS SE, P109
+   BALDERESCHI A, 1977, J PHYS C SOLID STATE, V10, P4709, DOI 10.1088/0022-3719/10/23/007
+   CHELIKOWSKY JR, 1976, PHYS REV B, V14, P556, DOI 10.1103/PhysRevB.14.556
+   CHEN AB, 1981, PHYS REV B, V23, P5360, DOI 10.1103/PhysRevB.23.5360
+   CHO K, 1978, 14TH P INT C PHYS SE, P841
+   EASTMAN DE, 1980, PHYS REV LETT, V45, P656, DOI 10.1103/PhysRevLett.45.656
+   GUDAT W, 1972, PHYS STATUS SOLIDI B, V52, P505, DOI 10.1002/pssb.2220520220
+   HARRISON WA, 1980, ELECTRONIC STRUCTURE, P142
+   KELSO SM, 1980, PHYS REV LETT, V45, P1032, DOI 10.1103/PhysRevLett.45.1032
+   LEE HJ, 1980, PHYS REV B, V21, P659, DOI 10.1103/PhysRevB.21.659
+   LEY L, 1974, PHYS REV B, V9, P600, DOI 10.1103/PhysRevB.9.600
+   LIFSHITZ N, 1980, PHYS REV B, V21, P670, DOI 10.1103/PhysRevB.21.670
+   ONODERA Y, 1967, J PHYS SOC JPN, V22, P833, DOI 10.1143/JPSJ.22.833
+   STUKEL D, 1971, NBS SPEC PUBL, V323, P93
+   TANIGUCHI M, SOLID STATE COMMUN
+   WANG CS, 1981, PHYS REV B, V24, P3393, DOI 10.1103/PhysRevB.24.3393
+NR 17
+TC 9
+Z9 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1982
+VL 44
+IS 7
+BP 1079
+EP 1082
+DI 10.1016/0038-1098(82)90340-4
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA PT247
+UT WOS:A1982PT24700025
+ER
+
+PT J
+AU SUEMOTO, T
+   KANZAKI, H
+AF SUEMOTO, T
+   KANZAKI, H
+TI RELAXATION PROCESSES FROM HIGHER EXCITED-STATES OF SELF-TRAPPED EXCITONS
+   IN CONDENSED NEON
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+RP SUEMOTO, T (reprint author), TOHOKU UNIV,SCI MEASUREMENTS RES INST,SENDAI,MIYAGI 980,JAPAN.
+CR BELOV AG, 1979, JETP LETT+, V30, P114
+   FUGOL IY, 1978, ADV PHYS, V27, P1, DOI 10.1080/00018737800101344
+   FUGOL IY, 1972, SOV PHYS JETP LETT, V16, P172
+   Moore C. E., 1949, ATOMIC ENERGY LEVELS, VI
+   SODA K, 1980, J PHYS SOC JPN, V48, P1618, DOI 10.1143/JPSJ.48.1618
+   SUEMOTO T, 1979, J PHYS SOC JPN, V46, P1554, DOI 10.1143/JPSJ.46.1554
+   SUEMOTO T, 1980, J PHYS SOC JPN, V49, P1039, DOI 10.1143/JPSJ.49.1039
+   TANIMURA K, 1980, SOLID STATE COMMUN, V36, P745, DOI 10.1016/0038-1098(80)90003-4
+   WILLIAMS RT, 1978, SEMICOND INSUL, V3, P251
+   WILLIAMS RT, 1976, PHYS REV LETT, V36, P529, DOI 10.1103/PhysRevLett.36.529
+   YOSHINARI T, 1978, J PHYS SOC JPN, V45, P936, DOI 10.1143/JPSJ.45.936
+   YOSHINARI T, 1978, J PHYS SOC JPN, V45, P1926, DOI 10.1143/JPSJ.45.1926
+   ZIMMERER G, 1979, J LUMIN, V18-9, P875, DOI 10.1016/0022-2313(79)90255-2
+   1972, AM I PHYSICS HDB
+NR 14
+TC 17
+Z9 17
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1981
+VL 50
+IS 11
+BP 3664
+EP 3668
+DI 10.1143/JPSJ.50.3664
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA MX579
+UT WOS:A1981MX57900028
+ER
+
+PT J
+AU MIKI, T
+   IKEYA, M
+   KONDO, Y
+   KANZAKI, H
+AF MIKI, T
+   IKEYA, M
+   KONDO, Y
+   KANZAKI, H
+TI REFLECTANCE SPECTRUM OF LITHIUM HYDRIDE AT THE LI K-ABSORPTION EDGE
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,TOKYO 106,JAPAN.
+RP MIKI, T (reprint author), YAMAGUCHI UNIV,COLL TECH,UBE,YAMAGUCHI 755,JAPAN.
+CR ALTARELLI M, 1978, J PHYS PARIS C, V39, P95, DOI 10.1051/jphyscol:1978412
+   BETENEKOVA TA, 1978, SOV PHYS-SOLID STATE, V20, P1426
+   EDERER DL, 1970, PHYS REV LETT, V25, P1537, DOI 10.1103/PhysRevLett.25.1537
+   Ewing DH, 1936, PHYS REV, V50, P760, DOI 10.1103/PhysRev.50.760
+   GROSSO G, 1979, PHYS REV B, V20, P2366, DOI 10.1103/PhysRevB.20.2366
+   GUDAT W, 1974, PHYS REV LETT, V32, P1370, DOI 10.1103/PhysRevLett.32.1370
+   HAENSEL R, 1968, PHYS REV LETT, V20, P262, DOI 10.1103/PhysRevLett.20.262
+   KULIKOV NI, 1978, SOV PHYS-SOLID STATE, V20, P1170
+   KUNZ AB, 1975, PHYS REV B, V11, P1700, DOI 10.1103/PhysRevB.11.1700
+   KUNZ AB, 1973, J PHYS C SOLID STATE, V6, pL83, DOI 10.1088/0022-3719/6/5/001
+   MAISTE AA, 1974, SOV PHYS-SOLID STATE, V16, P203
+   MIYAKE KP, 1964, SCI LIGHT, V18, P39
+   PANTELIDES ST, 1975, PHYS REV B, V11, P2391, DOI 10.1103/PhysRevB.11.2391
+   PANTELID.ST, 1974, PHYS REV LETT, V33, P298, DOI 10.1103/PhysRevLett.33.298
+   PERROT F, 1976, PHYS STATUS SOLIDI B, V77, P517, DOI 10.1002/pssb.2220770212
+   ROESSLER DM, 1965, BRIT J APPL PHYS, V16, P1359, DOI 10.1088/0508-3443/16/9/317
+   SONNTAG BF, 1974, PHYS REV B, V9, P3601, DOI 10.1103/PhysRevB.9.3601
+   SUGA S, 1978, ACTIVITY REPORT SYNC, P43
+   SUGA S, 1979, ACTIVITY REPORT SRL, P72
+   ZUNGER A, 1977, PHYS REV B, V16, P2901, DOI 10.1103/PhysRevB.16.2901
+NR 20
+TC 7
+Z9 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1981
+VL 39
+IS 5
+BP 647
+EP 649
+DI 10.1016/0038-1098(81)90342-2
+PG 3
+WC Physics, Condensed Matter
+SC Physics
+GA MB113
+UT WOS:A1981MB11300010
+ER
+
+PT J
+AU SHIN, S
+   SUGA, S
+   KANZAKI, H
+   SHIBUYA, S
+   YAMAGUCHI, T
+AF SHIN, S
+   SUGA, S
+   KANZAKI, H
+   SHIBUYA, S
+   YAMAGUCHI, T
+TI MULTIPLET STRUCTURES OF THE INNER CORE ABSORPTION-SPECTRA OF KMNF3 AND
+   KCOF3 MEASURED BY SYNCHROTRON RADIATION
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+C1 SHIZUOKA UNIV,FAC ENGN,DEPT APPL PHYS,HAMAMATSU,SHIZUOKA 432,JAPAN.
+RP SHIN, S (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI,TOKYO 188,JAPAN.
+CR ASADA S, 1975, J PHYS SOC JPN, V37, P855
+   BEAUMONT JH, 1977, J PHYS C SOLID STATE, V10, P333, DOI 10.1088/0022-3719/10/2/016
+   BROWN FC, 1971, SOLID STATE COMMUN, V9, P487, DOI 10.1016/0038-1098(71)90327-9
+   BRUHN R, 1978, PHYS LETT A, V69, P9, DOI 10.1016/0375-9601(78)90420-6
+   DAVIS LC, 1978, PHYS REV A, V17, P2012, DOI 10.1103/PhysRevA.17.2012
+   KOTANI A, 1979, SYNCHROTRON RAD, pCH4
+   NAKAI S, 1974, PHYS REV B, V9, P1870, DOI 10.1103/PhysRevB.9.1870
+   ONUKI H, 1976, SOLID STATE COMMUN, V20, P35, DOI 10.1016/0038-1098(76)91693-8
+   Sugano S., 1970, MULTIPLETS TRANSITIO
+   SUGAWARA F, 1978, J PHYS SOC JPN, V44, P1045, DOI 10.1143/JPSJ.44.1045
+   WATSON RE, 1959, MIT12 TECHN REP
+   YAMAGUCHI T, UNPUBLISHED
+   YAMAGUCHI T, 1977, J PHYS SOC JPN, V42, P1949, DOI 10.1143/JPSJ.42.1949
+NR 13
+TC 12
+Z9 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1981
+VL 38
+IS 12
+BP 1281
+EP 1284
+DI 10.1016/0038-1098(81)91006-1
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA LV581
+UT WOS:A1981LV58100041
+ER
+
+PT J
+AU SEKI, K
+   NAKAGAWA, K
+   SATO, N
+   INOKUCHI, H
+   HASHIMOTO, S
+   INOUE, K
+   SUGA, S
+   KANZAKI, H
+   TAKAGI, K
+AF SEKI, K
+   NAKAGAWA, K
+   SATO, N
+   INOKUCHI, H
+   HASHIMOTO, S
+   INOUE, K
+   SUGA, S
+   KANZAKI, H
+   TAKAGI, K
+TI ANISOTROPIC CARBON 1S XUV ABSORPTION-SPECTRA OF ORIENTED
+   ST-1,2-POLYBUTADIENE FILMS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+C1 JAPAN SYNTHET RUBBER CO,RES LAB,TAMA KU,KAWASAKI 214,JAPAN.
+   UNIV TOKYO,INST SOLID STATE PHYS,SYNCHROTRON RADIAT LAB,TANASHI 188,JAPAN.
+   NAGOYA UNIV,FAC ENGN,DEPT CRYSTALLINE MAT SCI,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+RP SEKI, K (reprint author), INST MOLEC SCI,OKAZAKI 444,JAPAN.
+CR BLOOR D, 1976, CHEM PHYS LETT, V40, P323, DOI 10.1016/0009-2614(76)85088-9
+   BROWN FC, 1978, CHEM PHYS LETT, V54, P425, DOI 10.1016/0009-2614(78)85253-1
+   DELHALLE J, 1974, J CHEM PHYS, V60, P595, DOI 10.1063/1.1681079
+   EBERHARDT W, 1976, CHEM PHYS LETT, V40, P180, DOI 10.1016/0009-2614(76)85054-3
+   FUJIHIRA M, 1972, CHEM PHYS LETT, V17, P554, DOI 10.1016/0009-2614(72)85104-2
+   FUJIHIRA M, 1973, CHEM PHYS LETT, V19, P584, DOI 10.1016/0009-2614(73)85153-X
+   HASHIMOTO S, 1978, REPT PROGR POLYM PHY, V21, P379
+   HASHIMOTO S, 1977, REPT PROGR POLYM PHY, V20, P437
+   HASHIMOTO S, UNPUBLISHED
+   HASHIMOTO S, 1976, POLYM J, V8, P467, DOI 10.1295/polymj.8.467
+   HASHIMOTO S, 1977, REPT PROGR POLYM PHY, V20, P441
+   HASHIMOTO S, 1976, CHEM PHYS LETT, V40, P279, DOI 10.1016/0009-2614(76)85078-6
+   HASHIMOTO S, 1978, REPT PROGR POLYM PHY, V21, P375
+   HITCHCOCK AP, 1978, J ELECTRON SPECTROSC, V13, P193, DOI 10.1016/0368-2048(78)85027-0
+   HITCHCOCK AP, 1977, J ELECTRON SPECTROSC, V10, P317, DOI 10.1016/0368-2048(77)85029-9
+   ISAACSON M, 1972, J CHEM PHYS, V56, P1813, DOI 10.1063/1.1677457
+   LESS KJ, 1973, J PHYS C SOLID STATE, V6, P3110, DOI 10.1088/0022-3719/6/21/014
+   NAKAMURA M, 1968, PHYS REV LETT, V21, P1303, DOI 10.1103/PhysRevLett.21.1303
+   NATTA G, 1956, J POLYM SCI, V20, P251, DOI 10.1002/pol.1956.120209503
+   RITSKO JJ, 1979, J CHEM PHYS, V70, P5343, DOI 10.1063/1.437465
+   RITSKO JJ, 1978, J CHEM PHYS, V69, P3931, DOI 10.1063/1.437131
+   RITSKO JJ, 1978, J CHEM PHYS, V69, P4162, DOI 10.1063/1.437096
+   SEKI K, UNPUBLISHED
+   STOHR J, 1977, 5TH INT C VUV RAD PH, V2
+   VERBIST J, 1978, QUANTUM THEORY POLYM, P31
+NR 25
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1980
+VL 70
+IS 2
+BP 220
+EP 223
+DI 10.1016/0009-2614(80)85321-8
+PG 4
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA JL958
+UT WOS:A1980JL95800002
+ER
+
+PT J
+AU SUEMOTO, T
+   KANZAKI, H
+AF SUEMOTO, T
+   KANZAKI, H
+TI FORMATION PROCESS OF SELF-TRAPPED EXCITON BUBBLES IN SOLID NEON
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+CR CHADWICK AV, 1976, RARE GAS SOLIDS, V2, pCH19
+   FUGOL IY, 1978, ADV PHYS, V27, P1, DOI 10.1080/00018737800101344
+   HICKMAN AP, 1975, PHYS REV B, V12, P3705, DOI 10.1103/PhysRevB.12.3705
+   HILL JC, 1971, PHYS REV LETT, V26, P1213, DOI 10.1103/PhysRevLett.26.1213
+   IWATA S, 1979, CHEM PHYS, V37, P251, DOI 10.1016/0301-0104(79)80025-7
+   MONTROLL EW, 1965, J MATH PHYS, V6, P167, DOI 10.1063/1.1704269
+   Moore C. E., 1949, ATOMIC ENERGY LEVELS, VI
+   NIEBEL KF, 1976, RARE GAS SOLIDS, V1, pCH9
+   PACKARD RE, 1970, PHYS REV LETT, V25, P1435, DOI 10.1103/PhysRevLett.25.1435
+   POLLACK GL, 1964, REV MOD PHYS, V36, P748, DOI 10.1103/RevModPhys.36.748
+   SCHWENTNER N, 1975, PHYS REV LETT, V34, P528, DOI 10.1103/PhysRevLett.34.528
+   SIROVICH BE, 1977, PHYS REV B, V15, P5107, DOI 10.1103/PhysRevB.15.5107
+   SUEMOTO T, 1979, J PHYS SOC JPN, V46, P1554, DOI 10.1143/JPSJ.46.1554
+   WILLIAMS RT, 1978, SEMICOND INSUL, V3, P251
+   WILLIAMS RT, 1978, PHYS REV B, V18, P7038, DOI 10.1103/PhysRevB.18.7038
+   1972, AM I PHYSICS HDB
+NR 16
+TC 37
+Z9 37
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1980
+VL 49
+IS 3
+BP 1039
+EP 1045
+DI 10.1143/JPSJ.49.1039
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA KR116
+UT WOS:A1980KR11600029
+ER
+
+PT J
+AU SUEMOTO, T
+   KANZAKI, H
+AF SUEMOTO, T
+   KANZAKI, H
+TI TIME-RESOLVED ABSORPTION SPECTROSCOPY OF SELF-TRAPPED EXCITONS IN N
+   CONDENSED NE, AR, AND KR
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP SUEMOTO, T (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 113,JAPAN.
+CR ARAI S, 1978, J CHEM PHYS, V68, P4595, DOI 10.1063/1.435565
+   Basov N. G., 1970, J LUMIN, V1-2, P834, DOI 10.1016/0022-2313(70)90095-5
+   BASOV NG, J LUMINESCENCE, V2
+   BASOV NG, 1971, KVANTOVAYA ELEKTRON, V1, P29
+   COHEN JS, 1974, J CHEM PHYS, V61, P3230, DOI 10.1063/1.1682481
+   COLETTI F, 1978, CHEM PHYS LETT, V55, P92, DOI 10.1016/0009-2614(78)85141-0
+   DEBEVER JM, 1974, SOLID STATE COMMUN, V14, P989, DOI 10.1016/0038-1098(74)90409-8
+   FUGOL IY, 1972, JETP LETT-USSR, V16, P172
+   FUGOL IY, 1978, ADV PHYS, V27, P1, DOI 10.1080/00018737800101344
+   IWATA S, UNPUBLISHED
+   JORTNER J, 1965, J CHEM PHYS, V42, P4250, DOI 10.1063/1.1695927
+   KABLER MN, 1972, POINT DEFECTS SOLIDS, P355
+   KETO JW, 1974, PHYS REV A, V10, P887, DOI 10.1103/PhysRevA.10.887
+   KETO JW, 1974, PHYS REV A, V10, P872, DOI 10.1103/PhysRevA.10.872
+   KUBOTA S, 1978, J PHYS C SOLID STATE, V11, P2645, DOI 10.1088/0022-3719/11/12/024
+   Ladenburg R, 1934, Z PHYS, V88, P461, DOI 10.1007/BF01351777
+   Moore C. E., 1949, ATOMIC ENERGY LEVELS, VI
+   OKA T, 1974, J CHEM PHYS, V61, P4740, DOI 10.1063/1.1681797
+   PACKARD RE, 1970, PHYS REV LETT, V25, P1435, DOI 10.1103/PhysRevLett.25.1435
+   SAXON RP, 1976, J CHEM PHYS, V64, P3291, DOI 10.1063/1.432616
+   SCHWENTNER N, 1975, PHYS REV LETT, V34, P528, DOI 10.1103/PhysRevLett.34.528
+   SOLEY FJ, 1975, PHYS LETT A, V55, P49, DOI 10.1016/0375-9601(75)90390-4
+   SONG KS, 1978, SOLID STATE COMMUN, V27, P1003, DOI 10.1016/0038-1098(78)91024-4
+   SPIEGELMANN F, 1978, CHEM PHYS LETT, V57, P214, DOI 10.1016/0009-2614(78)80437-0
+   SUEMOTO T, 1978, SOLID STATE COMMUN, V25, P669, DOI 10.1016/0038-1098(78)90786-X
+   SUEMOTO T, 1977, PHYS LETT A, V61, P131, DOI 10.1016/0375-9601(77)90860-X
+   WADT WR, 1977, APPL PHYS LETT, V31, P672, DOI 10.1063/1.89499
+   WERNER CW, 1977, IEEE J QUANTUM ELECT, V13, P769, DOI 10.1109/JQE.1977.1069635
+   WILLIAMS RT, 1974, PHYS REV B, V9, P1897, DOI 10.1103/PhysRevB.9.1897
+   ZIMMERER G, 1978, SR7812 DESY REP
+   1972, AM I PHYSICS HDB
+NR 31
+TC 37
+Z9 37
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1979
+VL 46
+IS 5
+BP 1554
+EP 1562
+DI 10.1143/JPSJ.46.1554
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA HB713
+UT WOS:A1979HB71300021
+ER
+
+PT J
+AU INOUE, K
+   KANZAKI, H
+   SUGA, S
+AF INOUE, K
+   KANZAKI, H
+   SUGA, S
+TI FUNDAMENTAL ABSORPTION-SPECTRA OF SOLID HYDROGEN
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+RP INOUE, K (reprint author), UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+CR BACKX C, 1976, J PHYS B-AT MOL OPT, V9, P315, DOI 10.1088/0022-3700/9/2/018
+   BALDINI G, 1965, JPN J APPL PHYS, VS  4, P613
+   Beutler H, 1936, Z PHYS, V100, P80, DOI 10.1007/BF01337746
+   COOK GR, 1964, J OPT SOC AM, V54, P968, DOI 10.1364/JOSA.54.000968
+   GEDANKEN A, 1973, J CHEM PHYS, V59, P2752, DOI 10.1063/1.1680396
+   GEIGER J, 1969, J MOL SPECTROSC, V32, P39, DOI 10.1016/0022-2852(69)90141-6
+   Herzberg G., 1950, MOL SPECTRA MOL STRU
+   LEE TJ, 1972, J VAC SCI TECHNOL, V9, P257, DOI 10.1116/1.1316574
+NR 8
+TC 27
+Z9 27
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1979
+VL 30
+IS 10
+BP 627
+EP 629
+DI 10.1016/0038-1098(79)90110-8
+PG 3
+WC Physics, Condensed Matter
+SC Physics
+GA GX093
+UT WOS:A1979GX09300009
+ER
+
+EF

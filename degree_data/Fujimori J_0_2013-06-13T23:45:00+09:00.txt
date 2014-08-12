@@ -1,0 +1,732 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Okada, T
+   Aida, M
+   Fujimori, J
+   Katsumura, M
+   Iida, T
+AF Okada, Takeru
+   Aida, Makoto
+   Fujimori, Jiro
+   Katsumura, Masahiro
+   Iida, Tetsuya
+TI High-Density Electron-Beam Recording of Circumferentially Aligned Dots
+   by Using Substrates with Low Atomic Numbers
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID PATTERNED MEDIA; COLD DEVELOPMENT; LITHOGRAPHY; FABRICATION; SCATTERING;
+   POLY(METHYLMETHACRYLATE); GBIT/IN(2); LINEWIDTH; SYSTEM; DISK
+AB Reducing proximity effects is a key factor for achieving a higher resolution in electron-beam lithography and realizing the mastering of patterned media. The effect of substrate materials on backscattering electrons was investigated by simulation and experiment, and resolution enhancement was demonstrated. In Monte Carlo simulations with 100 keV incident electrons, the intensity of backscattering electrons decreased with decreasing atomic number of substrates. On the other hand, both the density of substrates and the existence of 10 nm thin films had negligible effects on the intensity of backscattering electrons. The measured exposure distributions from line-scanned electron beams supported the results of simulations. The intensity of backscattering electrons was reduced by using a carbon substrate, and circumferentially aligned high-density patterns of 878 Gbit/in.(2) were resolved. (C) 2012 The Japan Society of Applied Physics
+C1 Pioneer Corp, Tokorozawa, Saitama 3591167, Japan.
+RP Okada, T (reprint author), Pioneer Corp, Tokorozawa, Saitama 3591167, Japan.
+EM takeru_okada@post.pioneer.co.jp
+CR Abe T, 2007, JPN J APPL PHYS 1, V46, P826, DOI 10.1143/JJAP.46.826
+   CHOU SY, 1994, J VAC SCI TECHNOL B, V12, P3695, DOI 10.1116/1.587642
+   CZYZEWSKI Z, 1990, J APPL PHYS, V68, P3066
+   DOBISZ EA, 1992, J VAC SCI TECHNOL B, V10, P3067, DOI 10.1116/1.585930
+   Hellwig O, 2010, APPL PHYS LETT, V96, DOI 10.1063/1.3293301
+   HOSAKA S, 1982, JPN J APPL PHYS 1, V21, P543, DOI 10.1143/JJAP.21.543
+   Hu WC, 2004, J VAC SCI TECHNOL B, V22, P1711, DOI 10.1116/1.1763897
+   Katsumura M, 2005, JPN J APPL PHYS 1, V44, P3578, DOI 10.1143/JJAP.44.3578
+   Kitahara H, 2010, JPN J APPL PHYS, V49, DOI 10.1143/JJAP.49.06GE02
+   Kojima Y, 1998, JPN J APPL PHYS 1, V37, P2137, DOI 10.1143/JJAP.37.2137
+   Lambert E., 1991, J APPL PHYS, V69, P4724
+   Lister KA, 2004, MICROELECTRON ENG, V73-4, P319, DOI 10.1016/j.mee.2004.02.060
+   Miyazaki T, 2008, J VAC SCI TECHNOL B, V26, P2611, DOI 10.1116/1.3013277
+   MURATA K, 1971, JPN J APPL PHYS, V10, P678, DOI 10.1143/JJAP.10.678
+   Namatsu H, 1998, J VAC SCI TECHNOL B, V16, P69, DOI 10.1116/1.589837
+   Namatsu H, 2003, J VAC SCI TECHNOL B, V21, P1, DOI 10.1116/1.1528919
+   NIGAM BP, 1959, PHYS REV, V115, P491, DOI 10.1103/PhysRev.115.491
+   Ocola LE, 2006, J VAC SCI TECHNOL B, V24, P3061, DOI 10.1116/1.2366698
+   Okada T, 2011, J VAC SCI TECHNOL B, V29, DOI 10.1116/1.3569892
+   Reinspach J, 2009, J VAC SCI TECHNOL B, V27, P2593, DOI 10.1116/1.3237140
+   RISHTON SA, 1987, J VAC SCI TECHNOL B, V5, P135, DOI 10.1116/1.583847
+   Ross C, 2001, ANN REV MATER RES, V31, P203, DOI 10.1146/annurev.matsci.31.1.203
+   Schmid GM, 2009, J VAC SCI TECHNOL B, V27, P573, DOI 10.1116/1.3081981
+   Service RF, 2006, SCIENCE, V314, P1868, DOI 10.1126/science.314.5807.1868
+   Wada Y., 2006, JPN J APPL PHYS, V45, P1401
+   Wada Y, 2001, JPN J APPL PHYS 1, V40, P1653, DOI 10.1143/JJAP.40.1653
+   White RL, 1997, IEEE T MAGN, V33, P990, DOI 10.1109/20.560144
+   Yan M, 2008, J VAC SCI TECHNOL B, V26, P2306, DOI 10.1116/1.3002562
+   Yang XM, 2009, IEEE T MAGN, V45, P833, DOI 10.1109/TMAG.2008.2010647
+NR 29
+TC 0
+Z9 0
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+JI Jpn. J. Appl. Phys.
+PD JAN
+PY 2012
+VL 51
+IS 1
+DI 10.1143/JJAP.51.016502
+PN Part 1
+PG 5
+WC Physics, Applied
+SC Physics
+GA 892PA
+UT WOS:000300296900070
+ER
+
+PT J
+AU Okada, T
+   Fujimori, J
+   Iida, T
+AF Okada, Takeru
+   Fujimori, Jiro
+   Iida, Tetsuya
+TI Nanoimprint Molds with Circumferentially Aligned Patterns Fabricated by
+   Liftoff Process
+SO JAPANESE JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID ELECTRON-BEAM LITHOGRAPHY; FLASH IMPRINT LITHOGRAPHY; OFF PROCESS; COLD
+   DEVELOPMENT; MEDIA; POLY(METHYLMETHACRYLATE); TRANSISTORS; STEP
+AB A liftoff process was used to fabricate nanoimprint molds with dense patterns below 50 nm pitch. Circumferentially aligned patterns were defined by electron-beam lithography (EBL) using an electron-beam recorder with a rotary stage. Undercut profiles suitable for liftoff were fabricated by etching multilayered resist systems that use a hydrogen silsesquioxane (HSQ) layer as an etching mask for the underlying resin, and liftoff was performed by dissolving the HSQ layer on an insoluble resin layer. By using an undercut profile that was formed in a trilayered stack after EBL, a mold with high-density (42 nm pitch) and large-area (2.5 in.) pillar patterns was fabricated. Quartz replica molds were also fabricated by the liftoff process combined with UV nanoimprint. It was possible to fabricate molds with both a positive tone and a negative tone, and the fabrication of a replica mold with pillar patterns (49 nm pitch) was demonstrated. (C) 2011 The Japan Society of Applied Physics
+C1 Pioneer Corp, Div Res & Dev, Tokorozawa, Saitama 3591167, Japan.
+RP Okada, T (reprint author), Pioneer Corp, Div Res & Dev, Tokorozawa, Saitama 3591167, Japan.
+CR Auzelyte V, 2008, MICROELECTRON ENG, V85, P1131, DOI 10.1016/j.mee.2008.01.064
+   Buyukkose S, 2011, J VAC SCI TECHNOL B, V29, DOI 10.1116/1.3562939
+   Chou SY, 1997, J VAC SCI TECHNOL B, V15, P2897, DOI 10.1116/1.589752
+   CHOU SY, 1995, APPL PHYS LETT, V67, P3114, DOI 10.1063/1.114851
+   CHOU SY, 1994, J VAC SCI TECHNOL B, V12, P3695, DOI 10.1116/1.587642
+   Dauksher WJ, 2003, J VAC SCI TECHNOL B, V21, P2771, DOI 10.1116/1.1629299
+   Fujimura M, 2006, JPN J APPL PHYS 1, V45, P1414, DOI 10.1143/JJAP.45.1414
+   Guo LJ, 1997, APPL PHYS LETT, V71, P1881, DOI 10.1063/1.119426
+   Haisma J, 1996, J VAC SCI TECHNOL B, V14, P4124, DOI 10.1116/1.588604
+   Hu WC, 2004, J VAC SCI TECHNOL B, V22, P1711, DOI 10.1116/1.1763897
+   Jung HY, 2009, J VAC SCI TECHNOL B, V27, P1861, DOI 10.1116/1.3156739
+   Kitahara H, 2010, JPN J APPL PHYS, V49, DOI 10.1143/JJAP.49.06GE02
+   Lambert E., 1991, J APPL PHYS, V69, P4724
+   Nakamatsu K, 2005, JPN J APPL PHYS 1, V44, P8186, DOI 10.1143/JJAP.44.8186
+   Ocola LE, 2006, J VAC SCI TECHNOL B, V24, P3061, DOI 10.1116/1.2366698
+   Okada T, 2011, J VAC SCI TECHNOL B, V29, DOI 10.1116/1.3569892
+   Reinspach J, 2009, J VAC SCI TECHNOL B, V27, P2593, DOI 10.1116/1.3237140
+   Ross CA, 1999, J VAC SCI TECHNOL B, V17, P3168, DOI 10.1116/1.590974
+   Schift H, 2008, J VAC SCI TECHNOL B, V26, P458, DOI 10.1116/1.2890972
+   Schmid GM, 2009, J VAC SCI TECHNOL B, V27, P573, DOI 10.1116/1.3081981
+   Smith KH, 2001, J VAC SCI TECHNOL B, V19, P2906, DOI 10.1116/1.1414013
+   Tallal J, 2005, J VAC SCI TECHNOL B, V23, P2914, DOI 10.1116/1.2130351
+   Tan EL, 2009, J VAC SCI TECHNOL B, V27, P2259, DOI 10.1116/1.3225597
+   Taniguchi J, 2000, JPN J APPL PHYS 1, V39, P7070, DOI 10.1143/JJAP.39.7070
+   White RL, 1997, IEEE T MAGN, V33, P990, DOI 10.1109/20.560144
+   Wu W, 1998, J VAC SCI TECHNOL B, V16, P3825, DOI 10.1116/1.590417
+   Yan M, 2008, J VAC SCI TECHNOL B, V26, P2306, DOI 10.1116/1.3002562
+   Yang HF, 2008, MICROELECTRON ENG, V85, P814, DOI 10.1016/j.mee.2008.01.006
+   Yang XM, 2009, IEEE T MAGN, V45, P833, DOI 10.1109/TMAG.2008.2010647
+   Yang XM, 2008, J VAC SCI TECHNOL B, V26, P2604, DOI 10.1116/1.2978487
+   Yu ZN, 2003, J VAC SCI TECHNOL B, V21, P2874, DOI 10.1116/1.1619958
+   Zhang W, 2003, APPL PHYS LETT, V83, P1632, DOI 10.1063/1.1600505
+NR 32
+TC 1
+Z9 1
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS
+JI Jpn. J. Appl. Phys.
+PD DEC
+PY 2011
+VL 50
+IS 12
+AR 126502
+DI 10.1143/JJAP.50.126502
+PG 6
+WC Physics, Applied
+SC Physics
+GA 898AO
+UT WOS:000300707400063
+ER
+
+PT J
+AU Kim, KH
+   Ueta, T
+   Okubo, T
+   Hayami, S
+   Anma, H
+   Kato, K
+   Shimizu, T
+   Fujimori, J
+   Maekawa, M
+   Kuroda-Sowa, T
+AF Kim, Kyung Ho
+   Ueta, Takashi
+   Okubo, Takashi
+   Hayami, Shinya
+   Anma, Haruho
+   Kato, Kazuya
+   Shimizu, Tetsuya
+   Fujimori, Jyunji
+   Maekawa, Masahiko
+   Kuroda-Sowa, Takayoshi
+TI Synthesis and Conducting Properties of a New Mixed-valence Cu(I)-Cu(II)
+   1-D Coordination Polymer Bridged by Morpholine Dithiocarbamate
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID METAL-ORGANIC FRAMEWORK; THIN-FILM; MMX-CHAIN; TRANSITION; COMPLEXES;
+   IMPEDANCE; LIGAND; MOBILITY; CRYSTAL; SERIES
+AB A novel mixed-valence Cu(I)-Cu(II) coordination polymer with an infinite one-dimensional (1-D) structure, [Cu(4)(I)Cu(II)I(4)(Mor-dtc)(2)(CH(3)CN)(2)](n) (Mor-dtc(-): morpholine dithiocarbamate), was prepared and structurally characterized by X-ray diffraction. This complex consists of a mononuclear copper(II) unit of [Cu(II)(Mor-dtc)(2)] and a tetranuclear Cu(I) unit of [Cu(4)I(4)(CH(3)CN)(2)]. It also shows semiconductive behaviors with a relatively small activation energy, which was revealed by impedance analysis.
+C1 Kinki Univ, Sch Sci & Engn, Osaka 5778502, Japan.
+   Kumamoto Univ, Fac Sci, Dept Chem, Kumamoto 8608555, Japan.
+RP Okubo, T (reprint author), Kinki Univ, Sch Sci & Engn, 3-4-1 Kowakae, Osaka 5778502, Japan.
+EM okubo_t@chem.kindai.ac.jp
+FU PRESTO (JST); Ministry of Education, Culture, Sports, Science and
+   Technology of Japan; New Energy and Industrial Technology Development
+   Organization (NEDO)
+FX This work was partly supported by PRESTO (JST), a Grant-in-Aid for
+   Science Research from the Ministry of Education, Culture, Sports,
+   Science and Technology of Japan, and "Development of Molecular Devices
+   in Ferroelectric Metallomesogens" from New Energy and Industrial
+   Technology Development Organization (NEDO).
+CR Amo-Ochoa P, 2009, INORG CHEM, V48, P7931, DOI 10.1021/ic900896w
+   Behera B, 2007, MATER CHEM PHYS, V106, P193, DOI 10.1016/j.matchemphys.2007.05.036
+   Carson CG, 2007, J PHYS CHEM B, V111, P14114, DOI 10.1021/jp0765852
+   Chandra KP, 2007, PHYSICA B, V388, P118, DOI 10.1016/j.physb.2006.05.010
+   Cho SH, 2006, CHEM COMMUN, P2563, DOI 10.1039/b600408c
+   Farrusseng D, 2009, ANGEW CHEM INT EDIT, V48, P7502, DOI 10.1002/anie.200806063
+   FERLAY S, 1995, NATURE, V378, P701, DOI 10.1038/378701a0
+   FUCHIGAMI H, 1993, APPL PHYS LETT, V63, P1372, DOI 10.1063/1.109680
+   Groothaert MH, 2005, J AM CHEM SOC, V127, P1394, DOI 10.1021/ja047158u
+   Ichikawa S, 2008, INORG CHEM, V47, P4140, DOI 10.1021/ic7019632
+   Jian FF, 1999, POLYHEDRON, V18, P3401, DOI 10.1016/S0277-5387(99)00242-9
+   Johnson D., 2009, ZVIEW SOFTWARE PROGR
+   Kahn O., 1993, MOL MAGNETISM
+   Kim KH, 2010, CHEM LETT, V39, P792, DOI 10.1246/cl.2010.792
+   Kitagawa S, 2004, ANGEW CHEM INT EDIT, V43, P2334, DOI 10.1002/anie.200300610
+   Kubelka P., 1931, Zeitschrift fur Technische Physik, V12
+   Lin YY, 1997, IEEE ELECTR DEVICE L, V18, P606, DOI 10.1109/55.644085
+   Mitsumi M, 2001, J AM CHEM SOC, V123, P11179, DOI 10.1021/ja010900v
+   Miyasaka H, 2010, J AM CHEM SOC, V132, P1532, DOI 10.1021/ja909489s
+   Nadeem M, 2005, SOLID STATE COMMUN, V134, P431, DOI 10.1016/j.ssc.2005.01.020
+   Ngo SC, 2003, POLYHEDRON, V22, P1575, DOI 10.1016/S0277-5387(03)00264-X
+   Noro S, 2010, PHYS CHEM CHEM PHYS, V12, P2519, DOI 10.1039/b916584c
+   Okubo T, 2010, INORG CHEM, V49, P3700, DOI 10.1021/ic1003098
+   Okubo T, 2011, DALTON T, V40, P2218, DOI 10.1039/c0dt01065k
+   Osaka I, 2010, J AM CHEM SOC, V132, P5000, DOI 10.1021/ja101125p
+   Otsubo K, 2006, J AM CHEM SOC, V128, P8140, DOI 10.1021/ja061871x
+   Sato O, 1996, SCIENCE, V271, P49, DOI 10.1126/science.271.5245.49
+   Sirringhaus H, 1998, SCIENCE, V280, P1741, DOI 10.1126/science.280.5370.1741
+   Sural M, 2000, SOLID STATE IONICS, V130, P259, DOI 10.1016/S0167-2738(00)00641-X
+   Szu SP, 2003, MATER CHEM PHYS, V82, P295, DOI 10.1016/S0254-0584(03)00220-7
+   Tadokoro M, 2006, ANGEW CHEM INT EDIT, V45, P5144, DOI 10.1002/anie.200600553
+   Takaishi S, 2009, INORG CHEM, V48, P9048, DOI 10.1021/ic802117q
+   Uemura T, 2006, ANGEW CHEM INT EDIT, V45, P4112, DOI 10.1002/anie.200600333
+   Yaghi OM, 2003, NATURE, V423, P705, DOI 10.1038/nature01650
+   Ye Q, 2006, J AM CHEM SOC, V128, P6554, DOI 10.1021/ja060856p
+   Zhang W, 2008, J AM CHEM SOC, V130, P10468, DOI 10.1021/ja803021v
+   Zhong JC, 2001, INORG CHEM, V40, P7096, DOI 10.1021/ic010630h
+   Zou RQ, 2006, ANGEW CHEM INT EDIT, V45, P2542, DOI 10.1002/anie.200503923
+NR 38
+TC 1
+Z9 1
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101-8307, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD OCT 5
+PY 2011
+VL 40
+IS 10
+BP 1184
+EP 1186
+DI 10.1246/cl.2011.1184
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 846XZ
+UT WOS:000296937800047
+ER
+
+PT J
+AU Moneck, MT
+   Okada, T
+   Fujimori, J
+   Kasuya, T
+   Katsumura, M
+   Iida, T
+   Kuriyama, K
+   Lin, WC
+   Sokalski, V
+   Powell, SP
+   Bain, JA
+   Zhu, JG
+AF Moneck, Matthew T.
+   Okada, Takeru
+   Fujimori, Jiro
+   Kasuya, Takayuki
+   Katsumura, Masahiro
+   Iida, Tetsuya
+   Kuriyama, Kazumi
+   Lin, Wen-Chin
+   Sokalski, Vincent
+   Powell, Stephen P.
+   Bain, James A.
+   Zhu, Jian-Gang
+TI Fabrication and Recording of Bit Patterned Media Prepared by Rotary
+   Stage Electron Beam Lithography
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT Conference on International Magnetics (INTERMAG)
+CY APR 25-29, 2011
+CL Taipei, TAIWAN
+SP IEEE Magnet Soc Educ Comm
+DE Bit patterned media; patterned servo; electron beam lithography; ion
+   milling
+ID CHALLENGES; TRACK
+AB Bit patterned media (BPM) is a promising technology for hard disk drive recording at ultra-high areal densities of 1 Tbit/in(2) and beyond. However, for BPM to be commercially viable, nanoscale bit patterns must be fabricated at low cost on a large scale and with low defect densities. The most likely route to realizing such criteria is through the use of high throughput nanoimprint lithography followed by direct etching of the recording media, where the bit pattern template is generated by highly accurate electron beam mastering tools. In this work, we experimentally demonstrate the merits of rotary stage electron beam mastering and the subsequent effects of direct pattern transfer on BPM and servo arrays patterned into 2.5 '' commercially available CoCrPt perpendicular recording media (PRM) at a density of 366 Gbit/in(2). The 42 nm pitch staggered bit patterns and corresponding servo arrays were lithographically generated by a Pioneer Corporation EBR-401 rotary stage electron beam mastering system and subsequently transferred into the media using a series of reactive ion etching and ion milling processes with C/SiN(x) mask structures and a novel Al protection layer. The fabricated media was recorded and read back with a commercial recording head to verify pattern fidelity.
+C1 Carnegie Mellon Univ, Dept Elect & Comp Engn, Pittsburgh, PA 15213 USA.
+   Pioneer Corp, Tokorozawa, Saitama 3591167, Japan.
+   Carnegie Mellon Univ, Dept Mat Sci & Engn, Pittsburgh, PA 15213 USA.
+RP Moneck, MT (reprint author), Carnegie Mellon Univ, Dept Elect & Comp Engn, Pittsburgh, PA 15213 USA.
+EM mmoneck@andrew.cmu.edu
+CR Che XD, 2007, IEEE T MAGN, V43, P4106, DOI 10.1109/TMAG.2007.908279
+   Dobisz EA, 2008, P IEEE, V96, P1836, DOI 10.1109/JPROC.2008.2007600
+   KITAHARA H, 2010, JPN J APPL PHYS, V49
+   MILEHAM JR, 1995, APPL PHYS LETT, V67, P1119, DOI 10.1063/1.114980
+   Moneck MT, 2007, IEEE T MAGN, V43, P2127, DOI 10.1109/TMAG.2007.893706
+   Richter HJ, 2009, J MAGN MAGN MATER, V321, P467, DOI 10.1016/j.jmmm.2008.04.161
+   Terris BD, 2009, J MAGN MAGN MATER, V321, P512, DOI 10.1016/j.jmmm.2008.05.046
+   Yang X, 2007, J VAC SCI TECHNOL B, V25, P2202, DOI 10.1116/1.2798711
+   Yang XM, 2008, J VAC SCI TECHNOL B, V26, P2604, DOI 10.1116/1.2978487
+   Zhou YC, 2005, J APPL PHYS, V97, DOI 10.1063/1.1853893
+NR 10
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD OCT
+PY 2011
+VL 47
+IS 10
+BP 2656
+EP 2659
+DI 10.1109/TMAG.2011.2157671
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 840DJ
+UT WOS:000296418200084
+ER
+
+PT J
+AU Okada, T
+   Fujimori, J
+   Aida, M
+   Fujimura, M
+   Yoshizawa, T
+   Katsumura, M
+   Iida, T
+AF Okada, Takeru
+   Fujimori, Jiro
+   Aida, Makoto
+   Fujimura, Megumi
+   Yoshizawa, Tatsuya
+   Katsumura, Masahiro
+   Iida, Tetsuya
+TI Enhanced resolution and groove-width simulation in cold development of
+   ZEP520A
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B
+LA English
+DT Article
+ID ELECTRON-BEAM LITHOGRAPHY; EXPOSURE; POLY(METHYLMETHACRYLATE); RESISTS;
+   MEDIA
+AB Cold development of positive-tone resist ZEP520A (Nippon Zean) in electron-beam lithography needs quantitative analysis for further improvement in resolution. Contrast curves and groove widths in cold development of ZEP520A were analyzed using models, and resolution enhancement was confirmed experimentally. Although the contrast improved at the expense of sensitivity in cold development, the improvement of contrast became smaller when the development temperature became colder. The dependence of contrast curve on developing temperature can be explained assuming resist dissolution rates that have an activation energy. For resolution evaluation, circumferentially aligned line-and-space patterns were exposed using an electron-beam recorder with a rotary stage. The resolved groove widths were explained by using the resist dissolution model and an incident electron distribution that consists of three Gaussians. Using these models, groove widths after development can be easily calculated at arbitrary development and exposure conditions. The resolution improved in lower temperature, and dense line-and-space patterns of 35 nm pitch were resolved in -10 degrees C. (C) 2011 American Vacuum Society. [DOI: 10.1116/1.3569892]
+C1 Pioneer Corp, Nanoproc Business Dev Dept, Tokorozawa, Saitama 3591167, Japan.
+RP Okada, T (reprint author), Pioneer Corp, Nanoproc Business Dev Dept, 2-70-1 Hayashi, Tokorozawa, Saitama 3591167, Japan.
+EM takeru_okada@post.pioneer.co.jp
+CR GREENEIC.JS, 1974, IEEE T ELECTRON DEV, VED21, P286, DOI 10.1109/T-ED.1974.17914
+   GREENEICH JS, 1974, J APPL PHYS, V45, P5264, DOI 10.1063/1.1663227
+   Hu WC, 2004, J VAC SCI TECHNOL B, V22, P1711, DOI 10.1116/1.1763897
+   Keil K, 2009, J VAC SCI TECHNOL B, V27, P47, DOI 10.1116/1.3039692
+   Kitahara H, 2010, JPN J APPL PHYS, V49, DOI 10.1143/JJAP.49.06GE02
+   Miyazaki T, 2008, J VAC SCI TECHNOL B, V26, P2611, DOI 10.1116/1.3013277
+   Ocola LE, 2006, J VAC SCI TECHNOL B, V24, P3061, DOI 10.1116/1.2366698
+   Reinspach J, 2009, J VAC SCI TECHNOL B, V27, P2593, DOI 10.1116/1.3237140
+   RISHTON SA, 1987, J VAC SCI TECHNOL B, V5, P135, DOI 10.1116/1.583847
+   Uhl A, 1998, J VAC SCI TECHNOL B, V16, P2968, DOI 10.1116/1.590327
+   Wada Y, 2001, JPN J APPL PHYS 1, V40, P1653, DOI 10.1143/JJAP.40.1653
+   Yan M, 2008, J VAC SCI TECHNOL B, V26, P2306, DOI 10.1116/1.3002562
+   Yang X, 2007, J VAC SCI TECHNOL B, V25, P2202, DOI 10.1116/1.2798711
+NR 13
+TC 5
+Z9 5
+PU A V S AMER INST PHYSICS
+PI MELVILLE
+PA STE 1 NO 1, 2 HUNTINGTON QUADRANGLE, MELVILLE, NY 11747-4502 USA
+SN 1071-1023
+J9 J VAC SCI TECHNOL B
+JI J. Vac. Sci. Technol. B
+PD MAR
+PY 2011
+VL 29
+IS 2
+AR 021604
+DI 10.1116/1.3569892
+PG 5
+WC Engineering, Electrical & Electronic; Nanoscience & Nanotechnology;
+   Physics, Applied
+SC Engineering; Science & Technology - Other Topics; Physics
+GA 745LD
+UT WOS:000289166000040
+ER
+
+PT J
+AU Fujimori, J
+   Yoshihashi, Y
+   Yonemochi, E
+   Terada, K
+AF Fujimori, J
+   Yoshihashi, Y
+   Yonemochi, E
+   Terada, K
+TI Application of Eudragit RS to thermo-sensitive drug delivery systems -
+   II. Effect of temperature on drug permeability through membrane
+   consisting of Eudragit RS/PEG 400 blend polymers
+SO JOURNAL OF CONTROLLED RELEASE
+LA English
+DT Article
+DE thermo-sensitive polymer; Eudragit; polyethylene glycol; glass
+   transition temperature; controlled release
+ID RELEASE; FILMS
+AB The Eudragit RS and polyethylene glycol 400 (PEG 400) blend polymer (EPG) membranes were prepared by the solvent casting method to pioneer a novel application of Eudragit RS to a thermo-sensitive material. The EPG membranes containing 2.5-10% PEG 400 (2.5-10% EPG) showed the glass transition temperatures (Tgs) around the body temperature (32-42 degreesC). Drug permeation studies through the EPG membranes were carried out using acetaminophen (AAP) and aminopyrine (AMP) as the model drugs. The permeability of AAP and AMP through the EPG membranes has been shown to be a discontinuous function of temperature, that is, their permeability increased steeply above the Tg of the membranes. The amount of AMP permeated at 42 degreesC was nearly eight times as much as that at 36 degreesC. Arrhenius plots of the steady-state permeability coefficient (P) of AAP indicated two straight lines that intersect at the Tg of the 10% EPG membrane. In the water uptake study for the 10% EPG membrane, the degree of the swelling for the membrane tended to increase with increasing temperature above the Tg of the membrane. The thermo-sensitive permeation mechanism for the EPG membranes might be based on the structure change of the membranes caused by the glass transition, so that the membranes could absorb more water. Considering the high biological safety of Eudragit RS and PEG 400, the EPG membranes might be used to develop a novel thermo-sensitive drug delivery system. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Toho Univ, Fac Pharmaceut Sci, Funabashi, Chiba 2748510, Japan.
+RP Fujimori, J (reprint author), Toho Univ, Fac Pharmaceut Sci, Funabashi, Chiba 2748510, Japan.
+EM greatsaltlake@nifty.com
+RI yonemochi, etsuo/F-2364-2011
+CR Bodmeier R, 1996, PHARMACEUT RES, V13, P52, DOI 10.1023/A:1016021115481
+   Fujimori J, 2002, CHEM PHARM BULL, V50, P408, DOI 10.1248/cpb.50.408
+   FUKUOKA E, 1989, CHEM PHARM BULL, V37, P1047
+   GONZALEZRODRIGUEZ, 2003, EUR J PHARM SCI, V20, P125
+   GORDON M, 1952, J APPL CHEM, V2, P493
+   Haznedar S, 2004, INT J PHARM, V269, P131, DOI 10.1016/j.ijpharm.2003.08.015
+   JENQUIN MR, 1992, J PHARM SCI, V81, P983, DOI 10.1002/jps.2600811005
+   KAWASHIMA Y, 1991, INT J PHARM, V75, P25, DOI 10.1016/0378-5173(91)90247-L
+   Kramar A, 2003, INT J PHARM, V256, P43, DOI 10.1016/S0378-5173(03)00061-9
+   Lazaridou A, 2002, CARBOHYD POLYM, V48, P179, DOI 10.1016/S0144-8617(01)00261-2
+   Narisawa S, 1996, J PHARM SCI, V85, P184, DOI 10.1021/js950180o
+   Peamchob N, 2003, EUR J PHARM BIOPHARM, V56, P363
+   Wagner KG, 2002, J CONTROL RELEASE, V82, P385, DOI 10.1016/S0168-3659(02)00145-1
+   Wu CB, 1999, INT J PHARM, V177, P15, DOI 10.1016/S0378-5173(98)00312-3
+   *ROHM PHARM, EUDR TECHN INF
+NR 15
+TC 24
+Z9 25
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-3659
+J9 J CONTROL RELEASE
+JI J. Control. Release
+PD JAN 20
+PY 2005
+VL 102
+IS 1
+BP 49
+EP 57
+DI 10.1016/j.jconrel.2004.09.027
+PG 9
+WC Chemistry, Multidisciplinary; Pharmacology & Pharmacy
+SC Chemistry; Pharmacology & Pharmacy
+GA 892CR
+UT WOS:000226627800005
+ER
+
+PT J
+AU Fujimori, J
+   Yonemochi, E
+   Fukuoka, E
+   Terada, K
+AF Fujimori, J
+   Yonemochi, E
+   Fukuoka, E
+   Terada, K
+TI Application of Eudragit RS to thermo-sensitive drug delivery systems. I.
+   Thermo-sensitive drug release from acetaminophen matrix tablets
+   consisting of Eudragit RS/PEG 400 blend polymers
+SO CHEMICAL & PHARMACEUTICAL BULLETIN
+LA English
+DT Article
+DE thermo-sensitive polymer; eudragit; polyethylene glycol; glass
+   transition temperature; controlled release
+ID INDOMETHACIN; TEMPERATURE
+AB In order to develop the polymer materials having temperature-sensitive and high biological safety, Eudragit RS-PO and polyethylene glycol 400 (PEG 400) blend polymers (EPG) were prepared. The EPGs that have the glass transition temperature (T.) at around the body temperature were prepared by the addition of 5-13% PEG 400 to Eudragit RS. As glassy polymers are not in thermodynamic equilibrium below their T., the effects of isothermal aging on the T(g)s of Eudragit RS and EPG containing 10% PEG 400 (10% EPG) were also studied at various aging temperatures. The T. values of Eudragit RS increased with the aging time and after 30 d of aging, they apparently reached constant values which markedly differed depending on the aging temperatures. On the other hand, the 71, values of 10% EPG were almost independent of the aging temperature and reached around 33 degreesC at 30 d after aging. The ability as thermo-sensitive polymer of EPG was evaluated by the dissolution test of the acetaminophen (AAP) matrix tablets prepared with EPG. The AAP release rate from the EPG matrix tablets slightly changed below the T-g of tablets, and then, it markedly increased above the Tg. Considering high biological safety of Eudragit RS and PEG 400, EPG might be available to develop the novel thermo-sensitive drug delivery systems.
+C1 Toho Univ, Fac Pharmaceut Sci, Funabashi, Chiba 2748510, Japan.
+RP Fujimori, J (reprint author), Toho Univ, Fac Pharmaceut Sci, 2-2-1 Miyama, Funabashi, Chiba 2748510, Japan.
+RI yonemochi, etsuo/F-2364-2011
+CR AOYAGI T, 1994, J CONTROL RELEASE, V32, P87
+   Bae Y.H., 1988, MAKROMOL CHEM-RAPID, V9, P185
+   FUKUOKA E, 1986, CHEM PHARM BULL, V34, P4314
+   ISHIHARA K, 1984, CHEM RAPID COMMUN, V5, P463
+   LIN YY, 1995, INT J PHARM, V124, P53, DOI 10.1016/0378-5173(95)00072-Q
+   Lovrecich M, 1996, INT J PHARM, V131, P247, DOI 10.1016/0378-5173(95)04354-3
+   Obaidat AA, 1996, PHARMACEUT RES, V13, P989, DOI 10.1023/A:1016090103979
+   PEPPAS NA, 1985, PHARM ACTA HELV, V60, P110
+   Serres A, 1996, PHARMACEUT RES, V13, P196, DOI 10.1023/A:1016026711364
+   YAMAOKA Y, 1982, IND PHARM CHEM, V3, P30
+   YOSHIDA R, 1994, J CONTROL RELEASE, V32, P97, DOI 10.1016/0168-3659(94)90229-1
+NR 11
+TC 10
+Z9 10
+PU PHARMACEUTICAL SOC JAPAN
+PI TOKYO
+PA 2-12-15-201 SHIBUYA, SHIBUYA-KU, TOKYO, 150, JAPAN
+SN 0009-2363
+J9 CHEM PHARM BULL
+JI Chem. Pharm. Bull.
+PD MAR
+PY 2002
+VL 50
+IS 3
+BP 408
+EP 412
+DI 10.1248/cpb.50.408
+PG 5
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA 526NT
+UT WOS:000174137100019
+ER
+
+PT J
+AU MASUDA, T
+   MISHIMA, K
+   FUJIMORI, J
+   NISHIDA, M
+   MURAMATSU, H
+   HIGASHIMURA, T
+AF MASUDA, T
+   MISHIMA, K
+   FUJIMORI, J
+   NISHIDA, M
+   MURAMATSU, H
+   HIGASHIMURA, T
+TI LIVING METATHESIS POLYMERIZATION OF
+   [ORTHO-(TRIFLUOROMETHYL)PHENYL]ACETYLENE BY MOLYBDENUM-BASED 3-COMPONENT
+   CATALYSTS
+SO MACROMOLECULES
+LA English
+DT Article
+ID FLUORINE-CONTAINING PHENYLACETYLENES; ACTIVATED ORGANIC-COMPOUNDS;
+   TUNGSTEN HEXACHLORIDE; CARBONYL OLEFINATIONS; 1-CHLORO-1-ALKYNES;
+   ACETYLENES
+AB Living metathesis polymerization of [omicron-(trifluoromethyl)phenyl]acetylene, a phenylacetylene with an electron-withdrawing group, has been achieved by using molybdenum-based three-component catalysts.  Thus polymerization by MoOCl4-n-Bu4Sn-EtOH (1:1:0.5 mole ratio) catalyst in toluene at 30-degrees-C produced a polymer having a narrow molecular weight distribution; M(w)BAR/M(n)BAR = 1.06.  Upon three consecutive additions of fresh monomer feeds to completely polymerized systems, the M(n)BAR of the polymer increased in direct proportion to monomer conversion, while the M(w)BAR/M(n)BAR remained < 1.1.  The initiator efficiency was ca. 0.10.  The MoCl5-n-Bu4Sn-EtOH (1:1:0.5) catalyst also induced living polymerization, though the M(w)BAR/M(n)BAR (ca. 1.20) was somewhat larger.  Effects of catalyst components and polymerization conditions have been studied.
+C1 GOVT IND RES INST,NAGOYA,AICHI 462,JAPAN.
+   GIFU UNIV,DEPT APPL CHEM,GIFU 50111,JAPAN.
+RP MASUDA, T (reprint author), KYOTO UNIV,DEPT POLYMER CHEM,KYOTO 606,JAPAN.
+CR Costa G., 1989, COMPREHENSIVE POLYM, V4
+   DRAGUTAN V, 1985, OLEFIN METATHESIS RI, P441
+   FUJIMORI J, 1988, POLYM BULL, V20, P1
+   IVIN KJ, 1987, MAKROMOL CHEM-RAPID, V8, P269
+   KATZ TJ, 1982, ORGANOMETALLICS, V1, P1093, DOI 10.1021/om00068a019
+   KAUFFMANN T, 1984, ANGEW CHEM INT EDIT, V23, P531, DOI 10.1002/anie.198405311
+   KAUFFMANN T, 1983, ANGEW CHEM INT EDIT, V22, P244, DOI 10.1002/anie.198302441
+   KODAIRA K, 1988, B CHEM SOC JPN, V61, P1625, DOI 10.1246/bcsj.61.1625
+   MASUDA T, 1988, MACROMOLECULES, V21, P281, DOI 10.1021/ma00180a001
+   MASUDA T, 1989, MACROMOLECULES, V22, P3804, DOI 10.1021/ma00199a053
+   MASUDA T, 1990, ACS ADV CHEM SER, V224, pCH35
+   MASUDA T, 1990, MACROMOLECULES, V23, P1374, DOI 10.1021/ma00207a023
+   MASUDA T, 1987, J CHEM SOC CHEM COMM, P1805, DOI 10.1039/c39870001805
+   MURAMATSU H, 1985, MACROMOLECULES, V18, P1634, DOI 10.1021/ma00150a019
+   OKUHARA K, 1976, J ORG CHEM, V41, P1487, DOI 10.1021/jo00871a001
+   RAPPE AK, 1982, J AM CHEM SOC, V104, P448, DOI 10.1021/ja00366a013
+   WALLACE KC, 1989, ORGANOMETALLICS, V8, P644, DOI 10.1021/om00105a011
+   WEISS K, 1986, J MOL CATAL, V36, P39, DOI 10.1016/0304-5102(86)85100-8
+   YOSHIMURA T, 1988, MACROMOLECULES, V21, P1899, DOI 10.1021/ma00185a002
+NR 19
+TC 35
+Z9 35
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0024-9297
+J9 MACROMOLECULES
+JI Macromolecules
+PD MAR 2
+PY 1992
+VL 25
+IS 5
+BP 1401
+EP 1404
+DI 10.1021/ma00031a007
+PG 4
+WC Polymer Science
+SC Polymer Science
+GA HG439
+UT WOS:A1992HG43900007
+ER
+
+PT J
+AU FUJIMORI, J
+   MASUDA, T
+   HIGASHIMURA, T
+AF FUJIMORI, J
+   MASUDA, T
+   HIGASHIMURA, T
+TI SYNTHESIS OF POLY[1-(TRIMETHYLSILYL)-1-PROPYNE] WITH A NARROW
+   MOLECULAR-WEIGHT DISTRIBUTION BY USING NBCL5 CATALYST IN CYCLOHEXANE
+SO POLYMER BULLETIN
+LA English
+DT Article
+RP FUJIMORI, J (reprint author), KYOTO UNIV,DEPT POLYMER SCI,KYOTO 606,JAPAN.
+CR DOI Y, 1986, MACROMOLECULES, V19, P2896, DOI 10.1021/ma00166a002
+   GILLIOM LR, 1986, J AM CHEM SOC, V108, P733, DOI 10.1021/ja00264a027
+   HADJIANDREOU P, 1984, MACROMOLECULES, V17, P2455, DOI 10.1021/ma00141a047
+   ICHIRAKU Y, 1987, J MEMBRANE SCI, V34, P5, DOI 10.1016/S0376-7388(00)80017-4
+   ISOBE E, 1986, J POLYM SCI POL CHEM, V24, P1839, DOI 10.1002/pola.1986.080240808
+   KUNZLER JF, 1987, POLYM BULL, V18, P303
+   MASUDA T, 1988, MACROMOLECULES, V21, P281, DOI 10.1021/ma00180a001
+   MASUDA T, 1985, MACROMOLECULES, V18, P841, DOI 10.1021/ma00147a003
+   MASUDA T, 1987, J CHEM SOC CHEM COMM, P1805, DOI 10.1039/c39870001805
+   MASUDA T, 1985, MACROMOLECULES, V18, P311, DOI 10.1021/ma00145a001
+   SCHROCK RR, 1987, MACROMOLECULES, V20, P1169, DOI 10.1021/ma00171a053
+   TAKADA K, 1985, J APPL POLYM SCI, V30, P1605, DOI 10.1002/app.1985.070300426
+   WALLACE KC, 1987, MACROMOLECULES, V20, P448, DOI 10.1021/ma00168a043
+   YOSHIMURA T, IN PRESS MACROMOLECU
+NR 14
+TC 28
+Z9 28
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0170-0839
+J9 POLYM BULL
+JI Polym. Bull.
+PD JUL
+PY 1988
+VL 20
+IS 1
+BP 1
+EP 6
+PG 6
+WC Polymer Science
+SC Polymer Science
+GA P0785
+UT WOS:A1988P078500001
+ER
+
+PT J
+AU MASUDA, T
+   YOSHIMURA, T
+   FUJIMORI, J
+   HIGASHIMURA, T
+AF MASUDA, T
+   YOSHIMURA, T
+   FUJIMORI, J
+   HIGASHIMURA, T
+TI LIVING POLYMERIZATION OF SUBSTITUTED ACETYLENES BY MOCL5-BASED AND
+   MOOCL4-BASED CATALYSTS
+SO JOURNAL OF THE CHEMICAL SOCIETY-CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+RP MASUDA, T (reprint author), KYOTO UNIV,DEPT POLYMER CHEM,KYOTO 606,JAPAN.
+CR DOI Y, 1986, MACROMOLECULES, V19, P2896, DOI 10.1021/ma00166a002
+   DRAGUTAN V, 1986, OLEFIN METATHESIS RI
+   GILLIOM LR, 1986, J AM CHEM SOC, V108, P733, DOI 10.1021/ja00264a027
+   HADJIANDREOU P, 1984, MACROMOLECULES, V17, P2455, DOI 10.1021/ma00141a047
+   Ivin KJ, 1983, OLEFIN METATHESIS
+   MASUDA T, 1987, MACROMOLECULES, V20, P1734, DOI 10.1021/ma00174a002
+   MASUDA T, 1986, ADV POLYM SCI, V81, P121
+   MASUDA T, 1985, J CHEM SOC CHEM COMM, P1615, DOI 10.1039/c39850001615
+   MASUDA T, 1984, ACCOUNTS CHEM RES, V17, P51, DOI 10.1021/ar00098a002
+   MOCELLA MT, 1976, J AM CHEM SOC, V98, P4689, DOI 10.1021/ja00431a080
+   RAPPE AK, 1982, J AM CHEM SOC, V104, P448, DOI 10.1021/ja00366a013
+   RAPPE AK, 1980, NATURE, V285, P311, DOI 10.1038/285311a0
+   SCHROCK RR, 1987, MACROMOLECULES, V20, P1169, DOI 10.1021/ma00171a053
+   SZWARC M, 1983, ADV POLYM SCI, V49, P1
+   WALLACE KC, 1987, MACROMOLECULES, V20, P448, DOI 10.1021/ma00168a043
+NR 15
+TC 36
+Z9 36
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON ROAD, CAMBRIDGE, CAMBS,
+   ENGLAND CB4 4WF
+SN 0022-4936
+J9 J CHEM SOC CHEM COMM
+JI J. Chem. Soc.-Chem. Commun.
+PD DEC 1
+PY 1987
+IS 23
+BP 1805
+EP 1806
+DI 10.1039/c39870001805
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA L0611
+UT WOS:A1987L061100036
+ER
+
+PT J
+AU SAWAMOTO, M
+   FUJIMORI, J
+   HIGASHIMURA, T
+AF SAWAMOTO, M
+   FUJIMORI, J
+   HIGASHIMURA, T
+TI LIVING CATIONIC POLYMERIZATION OF N-VINYLCARBAZOLE INITIATED BY HYDROGEN
+   IODIDE
+SO MACROMOLECULES
+LA English
+DT Article
+C1 KYOTO UNIV,FAC ENGN,DEPT POLYMER CHEM,KYOTO 606,JAPAN.
+CR AOSHIMA S, 1986, POLYM BULL, V15, P417
+   FAUST R, 1986, POLYM BULL, V15, P317
+   HIGASHIMURA T, 1985, MACROMOLECULES, V18, P611, DOI 10.1021/ma00146a005
+   HIGASHIMURA T, 1985, MAKROMOL CHEM S, V12, P153
+   HIGASHIMURA T, 1984, CATIONIC POLYM RELAT, P77
+   HIGASHIMURA T, 1986, MAKROMOL CHEM-M SYMP, V3, P99, DOI 10.1002/masy.19860030109
+   HIGASHIMURA T, 1980, POLYM J, V12, P393, DOI 10.1295/polymj.12.393
+   HIGASHIMURA T, 1984, J POLYM SCI POL CHEM, V22, P3173, DOI 10.1002/pol.1984.170221136
+   HIGASHIMURA T, 1983, POLYM J, V15, P385, DOI 10.1295/polymj.15.385
+   HIGASHIMURA T, 1984, ADV POLYM SCI, V62, P49
+   KENNEDY JP, 1982, J MACROMOL SCI CHEM, V18, P1189, DOI 10.1080/00222338208077218
+   MIYAMOTO M, 1984, MACROMOLECULES, V17, P2228, DOI 10.1021/ma00141a005
+   MIYAMOTO M, 1984, MACROMOLECULES, V17, P265, DOI 10.1021/ma00133a001
+   NAGY A, 1986, POLYM BULL, V15, P411
+   OYA S, IN PRESS
+   OYA S, 1983, POLYM PREPR JPN, V32, P190
+   SAWAMOTO M, 1984, CATIONIC POLYM RELAT, P89
+   SAWAMOTO M, 1986, MAKROMOL CHEM-M SYMP, V3, P83, DOI 10.1002/masy.19860030108
+   TANIZAKI A, 1986, J POLYM SCI POL CHEM, V24, P87, DOI 10.1002/pol.1986.170240107
+NR 19
+TC 52
+Z9 52
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0024-9297
+J9 MACROMOLECULES
+JI Macromolecules
+PD MAY
+PY 1987
+VL 20
+IS 5
+BP 916
+EP 920
+DI 10.1021/ma00171a003
+PG 5
+WC Polymer Science
+SC Polymer Science
+GA H5036
+UT WOS:A1987H503600003
+ER
+
+EF

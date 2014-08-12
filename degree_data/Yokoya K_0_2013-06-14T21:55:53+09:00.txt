@@ -1,0 +1,2198 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Bambade, P
+   Pons, MA
+   Amann, J
+   Angal-Kalinin, D
+   Apsimon, R
+   Araki, S
+   Aryshev, A
+   Bai, S
+   Bellomo, P
+   Bett, D
+   Blair, G
+   Bolzon, B
+   Boogert, S
+   Boorman, G
+   Burrows, PN
+   Christian, G
+   Coe, P
+   Constance, B
+   Delahaye, JP
+   Deacon, L
+   Elsen, E
+   Faus-Golfe, A
+   Fukuda, M
+   Gao, J
+   Geffroy, N
+   Gianfelice-Wendt, E
+   Guler, H
+   Hayano, H
+   Heo, AY
+   Honda, Y
+   Huang, JY
+   Hwang, WH
+   Iwashita, Y
+   Jeremie, A
+   Jones, J
+   Kamiya, Y
+   Karataev, P
+   Kim, ES
+   Kim, HS
+   Kim, SH
+   Komamiya, S
+   Kubo, K
+   Kume, T
+   Kuroda, S
+   Lam, B
+   Lyapin, A
+   Masuzawa, M
+   McCormick, D
+   Molloy, S
+   Naito, T
+   Nakamura, T
+   Nelson, J
+   Okamoto, D
+   Okugi, T
+   Oroku, M
+   Park, YJ
+   Parker, B
+   Paterson, E
+   Perry, C
+   Pivi, M
+   Raubenheimer, T
+   Renier, Y
+   Resta-Lopez, J
+   Rimbault, C
+   Ross, M
+   Sanuki, T
+   Scarfe, A
+   Schulte, D
+   Seryi, A
+   Spencer, C
+   Suehara, T
+   Sugahara, R
+   Swinson, C
+   Takahashi, T
+   Tauchi, T
+   Terunuma, N
+   Tomas, R
+   Urakawa, J
+   Urner, D
+   Verderi, M
+   Wang, MH
+   Warden, M
+   Wendt, M
+   White, G
+   Wittmer, W
+   Wolski, A
+   Woodley, M
+   Yamaguchi, Y
+   Yamanaka, T
+   Yan, Y
+   Yoda, H
+   Yokoya, K
+   Zhou, F
+   Zimmermann, F
+AF Bambade, P.
+   Pons, M. Alabau
+   Amann, J.
+   Angal-Kalinin, D.
+   Apsimon, R.
+   Araki, S.
+   Aryshev, A.
+   Bai, S.
+   Bellomo, P.
+   Bett, D.
+   Blair, G.
+   Bolzon, B.
+   Boogert, S.
+   Boorman, G.
+   Burrows, P. N.
+   Christian, G.
+   Coe, P.
+   Constance, B.
+   Delahaye, J. -P.
+   Deacon, L.
+   Elsen, E.
+   Faus-Golfe, A.
+   Fukuda, M.
+   Gao, J.
+   Geffroy, N.
+   Gianfelice-Wendt, E.
+   Guler, H.
+   Hayano, H.
+   Heo, A. -Y.
+   Honda, Y.
+   Huang, J. Y.
+   Hwang, W. H.
+   Iwashita, Y.
+   Jeremie, A.
+   Jones, J.
+   Kamiya, Y.
+   Karataev, P.
+   Kim, E. -S.
+   Kim, H. -S.
+   Kim, S. H.
+   Komamiya, S.
+   Kubo, K.
+   Kume, T.
+   Kuroda, S.
+   Lam, B.
+   Lyapin, A.
+   Masuzawa, M.
+   McCormick, D.
+   Molloy, S.
+   Naito, T.
+   Nakamura, T.
+   Nelson, J.
+   Okamoto, D.
+   Okugi, T.
+   Oroku, M.
+   Park, Y. J.
+   Parker, B.
+   Paterson, E.
+   Perry, C.
+   Pivi, M.
+   Raubenheimer, T.
+   Renier, Y.
+   Resta-Lopez, J.
+   Rimbault, C.
+   Ross, M.
+   Sanuki, T.
+   Scarfe, A.
+   Schulte, D.
+   Seryi, A.
+   Spencer, C.
+   Suehara, T.
+   Sugahara, R.
+   Swinson, C.
+   Takahashi, T.
+   Tauchi, T.
+   Terunuma, N.
+   Tomas, R.
+   Urakawa, J.
+   Urner, D.
+   Verderi, M.
+   Wang, M. -H.
+   Warden, M.
+   Wendt, M.
+   White, G.
+   Wittmer, W.
+   Wolski, A.
+   Woodley, M.
+   Yamaguchi, Y.
+   Yamanaka, T.
+   Yan, Y.
+   Yoda, H.
+   Yokoya, K.
+   Zhou, F.
+   Zimmermann, F.
+CA ATF Collaboration
+TI Present status and first results of the final focus beam line at the KEK
+   Accelerator Test Facility
+SO PHYSICAL REVIEW SPECIAL TOPICS-ACCELERATORS AND BEAMS
+LA English
+DT Article
+ID COLLIDERS
+AB ATF2 is a final-focus test beam line which aims to focus the low emittance beam from the ATF damping ring to a vertical size of about 37 nm and to demonstrate nanometer level beam stability. Several advanced beam diagnostics and feedback tools are used. In December 2008, construction and installation were completed and beam commissioning started, supported by an international team of Asian, European, and U. S. scientists. The present status and first results are described.
+C1 Univ Paris 11, CNRS, LAL, IN2P3, F-91405 Orsay, France.
+   Univ Valencia, CSIC, Inst Fis Corpuscular, Valencia, Spain.
+   SLAC Natl Accelerator Lab, Menlo Pk, CA 94025 USA.
+   Daresbury Lab, STFC, Cockcroft Inst, Warrington, Cheshire, England.
+   John Adams Inst, Oxford, England.
+   High Energy Accelerator Res Org, Tsukuba, Ibaraki, Japan.
+   Inst High Energy Phys, Beijing 100039, Peoples R China.
+   Univ Savoie, CNRS, LAPP, IN2P3, Annecy Le Vieux, France.
+   Royal Holloway Univ London, John Adams Inst, London, England.
+   CERN, European Org Nucl Res, CH-1211 Geneva, Switzerland.
+   DESY, Hamburg, Germany.
+   Fermilab Natl Accelerator Lab, Batavia, IL 60510 USA.
+   Ecole Polytech, CNRS, IN2P3, Lab Leprince Ringuet, F-91128 Palaiseau, France.
+   Kyungpook Natl Univ, Taegu, South Korea.
+   Kyoto ICR, Kyoto, Japan.
+   Univ Tokyo, Tokyo 1138654, Japan.
+   UCL, London, England.
+   Tohoku Univ, Sendai, Miyagi 980, Japan.
+   Brookhaven Natl Lab, Upton, NY 11973 USA.
+   Univ Manchester, Cockcroft Inst, Manchester M13 9PL, Lancs, England.
+   Hiroshima Univ, Hiroshima 730, Japan.
+   Univ Liverpool, Cockcroft Inst, Liverpool L69 3BX, Merseyside, England.
+RP Bambade, P (reprint author), Univ Paris 11, CNRS, LAL, IN2P3, F-91405 Orsay, France.
+RI swinson, christina/C-6782-2012; Huang, Jianyu/C-5183-2008
+FU DOE [DE-AC0276SF00515]; JSPS [KAKENHI 17GS0210]; MEXT; French Ministry
+   of Research [ATF2-IN2P3-KEK, ANR-06-BLAN-0027]; European Commission
+   [227579]
+FX This work is supported by DOE Contract No. DE-AC0276SF00515;
+   Grant-in-Aid for Creative Scientific Research of JSPS (KAKENHI
+   17GS0210); U.S.A.-Japan Collaboration Research Grant of MEXT; Agence
+   Nationale de la Recherche of the French Ministry of Research (Programme
+   Blanc, Project No. ATF2-IN2P3-KEK, Contract No. ANR-06-BLAN-0027); The
+   "Toshiko Yuasa'' France Japan Particle Physics Laboratory; Science and
+   Technology Facilities Council, U.K., and EuCARD project cofunded by the
+   European Commission within the Framework Program 7, under Grant
+   Agreement No. 227579.
+CR ARYSHEV A, P PART ACC C 09 VANC
+   BAI S, 0805 ATF
+   Bai S., UNPUB
+   BALAKIN V, 1995, PHYS REV LETT, V74, P2479, DOI 10.1103/PhysRevLett.74.2479
+   BAMBADE P, 1988, SLACCN367
+   BOLZON B, 2008, P NAN 2008 C
+   BOLZON B, 0901 ATF
+   BOLZON B, P PART ACC C 09 VANC
+   BURROWS P, P PART ACC C 09 VANC
+   GROTE H, 1991, SL9013APREV2 CERN
+   HIRATA K, 1988, 8804 CERN
+   HUANG JY, P APAC07
+   Inoue Y, 2008, PHYS REV SPEC TOP-AC, V11, DOI 10.1103/PhysRevSTAB.11.062801
+   IWASHITA Y, P PART ACC C 09 VANC
+   KUBO K, P PART ACC C 09 VANC
+   KUME T, P PART ACC C 09 VANC
+   LYAPIN A, 2010, P PART ACC C 09 VANC
+   MASUZAWA M, P IWAA 06
+   MOLLOY S, P PART ACC C 09 VANC
+   NAITO T, P PART ACC C 09 VANC
+   OKAMOTO D, P PART ACC C 09 VANC
+   Oroku M., 2008, IEEE NSS08, P2330
+   PARKER B, P PART ACC C 09 VANC
+   PONS MA, 0815 ATF
+   Raimondi P, 2001, PHYS REV LETT, V86, P3779, DOI 10.1103/PhysRevLett.86.3779
+   Sands M., 1991, SLACAP85
+   SCHULTE D, 2000, PS2000028AE CERN
+   SHINTAKE T, 1992, NUCL INSTRUM METH A, V311, P453, DOI 10.1016/0168-9002(92)90641-G
+   SMITH JC, 2005, P 21 PART ACC C KNOX
+   SPENCER C, 2009, IEEE T APPL IN PRESS
+   Suehara T., 2008, THESIS U TOKYO
+   SUGAHARA R, 2009, P 6 ANN M PART ACC S
+   SUGAHARA R, 2006, 3 ATF2 PROJ M KEK
+   TAUCHI T, 2009, SEM OXF
+   TENENBAUM P, 2005, SLACPUB11215
+   TOMAS R, P PART ACC C 09 VANC
+   Tomas R, 2010, PHYS REV SPEC TOP-AC, V13, DOI 10.1103/PhysRevSTAB.13.014801
+   WARDEN M, P IWAA08
+   WHITE G, P PART ACC C 09 VANC
+   White G., 2008, P 11 EUR PART ACC C
+   YAMAGUCHI Y, 2009, P 5 ANN M PASJ
+   YAMANAKA T, P PART ACC C 09 VANC
+   YAMANAKA T, 2008, IEEE NSS08, P3308
+   *ATF2, 2005, SLACR771 ATF2
+   *GDE, ILCREPORT2007001 GDE
+NR 45
+TC 8
+Z9 8
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-4402
+J9 PHYS REV SPEC TOP-AC
+JI Phys. Rev. Spec. Top.-Accel. Beams
+PD APR
+PY 2010
+VL 13
+IS 4
+AR 042801
+DI 10.1103/PhysRevSTAB.13.042801
+PG 10
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 602PG
+UT WOS:000278150700009
+ER
+
+PT J
+AU Shimada, M
+   Yokoya, K
+   Suwada, T
+   Enomoto, A
+AF Shimada, M.
+   Yokoya, K.
+   Suwada, T.
+   Enomoto, A.
+TI Lattice and beam optics design for suppression of CSR-induced emittance
+   growth at the KEK-ERL test facility
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+DE next-generation light source; coherent synchrotron radiation (CSR);
+   emittance growth; energy-recovery LINAC (ERL)
+AB The lattice and beam optics of the arc section of the KEK-ERL test facility, having an energy of 200 MeV, were optimized to efficiently suppress emittance growth based on a simulation using a particle-tracking method taking coherent synchrotron radiation effects into account.
+   The lattice optimization in the arc section was performed under two conditions: a high-current mode with a bunch charge of 76.9 pC without bunch compression, and a short-bunch mode with bunch compression, producing a final bunch length of around 0.1 ps. The simulation results showed that, in the high-current mode, emittance growth was efficiently suppressed by keeping a root-mean-square (rms) bunch length of 1 ps at a bunch charge of 76.9 pC, and in the short-bunch mode, emittance growth was kept within permissible limits with a maximum allowable bunch charge of 23.1 pC at an rms bunch length of 0.1 ps. (C) 2007 Elsevier B.V. All rights reserved.
+C1 KEK, High Energy Accelerator Res Org, Ibaraki 3050801, Japan.
+RP Shimada, M (reprint author), UVSOR Facil, Inst Mol Sci, Nishigonaka 38, Aichi 4448585, Japan.
+EM shimada@ims.ac.jp
+CR Agoh T., 2004, THESIS U TOKYO
+   Derbenev Ya. S., 1995, 9505 TESLAFEL
+   GRUNER SM, 2001, JLABACTA0104 CHESS
+   Hajima R, 2004, NUCL INSTRUM METH A, V528, P335, DOI 10.1016/j.nima.2004.04.063
+   KIM ES, 2004, P EPAC 2004 LUC SWIT, P420
+   WIEDEMANN H, 2003, PART ACCEL, V1, P152
+   *SLACR, 2002, SLACR593
+   *TESLA, 2001, TESLA TECHN DES RE 2
+NR 8
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD JUN 1
+PY 2007
+VL 575
+IS 3
+BP 315
+EP 320
+DI 10.1016/j.nima.2007.02.095
+PG 6
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA 177IM
+UT WOS:000247146800004
+ER
+
+PT J
+AU Kumita, T
+   Kamiya, Y
+   Babzien, M
+   Ben-Zvi, I
+   Kusche, K
+   Pavlishin, IV
+   Pogorelsky, IV
+   Siddons, DP
+   Yakimenko, V
+   Omori, T
+   Urakawa, J
+   Yokoya, K
+   Hirose, T
+   Cline, D
+   Zhou, F
+AF Kumita, Tetsuro
+   Kamiya, Yoshio
+   Babzien, Marcus
+   Ben-Zvi, Ilan
+   Kusche, Karl
+   Pavlishin, Igor V.
+   Pogorelsky, Igor V.
+   Siddons, David P.
+   Yakimenko, Vitaly
+   Omori, Tsunehiko
+   Urakawa, Junji
+   Yokoya, Kaoru
+   Hirose, Tachishige
+   Cline, David
+   Zhou, Feng
+TI Observation of nonlinear Thomson scattering at BNL-ATF
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS B
+LA English
+DT Article; Proceedings Paper
+CT Joint Symposium of the 4th Laser-Beam Interactions Workshop/7th Laser
+   and Plasma Accelerators Workshop
+CY DEC 12-16, 2005
+CL Taipei, TAIWAN
+HO Natl Taiwan Univ
+DE nonlinear Thomson scattering; inverse Compton scattering; laser
+   synchrotron source
+ID COMPTON-SCATTERING; GENERATION; BEAMS
+AB Measurement of X-rays produced in nonlinear Thomson scattering of high power laser and electron beams is a good test of electrodynamics in the high field region. We performed an experiment of head-on collision between sub-terawatt CO2 laser and 60-MeV electron beams at Brookhaven National Laboratory, Accelerator Test Facility. Angular distributions of X-rays produced in Thomson scattering were measured and contribution of the second order nonlinear interaction was observed by comparing the distributions with Monte Carlo simulations based on the semi-classical theory of photon-electron interactions.
+C1 Tokyo Metropolitan Univ, Dept Phys, Tokyo 158, Japan.
+   Brookhaven Natl Lab, Upton, NY 11973 USA.
+   High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+   Waseda Univ, Adv Res Inst Sci & Engn, Shinjuku Ku, Tokyo 1698555, Japan.
+   Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+RP Kumita, T (reprint author), Tokyo Metropolitan Univ, Dept Phys, Tokyo 158, Japan.
+EM kumita@phys.metro-u.ac.jp
+CR Brown L S, 1964, PHYS REV           A, V133, P705
+   Bula C, 1996, PHYS REV LETT, V76, P3116, DOI 10.1103/PhysRevLett.76.3116
+   CHEN P, 1995, NUCL INSTRUM METH A, V355, P107, DOI 10.1016/0168-9002(94)01186-9
+   ENGLERT TJ, 1983, PHYS REV A, V28, P15339
+   ESAREY E, 1993, PHYS REV E, V48, P3003, DOI 10.1103/PhysRevE.48.3003
+   FRIED Z, 1964, PHYS REV B, V136, P871
+   KAMIYA Y, P 26 ADV ICFA BEAM D
+   Kashiwagi S, 2000, NUCL INSTRUM METH A, V455, P36, DOI 10.1016/S0168-9002(00)00689-6
+   Lau YY, 2003, PHYS PLASMAS, V10, P2155, DOI 10.1063/1.1565115
+   Leemans WP, 1996, PHYS REV LETT, V77, P4182, DOI 10.1103/PhysRevLett.77.4182
+   PUNTAJER AK, 1990, J APPL PHYS, V67, P1606, DOI 10.1063/1.345648
+   RIDE SK, 1995, PHYS REV E, V52, P5425, DOI 10.1103/PhysRevE.52.5425
+   SARACHIK ES, 1970, PHYS REV D, V1, P2738, DOI 10.1103/PhysRevD.1.2738
+   Uesaka M, 2000, NUCL INSTRUM METH A, V455, P90, DOI 10.1016/S0168-9002(00)00712-9
+   VACHASPATI, 1962, PHYS REV, V128, P664, DOI 10.1103/PhysRev.128.664
+   VOLKOV DM, 1935, Z PHYS, V94, P240
+NR 16
+TC 0
+Z9 0
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0217-9792
+J9 INT J MOD PHYS B
+JI Int. J. Mod. Phys. B
+PD FEB
+PY 2007
+VL 21
+IS 3-4
+BP 473
+EP 480
+DI 10.1142/S0217979207042264
+PG 8
+WC Physics, Applied; Physics, Condensed Matter; Physics, Mathematical
+SC Physics
+GA 234JF
+UT WOS:000251156700025
+ER
+
+PT J
+AU Babzien, M
+   Ben-Zvi, I
+   Kusche, K
+   Pavlishin, IV
+   Pogorelsky, IV
+   Siddons, DP
+   Yakimenko, V
+   Cline, D
+   Zhou, F
+   Hirose, T
+   Kamiya, Y
+   Kumita, T
+   Omori, T
+   Urakawa, J
+   Yokoya, K
+AF Babzien, M
+   Ben-Zvi, I
+   Kusche, K
+   Pavlishin, IV
+   Pogorelsky, IV
+   Siddons, DP
+   Yakimenko, V
+   Cline, D
+   Zhou, F
+   Hirose, T
+   Kamiya, Y
+   Kumita, T
+   Omori, T
+   Urakawa, J
+   Yokoya, K
+TI Observation of the second harmonic in Thomson scattering from
+   relativistic electrons
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID INTENSE LASER-RADIATION; COMPTON-SCATTERING; LINEAR COLLIDERS; BEAMS;
+   GENERATION; PHOTONS; PULSES
+AB A free relativistic electron in an electromagnetic field is a pure case of a light-matter interaction. In the laboratory environment, this interaction can be realized by colliding laser pulses with electron beams produced from particle accelerators. The process of single photon absorption and reemission by the electron, so-called linear Thomson scattering, results in radiation that is Doppler shifted into the x-ray and gamma-ray regions. At elevated laser intensity, nonlinear effects should come into play when the transverse motion of the electrons induced by the laser beam is relativistic. In the present experiment, we achieved this condition and characterized the second harmonic of Thomson x-ray scattering using the counterpropagation of a 60 MeV electron beam and a subterawatt CO2 laser beam.
+C1 Brookhaven Natl Lab, Upton, NY 11973 USA.
+   Univ Calif Los Angeles, Los Angeles, CA 90095 USA.
+   Waseda Univ, Shinjuku Ku, Tokyo 1698555, Japan.
+   Tokyo Metropolitan Univ, Tokyo 1920397, Japan.
+   High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Babzien, M (reprint author), Brookhaven Natl Lab, Upton, NY 11973 USA.
+CR Attwood D., 1999, SOFT XRAYS EXTREME U
+   BROWN LS, 1964, PHYS REV A-GEN PHYS, V133, pA705, DOI 10.1103/PhysRev.133.A705
+   Bula C, 1996, PHYS REV LETT, V76, P3116, DOI 10.1103/PhysRevLett.76.3116
+   CHEN P, 1995, NUCL INSTRUM METH A, V355, P107, DOI 10.1016/0168-9002(94)01186-9
+   Chen SY, 1998, NATURE, V396, P653
+   CLAYTON CE, 1995, NUCL INSTRUM METH A, V355, P121, DOI 10.1016/0168-9002(94)01190-7
+   ENGLERT TJ, 1983, PHYS REV A, V28, P1539, DOI 10.1103/PhysRevA.28.1539
+   ESAREY E, 1993, PHYS REV E, V48, P3003, DOI 10.1103/PhysRevE.48.3003
+   FRANTZ LM, 1965, PHYS REV, V139, P1326
+   FRIED Z, 1964, PHYS REV B, V136, pB871, DOI 10.1103/PhysRev.136.B871
+   Jackson J. D., 1998, CLASSICAL ELECTRODYN
+   JOSHI CJ, 1995, PHYS TODAY, V48, P36, DOI 10.1063/1.881451
+   Lau YY, 2003, PHYS PLASMAS, V10, P2155, DOI 10.1063/1.1565115
+   Leemans WP, 1996, PHYS REV LETT, V77, P4182, DOI 10.1103/PhysRevLett.77.4182
+   Li DG, 2003, JPN J APPL PHYS 1, V42, P5376, DOI 10.1143/JJAP.42.5376
+   Omori T, 2003, NUCL INSTRUM METH A, V500, P232, DOI 10.1016/S0168-9002(02)01985-X
+   Pogorelsky I.V., 2000, PHYS REV SPEC TOP-AC, V3, DOI 10.1103/PhysRevSTAB.3.090702
+   PUNTAJER AK, 1990, J APPL PHYS, V67, P1606, DOI 10.1063/1.345648
+   RIDE SK, 1995, PHYS REV E, V52, P5425, DOI 10.1103/PhysRevE.52.5425
+   SARACHIK ES, 1970, PHYS REV D, V1, P2738, DOI 10.1103/PhysRevD.1.2738
+   Schoenlein RW, 1996, SCIENCE, V274, P236, DOI 10.1126/science.274.5285.236
+   TELNOV VI, 1990, NUCL INSTRUM METH A, V294, P72, DOI 10.1016/0168-9002(90)91826-W
+   TING A, 1995, J APPL PHYS, V78, P575, DOI 10.1063/1.360644
+   Uesaka M, 2000, NUCL INSTRUM METH A, V455, P90, DOI 10.1016/S0168-9002(00)00712-9
+   UGAZ E, 1994, PHYS REV A, V50, P34, DOI 10.1103/PhysRevA.50.34
+   VACHASPATI, 1962, PHYS REV, V128, P664, DOI 10.1103/PhysRev.128.664
+NR 26
+TC 39
+Z9 44
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD FEB 10
+PY 2006
+VL 96
+IS 5
+AR 054802
+DI 10.1103/PhysRevLett.96.054802
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 011FA
+UT WOS:000235252200035
+ER
+
+PT J
+AU Kumita, T
+   Kamiya, Y
+   Babzien, M
+   Ben-Zvi, I
+   Kusche, K
+   Pavlishin, IV
+   Pogorelsky, IV
+   Siddons, DP
+   Yakimenko, V
+   Hirose, T
+   Omori, T
+   Urakawa, J
+   Yokoya, K
+   Cline, D
+   Zhou, F
+AF Kumita, T.
+   Kamiya, Y.
+   Babzien, M.
+   Ben-Zvi, I.
+   Kusche, K.
+   Pavlishin, I. V.
+   Pogorelsky, I. V.
+   Siddons, D. P.
+   Yakimenko, V.
+   Hirose, T.
+   Omori, T.
+   Urakawa, J.
+   Yokoya, K.
+   Cline, D.
+   Zhou, F.
+TI Observation of the nonlinear effect in relativistic Thomson scattering
+   of electron and laser beams
+SO LASER PHYSICS
+LA English
+DT Article
+ID COMPTON-SCATTERING; RADIATION; PHOTONS
+AB Thomson scattering of high-power laser and electron beams is a good test of electrodynamics in the high-field region. We demonstrated production of high-intensity X-rays in the head-on collision of a CO2 laser and 60-MeV electron beams at Brookhaven National Laboratory, Accelerator Test Facility. The energy of an X-ray photon was limited at 6.5 keV in the linear (lowest order) Thomson scattering, but the nonlinear (higher order) process produces higher energy X-rays. We measured the angular distribution of the high-energy X-rays and confirmed that it agrees with theoretical predictions.
+C1 Tokyo Metropolitan Univ, Tokyo 1920397, Japan.
+   Brookhaven Natl Lab, Upton, NY 11973 USA.
+   Waseda Univ, Shinjuku Ku, Tokyo 1698555, Japan.
+   High Energy Accelerator Res Org KEK, Tsukuba, Ibaraki 3050801, Japan.
+   Univ Calif Los Angeles, Los Angeles, CA 90095 USA.
+RP Kumita, T (reprint author), Tokyo Metropolitan Univ, 1-1 Minami Osawa, Tokyo 1920397, Japan.
+EM kumita@phys.metro-u.ac.jp
+CR Brown L S, 1964, PHYS REV           A, V133, P705
+   Bula C, 1996, PHYS REV LETT, V76, P3116, DOI 10.1103/PhysRevLett.76.3116
+   CHEN P, 1995, NUCL INSTRUM METH A, V355, P107, DOI 10.1016/0168-9002(94)01186-9
+   ENGLERT TJ, 1983, PHYS REV A, V28, P1539, DOI 10.1103/PhysRevA.28.1539
+   ESAREY E, 1993, PHYS REV E, V48, P3003, DOI 10.1103/PhysRevE.48.3003
+   FRANTZ LM, 1965, PHYS REV, V139, P1326
+   FRIED Z, 1964, PHYS REV B, V136, P871
+   Kashiwagi S, 2000, NUCL INSTRUM METH A, V455, P36, DOI 10.1016/S0168-9002(00)00689-6
+   Lau YY, 2003, PHYS PLASMAS, V10, P2155, DOI 10.1063/1.1565115
+   Li DG, 2003, JPN J APPL PHYS 1, V42, P5376, DOI 10.1143/JJAP.42.5376
+   Pogorelsky I.V., 2000, PHYS REV SPEC TOP-AC, V3, DOI 10.1103/PhysRevSTAB.3.090702
+   PUNTAJER AK, 1990, J APPL PHYS, V67, P1606, DOI 10.1063/1.345648
+   RIDE SK, 1995, PHYS REV E, V52, P5425, DOI 10.1103/PhysRevE.52.5425
+   SARACHIK ES, 1970, PHYS REV D, V1, P2738, DOI 10.1103/PhysRevD.1.2738
+   UGAZ E, 1994, PHYS REV A, V50, P34, DOI 10.1103/PhysRevA.50.34
+   VACHASPATI, 1962, PHYS REV, V128, P664, DOI 10.1103/PhysRev.128.664
+   VOLKOV DM, 1935, Z PHYS, V94, P240
+NR 17
+TC 18
+Z9 19
+PU MAIK NAUKA/INTERPERIODICA/SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013-1578 USA
+SN 1054-660X
+J9 LASER PHYS
+JI Laser Phys.
+PD FEB
+PY 2006
+VL 16
+IS 2
+BP 267
+EP 271
+DI 10.1134/S1054660X06020101
+PG 5
+WC Optics; Physics, Applied
+SC Optics; Physics
+GA 130FK
+UT WOS:000243784900010
+ER
+
+PT J
+AU Suwada, T
+   Yamazaki, J
+   Enomoto, A
+   Ohsawa, S
+   Yokoya, K
+AF Suwada, T
+   Yamazaki, J
+   Enomoto, A
+   Ohsawa, S
+   Yokoya, K
+TI A conceptual pre-injector design for the KEK-ERL test accelerator
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article; Proceedings Paper
+CT 32nd ICFA Advanced Bean Dynamics Workshop on Energy Recovering Linacs
+   (ERL2005)
+CY MAR 19-23, 2005
+CL Newport New, VA
+HO US DOE Res Lab, Jefferson Lab
+DE high bright electron beam; low emittances; electron linear accelerator;
+   energy recovery linac
+AB A conceptual design for a test accelerator based oil an energy recovery scheme is under way in developing a next generation light source at KEK. A high bright electron beam will be delivered from the test accelerator with a maximum energy of 200MeV using 1.3 GHz superconducting accelerating cavities installed in two cryomodules. It is of great importance to design a pre-injector that can generate an electron beam with exceptionally high brightness and low emittances. A new simulation code is being developed to simulate the beam dynamics of the electron beam and to optimize the beam characteristics at the pre-injector. The simulation code describes semi-analytically the two-dimensional (transverse and longitudinal) beam dynamics of the electron beam based on a well-known envelope equation taking into account the space charge effect. The purpose of this code is not to rigorously simulate the particle dynamics, as is done by the particle tracking code "Parmela", but rather to quickly optimize the design parameters of the accelerator components and beam characteristics themselves. This code has been validated by comparison with the results obtained from the "Parmela" code using the pre-injector design parameters. In this report, the development and some numerical results obtained from this new simulation code are presented in detail. (c) 2005 Elsevier B.V. All rights reserved.
+C1 High Energy Accelerator Res Org, Accelerator Lab, Tsukuba, Ibaraki, Japan.
+   Grad Univ Adv Studies, Sch High Energy Accelerator Sci, Tsukuba, Ibaraki 3050801, Japan.
+RP Suwada, T (reprint author), High Energy Accelerator Res Org, Accelerator Lab, 1-1 Oho, Tsukuba, Ibaraki, Japan.
+EM tsuyoshi.suwada@kek.jp
+CR Allen CK, 1997, PHYS REV E, V55, P7591, DOI 10.1103/PhysRevE.55.7591
+   BRINKMANN R, 2001, TESLA SUPERCONDUCTIN
+   KIM ES, 2004, 3 AS PART ACC C APAC
+   RALSTON A, 2001, 1 COURSE NUMERICAL A, P91
+   REISER M, 1994, THEORY DESIGN CHARGE, P586
+   Serafini L, 1997, PHYS REV E, V55, P7565, DOI 10.1103/PhysRevE.55.7565
+   SUWADA T, 2003, STUDY REPORT FUTURE
+   YAMAZAKI J, IN PRESS
+   YOKOYA K, 2004, 3 AS PART ACC C APAC
+   YOUNG LM, LAUR027527
+NR 10
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD FEB 1
+PY 2006
+VL 557
+IS 1
+BP 131
+EP 137
+DI 10.1016/j.nima.2005.10.062
+PG 7
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA 011HR
+UT WOS:000235259400021
+ER
+
+PT J
+AU Delerue, N
+   Tauchi, T
+   Yokoya, K
+AF Delerue, N
+   Tauchi, T
+   Yokoya, K
+TI Beam offset due to beam-beam interactions at a warm linear collider
+SO PHYSICAL REVIEW SPECIAL TOPICS-ACCELERATORS AND BEAMS
+LA English
+DT Article
+AB At a warm linear collider the short time interval at which bunches will pass near each other in the interaction region may lead to significant alteration of the bunches positions. In this paper we quantify the intensity of this effect and show that it can be addressed by a fast intrapulse feedback system.
+C1 High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Delerue, N (reprint author), Univ Oxford, John Adams Inst Accelerator Sci, Oxford OX1 2JD, England.
+EM n.delerue1@physics.ox.ac.uk; toshiaki.tauchi@kek.jp; kaoru.yokoya@kek.jp
+CR BURROWS PN, PHYSICS0112080
+   CHEN P, 1995, NUCL INSTRUM METH A, V355, P107, DOI 10.1016/0168-9002(94)01186-9
+   DELERUE N, PHYSICS0305017
+   SCHULTE D, PHYSICS0008128
+   YOKOYA K, 1990, P US CERN SCH PART A
+   Yokoya K., 1992, LECT NOTE PHYS, V400, P415
+   [Anonymous], 2003, SLACR606 INT LIN COL
+NR 7
+TC 2
+Z9 2
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-4402
+J9 PHYS REV SPEC TOP-AC
+JI Phys. Rev. Spec. Top.-Accel. Beams
+PD NOV
+PY 2005
+VL 8
+IS 11
+AR 112801
+DI 10.1103/PhysRevSTAB.8.112801
+PG 9
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 994SL
+UT WOS:000234051400004
+ER
+
+PT J
+AU Yokoya, K
+AF Yokoya, K
+TI Future accelerators
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS A
+LA English
+DT Article; Proceedings Paper
+CT 32nd International Conference on High Energy Physics
+CY AUG 16-22, 2004
+CL Beijing, PEOPLES R CHINA
+SP Int Union Pure & Appl Phys, Inst High Energy Phys, Chinese Acad Sci, Natl Nat Sci Fdn China, Chinese Phys Soc
+ID ELECTRON-BEAMS
+AB A brief schetch of accelerators for high energy physics in the next similar to 30 yeras is given from the view point of accelerator technology.
+C1 KEK, High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Yokoya, K (reprint author), KEK, High Energy Accelerator Res Org, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+EM kaoru.yokoya@kek.jp
+CR Albright C., 2004, BNL723692004
+   BARCIKOWSKI A, P 2001 PART ACC C CH, P3493
+   Faure J, 2004, NATURE, V431, P541, DOI 10.1038/nature02963
+   Geddes CGR, 2004, NATURE, V431, P538, DOI 10.1038/nature02900
+   KING BJ, 1999, ARXIVPHYSICS9908017V
+   LEE S, 2002, PHSY REV, V5
+   Mangles SPD, 2004, NATURE, V431, P535, DOI 10.1038/nature02939
+   Ozaki S., 2001, BNL52623
+   PEGGS S, 2001, CADAP49 BNL
+   Takayama K, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.144801
+   2003, SLACR606
+NR 11
+TC 0
+Z9 0
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0217-751X
+J9 INT J MOD PHYS A
+JI Int. J. Mod. Phys. A
+PD SEP 10
+PY 2005
+VL 20
+IS 22
+BP 5266
+EP 5275
+DI 10.1142/S0217751X05028776
+PG 10
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 971JS
+UT WOS:000232380700020
+ER
+
+PT J
+AU Agoh, T
+   Yokoya, K
+AF Agoh, T
+   Yokoya, K
+TI Calculation of coherent synchrotron radiation using mesh
+SO PHYSICAL REVIEW SPECIAL TOPICS-ACCELERATORS AND BEAMS
+LA English
+DT Article
+AB We develop a new method to simulate coherent synchrotron radiation numerically. It is based on the mesh calculation of the electromagnetic field in the frequency domain. We make an approximation in the Maxwell equation which allows a mesh size much larger than the relevant wavelength so that the computing time is tolerable. Using the equation, we can perform a mesh calculation of coherent synchrotron radiation in transient states with shielding effects by the vacuum chamber. The simulation results obtained by this method are compared with analytic solutions. Though, for the comparison with theories, we adopt simplifications such as longitudinal Gaussian distribution, zero-width transverse distribution, horizontal uniform bend, and a vacuum chamber with rectangular cross section, the method is applicable to general cases.
+C1 High Energy Accelerator Res Org, Tsukuba, Ibaraki, Japan.
+RP Agoh, T (reprint author), High Energy Accelerator Res Org, Oho 1-1, Tsukuba, Ibaraki, Japan.
+CR Borland M, 2001, PHYS REV SPEC TOP-AC, V4, DOI 10.1103/PhysRevSTAB.4.070701
+   Braun H. H., 2000, PHYS REV SPEC TOP-AC, V3, DOI 10.1103/PhysRevSTAB.3.124402
+   Derbenev Ya. S., 1996, SLACPUB7181
+   DERBENEV YS, 1996, P EPAC, P1347
+   DOHLUS M, 2000, SLACPUB8559
+   Dohlus M, 2000, NUCL INSTRUM METH A, V445, P338, DOI 10.1016/S0168-9002(00)00139-X
+   EMMA P, 2002, P EPAC2002 PAR FRANC, P1479
+   HAJIMA R, P ICAP1998 MONT CA
+   LI R, 1999, P 2 ICFA ADV ACC WOR
+   Saldin EL, 1997, NUCL INSTRUM METH A, V398, P373, DOI 10.1016/S0168-9002(97)00822-X
+   SALDIN EL, 1997, P PAC1997 VANC CAN I, P1658
+   Stupakov GV, 2003, PHYS REV SPEC TOP-AC, V6, DOI 10.1103/PhysRevSTAB.6.034401
+   Warnock R. L., 1990, SLACPUB5375
+NR 13
+TC 14
+Z9 14
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-4402
+J9 PHYS REV SPEC TOP-AC
+JI Phys. Rev. Spec. Top.-Accel. Beams
+PD MAY
+PY 2004
+VL 7
+IS 5
+AR 054403
+DI 10.1103/PhysRevSTAB.7.054403
+PG 9
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 826JM
+UT WOS:000221825400007
+ER
+
+PT J
+AU Li, DG
+   Yokoya, K
+   Hirose, T
+   Hamatsu, R
+AF Li, DG
+   Yokoya, K
+   Hirose, T
+   Hamatsu, R
+TI Transition probability and polarization of final photons in nonlinear
+   Compton scattering for linearly polarized laser
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE nonlinear Compton scattering; laser Compton scattering; strong laser;
+   linearly polarized laser; X-ray generation; CP violation
+AB The nonlinear Compton scattering of a polarized laser beam is discussed in this Paper. Using Volkov's solution and a polarization density matrix, we obtain a complete transition probability formula for a linearly polarized laser and unpolarized electrons. The polarization properties of final photons under different conditions are discussed.
+C1 Tokyo Metropolitan Univ, Dept Phys, Hachioji, Tokyo 1920397, Japan.
+   High Energy Accelerator Res Org, KEK, Tsukuba, Ibaraki 305, Japan.
+   Waseda Univ, Adv Res Inst Sci & Engn, Machida, Tokyo 1940202, Japan.
+RP Li, DG (reprint author), Tokyo Metropolitan Univ, Dept Phys, Minamiohsawa 1-1, Hachioji, Tokyo 1920397, Japan.
+CR Bamber C, 1999, PHYS REV D, V60, DOI 10.1103/PhysRevD.60.092004
+   Berestetskii V. B., 1982, QUANTUM ELECTRODYNAM
+   GALYNSKII M, 1998, FIZ ELEM CHAST ATOM, V29, P1133
+   GALYNSKII MV, 1992, SOV PHYS JETP, V74, P441
+   GRINCHISHIN YT, 1983, ZH EKSP TEOR FIZ+, V84, P1605
+   KURAEV E, 2000, FIZ ELEM CHAST AT YA, V31, P155
+   Pogorelsky I.V., 2000, PHYS REV SPEC TOP-AC, V3, DOI 10.1103/PhysRevSTAB.3.090702
+   Pogorelsky IV, 2000, NUCL INSTRUM METH A, V455, P176, DOI 10.1016/S0168-9002(00)00727-0
+   TSAI YS, 1993, PHYS REV D, V48, P96, DOI 10.1103/PhysRevD.48.96
+   Volkov D M, 1935, Z PHYS, V94, P250
+   YOKOYA K, UNPUB USERS MANUAL C
+NR 11
+TC 4
+Z9 5
+PU INST PURE APPLIED PHYSICS
+PI TOKYO
+PA TOYOKAIJI BLDG NO. 12, 6-9-6 SHINBASHI, MINATO-KU, TOKYO, 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD AUG
+PY 2003
+VL 42
+IS 8
+BP 5376
+EP 5382
+DI 10.1143/JJAP.42.5376
+PG 7
+WC Physics, Applied
+SC Physics
+GA 723FY
+UT WOS:000185422900101
+ER
+
+PT J
+AU Dongguo, L
+   Yokoya, K
+   Hirsoe, T
+   Hamatsu, R
+AF Dongguo, L
+   Yokoya, K
+   Hirsoe, T
+   Hamatsu, R
+TI Laser propagation and compton scattering in parabolic plasma channel
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE plasma channel; strong laser; laser-Compton scattering; Compton
+   backscattering; X-ray generation
+ID SELF-MODULATION; PULSES; ACCELERATOR
+AB A Gaussian laser beam propagating in a parabolic plasma channel is discussed in this paper. For a weak laser, plasma density perturbation induced by interaction between the laser field and plasma is very small, the refractive index can be assumed to be constant with respect to time variable. For a parabolic plasma channel, through the static propagation equation, we obtain an analytical solution of the profile function of the Gaussian laser beam for an unmatched case and give the general condition for the matched case. As the laser intensity increases, an effect due to strong laser fields is included. We discuss how to design and select the distribution of plasma density for a certain experiment in which a plasma channel is utilized to guide a laser beam. The number of scattered photons (X-rays) generated through Compton backscattering in a plasma channel is discussed.
+C1 Tokyo Metropolitan Univ, Dept Phys, Hachioji, Tokyo 1920397, Japan.
+   High Energy Accelerator Res Org, KEK, Tsukuba, Ibaraki 305, Japan.
+   Waseda Univ, Adv Res Inst Sci & Engn, Machida, Tokyo 1940202, Japan.
+RP Dongguo, L (reprint author), Tokyo Metropolitan Univ, Dept Phys, Minamiohsawa 1-1, Hachioji, Tokyo 1920397, Japan.
+CR Andreev NE, 1998, NUCL INSTRUM METH A, V410, P469, DOI 10.1016/S0168-9002(98)00181-8
+   ANDREEV NE, 1995, PHYS PLASMAS, V2, P2573, DOI 10.1063/1.871219
+   DURFEE CG, 1993, PHYS REV LETT, V71, P2409, DOI 10.1103/PhysRevLett.71.2409
+   Ehrlich Y, 1996, PHYS REV LETT, V77, P4186, DOI 10.1103/PhysRevLett.77.4186
+   ESAREY E, 1994, PHYS REV LETT, V72, P2887, DOI 10.1103/PhysRevLett.72.2887
+   Esarey E, 1996, IEEE T PLASMA SCI, V24, P252, DOI 10.1109/27.509991
+   Hirose T, 2000, NUCL INSTRUM METH A, V455, P15, DOI 10.1016/S0168-9002(00)00686-0
+   Krushelnick K, 1997, PHYS REV LETT, V78, P4047, DOI 10.1103/PhysRevLett.78.4047
+   Milchberg HM, 1996, PHYS PLASMAS, V3, P2149, DOI 10.1063/1.871668
+   PALCHAN T, COMMUNICATION
+   Pogorelsky I.V., 2000, PHYS REV SPEC TOP-AC, V3, DOI 10.1103/PhysRevSTAB.3.090702
+   Pogorelsky IV, 2000, NUCL INSTRUM METH A, V455, P176, DOI 10.1016/S0168-9002(00)00727-0
+   POGORELSKY IV, 1997, 65907 BNL
+   SAKAI I, 2001, 2001115 KEK
+   SOLEM JC, 1989, IEEE J QUANTUM ELECT, V25, P2423, DOI 10.1109/3.40625
+   SPRANGLE P, 1990, PHYS REV A, V41, P4463, DOI 10.1103/PhysRevA.41.4463
+   SPRANGLE P, 1990, PHYS REV LETT, V64, P2011, DOI 10.1103/PhysRevLett.64.2011
+   Zigler A, 1996, J OPT SOC AM B, V13, P68, DOI 10.1364/JOSAB.13.000068
+NR 18
+TC 0
+Z9 0
+PU INST PURE APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG, 4-24-8 SHINBASHI, MINATO-KU TOKYO, 105-004, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD APR
+PY 2003
+VL 42
+IS 4A
+BP 1800
+EP 1806
+DI 10.1143/JJAP.42.1800
+PG 7
+WC Physics, Applied
+SC Physics
+GA 678XQ
+UT WOS:000182892300065
+ER
+
+PT J
+AU Omori, T
+   Aoki, T
+   Dobashi, K
+   Hirose, T
+   Kurihara, Y
+   Okugi, T
+   Sakai, I
+   Tsunemi, A
+   Urakawa, J
+   Washio, M
+   Yokoya, K
+AF Omori, T
+   Aoki, T
+   Dobashi, K
+   Hirose, T
+   Kurihara, Y
+   Okugi, T
+   Sakai, I
+   Tsunemi, A
+   Urakawa, J
+   Washio, M
+   Yokoya, K
+TI Design of a polarized positron source for linear colliders
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+DE polarized positron; linear collider; Compton scattering
+ID BEAM
+AB We propose a design of a polarized positron source for linear colliders. The design is based on electron-positron pair creation from polarized gamma-rays which are produced by Compton scattering of circularly polarized laser light off a high-energy electron beam. Polarized positrons are created from those gamma-rays incident on a thin conversion target. A future linear collider of the TeV-energy region requires an extraordinary large number of positrons (similar to 1 x 10(10) positrons/ bunch) in a multi-bunch time structure. To meet these requirements, our design employs a high-current, low-emittance electron beam of 5.8 GeV, 10 CO2 lasers, and 200 laser-electron collision-points. At each collision point, a pair of specially designed parabolic mirrors is installed to achieve efficient head-on collisions. This system allows us to produce high-intensity polarized gamma-rays, which effectively generate high-intensity polarized positrons with the magnitude of polarization greater than 50%. (C) 2003 Elsevier Science B.V. All rights reserved.
+C1 High Energy Accelerator Res Org, KEK, Tsukuba, Ibaraki 3050801, Japan.
+   Waseda Univ, Adv Res Inst Sci & Engn, Tokyo 1698555, Japan.
+   Tokyo Metropolitan Univ, Hachioji, Tokyo 192, Japan.
+   Natl Inst Radiol Sci, Chiba 2638555, Japan.
+   Sumitomo Heavy Ind Ltd, Tanashi, Tokyo 1888585, Japan.
+RP Omori, T (reprint author), High Energy Accelerator Res Org, KEK, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+CR Abe K, 1997, PHYS REV LETT, V78, P2075, DOI 10.1103/PhysRevLett.78.2075
+   ABE K, 2000, 200111 KEK ACFA LIN
+   BALAKIN V, 1979, 7985 INP
+   CHEN P, 1995, NUCL INSTRUM METH A, V355, P107, DOI 10.1016/0168-9002(94)01186-9
+   CLENDENIN JE, 1998, AIP C P, V421, P250
+   FLOTTMAN D, 95064 DESY
+   FUJII K, 1995, 95127 KEK
+   HIKASA K, 1986, PHYS REV D, V33, P3203, DOI 10.1103/PhysRevD.33.3203
+   Hirose T, 2000, NUCL INSTRUM METH A, V455, P15, DOI 10.1016/S0168-9002(00)00686-0
+   Kashiwagi S, 2000, NUCL INSTRUM METH A, V455, P36, DOI 10.1016/S0168-9002(00)00689-6
+   Kumita T, 1997, APPL SURF SCI, V116, P1, DOI 10.1016/S0169-4332(96)00964-6
+   MARUYAMA T, 1991, PHYS REV LETT, V66, P2351
+   Miyahara Y, 2001, PHYS REV SPEC TOP-AC, V4, DOI 10.1103/PhysRevSTAB.4.121001
+   MOORTGATPICK G, 2000, AIP C P, V578, P428
+   NAKANISHI T, 1991, PHYS LETT A, V158, P345, DOI 10.1016/0375-9601(91)90995-K
+   NAKANISHI T, 1998, AIP C P, V421, P300
+   Nelson W., 1985, SLACR265
+   Okugi T, 1996, JPN J APPL PHYS 1, V35, P3677, DOI 10.1143/JJAP.35.3677
+   OMORI T, 1997, SLACR502, P285
+   OMORI T, 1991, PHYS REV LETT, V67, P3291
+   OMORI T, 1999, KEK P, V99, P161
+   OMORI T, 9813 KEK
+   POGORELSKY IV, 1995, IEEE J QUANTUM ELECT, V31, P556, DOI 10.1109/3.364413
+   Pogorelsky I.V., 2000, PHYS REV SPEC TOP-AC, V3, DOI 10.1103/PhysRevSTAB.3.090702
+   SAKAI I, UNPUB PHYS REV ST AC
+   Stein W., 2001, PACS2001. Proceedings of the 2001 Particle Accelerator  Conference (Cat. No.01CH37268), DOI 10.1109/PAC.2001.987293
+   Yokoya K., CAIN223
+   Yuasa F, 2000, PROG THEOR PHYS SUPP, P18
+   *MIN TAT COLL, 1992, 9219 KEK MIN TAT COL
+NR 29
+TC 25
+Z9 25
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD MAR 11
+PY 2003
+VL 500
+IS 1-3
+BP 232
+EP 252
+DI 10.1016/S0168-9002(02)01985-X
+PG 21
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA 673FP
+UT WOS:000182569800020
+ER
+
+PT J
+AU Guo, ZY
+   Huang, H
+   Li, SP
+   Liu, DK
+   Ma, L
+   Qin, Q
+   Wang, JQ
+   Wang, SH
+   Xu, G
+   Zhang, C
+   Zhao, Z
+   Chin, YH
+   Fukuma, H
+   Hiramatsu, S
+   Izawa, M
+   Kasuga, T
+   Kikutani, E
+   Kobayashi, Y
+   Kurokawa, S
+   Ohmi, K
+   Sato, Y
+   Suetsugu, Y
+   Tobiyama, M
+   Tsukamoto, K
+   Yokoya, K
+   Zhang, XL
+AF Guo, ZY
+   Huang, H
+   Li, SP
+   Liu, DK
+   Ma, L
+   Qin, Q
+   Wang, JQ
+   Wang, SH
+   Xu, G
+   Zhang, C
+   Zhao, Z
+   Chin, YH
+   Fukuma, H
+   Hiramatsu, S
+   Izawa, M
+   Kasuga, T
+   Kikutani, E
+   Kobayashi, Y
+   Kurokawa, S
+   Ohmi, K
+   Sato, Y
+   Suetsugu, Y
+   Tobiyama, M
+   Tsukamoto, K
+   Yokoya, K
+   Zhang, XL
+TI Experimental studies on the photoelectron instability in the Beijing
+   Electron Positron Collider
+SO PHYSICAL REVIEW SPECIAL TOPICS-ACCELERATORS AND BEAMS
+LA English
+DT Article
+ID STORAGE-RINGS; BEAM
+AB A vertical coupled-bunch instability was observed for a positron beam at the Beijing Electron Positron Collider (BEPC). The experimental results show that the instability has similar characteristics as that observed in the Photon Factory of KEK several years ago. The instability at BEPC can be explained by the effect of an electron cloud which is produced in the beam chamber by synchrotron light hitting the wall.
+C1 Chinese Acad Sci, Inst High Energy Phys, Beijing 100039, Peoples R China.
+   High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Guo, ZY (reprint author), Chinese Acad Sci, Inst High Energy Phys, Beijing 100039, Peoples R China.
+RI Kikutani, Eiji/E-8263-2012
+OI Kikutani, Eiji/0000-0003-1518-8045
+CR BASSETTI M, 1980, CERNISRTH8006
+   CHAO AW, 1993, PHYSICS COLLECTIVE B
+   GUO Z Y, 1997, P 1997 PART ACC C VA, P1566
+   GUO ZY, 1998, P 1 AS PART ACC C TS, P432
+   Guo Z.Y., 1999, Proceedings of the 1999 Particle Accelerator Conference (Cat.  No.99CH36366), DOI 10.1109/PAC.1999.795780
+   Holmquist T, 1997, PHYS REV LETT, V79, P3186, DOI 10.1103/PhysRevLett.79.3186
+   IZAWA M, 1995, PHYS REV LETT, V74, P5044, DOI 10.1103/PhysRevLett.74.5044
+   OHMI K, 1999, P 1997 PART ACC C VA, P1667
+   OHMI K, 1995, PHYS REV LETT, V75, P1526, DOI 10.1103/PhysRevLett.75.1526
+   Ohmi K, 1997, PHYS REV E, V55, P7550, DOI 10.1103/PhysRevE.55.7550
+   OHMI K, 1997, 979 KEK
+   TOBIYAMA M, 2000, PHYS REV ST ACCEL BE, V3
+NR 12
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-4402
+J9 PHYS REV SPEC TOP-AC
+JI Phys. Rev. Spec. Top.-Accel. Beams
+PD DEC
+PY 2002
+VL 5
+IS 12
+AR 124403
+DI 10.1103/PhysRevSTAB.5.124403
+PG 6
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 632XJ
+UT WOS:000180249900009
+ER
+
+PT J
+AU Shobuda, Y
+   Yokoya, K
+AF Shobuda, Y
+   Yokoya, K
+TI Resistive wall impedance and tune shift for a chamber with a finite
+   thickness
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+AB Since the resistive wall impedance for a beam pipe of a nonround cross section depends on the coordinates of a witness particle, the witness particle receives an incoherent tune shift. When the expression for the impedance of an infinitely thick chamber is applied to the calculation of this tune shift, it becomes infinite. We have derived the resistive wall impedance for a chamber with a finite thickness and calculated the tune shift. There is no ambiguity in this expression for the tune shift, because it is automatically finite.
+C1 KEK, High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Shobuda, Y (reprint author), KEK, High Energy Accelerator Res Org, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+CR CHAO AW, 1993, PHYSICS COLLECTIVE B
+   GLUCKSTERN RL, 1993, PHYS REV E, V47, P656, DOI 10.1103/PhysRevE.47.656
+   HEIFETS S, 1998, 7985 SLACPUB
+   IEIRI T, 2001, P 2 AS PART ACC C BE, P412
+   Ieiri T., COMMUNICATION
+   JACKSON JK, 1974, CLASSICAL ELECTRODYN, P432
+   Yokoya K., 1993, Particle Accelerators, V41
+   ZIMMERMANN F, 2002, UNPUB COMMISSIONING
+NR 8
+TC 3
+Z9 3
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+J9 PHYS REV E
+JI Phys. Rev. E
+PD NOV
+PY 2002
+VL 66
+IS 5
+AR 056501
+DI 10.1103/PhysRevE.66.056501
+PG 6
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 622DG
+UT WOS:000179630800161
+ER
+
+PT J
+AU Okamoto, H
+   Yokoya, K
+AF Okamoto, H
+   Yokoya, K
+TI Parametric resonances in intense one-dimensional beams propagating
+   through a periodic focusing channel
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+DE space-charge-dominated beams; synchrotrons storage rings; parametric
+   resonances
+ID SPACE-CHARGE; PROTON SYNCHROTRONS
+AB We study parametric resonances in arbitrary periodic lattices, incorporating the effect of space-charge self-fields. The linearized Vlasov approach is employed to provide an analytic description of resonant beam instability. Neglecting the momentum dispersion and image charges, we obtain an eigenvalue equation that determines the frequencies of collective modes in a one-dimensional waterbag beam. Approximate formulae for the resonance stopbands, growth rates, etc. are given. The theoretical predictions are compared with multi-particle simulation results. The effect of error fields is also analytically explored in the present paper. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Hiroshima Univ, Dept Quantum Matter, Grad Sch Adv Sci Matter, Higashihiroshima 7398526, Japan.
+   High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Okamoto, H (reprint author), Hiroshima Univ, Dept Quantum Matter, Grad Sch Adv Sci Matter, 1-3-1 Kagamiyama, Higashihiroshima 7398526, Japan.
+CR BOZSIK I, 1981, NUCL INSTRUM METHODS, V187, P305, DOI 10.1016/0029-554X(81)90504-8
+   CHEN CP, 1994, PHYS REV LETT, V72, P2195, DOI 10.1103/PhysRevLett.72.2195
+   GLUCKSTERN RL, 1970, P LIN C FERM, P811
+   Hofmann I, 1998, PHYS REV E, V57, P4713, DOI 10.1103/PhysRevE.57.4713
+   HOFMANN I, 1992, GSI9234
+   KAPEHINSKY IM, 1959, P INT C HIGH EN ACC, P274
+   LEE SY, 1995, AIP C P, V377
+   MACHIDA S, 1991, NUCL INSTRUM METH A, V309, P43, DOI 10.1016/0168-9002(91)90091-4
+   PARZEN G, 1989, NUCL INSTRUM METH A, V281, P413, DOI 10.1016/0168-9002(89)91472-1
+   Sacherer F. J., 1971, IEEE T NUCL SCI, V18, P1101
+   SACHERER FJ, 1968, THESIS UCRL
+   Struckmeier J., 1984, Particle Accelerators, V15
+   Struckmeier J., 1984, Particle Accelerators, V14
+   VENTURINI M, 2000, PHYS REV STAB, V3, P4203, DOI 10.1103/PhysRevSTAB.3.034203
+NR 14
+TC 12
+Z9 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD APR 11
+PY 2002
+VL 482
+IS 1-2
+BP 51
+EP 64
+DI 10.1016/S0168-9002(01)01684-9
+PG 14
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA 550BH
+UT WOS:000175483400005
+ER
+
+PT J
+AU Shobuda, Y
+   Yokoya, K
+AF Shobuda, Y
+   Yokoya, K
+TI Heating rate of hadron beams during crystallization
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+AB A theory concerning the relation between rate heating rate and temperature of hadron beams is formulated from a quantum point of view. This theory predicts that the heating rate can be reduced by increasing the lattice periodicity of the accelerator with its fixed tunes and circumference. This prediction is quite consistent with simulation results.
+C1 KEK, High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Shobuda, Y (reprint author), KEK, High Energy Accelerator Res Org, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+CR BJORKEN JD, 1983, PART ACCEL, V113, P115
+   Chao A. W., 1999, HDB ACCELERATOR PHYS
+   LI XP, 1994, 1994 EUR PART ACC C, P1379
+   Okamoto H, 1998, PHYS REV E, V58, P3817, DOI 10.1103/PhysRevE.58.3817
+   PWINSKI A, 1974, P 9 INT C HIGH EN AC, P405
+   Wei J, 1998, PHYS REV LETT, V80, P2606, DOI 10.1103/PhysRevLett.80.2606
+   WEI J, 1994, PHYS REV LETT, V73, P3089, DOI 10.1103/PhysRevLett.73.3089
+   WEI J, 1995, AIP CONF PROC, V335, P224
+   WEI J, 1993, 52381 BNL
+   WEI J, 1993, PART ACCEL, V5, P3527
+   WEI J, 1993 PART ACC C, P3527
+   WEI J, 1996 EUR PART ACC C, V96, P1179
+NR 12
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+J9 PHYS REV E
+JI Phys. Rev. E
+PD FEB
+PY 2002
+VL 65
+IS 2
+AR 026502
+DI 10.1103/PhysRevE.65.026502
+PN Part 2
+PG 11
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 524XN
+UT WOS:000174038300095
+ER
+
+PT J
+AU Yokoya, K
+AF Yokoya, K
+TI Accelerator aspects of gamma-gamma colliders
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article; Proceedings Paper
+CT International Symposium on New Visions in Laser-Beam Interactions
+CY OCT 11-15, 1999
+CL TOKYO, JAPAN
+SP Fdn High Energy Accelerator Sci, Atom Energy Soc Japan, Japan IBM, Hitachi Zosen Corp, AMSC Co Ltd, BM Ind, IDX Corp, Saitou Shouten, Sumitomo Heavy Ind Ltd, Kantou Informat Serv Co
+DE gamma-gamma collider; radiative laser cooling
+AB There are several on-going projects of e(+)e(-) colliders. If they are constructed, we can convert them into photon-photon (gamma-gamma) colliders by converting electron beams into gamma beams, irradiating laser beams just before the interaction point. In this report we discuss the technical issues on the accelerator. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 KEK, High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+RP Yokoya, K (reprint author), KEK, High Energy Accelerator Res Org, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+CR KATSOULEAS TC, COMMUNICATION
+   OHGAKI T, COMMUNICATION
+   Telnov V, 2000, NUCL INSTRUM METH A, V455, P63, DOI 10.1016/S0168-9002(00)00916-5
+   TELNOV VI, 1999, PHOT 99 FREIB GERM M, P23
+   TELNOV VI, 1996, SLACPUB7337
+NR 5
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD NOV 21
+PY 2000
+VL 455
+IS 1
+BP 25
+EP 31
+DI 10.1016/S0168-9002(00)00687-2
+PG 7
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA 377LE
+UT WOS:000165514400005
+ER
+
+PT J
+AU Assmann, R
+   Yokoya, K
+AF Assmann, R
+   Yokoya, K
+TI Transverse beam dynamics in plasma-based linacs
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article; Proceedings Paper
+CT 13th Advanced ICFA Beam Dynamics Workshop / 1st ICFA Novel and Advanced
+   Accelerator Workshop - The 2nd Generation Plasma Accelerators
+CY JUL 14-18, 1997
+CL KYOTO RES PARK, JAPAN
+AB The transverse beam dynamics in plasma channels of possible future plasma-based linacs is discussed. We represent the transverse focusing of both a beam-driven and a laser-driven plasma wakefield accelerator by a uniform focusing channel. The transverse beam sizes and a basic offset tolerance are calculated, finding that sub-micron beams must be transported with even smaller offset tolerances. The results emphasize the need to pursue further ideas for plasma structures with high-acceleration gradients but reduced transverse wakefields.;(C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Stanford Univ, Stanford Linear Accelerator Ctr, Stanford, CA 94309 USA.
+   High Energy Accelerator Res Org, Tsukuba, Ibaraki 305, Japan.
+RP Assmann, R (reprint author), Stanford Univ, Stanford Linear Accelerator Ctr, Stanford, CA 94309 USA.
+CR CHIOU TC, 1995, PHYS PLASMAS, V2, P310, DOI 10.1063/1.871107
+   KATSOULEAS TC, COMMUNICATION
+   ROSENZWEIG J, IN PRESS P SNOWMASS
+   SHVETS G, 1996, IEEE T PLASMA SCI, V24
+   WHITTUM D, 1990, P TROP C RES TRENDS
+   *SLAC, 1997, 474 SLAC JLC DES STU
+NR 6
+TC 11
+Z9 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD JUN 21
+PY 1998
+VL 410
+IS 3
+BP 544
+EP 548
+DI 10.1016/S0168-9002(98)00187-9
+PG 5
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA 100VH
+UT WOS:000074835700031
+ER
+
+PT J
+AU Chen, P
+   Ohgaki, T
+   Spitkovsky, A
+   Takahashi, T
+   Yokoya, K
+AF Chen, P
+   Ohgaki, T
+   Spitkovsky, A
+   Takahashi, T
+   Yokoya, K
+TI Simulations of the interaction region in a photon-photon collider
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+DE linear colliders; laser-Compton scattering; beam-beam interaction
+ID PAIR CREATION
+AB The status and initial performance of a simulation program CAIN for interaction region of linear colliders is described. The program is developed to be applicable for e(+)e(-), e(-)e(-), e(-)gamma and gamma gamma linear colliders. As an example of an application, simulation of a gamma gamma collider option of NLC is reported.
+C1 HIROSHIMA UNIV,DEPT PHYS,HIGASHIHIROSHIMA 739,JAPAN.
+   STANFORD UNIV,STANFORD,CA 94309.
+   UNIV CALIF BERKELEY,DEPT PHYS,BERKELEY,CA 94720.
+   KEK NAT LAB HIGH ENERGY PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+CR CHEN P, 1995, NUCL INSTRUM METH A, V355, P107, DOI 10.1016/0168-9002(94)01186-9
+   CHEN P, 1989, PHYS REV LETT, V63, P1796, DOI 10.1103/PhysRevLett.63.1796
+   Ohgaki T, 1996, NUCL INSTRUM METH A, V373, P185, DOI 10.1016/0168-9002(95)01509-4
+   Tauchi T., 1993, Particle Accelerators, V41
+   TSAI YS, 1993, PHYS REV D, V48, P96, DOI 10.1103/PhysRevD.48.96
+   Volkov D M, 1935, Z PHYS, V94, P250
+   YOKOYA K., 1985, 859 KEK
+   YOKOYA K, 1986, NUCL INSTRUM METH A, V251, P1, DOI 10.1016/0168-9002(86)91144-7
+   1992, 9216 KEK JLCI
+NR 9
+TC 15
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD OCT 1
+PY 1997
+VL 397
+IS 2-3
+BP 458
+EP 464
+DI 10.1016/S0168-9002(97)00795-X
+PG 7
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA YA687
+UT WOS:A1997YA68700025
+ER
+
+PT J
+AU TAUCHI, T
+   YOKOYA, K
+AF TAUCHI, T
+   YOKOYA, K
+TI NANOMETER-BEAM-SIZE MEASUREMENT DURING COLLISIONS AT LINEAR COLLIDERS
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+RP TAUCHI, T (reprint author), NATL LAB HIGH ENERGY PHYS,KEK,1-1 OHO,TSUKUBA,IBARAKI 305,JAPAN.
+CR DAMERELL CJS, RAL94096 REP
+   DAMERELL CJS, 1994, NUCL INSTRUM METH A, V342, P78, DOI 10.1016/0168-9002(94)91412-5
+   DAMERELL CJS, COMMUNICATION
+   ERICKSON RA, 1989, LECTURE NOTES PHYSIC, V400, P482
+   SHINTAKE T, 1992, NUCL INSTRUM METH A, V311, P453, DOI 10.1016/0168-9002(92)90641-G
+   Tauchi T., 1993, Particle Accelerators, V41
+   YOKOYA K, 1985, KEK859 REP
+   YOKOYA K, 1990, LECT NOTES PHYS, V400, P415
+   YOKOYA K, 1986, NUCL INSTRUM METH A, V251, P1, DOI 10.1016/0168-9002(86)91144-7
+   1992, KEK9216 REP
+NR 10
+TC 7
+Z9 7
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1063-651X
+J9 PHYS REV E
+JI Phys. Rev. E
+PD JUN
+PY 1995
+VL 51
+IS 6
+BP 6119
+EP 6126
+DI 10.1103/PhysRevE.51.6119
+PN Part b
+PG 8
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA RE080
+UT WOS:A1995RE08000015
+ER
+
+PT J
+AU CHEN, P
+   HORTONSMITH, G
+   OHGAKI, T
+   WEIDEMANN, AW
+   YOKOYA, K
+AF CHEN, P
+   HORTONSMITH, G
+   OHGAKI, T
+   WEIDEMANN, AW
+   YOKOYA, K
+TI CAIN - CONGLOMERAT-DABEL-ET-DINTERACTIONS-NON-LINEAIRES
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article; Proceedings Paper
+CT Workshop on Gamma-Gamma Colliders
+CY MAR 28-31, 1994
+CL BERKELEY, CA
+SP LAWRENCE BERKELEY LAB, ACCELERATOR & FUS RES DIV, CTR BEAM PHYS, US DOE, NATL SCI FDN, INT SCI FDN, AMER PHYS SOC, INT COMM FUTURE ACCELERATORS
+HO LAWRENCE BERKELEY LAB
+ID COLLIDERS
+AB We present our plans for a Monte-Carlo code simulating all possible combinations of (electromagnetic) interactions between colliding electron, positron, and both high-energy and laser photon beams, based on the ABEL code for beam-beam interaction.  The implementation and first results for the laser-e- interaction are described.
+C1 HIROSHIMA UNIV,DEPT PHYS,HIGASHIHIROSHIMA 724,JAPAN.
+   KEK,NATL LAB HIGH ENERGY PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+   UNIV TENNESSEE,DEPT PHYS & ASTRON,KNOXVILLE,TN 37996.
+RP CHEN, P (reprint author), STANFORD UNIV,STANFORD LINEAR ACCELERATOR CTR,STANFORD,CA 94309, USA.
+CR BALAKIN V, 1995, NUCL INSTR METH A, V355
+   BARLETTA W, 1993, PROPOSAL PLASMA LENS
+   BENMENACHEM S, 1993, 5TH P INT WORKSH NEX, P426
+   Berestetskii V. B., 1982, QUANTUM ELECTRODYNAM
+   CHEN P, 1989, PHYS REV LETT, V63, P1796, DOI 10.1103/PhysRevLett.63.1796
+   HEINRICH JG, 1991, SLACE144 PROP
+   RAJAGOPALAN S, 1995, NUCL INSTRUM METH A, P169
+   Tauchi T., 1993, Particle Accelerators, V41
+   TELNOV VI, 1990, NUCL INSTRUM METH A, V294, P72, DOI 10.1016/0168-9002(90)91826-W
+   YOKOYA K, 1985, KEK859 REP
+   YOKOYA K, 1986, NUCL INSTRUM METH A, V251, P1, DOI 10.1016/0168-9002(86)91144-7
+NR 11
+TC 33
+Z9 34
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD FEB 1
+PY 1995
+VL 355
+IS 1
+BP 107
+EP 110
+DI 10.1016/0168-9002(94)01186-9
+PG 4
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA QF207
+UT WOS:A1995QF20700016
+ER
+
+PT J
+AU FANG, SX
+   OIDE, K
+   YOKOYA, K
+   CHEN, B
+   WANG, JQ
+AF FANG, SX
+   OIDE, K
+   YOKOYA, K
+   CHEN, B
+   WANG, JQ
+TI MICROWAVE INSTABILITIES IN ELECTRON-RINGS WITH NEGATIVE MOMENTUM
+   COMPACTION FACTOR
+SO PARTICLE ACCELERATORS
+LA English
+DT Article
+DE MICROWAVE INSTABILITIES; MOMENTUM COMPACTION FACTOR; BUNCH LENGTHENING
+AB Bunch lengthening (or shortening) caused by the potential well distortion and the microwave instability in electron rings with negative momentum compaction factor is discussed in detail based on the resonator impedance model; further, a comparison with rings of positive momentum compaction factor is given. It was found that the bunch shape is less deformed and the current threshold of the microwave instability is higher in the rings with negative momentum compaction factor over a very wide range of the impedance parameters. The results also show that even within the range where the threshold for positive momentum compaction is higher than that for negative momentum compaction, the bunch lengthening is still less serious in most cases. The main reason is that the beam is less deformed by its own wake field, and some ''negative feedback'' mechanism plays an important role in rings with negative momentum compaction factor. Finally, an example of bunch lengthening in the case alpha<0 with a real wake field of the old chamber of the SLC damping ring is given in contrast to the case in which alpha>0.
+RP FANG, SX (reprint author), NATL LAB HIGH ENERGY PHYS,KEK,TSUKUBA,IBARAKI 305,JAPAN.
+NR 0
+TC 3
+Z9 4
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0031-2460
+J9 PART ACCEL
+JI Part. Accel.
+PY 1995
+VL 51
+IS 1
+BP 15
+EP 28
+PG 14
+WC Nuclear Science & Technology; Physics, Nuclear; Physics, Particles &
+   Fields
+SC Nuclear Science & Technology; Physics
+GA TJ038
+UT WOS:A1995TJ03800002
+ER
+
+PT J
+AU BAIER, VN
+   YOKOYA, K
+AF BAIER, VN
+   YOKOYA, K
+TI INTERACTION OF HIGH-ENERGY ELECTRONS AND PHOTONS WITH INTENSE
+   ELECTROMAGNETIC-WAVE - LINEAR COLLIDER APPLICATIONS
+SO PARTICLE ACCELERATORS
+LA English
+DT Article
+DE LINEAR COLLIDERS; SYNCHROTRON RADIATION
+AB The process of radiation from high-energy electrons and that of electron-positron pair creation by high-energy photons in an intense laser field are studied in the parameter region where the multi-photon interaction is significant. The complete pictures of the behavior of the radiation probability/intensity and probability of the pair creation as functions of two basic parameters are obtained. Spectra of radiation and created particles are also found. Applications for linear colliders are discussed.
+RP BAIER, VN (reprint author), NATL LAB HIGH ENERGY PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+NR 0
+TC 1
+Z9 1
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0031-2460
+J9 PART ACCEL
+JI Part. Accel.
+PY 1994
+VL 44
+IS 2
+BP 77
+EP 106
+PG 30
+WC Nuclear Science & Technology; Physics, Nuclear; Physics, Particles &
+   Fields
+SC Nuclear Science & Technology; Physics
+GA QC936
+UT WOS:A1994QC93600002
+ER
+
+PT J
+AU NAKAJIMA, K
+   ARINAGA, M
+   KAWAMOTO, T
+   MIZUMACHI, Y
+   MORI, Y
+   OGATA, A
+   YOKOYA, K
+AF NAKAJIMA, K
+   ARINAGA, M
+   KAWAMOTO, T
+   MIZUMACHI, Y
+   MORI, Y
+   OGATA, A
+   YOKOYA, K
+TI MEASUREMENT OF EQUILIBRIUM BEAM POLARIZATION IN THE KEK E+ E- STORAGE
+   RING TRISTAN
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID PRECISION-MEASUREMENT; MASS
+AB The equilibrium polarization of the electron spin has been measured at the TRISTAN electron-positron storage ring.  The measurement was carried out by using a laser polarimeter detecting an asymmetry in the Compton scattering of a circularly polarized laser beam on polarized electrons.  The laser polarimeter allows for simultaneous measurements of the transverse and longitudinal polarization with sufficient accuracy.  The polarization level was relatively high, 40% at an electron-beam energy of 29 GeV, and the polarization vector was inclined at an angle of about 30-degrees.
+RP NAKAJIMA, K (reprint author), NATL LAB HIGH ENERGY PHYS,1-1 OHO,TSUKUBA,IBARAKI,JAPAN.
+CR ARTAMONOV AS, 1982, PHYS LETT B, V118, P225, DOI 10.1016/0370-2693(82)90633-5
+   BARBER DP, 1984, PHYS LETT B, V135, P498, DOI 10.1016/0370-2693(84)90323-X
+   BREMER HD, 1983, AIP C P, V95, P400
+   BUON J, 1990, PART ACCEL, V32, P153
+   BUON J, 1989, AIP C P, V187, P963
+   CAMERINI U, 1975, PHYS REV D, V12, P1855, DOI 10.1103/PhysRevD.12.1855
+   DERBENEV YS, 1973, ZH EKSP TEOR FIZ, V37, P968
+   GUSTAVSON DB, 1979, NUCL INSTRUM METHODS, V165, P177, DOI 10.1016/0029-554X(79)90268-4
+   MACKAY WW, 1984, PHYS REV D, V29, P2483, DOI 10.1103/PhysRevD.29.2483
+   MIZUMACHI Y, 1990, PART ACCEL, V32, P179
+   OGAWA K, COMMUNICATION
+   POTAUX D, 1971, 8TH P INT C HIGH EN, P127
+   ROSSMANITH R, 1985, NUCL INSTRUM METH A, V236, P231, DOI 10.1016/0168-9002(85)90156-1
+   SEREDNYAKOV SI, 1976, ZH EKSP TEOR FIZ+, V44, P1063
+   Sokolov A. A., 1964, SOV PHYS DOKL, V8, P1203
+NR 15
+TC 2
+Z9 3
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD APR 1
+PY 1991
+VL 66
+IS 13
+BP 1697
+EP 1700
+DI 10.1103/PhysRevLett.66.1697
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA FD899
+UT WOS:A1991FD89900013
+ER
+
+PT J
+AU OIDE, K
+   YOKOYA, K
+AF OIDE, K
+   YOKOYA, K
+TI BEAM BEAM COLLISION SCHEME FOR STORAGE-RING COLLIDERS
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+C1 STANFORD UNIV,STANFORD LINEAR ACCELERATOR CTR,STANFORD,CA 94305.
+RP OIDE, K (reprint author), NATL LAB HIGH ENERGY PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+CR COURANT ED, 1958, ANN PHYS-NEW YORK, V3, P1, DOI 10.1016/0003-4916(58)90012-5
+   GARREN AA, 1988, SLACAP71 STANF LIN A
+   GROSSEWIESMANN P, 1988, SLACPUB4545 STANF LI
+   PALMER RB, 1988, SLACPUB4707 STANF LI
+   PIWINSKI A, 1977, IEEE T NUCL SCI, V24, P1408, DOI 10.1109/TNS.1977.4328960
+   PIWINSKI A, 1970, NUCL INSTRUM METHODS, V81, P199, DOI 10.1016/0029-554X(70)90631-2
+   PIWINSKI A, 1985, IEEE T NUCL SCI, V32, P2240, DOI 10.1109/TNS.1985.4333872
+   PORTER F, 1988, CALTECH FCP881130 RE
+   SANDS M, 1970, SLAC121 STANF LIN AC
+   SIEMANN RH, 1988, CLNS88865 CORN U REP
+NR 10
+TC 30
+Z9 30
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUL 1
+PY 1989
+VL 40
+IS 1
+BP 315
+EP 316
+DI 10.1103/PhysRevA.40.315
+PG 2
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA AE996
+UT WOS:A1989AE99600037
+ER
+
+PT J
+AU CHEN, P
+   YOKOYA, K
+AF CHEN, P
+   YOKOYA, K
+TI FIELD-GRADIENT EFFECT IN QUANTUM BEAMSTRAHLUNG
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+C1 NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+RP CHEN, P (reprint author), STANFORD UNIV,STANFORD LINEAR ACCELERATOR CTR,STANFORD,CA 94309, USA.
+CR BAIER VN, 1968, SOV PHYS JETP-USSR, V26, P854
+   CHEN P, 1987, ECFA87100 EUR COMM F
+   CHEN P, 1988, LECTURE NOTES PHYSIC, V296
+   CHEN P, 1987, CERN8711 REP
+   HIMEL T, 1985, AIP C P, V130
+   RICHTER B, 1985, IEEE T NUCL SCI, V32, P3828, DOI 10.1109/TNS.1985.4334517
+   SCHWINGER J, 1954, P NATL ACAD SCI USA, V40, P132, DOI 10.1073/pnas.40.2.132
+   SOKOLOV AA, 1967, SYNCHROTRON RAD
+NR 8
+TC 19
+Z9 19
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD AUG 29
+PY 1988
+VL 61
+IS 9
+BP 1101
+EP 1104
+DI 10.1103/PhysRevLett.61.1101
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA P8457
+UT WOS:A1988P845700016
+ER
+
+PT J
+AU CHEN, PS
+   YOKOYA, K
+AF CHEN, PS
+   YOKOYA, K
+TI DISRUPTION EFFECTS FROM THE INTERACTION OF ROUND E+E- BEAMS
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+C1 NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+RP CHEN, PS (reprint author), STANFORD UNIV,STANFORD LINEAR ACCELERATOR CTR,STANFORD,CA 94305, USA.
+CR CHEN P, 1988, LECTURE NOTES PHYSIC, V296
+   ERICKSON R, 1980, SLAC229 REP
+   ERICKSON R, 1984, SLC DESIGN HDB
+   FAWLEY WM, 1987, ECFA87110 REP
+   FAWLEY WM, 1987, CERN8711 REP
+   HOLLEBEEK R, 1981, NUCL INSTRUM METHODS, V184, P333, DOI 10.1016/0029-554X(81)90733-3
+   HOLLEBEEK R, 1985, SLAC CN301 INT REP
+   YOKOYA K, 1987, SLAC AAS27 INT REP
+   YOKOYA K, 1985, KEK859 REP
+NR 9
+TC 20
+Z9 20
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD AUG 1
+PY 1988
+VL 38
+IS 3
+BP 987
+EP 1000
+DI 10.1103/PhysRevD.38.987
+PG 14
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA P4382
+UT WOS:A1988P438200030
+ER
+
+PT J
+AU YOKOYA, K
+AF YOKOYA, K
+TI CALCULATION OF THE EQUILIBRIUM POLARIZATION OF STORED ELECTRON-BEAMS
+   USING LIE-ALGEBRA
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+RP YOKOYA, K (reprint author), NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+CR CHAO AW, 1981, NUCL INSTRUM METHODS, V180, P29, DOI 10.1016/0029-554X(81)90006-9
+   Derbenev Ya. S., 1972, SOV PHYS JETP, V35, P230
+   Derbenev Ya.S., 1973, SOV PHYS JETP, V37, P968
+   Dragt AJ, 1982, AIP C P, P147
+   FOREST E, 1986, SSC78
+   MANE SR, UNPUB PHYS REV A
+   MONTAGUE B, 1984, PHYS REP, V113
+   Sokolov A. A., 1964, SOV PHYS DOKL, V8, P1203
+   YOKOYA K, 1986, DESY86057
+NR 9
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD AUG 1
+PY 1987
+VL 258
+IS 2
+BP 149
+EP 160
+DI 10.1016/0168-9002(87)90051-9
+PG 12
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA J4192
+UT WOS:A1987J419200001
+ER
+
+PT J
+AU YOKOYA, K
+AF YOKOYA, K
+TI QUANTUM CORRECTION TO BEAMSTRAHLUNG DUE TO THE FINITE NUMBER OF PHOTONS
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+RP YOKOYA, K (reprint author), NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+CR BASSETTI M, 1980, LEP221 NOT
+   HIMEL T, 1985, SLACPUB3572
+   SESSLER AM, COMMUNICATION
+   SOKOLOV AA, 1968, SYNCHROTRON RAD, P95
+   YOKOYA K, 1985, KEK859 REP
+NR 5
+TC 24
+Z9 24
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD OCT 1
+PY 1986
+VL 251
+IS 1
+BP 1
+EP 16
+DI 10.1016/0168-9002(86)91144-7
+PG 16
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA E0468
+UT WOS:A1986E046800001
+ER
+
+PT J
+AU KAMADA, S
+   OIDE, K
+   FUKUMA, H
+   YOKOYA, K
+   NAKAJIMA, K
+   KIKUTANI, E
+   TEJIMA, M
+AF KAMADA, S
+   OIDE, K
+   FUKUMA, H
+   YOKOYA, K
+   NAKAJIMA, K
+   KIKUTANI, E
+   TEJIMA, M
+TI OPERATIONAL RESULTS OF OPTICS HANDLING AND CLOSED ORBIT CORRECTION IN
+   THE TRISTAN ACCUMULATION RING
+SO IEEE TRANSACTIONS ON NUCLEAR SCIENCE
+LA English
+DT Article
+C1 KEK,NATL LAB HIGH ENERGY PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+CR AUTIN B, 1973, CERN ISRMA7317
+   FUKUMA H, 1985, IEEE NUCL S, V32
+   KING AS, 1975, SLAC183 REP
+   KOISO K, 1985, IEEE NUCL S, V32
+   KUROKAWA S, 1985, IEEE NUCL S, V32
+   OIDE K, 1985, IEEE NUCL S, V32
+   YOKOYA K, UNPUB MAGIC MANUAL K
+   1981, KEK PUBLICATION
+NR 8
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9499
+J9 IEEE T NUCL SCI
+JI IEEE Trans. Nucl. Sci.
+PD OCT
+PY 1985
+VL 32
+IS 5
+BP 2065
+EP 2067
+DI 10.1109/TNS.1985.4333816
+PN Part 1
+PG 3
+WC Engineering, Electrical & Electronic; Nuclear Science & Technology
+SC Engineering; Nuclear Science & Technology
+GA G9332
+UT WOS:A1985G933200162
+ER
+
+PT J
+AU CHIN, Y
+   YOKOYA, K
+AF CHIN, Y
+   YOKOYA, K
+TI NONLINEAR PERTURBATION APPROACH TO BUNCH LENGTHENING AND BLOW-UP OF
+   ENERGY SPREAD
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP CHIN, Y (reprint author), NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+CR ABRAMOVITZ M, 1965, HDB MATH, P778
+   BERNSTEIN IB, 1960, PHYS FLUIDS, V9, P937
+   BONCHOSMOLOVSKI.AG, 1972, JINR P95622
+   BRAMHAM P, 1977, IEEE T NUCL SCI, V24, P1490, DOI 10.1109/TNS.1977.4328988
+   CASE KM, 1959, ANN PHYS-NEW YORK, V7, P349, DOI 10.1016/0003-4916(59)90029-6
+   CHAO AW, 1982, SLACPUB2946, P131
+   CHAO AW, 1976, PEP224
+   CHIN Y, 1983, PHYS REV D, V28, P2141, DOI 10.1103/PhysRevD.28.2141
+   CHIN YH, 1983, PART ACCEL, V13, P45
+   DORY RA, 1962, MURA654 REP
+   Drummond W. E., 1962, NUCL FUSION S, P1049
+   HOFMANN A, 1978, LEP7074
+   KEIL E, 1975, NUCL INSTRUM METHODS, V128, P203, DOI 10.1016/0029-554X(75)90670-9
+   KOREVAAR J, 1968, MATH METHODS, V1, P191
+   KRALL NA, 1973, PRINCIPLES PLASMA PH, P512
+   Landau L., 1946, Journal of Physics, V10
+   MESSERSCHMID E, 1976, NUCL INSTRUM METHODS, V136, P1, DOI 10.1016/0029-554X(76)90390-6
+   NEIL VK, 1965, REV SCI INSTRUM, V36, P429, DOI 10.1063/1.1719594
+   NIELSEN CE, 1959, P INT C HIGH EN ACC, P239
+   RUGGIERO AG, 1979, FN316
+   Sacherer F. J., 1972, CERNSIBR725
+   SACHERER FJ, 1977, IEEE T NUCL SCI, V24, P1393, DOI 10.1109/TNS.1977.4328955
+   Suzuki T., 1983, Particle Accelerators, V13
+   VANKAMPEN NG, 1955, PHYSICA, V21, P949, DOI 10.1016/S0031-8914(55)93068-8
+   Wang J.M., 1980, 11th International Conference on High-Energy Accelerators
+   WEILAND T, 1981, DESY8188
+   WILSON PB, 1977, IEEE T NUCL SCI, V24, P1211, DOI 10.1109/TNS.1977.4328899
+   ZOTTER B, 1981, CERN SPS8119DI
+   ZOTTER B, 1981, CERN SPS8118DI
+   ZOTTER B, 1973, IEEE T NUCL SCI, VNS20, P830, DOI 10.1109/TNS.1973.4327255
+   ZOTTER B, 1973, ISR119 INT PERF REP
+   ZOTTER B, 1981, CERN SPS8114DI
+NR 32
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PY 1984
+VL 226
+IS 2-3
+BP 223
+EP 249
+DI 10.1016/0168-9002(84)90037-8
+PG 27
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA TU861
+UT WOS:A1984TU86100002
+ER
+
+PT J
+AU SUZUKI, T
+   CHIN, Y
+   SATOH, K
+   TAKATA, K
+   YOKOYA, K
+AF SUZUKI, T
+   CHIN, Y
+   SATOH, K
+   TAKATA, K
+   YOKOYA, K
+TI COLLECTIVE BEAM INSTABILITIES CAUSED BY RF CAVITIES IN TRISTAN
+SO IEEE TRANSACTIONS ON NUCLEAR SCIENCE
+LA English
+DT Article
+RP SUZUKI, T (reprint author), NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+CR BESNIER G, 1979, NUCL INSTRUM METHODS, V164, P235, DOI 10.1016/0029-554X(79)90241-6
+   Chao A., COMMUNICATION
+   CHIN Y, 1982, KEK8218 PREPR
+   CHIN Y, 1982, KEK8120
+   CHIN Y, 1982, KEK8223 PREPR
+   CHIN Y, UNPUB PART ACCEL
+   CHIN Y, 1983, IEEE NUCL S, V30
+   CHIN Y, UNPUB NUCL INSTRUM M
+   Halbach K., 1976, Particle Accelerators, V7
+   Hutton A., 1980, 11th International Conference on High-Energy Accelerators
+   INAGAKI S, 1983, IEEE T NUCL SCI, V30, P3572, DOI 10.1109/TNS.1983.4336729
+   KOHAUPT RD, 1974, 9TH P INT C HIGH EN, P562
+   KOHAUPT RD, 1980, DESY8022
+   SACHERER FJ, 1973, IEEE T NUCL SCI, VNS20, P825, DOI 10.1109/TNS.1973.4327254
+   Sacherer F. J., 1972, CERNSIBR725
+   SACHERER FJ, 1977, IEEE T NUCL SCI, V24, P1393, DOI 10.1109/TNS.1977.4328955
+   SANDS M, 1974, PEP90
+   SATOH K, UNPUB NUCL INSTRUM M
+   SATOH K, 1981, PEP361 NOT
+   SATOH K, 1981, PEP357 NOT
+   SIEMANN R, 1982, NUCL INSTRUM METHODS, V203, P57, DOI 10.1016/0167-5087(82)90608-1
+   Suzuki T., UNPUB
+   SUZUKI T, UNPUB PART ACCEL
+   SUZUKI T, 1982, JPN J APPL PHYS 1, V21, P731, DOI 10.1143/JJAP.21.731
+   SUZUKI T, 1982, KEK8226 PREPR
+   SUZUKI T, 1982, NUCL INSTRUM METHODS, V203, P45, DOI 10.1016/0167-5087(82)90607-X
+   SUZUKI T, 1983, KEK8234 PREPR
+   TAKATA K, 1981, IEEE T NUCL SCI, V28, P2873, DOI 10.1109/TNS.1981.4331943
+   WEILAND T, 1974, 9TH P INT C HIGH EN, P570
+   WEILAND T, COMPUTER PROGRAM TBC
+   WILSON PB, 1974, 9 INT C HIGH EN ACC, P57
+   ZOTTER B, 1981, CERN SPS8118 DI
+   ZOTTER B, 1981, CERN SPS8114 DI
+NR 33
+TC 1
+Z9 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9499
+J9 IEEE T NUCL SCI
+JI IEEE Trans. Nucl. Sci.
+PY 1983
+VL 30
+IS 4
+BP 2563
+EP 2565
+DI 10.1109/TNS.1983.4332882
+PG 3
+WC Engineering, Electrical & Electronic; Nuclear Science & Technology
+SC Engineering; Nuclear Science & Technology
+GA RA818
+UT WOS:A1983RA81800199
+ER
+
+PT J
+AU CHIN, Y
+   YOKOYA, K
+AF CHIN, Y
+   YOKOYA, K
+TI ANALYTICAL APPROACH TO THE OVERSHOOT PHENOMENON FOR A COASTING BEAM IN
+   PARTICLE ACCELERATORS
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP CHIN, Y (reprint author), NATL LAB HIGH ENERGY PHYS,OHO,IBARAKI 305,JAPAN.
+CR BERNSTEIN IB, 1960, PHYS FLUIDS, V9, P937
+   BONCHOSMOLOVSKI.AG, 1971, JINR P95622 DUBN REP
+   COURANT ED, 1958, ANN PHYS-NEW YORK, V3, P1, DOI 10.1016/0003-4916(58)90012-5
+   DORY RA, 1962, MURA654 REP
+   Drummond W. E., 1962, NUCL FUSION S, P1049
+   HUBNER K, 1970, CERNISRTH7044 REP
+   KEIL B, 1975, NUCL INSTRUM METHODS, V128, P203
+   KRALL NA, 1973, PRINCIPLES PLASMA PH, P512
+   Landau L., 1946, Journal of Physics, V10
+   LASLETT LJ, 1965, REV SCI INSTRUM, V36, P436, DOI 10.1063/1.1719595
+   NEIL VK, 1961, REV SCI INSTRUM, V32, P256, DOI 10.1063/1.1717340
+   NEIL VK, 1965, REV SCI INSTRUM, V36, P429, DOI 10.1063/1.1719594
+   NIELSEN CE, 1959, P INT C HIGH EN ACC, P239
+   RUGGIERO AG, 1968, CERNISRTH6833 REP
+   RUGGIERO AG, 1979, FN316 FERM REP
+   ZOTTER B, 1976, CERNISRGS7611 REP
+   ZOTTER B, 1973, IEEE T NUCL SCI, VNS20, P830, DOI 10.1109/TNS.1973.4327255
+NR 17
+TC 11
+Z9 11
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PY 1983
+VL 28
+IS 9
+BP 2141
+EP 2148
+DI 10.1103/PhysRevD.28.2141
+PG 8
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA RN671
+UT WOS:A1983RN67100003
+ER
+
+PT J
+AU SUZUKI, T
+   YOKOYA, K
+AF SUZUKI, T
+   YOKOYA, K
+TI SIMPLIFIED CRITERIA FOR BUNCHED BEAM INSTABILITY DUE TO RF CAVITIES
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH
+LA English
+DT Article
+RP SUZUKI, T (reprint author), NATL LAB HIGH ENERGY PHYS,OHO-MACHI,TSUKUBA,IBARAKI 305,JAPAN.
+CR Abramowitz M, 1970, HDB MATH FUNCTIONS
+   CHAO AW, 1979, PEP321 NOT
+   CHAO AW, 1979, PEP309 NOT
+   CHAO AW, 1981, COMMUNICATION
+   CHIN Y, 1982, COMMUNICATION
+   Degele D., 1980, 11th International Conference on High-Energy Accelerators
+   Gradshteyn I. S., 1980, TABLE INTEGRALS SERI
+   Halbach K., 1976, Particle Accelerators, V7
+   Hutton A., 1980, 11th International Conference on High-Energy Accelerators
+   Laclare J.L., 1980, 11th International Conference on High-Energy Accelerators
+   MORIGUCHI S, 1960, SUHGAKU KOHSHIKI, V3
+   Paterson J.M., 1980, 11th International Conference on High-Energy Accelerators
+   PELLEGRINI C, 1977, PEP258
+   ROBINSON KW, 1964, CEAL1010
+   SACHERER FJ, 1973, IEEE T NUCL SCI, VNS20, P825, DOI 10.1109/TNS.1973.4327254
+   Sacherer F. J., 1972, CERNSIBR725
+   ZOTTER B, 1981, CERN SPS8118DI
+   1981, KEK PUBLICATION ABRI
+NR 18
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0029-554X
+J9 NUCL INSTRUM METHODS
+PY 1982
+VL 203
+IS 1-3
+BP 45
+EP 55
+DI 10.1016/0167-5087(82)90607-X
+PG 11
+WC Instruments & Instrumentation; Nuclear Science & Technology
+SC Instruments & Instrumentation; Nuclear Science & Technology
+GA PU497
+UT WOS:A1982PU49700006
+ER
+
+EF

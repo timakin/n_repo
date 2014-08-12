@@ -1,0 +1,1751 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Halzen, F
+   Igi, K
+   Ishida, M
+   Kim, CS
+AF Halzen, Francis
+   Igi, Keiji
+   Ishida, Muneyuki
+   Kim, C. S.
+TI Total hadronic cross sections and pi(-/+)pi(+) scattering
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID PI-PI-SCATTERING; ENERGIES; LHC
+AB Recent measurements of the inelastic and total proton-proton cross section at the LHC, and at cosmic ray energies by the Auger experiment, have quantitatively confirmed fits to lower energy data constrained by the assumption that the proton is asymptotically a black disk of gluons. We show that data on (p) over bar (p)p, pi -/+ p, and K -/+ p forward scattering support the related expectation that the asymptotic behavior of all cross sections is flavor independent. By using the most recent measurements from ATLAS, CMS, TOTEM, and Auger, we predict sigma(pp)(tot) (root s = 8 TeV) = 100.6 +/- 2.9 mb and sigma(pp)(tot) (root s = 14 TeV) 110.8 +/- 3.5 mb, as well as refine the total cross section sigma(pp)(tot) (root s = 57 TeV) = 139.6 +/- 3.5 mb. Our analysis also predicts the total pi(+)pi(+) cross sections as a function of root s.
+C1 Yonsei Univ, Dept Phys, Seoul 120749, South Korea.
+   Yonsei Univ, IPAP, Seoul 120749, South Korea.
+   Univ Wisconsin, Dept Phys, Madison, WI 53705 USA.
+   RIKEN Nishina Ctr, Phys Math Lab, Wako, Saitama 3510198, Japan.
+   Meisei Univ, Dept Phys, Hino, Tokyo 1918506, Japan.
+RP Kim, CS (reprint author), Yonsei Univ, Dept Phys, Seoul 120749, South Korea.
+EM francis.halzen@icecube.wisc.edu; igi@phys.s.u-tokyo.ac.jp;
+   mishida@wisc.edu; cskim@yonsei.ac.kr
+FU National Science Foundation [096906]; KAKENHI [2274015]; Meisei
+   University; NRF; Korea government of MEST [2011-0027275, 2011-0017430,
+   2011-0020333]
+FX F. H. is supported by the National Science Foundation Contract No.
+   096906. M. I. is very grateful to Dr. R. Kaminski for informing the pi
+   pi data and giving crucial comments. This work is supported in part by
+   KAKENHI [2274015, Grant-in-Aid for Young Scientists (B)] and in part by
+   grant as Special Researcher of Meisei University. C. S. K. is supported
+   by the NRF grant funded by Korea government of MEST (No. 2011-0027275),
+   (No. 2011-0017430), and (No. 2011-0020333).
+CR ABRAMOWICZ H, 1980, NUCL PHYS B, V166, P62, DOI 10.1016/0550-3213(80)90489-7
+   Achilli A, 2011, PHYS REV D, V84, DOI 10.1103/PhysRevD.84.094009
+   Antchev G., CERNPHEP2011158 TOTE
+   Antchev G, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/21002
+   ATLAS Collaboration, 2011, NATURE COMMUN, V2, P463
+   BISWAS NN, 1967, PHYS REV LETT, V18, P273, DOI 10.1103/PhysRevLett.18.273
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.036006
+   Block MM, 2011, PHYS REV D, V83, DOI 10.1103/PhysRevD.83.077901
+   Block MM, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.212002
+   Block M.M., 2002, Physical Review D, V65, DOI 10.1103/PhysRevD.65.116005
+   Caprini I., ARXIV11117160V1
+   CMS Collaboration, 2011, CMS PHYS AN SUMM FWD
+   COHEN D, 1973, PHYS REV D, V7, P661, DOI 10.1103/PhysRevD.7.661
+   Cudell JR, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.201801
+   Cudell JR, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.074024
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   GAISSER TK, 1985, PHYS REV LETT, V54, P1754, DOI 10.1103/PhysRevLett.54.1754
+   Garcia-Martin R, 2011, PHYS REV D, V83, DOI 10.1103/PhysRevD.83.074004
+   Geer S., COMMUNICATION
+   Giordano M., ARXIV12030961V1
+   Grau A, 2010, PHYS LETT B, V693, P456, DOI 10.1016/j.physletb.2010.08.078
+   HANLON J, 1976, PHYS REV LETT, V37, P967, DOI 10.1103/PhysRevLett.37.967
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+   Ishida M, 2009, PHYS REV D, V79, DOI 10.1103/PhysRevD.79.096003
+   Ishida M, 2009, PHYS LETT B, V670, P395, DOI 10.1016/j.physletb.2008.11.026
+   Ishida M, 2011, PHYS REV D, V84, DOI 10.1103/PhysRevD.84.014027
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   Mostafa M., 2011, 31 PHYS COLL C VANC
+   Nakamura K, 2010, J PHYS G NUCL PARTIC, V37, P1, DOI 10.1088/0954-3899/37/7A/075021
+   Pelaez JR, 2004, PHYS REV D, V69, DOI 10.1103/PhysRevD.69.114001
+   Pelaez JR, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.074005
+   ROBERTSO.WJ, 1973, PHYS REV D, V7, P2554, DOI 10.1103/PhysRevD.7.2554
+   Schegelsky V. A., ARXIV11123243
+   Szczurek A, 2002, PHYS REV C, V66, DOI 10.1103/PhysRevC.66.055206
+   Ulrich R., ARXIV11074804 AUG CO
+   ZAKHAROV BG, 1984, SOV J NUCL PHYS+, V39, P448
+   [Anonymous], 2009, PROJ 10 PHYS WORKSH
+NR 38
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD APR 18
+PY 2012
+VL 85
+IS 7
+AR 074020
+DI 10.1103/PhysRevD.85.074020
+PG 7
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 928DU
+UT WOS:000302962000007
+ER
+
+PT J
+AU Ishida, M
+   Igi, K
+AF Ishida, Muneyuki
+   Igi, Keiji
+TI Test of Universal Rise of Hadronic Total Cross Sections Based on pi p,
+   Kp, (p)over-barp and pp Scatterings
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article
+ID ELASTIC-SCATTERING; SUPERHIGH ENERGIES; SUM RULES; RHO-RATIO; LHC;
+   PREDICTIONS; MODEL; NUCLEI
+AB There are several evidences of the hadronic total cross section sigma(tot) to be proportional to B log(2)s consistent with the Froissart unitarity bound. The COMPETE collaboration has further assumed sigma(tot) similar or equal to B log(2)(s/s(0)) + Z to extend its universal rise with the common value of B for all hadronic scatterings to reduce the number of adjustable parameters. The coefficient B is suggested to be universal in the arguments of color glass condensate (CGC) of QCD. There has been, however, no rigorous proof yet based only on QCD. We attempt to investigate the values of B for pi(-/+)p, K(-/+)p and (p) over barp, pp scatterings respectively through the search for the simultaneous best fit to the experimental sigma(tot) and rho ratios at high energies. The sigma(tot) at the resonance and intermediate energy regions has also been exploited as a duality constraint based on the special form of finite-energy sum rule (FESR). We estimate the values of B individually for pi(-/+)p, K(-/+)p (p) over barp and pp scatterings without using the universality hypothesis. It turs out that the values of B are mutually consistent within one standard deviation, and the universal rise of hadronic total cross sections is strongly suggested. It has to be stressed that we cannot obtain such a definite conclusion without the duality constraint.
+C1 Meisei Univ, Sch Sci & Engn, Dept Phys, Hino, Tokyo 1918506, Japan.
+   RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+RP Ishida, M (reprint author), Meisei Univ, Sch Sci & Engn, Dept Phys, Hino, Tokyo 1918506, Japan.
+CR Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.036006
+   BOURRELY C, 1984, NUCL PHYS B, V247, P15, DOI 10.1016/0550-3213(84)90369-9
+   Cudell JR, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.201801
+   Cudell JR, 2008, PHYS LETT B, V662, P417, DOI 10.1016/j.physletb.2008.03.033
+   Cudell JR, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.074024
+   Dersch U, 2000, NUCL PHYS B, V579, P277, DOI 10.1016/S0550-3213(00)00204-2
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   Ferreiro E, 2002, NUCL PHYS A, V710, P373, DOI 10.1016/S0375-9474(02)01163-6
+   FINKELSTEIN J, 1989, PHYS LETT B, V232, P257, DOI 10.1016/0370-2693(89)91697-3
+   Fiore R, 2009, INT J MOD PHYS A, V24, P2551
+   Frankfurt L, 2005, PHYS LETT B, V616, P59, DOI 10.1016/j.physletb.2005.04.051
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   GOLOSKOKOV SV, 1991, Z PHYS C PART FIELDS, V50, P455, DOI 10.1007/BF01551457
+   GOTSMAN E, ARXIV07081506
+   Gotsman E, 2008, EUR PHYS J C, V57, P689, DOI 10.1140/epjc/s10052-008-0704-5
+   Iancu E, 2001, PHYS LETT B, V510, P133, DOI 10.1016/S0370-2693(01)00524-X
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2006, PROG THEOR PHYS, V116, P1097, DOI 10.1143/PTP.116.1097
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+   Ishida M, 2007, EUR PHYS J C, V52, P357, DOI 10.1140/epjc/s10052-007-0392-6
+   Ishida M, 2009, PHYS REV D, V79, DOI 10.1103/PhysRevD.79.096003
+   Ishida M, 2009, PHYS LETT B, V670, P395, DOI 10.1016/j.physletb.2008.11.026
+   Islam MM, 2005, PHYS LETT B, V605, P115, DOI 10.1016/j.physletb.2004.11.006
+   JENKOVSZKY LL, 1986, ITP8682E
+   Jenkovszky L.L., 1987, YAD FIZ, V46, P1519
+   LANDSHOFF PV, ARXIV07090395
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   Martynov E, 2008, EUR PHYS J C, V56, P57, DOI 10.1140/epjc/s10052-008-0629-z
+   Petrov VA, 2002, EUR PHYS J C, V23, P135, DOI 10.1007/s100520100838
+   Ryskin MG, 2009, EUR PHYS J C, V60, P249, DOI 10.1140/epjc/s10052-009-0889-2
+   Yao W.-M., 2006, J PHYS G, V33, P337
+   *ALFA, ATLASTDR018
+   *TOTEM, CERNLHCC2004020
+   *TOTEM, CERNLHCC2004002
+NR 36
+TC 2
+Z9 2
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2011
+IS 187
+BP 297
+EP 304
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA 759LB
+UT WOS:000290243700031
+ER
+
+PT J
+AU Ishida, M
+   Igi, K
+AF Ishida, Muneyuki
+   Igi, Keiji
+TI Test of universal rise of hadronic total cross sections based on pi p,
+   Kp and (p)over-barp, pp scatterings
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID COLOR GLASS CONDENSATE; ELASTIC-SCATTERING; SUPERHIGH ENERGIES;
+   RHO-RATIO; SUM RULES; 1.8 TEV; ROOT-S; LHC; PREDICTIONS; MODEL
+AB Recently, there have been several evidences that the hadronic total cross section sigma(tot) is proportional to Blog(2)s, which is consistent with the Froissart unitarity bound. The COMPETE Collaboration has further assumed sigma(tot) similar or equal to Blog(2) (s/s(0)) + Z to extend its universal rise with the common values of B and s(0) for all hadronic scatterings to reduce the number of adjustable parameters. It was suggested that the coefficient B was universal in the arguments of the color glass condensate of QCD in recent years. However, there has been no rigorous proof yet based only on QCD. We attempt to investigate the value of B for pi(-/+) p, K(-/+) p and (p) over barp, pp scatterings, respectively, through the search for the simultaneous best fit to the experimental sigma(tot) and rho ratios at high energies. The sigma(tot) at the resonance- and intermediate-energy regions has also been exploited as a duality constraint based on the special form of the finite-energy sum rule. We estimate the values of B, s(0), and Z individually for pi(-/+)p, K(-/+)p and (p) over barp, pp scatterings without using the universality hypothesis. It turns out that the values of B are mutually consistent within 1 standard deviation. It has to be stressed that we cannot obtain such a definite conclusion without the duality constraint. It is also interesting to note that the values of Z for pi p, Kp, and (p) over bar (p)p approximately satisfy the ratio 2:2:3 predicted by the quark model. The obtained value of B for (p) over bar (p)p is B(pp) 0.280 +/- 0.015 mb, which predicts sigma(pp)(tot) 108.0 +/- 1.9 mb and rho(pp) = 0.131 +/- 0.0025 at the LHC energy. root s = 14 TeV.
+C1 Meisei Univ, Sch Sci & Engn, Dept Phys, Tokyo 1918506, Japan.
+   RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+RP Ishida, M (reprint author), Meisei Univ, Sch Sci & Engn, Dept Phys, Tokyo 1918506, Japan.
+EM ishida@phys.meisei-u.ac.jp
+CR ABE F, 1994, PHYS REV D, V50, P5550, DOI 10.1103/PhysRevD.50.5550
+   AMOS NA, 1992, PHYS REV LETT, V68, P2433, DOI 10.1103/PhysRevLett.68.2433
+   Avila C, 1999, PHYS LETT B, V445, P419, DOI 10.1016/S0370-2693(98)01421-X
+   BELLETTI.G, 1965, PHYS LETT, V14, P164, DOI 10.1016/0031-9163(65)90465-8
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.036006
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.039902
+   Block MM, 2006, NUCL INSTRUM METH A, V556, P308, DOI 10.1016/j.nima.2005.10.019
+   BOURRELY C, 1984, NUCL PHYS B, V247, P15, DOI 10.1016/0550-3213(84)90369-9
+   Cudell JR, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.201801
+   Cudell JR, 2008, PHYS LETT B, V662, P417, DOI 10.1016/j.physletb.2008.03.033
+   Cudell JR, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.074024
+   Dersch U, 2000, NUCL PHYS B, V579, P277, DOI 10.1016/S0550-3213(00)00204-2
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   FAJARDO LA, 1981, PHYS REV D, V24, P46, DOI 10.1103/PhysRevD.24.46
+   Ferreiro E, 2002, NUCL PHYS A, V710, P373, DOI 10.1016/S0375-9474(02)01163-6
+   FIORE R, ARXIV08102902V2
+   Frankfurt L, 2005, PHYS LETT B, V616, P59, DOI 10.1016/j.physletb.2005.04.051
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   GILMAN FJ, 1968, PHYS REV LETT, V21, P323, DOI 10.1103/PhysRevLett.21.323
+   GOLOSKOKOV SV, 1991, Z PHYS C PART FIELDS, V50, P455, DOI 10.1007/BF01551457
+   GOTSMAN E, ARXIV07081506
+   Gotsman E, 2008, EUR PHYS J C, V57, P689, DOI 10.1140/epjc/s10052-008-0704-5
+   Iancu E, 2001, NUCL PHYS A, V692, P583, DOI 10.1016/S0375-9474(01)00642-X
+   Iancu E, 2001, PHYS LETT B, V510, P133, DOI 10.1016/S0370-2693(01)00524-X
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2006, PROG THEOR PHYS, V116, P1097, DOI 10.1143/PTP.116.1097
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+   Ishida M, 2007, EUR PHYS J C, V52, P357, DOI 10.1140/epjc/s10052-007-0392-6
+   Ishida M, 2009, PHYS LETT B, V670, P395, DOI 10.1016/j.physletb.2008.11.026
+   Islam MM, 2005, PHYS LETT B, V605, P115, DOI 10.1016/j.physletb.2004.11.006
+   JENKOVSZKY LL, 1986, ITP8682E
+   Jenkovszky L.L., 1987, YAD FIZ, V46, P1519
+   Landshoff PV, 2008, ACTA PHYS POL B, V39, P2063
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   Martynov E, 2008, EUR PHYS J C, V56, P57, DOI 10.1140/epjc/s10052-008-0629-z
+   Petrov VA, 2002, EUR PHYS J C, V23, P135, DOI 10.1007/s100520100838
+   Ryskin MG, 2009, EUR PHYS J C, V60, P249, DOI 10.1140/epjc/s10052-009-0889-2
+   Yao W.-M., 2006, J PHYS G, V33, P337
+   *ALFA, ATLASTDR018 ALFA
+   *TOTEM, CERNLHCC2004002 TOTE
+NR 42
+TC 6
+Z9 6
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD MAY
+PY 2009
+VL 79
+IS 9
+AR 096003
+DI 10.1103/PhysRevD.79.096003
+PG 15
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 451WO
+UT WOS:000266501800085
+ER
+
+PT J
+AU Ishida, M
+   Igi, K
+AF Ishida, Muneyuki
+   Igi, Keiji
+TI Universal rise of hadronic total cross sections based on forward pi p
+   and (p)over-barp(pp) scatterings
+SO PHYSICS LETTERS B
+LA English
+DT Article
+DE Sum rules; Total cross section; rho ratio
+ID COLOR GLASS CONDENSATE; SUM RULES; ENERGIES
+AB Recently there are several evidences of the increase of the total cross section sigma(tot) to be log(2) s consistent with the Froissart unitarity bound, and the COMPETE collaborations in the PDG have further assumed (sigma(tot) similar or equal to B log(2) (s/s(0)) to extend its universal rise with a common value of B for all the hadronic scatterings. However, there is no rigorous proof yet based only on QCD. Therefore, it is worthwhile to prove this universal rise of sigma(tot) even empirically. In this Letter we attempt to obtain the value of B for pi p scattering, B(pi p), with reasonable accuracy by taking into account the rich pi p data in all the energy regions. We use the finite-energy sum rule (FESR) expressed in terms of the pi p scattering data in the low and intermediate energies as a constraint between high-energy parameters. We then have searched for the simultaneous best fit to the sigma(tot) and rho ratios, the ratios of the real to imaginary parts of the forward scattering amplitudes. The lower energy data are included in the integral of FESR, the more precisely determined is the non-leading term such as logs, and then helps to determine the leading terms like log(2) s. We have derived the value of B(pi p) as B(pi p) = 0.311 +/- 0.044 mb. This value is to be compared with the value of B for (p) over barp, pp scattering, B(pp), in our previous analysis [M. Ishida, K. Igi, Eur. Phys. J. C 52 (2007) 357], B(pp) = 0.289 +/- 0.023 mb. Thus, our result appears to support the universality hypothesis. (c) 2008 Elsevier B.V. All rights reserved.
+C1 Iwaki Meisei Univ, Dept Phys, Sch Sci & Engn, Tokyo 1918506, Japan.
+   RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+RP Ishida, M (reprint author), Iwaki Meisei Univ, Dept Phys, Sch Sci & Engn, Tokyo 1918506, Japan.
+EM ishida@phys.meisei-u.ac.jp
+CR Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.036006
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.039902
+   Cudell JR, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.074024
+   Dersch U, 2000, NUCL PHYS B, V579, P277, DOI 10.1016/S0550-3213(00)00204-2
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   Ferreiro E, 2002, NUCL PHYS A, V710, P373, DOI 10.1016/S0375-9474(02)01163-6
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   Iancu E, 2001, NUCL PHYS A, V692, P583, DOI 10.1016/S0375-9474(01)00642-X
+   Iancu E, 2001, PHYS LETT B, V510, P133, DOI 10.1016/S0370-2693(01)00524-X
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+   Ishida M, 2007, EUR PHYS J C, V52, P357, DOI 10.1140/epjc/s10052-007-0392-6
+   Jenkovszky L.L., 1987, YAD FIZ, V46, P1519
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   2006, J PHYS G, V33, P337
+NR 17
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD JAN 5
+PY 2009
+VL 670
+IS 4-5
+BP 395
+EP 398
+DI 10.1016/j.physletb.2008.11.026
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 400UX
+UT WOS:000262895800028
+ER
+
+PT J
+AU Ishida, M
+   Igi, K
+AF Ishida, Muneyuki
+   Igi, Keiji
+TI Test of the universal rise of hadronic total cross sections at
+   super-high energies
+SO EUROPEAN PHYSICAL JOURNAL C
+LA English
+DT Article
+ID ELASTIC-SCATTERING; SUM RULES; RHO-RATIO; PP; PI; PREDICTIONS; GEV/C;
+   Q(2); LHC
+AB The increase of the total cross sections at very high energies described by log(2)(s/s(0)) appears to be confirmed. In the analysis of the COMPETE collaboration in the Particle Data Group (2006), the B log(2)(s/s(0)) was assumed to extend the universal rise of all the total hadronic cross sections to reduce the number of adjustable parameters. We test if the assumption on the universality of B is justified, through investigation of the values of B for pi(+/-)p(K(+/-)p) and (p) over barp,pp scatterings. We search for the simultaneous best fit to the sigma(tot) and rho ratios, using a constraint from the FESR of the P' type for pi(-/+)p scatterings and constraints that are free from the unphysical regions for the (p) over barp,pp and K(+/-)p scatterings. By including rich information of the low-energy scattering data owing to the use of FESR, the errors of the B parameters decrease especially for pi p. The resulting value of B-pp is consistent with B-pi p within two standard deviations, which appears to support the universality hypothesis.
+C1 Meisei Univ, Sch Sci & Engn, Dept Phys, Hino, Tokyo 1918506, Japan.
+   RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+RP Ishida, M (reprint author), Meisei Univ, Sch Sci & Engn, Dept Phys, Hino, Tokyo 1918506, Japan.
+EM ishida@phys.meisei-u.ac.jp
+CR Adloff C, 2001, EUR PHYS J C, V21, P33, DOI 10.1007/s100520100720
+   Adloff C, 2001, EUR PHYS J C, V19, P269, DOI 10.1007/s100520100607
+   Apokin V.D., 1975, Yadernaya Fizika, V21
+   APOKIN VD, 1978, SOV J NUCL PHYS, V28, P786
+   Apokin V.D., 1976, Yadernaya Fizika, V24
+   BELLETTI.G, 1965, PHYS LETT, V14, P164, DOI 10.1016/0031-9163(65)90465-8
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.039902
+   BLOCK MM, 2006, PHYS REV D, V72, DOI UNSP 036006
+   Breitweg J, 2000, PHYS LETT B, V487, P53, DOI 10.1016/S0370-2693(00)00793-0
+   BURQ JP, 1978, PHYS LETT B, V77, P438, DOI 10.1016/0370-2693(78)90595-6
+   Cudell JR, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.201801
+   Dersch U, 2000, NUCL PHYS B, V579, P277, DOI 10.1016/S0550-3213(00)00204-2
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   FAJARDO LA, 1981, PHYS REV D, V24, P46, DOI 10.1103/PhysRevD.24.46
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2006, PROG THEOR PHYS, V116, P1097, DOI 10.1143/PTP.116.1097
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   *COMPETE COLL, 2002, PHYS REV D, V65, DOI UNSP 074024
+   *PART DAT GROUP, 2006, J PHYS G, V33, P337
+NR 23
+TC 4
+Z9 4
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 1434-6044
+J9 EUR PHYS J C
+JI Eur. Phys. J. C
+PD OCT
+PY 2007
+VL 52
+IS 2
+BP 357
+EP 362
+DI 10.1140/epjc/s10052-007-0392-6
+PG 6
+WC Physics, Particles & Fields
+SC Physics
+GA 212YX
+UT WOS:000249634100009
+ER
+
+PT J
+AU Igi, K
+   Ishida, M
+AF Igi, Keiji
+   Ishida, Muneyuki
+TI Proposing a new constraint for predictions of pp, (p)over-barp total
+   cross sections and rho ratio at LHC
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID SUM RULES; SCATTERING
+AB We propose a new constraint(1) corresponding to the FESR (with the moment n = -1) free from unphysical regions. Using this constraint(1) together with the constraint(2) (with the moment n = 1), we search for the simultaneous best fit to the data points of sigma(tot)(+) and rho((+)) ratio up to the SPS energies to determine those values at higher energies. We then predict sigma((+))(tot) = 107.1 +/- 2.6 mb, rho((+)) = 0.127 +/- 0.004 at the LHC energy (root s = 14 TeV).
+C1 RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+   Meisei Univ, Sch Sci & Engn, Dept Phys, Hino, Tokyo 1918506, Japan.
+RP Igi, K (reprint author), RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+CR Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.036006
+   Block MM, 2006, PHYS REV D, V73, DOI 10.1103/PhysRevD.73.054022
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.039902
+   BLOCK MM, HEPPH0601210
+   Block MM, 2006, NUCL INSTRUM METH A, V556, P308, DOI 10.1016/j.nima.2005.10.019
+   Block MM, 2006, EUR PHYS J C, V47, P697, DOI 10.1140/epjc/s2006-02605-8
+   BLOCK MM, 1985, REV MOD PHYS, V57, P563, DOI 10.1103/RevModPhys.57.563
+   Cudell JR, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.201801
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   EIDELMAN S, 2004, PHYS LETT B, V592, P315
+   EIDELMAN S, 2004, PHYS LETT B, V592, P298
+   GOLDBERGER ML, 1955, PHYS REV, V99, P986, DOI 10.1103/PhysRev.99.986
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2006, PROG THEOR PHYS, V115, P601, DOI 10.1143/PTP.115.601
+   ISHIDA M, UNPUB
+NR 17
+TC 3
+Z9 3
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD DEC
+PY 2006
+VL 116
+IS 6
+BP 1097
+EP 1104
+DI 10.1143/PTP.116.1097
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA 124AY
+UT WOS:000243340500006
+ER
+
+PT J
+AU Igi, K
+   Ishida, M
+AF Igi, K
+   Ishida, M
+TI On the discrepancy of pp, (p)over-bar-p total cross sections at root
+   s=1.8 TeV between E710, E811 and CDF
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID ELASTIC-SCATTERING; SUM RULES; ROOT-S; ENERGIES; RATIO; RHO
+AB Based on the previous approach, we have investigated a possibility to resolve the discrepancy between the E710, E811 and CDF at root s=1.8 TeV, using the experimental data of the pp, (p) over barp total cross sections sigma(tot)((+)) and rho((+)) ratio up to the SPS experiments (root s=0.9 TeV) as inputs. We predict sigma(tot)((p) over barp) and rho((p) over barp) at the Tevatron energy (root s-=1.8 TeV) as sigma(tot)((p) over barp)=75.9 +/- 1.0 mb, rho((p) over barp)=0.136 +/- 0.005.
+   It turns out that only the data of E710 is consistent with the prediction in the one standard deviation. So we can conclude that E710 is preferable but we can exclude neither CDF nor E811 results.
+C1 RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+   Meisei Univ, Sch Sci & Engn, Dept Phys, Hino, Tokyo 1918506, Japan.
+RP Igi, K (reprint author), RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+CR ABE F, 1994, PHYS REV D, V50, P5550, DOI 10.1103/PhysRevD.50.5550
+   AMOS NA, 1992, PHYS REV LETT, V68, P2433, DOI 10.1103/PhysRevLett.68.2433
+   Avila C, 1999, PHYS LETT B, V445, P419, DOI 10.1016/S0370-2693(98)01421-X
+   BALTRUSAITIS RM, 1984, PHYS REV LETT, V52, P1380, DOI 10.1103/PhysRevLett.52.1380
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.036006
+   Block MM, 2005, PHYS REV D, V72, DOI 10.1103/PhysRevD.72.039902
+   Block MM, 2000, PHYS REV D, V62, DOI 10.1103/PhysRevD.62.077501
+   BLOCK MM, HEPPH0510238
+   BLOCK MM, 1985, REV MOD PHYS, V57, P563, DOI 10.1103/RevModPhys.57.563
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   EIDELMAN S, 2004, PHYS LETT B, V592, P298
+   HONDA M, 1993, PHYS REV LETT, V70, P525, DOI 10.1103/PhysRevLett.70.525
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+NR 15
+TC 2
+Z9 2
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD MAR
+PY 2006
+VL 115
+IS 3
+BP 601
+EP 609
+DI 10.1143/PTP.115.601
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA 033AJ
+UT WOS:000236818000007
+ER
+
+PT J
+AU Igi, K
+AF Igi, Keiji
+TI Searching for extremely high-energy behavior from accelerator-energy
+   regions
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT International Workshop on Frontier of Quantum Physics
+CY FEB 17-19, 2005
+CL Kyoto, JAPAN
+SP Minist Educ, Sci & Culture
+HO Kyoto Univ, Yukawa Inst Theoret Phys
+ID TOTAL CROSS-SECTION; SUM RULES
+AB We use rich information on pi p total cross sections below N(similar to 10 GeV) in addition to high-energy data in order to discriminate whether these cross sections increase like log nu or log 2 v at high energies. A finite-energy sum rule (FESR) which is derived in the spirit of the P sum rule as well as the n=1 moment FESR have been required to constrain the high-energy parameters. We then searched for the best fit of sigma((+))(tot) above 70 GeV in terms of high-energy parameters constrained by these two FESR. We have shown from this analysis that the log(2)nu behavior are preferred to the log nu behavior. We also propose to search for pp, pp total cross sections at extremely high-energy from accelerator-energy regions using the similar technique.
+C1 RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+RP Igi, K (reprint author), RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+CR BLOCK MM, HEPPH0405174
+   Block MM, 2004, PHYS REV D, V70, DOI 10.1103/PhysRevD.70.091901
+   Cudell JR, 2000, PHYS REV D, V61, DOI 10.1103/PhysRevD.61.034019
+   Dersch U, 2000, NUCL PHYS B, V579, P277, DOI 10.1016/S0550-3213(00)00204-2
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   GROOM DE, 2000, EUR PHYS J C, V15, P235
+   IGI J, 2002, PHYS REV D, V66, DOI UNSP 034023
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1976, PHYS REP C, V31, P237
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2005, PHYS LETT B, V622, P286, DOI 10.1016/j.physletb.2005.07.035
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   2004, PHYS LETT B, V595, P317
+NR 14
+TC 0
+Z9 0
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2006
+IS 164
+BP 160
+EP 168
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA 103HI
+UT WOS:000241875900017
+ER
+
+PT J
+AU Igi, K
+   Ishida, M
+AF Igi, K
+   Ishida, M
+TI Predictions of pp, pp total cross section and rho ratio at LHC and
+   cosmic-ray energies
+SO PHYSICS LETTERS B
+LA English
+DT Article
+DE pp, pp total cross section; rho ratio; FESR; LHC
+ID INTERSECTING STORAGE-RINGS; ELASTIC-SCATTERING AMPLITUDE;
+   PROTON-ANTIPROTON; SUM RULES; 1.8 TEV; ROOT-S; COLLIDER; UNITARITY;
+   BOUNDS; REAL
+AB We propose to use rich informations on the pp, pp total cross sections sigma(tot) below N (similar to 10 GeV) in order to predict the total cross section and rho ratio at very high energies. Using the FESR as a constraint for high energy parameters, we search for the simultaneous best fit to the data points of sigma(tot) and rho ratio up to some energy (e.g., ISR, Tevatron) to determine the high-energy parameters. We then predict sigma(tot) and rho in the LHC and high-energy cosmic-ray regions. Using the data up to root s = 1.8 TeV (Tevatron), we predict sigma(tot)(rho rho), and rho(rho rho) at the LHC energy (root s = 14 TeV) as 106.3 +/- 5.1(syst) +/- 2.4(stat) mb and 0.126 +/- 0.007(syst) +/- 0.004(stat), respectively. The predicted values of sigma(tot) in terms of the same parameters are in good agreement with the cosmic-ray experimental data sample up to P-lab similar to 10(8-9) GeV by Block, Halzen, and Stanov. (c) 2005 Elsevier B.V. All rights reserved.
+C1 RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+   Meisei Univ, Dept Phys, Hino, Tokyo 1918506, Japan.
+RP Igi, K (reprint author), RIKEN, Theoret Phys Lab, Wako, Saitama 3510198, Japan.
+EM igi@phys.s.u-tokyo.ac.jp
+CR ABE F, 1994, PHYS REV D, V50, P5550, DOI 10.1103/PhysRevD.50.5550
+   ALNER GJ, 1986, Z PHYS C PART FIELDS, V32, P153
+   AMALDI U, 1978, NUCL PHYS B, V145, P367, DOI 10.1016/0550-3213(78)90090-1
+   AMOS N, 1985, NUCL PHYS B, V262, P689, DOI 10.1016/0550-3213(85)90511-5
+   AMOS NA, 1992, PHYS REV LETT, V68, P2433, DOI 10.1103/PhysRevLett.68.2433
+   ARNISON G, 1983, PHYS LETT B, V128, P336, DOI 10.1016/0370-2693(83)90271-X
+   AUGIER C, 1993, PHYS LETT B, V316, P448, DOI 10.1016/0370-2693(93)90350-Q
+   AUGIER C, 1995, PHYS LETT B, V344, P451, DOI 10.1016/0370-2693(94)01485-U
+   Avila C, 1999, PHYS LETT B, V445, P419, DOI 10.1016/S0370-2693(98)01421-X
+   BALTRUSAITIS RM, 1984, PHYS REV LETT, V52, P1380, DOI 10.1103/PhysRevLett.52.1380
+   BATTISTON R, 1982, PHYS LETT B, V117, P126, DOI 10.1016/0370-2693(82)90888-7
+   BLOCK MM, HEPPH0506031
+   Block MM, 2000, PHYS REV D, V62, DOI 10.1103/PhysRevD.62.077501
+   Block MM, 2004, PHYS REV D, V70, DOI 10.1103/PhysRevD.70.091901
+   BOZZO M, 1984, PHYS LETT B, V147, P392, DOI 10.1016/0370-2693(84)90139-4
+   CARBONI G, 1985, NUCL PHYS B, V254, P697, DOI 10.1016/0550-3213(85)90242-1
+   Cudell JR, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.201801
+   Cudell JR, 2000, PHYS REV D, V61, DOI 10.1103/PhysRevD.61.034019
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   EIDELMAN S, 2004, PHYS LETT B, V592, P313
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   GAISSER TK, 1987, PHYS REV D, V36, P1350, DOI 10.1103/PhysRevD.36.1350
+   HONDA M, 1993, PHYS REV LETT, V70, P525, DOI 10.1103/PhysRevLett.70.525
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   Igi K, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.034023
+   Luna EGS, 2003, PHYS LETT B, V565, P123, DOI 10.1016/S0370-2693(03)00755-X
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   NIKOLAEV NN, 1993, PHYS REV D, V48, pR1904
+NR 29
+TC 20
+Z9 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD SEP 1
+PY 2005
+VL 622
+IS 3-4
+BP 286
+EP 294
+DI 10.1016/j.physletb.2005.07.035
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA 967DB
+UT WOS:000232070600009
+ER
+
+PT J
+AU Kakiuchi, F
+   Kan, S
+   Igi, K
+   Chatani, N
+   Murai, S
+AF Kakiuchi, F
+   Kan, S
+   Igi, K
+   Chatani, N
+   Murai, S
+TI A ruthenium-catalyzed reaction of aromatic ketones with arylboronates: A
+   new method for the arylation of aromatic compounds via C-H bond cleavage
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID CARBON-HYDROGEN BONDS; OLEFINS; ACTIVATION; COMPLEXES; CARBONYLATION;
+   RING; 2-PHENYLPYRIDINES; 2-ARYLPYRIDINES; ALKENYLATION; ALKYLATION
+C1 Osaka Univ, Dept Appl Chem, Fac Engn, Suita, Osaka 5650871, Japan.
+RP Kakiuchi, F (reprint author), Osaka Univ, Dept Appl Chem, Fac Engn, Suita, Osaka 5650871, Japan.
+EM kakiuchi@chem.eng.osaka-u.ac.jp
+RI Murai, Shinji/B-2804-2010
+CR Aufdenblatten R, 2000, MONATSH CHEM, V131, P1345, DOI 10.1007/s007060070014
+   BROWN HC, 1990, J ORG CHEM, V55, P1868, DOI 10.1021/jo00293a036
+   Busch S, 1999, CHEM COMMUN, P2305, DOI 10.1039/a906580f
+   Chatani N, 1996, J AM CHEM SOC, V118, P493, DOI 10.1021/ja953473s
+   Chatani N, 2002, J ORG CHEM, V67, P7557, DOI 10.1021/jo0259865
+   Chatani N, 1997, J ORG CHEM, V62, P2604, DOI 10.1021/jo970131r
+   Chatani N, 2000, J AM CHEM SOC, V122, P12882, DOI 10.1021/ja002561w
+   Chatani N, 1998, J ORG CHEM, V63, P5129, DOI 10.1021/jo980335n
+   Durr U, 1997, SYNLETT, P1335
+   Dyker G, 1999, ANGEW CHEM INT EDIT, V38, P1699
+   Grigg R, 1997, TETRAHEDRON LETT, V38, P5737, DOI 10.1016/S0040-4039(97)01260-4
+   Guari Y, 1998, J AM CHEM SOC, V120, P4228, DOI 10.1021/ja971603m
+   Guari Y, 1999, EUR J INORG CHEM, P1047
+   Harris PWR, 2000, J ORGANOMET CHEM, V601, P172, DOI 10.1016/S0022-328X(00)00059-0
+   Hassan J, 2002, CHEM REV, V102, P1359, DOI 10.1021/cr000664r
+   JUN CH, 2002, MACROMOLECULES, V35, P3369
+   KAKIUCHI F, 1995, CHEM LETT, P681, DOI 10.1246/cl.1995.681
+   Kakiuchi F, 2002, ACCOUNTS CHEM RES, V35, P826, DOI 10.1021/ar960318p
+   KAKIUCHI F, 1995, B CHEM SOC JPN, V68, P62, DOI 10.1246/bcsj.68.62
+   Kakiuchi F., 1999, TOPICS ORGANOMETALLI, V3, P47
+   Kakiuchi F, 2001, CHEM LETT, P386, DOI 10.1246/cl.2001.386
+   Kakiuchi F, 2002, J MOL CATAL A-CHEM, V182, P511, DOI 10.1016/S1381-1169(01)00500-3
+   Kakiuchi F, 2001, CHEM LETT, P918
+   Kametani Y, 2000, TETRAHEDRON LETT, V41, P2655, DOI 10.1016/S0040-4039(00)00238-0
+   Lenges CP, 1999, J AM CHEM SOC, V121, P6616, DOI 10.1021/ja990702s
+   LIM YG, 1994, J CHEM SOC CHEM COMM, P2267, DOI 10.1039/c39940002267
+   Lim YG, 2001, TETRAHEDRON LETT, V42, P7609, DOI 10.1016/S0040-4039(01)01618-5
+   LINN DE, 1987, J ORGANOMET CHEM, V330, P155, DOI 10.1016/0022-328X(87)80284-X
+   Miura M, 2002, TOP CURR CHEM, V219, P211
+   MURAI S, 1993, NATURE, V366, P529, DOI 10.1038/366529a0
+   Oi S, 2002, ORG LETT, V4, P1783, DOI 10.1021/ol025851l
+   Oi S, 2001, ORG LETT, V3, P2579, DOI 10.1021/ol016257z
+   Oi S, 1998, CHEM COMMUN, P2439, DOI 10.1039/a806790b
+   OI S, COMMUNICATION
+   Okazawa T, 2002, J AM CHEM SOC, V124, P5286, DOI 10.1021/ja0259279
+   Ritleng V, 2002, CHEM REV, V102, P1731, DOI 10.1021/cr0104330
+   Satoh T, 1999, TETRAHEDRON LETT, V40, P5345, DOI 10.1016/S0040-4039(99)00973-9
+   SMITH K, 2002, ORGANOMETALLICS SYNT, P468
+   Szewczyk JW, 2001, ANGEW CHEM INT EDIT, V40, P216, DOI 10.1002/1521-3773(20010105)40:1<216::AID-ANIE216>3.0.CO;2-K
+   TROST BM, 1995, J AM CHEM SOC, V117, P5371, DOI 10.1021/ja00124a025
+NR 40
+TC 198
+Z9 198
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD FEB 19
+PY 2003
+VL 125
+IS 7
+BP 1698
+EP 1699
+DI 10.1021/ja029273f
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 647HU
+UT WOS:000181088000009
+ER
+
+PT J
+AU Igi, K
+   Ishida, M
+AF Igi, K
+   Ishida, M
+TI Investigations of the pi N total cross sections at high energies using a
+   new finite-energy sum rule: log nu or (log nu)(2)
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID GEV-C; HADRON SCATTERING; PROTONS; MULTIPLICITIES; DEUTERONS; MODELS;
+   PBAR
+AB We propose to use rich information on pip total cross sections below N(similar to10 GeV) in addition to high-energy data in order to discern whether these cross sections increase like log nu or (log nu)(2) at high energies, since it is difficult to discriminate between asymptotic log nu and (log nu)(2) fits from high-energy data alone. A finite-energy sum rule (FESR) which is derived in the spirit of the P-' sum rule as well as the n=1 moment FESR is required to constrain the high-energy parameters. We then search for the best fit of sigma(tot)((+)) above 70 GeV in terms of high-energy parameters constrained by these two FESR's. We can show from this analysis that the (log nu)(2) behavior is preferred to the log nu behavior.
+C1 Kanagawa Univ, Dept Informat Sci, Kanagawa 2591293, Japan.
+   Tokyo Inst Technol, Dept Phys, Tokyo 1528551, Japan.
+RP Igi, K (reprint author), Kanagawa Univ, Dept Informat Sci, Kanagawa 2591293, Japan.
+CR BHADURI RK, 1988, MODELS NUCL, P134
+   BRENNER AE, 1982, PHYS REV D, V26, P1497, DOI 10.1103/PhysRevD.26.1497
+   BRICK D, 1982, PHYS REV D, V25, P2794, DOI 10.1103/PhysRevD.25.2794
+   CARROLL AS, 1976, PHYS LETT B, V61, P303, DOI 10.1016/0370-2693(76)90155-6
+   CARROLL AS, 1979, PHYS LETT B, V80, P423, DOI 10.1016/0370-2693(79)91205-X
+   CARROLL AS, 1974, PHYS REV LETT, V33, P932, DOI 10.1103/PhysRevLett.33.932
+   CHEW GF, 1957, PHYS REV, V106, P1337, DOI 10.1103/PhysRev.106.1337
+   Cudell JR, 2000, PHYS REV D, V61, DOI 10.1103/PhysRevD.61.034019
+   Cudell JR, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.074024
+   Dersch U, 2000, NUCL PHYS B, V579, P277, DOI 10.1016/S0550-3213(00)00204-2
+   DOLEN R, 1968, PHYS REV, V166, P1768, DOI 10.1103/PhysRev.166.1768
+   DOLEN R, 1967, PHYS REV LETT, V19, P402, DOI 10.1103/PhysRevLett.19.402
+   FIRESTONE A, 1976, PHYS REV D, V14, P2902, DOI 10.1103/PhysRevD.14.2902
+   FONG D, 1976, NUCL PHYS B, V102, P386, DOI 10.1016/0550-3213(76)90427-2
+   FROISSART M, 1961, PHYS REV, V123, P1053, DOI 10.1103/PhysRev.123.1053
+   GROOM DE, 2000, EUR PHYS J C, V15, P235
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1967, PHYS REV LETT, V18, P625, DOI 10.1103/PhysRevLett.18.625
+   KANG K, 1975, PHYS REV D, V11, P2461, DOI 10.1103/PhysRevD.11.2461
+   LJUNG D, 1977, PHYS REV D, V15, P3163, DOI 10.1103/PhysRevD.15.3163
+   LOGUNOV AA, 1967, PHYS LETT B, VB 24, P181, DOI 10.1016/0370-2693(67)90487-X
+   MARTIN A, 1966, NUOVO CIMENT A, V42, P930, DOI 10.1007/BF02720568
+   SHOSHI AI, HEPPH0202012
+NR 23
+TC 21
+Z9 21
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD AUG 1
+PY 2002
+VL 66
+IS 3
+AR 034023
+DI 10.1103/PhysRevD.66.034023
+PG 4
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 591HL
+UT WOS:000177873600047
+ER
+
+PT J
+AU Kakiuchi, F
+   Igi, K
+   Matsumoto, M
+   Hayamizu, T
+   Chatani, N
+   Murai, S
+AF Kakiuchi, F
+   Igi, K
+   Matsumoto, M
+   Hayamizu, T
+   Chatani, N
+   Murai, S
+TI A new chelation-assistance mode for a ruthenium-catalyzed silylation at
+   the C-H bond in aromatic ring with hydrosilanes
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID CARBON-HYDROGEN BONDS; COMPLEXES; ACTIVATION; OLEFINS; CARBONYLATION;
+   ALKYLATION; ACYLATION; HYDRIDE
+AB Ruthenium-catalyzed reactions of aromatic compounds having an amino group or a heteroaromatic ring as a directing group with triethylsilane gave the corresponding ortho silylated product's in good to excellent yields. In contrast to oar previous results, in which the reactive substrates with pi-conjugation between the hetero atom in the directing group and the carbon atom possessing the C-H bond to be cleaved were used, the present reaction proceeds in cases of substrates having no such pi-conjugation.
+C1 Osaka Univ, Fac Engn, Dept Appl Chem, Suita, Osaka 5650871, Japan.
+RP Murai, S (reprint author), Osaka Univ, Fac Engn, Dept Appl Chem, Suita, Osaka 5650871, Japan.
+RI Murai, Shinji/B-2804-2010
+CR Busch S, 1999, CHEM COMMUN, P2305, DOI 10.1039/a906580f
+   Chatani N, 1996, J AM CHEM SOC, V118, P493, DOI 10.1021/ja953473s
+   Chatani N, 2000, J ORG CHEM, V65, P4039, DOI 10.1021/jo0000628
+   DIAMOND SE, 1979, J AM CHEM SOC, V101, P490, DOI 10.1021/ja00496a041
+   Durr U, 1997, SYNLETT, P1335
+   Dyker G, 1999, ANGEW CHEM INT EDIT, V38, P1699
+   Fukuyama T, 1997, J ORG CHEM, V62, P5647, DOI 10.1021/jo970697f
+   Grigg R, 1997, TETRAHEDRON LETT, V38, P5737, DOI 10.1016/S0040-4039(97)01260-4
+   Guari Y, 1998, J AM CHEM SOC, V120, P4228, DOI 10.1021/ja971603m
+   Guari Y, 1999, EUR J INORG CHEM, P1047
+   Gupta SK, 2000, MACROMOLECULES, V33, P108, DOI 10.1021/ma991683+
+   Harris PWR, 2000, J ORGANOMET CHEM, V601, P172, DOI 10.1016/S0022-328X(00)00059-0
+   HONG P, 1979, CHEM LETT, P339, DOI 10.1246/cl.1979.339
+   Jun CH, 2001, ORG LETT, V3, P785, DOI 10.1021/ol015563+
+   KAKIUCHI F, 1995, B CHEM SOC JPN, V68, P62, DOI 10.1246/bcsj.68.62
+   Kakiuchi F, 2001, CHEM LETT, P422, DOI 10.1246/cl.2001.422
+   Kakiuchi F., 1999, TOPICS ORGANOMETALLI, V3, P47
+   Kakiuchi F, 2001, CHEM LETT, P386, DOI 10.1246/cl.2001.386
+   Kakiuchi F, 2000, CHEM LETT, P750, DOI 10.1246/cl.2000.750
+   Kakiuchi F, 2001, CHEM LETT, P918
+   Lenges CP, 1999, J AM CHEM SOC, V121, P6616, DOI 10.1021/ja990702s
+   LEWIS LN, 1986, J AM CHEM SOC, V108, P2728, DOI 10.1021/ja00270a036
+   Matsubara T, 2000, ORGANOMETALLICS, V19, P2318, DOI 10.1021/om0001220
+   Matsubara T, 1998, J AM CHEM SOC, V120, P12692, DOI 10.1021/ja9816943
+   MURAI S, 1993, NATURE, V366, P529, DOI 10.1038/366529a0
+   Trost BM, 2001, CHEM REV, V101, P2067, DOI 10.1021/cr000666b
+NR 26
+TC 41
+Z9 41
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD MAR 5
+PY 2002
+IS 3
+BP 396
+EP 397
+DI 10.1246/cl.2002.396
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 534MZ
+UT WOS:000174591300066
+ER
+
+PT J
+AU Kakiuchi, F
+   Sato, T
+   Igi, K
+   Chatani, N
+   Murai, S
+AF Kakiuchi, F
+   Sato, T
+   Igi, K
+   Chatani, N
+   Murai, S
+TI The ruthenium-catalyzed addition of beta C-H bonds in aldehydes to
+   olefins
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID CARBON-HYDROGEN BONDS; HYDROACYLATION; COMPLEX
+AB The addition of a beta C-H bond to the formyl group of aldehydes to olefins took place with the aid of Ru(H)(2)(CO)(PPh3)(3) as a catalyst. Several olefins can be used in the catalytic reaction of conjugate enals. The presence of a sterically hindered substituent at the ortho position of benzaldehyde and the presence of an electron donating substituent appear to be important factor in accomplishing the desired coupling reaction.
+C1 Osaka Univ, Fac Engn, Dept Appl Chem, Suita, Osaka 5650871, Japan.
+RP Murai, S (reprint author), Osaka Univ, Fac Engn, Dept Appl Chem, 2-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+RI Murai, Shinji/B-2804-2010
+CR Harris PWR, 2000, J ORGANOMET CHEM, V601, P172, DOI 10.1016/S0022-328X(00)00059-0
+   KAKIUCHI F, 1995, B CHEM SOC JPN, V68, P62, DOI 10.1246/bcsj.68.62
+   KAKIUCHI F, 1995, CHEM LETT, P679, DOI 10.1246/cl.1995.679
+   KONDO T, 1987, TETRAHEDRON LETT, V28, P6229, DOI 10.1016/S0040-4039(00)61854-3
+   LOCHOW CF, 1976, J AM CHEM SOC, V98, P1281, DOI 10.1021/ja00421a050
+   Matsubara T, 2000, ORGANOMETALLICS, V19, P2318, DOI 10.1021/om0001220
+   Sonoda M, 1997, B CHEM SOC JPN, V70, P3117, DOI 10.1246/bcsj.70.3117
+   Sonoda M, 1996, CHEM LETT, P109, DOI 10.1246/cl.1996.109
+   TSUDA T, 1990, J ORG CHEM, V55, P2554, DOI 10.1021/jo00295a061
+   TSUJI J, 1965, TETRAHEDRON LETT, P3969
+   VORA KP, 1980, J ORGANOMET CHEM, V192, P257, DOI 10.1016/S0022-328X(00)94430-9
+   WEBER WP, 2000, ACS SYM SER, V729, P433
+NR 12
+TC 49
+Z9 50
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD MAY 5
+PY 2001
+IS 5
+BP 386
+EP 387
+DI 10.1246/cl.2001.386
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 436JE
+UT WOS:000168932100005
+ER
+
+PT J
+AU Kakiuchi, F
+   Igi, K
+   Matsumoto, M
+   Chatani, N
+   Murai, S
+AF Kakiuchi, F
+   Igi, K
+   Matsumoto, M
+   Chatani, N
+   Murai, S
+TI Ruthenium-catalyzed dehydrogenative silylation of aryloxazolines with
+   hydrosilanes via C-H bond cleavage
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID ACTIVATION; COMPLEXES; SI; ARENES
+AB The reaction of aryloxazolines with trialkylhydrosilanes using Ru-3(CO)(12) or Ru(H)(2)(CO)(PPh3)(3) complex as a catalyst resulted in dehydrogenative silylation to form ortho silylated aryloxazolines in good to excellent yields. This reaction can be applied to aryloxazolines having either electron-donating (NMe2, OMe, and CH3) or -withdrawing (CF3 and F) groups.
+C1 Osaka Univ, Fac Engn, Dept Appl Chem, Suita, Osaka 5650871, Japan.
+RP Murai, S (reprint author), Osaka Univ, Fac Engn, Dept Appl Chem, 2-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+RI Murai, Shinji/B-2804-2010
+CR AIZENBERG M, 1994, SCIENCE, V265, P359, DOI 10.1126/science.265.5170.359
+   BIRKOFER L, 1989, CHEM ORGANIC SILICON, P680
+   BURN MJ, 1994, J ORGANOMET CHEM, V472, P43, DOI 10.1016/0022-328X(94)80192-4
+   Corey JY, 1999, CHEM REV, V99, P175, DOI 10.1021/cr9701086
+   Ezbiansky K, 1998, ORGANOMETALLICS, V17, P1455, DOI 10.1021/om980037g
+   GUSTAVSON WA, 1982, ORGANOMETALLICS, V1, P884, DOI 10.1021/om00066a028
+   HARTWIG JF, 1991, J AM CHEM SOC, V113, P6492, DOI 10.1021/ja00017a021
+   HASZELDINE RN, 1979, J ORGANOMET CHEM, V182, P323, DOI 10.1016/S0022-328X(00)84815-9
+   HEYN RH, 1993, J AM CHEM SOC, V115, P3354, DOI 10.1021/ja00061a054
+   Ishii Y, 1998, CHEM LETT, P157
+   ISHIKAWA M, 1992, ORGANOMETALLICS, V11, P4135, DOI 10.1021/om00060a033
+   ISHIKAWA M, 1993, ORGANOMETALLICS, V12, P4987, DOI 10.1021/om00036a044
+   Kakiuchi F, 2000, CHEM LETT, P750, DOI 10.1246/cl.2000.750
+   Maruyama Y, 2000, ORGANOMETALLICS, V19, P1308, DOI 10.1021/om9909035
+   Naka A, 1999, ORGANOMETALLICS, V18, P4524, DOI 10.1021/om9903588
+   UCHIMAU Y, 1993, ORGANOMETALLICS, V12, P2065, DOI 10.1021/om00030a016
+   WILLIAMS NA, 1995, J CHEM SOC CHEM COMM, P1129, DOI 10.1039/c39950001129
+NR 17
+TC 38
+Z9 38
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD MAY 5
+PY 2001
+IS 5
+BP 422
+EP 423
+DI 10.1246/cl.2001.422
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 436JE
+UT WOS:000168932100023
+ER
+
+PT J
+AU Igi, K
+   Hikasa, K
+AF Igi, K
+   Hikasa, K
+TI Another look at pi pi scattering in the scalar channel
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID CHIRAL PERTURBATION-THEORY; SIGMA-MESON; GEV-C; HIGH-STATISTICS;
+   ONE-LOOP; CONFIRMATION; PARTICLE; PI(0)PI(0); DYNAMICS; REGION
+AB We set up a general framework to describe pi pi scattering below 1 GeV based on chiral low-energy expansion with possible spin-0 and -1 resonances. Partial wave amplitudes are obtained with the N/D method, which satisfy unitarity, analyticity, and approximate crossing symmetry. A comparison with the phase shift data in the J = 0 channel favors a scalar resonance near the rho mass. [80556-2821(99)00901-7].
+C1 Kanagawa Univ, Dept Informat Sci, Kanagawa 2591293, Japan.
+   Tohoku Univ, Dept Phys, Sendai, Miyagi 9808578, Japan.
+RP Igi, K (reprint author), Kanagawa Univ, Dept Informat Sci, Kanagawa 2591293, Japan.
+CR ACHASOV NN, 1994, PHYS REV D, V49, P5779, DOI 10.1103/PhysRevD.49.5779
+   Alde D, 1997, PHYS LETT B, V397, P350, DOI 10.1016/S0370-2693(97)00228-1
+   ALDE D, 1995, Z PHYS C PART FIELDS, V66, P375
+   ALEKSEEVA EA, 1982, ZH EKSP TEOR FIZ, V55, P591
+   AMSLER C, 1995, PHYS LETT B, V355, P425, DOI 10.1016/0370-2693(95)00747-9
+   AMSLER C, 1995, PHYS LETT B, V342, P433, DOI 10.1016/0370-2693(94)01515-E
+   ANISOVICH VV, 1995, PHYS LETT B, V355, P363, DOI 10.1016/0370-2693(95)00692-E
+   AU KL, 1987, PHYS REV D, V35, P1633, DOI 10.1103/PhysRevD.35.1633
+   Barnett RM, 1996, PHYS REV D, V54, P1, DOI 10.1103/PhysRevD.54.1
+   BATON JP, 1970, PHYS LETT B, VB 33, P528, DOI 10.1016/0370-2693(70)90236-4
+   BIJNENS J, 1994, NUCL PHYS B, V427, P427, DOI 10.1016/0550-3213(94)90634-3
+   CARROLL JT, 1972, PHYS REV LETT, V28, P318, DOI 10.1103/PhysRevLett.28.318
+   CASON NM, 1983, PHYS REV D, V28, P1586, DOI 10.1103/PhysRevD.28.1586
+   COHEN D, 1973, PHYS REV D, V7, P661, DOI 10.1103/PhysRevD.7.661
+   COLTON E, 1971, PHYS REV D, V3, P2028, DOI 10.1103/PhysRevD.3.2028
+   DOBADO A, 1990, PHYS LETT B, V235, P134, DOI 10.1016/0370-2693(90)90109-J
+   GASSER J, 1984, ANN PHYS-NEW YORK, V158, P142, DOI 10.1016/0003-4916(84)90242-2
+   GOUNARIS GJ, 1968, PHYS REV LETT, V21, P244, DOI 10.1103/PhysRevLett.21.244
+   GRAYER G, 1974, NUCL PHYS B, V75, P189, DOI 10.1016/0550-3213(74)90545-8
+   Harada M, 1996, PHYS REV D, V54, P1991, DOI 10.1103/PhysRevD.54.1991
+   HIKASA K, 1993, PHYS REV D, V48, P3055, DOI 10.1103/PhysRevD.48.3055
+   HOOGLAND W, 1974, NUCL PHYS B, VB 69, P266, DOI 10.1016/0550-3213(74)90052-2
+   HYAMS B, 1973, NUCL PHYS B, VB 64, P134, DOI 10.1016/0550-3213(73)90618-4
+   Isgur N, 1996, PHYS REV LETT, V77, P2332, DOI 10.1103/PhysRevLett.77.2332
+   Ishida S, 1996, PROG THEOR PHYS, V95, P745, DOI 10.1143/PTP.95.745
+   Ishida S, 1997, PROG THEOR PHYS, V98, P1005, DOI 10.1143/PTP.98.1005
+   JANSSEN G, 1995, PHYS REV D, V52, P2690, DOI 10.1103/PhysRevD.52.2690
+   KAMINSKI R, 1994, PHYS REV D, V50, P3145, DOI 10.1103/PhysRevD.50.3145
+   KAWARABA.K, 1966, PHYS REV LETT, V16, P255, DOI 10.1103/PhysRevLett.16.255
+   LOSTY MJ, 1974, NUCL PHYS B, V69, P185, DOI 10.1016/0550-3213(74)90131-X
+   LOVELACE C, 1968, PHYS LETT B, VB 28, P264, DOI 10.1016/0370-2693(68)90255-4
+   MORGAN D, 1993, PHYS REV D, V48, P1185, DOI 10.1103/PhysRevD.48.1185
+   PROTOPOP.SD, 1973, PHYS REV D, V7, P1279, DOI 10.1103/PhysRevD.7.1279
+   PRUKOP JP, 1974, PHYS REV D, V10, P2055, DOI 10.1103/PhysRevD.10.2055
+   RIAZUDDI, 1966, PHYS REV, V147, P1071, DOI 10.1103/PhysRev.147.1071
+   Svec M, 1996, PHYS REV D, V53, P2343, DOI 10.1103/PhysRevD.53.2343
+   TORNQVIST NA, 1995, Z PHYS C PART FIELDS, V68, P647, DOI 10.1007/BF01565264
+   Tornqvist NA, 1996, PHYS REV LETT, V77, P2333, DOI 10.1103/PhysRevLett.77.2333
+   Tornqvist NA, 1996, PHYS REV LETT, V76, P1575, DOI 10.1103/PhysRevLett.76.1575
+   VENEZIAN.G, 1968, NUOVO CIMENT A, V57, P190, DOI 10.1007/BF02824451
+   WALKER WD, 1967, PHYS REV LETT, V18, P630, DOI 10.1103/PhysRevLett.18.630
+   WEINBERG S, 1990, PHYS REV LETT, V65, P1177, DOI 10.1103/PhysRevLett.65.1177
+   WEINBERG S, 1969, PHYS REV, V177, P2604, DOI 10.1103/PhysRev.177.2604
+   WEINSTEIN J, 1990, PHYS REV D, V41, P2236, DOI 10.1103/PhysRevD.41.2236
+   ZOU BS, 1994, PHYS REV D, V50, P591, DOI 10.1103/PhysRevD.50.591
+NR 45
+TC 51
+Z9 52
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD FEB 1
+PY 1999
+VL 59
+IS 3
+AR 034005
+DI 10.1103/PhysRevD.59.034005
+PG 9
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 166PV
+UT WOS:000078586800014
+ER
+
+PT J
+AU HIKASA, K
+   IGI, K
+AF HIKASA, K
+   IGI, K
+TI WW SCATTERING WITH SCALAR AND VECTOR RESONANCES
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID STRONGLY INTERACTING WS; STANDARD MODEL; HIGGS-BOSON; SECTOR; ZS;
+   THEOREMS; MASS
+AB We derive partial wave amplitudes for the scattering of longitudinal W's interacting strongly at TeV energies, with resonances in the scalar and/or vector channels. The amplitudes are written in a simple analytic form which satisfies unitarity, analyticity, and approximate crossing, and can accommodate the variation of scalar and vector masses and their relative coupling strengths. These amplitudes provide a convenient parametrization for phenomenological studies of the strong WW scattering.
+C1 UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP HIKASA, K (reprint author), TOHOKU UNIV,DEPT PHYS,SENDAI,MIYAGI 980,JAPAN.
+CR CHANOWITZ M, 1986, PHYS REV LETT, V57, P2344, DOI 10.1103/PhysRevLett.57.2344
+   CHANOWITZ M, 1987, PHYS REV D, V36, P1490, DOI 10.1103/PhysRevD.36.1490
+   CHANOWITZ MS, 1993, 26TH P INT C HIGH EN, V272
+   CHANOWITZ MS, 1985, NUCL PHYS B, V261, P379, DOI 10.1016/0550-3213(85)90580-2
+   CHEW GF, 1960, PHYS REV, V119, P467, DOI 10.1103/PhysRev.119.467
+   CHIVUKULA RS, 1991, PHYS LETT B, V267, P233
+   COLLINS PDB, 1968, SPRINGER TRACTS MODE, V45, P1
+   DINE M, 1990, PHYS LETT B, V243, P250, DOI 10.1016/0370-2693(90)90847-Y
+   DOBADO A, 1990, PHYS LETT B, V235, P129, DOI 10.1016/0370-2693(90)90108-I
+   DOBADO A, 1991, Z PHYS C PART FIELDS, V50, P205, DOI 10.1007/BF01474075
+   DOBADO A, 1990, PHYS LETT B, V237, P457, DOI 10.1016/0370-2693(90)91206-Q
+   HIKASA K, 1991, PHYS LETT B, V261, P285, DOI 10.1016/0370-2693(91)90329-O
+   Hikasa K.-i., 1992, PHYSICS EXPT LINEAR, V2, P451
+   LEE BW, 1977, PHYS REV D, V16, P1519, DOI 10.1103/PhysRevD.16.1519
+   LUSCHER M, 1988, PHYS LETT B, V212, P472, DOI 10.1016/0370-2693(88)91799-6
+   MARCIANO W, 1989, PHYS REV D, V40, P1725, DOI 10.1103/PhysRevD.40.1725
+   PHAM TN, 1991, PHYS LETT B, V255, P451, DOI 10.1016/0370-2693(91)90793-P
+   SAMUEL S, 1990, NUCL PHYS B, V247, P625
+   TRUONG TN, 1991, PHYS LETT B, V258, P402, DOI 10.1016/0370-2693(91)91108-8
+   TRUONG TN, 1991, PHYS REV LETT, V67, P2260, DOI 10.1103/PhysRevLett.67.2260
+   VELTMAN H, 1991, ACTA PHYS POL B, V22, P669
+   WEINBERG S, 1990, PHYS REV LETT, V65, P1177, DOI 10.1103/PhysRevLett.65.1177
+   THOOFT G, 1979, NUCL PHYS B, V153, P365, DOI 10.1016/0550-3213(79)90605-9
+NR 23
+TC 8
+Z9 8
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD OCT 1
+PY 1993
+VL 48
+IS 7
+BP 3055
+EP 3061
+DI 10.1103/PhysRevD.48.3055
+PG 7
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA MC123
+UT WOS:A1993MC12300013
+ER
+
+PT J
+AU HIKASA, K
+   IGI, KJ
+AF HIKASA, K
+   IGI, KJ
+TI STRONGLY INTERACTING WW SECTOR WITH A SCALAR RESONANCE
+SO PHYSICS LETTERS B
+LA English
+DT Article
+ID HIGGS-BOSON MASS; WEAK INTERACTIONS; GAUGE THEORIES; HIGH-ENERGIES;
+   S-MATRIX; WS; ZS; DERIVATION; THEOREMS; BOUNDS
+AB We construct unitary partial-wave amplitudes for longitudinal WW scattering from general requirements of scalar dominance and the low-energy theorem of broken chiral symmetry. The amplitude is uniquely determined by specifying the mass of the scalar particle. For small masses, the amplitude in the minimal standard model is reproduced. For small masses above 1 TeV, the amplitude shows saturation behavior above the mass, and the scattering cross section is a few times larger than the extrapolation of the low-energy theorem.
+C1 UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP HIKASA, K (reprint author), NATL LAB HIGH ENERGY PHYS,TSUKUBA,IBARAKI 305,JAPAN.
+CR ABE F, 1990, PHYS REV LETT, V65, P2243, DOI 10.1103/PhysRevLett.65.2243
+   ALITTI J, 1990, PHYS LETT B, V241, P150, DOI 10.1016/0370-2693(90)91502-3
+   BELL JS, 1973, NUCL PHYS B, VB 60, P427, DOI 10.1016/0550-3213(73)90191-0
+   CHANOWITZ M, 1986, PHYS REV LETT, V57, P2344, DOI 10.1103/PhysRevLett.57.2344
+   CHANOWITZ M, 1987, PHYS REV D, V36, P1490, DOI 10.1103/PhysRevD.36.1490
+   CHANOWITZ MS, 1985, NUCL PHYS B, V261, P379, DOI 10.1016/0550-3213(85)90580-2
+   CHEW GF, 1960, PHYS REV, V119, P467, DOI 10.1103/PhysRev.119.467
+   COLLINS PDB, 1968, SPRINGER TRACTS MODE, V45, pCH6
+   CORNWALL JM, 1973, PHYS REV LETT, V31, P572, DOI 10.1103/PhysRevLett.31.572
+   CORNWALL JM, 1974, PHYS REV D, V10, P1145, DOI 10.1103/PhysRevD.10.1145
+   CORNWALL JM, 1975, PHYS REV D, V11, P972, DOI 10.1103/PhysRevD.11.972
+   CORNWALL JM, 1973, PHYS REV LETT, V30, P1268, DOI 10.1103/PhysRevLett.30.1268
+   DICUS DA, 1973, PHYS REV D, V7, P3111, DOI 10.1103/PhysRevD.7.3111
+   DOBADO A, 1990, PHYS LETT B, V235, P129, DOI 10.1016/0370-2693(90)90108-I
+   JOGLEKAR SD, 1974, ANN PHYS-NEW YORK, V83, P427, DOI 10.1016/0003-4916(74)90205-X
+   LEE BW, 1977, PHYS REV D, V16, P1519, DOI 10.1103/PhysRevD.16.1519
+   LEE BW, 1977, PHYS REV LETT, V38, P883, DOI 10.1103/PhysRevLett.38.883
+   SMITH CHL, 1973, PHYS LETT B, VB 46, P233
+   WEINBERG S, 1990, PHYS REV LETT, V65, P1177, DOI 10.1103/PhysRevLett.65.1177
+NR 19
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD MAY 30
+PY 1991
+VL 261
+IS 3
+BP 285
+EP 288
+DI 10.1016/0370-2693(91)90329-O
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA FR714
+UT WOS:A1991FR71400015
+ER
+
+PT J
+AU IGI, K
+   KROLL, P
+AF IGI, K
+   KROLL, P
+TI THE ASYMPTOTIC-BEHAVIOR OF THE (PBARB-PP) FORWARD AMPLITUDE
+SO PHYSICS LETTERS B
+LA English
+DT Article
+C1 UNIV GESAMTHSCH WUPPERTAL,DEPT PHYS,D-5600 WUPPERTAL 1,FED REP GER.
+RP IGI, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR AMOS N, 1985, NUCL PHYS B, V262, P689, DOI 10.1016/0550-3213(85)90511-5
+   BACHER R, 1986, 8TH EUR S PROT ANT I
+   BERNARD D, 1987, PHYS LETT B, V199, P125, DOI 10.1016/0370-2693(87)91474-2
+   BERNARD D, 1987, PHYS LETT B, V198, P583, DOI 10.1016/0370-2693(87)90922-1
+   BOURRELY C, 1987, PHYS LETT B, V196, P237, DOI 10.1016/0370-2693(87)90611-3
+   BREEDON R, 1987, 2ND INT C EL DIFFR S
+   BRUCKNER W, 1987, 4TH LEAR WORKSH VILL
+   BRUCKNER W, 1985, PHYS LETT B, V158, P180, DOI 10.1016/0370-2693(85)91388-7
+   BUGG D, 1987, PHYS LETT B, V184, P563
+   CARBONI G, 1985, NUCL PHYS B, V254, P697, DOI 10.1016/0550-3213(85)90242-1
+   DUMBRAJS O, 1983, NUCL PHYS B, V216, P277, DOI 10.1016/0550-3213(83)90288-2
+   FAJARDO LA, 1981, PHYS REV D, V24, P46, DOI 10.1103/PhysRevD.24.46
+   FISCHER J, 1987, Z PHYS C PART FIELDS, V36, P273, DOI 10.1007/BF01579143
+   FLAMINIO V, 1989, CERNHERA8401 PREPR
+   GOLDBERGER ML, 1955, PHYS REV, V99, P986, DOI 10.1103/PhysRev.99.986
+   GREIN W, 1980, NUCL PHYS A, V338, P332, DOI 10.1016/0375-9474(80)90036-6
+   GREIN W, 1982, NUCL PHYS A, V377, P505, DOI 10.1016/0375-9474(82)90052-5
+   GROSS D, 1978, PHYS REV LETT, V41, P217, DOI 10.1103/PhysRevLett.41.217
+   GUSTAFSON G, 1979, NUCL PHYS B, V147, P189
+   HADJITHEODORIDIS S, 1988, PHYS LETT B, V208, P135, DOI 10.1016/0370-2693(88)91218-X
+   IGI K, 1962, PHYS REV LETT, V9, P76, DOI 10.1103/PhysRevLett.9.76
+   IGI K, 1963, PHYS REV, V130, P820, DOI 10.1103/PhysRev.130.820
+   JENNI P, 1977, NUCL PHYS B, V129, P232, DOI 10.1016/0550-3213(77)90193-6
+   KANG K, 1975, PHYS REV D, V11, P2461, DOI 10.1103/PhysRevD.11.2461
+   KROLL P, 1987, 4TH LEAR WORKSH VILL
+   KROLL P, UNPUB
+   LAM WS, 1970, PHYS LETT B, VB 31, P307, DOI 10.1016/0370-2693(70)90179-6
+   LEADER E, 1987, PHYS REV LETT, V59, P1525, DOI 10.1103/PhysRevLett.59.1525
+   LINSSEN L, 1987, CERN CERNEP8736 PREP
+   MARTIN A, 1987, CERN TH4852 PREPR
+   VANEIJK CWE, 1988, IN PRESS NUCL PHYS
+   ZIEGLER M, 1988, PHYS LETT B, V206, P151, DOI 10.1016/0370-2693(88)91279-8
+NR 32
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD FEB 9
+PY 1989
+VL 218
+IS 1
+BP 95
+EP 99
+DI 10.1016/0370-2693(89)90482-6
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA T1740
+UT WOS:A1989T174000019
+ER
+
+PT J
+AU BARGER, V
+   HAGIWARA, K
+   IGI, K
+AF BARGER, V
+   HAGIWARA, K
+   IGI, K
+TI S-WAVE SQUARKONIUM PRODUCTION IN E+E- COLLISIONS VIA SUPERSTRING YUKAWA
+   COUPLINGS
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+C1 NATL LAB HIGH ENERGY PHYS,THEORY GRP,TSUKUBA,IBARAKI 305,JAPAN.
+   UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+RP BARGER, V (reprint author), UNIV WISCONSIN,DEPT PHYS,MADISON,WI 53706, USA.
+CR BARGER V, 1987, 1986 P SUMM STUD PHY, P216
+   BARGER V, 1988, PHYS REV D, V37, P3320, DOI 10.1103/PhysRevD.37.3320
+   BARGER V, 1987, PHYS REV D, V36, P3541, DOI 10.1103/PhysRevD.36.3541
+   BINETRUY P, 1986, NUCL PHYS B, V273, P501, DOI 10.1016/0550-3213(86)90374-3
+   BREIT JD, 1985, PHYS LETT B, V158, P33, DOI 10.1016/0370-2693(85)90734-8
+   CAMPBELL B, 1986, PHYS LETT B, V180, P77, DOI 10.1016/0370-2693(86)90138-3
+   CANDELAS P, 1985, NUCL PHYS B, V258, P46, DOI 10.1016/0550-3213(85)90602-9
+   DINE M, 1985, NUCL PHYS B, V259, P519
+   DREES M, 1987, PHYS REV LETT, V59, P528, DOI 10.1103/PhysRevLett.59.528
+   DREINER H, 1987, CERN TH4837 REP
+   ELLIS J, 1986, NUCL PHYS B, V276, P14, DOI 10.1016/0550-3213(86)90015-5
+   Ellis J.R., 1986, MOD PHYS LETT A, V1, P57, DOI 10.1142/S0217732386000105
+   GREENE BR, 1986, NUCL PHYS B, V278, P667, DOI 10.1016/0550-3213(86)90057-X
+   GRIFOLS JA, 1984, PHYS LETT B, V144, P123, DOI 10.1016/0370-2693(84)90189-8
+   GROSS DJ, 1986, NUCL PHYS B, V267, P75, DOI 10.1016/0550-3213(86)90146-X
+   GROSS DJ, 1985, NUCL PHYS B, V256, P253, DOI 10.1016/0550-3213(85)90394-3
+   HAGIWARA K, 1986, Z PHYS C PART FIELDS, V33, P135, DOI 10.1007/BF01410461
+   Herrero M.J., 1987, International Journal of Modern Physics A, V2, DOI 10.1142/S0217751X8700051X
+   Hewett J.L., 1987, International Journal of Modern Physics A, V2, DOI 10.1142/S0217751X87000673
+   HEWETT JL, 1987, PHYS REV D, V36, P3367, DOI 10.1103/PhysRevD.36.3367
+   JOSHIPURA AS, 1986, PHYS REV LETT, V57, P33, DOI 10.1103/PhysRevLett.57.33
+   MANGANO M, 1985, Z PHYS C PART FIELDS, V28, P613, DOI 10.1007/BF01474012
+   MOXHAY P, 1985, PHYS REV D, V32, P300, DOI 10.1103/PhysRevD.32.300
+   MOXHAY P, 1985, PHYS LETT B, V158, P170, DOI 10.1016/0370-2693(85)91386-3
+   NANOPOULOS DV, 1984, PHYS LETT B, V137, P363
+   NAPPI CR, 1982, PHYS REV D, V25, P84, DOI 10.1103/PhysRevD.25.84
+   NILLES HP, 1984, PHYS REP, V101, P1
+   ROBINETT RW, 1987, PHYS LETT B, V197, P531, DOI 10.1016/0370-2693(87)91049-5
+   SUZUKI M, 1985, 1985 P INS INT S COM, P138
+   WITTEN E, 1985, NUCL PHYS B, V258, P75, DOI 10.1016/0550-3213(85)90603-0
+   CERN EP87163 REP
+NR 31
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD OCT 1
+PY 1988
+VL 38
+IS 7
+BP 2149
+EP 2152
+DI 10.1103/PhysRevD.38.2149
+PG 4
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA Q3265
+UT WOS:A1988Q326500009
+ER
+
+PT J
+AU IGI, K
+   ONO, S
+AF IGI, K
+   ONO, S
+TI HEAVY-QUARKONIUM SYSTEMS AND THE QCD SCALE PARAMETER LAMBDA-MS
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+C1 UNIV TOKYO,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+RP IGI, K (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR ABE O, 1983, PHYS REV D, V27, P675, DOI 10.1103/PhysRevD.27.675
+   ARNISON G, 1984, PHYS LETT B, V147, P493, DOI 10.1016/0370-2693(84)91410-2
+   BERKELMAN K, 1985, CLNS85649 CORN U REP
+   BUCHMULLER W, 1980, PHYS REV LETT, V45, P103, DOI 10.1103/PhysRevLett.45.103
+   BUCHMULLER W, 1981, PHYS REV D, V24, P132, DOI 10.1103/PhysRevD.24.132
+   BUCHMULLER W, MPIPAEPTH8585 REP
+   BUCHMULLER W, 1981, PHYS REV D, V24, P3003, DOI 10.1103/PhysRevD.24.3003
+   EICHTEN E, 1985, 6TH QUARK
+   GUPTA SN, 1982, PHYS REV D, V25, P3430, DOI 10.1103/PhysRevD.25.3430
+   GUPTA SN, 1982, PHYS REV D, V25, P2690, DOI 10.1103/PhysRevD.25.2690
+   GUPTA SN, 1982, PHYS REV D, V26, P3305, DOI 10.1103/PhysRevD.26.3305
+   GUSKEN S, 1985, NUCL PHYS B, V262, P393, DOI 10.1016/0550-3213(85)90323-2
+   HEIKKILA K, 1984, PHYS REV D, V29, P110, DOI 10.1103/PhysRevD.29.110
+   HEIKKILA K, 1984, PHYS REV D, V29, P2136, DOI 10.1103/PhysRevD.29.2136
+   IGI K, 1983, PHYS REV D, V28, P565, DOI 10.1103/PhysRevD.28.565
+   KEPHART TW, 1982, PHYS REV D, V26, P3260, DOI 10.1103/PhysRevD.26.3260
+   KRASEMANN H, 1979, NUCL PHYS B, V154, P283, DOI 10.1016/0550-3213(79)90515-7
+   KUHN JH, 1984, Z PHYS C PART FIELDS, V21, P395, DOI 10.1007/BF01581607
+   MATEEV VA, 1965, DUBNA P2524 REP
+   MORISHITA J, 1983, Z PHYS C PART FIELDS, V19, P167, DOI 10.1007/BF01571780
+   NICKISCH LJ, 1984, PHYS REV D, V30, P660, DOI 10.1103/PhysRevD.30.660
+   ONO S, 1986, PHYS REV D, V33, P2660, DOI 10.1103/PhysRevD.33.2660
+   ONO S, 1985, Z PHYS C, V26, P307
+   PANTALEONE J, 1986, PHYS REV D, V33, P777, DOI 10.1103/PhysRevD.33.777
+   PIETSCHM.H, 1966, PHYS LETT, V21, P713, DOI 10.1016/0031-9163(66)90137-5
+   RICHARDSON JL, 1979, PHYS LETT B, V82, P272, DOI 10.1016/0370-2693(79)90753-6
+   TORNQVIST NA, 1984, PHYS REV LETT, V53, P878, DOI 10.1103/PhysRevLett.53.878
+   VANROYEN R, 1967, NUOVO CIMENT A, V50, P617
+   Wohl C.G., 1984, Reviews of Modern Physics, V56
+NR 29
+TC 53
+Z9 53
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD JUN 1
+PY 1986
+VL 33
+IS 11
+BP 3349
+EP 3357
+DI 10.1103/PhysRevD.33.3349
+PG 9
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA C4205
+UT WOS:A1986C420500022
+ER
+
+PT J
+AU IGI, K
+   ONO, S
+AF IGI, K
+   ONO, S
+TI HYPERFINE SPLITTING OF QUARKONIUM
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+RP IGI, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR AIHARA H, 1984, PHYS REV LETT, V53, P2465, DOI 10.1103/PhysRevLett.53.2465
+   ALBRECHT H, 1984, PHYS LETT B, V146, P111, DOI 10.1016/0370-2693(84)90654-3
+   BAHNOT G, 1978, PHYS LETT B, V78, P119
+   BUCHMULLER W, 1981, PHYS REV D, V24, P132, DOI 10.1103/PhysRevD.24.132
+   DERUJULA A, 1975, PHYS REV D, V12, P142
+   HARA Y, 1981, PROG THEOR PHYS, V65, P1987, DOI 10.1143/PTP.65.1987
+   HENRIQUES AB, 1976, PHYS LETT B, V64, P85, DOI 10.1016/0370-2693(76)90364-6
+   JACKSON JD, 1977, WEAK INTERACTIONS HI
+   KUHN JH, 1984, Z PHYS C PART FIELDS, V21, P395, DOI 10.1007/BF01581607
+   MARTIN A, 1981, PHYS LETT B, V100, P511, DOI 10.1016/0370-2693(81)90617-1
+   MARTIN A, 1982, J PHYS PARIS, V43
+   ONO S, 1983, PHYS REV D, V27, P1203, DOI 10.1103/PhysRevD.27.1203
+   ONO S, 1978, PHYS REV D, V17, P888, DOI 10.1103/PhysRevD.17.888
+   ONO S, 1979, PHYS REV D, V20, P2975, DOI 10.1103/PhysRevD.20.2975
+   ONO S, 1982, PHYS LETT B, V118, P419, DOI 10.1016/0370-2693(82)90216-7
+   ONO S, 1982, PHYS REV D, V26, P2510, DOI 10.1103/PhysRevD.26.2510
+   SCHOBERL F, 1984, PHYS REV D, V30, P603, DOI 10.1103/PhysRevD.30.603
+NR 17
+TC 31
+Z9 32
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PY 1985
+VL 32
+IS 1
+BP 232
+EP 236
+DI 10.1103/PhysRevD.32.232
+PG 5
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA AKX60
+UT WOS:A1985AKX6000020
+ER
+
+PT J
+AU IGI, K
+   HIKASA, K
+AF IGI, K
+   HIKASA, K
+TI QUARK-ANTIQUARK POTENTIAL AND Q2 DUALITY
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+RP IGI, K (reprint author), UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BARBIERI R, 1975, PHYS LETT B, V57, P455, DOI 10.1016/0370-2693(75)90267-1
+   BARDEEN WA, 1978, PHYS REV D, V18, P3998, DOI 10.1103/PhysRevD.18.3998
+   BELL JS, 1980, Z PHYS C PART FIELDS, V4, P11, DOI 10.1007/BF01477302
+   BHANOT G, 1978, PHYS LETT B, V78, P119, DOI 10.1016/0370-2693(78)90362-3
+   BILLOIRE A, 1980, PHYS LETT B, V92, P343, DOI 10.1016/0370-2693(80)90279-8
+   BRAMON A, 1972, PHYS LETT B, V41 B, P609, DOI 10.1016/0370-2693(72)90646-6
+   BUCHMULLER W, 1980, PHYS REV LETT, V45, P103, DOI 10.1103/PhysRevLett.45.103
+   BUCHMULLER W, 1981, PHYS REV D, V24, P132, DOI 10.1103/PhysRevD.24.132
+   BUCHMULLER W, 1980, PHYS REV LETT, V45, pE587
+   CELMASTER W, 1980, PHYS REV LETT, V44, P560, DOI 10.1103/PhysRevLett.44.560
+   CHETYRKIN KG, 1979, PHYS LETT B, V85, P277, DOI 10.1016/0370-2693(79)90596-3
+   CREUTZ M, 1980, PHYS REV LETT, V45, P313, DOI 10.1103/PhysRevLett.45.313
+   CREUTZ M, 1980, PHYS REV D, V21, P2308, DOI 10.1103/PhysRevD.21.2308
+   DINE M, 1979, PHYS REV LETT, V43, P668, DOI 10.1103/PhysRevLett.43.668
+   DURAND B, 1982, PHYS REV D, V25, P2312, DOI 10.1103/PhysRevD.25.2312
+   EICHTEN E, 1980, PHYS REV D, V21, P203, DOI 10.1103/PhysRevD.21.203
+   EICHTEN E, 1978, PHYS REV D, V17, P3090, DOI 10.1103/PhysRevD.17.3090
+   EICHTEN E, 1980, PHYS REV D, V21, pE313
+   Farrar G.R., 1977, Physics Letters B, V71B, DOI 10.1016/0370-2693(77)90754-7
+   FISCHLER W, 1977, NUCL PHYS B, V129, P157, DOI 10.1016/0550-3213(77)90026-8
+   GRECO M, 1980, PHYS REV D, V21, P2520, DOI 10.1103/PhysRevD.21.2520
+   GRECO M, 1973, NUCL PHYS B, VB 63, P398, DOI 10.1016/0550-3213(73)90154-5
+   ISHIKAWA K, 1979, Z PHYS C PART FIELDS, V1, P117, DOI 10.1007/BF01450387
+   KRASEMANN H, 1979, NUCL PHYS B, V154, P283, DOI 10.1016/0550-3213(79)90515-7
+   MARTIN A, 1980, PHYS LETT B, V93, P338, DOI 10.1016/0370-2693(80)90527-4
+   MARTIN A, 1981, PHYS LETT B, V100, P511, DOI 10.1016/0370-2693(81)90617-1
+   MILLER KJ, 1982, PHYS REV D, V25, P1247, DOI 10.1103/PhysRevD.25.1247
+   MILLER KJ, 1980, PHYS REV D, V22, P2137, DOI 10.1103/PhysRevD.22.2137
+   MILLER KJ, 1982, PHYS REV D, V25, P1253, DOI 10.1103/PhysRevD.25.1253
+   MILLER KJ, 1981, Z PHYS C PART FIELDS, V8, P21, DOI 10.1007/BF01429826
+   MOORHOUSE RG, 1977, NUCL PHYS B, V124, P285, DOI 10.1016/0550-3213(77)90316-9
+   NOVIKOV VA, 1978, PHYS REP, V41, P1, DOI 10.1016/0370-1573(78)90120-5
+   QUIGG C, 1980, PHYS REV D, V21, P234, DOI 10.1103/PhysRevD.21.234
+   QUIGG C, 1981, PHYS REV D, V23, P2625, DOI 10.1103/PhysRevD.23.2625
+   REINDERS LJ, 1981, NUCL PHYS B, V186, P109, DOI 10.1016/0550-3213(81)90095-X
+   RICHARDSON JL, 1979, PHYS LETT B, V82, P272, DOI 10.1016/0370-2693(79)90753-6
+   SAKURAI JJ, 1973, PHYS LETT B, VB 46, P207, DOI 10.1016/0370-2693(73)90685-0
+   Schwinger J. S., 1973, PARTICLES SOURCES FI, V2
+   SHANKAR R, 1977, PHYS REV D, V15, P755, DOI 10.1103/PhysRevD.15.755
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   VANROYEN R, 1967, NUOVO CIMENT A, V50, P617
+   Van Royen R., 1967, NUOVO CIMENTO A, V51, p583(E)
+   1982, PHYS LETT B, V111, P1
+NR 44
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PY 1983
+VL 28
+IS 3
+BP 565
+EP 571
+DI 10.1103/PhysRevD.28.565
+PG 7
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA RB527
+UT WOS:A1983RB52700015
+ER
+
+PT J
+AU HIKASA, K
+   IGI, K
+AF HIKASA, K
+   IGI, K
+TI NARROW HIGH-SPIN B-FLAVORED MESONS
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+C1 BROOKHAVEN NATL LAB,DEPT PHYS,UPTON,NY 11973.
+RP HIKASA, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR ANDREWS D, 1980, PHYS REV LETT, V45, P219, DOI 10.1103/PhysRevLett.45.219
+   ANDREWS D, 1980, PHYS REV LETT, V44, P1108, DOI 10.1103/PhysRevLett.44.1108
+   BERGER C, 1978, PHYS LETT B, V76, P243, DOI 10.1016/0370-2693(78)90287-3
+   BIENLEIN JK, 1978, PHYS LETT B, V78, P360, DOI 10.1016/0370-2693(78)90040-0
+   BLATT JM, 1952, THEORETICAL NUCL PHY, pCH8
+   BOHRINGER T, 1980, PHYS REV LETT, V44, P1111, DOI 10.1103/PhysRevLett.44.1111
+   DARDEN CW, 1978, PHYS LETT B, V78, P364, DOI 10.1016/0370-2693(78)90041-2
+   DARDEN CW, 1978, PHYS LETT B, V76, P246, DOI 10.1016/0370-2693(78)90288-5
+   DERUJULA A, 1975, PHYS REV D, V12, P147, DOI 10.1103/PhysRevD.12.147
+   EICHTEN E, 1980, PHYS REV D, V21, P203, DOI 10.1103/PhysRevD.21.203
+   FINOCCHIARO G, 1980, PHYS REV LETT, V45, P222, DOI 10.1103/PhysRevLett.45.222
+   HERB SW, 1977, PHYS REV LETT, V39, P252, DOI 10.1103/PhysRevLett.39.252
+   HIKASA K, 1980, Z PHYS C PART FIELDS, V6, P47, DOI 10.1007/BF01427920
+   IGI K, 1977, PHYS REV D, V15, P865, DOI 10.1103/PhysRevD.15.865
+   IGI K, 1977, PHYS REV D, V16, P196, DOI 10.1103/PhysRevD.16.196
+   INNES WR, 1977, PHYS REV LETT, V39, P1240, DOI 10.1103/PhysRevLett.39.1240
+   INNES WR, 1977, PHYS REV LETT, V39, P1640, DOI 10.1103/PhysRevLett.39.1640.2
+   KIRKBY J, 1980, 1979 P INT S LEPT PH, P107
+   ONO S, 1981, PHYS REV D, V23, P1118, DOI 10.1103/PhysRevD.23.1118
+   QUIGG C, 1979, PHYS REP C, V56, P157
+   UENO K, 1979, PHYS REV LETT, V42, P486, DOI 10.1103/PhysRevLett.42.486
+   1978, PHYS LETT B, V75, P1
+NR 22
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PY 1981
+VL 23
+IS 9
+BP 2027
+EP 2033
+DI 10.1103/PhysRevD.23.2027
+PG 7
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA LM767
+UT WOS:A1981LM76700016
+ER
+
+PT J
+AU HIKASA, K
+   IGI, K
+AF HIKASA, K
+   IGI, K
+TI AN UPPER BOUND FOR THE T-QUARK MASS FROM DUALITY AND UNITARITY
+SO ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS
+LA English
+DT Article
+RP HIKASA, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR BARBER DP, 1979, PHYS LETT B, V85, P463, DOI 10.1016/0370-2693(79)91296-6
+   BARTEL W, 1979, PHYS LETT B, V89, P136, DOI 10.1016/0370-2693(79)90091-1
+   BARTEL W, 1979, PHYS LETT B, V88, P171, DOI 10.1016/0370-2693(79)90139-4
+   BERGER C, 1979, PHYS LETT B, V86, P413, DOI 10.1016/0370-2693(79)90868-2
+   BERGER C, 1978, PHYS LETT B, V76, P243, DOI 10.1016/0370-2693(78)90287-3
+   BIENLEIN JK, 1978, PHYS LETT B, V78, P360, DOI 10.1016/0370-2693(78)90040-0
+   BJORKEN JD, 1978, SLACPUB2195 PREPR
+   BRANDELIK R, 1979, DESY7975 REP
+   BRANDELIK R, 1979, PHYS LETT B, V88, P199, DOI 10.1016/0370-2693(79)90145-X
+   DARDEN CW, 1978, PHYS LETT B, V78, P364, DOI 10.1016/0370-2693(78)90041-2
+   DARDEN CW, 1978, PHYS LETT B, V76, P246, DOI 10.1016/0370-2693(78)90288-5
+   GEORGI H, 1979, NUCL PHYS B, V155, P52, DOI 10.1016/0550-3213(79)90355-9
+   HARARI H, 1978, PHYS LETT B, V78, P459, DOI 10.1016/0370-2693(78)90485-9
+   IGI K, 1977, PHYS LETT B, V71, P158, DOI 10.1016/0370-2693(77)90766-3
+   IGI K, 1977, PHYS REV D, V16, P196, DOI 10.1103/PhysRevD.16.196
+   IGI K, 1977, PHYS LETT B, V66, P276, DOI 10.1016/0370-2693(77)90879-6
+   GEORGI H, 1979, PHYS LETT B, V82, P392, DOI 10.1016/0370-2693(79)90249-1
+   MAHANTHAPPA KT, 1979, PHYS LETT B, V86, P294, DOI 10.1016/0370-2693(79)90841-4
+   PAKVASA S, 1979, PHYS LETT          B, V82, P392
+   PASUPATHY J, 1976, PHYS REV LETT, V37, P1336, DOI 10.1103/PhysRevLett.37.1336
+   PREPARATA G, 1979, PHYS LETT B, V82, P398, DOI 10.1016/0370-2693(79)90251-X
+   SATO H, 1979, NUCL PHYS B, V148, P433, DOI 10.1016/0550-3213(79)90144-5
+   SERGE G, 1979, PHYS LETT          B, V83, P351
+   1978, PHYS LETT B, V75, P1
+NR 24
+TC 2
+Z9 2
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0170-9739
+J9 Z PHYS C PART FIELDS
+JI Z. Phys. C-Part. Fields
+PY 1980
+VL 6
+IS 1
+BP 47
+EP 49
+DI 10.1007/BF01427920
+PG 3
+WC Physics, Particles & Fields
+SC Physics
+GA KJ610
+UT WOS:A1980KJ61000008
+ER
+
+PT J
+AU ISAGO, T
+   IGI, K
+   HIDAKA, J
+AF ISAGO, T
+   IGI, K
+   HIDAKA, J
+TI STEREOCHEMISTRY OF COBALT(III) COMPLEXES WITH SULFUR-CONTAINING
+   AMINO-CARBOXYLATE - MIXED COBALT(III) COMPLEXES WITH L-METHIONINATE OR
+   S-METHYL-L-CYSTEINATE AND L-ASPARTATE OR D-ASPARTATE
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TSUKUBA,DEPT CHEM,IBARAKI 30031,JAPAN.
+CR BAGGER S, 1972, ACTA CHEM SCAND, V26, P2503, DOI 10.3891/acta.chem.scand.26-2503
+   FREEMAN WA, 1970, INORG CHEM, V9, P1191, DOI 10.1021/ic50087a036
+   FREEMAN WA, 1968, INORG CHEM, V7, P764, DOI 10.1021/ic50062a029
+   HIDAKA J, 1974, 16 ICCC DUBL
+   HIDAKA J, 1974, CHEM LETT, P1487, DOI 10.1246/cl.1974.1487
+   HOSAKA K, 1969, B CHEM SOC JPN, V42, P277, DOI 10.1246/bcsj.42.277
+   LEGG JI, 1973, INORG CHEM, V12, P1805, DOI 10.1021/ic50126a020
+   LIU CF, 1969, INORG CHEM, V8, P1911, DOI 10.1021/ic50079a022
+   MEESTER PD, 1976, J CHEM SOC DALTON, P618
+   NAKAYAMA Y, 1976, B CHEM SOC JPN, V49, P151, DOI 10.1246/bcsj.49.151
+   OONISHI I, 1975, ACTA CRYSTALLOGR B, V31, P1318, DOI 10.1107/S0567740875005134
+   SEARLE GH, 1976, ACTA CHEM SCAND A, V30, P143, DOI 10.3891/acta.chem.scand.30a-0143
+   WATABE M, 1975, B CHEM SOC JPN, V48, P687, DOI 10.1246/bcsj.48.687
+   YAMADA S, 1971, INORG CHEM, V10, P2187, DOI 10.1021/ic50104a019
+   YAMANARI K, 1977, B CHEM SOC JPN, V50, P2643, DOI 10.1246/bcsj.50.2643
+   YAMANARI K, 1977, B CHEM SOC JPN, V50, P2299, DOI 10.1246/bcsj.50.2299
+   YAMANARI K, 1977, B CHEM SOC JPN, V50, P2451, DOI 10.1246/bcsj.50.2451
+   ZOMPA LJ, 1969, CHEM COMMUN, P783
+NR 18
+TC 20
+Z9 20
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PY 1979
+VL 52
+IS 2
+BP 407
+EP 414
+DI 10.1246/bcsj.52.407
+PG 8
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA GJ931
+UT WOS:A1979GJ93100029
+ER
+
+PT J
+AU OKABAYASHI, M
+   IGI, K
+   HIDAKA, J
+AF OKABAYASHI, M
+   IGI, K
+   HIDAKA, J
+TI PREPARATION AND CHARACTERIZATION OF
+   UNS-CIS-TRIMETHYLENEDIAMINE-N,N'-DIACETATO COBALT(III) COMPLEXES WITH
+   SEVERAL L-AMINO-ACIDS
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP OKABAYASHI, M (reprint author), UNIV TSUKUBA,DEPT CHEM,SAKURA,IBARAKI 30031,JAPAN.
+CR BLACKMER GL, 1971, INORG CHEM, V10, P2019
+   COLEMAN PF, 1970, INORG CHEM, V9, P937, DOI 10.1021/ic50086a049
+   DOUGLAS BE, 1965, INORG CHEM, V4, P1561, DOI 10.1021/ic50033a007
+   GAILEY KD, 1975, INORG CHEM, V14, P2956, DOI 10.1021/ic50154a021
+   GARNETT PJ, 1974, INORG CHIM ACTA, V8, P293, DOI 10.1016/S0020-1693(00)92631-8
+   HALLORAN LJ, 1974, INORG CHEM, V13, P2193
+   HAWKINS CJ, 1971, ABSOLUTE CONFIGURATI
+   IGI K, 1974, INORG CHIM ACTA, V10, P109, DOI 10.1016/S0020-1693(00)86718-3
+   IGI K, 1974, INORG CHEM, V13, P425, DOI 10.1021/ic50132a038
+   JORDAN WT, 1974, INORG CHEM, V13, P955, DOI 10.1021/ic50134a039
+   JORDAN WT, 1973, INORG CHEM, V12, P403, DOI 10.1021/ic50120a033
+   KAWASAKI K, 1972, B CHEM SOC JPN, V45, P3100, DOI 10.1246/bcsj.45.3100
+   Kawasaki K, 1970, B CHEM SOC JPN, V43, p3819A, DOI 10.1246/bcsj.43.3819
+   KURODA K, 1971, B CHEM SOC JPN, V44, P1034, DOI 10.1246/bcsj.44.1034
+   KURODA K, 1974, CHEM LETT, P17, DOI 10.1246/cl.1974.17
+   KURODA K, 1972, B CHEM SOC JPN, V45, P2176, DOI 10.1246/bcsj.45.2176
+   LEGG JI, 1968, INORG CHEM, V7, P1452, DOI 10.1021/ic50065a039
+   LEGG JI, 1967, INORG CHEM, V6, P700, DOI 10.1021/ic50050a014
+   LEGG JI, 1965, INORG CHEM, V4, P1576, DOI 10.1021/ic50033a010
+   LIU CT, 1964, INORG CHEM, V3, P1356, DOI 10.1021/ic50020a004
+   MATSUDA T, 1972, B CHEM SOC JPN, V45, P802, DOI 10.1246/bcsj.45.802
+   MATSUDA T, 1973, B CHEM SOC JPN, V46, P3104, DOI 10.1246/bcsj.46.3104
+   MATSUOKA N, 1970, INORG CHEM, V9, P719, DOI 10.1021/ic50086a005
+   MATSUOKA N, 1975, B CHEM SOC JPN, V48, P458, DOI 10.1246/bcsj.48.458
+   MORI M, 1962, B CHEM SOC JPN, V35, P75, DOI 10.1246/bcsj.35.75
+   SUDMEIER JL, 1968, INORG CHEM, V12, P2524
+   SUDMEIER JL, 1971, INORG CHEM, V10, P90, DOI 10.1021/ic50095a021
+   TAKEUCHI M, 1974, B CHEM SOC JPN, V47, P2797, DOI 10.1246/bcsj.47.2797
+   TERRILL JB, 1966, INORG CHEM, V5, P1988, DOI 10.1021/ic50045a033
+   VANSAUN CW, 1969, INORG CHEM, V8, P115, DOI 10.1021/ic50071a027
+   WILLIAMS DH, 1965, J AM CHEM SOC, V87, P4644, DOI 10.1021/ja00948a045
+NR 31
+TC 24
+Z9 24
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PY 1979
+VL 52
+IS 3
+BP 753
+EP 760
+DI 10.1246/bcsj.52.753
+PG 8
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA GP440
+UT WOS:A1979GP44000019
+ER
+
+PT J
+AU IGI, K
+   YAZAKI, S
+AF IGI, K
+   YAZAKI, S
+TI BARYONIUM SPECTROSCOPY BASED ON DUALITY AND UNITARITY
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP IGI, K (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR ADER JP, 1973, NUCL PHYS B, V58, P621, DOI 10.1016/0550-3213(73)90602-0
+   ANDERSON EW, 1969, PHYS REV LETT, V22, P102, DOI 10.1103/PhysRevLett.22.102
+   BARGER VD, 1969, PHENOMENOLOGICAL THE
+   BENKHEIRI P, 1977, PHYS LETT B, V68, P483, DOI 10.1016/0370-2693(77)90477-4
+   Berger E.J., 1969, Physical Review, V188, DOI 10.1103/PhysRev.188.2120
+   BRUCKNER W, 1977, PHYS LETT B, V67, P222, DOI 10.1016/0370-2693(77)90109-5
+   CARROLL AS, 1974, PHYS REV LETT, V32, P247, DOI 10.1103/PhysRevLett.32.247
+   CHALOUPKA V, 1976, PHYS LETT B, V61, P487, DOI 10.1016/0370-2693(76)90735-8
+   CHEW GF, 1976, LBL5391 PREPR
+   FREUND PGO, 1969, NUCL PHYS B, VB 13, P237, DOI 10.1016/0550-3213(69)90231-4
+   HONGMO C, 1977, PHYS LETT B, V72, P121
+   HONGMO C, 1978, NUCL PHYS B, V136, P401, DOI 10.1016/0550-3213(78)90267-5
+   HOYER P, 1973, PHYS LETT B, VB 44, P258, DOI 10.1016/0370-2693(73)90220-7
+   Igarashi Y., 1978, Progress of Theoretical Physics Supplement
+   IGI K, 1977, PHYS LETT B, V71, P158, DOI 10.1016/0370-2693(77)90766-3
+   IGI K, 1978, PHYS LETT B, V74, P257, DOI 10.1016/0370-2693(78)90568-3
+   IGI K, 1977, PHYS REV D, V16, P196, DOI 10.1103/PhysRevD.16.196
+   IGI K, 1977, PHYS LETT B, V66, P276, DOI 10.1016/0370-2693(77)90879-6
+   IMACHI M, 1977, PROG THEOR PHYS, V57, P517, DOI 10.1143/PTP.57.517
+   INAMI T, 1978, 19TH INT C HIGH EN P
+   JACKSON JD, 1976, SLAC198 STANF U REP, P147
+   JAFFE RJ, 1977, PHYS REV D, V15, P267, DOI 10.1103/PhysRevD.15.267
+   JAFFE RL, 1977, PHYS REV D, V15, P281, DOI 10.1103/PhysRevD.15.281
+   KALOGEROPOULOS TE, 1975, PHYS REV LETT, V34, P1047, DOI 10.1103/PhysRevLett.34.1047
+   KELLY RL, 1976, RL76053 RUTH PREPR
+   MONTANET L, 1977, EPPHYS7722 CERN
+   PENNINGTON MR, 1978, NUCL PHYS B, V137, P77, DOI 10.1016/0550-3213(78)90052-4
+   ROSENZWEIG C, 1976, PHYS REV LETT, V36, P697, DOI 10.1103/PhysRevLett.36.697
+   ROSNER JL, 1968, PHYS REV LETT, V21, P1468, DOI 10.1103/PhysRevLett.21.1468.3
+   Rosner J.L., 1968, Physical Review Letters, V21, DOI 10.1103/PhysRevLett.21.950
+   ROSSI GC, 1977, NUCL PHYS B, V123, P507, DOI 10.1016/0550-3213(77)90178-X
+   SIX J, 1978, LAL7815 ORS PREPR
+   TOYODA F, 1977, PROG THEOR PHYS, V58, P1456, DOI 10.1143/PTP.58.1456
+NR 33
+TC 9
+Z9 9
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1979
+VL 61
+IS 2
+BP 487
+EP 502
+DI 10.1143/PTP.61.487
+PG 16
+WC Physics, Multidisciplinary
+SC Physics
+GA GS815
+UT WOS:A1979GS81500010
+ER
+
+EF

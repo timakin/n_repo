@@ -1,0 +1,578 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Iwamoto, F
+   Seki, M
+   Tabata, H
+AF Iwamoto, Fujiyuki
+   Seki, Munetoshi
+   Tabata, Hitoshi
+TI Magnetic and electric properties of Ru-substituted CoFe2O4 thin films
+   fabricated by pulsed laser deposition
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID FE3O4; SEMICONDUCTOR; CONDUCTIVITY; FERRITE; MN
+AB Epitaxial thin films of Ru-substituted CoFe2O4 with a cubic spinel structure were fabricated on alpha-Al2O3 (001) substrates using pulsed laser deposition, and their magnetic and electric properties were investigated. The films showed room temperature ferrimagnetic behavior with hard magnetic features similar to those of non-Ru-substituted cobalt ferrite films. The electrical conductivity of the films was dramatically enhanced by the substitution of Ru. The anomalous Hall effect was observed in all films even at 300 K suggesting that carriers in the films are highly spin-polarized at room temperature as expected from a first-principles calculation. (C) 2012 American Institute of Physics. [http://dx.doi.org/10.1063/1.4766410]
+C1 Univ Tokyo, Dept Elect Engn & Informat Syst, Grad Sch Engn, Bunkyo Ku, Tokyo 1138656, Japan.
+RP Seki, M (reprint author), Univ Tokyo, Dept Elect Engn & Informat Syst, Grad Sch Engn, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138656, Japan.
+EM m-seki@ee.t.u-tokyo.ac.jp
+FU Global Center of Excellence (G-COE) program of Secure Life Electronics
+   at the University of Tokyo; Murata Science Foundation in Japan
+FX This work was partially supported by Global Center of Excellence (G-COE)
+   program of Secure Life Electronics at the University of Tokyo and Murata
+   Science Foundation in Japan. Electrical and magnetic measurements were
+   performed at the Low Temperature Center of the University of Tokyo, and
+   XRD measurements were carried out at the Isotope Center of the
+   University of Tokyo. The authors would like to thank Dr. Kanki at Osaka
+   University for his quite helpful and useful discussions.
+CR Arora SK, 2005, J APPL PHYS, V97, DOI 10.1063/1.1854439
+   Arras R, 2012, APPL PHYS LETT, V100, DOI 10.1063/1.3678028
+   Berger L, 1970, PHYS REV B-SOLID ST, V2, P4559, DOI 10.1103/PhysRevB.2.4559
+   BOTTGER H, 1976, PHYS STATUS SOLIDI B, V78, P415, DOI 10.1002/pssb.2220780202
+   BRABERS VAM, 1995, PHYSICA B, V205, P143, DOI 10.1016/0921-4526(94)00294-6
+   Coey J M D, 2010, MAGNETISM MAGNETIC M
+   EHRENREICH H, 1957, J PHYS CHEM SOLIDS, V2, P131, DOI 10.1016/0022-3697(57)90099-9
+   Gu BX, 2003, APPL PHYS LETT, V82, P3707, DOI 10.1063/1.1573357
+   Horng L, 2004, J MAGN MAGN MATER, V270, P389, DOI 10.1016/j.jmmm.2003.09.005
+   Ishikawa M, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1942640
+   JONKER HD, 1974, J SOLID STATE CHEM, V10, P116, DOI 10.1016/0022-4596(74)90016-4
+   Kanki T, 2008, APPL PHYS LETT, V92, DOI 10.1063/1.2896609
+   KARPLUS R, 1954, PHYS REV, V95, P1154, DOI 10.1103/PhysRev.95.1154
+   KRUTZSCH B, 1984, MATER RES BULL, V19, P1659, DOI 10.1016/0025-5408(84)90244-7
+   Margulies DT, 1997, PHYS REV LETT, V79, P5162, DOI 10.1103/PhysRevLett.79.5162
+   Miller A., 1959, Journal of Applied Physics, V30, DOI 10.1063/1.2185913
+   Mott N.F., 1968, Journal of Non-Crystalline Solids, V1, DOI 10.1016/0022-3093(68)90002-1
+   Murase H, 2009, MATER TRANS, V50, P1076, DOI 10.2320/matertrans.MC200804
+   Nagaosa N, 2010, REV MOD PHYS, V82, P1539, DOI 10.1103/RevModPhys.82.1539
+   NEEL L, 1948, ANN PHYS-PARIS, V3, P137
+   OHNO H, 1992, PHYS REV LETT, V68, P2664, DOI 10.1103/PhysRevLett.68.2664
+   PICKART SJ, 1959, J PHYS CHEM SOLIDS, V10, P242, DOI 10.1016/0022-3697(59)90082-4
+   Ramos AV, 2006, J APPL PHYS, V100, DOI 10.1063/1.2386927
+   Ramos R, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.214402
+   Reisinger D, 2004, APPL PHYS LETT, V85, P4980, DOI 10.1063/1.1808497
+   Seki M, 2011, APPL PHYS LETT, V99, DOI 10.1063/1.3670045
+   SMIT J, 1958, PHYSICA, V24, P39, DOI 10.1016/S0031-8914(58)93541-9
+   Snelling E. C., 1989, PROPERTIES APPL
+   STROBEL P, 1980, J SOLID STATE CHEM, V31, P209, DOI 10.1016/0022-4596(80)90022-5
+   Takaobushi J, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2405389
+   Toyosaki H, 2004, NAT MATER, V3, P221, DOI 10.1038/nmat1099
+   Vescovo E, 2005, J APPL PHYS, V98, DOI 10.1063/1.2085316
+   Zang Z., 1991, PHYS REV B, V44, P13319
+NR 33
+TC 0
+Z9 0
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD NOV 15
+PY 2012
+VL 112
+IS 10
+AR 103901
+DI 10.1063/1.4766410
+PG 5
+WC Physics, Applied
+SC Physics
+GA 049GF
+UT WOS:000311969800076
+ER
+
+PT J
+AU Seki, M
+   Mikami, M
+   Iwamoto, F
+   Ono, Y
+   Osone, T
+   Tabata, H
+AF Seki, Munetoshi
+   Mikami, Masateru
+   Iwamoto, Fujiyuki
+   Ono, Yosuke
+   Osone, Takamasa
+   Tabata, Hitoshi
+TI Growth of epitaxial TmFeCuO4 thin films by pulsed laser deposition
+SO JOURNAL OF CRYSTAL GROWTH
+LA English
+DT Article
+DE Laser epitaxy; Solid phase epitaxy; Oxides; Magnetic materials
+ID SOLID-PHASE EPITAXY; ZNO NANORODS; GAN; LUFE2O4; MODELS
+AB Epitaxial thin films of TmFeCuO4 with a two-dimensional triangular lattice structure were successfully grown on yttria-stabilized-zirconia substrates by pulsed laser deposition and ex situ annealing in air. The films as-deposited below 500 degrees C showed no TmFeCuO4 phase and the subsequent annealing resulted in the decomposition of film components. On the other hand, as-grown films deposited at 800 degrees C showed an amorphous nature. Thermal annealing converted the amorphous films into highly (0 0 1)-oriented epitaxial films. The results of scanning electron microscopic analysis suggest that the crystal growth process during thermal annealing is dominated by the regrowth of non-uniformly shaped islands to the distinct uniform islands of hexagonal base. (C) 2010 Elsevier B.V. All rights reserved.
+C1 Univ Tokyo, Dept Elect Engn & Informat Syst, Grad Sch Engn, Bunkyo Ku, Tokyo 1138656, Japan.
+   Osaka Univ, Dept Mat Engn Sci, Grad Sch Engn Sci, Osaka 5608531, Japan.
+   Univ Tokyo, Dept Bioengn, Grad Sch Engn, Bunkyo Ku, Tokyo 1138656, Japan.
+RP Seki, M (reprint author), Univ Tokyo, Dept Elect Engn & Informat Syst, Grad Sch Engn, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138656, Japan.
+EM m-seki@ee.t.u-tokyo.ac.jp
+FU Ministry of Education, Culture, Sports, Science, and Technology
+   [20760196]
+FX The authors would like to thank Drs. H. Matsui, S. Otsuka, and K. Fukawa
+   of the University of Tokyo, Dr. C. Sakai and Mr. J. Minato of NSG
+   Techno-Research Co., Ltd. for their experimental support and useful
+   discussions. This work was supported by Grant-in-Aid for Young
+   Scientists (B) (20760196) by the Ministry of Education, Culture, Sports,
+   Science, and Technology.
+CR Angst M, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.227601
+   Chakraverty S, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.054401
+   Chen YF, 2002, APPL PHYS LETT, V80, P1358, DOI 10.1063/1.1454229
+   Choopun S, 2005, J CRYST GROWTH, V274, P167, DOI 10.1016/j.jcrysgro.2004.10.017
+   Fang ZL, 2007, J PHYS CHEM C, V111, P7889, DOI 10.1021/jp071803c
+   Geiler AL, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2800890
+   Hong YJ, 2007, ADV MATER, V19, P4416, DOI 10.1002/adma.200701203
+   IIDA J, 1990, J PHYS SOC JPN, V59, P4443, DOI 10.1143/JPSJ.59.4443
+   IKEDA N, 1995, J PHYS SOC JPN, V64, P4371, DOI 10.1143/JPSJ.64.4371
+   Ikeda N, 2005, NATURE, V436, P1136, DOI 10.1038/nature04039
+   KATO K, 1975, Z KRISTALLOGR, V141, P314, DOI 10.1524/zkri.1975.141.3-4.314
+   Kawaguchi Y, 1998, JPN J APPL PHYS 2, V37, pL966, DOI 10.1143/JJAP.37.L966
+   Kim D, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2713123
+   KIMIZUKA N, 1981, J SOLID STATE CHEM, V40, P109, DOI 10.1016/0022-4596(81)90368-6
+   KIMIZUKA N, 1990, HDB PHYSICS CHEM RAR, V13, P283, DOI 10.1016/S0168-1273(05)80133-3
+   KINZEL W, 1984, PHYS REV B, V29, P1300, DOI 10.1103/PhysRevB.29.1300
+   Krockenberger Y, 2008, APPL PHYS LETT, V93, DOI 10.1063/1.2976747
+   Kundu AK, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.144423
+   Matsuo Y, 2007, J MAGN MAGN MATER, V310, pE349, DOI 10.1016/j.jmmm.2006.10.330
+   Mydosh JA, 1993, SPIN GLASSES EXPT IN
+   Nomura K, 2003, SCIENCE, V300, P1269, DOI 10.1126/science.1083212
+   Nomura K, 2004, J APPL PHYS, V95, P5532, DOI 10.1063/1.1712010
+   Ohta H, 2003, ADV FUNCT MATER, V13, P139, DOI 10.1002/adfm.200390020
+   Rinn B, 2000, PHYS REV LETT, V84, P5403, DOI 10.1103/PhysRevLett.84.5403
+   Schmool DS, 1999, J APPL PHYS, V86, P5712, DOI 10.1063/1.371583
+   Seki M, 2005, J APPL PHYS, V97, DOI 10.1063/1.1863422
+   Sun Y, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.167206
+   Xiang HJ, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.246403
+   Yoshii K, 2007, J MAGN MAGN MATER, V310, P1154, DOI 10.1016/j.jmmm.2006.10.327
+   Yoshii K, 2008, INORG CHEM, V47, P6493, DOI 10.1021/ic702365k
+   Yoshii K, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.024423
+NR 31
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-0248
+J9 J CRYST GROWTH
+JI J. Cryst. Growth
+PD JUL 15
+PY 2010
+VL 312
+IS 15
+BP 2273
+EP 2278
+DI 10.1016/j.jcrysgro.2010.04.042
+PG 6
+WC Crystallography; Materials Science, Multidisciplinary; Physics, Applied
+SC Crystallography; Materials Science; Physics
+GA 619DL
+UT WOS:000279409300018
+ER
+
+PT J
+AU Lorusso, GF
+   Goethals, AM
+   Jonckheere, R
+   Hermans, J
+   Ronse, K
+   Myers, AM
+   Niroomand, A
+   Kim, I
+   Niroomand, A
+   Iwamoto, F
+   Ritter, D
+AF Lorusso, G. F.
+   Goethals, A. M.
+   Jonckheere, R.
+   Hermans, J.
+   Ronse, K.
+   Myers, A. M.
+   Niroomand, A.
+   Kim, I.
+   Niroomand, A.
+   Iwamoto, F.
+   Ritter, D.
+TI Extreme ultraviolet lithography at IMEC: Shadowing compensation and
+   flare mitigation strategy
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B
+LA English
+DT Article; Proceedings Paper
+CT 51st International Conference on Electron, Ion, and Photon Beam
+   Technology and Nanofabrication
+CY MAY 29-JUN 01, 2007
+CL Denver, CO
+ID IMAGE
+AB The extreme ultraviolet lithography (EUVL) program at IMEC is aimed to tackle many unsolved critical issues of EUV lithography as the technology moves towards production, by focusing specifically on tool, resist, and mask projects. Here, the authors describe the structure of the IMEC EUVL program and the status of the EUV alpha demo tool. In particular, they discuss their proposed strategies for flare mitigation and shadowing effect correction. They demonstrate how it is possible to implement an effective rule-based flare mitigation strategy. In addition, they propose a relatively simple methodology to fully compensate for shadowing pattern placement error and critical dimension bias. (c) 2007 American Vacuum Society.
+C1 Intel Corp, Hillsboro, OR 97124 USA.
+   Samsung Elect, Yongin 499711, South Korea.
+   Micron Technol Inc, Idaho Falls, ID 83716 USA.
+   Matsushita Elect Ind Co Ltd, Minami Ku, Kyoto 6018413, Japan.
+   SIGMA C Software AG, D-81737 Munich, Germany.
+RP Lorusso, GF (reprint author), IMEC, Kapeldreef 75, B-3001 Louvain, Belgium.
+EM lorusso@imec.be
+CR Bollepalli SB, 1999, J VAC SCI TECHNOL B, V17, P2992, DOI 10.1116/1.590941
+   Goethals A. M., 2007, P SOC PHOTO-OPT INS, V3838
+   HARNED N, 2007, P SOC PHOTO-OPT INS, V3838, P51706
+   Krautschik C, 2003, P SOC PHOTO-OPT INS, V5037, P58, DOI 10.1117/12.482344
+   Krautschik C, 2002, P SOC PHOTO-OPT INS, V4688, P289, DOI 10.1117/12.472302
+   MICKAN U, 2005, UNP P EMLC
+   Otaki K, 2000, JPN J APPL PHYS 1, V39, P6819, DOI 10.1143/JJAP.39.6819
+   Pistor TV, 2000, P SOC PHOTO-OPT INS, V4000, P228, DOI 10.1117/12.389012
+   Schellenberg FM, 2005, P SOC PHOTO-OPT INS, V5751, P320, DOI 10.1117/12.599999
+   Sugawara M, 2003, J VAC SCI TECHNOL B, V21, P2701, DOI 10.1116/1.1624264
+NR 10
+TC 18
+Z9 18
+PU A V S AMER INST PHYSICS
+PI MELVILLE
+PA STE 1 NO 1, 2 HUNTINGTON QUADRANGLE, MELVILLE, NY 11747-4502 USA
+SN 1071-1023
+J9 J VAC SCI TECHNOL B
+JI J. Vac. Sci. Technol. B
+PD NOV
+PY 2007
+VL 25
+IS 6
+BP 2127
+EP 2131
+DI 10.1116/1.2781516
+PG 5
+WC Engineering, Electrical & Electronic; Nanoscience & Nanotechnology;
+   Physics, Applied
+SC Engineering; Science & Technology - Other Topics; Physics
+GA 240UA
+UT WOS:000251611900072
+ER
+
+PT J
+AU Goethals, AM
+   Jonckheere, R
+   Lorusso, GF
+   Hermans, J
+   Van Roey, F
+   Myers, A
+   Niroomand, A
+   Kim, I
+   Iwamoto, F
+   Stepanenko, N
+   Ronse, K
+AF Goethals, A. M.
+   Jonckheere, R.
+   Lorusso, G. F.
+   Hermans, J.
+   Van Roey, F.
+   Myers, A.
+   Niroomand, A.
+   Kim, I.
+   Iwamoto, F.
+   Stepanenko, N.
+   Ronse, K.
+TI Status of EUV lithography at IMEC
+SO JOURNAL OF PHOTOPOLYMER SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE EUV lithography; EUV resists; interference lithography; EUV reticles;
+   defect printability; shadowing effect; flare mitigation
+ID EXTREME-ULTRAVIOLET LITHOGRAPHY; INTERFERENCE LITHOGRAPHY; RESISTS;
+   IMAGE; FLARE
+AB IMEC has started an EUV lithography research program based on ASMLs EUV full field scanner, the Alpha Demo Tool (ADT). The intent of this program is to help improve and establish the necessary mask and resist infrastructure, and achieve learning to prepare for the use of EUV lithography in future production of integrated circuits. The program focuses on three main projects: EUV resists, EUV reticles and assessment of the ADT performance. In this paper, the status and the progress of each of the projects is reviewed. In preparation for a resist process for the ADT, interference lithography has been used to track the progress of resist performance. Good progress in resist performance is illustrated by the ability of some materials to resolve 25nm HP. In its initial phase, the reticle project has concentrated on working with the mask and blank suppliers to assure timely availability of reticles for the ADT. An overview is given of reticle related activities, as well as first results of a defect printability study by simulation. In the ADT assessment project, simulation studies are reported aimed at the development of optical correction for flare and reticle shadowing effects. The impact of flare and shadowing effects are well understood and strategies for flare mitigation and shadowing effect correction are proposed.
+C1 IMEC, B-3001 Louvain, Belgium.
+RP Goethals, AM (reprint author), IMEC, Kapeldreef 75, B-3001 Louvain, Belgium.
+CR Bollepalli SB, 1999, J VAC SCI TECHNOL B, V17, P2992, DOI 10.1116/1.590941
+   CHANDHOK, 2006, Patent No. 7022443
+   Chandhok M, 2004, J VAC SCI TECHNOL B, V22, P2966, DOI 10.1116/1.1824068
+   Chandhok M, 2004, P SOC PHOTO-OPT INS, V5374, P86, DOI 10.1117/12.536024
+   CHANDHOK M, 2004, P SOC PHOTO-OPT INS, V5037, P58
+   DERSCH U, 2005, EUVL S
+   Goethals AM, 2006, J PHOTOPOLYM SCI TEC, V19, P501, DOI 10.2494/photopolymer.19.501
+   Goethals AM, 2007, P SOC PHOTO-OPT INS, V6517, P51709, DOI 10.1117/12.710798
+   Gronheid R, 2006, MICROELECTRON ENG, V83, P1103, DOI 10.1016/j.mee.2006.01.149
+   Harned N, 2007, P SOC PHOTO-OPT INS, V6517, P51706, DOI 10.1117/12.712065
+   JONCKHEERE R, 2007, IN PRESS EMLC GRENOB
+   LAMMERS JH, 2007, P SPIE, V6519
+   LOWISCH M, 2006, Patent No. 7042550
+   Meiling H, 2006, PROC SPIE, V6154, pXLV, DOI 10.1117/12.657348
+   MICKAN U, 2005, EMLC
+   Otaki K, 2000, JPN J APPL PHYS 1, V39, P6819, DOI 10.1143/JJAP.39.6819
+   PISTOR TV, 2000, SPIE, V4000, P228
+   RAU J, 2004, Patent No. 6707123
+   SCHWARZL S, 2005, Patent No. 6872495
+   Solak HH, 2003, MICROELECTRON ENG, V67-8, P56, DOI 10.1016/S0167-9317(03)00059-5
+   Sugawara M, 2003, J VAC SCI TECHNOL B, V21, P2701, DOI 10.1116/1.1624264
+   Van Steenwinckel D, 2005, P SOC PHOTO-OPT INS, V5753, P269, DOI 10.1117/12.598677
+NR 22
+TC 20
+Z9 20
+PU TECHNICAL ASSOC PHOTOPOLYMERS,JAPAN
+PI CHIBA
+PA CHIBA UNIV, FACULTY ENGINEERING, YAYOICHO, CHIBA, 263-8522, JAPAN
+SN 0914-9244
+J9 J PHOTOPOLYM SCI TEC
+JI J. Photopolym Sci. Technol.
+PY 2007
+VL 20
+IS 3
+BP 383
+EP 392
+DI 10.2494/photopolymer.20.383
+PG 10
+WC Polymer Science
+SC Polymer Science
+GA 187YQ
+UT WOS:000247885700009
+ER
+
+PT J
+AU Goto, M
+   Iwamoto, F
+   de Aquino, VM
+   Aguilera-Navarro, VC
+   Kobe, DH
+AF Goto, M
+   Iwamoto, F
+   de Aquino, VM
+   Aguilera-Navarro, VC
+   Kobe, DH
+TI Relationship between dwell, transmission and reflection tunnelling times
+SO JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL
+LA English
+DT Article
+ID TRAVERSAL TIME; CAUSAL INTERPRETATION; QUANTUM-MECHANICS; BARRIER; LIMIT
+AB The transmission tunnelling time through a barrier is often defined as the probability that the particle is in the barrier divided by the transmission probability current density. The dwell time, the time the particle stays in the barrier, is commonly defined as the probability that the particle is in the barrier divided by the incident probability current density. We define the reflection tunnelling time in a similar way by dividing the probability that the particle is in the barrier by the reflection current density. By conservation of probability, the reciprocal of the dwell time is equal to the sum of the reciprocals of the transmission and reflection times. This relation is illustrated by calculating the different tunnelling times for a rectangular barrier.
+C1 Univ Estadual Londrina, Dept Fis, CCE, BR-86051990 Londrina, PR, Brazil.
+   Univ Estadual Ctr Oeste, Dept Quim Fis, BR-85015430 Guarapuava, PR, Brazil.
+   Univ N Texas, Dept Phys, Denton, TX 76203 USA.
+RP Goto, M (reprint author), Univ Estadual Londrina, Dept Fis, CCE, BR-86051990 Londrina, PR, Brazil.
+CR Balcou P, 1997, PHYS REV LETT, V78, P851, DOI 10.1103/PhysRevLett.78.851
+   BOHM D, 1951, QUANTUM THEORY, P290
+   BROUARD S, 1993, EUROPHYS LETT, V22, P159, DOI 10.1209/0295-5075/22/3/001
+   BROUARD S, 1994, PHYS REV A, V49, P4312, DOI 10.1103/PhysRevA.49.4312
+   BUTTIKER M, 1985, PHYS SCRIPTA, V32, P429, DOI 10.1088/0031-8949/32/4/031
+   BUTTIKER M, 1983, PHYS REV B, V27, P6178, DOI 10.1103/PhysRevB.27.6178
+   CAHAY M, 1992, SUPERLATTICE MICROST, V11, P113, DOI 10.1016/0749-6036(92)90371-B
+   Chauvat D, 2000, PHYS REV LETT, V84, P71, DOI 10.1103/PhysRevLett.84.71
+   Chiao RY, 1997, PROG OPTICS, V37, P345, DOI 10.1016/S0079-6638(08)70341-X
+   DEMOURA MA, 1990, SOLID STATE COMMUN, V74, P353, DOI 10.1016/0038-1098(90)90501-2
+   GOLUB R, 1990, PHYS LETT A, V148, P27, DOI 10.1016/0375-9601(90)90568-9
+   HAGMANN MJ, 1993, SOLID STATE COMMUN, V86, P305, DOI 10.1016/0038-1098(93)90378-Z
+   HARTMAN TE, 1962, J APPL PHYS, V33, P3427, DOI 10.1063/1.1702424
+   HAUGE EH, 1989, REV MOD PHYS, V61, P917, DOI 10.1103/RevModPhys.61.917
+   Holland P. R., 1993, QUANTUM THEORY MOTIO
+   Jauho A.-P., 1992, HOT CARRIERS SEMICON, P121
+   JAYANNAVAR AM, 1987, PRAMANA, V29, P341, DOI 10.1007/BF02845770
+   Jonson M., 1991, QUANTUM TRANSPORT SE, P193
+   Kobe DH, 2001, PHYS REV A, V64
+   LANDAUER R, 1994, REV MOD PHYS, V66, P217, DOI 10.1103/RevModPhys.66.217
+   LEAVENS CR, 1993, SOLID STATE COMMUN, V85, P115, DOI 10.1016/0038-1098(93)90358-T
+   LEAVENS CR, 1990, SOLID STATE COMMUN, V74, P923, DOI 10.1016/0038-1098(90)90457-M
+   LEAVENS CR, 1995, PHYS LETT A, V197, P88, DOI 10.1016/0375-9601(94)00900-A
+   LEAVENS CR, 1993, BOHM TRAJECTORIES TU, P105
+   LEAVENS CR, 1987, SOLID STATE COMMUN, V63, P1101, DOI 10.1016/0038-1098(87)91057-X
+   LEAVENS CR, 1995, PHYS LETT A, V208, P17, DOI 10.1016/0375-9601(95)00717-H
+   LEAVENS CR, 1989, PHYS REV B, V39, P1202, DOI 10.1103/PhysRevB.39.1202
+   LEE B, 1993, SUPERLATTICE MICROST, V14, P295, DOI 10.1006/spmi.1993.1143
+   LIBOFF RL, 1998, INTRO QUANTUM MECH, P237
+   MUGA JG, 1992, PHYS LETT A, V167, P24, DOI 10.1016/0375-9601(92)90620-2
+   MUGA JG, 2002, TIME QUANTUM MECH, P40
+   OLKHOVSKY VS, 1992, PHYS REP, V214, P339, DOI 10.1016/0370-1573(92)90015-R
+   SMITH FT, 1960, PHYS REV, V118, P349, DOI 10.1103/PhysRev.118.349
+   SPILLER TP, 1990, EUROPHYS LETT, V12, P1, DOI 10.1209/0295-5075/12/1/001
+   STEINBERG AM, 1994, PHYS REV A, V49, P3283, DOI 10.1103/PhysRevA.49.3283
+   WIGNER EP, 1955, PHYS REV, V98, P145, DOI 10.1103/PhysRev.98.145
+NR 36
+TC 9
+Z9 9
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0305-4470
+J9 J PHYS A-MATH GEN
+JI J. Phys. A-Math. Gen.
+PD MAR 19
+PY 2004
+VL 37
+IS 11
+BP 3599
+EP 3606
+DI 10.1088/0305-4470/37/11/005
+PG 8
+WC Physics, Multidisciplinary; Physics, Mathematical
+SC Physics
+GA 809KU
+UT WOS:000220636400006
+ER
+
+PT J
+AU NAGAI, K
+   IWAMOTO, F
+AF NAGAI, K
+   IWAMOTO, F
+TI ROTON-ROTON SCATTERING AT LARGE TOTAL MOMENTUM
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID SUPERFLUID-HELIUM; EXCITATIONS
+AB We report a theoretical study of roton-roton scattering at large total momentum.  We show that the hybridization of the two-roton states with the single particle excitation can give rise to a strong energy dependence of the cross section as observed by Forbes and Wyatt in direct collisions between ballistic roton beams.
+C1 YAMAGUCHI UNIV,DEPT PHYS,YAMAGUCHI 753,JAPAN.
+   UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR COWLEY RA, 1971, CAN J PHYS, V49, P177
+   FOMIN IA, 1971, ZH EKSP TEOR FIZ+, V33, P637
+   FORBES AC, 1990, PHYS REV LETT, V64, P1393, DOI 10.1103/PhysRevLett.64.1393
+   GRAF EH, 1974, PHYS REV A, V10, P1748, DOI 10.1103/PhysRevA.10.1748
+   IWAMOTO F, 1990, IN PRESS AUG P NATO
+   MEZEI F, 1980, PHYS REV LETT, V44, P1601, DOI 10.1103/PhysRevLett.44.1601
+   Nagai K., 1972, Progress of Theoretical Physics, V47, DOI 10.1143/PTP.47.355
+   NAGAI K, 1978, J PHYS C SOLID STATE, V11, pL759, DOI 10.1088/0022-3719/11/18/004
+   NAMAIZAWA H, PREPRINT
+   PITAEVSKII LP, 1959, ZH EKSP TEOR FIZ, V9, P830
+   SMITH AJ, 1977, J PHYS C SOLID STATE, V10, P543, DOI 10.1088/0022-3719/10/4/011
+   SUNAKAWA S, 1969, PROG THEOR PHYS, V41, P919, DOI 10.1143/PTP.41.919
+   TUTTO I, 1973, J LOW TEMP PHYS, V11, P77, DOI 10.1007/BF00655038
+   TUTTO I, 1978, J PHYS C SOLID STATE, V11, pL385, DOI 10.1088/0022-3719/11/9/006
+   WATT AFG, 1990, IN PRESS AUG P NATO
+   ZAWADOWS.A, 1972, PHYS REV A, V5, P399, DOI 10.1103/PhysRevA.5.399
+NR 16
+TC 4
+Z9 4
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD FEB
+PY 1991
+VL 85
+IS 2
+BP 169
+EP 174
+DI 10.1143/PTP.85.169
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA FB827
+UT WOS:A1991FB82700001
+ER
+
+PT J
+AU HIRASHIMA, DS
+   YAMASHITA, T
+   IWAMOTO, F
+AF HIRASHIMA, DS
+   YAMASHITA, T
+   IWAMOTO, F
+TI 3-ROTON BOUND-STATES
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+RP HIRASHIMA, DS (reprint author), NAGOYA UNIV,DEPT PHYS,FURO CHO,CHIKUSA KU,NAGOYA 46401,JAPAN.
+CR ALDRICH CH, 1976, J LOW TEMP PHYS, V25, P677, DOI 10.1007/BF00657291
+   BEDELL K, 1984, PHYS REV B, V29, P102, DOI 10.1103/PhysRevB.29.102
+   BOHR A, 1969, NUCLEAR STRUCTURE, V1
+   FADDEEV LD, 1961, ZH EKSP TEOR FIZ, V12, P1014
+   FOMIN IA, 1971, ZH EKSP TEOR FIZ+, V33, P637
+   GREYTAK TJ, 1969, PHYS REV LETT, V22, P987, DOI 10.1103/PhysRevLett.22.987
+   Halley J.W., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   HALLEY JW, 1969, PHYS REV, V181, P338, DOI 10.1103/PhysRev.181.338
+   HIRASHIMA DS, 1986, PROG THEOR PHYS, V75, P744, DOI 10.1143/PTP.75.744
+   IWAMOTO F, 1970, PROG THEOR PHYS, V44, P1135, DOI 10.1143/PTP.44.1135
+   Iwamoto F., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   Landau L., 1947, Journal of Physics, V11
+   Landau L, 1941, J PHYS-USSR, V5, P71
+   LANDAU LD, 1948, ZH EKSP TEOR FIZ+, V12, P216
+   MITRA AN, 1962, NUCL PHYS, V32, P529, DOI 10.1016/0029-5582(62)90359-0
+   MURRAY CA, 1975, J PHYS C SOLID STATE, V8, pL90, DOI 10.1088/0022-3719/8/6/003
+   NAGAI K, 1973, PROG THEOR PHYS, V49, P46, DOI 10.1143/PTP.49.46
+   NAGAI K, 1978, J PHYS C SOLID STATE, V11, pL759, DOI 10.1088/0022-3719/11/18/004
+   OHBAYASHI K, 1989, ELEMENTARY EXCITATIO, P140
+   OHBAYASHI K, 1987, JPN J APPL PHYS S, P5
+   OHBAYASHI K, 1985, PHYS REV B, V31, P1324, DOI 10.1103/PhysRevB.31.1324
+   Ohbayashi K., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   OMNES RL, 1964, PHYS REV B, V134, P1358
+   PITAEVSKII LP, 1974, SOVIET PHYSICS JETP, V38, P1257
+   ROSE ME, 1957, ELEMENTARY THEORY AN
+   RUVALDS J, 1971, PHYS REV LETT, V27, P1769, DOI 10.1103/PhysRevLett.27.1769
+   RUVALDS J, 1970, PHYS REV LETT, V25, P333, DOI 10.1103/PhysRevLett.25.333
+   Ruvalds J., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   SMITH AJ, 1977, J PHYS C SOLID STATE, V10, P543, DOI 10.1088/0022-3719/10/4/011
+   TUTTO I, 1973, J LOW TEMP PHYS, V11, P77, DOI 10.1007/BF00655038
+   TUTTO I, 1978, J PHYS C SOLID STATE, V11, pL385, DOI 10.1088/0022-3719/11/9/006
+   WIGNER EP, 1948, PHYS REV, V73, P1002, DOI 10.1103/PhysRev.73.1002
+   WOODS ADB, 1977, J PHYS C SOLID STATE, V10, pL45, DOI 10.1088/0022-3719/10/3/002
+   ZAWADOWS.A, 1972, PHYS REV A, V5, P399, DOI 10.1103/PhysRevA.5.399
+   ZAWADOWSKI A, 1978, QUANTUM LIQUIDS, P293
+NR 35
+TC 0
+Z9 0
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0163-1829
+J9 PHYS REV B
+JI Phys. Rev. B
+PD DEC 1
+PY 1989
+VL 40
+IS 16
+BP 10891
+EP 10900
+DI 10.1103/PhysRevB.40.10891
+PG 10
+WC Physics, Condensed Matter
+SC Physics
+GA CD182
+UT WOS:A1989CD18200025
+ER
+
+PT J
+AU HASEGAWA, Y
+   USAGAWA, T
+   IWAMOTO, F
+AF HASEGAWA, Y
+   USAGAWA, T
+   IWAMOTO, F
+TI APPLICATION OF THE 5-DIMENSIONAL SPIN TO THE THEORY OF SUPERFLUID HE-31
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP HASEGAWA, Y (reprint author), UNIV TOKYO,COLL GEN EDUC,INST PHYS,TOKYO 153,JAPAN.
+CR ANDERSON PW, 1961, PHYS REV, V123, P1911, DOI 10.1103/PhysRev.123.1911
+   ANDERSON PW, 1973, PHYS REV LETT, V30, P1108, DOI 10.1103/PhysRevLett.30.1108
+   ANDERSON PW, 1958, PHYS REV, V112, P1900, DOI 10.1103/PhysRev.112.1900
+   BALIAN R, 1963, PHYS REV, V131, P1553, DOI 10.1103/PhysRev.131.1553
+   BARDEEN J, 1957, PHYS REV, V108, P1175, DOI 10.1103/PhysRev.108.1175
+   Bogolyubov N.N., 1958, Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki, V34
+   Czerwonko J., 1967, Acta Physica Polonica, V32
+   FLOWERS BH, 1964, P PHYS SOC LOND, V84, P673, DOI 10.1088/0370-1328/84/5/304
+   HELMERS K, 1961, NUCL PHYS, V23, P594, DOI 10.1016/0029-5582(61)90285-1
+   ICHIMURA M, 1968, PROG NUCL PHYS, V10, P307
+   ICHIMURA M, 1964, PROG THEOR PHYS, V32, P757, DOI 10.1143/PTP.32.757
+   LEGGETT AJ, 1974, ANN PHYS-NEW YORK, V85, P11, DOI 10.1016/0003-4916(74)90277-2
+   LEGGETT AJ, 1975, REV MOD PHYS, V47, P331, DOI 10.1103/RevModPhys.47.331
+   LEGGETT AJ, 1977, ANN PHYS-NEW YORK, V106, P79, DOI 10.1016/0003-4916(77)90005-7
+   SERENE JW, 1977, QUANTUM FLUIDS SOLID, P111
+   WADA Y, 1958, PROG THEOR PHYS, V19, P597, DOI 10.1143/PTP.19.597
+NR 16
+TC 11
+Z9 11
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1979
+VL 62
+IS 6
+BP 1458
+EP 1474
+DI 10.1143/PTP.62.1458
+PG 17
+WC Physics, Multidisciplinary
+SC Physics
+GA JF706
+UT WOS:A1979JF70600002
+ER
+
+EF

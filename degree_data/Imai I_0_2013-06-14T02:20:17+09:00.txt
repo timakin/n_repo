@@ -1,0 +1,1124 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Matsuno, K
+   Yamaguchi, A
+   Shimada, K
+   Imai, I
+AF Matsuno, Kohei
+   Yamaguchi, Atsushi
+   Shimada, Koji
+   Imai, Ichiro
+TI Horizontal distribution of calanoid copepods in the western Arctic Ocean
+   during the summer of 2008
+SO POLAR SCIENCE
+LA English
+DT Article
+DE Calanus glacialis; Copepod community; Metridia longa; Pacific water;
+   Pseudocalanus spp.
+ID ACUSPES GIESBRECHT COPEPODA; HIGH-LATITUDE COPEPODS; NORTHERN BERING
+   SEA; CENTRAL BALTIC SEA; PELAGIC FOOD WEBS; VERTICAL-DISTRIBUTION;
+   PSEUDOCALANUS-ACUSPES; GREENLAND-SEA; LIFE-CYCLE; ZOOPLANKTON
+   DISTRIBUTION
+AB The horizontal distribution of the epipelagic zooplankton communities in the western Arctic Ocean was studied during August October 2008. Zooplankton abundance and biomass were higher in the Chukchi Sea, and ranged from 3,000 to 274,000 ind. m(-2) and 5-678 g WM m(-2), respectively. Copepods were the most dominant taxa and comprised 37-94% of zooplankton abundance. For calanoid copepods, 30 species belonging to 20 genera were identified. Based on the copepod abundance, their communities were classified into three groups using a cluster analysis. The horizontal distribution of each group was well synchronized with depth zones, defined here as Shelf, Slope and Basin. Neritic Pacific copepods were the dominant species in the Shelf zone. Arctic copepods were substantially greater in the Slope zone than the other regions. Mesopelagic copepods were greater in the Basin zone than the other regions. Stage compositions of large-sized Arctic copepods (Calanus glacialis and Metridia longa) were characterized by the dominance of late copepodid stages in the Basin. Both the abundance and stage compositions of large copepods corresponded well with Chl. a concentrations in each region, with high Chl. a in the Shelf and Slope supporting reproduction of copepods resulting in high abundance dominated by early copepodid stages. (C) 2012 Elsevier B.V. and NIPR. All rights reserved.
+C1 Hokkaido Univ, Lab Marine Biol, Grad Sch Fisheries Sci, Hakodate, Hokkaido 0418611, Japan.
+   Tokyo Univ Marine Sci & Technol, Dept Ocean Sci, Fac Marine Sci, Minato Ku, Tokyo 1088477, Japan.
+RP Matsuno, K (reprint author), Hokkaido Univ, Lab Marine Biol, Grad Sch Fisheries Sci, 3-1-1 Minatomachi, Hakodate, Hokkaido 0418611, Japan.
+EM k.matsuno@fish.hokudai.ac.jp
+RI Yamaguchi, Atsushi/A-8613-2012
+FU Japan Society for the Promotion Science [21780173, 234167]
+FX We thank Dr. Evan Howell (NOAA) and Dr. Tom Hirawake (Hokkaido
+   University) for providing valuable comments on an earlier draft of this
+   manuscript. We thank the captain, officers and crews of the R.V. Mirai
+   for their help in zooplankton sampling and hydrographic data collection.
+   This study was supported by Grant-in-Aid for Young Scientists (B)
+   21780173 and JSPS Fellows (234167) by Japan Society for the Promotion
+   Science. Comments from two anonymous reviewers were valuable in the
+   revision of this manuscript.
+CR Ashjian CJ, 2003, DEEP-SEA RES PT I, V50, P1235, DOI 10.1016/S0967-0637(03)00129-8
+   Auel H, 2002, MAR BIOL, V140, P1013, DOI 10.1007/s00227-001-0775-4
+   BAMSTEDT U, 1984, J PLANKTON RES, V6, P843, DOI 10.1093/plankt/6.5.843
+   BARTHEL KG, 1988, MEERESFORSCHUNG, V32, P92
+   BRAY J. ROGER, 1957, ECOL MONOGR, V27, P325, DOI 10.2307/1942268
+   Brodsky K.A., 1967, CALANOIDA FAR E SEAS
+   Campbell RG, 2009, DEEP-SEA RES PT II, V56, P1274, DOI 10.1016/j.dsr2.2008.10.027
+   Coachman L. K., 1961, ARCTIC, V14, P147
+   Comiso JC, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2007GL031972
+   Conover R.J., 1991, Journal of Marine Systems, V2, P1, DOI 10.1016/0924-7963(91)90011-I
+   Cota GF, 1996, MAR ECOL PROG SER, V135, P247, DOI 10.3354/meps135247
+   DAWSON JK, 1978, LIMNOL OCEANOGR, V23, P950
+   Falk-Petersen S, 1999, J PLANKTON RES, V21, P1249, DOI 10.1093/plankt/21.7.1249
+   Falk-Petersen S, 2009, MAR BIOL RES, V5, P18, DOI 10.1080/17451000802512267
+   FIELD JG, 1982, MAR ECOL PROG SER, V8, P37, DOI 10.3354/meps008037
+   FROST BW, 1989, CAN J ZOOL, V67, P525
+   GRAINGER EH, 1959, J FISH RES BOARD CAN, V16, P453
+   GRONVIK S, 1984, J EXP MAR BIOL ECOL, V80, P93, DOI 10.1016/0022-0981(84)90096-0
+   HAQ SM, 1967, LIMNOL OCEANOGR, V12, P40
+   Hill V, 2005, DEEP-SEA RES PT II, V52, P3344, DOI 10.1016/j.dsr2.2005.10.001
+   Hirche HJ, 1996, POLAR BIOL, V16, P209, DOI 10.1007/BF02329209
+   Hopcroft RR, 2010, DEEP-SEA RES PT II, V57, P27, DOI 10.1016/j.dsr2.2009.08.003
+   Hunt GL, 2007, DEEP-SEA RES PT II, V54, P2453, DOI 10.1016/j.dsr2.2007.07.029
+   KINNEY P, 1970, J GEOPHYS RES, V75, P4097, DOI 10.1029/JC075i021p04097
+   Kosobokova K, 2000, DEEP-SEA RES PT I, V47, P2029, DOI 10.1016/S0967-0637(00)00015-7
+   Lane PVZ, 2008, J MARINE SYST, V70, P97, DOI 10.1016/j.jmarsys.2007.04.001
+   LONGHURST A, 1984, J PLANKTON RES, V6, P137, DOI 10.1093/plankt/6.1.137
+   Lowry Lloyd F., 2004, Journal of Cetacean Research and Management, V6, P215
+   MARIN V, 1987, DEEP-SEA RES, V34, P105, DOI 10.1016/0198-0149(87)90125-7
+   Markus T, 2009, J GEOPHYS RES-OCEANS, V114, DOI 10.1029/2009JC005436
+   Matsuno K, 2011, POLAR BIOL, V34, P1349, DOI 10.1007/s00300-011-0988-z
+   MCLAREN IA, 1989, CAN J ZOOL, V67, P552
+   MOTODA SIGERU, 1959, MEM FAC FISH HOKKAIDO UNIV, V7, P73
+   Nishino S, 2011, GEOPHYS RES LETT, V38, DOI 10.1029/2011GL047885
+   Nishino S, 2011, J OCEANOGR, V67, P305, DOI 10.1007/s10872-011-0030-7
+   NORRBIN MF, 1990, MAR BIOL, V105, P205, DOI 10.1007/BF01344288
+   NORRBIN MF, 1994, J PLANKTON RES, V16, P115, DOI 10.1093/plankt/16.2.115
+   Norrbin MF, 1996, MAR ECOL PROG SER, V142, P99, DOI 10.3354/meps142099
+   OMORI M, 1969, MAR BIOL, V3, P4, DOI 10.1007/BF00355587
+   Renz J, 2006, MAR BIOL, V148, P567, DOI 10.1007/s00227-005-0103-5
+   Renz J, 2007, MAR BIOL, V151, P515, DOI 10.1007/s00227-006-0510-2
+   RICHTER C, 1995, ICES J MAR SCI, V52, P533, DOI 10.1016/1054-3139(95)80067-0
+   Richter C., 1994, BER POLARFORSCH, V154, P1
+   Sell AF, 2001, LIMNOL OCEANOGR, V46, P953
+   Shimada K, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL025624
+   Shimada K, 2001, GEOPHYS RES LETT, V28, P3441, DOI 10.1029/2001GL013168
+   SPRINGER AM, 1993, CONT SHELF RES, V13, P575, DOI 10.1016/0278-4343(93)90095-F
+   SPRINGER AM, 1989, CONT SHELF RES, V9, P359, DOI 10.1016/0278-4343(89)90039-3
+   Stroeve J, 2007, GEOPHYS RES LETT, V34, DOI 10.1029/2007GL029703
+   Vinogradov ME, 1997, ADV MAR BIOL, V32, P1
+   Wassmann P, 2006, PROG OCEANOGR, V71, P232, DOI 10.1016/j.pocean.2006.10.003
+   Weaver W., 1949, MATH THEORY COMMUNIC
+   Woodgate RA, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2009GL041621
+   Yamaguchi Atsushi, 1997, Bulletin of Plankton Society of Japan, V44, P11
+   Yamaguchi Atsushi, 1998, Plankton Biology and Ecology, V45, P183
+NR 55
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1873-9652
+J9 POLAR SCI
+JI Polar Sci.
+PD APR
+PY 2012
+VL 6
+IS 1
+SI SI
+BP 105
+EP 119
+DI 10.1016/j.polar.2012.01.002
+PG 15
+WC Ecology; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA 094ZH
+UT WOS:000315303700010
+ER
+
+PT J
+AU Ueda, A
+   Nishibayashi, Y
+   Imai, I
+AF Ueda, A.
+   Nishibayashi, Y.
+   Imai, I.
+TI Development and evaluation of a diamond electron source for electron
+   beam instruments
+SO DIAMOND AND RELATED MATERIALS
+LA English
+DT Article; Proceedings Paper
+CT 19th European Conference on Diamond, Diamond-Like Materials, Carbon
+   Nanotubes, Nitrides and Silicon Garbide
+CY SEP 07-11, 2008
+CL Sitges, SPAIN
+DE Electron source; Electron beam; Electron emission; Energy spread
+ID FIELD-EMISSION
+AB Since diamonds indicated low or negative electron affinity, they have been expected to be high performance electron emitters. New diamond electron sources have been developed, which are configured for electron beam instruments such as electron beam lithography systems and electron microscopes. As a result of thermionic emission evaluations, an electron emission current of practical level (116 mu A at 600 degrees C) was obtained. The energy spread of an electron beam generated by thermionic emission was measured as 0.23 eV (FWHM), the value of which was lower than those of a lanthanum hexaborate (LaB(6)) cathode and a zirconium oxide/tungsten (ZrO/W) cathode measured together. The result of field emission evaluations, a practical beam current (459 pA) and stability (6% rms for 10 h) for scanning electron microscope (SEM) was achieved. The energy spread of a high-current electron beam of over 200 pA generated by field emission from a diamond emitter reached about the same as that of a cold field emission cathode made of tungsten. A scanning electron micrograph (SEM) with a diamond electron source having a tip of submicron order allowed measurement a resolution of 5 nm. It was found that unprecedentedly high-current and high-convergence electron sources could be generated by using diamonds. (C) 2009 Elsevier B.V. All rights reserved.
+C1 Sumitomo Elect Ind Ltd, Itami, Hyogo 6640016, Japan.
+RP Ueda, A (reprint author), Sumitomo Elect Ind Ltd, Itami, Hyogo 6640016, Japan.
+EM namba-akihiko@sei.co.jp
+CR Hata K, 2004, SURF INTERFACE ANAL, V36, P506, DOI 10.1002/sia.1729
+   HIMPSEL FJ, 1979, PHYS REV B, V20, P624, DOI 10.1103/PhysRevB.20.624
+   Kim HS, 1997, J APPL PHYS, V81, P461, DOI 10.1063/1.364081
+   Mackie WA, 2003, J VAC SCI TECHNOL B, V21, P1574, DOI 10.1116/1.1576764
+   Namba A., 2005, SEI TECH REV, V166, P38
+   NISHIBAYASHI Y, 2004, SEI TECHNICAL REV, V57, P31
+   Sugino T, 2002, APPL PHYS LETT, V80, P3602, DOI 10.1063/1.1477622
+   SWANSON LW, 1975, J VAC SCI TECHNOL, V12, P1228, DOI 10.1116/1.568503
+   SWANSON LW, 1984, ELECTRON OPTICAL SYS, P137
+   TATSUMI N, 2007, SEI TECH REV, V64, P15
+   Teraji T, 1999, JPN J APPL PHYS 2, V38, pL1096, DOI 10.1143/JJAP.38.L1096
+NR 11
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0925-9635
+J9 DIAM RELAT MATER
+JI Diam. Relat. Mat.
+PD MAY-AUG
+PY 2009
+VL 18
+IS 5-8
+BP 854
+EP 859
+DI 10.1016/j.diamond.2009.01.039
+PG 6
+WC Materials Science, Multidisciplinary
+SC Materials Science
+GA 467KG
+UT WOS:000267737000038
+ER
+
+PT J
+AU Sugawara, T
+   Yamashita, K
+   Asai, A
+   Nagao, A
+   Shiraishi, T
+   Imai, I
+   Hirata, T
+AF Sugawara, Tatsuya
+   Yamashita, Kyoko
+   Asai, Akira
+   Nagao, Akihiko
+   Shiraishi, Tomotaka
+   Imai, Ichiro
+   Hirata, Takashi
+TI Esterification of xanthophylls by human intestinal Caco-2 cells
+SO ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 15th International Symposium on Carotenoids
+CY JUN 22-27, 2008
+CL Okinawa, JAPAN
+DE Carotenoids; Astaxanthin; Fucoxanthin; Peridinin; Zeaxanthin; Intestinal
+   cells
+ID BETA-CRYPTOXANTHIN ESTERS; LIQUID-CHROMATOGRAPHY; CANCER CELLS;
+   CAROTENOIDS; ABSORPTION; PLASMA; BIOAVAILABILITY; FUCOXANTHINOL;
+   PREVENTION; INGESTION
+AB We recently found that peridinin, which is uniquely present in dinoflagellates, reduced cell viability by inducing apoptosis in human colon cancer cells. Peridinin is also found in edible clams and oysters because the major food sources of those shellfish are phytoplanktons such as dinoflagellates. Little is known, however, about the fate of dietary peridinin and its biological activities in mammals. The aim of the present study was to investigate the enzymatic esterification of xanthophylls, especially peridinin which is uniquely present in dinoflagellates, using differentiated cultures of Caco-2 human intestinal cells. We found that peridinin is converted to peridininol and its fatty acid esters in differentiated Caco-2 cells treated with 5 mu mol/L peridinin solubilized with mixed micelles. The cell homogenate was also able to deacetylate peridinin and to esterify peridininol. Other xanthophylls, Such as fucoxanthin, astaxanthin and zeaxanthin, were also esterified, but at relatively lower rates than peridinin. In this study, we found the enzymatic esterification of xanthophylls in mammalian intestinal cells for the first time. Our results suggest that the esterification of xanthophylls in intestinal cells is dependent oil their polarity. (C) 2008 Elsevier Inc. All rights reserved.
+C1 Kyoto Univ, Grad Sch Agr, Div Appl Biosci, Sakyo Ku, Kyoto 6068502, Japan.
+   Natl Food Res Inst, Tsukuba, Ibaraki 3058642, Japan.
+RP Sugawara, T (reprint author), Kyoto Univ, Grad Sch Agr, Div Appl Biosci, Sakyo Ku, Kyoto 6068502, Japan.
+EM sugawara@kais.kyoto-u.ac.jp
+CR Asai A, 2004, DRUG METAB DISPOS, V32, P205, DOI 10.1124/dmd.32.2.205
+   Bowen PE, 2002, J NUTR, V132, P3668
+   BOWEN PE, 1995, AM J CLIN NUTR, V62, pS1403
+   Breithaupt DE, 2002, COMP BIOCHEM PHYS B, V132, P721, DOI 10.1016/S1096-4959(02)00096-9
+   Breithaupt DE, 2004, BRIT J NUTR, V91, P707, DOI 10.1079/BJN20041105
+   Breithaupt DE, 2003, BRIT J NUTR, V90, P795, DOI 10.1079/BJN2003962
+   Chitchumroonchokcai C, 2006, J NUTR, V136, P588
+   Deming DM, 1999, PURE APPL CHEM, V71, P2213, DOI 10.1351/pac199971122213
+   Furr HC, 1997, J NUTR BIOCHEM, V8, P364, DOI 10.1016/S0955-2863(97)00060-0
+   Hof KHV, 2000, J NUTR, V130, P503
+   KHACHIK F, 1992, ANAL CHEM, V64, P2111, DOI 10.1021/ac00042a016
+   Kotake-Nara E, 2001, J NUTR, V131, P3303
+   Lin WC, 2005, J AGR FOOD CHEM, V53, P5144, DOI 10.1021/jf050664y
+   Maoka T, 2005, J AGR FOOD CHEM, V53, P8357, DOI 10.1021/jf058088t
+   Maoka T, 2001, J NAT PROD, V64, P578, DOI 10.1021/np000476w
+   Mayne ST, 1996, FASEB J, V10, P690
+   Pinto E, 2000, BIOCHEM BIOPH RES CO, V268, P496, DOI 10.1006/bbrc.2000.2142
+   SNODDERLY DM, 1995, AM J CLIN NUTR, V62, pS1448
+   Sugawara T, 2002, J NUTR, V132, P946
+   Sugawara T, 2007, BIOSCI BIOTECH BIOCH, V71, P1069, DOI 10.1271/bbb.60597
+   Sugawara T, 2001, J NUTR, V131, P2921
+   VANPOPPEL G, 1995, AM J CLIN NUTR, V62, pS1393
+   Werder M, 2001, BIOCHEMISTRY-US, V40, P11643, DOI 10.1021/bi0109820
+   Wingerath T, 1995, ARCH BIOCHEM BIOPHYS, V324, P385, DOI 10.1006/abbi.1995.0052
+NR 24
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0003-9861
+J9 ARCH BIOCHEM BIOPHYS
+JI Arch. Biochem. Biophys.
+PD MAR 15
+PY 2009
+VL 483
+IS 2
+BP 205
+EP 212
+DI 10.1016/j.abb.2008.10.007
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 428MB
+UT WOS:000264851300010
+ER
+
+PT J
+AU Ma, TL
+   Akiyama, M
+   Abe, E
+   Imai, I
+AF Ma, TL
+   Akiyama, M
+   Abe, E
+   Imai, I
+TI High-efficiency dye-sensitized solar cell based on a nitrogen-doped
+   nanostructured titania electrode
+SO NANO LETTERS
+LA English
+DT Article
+ID VISIBLE-LIGHT; PHOTOELECTROCHEMICAL PROPERTIES; TIO2 ELECTRODES; DIOXIDE
+   FILMS; SCATTERING; PHOTOCATALYSTS
+AB A highly efficient dye-sensitized solar cell (DSC) was fabricated using a nanocrystalline nitrogen-doped titania electrode. The properties of the nitrogen-doped titania powder, film, and solar cell were investigated. The substitution of oxygen sites with nitrogen atoms in the titania structure was confirmed by X-ray photoemission spectroscopy (XPS). The UV-vis spectrum of the nitrogen-doped powder and film showed a visible light absorption in the wavelength range from 400 to 535 nm. An enhancement of the incident photon-to-current conversion efficiency (IPCE) in the range of 380-520 nm and 550-750 nm was observed. An 8% overall conversion efficiency has been achieved. The results of the stability test indicated that the solar cell fabricated by the nitrogen-doped titania exhibited great stability.
+C1 Natl Inst Adv Ind Sci & Technol, AIST Kyushu, Tosu, Saga 8410052, Japan.
+   Toshiba Ceram Co Ltd, Res & Dev Ctr, Hadano, Kanagawa 2578566, Japan.
+RP Ma, TL (reprint author), Kyushu Univ, Dept Chem, Fac Sci, Chuo Ku, Ropponmatsu 4-2-1, Fukuoka 8108560, Japan.
+EM ma@chem.rc.kyushu-u.ac.jp
+CR Asahi R, 2001, SCIENCE, V293, P269, DOI 10.1126/science.1061051
+   Chen XB, 2004, J PHYS CHEM B, V108, P15446, DOI 10.1021/jp0469160
+   Chen XB, 2005, ADV FUNCT MATER, V15, P41, DOI 10.1002/adfm.200400184
+   Diwald O, 2004, J PHYS CHEM B, V108, P6004, DOI 10.1021/jp031267y
+   Diwald O, 2004, J PHYS CHEM B, V108, P52, DOI 10.1021/jp030529t
+   Ferber J, 1998, SOL ENERG MAT SOL C, V54, P265, DOI 10.1016/S0927-0248(98)00078-6
+   FUGGLE JC, 1978, SOLID STATE COMMUN, V27, P65, DOI 10.1016/0038-1098(78)90804-9
+   Gole JL, 2004, J PHYS CHEM B, V108, P1230, DOI 10.1021/jp.030843n
+   Gratzel M, 2000, PROG PHOTOVOLTAICS, V8, P171, DOI 10.1002/(SICI)1099-159X(200001/02)8:1<171::AID-PIP300>3.0.CO;2-U
+   Gyorgy E, 2003, SURF COAT TECH, V173, P265, DOI 10.1016/S0257-8972(03)00520-6
+   Ihara T, 2003, APPL CATAL B-ENVIRON, V42, P403, DOI 10.1016/S0926-3373(02)00269-2
+   INAKAMURA I, 2000, J MOL CATAL A-CHEM, V161, P205
+   Irie H, 2003, J PHYS CHEM B, V107, P5483, DOI 10.1021/jp030133h
+   Irie H, 2003, CHEM COMMUN, P1298, DOI 10.1039/b302975a
+   Lagemaat J., 2000, J PHYS CHEM B, V104, P2044
+   Lindgren T, 2003, J PHYS CHEM B, V107, P5709, DOI 10.1021/jp027345j
+   MA T, Patent No. 200593944
+   MA T, 2005, 22 INT C PHOT CAIRNS
+   MA T, 2003, AUT PUBL C COMB RES
+   Ma TL, 2003, ELECTROCHEM COMMUN, V5, P369, DOI 10.1016/S1388-2481(03)00070-5
+   Ma TL, 2002, J ELECTROANAL CHEM, V537, P31, DOI 10.1016/S0022-0728(02)01225-1
+   MIKI T, 1997, MOL ENERGY MAT SOL C, V48, P123
+   Mrowetz M, 2004, J PHYS CHEM B, V108, P17269, DOI 10.1021/jp0467090
+   NAZEERUDDIN MK, 1993, J AM CHEM SOC, V115, P6382, DOI 10.1021/ja00067a063
+   OREGAN B, 1991, NATURE, V353, P737, DOI 10.1038/353737a0
+   SAHA NC, 1992, J APPL PHYS, V72, P3072, DOI 10.1063/1.351465
+   Sakthivel S, 2003, CHEMPHYSCHEM, V4, P487, DOI 10.1002/cphc.200200554
+   Sayama K, 1998, CHEM MATER, V10, P3825, DOI 10.1021/cm980111l
+   Schlichthorl G, 1999, J PHYS CHEM B, V103, P782, DOI 10.1021/jp9831177
+   Usami A, 1997, CHEM PHYS LETT, V277, P105, DOI 10.1016/S0009-2614(97)00878-6
+   Usami A, 1999, SOL ENERG MAT SOL C, V59, P163, DOI 10.1016/S0927-0248(99)00068-9
+   WU HZ, 1990, THIN SOLID FILMS, V191, P55, DOI 10.1016/0040-6090(90)90274-H
+   ZHOU Z, 2003, KAGAKU SOCHI, V10, P64
+   *CMC, 2001, REC ADV RES DEV DYE
+NR 34
+TC 126
+Z9 137
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1530-6984
+J9 NANO LETT
+JI Nano Lett.
+PD DEC
+PY 2005
+VL 5
+IS 12
+BP 2543
+EP 2547
+DI 10.1021/nl0518851
+PG 5
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 998YY
+UT WOS:000234357000038
+ER
+
+PT J
+AU Yamada, H
+   Bitoh, A
+   Mitsuno, Y
+   Imai, I
+   Nomura, K
+   Kanayama, K
+   Nakagawa, S
+   Mawatari, Y
+   Yamasaki, H
+AF Yamada, H
+   Bitoh, A
+   Mitsuno, Y
+   Imai, I
+   Nomura, K
+   Kanayama, K
+   Nakagawa, S
+   Mawatari, Y
+   Yamasaki, H
+TI Measurement of critical current density of YBCO film by a mutual
+   inductive method using a drive coil with a sharp iron core
+SO PHYSICA C-SUPERCONDUCTIVITY AND ITS APPLICATIONS
+LA English
+DT Article
+DE superconducting film; critical current density; inductive measurement
+ID SUPERCONDUCTING FILMS; 3RD-HARMONIC VOLTAGE; THICK-FILMS; PINNING
+   CENTERS; C-AXIS; PLD
+AB Recent developments in high-temperature superconductors have facilitated the production of high critical current and large-area films by the PLD method or MOD method. Nondestructive measurement techniques for high quality films are of great importance to estimate superconducting properties, such as the critical current density, J(C). The inductive method using the third-harmonic voltage component, V-3, is a promising technique for the measurement of the properties of J(C). On inductive determination of J(C) for high-J(C) thin films and thicker films (thickness d >= 0.1 mm), the drive coil must generate a magnetic field sufficiently large to break the complete field shielding of the film. Therefore, we investigated a mutual inductance technique using a drive coil with a sharp ferromagnetic core for investigation of the J(C) of the PLD-YBCO film. As a result, an abrupt nonlinear increase in the voltage across the pick-up coil was detected after magnetic full penetration of the film, and the threshold of the drive current I-th was suppressed to 0.23-0.28 times as compared with that measured by the inductive method using the third-harmonic voltage, V-3. FEM analysis indicated the diameter of the excitation field region to be 0.6 mm in the case of a 0.4 mm phi iron core. The E-J characters measured by the mutual inductive method as a function of frequency agreed well with those measured by the inductive method using V-3. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Maizuru Natl Coll Technol, Kyoto 6258511, Japan.
+   Natl Inst Adv Ind Sci & Technol, Tsukuba Ctr 2, Tsukuba, Ibaraki 3058568, Japan.
+RP Yamada, H (reprint author), Maizuru Natl Coll Technol, 234 Aza Shiroya, Kyoto 6258511, Japan.
+EM yamada@maizuru-ct.ac.jp
+CR BEAN CP, 1962, PHYS REV LETT, V8, P250, DOI 10.1103/PhysRevLett.8.250
+   Berenov A, 2002, PHYSICA C, V372, P683, DOI 10.1016/S0921-4534(02)00831-6
+   CLAASSEN JH, 1991, REV SCI INSTRUM, V62, P996, DOI 10.1063/1.1141991
+   Develos-Bagarinao K, 2003, PHYSICA C, V392, P1229, DOI 10.1016/S0921-4534(03)01027-X
+   Develos-Bagarinao K, 2004, PHYSICA C, V412, P1286, DOI 10.1016/j.physc.2004.01.172
+   Fukumoto Y, 2004, PHYSICA C, V412, P1036, DOI [10.1016/j.physc.2004.02.209, 10.1016/j.physc.2004.2004.02.209]
+   HOCHMUTH H, 1994, PHYSICA C, V220, P209, DOI 10.1016/0921-4534(94)90903-2
+   Mawatari Y, 2002, APPL PHYS LETT, V81, P2424, DOI 10.1063/1.1510159
+   Mawatari Y, 2003, APPL PHYS LETT, V83, P3972, DOI 10.1063/1.1625423
+   SCHARNHO.P, 1970, PHYS REV B, V1, P4295, DOI 10.1103/PhysRevB.1.4295
+   Tokunaga Y, 2003, PHYSICA C, V392, P909, DOI 10.1016/S0921-4534(03)01150-X
+   Yamada H, 2004, SUPERCOND SCI TECH, V17, pS25, DOI 10.1088/0953-2048/17/2/056
+   Yamada H, 2004, SUPERCOND SCI TECH, V17, P58, DOI 10.1088/0953-2048/17/1/010
+   Yamasaki H, 2004, SUPERCOND SCI TECH, V17, P916, DOI 10.1088/0953-2048/17/7/015
+   Yamasaki H, 2003, APPL PHYS LETT, V82, P3275, DOI 10.1063/1.1571657
+NR 15
+TC 13
+Z9 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4534
+J9 PHYSICA C
+JI Physica C
+PD DEC 1
+PY 2005
+VL 433
+IS 1-2
+BP 59
+EP 64
+DI 10.1016/j.physc.2005.09.012
+PG 6
+WC Physics, Applied
+SC Physics
+GA 996HM
+UT WOS:000234165000009
+ER
+
+PT J
+AU Terashima, Y
+   Imai, I
+   Shimotsuma, Y
+   Sato, F
+   Mizuno, T
+AF Terashima, Y
+   Imai, I
+   Shimotsuma, Y
+   Sato, F
+   Mizuno, T
+TI A proposal of monitoring and testing for distributed object oriented
+   systems
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN PART I-COMMUNICATIONS
+LA English
+DT Article
+DE CORBA; IDL; software test; conformance test
+AB Recently, the development of systems consisting of objects developed with different installation methods has been expanding rapidly. In such development, systems become more complicated and reliability is decreased. Hence, it is important as the final stage of testing to verify the behavior of each object during the behavior of the entire system. In this paper, a system functionality test is proposed that evaluates object behavior during an operation without dependence on the installation architecture by using the IDL (Interface Definition Language) for interoperability. First, the weight reduction in the test and the treatment of the object behavior are explained. A test configuration for resolving these and a method of analyzing the trace of the effect and cause of object behavior by message tracing are explained. Also, the practicality of the test is described. It is shown that the individual installation architecture can be concealed in the development flow of the testing environment from the IDL specification. Finally, a quantitative evaluation and discussions are presented and effectiveness of the proposed method is verified. (C) 2003 Wiley Periodicals, Inc.
+C1 Mitsubishi Electr Corp, Informat Technol R&D Ctr, Kamakura, Kanagawa, Japan.
+   Mitsubishi Electr Corp, Commun Syst Business Div, Amanasaki 6618661, Japan.
+   Shizuoka Univ, Fac Informat, Hamamatsu, Shizuoka 4328011, Japan.
+RP Terashima, Y (reprint author), Mitsubishi Electr Corp, Informat Technol R&D Ctr, Kamakura, Kanagawa, Japan.
+CR Binder R.V., 1999, TESTING OBJECT ORIEN
+   FUJIWARA R, 2000, T IEICE A, V83, P188
+   HIROTA T, 1996, T IEICE, P707
+   JOYCE J, 1987, ACM T COMPUT SYST, V5, P121, DOI 10.1145/13677.22723
+   Kubota M., 1998, Transactions of the Information Processing Society of Japan, V39
+   NETZER RHB, 1994, 14 INT C DISTR COMP, P404, DOI 10.1109/ICDCS.1994.302444
+   NISHI Y, 2000, T IEICE D, P1070
+   Object Management Group, 1995, COMM OBJ REQ BROK AR
+   PAUW WD, OOP SLA 93, P326
+   Shinohara Y., 1997, Transactions of the Institute of Electronics, Information and  Communication Engineers A, VJ80-A
+   SIGAL S, 1999, OBJECT ORIENTED SOFT
+   TOJO H, 1999, T IEICE B, V82, P877
+   WATANABE H, 2000, T IEICE, P478
+NR 13
+TC 2
+Z9 2
+PU SCRIPTA TECHNICA-JOHN WILEY & SONS
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158 USA
+SN 8756-6621
+J9 ELECTRON COMM JPN 1
+JI Electron. Commun. Jpn. Pt. I-Commun.
+PY 2003
+VL 86
+IS 10
+BP 33
+EP 44
+DI 10.1002/ecja.10059
+PG 12
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA 676BY
+UT WOS:000182733100004
+ER
+
+PT J
+AU Kusunoki, K
+   Imai, I
+   Negi, T
+   Matsuda, N
+   Ushijima, K
+AF Kusunoki, K
+   Imai, I
+   Negi, T
+   Matsuda, N
+   Ushijima, K
+TI Proposal and evaluation of a method of remote access to FA controllers
+   via the Internet
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN PART I-COMMUNICATIONS
+LA English
+DT Article
+DE manufacturing line; controller; Internet; remote access
+AB In this paper, we propose a method of implementation of a remote access system to controllers in a manufacturing line via the Internet. In order to reduce development cost, we adopt the method of not modifying user interface-related programs in existing controller access software, but modifying communication processing programs in it. We designed three types of implementation methods according to the communication protocol translation between the controller access communication protocols and TCP/IP. From the qualitative analysis of these three methods, we determined that the TCP/IP data wrapping method is the best among the three implementations. This paper also describes our prototype implementation of a remote access system based on TCP/IP data wrapping method and evaluates the results of our proposed method. (C) 2002 Scripta Technica, Electron Comm Jpn.
+C1 Mitsubishi Electr Corp, Informat Technol R&D Ctr, Kamakura, Kanagawa 2470052, Japan.
+   Inst Syst & Informat Technol Kyushu, Fukuoka 8140001, Japan.
+RP Kusunoki, K (reprint author), Mitsubishi Electr Corp, Informat Technol R&D Ctr, Kamakura, Kanagawa 2470052, Japan.
+CR FIELDING R, 1997, HYPER TRANSFER PROTO
+   Itschner R, 1998, IEEE INTERNET COMPUT, V2, P46, DOI 10.1109/4236.683799
+   KRAWCZYK H, 1997, KEYED HASHING MESSAG
+   MYERS BA, P SIGCHI 92 HUM FACT, P195
+   SIMPSON W, 1992, POINT TO POINT PPP T
+   TERAMOTO K, 1999, 99MDP92 IPSJ, P97
+   *MITS EL CORP, Q6TEL MOD INT UN US
+   *MITS EL CORP, GPP FUNCT SOFW WIND
+   *MITS EL CORP, QNA Q4AR MELSECNET 1
+NR 9
+TC 0
+Z9 0
+PU SCRIPTA TECHNICA-JOHN WILEY & SONS
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158 USA
+SN 8756-6621
+J9 ELECTRON COMM JPN 1
+JI Electron. Commun. Jpn. Pt. I-Commun.
+PY 2002
+VL 85
+IS 6
+BP 23
+EP 32
+DI 10.1002/ecja.1101.abs
+PG 10
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA 527QT
+UT WOS:000174198600003
+ER
+
+PT J
+AU Yamada, T
+   Yamamoto, A
+   Fujioka, M
+   Miyagi, M
+   Saito, N
+   Imai, I
+   Otagiri, M
+AF Yamada, T
+   Yamamoto, A
+   Fujioka, M
+   Miyagi, M
+   Saito, N
+   Imai, I
+   Otagiri, M
+TI Characterization of urinary metabolites of a new benzofuroquinoline
+   derivative, 3,9-bis(N,N-dimethylcarbamoyloxy)-5
+   H-benzofuro[3,2-c]-quinoline-6-one (KCA-098), in dogs
+SO PHARMAZIE
+LA English
+DT Article
+ID BAMBUTEROL; PRODRUGS
+AB The metabolism of 3,9-bis(N,N-dimethylcarbamoyloxy)-5H-benzofuro[3,2-c]-quinoline-6-one (KCA-098), a new inhibitor of bone resorption and stimulator of bone formation, was examined after oral administration to dogs. Nine metabolites and the unchanged KCA-098 were isolated by extraction and HPLC from dog urine. The structures of these metabolites were characterized by LC/MS or LC/MS/MS, and/or were confirmed by comparison with corresponding authentic standards. The presumed main metabolic pathways were hydrolysis, hydroxylation, and N-demethylation of the N,N-dimethyl-carbamate ester group.
+C1 Kissei Pharmaceut Co Ltd, Cent Res Lab, Minamiazumi, Nagano 3998304, Japan.
+   Kumamoto Univ, Fac Pharmaceut Sci, Kumamoto 862, Japan.
+RP Yamada, T (reprint author), Kissei Pharmaceut Co Ltd, Cent Res Lab, 4365-1 Kashiwabara, Minamiazumi, Nagano 3998304, Japan.
+CR GEORGE CF, 1981, CLIN PHARMACOKINET, V6, P259, DOI 10.2165/00003088-198106040-00002
+   HANSEN KT, 1991, J PHARM SCI, V80, P793, DOI 10.1002/jps.2600800819
+   HODGSON E, 1961, BIOCHEM PHARMACOL, V8, P179, DOI 10.1016/0006-2952(61)90001-6
+   HOLLENBERG PF, 1985, DRUG METAB DISPOS, V13, P272
+   HUSSAIN MA, 1987, J PHARM SCI, V76, P356, DOI 10.1002/jps.2600760503
+   HUSSAIN MA, 1988, PHARMACEUT RES, V5, P44, DOI 10.1023/A:1015863412137
+   KOIKE M, 1987, DRUG METAB DISPOS, V15, P426
+   KOJIMA M, 1994, BIOL PHARM BULL, V17, P504
+   LINDBERG C, 1989, DRUG METAB DISPOS, V17, P311
+   MCMAHON RE, 1966, J PHARM SCI, V55, P457, DOI 10.1002/jps.2600550502
+   Olsson OA, 1984, PHARM RES, V1, P19, DOI 10.1023/A:1016322524471
+   OONNITHA.ES, 1968, J AGR FOOD CHEM, V16, P28, DOI 10.1021/jf60155a022
+   POND SM, 1984, CLIN PHARMACOKINET, V9, P1, DOI 10.2165/00003088-198409010-00001
+   SVENSSON LA, 1987, ACTA PHARM SUEC, V24, P333
+   THERSBERG S, 1987, J MED CHEM, V30, P2008
+   TSUTSUMI N, 1994, JPN J PHARMACOL, V65, P343, DOI 10.1254/jjp.65.343
+   TSUTSUMI N, 1994, BONE MINER, V24, P201, DOI 10.1016/S0169-6009(08)80137-7
+   TUNEK A, 1988, BIOCHEM PHARMACOL, V37, P3867, DOI 10.1016/0006-2952(88)90068-8
+   Yamada T, 1995, YAKUGAKU ZASSHI, V115, P978
+NR 19
+TC 2
+Z9 2
+PU GOVI-VERLAG GMBH
+PI ESCHBORN
+PA PHARMAZEUTISCHER VERLAG GINNHEIMER STRASSE 26, D-65760 ESCHBORN, GERMANY
+SN 0031-7144
+J9 PHARMAZIE
+JI Pharmazie
+PD SEP
+PY 1999
+VL 54
+IS 9
+BP 672
+EP 677
+PG 6
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA 239BX
+UT WOS:000082749900007
+ER
+
+PT J
+AU Ishibashi, K
+   Miyamoto, K
+   Taketani, Y
+   Morita, K
+   Takeda, E
+   Sasaki, S
+   Imai, I
+AF Ishibashi, K
+   Miyamoto, K
+   Taketani, Y
+   Morita, K
+   Takeda, E
+   Sasaki, S
+   Imai, I
+TI Molecular cloning of a second human stanniocalcin homologue (STC2)
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE stanniocalcin; Na-phosphate cotransporter; HYP mice; phosphatonin
+ID OSTEOMALACIA; CALCIUM; HORMONE; CDNA; GENE
+AB Stanniocalcin (STC) is a Ca- and phosphate-regulating hormone produced by the corpuscles of Stannius in bony fishes. The mammalian homologue of STC has recently been reported (STC1), which stimulates the phosphate uptake of kidney. Here we report the cloning of a second mammalian stanniocalcin (STC2) from the human osteosarcoma cDNA library. STC2 has 302 amino acid residues with 34% identity with STC1 and eel STC. STC2 has a conserved N-glycosylation site and is rich in cysteines as is the case with other stanniocalcins. STC2 has the same exon-intron boundaries as STC1. The culture medium of STC2-transfected CHO cells inhibited the promoter activity of Na-phosphate cotransporter (NaPi-3) and also inhibited the phosphate uptake of a kidney cell line (OK cells). Therefore, the function of STC2 seems to be opposite to that of STC1 on Na-phosphate cotransporter. Northern blot analysis revealed multiple transcripts in number of human tissues with high levels being present in skeletal muscle and heart. STC2 was also expressed in mice widely and its expression was lower in hypophosphatemic mice (Hyp mice) in many organs. We have cloned a widely expressed new human stanniocalcin homologue which suppressed the expression of renal Na-phosphate cotransporter. (C) 1998 Academic Press.
+C1 Jichi Med Sch, Dept Pharmacol, Tochigi 3290498, Japan.
+   Univ Tokushima, Sch Med, Dept Clin Nutr, Tokushima 7708503, Japan.
+   Tokyo Med & Dent Univ, Dept Internal Med 2, Tokyo 1138519, Japan.
+RP Ishibashi, K (reprint author), Jichi Med Sch, Dept Pharmacol, Tochigi 3290498, Japan.
+CR BIBER J, 1988, AM J PHYSIOL, V255, pC155
+   BONGA SEW, 1991, INT REV CYTOL, V128, P139, DOI 10.1016/S0074-7696(08)60499-4
+   Chang ACM, 1996, MOL CELL ENDOCRINOL, V124, P185, DOI 10.1016/S0303-7207(96)03929-9
+   CHANG ACM, 1995, MOL CELL ENDOCRINOL, V112, P241, DOI 10.1016/0303-7207(95)03601-3
+   Chang ACM, 1998, GENOMICS, V47, P393, DOI 10.1006/geno.1997.5120
+   ECONS MJ, 1994, NEW ENGL J MED, V330, P1679, DOI 10.1056/NEJM199406093302310
+   ELLIS TJ, 1995, J BIOL CHEM, V270, P1960
+   KYTE J, 1982, J MOL BIOL, V157, P105, DOI 10.1016/0022-2836(82)90515-0
+   Lennon G, 1996, GENOMICS, V33, P151, DOI 10.1006/geno.1996.0177
+   Lipman ML, 1998, J BIOL CHEM, V273, P13729, DOI 10.1074/jbc.273.22.13729
+   Madsen KL, 1998, AM J PHYSIOL-GASTR L, V274, pG96
+   Nelson AE, 1996, MOL CELL ENDOCRINOL, V124, P17, DOI 10.1016/S0303-7207(96)03928-7
+   NIU PD, 1998, MOL CELL ENDOCRINOL, V137, P155
+   Olsen HS, 1996, P NATL ACAD SCI USA, V93, P1792, DOI 10.1073/pnas.93.5.1792
+   Taketani Y, 1998, J BIOL CHEM, V273, P14575, DOI 10.1074/jbc.273.23.14575
+   Taketani Y, 1997, BIOCHEM J, V324, P927
+   FRANCIS F, 1995, NAT GENET, V11, P130, DOI 10.1038/ng1095-130
+   Wagner GF, 1998, AM J PHYSIOL-REG I, V274, pR1177
+   WAGNER GF, 1992, MOL CELL ENDOCRINOL, V90, P7, DOI 10.1016/0303-7207(92)90095-N
+   Wagner GF, 1997, J BONE MINER RES, V12, P165, DOI 10.1359/jbmr.1997.12.2.165
+NR 20
+TC 69
+Z9 71
+PU ACADEMIC PRESS INC
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD SEP 18
+PY 1998
+VL 250
+IS 2
+BP 252
+EP 258
+DI 10.1006/bbrc.1998.9300
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 122TR
+UT WOS:000076088000012
+ER
+
+PT J
+AU Hakamada, T
+   Imai, I
+   Ishimura, N
+AF Hakamada, T
+   Imai, I
+   Ishimura, N
+TI Analytical approach to estimating the dimension of attractors
+SO APPLIED MATHEMATICS AND OPTIMIZATION
+LA English
+DT Article
+DE strange attractor; Hausdorff dimension; Kaplan-Yorke-type estimate
+ID COMPLEX LORENTZ EQUATIONS; LYAPUNOV EXPONENTS; STRANGE ATTRACTORS;
+   TIME-SERIES
+AB A mathematically rigorous procedure to estimate the Hausdorff dimension of the attractor is given. The method is based on invoking the Kaplan-Yorke-type estimate, through extending the argument of Constantin, Foias, and Temam.
+C1 UNIV TOKUSHIMA,FAC ENGN,TOKUSHIMA 770,JAPAN.
+RP Hakamada, T (reprint author), UNIV TOKYO,DEPT MATH SCI,TOKYO 113,JAPAN.
+CR Constantin P., 1985, MEM AM MATH SOC, V53
+   CONSTANTIN P, 1985, COMMUN PUR APPL MATH, V38, P1, DOI 10.1002/cpa.3160380102
+   EDEN A, 1991, J DYN DIFFER EQU, V3, P133, DOI 10.1007/BF01049491
+   FARMER JD, 1983, PHYSICA D, V7, P153, DOI 10.1016/0167-2789(83)90125-2
+   FOWLER AC, 1982, PHYSICA D, V4, P139, DOI 10.1016/0167-2789(82)90057-4
+   GIBBON JD, 1982, PHYSICA D, V5, P108, DOI 10.1016/0167-2789(82)90053-7
+   GRASSBERGER P, 1983, PHYSICA D, V9, P189, DOI 10.1016/0167-2789(83)90298-1
+   GRASSBERGER P, 1984, PHYSICA D, V13, P34, DOI 10.1016/0167-2789(84)90269-0
+   HATTORI Y, 1993, JAPAN J IND APPL MAT, V10, P351
+   ISHIMURA N, 1994, ADV MATH SCI APPL, V4, P241
+   Kaplan J. L., 1979, LECT NOTES MATH, V730, P204
+   LEDRAPPIER F, 1981, COMMUN MATH PHYS, V81, P229, DOI 10.1007/BF01208896
+   LORENZ EN, 1963, J ATMOS SCI, V20, P130, DOI 10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2
+   SANO M, 1985, PHYS REV LETT, V55, P1082, DOI 10.1103/PhysRevLett.55.1082
+   SHIMADA I, 1979, PROG THEOR PHYS, V61, P1605, DOI 10.1143/PTP.61.1605
+   Temam R., 1988, INFINITE DIMENSIONAL
+   WOLF A, 1985, PHYSICA D, V16, P285, DOI 10.1016/0167-2789(85)90011-9
+   Young L-S, 1982, ERGOD THEOR DYN SYST, V2, P109
+NR 18
+TC 0
+Z9 0
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0095-4616
+J9 APPL MATH OPT
+JI Appl. Math. Optim.
+PD JUL-AUG
+PY 1996
+VL 34
+IS 1
+BP 29
+EP 36
+DI 10.1007/BF01182471
+PG 8
+WC Mathematics, Applied
+SC Mathematics
+GA UM333
+UT WOS:A1996UM33300002
+ER
+
+PT J
+AU IMAI, I
+AF IMAI, I
+TI THE PARABOLICITY OF BRELOTS HARMONIC SPACES
+SO JOURNAL OF THE AUSTRALIAN MATHEMATICAL SOCIETY SERIES A-PURE MATHEMATICS
+   AND STATISTICS
+LA English
+DT Article
+ID POSITIVE SOLUTIONS
+AB The parabolicity of Brelot's harmonic spaces is characterized by the fact that every positive harmonic function is of minimal growth at the ideal boundary.
+RP IMAI, I (reprint author), DAIDO INST TECHNOL,DEPT MATH,NAGOYA,AICHI 457,JAPAN.
+CR AGMON S, 1982, METHODS FUNCTIONAL A, P19
+   CONSTANTINESCU C., 1972, POTENTIAL THEORY HAR
+   HERVE R. M, 1962, ANN I FOURIER, V12, P415
+   LAHTINEN A, 1973, ANN ACAD SCI FENN A1, V546
+   LOEB PA, 1966, ANN I FOURIER, V16, P167
+   MAEDA FY, 1980, LECTURE NOTES MATH, V803
+   MURATA M, 1986, DUKE MATH J, V53, P869, DOI 10.1215/S0012-7094-86-05347-0
+   MURATA M, 1986, ISOLATED SINGULARITI
+   NAKAI M, 1991, B NAGOYA I TECH, V43, P137
+   PINCHOVER Y, 1988, DUKE MATH J, V57, P955, DOI 10.1215/S0012-7094-88-05743-2
+   Sario L., 1970, CLASSIFICATION THEOR
+NR 11
+TC 0
+Z9 0
+PU AUSTRALIAN MATHEMATICS PUBL ASSOC INC
+PI CANBERRA
+PA MATHEMATICS DEPT AUSTRALIAN NATIONAL UNIV, CANBERRA ACT 0200, AUSTRALIA
+SN 0263-6115
+J9 J AUST MATH SOC A
+JI J. Aust. Math. Soc. A-Pure Math. Stat.
+PD AUG
+PY 1995
+VL 59
+BP 20
+EP 27
+PN Part 1
+PG 8
+WC Mathematics; Statistics & Probability
+SC Mathematics
+GA RR736
+UT WOS:A1995RR73600003
+ER
+
+PT J
+AU KAWAI, T
+   YOSHIDA, I
+   IMAI, I
+AF KAWAI, T
+   YOSHIDA, I
+   IMAI, I
+TI EQUI-PARTITION OF OUTFLOW OF JOULE HEAT GENERATED IN A HOMOGENEOUS BODY
+   OF ARBITRARY SHAPE
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE JOULE HEAT; HEAT CONDUCTION; PELTIER COOLING DEVICE; EQUI-PARTITION;
+   FRACTION OF HEAT OUTFLOW
+AB Joule's heat generated in a homogeneous body of arbitrary shape flows out just equally through each of two electrodes, when the body is isolated from the environment both electrically and thermally except at the electrodes, which are attached onto the surface of the body. This ''Theorem of equi-partition of Joule's heat'' holds even when both electrical and thermal conductivity of the material vary with temperature in an arbitrary way.
+C1 IWAKI MEISEI UNIV,DEPT MAT SCI,IWAKI,FUKUSHIMA 970,JAPAN.
+RP KAWAI, T (reprint author), KEIO UNIV,DEPT PHYS,TOKYO 160,JAPAN.
+CR EGLI PH, 1958, THERMOELECTRICITY, pCH3
+   IMAI I, 1973, FLUID DYNAMICS
+   Ioffe A. F., 1957, SEMICONDUCTOR THERMO
+   POLLOCK DD, 1985, THERMOELECTRICITY, pCH11
+   ROWE DM, 1938, MODERN THERMOELECTRI, P8
+NR 5
+TC 1
+Z9 1
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD MAR
+PY 1994
+VL 63
+IS 3
+BP 948
+EP 953
+DI 10.1143/JPSJ.63.948
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA NC380
+UT WOS:A1994NC38000022
+ER
+
+PT J
+AU IMAI, I
+AF IMAI, I
+TI ON THE DEFINITION OF MACROSCOPIC ELECTROMAGNETIC QUANTITIES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE ELECTROMAGNETIC THEORY; TRANSVERSAL AND LONGITUDINAL AVERAGES;
+   POLARIZATION; MAGNETIZATION; POYNTING VECTOR; MAXWELL STRESS;
+   ELECTROMAGNETIC BODY FORCE; LORENTZ TRANSFORMATION
+AB A new framework of electromagnetic theory is presented on the basis of conservation principles of energy and momentum.  First, Maxwell's equations and Lorentz force law in vacuum are derived as theorems from the conservation principles.  Next, new kinds of averaging procedure, transversal and longitudinal, are introduced to deal with the macroscopic media.  Electromagnetic field (E, H) and flux density (D, B) are defined as the longitudinal and transversal averages of the corresponding microscopic field.  The polarization P and magnetization M defined as P = D-epsilon(0) E, M = B-mu(0) H are given explicit expressions in terms of microscopic electromagnetic structure of the matter.  Lorentz transformation of space-time and electromagnetic field can be derived entirely within the framework of electromagnetic theory.
+RP IMAI, I (reprint author), KOGAKUIN UNIV,NISHI SHINJUKU,SHINJUKU KU,TOKYO 163,JAPAN.
+CR De Groot S. R., 1969, MAXWELL EQUATIONS NO
+   IMAI I, 1990, IN PRESS B SOC FRANC, P9
+   Jackson J.D, 1975, CLASSICAL ELECTRODYN
+   Landau L.D., 1960, ELECTRODYNAMICS CONT
+   MOLLER C, 1953, THEORY RELATIVITY
+   PENFIELD P, 1962, ELECTRODYNAMICS MOVI
+   Rosensweig R. E., 1985, FERROHYDRODYNAMICS
+NR 7
+TC 13
+Z9 13
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD DEC
+PY 1991
+VL 60
+IS 12
+BP 4100
+EP 4118
+DI 10.1143/JPSJ.60.4100
+PG 19
+WC Physics, Multidisciplinary
+SC Physics
+GA GX192
+UT WOS:A1991GX19200024
+ER
+
+PT J
+AU TERASHIMA, K
+   IMAI, I
+AF TERASHIMA, K
+   IMAI, I
+TI PIEZOOPTICAL STUDIES OF GROUP-4B TRANSITION-METAL DISULFIDES ZRS2 AND
+   HFS2
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE PIEZOTRANSMISSION; PIEZOREFLECTANCE; ZIRCONIUM SULFIDE; HAFNIUM SULFIDE;
+   STRESS DICHROISM
+ID OPTICAL-TRANSITIONS; BAND STRUCTURES; DICHALCOGENIDES; SPECTRA; TISE2
+AB Piezotransmission spectra near the indirect absorption edge and piezoreflectance spectra in the visible region of group 4B transition metal disulfides ZrS2 and HfS2 have been studied by the stress modulation technique at 77 K.  The uniaxial stress X was applied along the a axis and the spectra were measured using the polarized light, E parallel-to X and E perpendicular-to X, where E is the electric field of the incident light.  The change of the energy levels by the strain is evaluated by comparing the piezo-modulated spectra with the wavelength-modulated spectra.  The main peak and the broad structure at higher energy side in the spectra originate from the overlapping of the transitions at and near GAMMA-point and the other structures at lower energy side are due to the transitions at L and M points.
+RP TERASHIMA, K (reprint author), UNIV TOKYO,COLL ARTS & SCI,DEPT PURE & APPL SCI,MEGURO KU,TOKYO 153,JAPAN.
+CR BALSLEV I, 1972, SEMICONDUCT SEMIMET, V9, P403
+   BAYLISS SC, 1982, J PHYS C SOLID STATE, V15, P1283, DOI 10.1088/0022-3719/15/6/021
+   BEAL AR, 1972, J PHYS PART C SOLID, V5, P3531, DOI 10.1088/0022-3719/5/24/015
+   BENESH GA, 1985, J PHYS C SOLID STATE, V18, P1595, DOI 10.1088/0022-3719/18/8/007
+   BURGHESI A, 1986, PHYS REV B, V33, P2422
+   CAMASSEL J, 1977, NUOVO CIMENTO B, V38, P185, DOI 10.1007/BF02723486
+   FONG CY, 1976, PHYS REV B, V13, P5442, DOI 10.1103/PhysRevB.13.5442
+   GREENAWA.DL, 1965, J PHYS CHEM SOLIDS, V26, P1445, DOI 10.1016/0022-3697(65)90043-0
+   HUGHES HP, 1977, J PHYS C SOLID STATE, V10, P1079, DOI 10.1088/0022-3719/10/7/018
+   ISOMAKI HM, 1982, PHYS LETT A, V89, P89, DOI 10.1016/0375-9601(82)90513-8
+   LEE PA, 1969, J PHYS CHEM SOLIDS, V30, P2719, DOI 10.1016/0022-3697(69)90045-6
+   MAMY R, 1976, PHYS LETT, V37, pL85
+   MAMY R, 1977, NUOVO CIMENTO B, V38, P196, DOI 10.1007/BF02723487
+   MATTHEIS.LF, 1973, PHYS REV B, V8, P3719, DOI 10.1103/PhysRevB.8.3719
+   MURRAY RB, 1972, J PHYS C SOLID STATE, V5, P743
+   NYE J, 1987, PHYSICAL PROPERTIES
+   PELOQUIN G, 1986, J PHYS C SOLID STATE, V19, P3141, DOI 10.1088/0022-3719/19/17/010
+   TERASHIMA K, 1990, J PHYS SOC JPN, V59, P738, DOI 10.1143/JPSJ.59.738
+   VONBOEHM J, 1982, J PHYS C SOLID STATE, V15, pL733, DOI 10.1088/0022-3719/15/23/002
+   WILSON JA, 1969, ADV PHYS, V18, P193, DOI 10.1080/00018736900101307
+   YOFFE AD, 1973, FESTKORPERPROBLEME, V13, P1, DOI 10.1007/BFb0108565
+NR 21
+TC 2
+Z9 2
+PU PHYSICAL SOCIETY JAPAN KIKAI-SHINKO BUILDING
+PI TOKYO
+PA 3-5-8 SHIBA-KOEN MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD MAY
+PY 1991
+VL 60
+IS 5
+BP 1814
+EP 1823
+DI 10.1143/JPSJ.60.1814
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA FV246
+UT WOS:A1991FV24600046
+ER
+
+PT J
+AU TERASHIMA, K
+   IMAI, I
+AF TERASHIMA, K
+   IMAI, I
+TI INDIRECT TRANSITIONS IN THE FUNDAMENTAL ABSORPTION EDGES OF ZRS2 AND
+   HFS2
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,DEPT PURE & APPL SCI,MEGURO KU,TOKYO 153,JAPAN.
+CR BATZ B, 1972, SEMICONDUCT SEMIMET, V9, P331
+   CAMASSEL J, 1977, NUOVO CIMENTO B, V38, P185, DOI 10.1007/BF02723486
+   CONROY L, 1968, INORG CHEM, V7, P459, DOI 10.1021/ic50061a015
+   ELLIOTT RJ, 1957, PHYS REV, V108, P1384, DOI 10.1103/PhysRev.108.1384
+   GREENAWA.DL, 1965, J PHYS CHEM SOLIDS, V26, P1445, DOI 10.1016/0022-3697(65)90043-0
+   ISOMAKI HM, 1982, PHYS LETT A, V89, P89, DOI 10.1016/0375-9601(82)90513-8
+   IWASAKI T, 1982, J PHYS SOC JPN, V51, P2233, DOI 10.1143/JPSJ.51.2233
+   LEE PA, 1969, J PHYS CHEM SOLIDS, V30, P2719, DOI 10.1016/0022-3697(69)90045-6
+   MATTHEIS.LF, 1973, PHYS REV B, V8, P3719, DOI 10.1103/PhysRevB.8.3719
+   MURRAY RB, 1972, J PHYS C SOLID STATE, V5, P74
+   NAKAO K, 1969, NUOVO CIMENTO B, V63, P45, DOI 10.1007/BF02711042
+   TERASHIMA K, 1987, SOLID STATE COMMUN, V63, P315, DOI 10.1016/0038-1098(87)90916-1
+NR 12
+TC 2
+Z9 2
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING,RM 211, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO,
+   105-0011, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD FEB
+PY 1990
+VL 59
+IS 2
+BP 738
+EP 746
+DI 10.1143/JPSJ.59.738
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA CY489
+UT WOS:A1990CY48900049
+ER
+
+PT J
+AU TERASHIMA, K
+   IMAI, I
+AF TERASHIMA, K
+   IMAI, I
+TI INDIRECT ABSORPTION-EDGE OF ZRS2 AND HFS2
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+RP TERASHIMA, K (reprint author), UNIV TOKYO,COLL ARTS & SCI,DEPT PURE & APPL SCI,MEGURO KU,TOKYO 153,JAPAN.
+CR BATZ B, 1972, SEMICONDUCT SEMIMET, V9, P316
+   CAMASSEL J, 1977, NUOVO CIMENTO B, V38, P185, DOI 10.1007/BF02723486
+   GREENAWA.DL, 1965, J PHYS CHEM SOLIDS, V26, P1445, DOI 10.1016/0022-3697(65)90043-0
+   IWASAKI T, 1982, J PHYS SOC JPN, V51, P2233, DOI 10.1143/JPSJ.51.2233
+   MATTHEIS.LF, 1973, PHYS REV B, V8, P3719, DOI 10.1103/PhysRevB.8.3719
+   MURRAY RB, 1972, J PHYS PART C SOLID, V5, P746, DOI 10.1088/0022-3719/5/7/006
+   NAKAO K, 1969, NUOVO CIMENTO B, V63, P45, DOI 10.1007/BF02711042
+NR 7
+TC 4
+Z9 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PD JUL
+PY 1987
+VL 63
+IS 4
+BP 315
+EP 318
+DI 10.1016/0038-1098(87)90916-1
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA J1089
+UT WOS:A1987J108900012
+ER
+
+PT J
+AU NOZAKI, H
+   IMAI, I
+AF NOZAKI, H
+   IMAI, I
+TI INDIRECT ABSORPTION OF SNS2
+SO PHYSICA B & C
+LA English
+DT Article
+C1 UNIV TOKYO,COLL GEN EDUC,DEPT PURE & APPL SCI,MEGURO KU,TOKYO 113,JAPAN.
+CR AUYANG MY, 1969, PHYS REV, V178, P1279, DOI 10.1103/PhysRev.178.1279
+   BORDAS J, 1978, J PHYS C SOLID STATE, V11, P2607, DOI 10.1088/0022-3719/11/12/021
+   DOMINGO G, 1966, PHYS REV, V143, P536, DOI 10.1103/PhysRev.143.536
+   FONG CY, 1974, J PHYS C SOLID STATE, V7, P107, DOI 10.1088/0022-3719/7/1/018
+   FONG CY, 1972, PHYS REV B, V5, P3095, DOI 10.1103/PhysRevB.5.3095
+   FONG CY, 1973, PHYS REV B, V7, P4748, DOI 10.1103/PhysRevB.7.4748
+   GREENAWA.DL, 1965, J PHYS CHEM SOLIDS, V26, P1445, DOI 10.1016/0022-3697(65)90043-0
+   LEE PA, 1969, J PHYS CHEM SOLIDS, V30, P2719, DOI 10.1016/0022-3697(69)90045-6
+   MULA G, 1972, PHYS STATUS SOLIDI B, V51, pK35, DOI 10.1002/pssb.2220510151
+   MURRAY RB, 1973, J PHYS C SOLID STATE, V6, P3643, DOI 10.1088/0022-3719/6/24/023
+   NAKASHIMA S, COMMUNICATION
+   POWELL MJ, 1978, J PHYS C SOLID STATE, V11, P885, DOI 10.1088/0022-3719/11/5/009
+   POWELL MJ, 1978, J PHYS C SOLID STATE, V11, P895, DOI 10.1088/0022-3719/11/5/010
+   SCHLUTER IC, 1973, PHYS STATUS SOLIDI B, V57, P145
+   SMITH AJ, 1977, J PHYS C SOLID STATE, V10, P1321, DOI 10.1088/0022-3719/10/8/035
+NR 15
+TC 7
+Z9 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA B & C
+PY 1981
+VL 105
+IS 1-3
+BP 74
+EP 77
+DI 10.1016/0378-4363(81)90218-7
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA MG404
+UT WOS:A1981MG40400016
+ER
+
+PT J
+AU IMAI, I
+   MATSUMOTO, A
+   OIWA, M
+AF IMAI, I
+   MATSUMOTO, A
+   OIWA, M
+TI NEIGHBORING EFFECT OF THE SODIUM CARBOXYLATE GROUP ON THE SAPONIFICATION
+   OF DIALLYL PHTHALATE PREPOLYMER
+SO JOURNAL OF POLYMER SCIENCE PART A-POLYMER CHEMISTRY
+LA English
+DT Article
+RP IMAI, I (reprint author), KANSAI UNIV,FAC ENGN,DEPT APPL CHEM,SUITA,OSAKA 564,JAPAN.
+CR FROST AA, 1952, J AM CHEM SOC, V74, P1268, DOI 10.1021/ja01125a038
+   IMAI I, 1975, KOBUNSHI RONBUNSHU, V32, P314
+   IMAI I, 1978, J POLYM SCI POL CHEM, V16, P1421, DOI 10.1002/pol.1978.170160622
+   MATSUMOTO A, 1969, KOGYO KAGAKU ZASSHI, V72, P2127
+   MATSUMOTO A, 1977, J POLYM SCI POL PHYS, V15, P127, DOI 10.1002/pol.1977.180150111
+   SAKURADA I, 1942, KOGYO KAGAKU ZASSHI, V45, P1290
+   SAKURADA I, 1942, KOGYO KAGAKU ZASSHI, V45, P1293
+   SAKURADA I, 1942, KOGYO KAGAKU ZASSHI, V45, P1287
+   SAKURADA I, 1956, CHEM HIGH POLYM TOKY, V13, P361
+   SAKURADA I, 1956, KOBUNSHI KAGAKU, V13, P355
+   SAKURADA I, 1956, CHEM HIGH POLYM TOKY, V13, P408
+   SAKURADA I, 1967, KOBUNSHI KAGAKU, V24, P505
+NR 12
+TC 0
+Z9 0
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0887-624X
+J9 J POLYM SCI POL CHEM
+JI J. Polym. Sci. Pol. Chem.
+PY 1979
+VL 17
+IS 3
+BP 821
+EP 833
+DI 10.1002/pol.1979.170170321
+PG 13
+WC Polymer Science
+SC Polymer Science
+GA HG962
+UT WOS:A1979HG96200021
+ER
+
+PT J
+AU IMAI, I
+   MATSUMOTO, A
+   OIWA, M
+AF IMAI, I
+   MATSUMOTO, A
+   OIWA, M
+TI STUDIES OF THE POLYMERIZATION OF DIALLYL COMPOUNDS .28.
+   CO-POLYMERIZATION OF MONOALLYL PHTHALATE WITH ALLYL BENZOATE AND DIALLYL
+   PHTHALATE
+SO JOURNAL OF POLYMER SCIENCE PART A-POLYMER CHEMISTRY
+LA English
+DT Article
+RP IMAI, I (reprint author), KANSAI UNIV,FAC ENGN,DEPT APPL CHEM,SUITA,OSAKA 564,JAPAN.
+CR DEBATAAFSCHE NV, 1950, Patent No. 638516
+   IMAI I, 1975, KOBUNSHI RONBUNSHU, V32, P314
+   IMAI I, 1978, J POLYM SCI POL CHEM, V16, P1421, DOI 10.1002/pol.1978.170160622
+   MATSUMOT.A, 1973, MAKROMOL CHEM, V166, P179
+   MATSUMOTO A, 1969, NIPPON KAGAKU ZASSHI, V90, P290
+   MATSUMOT.A, 1971, KOG KAGAKU ZASSHI, V74, P1913
+   MATSUMOT.A, 1972, NIPPON KAGAKU KAISHI, P209
+   ROOVERS J, 1963, MAKROMOLEKUL CHEM, V60, P89
+   YAMAMOTO Y, 1978, NIPPON KAGAKU KAISHI, P288
+   2692876
+   1965, Patent No. 1011981
+NR 11
+TC 1
+Z9 1
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0887-624X
+J9 J POLYM SCI POL CHEM
+JI J. Polym. Sci. Pol. Chem.
+PY 1979
+VL 17
+IS 11
+BP 3435
+EP 3446
+DI 10.1002/pol.1979.170171103
+PG 12
+WC Polymer Science
+SC Polymer Science
+GA HU115
+UT WOS:A1979HU11500003
+ER
+
+EF

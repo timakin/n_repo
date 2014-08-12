@@ -1,0 +1,1028 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Hao, HF
+   Takaoka, M
+   Bao, XH
+   Wang, ZG
+   Tomono, Y
+   Sakurama, K
+   Ohara, T
+   Fukazawa, T
+   Yamatsuji, T
+   Fujiwara, T
+   Naomoto, Y
+AF Hao, Hui-fang
+   Takaoka, Munenori
+   Bao, Xiao-hong
+   Wang, Zhi-gang
+   Tomono, Yasuko
+   Sakurama, Kazufumi
+   Ohara, Toshiaki
+   Fukazawa, Takuya
+   Yamatsuji, Tomoki
+   Fujiwara, Toshiyoshi
+   Naomoto, Yoshio
+TI Oral administration of FAK inhibitor TAE226 inhibits the progression of
+   peritoneal dissemination of colorectal cancer
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Focal adhesion kinase; TAE226; Peritoneal dissemination; Prolonged
+   survival; Anti-proliferation; Colon cancer
+ID FOCAL ADHESION KINASE; IN-VIVO; GROWTH; CARCINOMA; VITRO
+AB Peritoneal dissemination is one of the most terrible types of colorectal cancer progression. Focal adhesion kinase (FAK) plays a crucial role in the biological processes of cancer, such as cell attachment, migration, proliferation and survival, all of which are essential for the progression of peritoneal dissemination. Since we and other groups have reported that the inhibition of FAK activity exhibited a potent anticancer effect in several cancer models, we hypothesized that TAE226, a novel ATP-competitive tyrosine kinase inhibitor designed to target FAK, can prevent the occurrence and progression of peritoneal dissemination. In vitro, TAE226 greatly inhibited the proliferation and migration of HCT116 colon cancer cells, while their adhesion on the matrix surface was minimally inhibited when FAK activity and expression was suppressed by TAE226 and siRNA. In vivo, when HCT116 cells were intraperitoneally inoculated in mice, the cells could attach to the peritoneum and begin to grow within 24 h regardless of the pretreatment of cells with TAE226 or FAK-siRNA, suggesting that FAK is not essential, at least for the initial integrin-matrix contact. Interestingly, the treatment of mice before and after inoculation significantly suppressed cell attachment to the peritoneum. Furthermore, oral administration of TAE226 greatly reduced the size of disseminated tumors and prolonged survival in tumor-bearing mice. Taken together, a possible strategy for inhibiting peritoneal dissemination by targeting FAK with TAE226 appears to be applicable through anti-proliferative and anti-invasion/anti-migration mechanisms. (C) 2012 Elsevier Inc. All rights reserved.
+C1 Kawasaki Med Univ, Dept Gen Surg, Kita Ku, Okayama 7008505, Japan.
+   Okayama Univ, Grad Sch Med Dent & Pharmaceut Sci, Dept Surg Gastroenterol, Kita Ku, Okayama 7008558, Japan.
+   Inner Mongolia Univ, Coll Life Sci, Key Lab Mammal Reprod Biol & Biotechnol, Minist Educ, Hohhot 010021, Peoples R China.
+   Shigei Med Res Inst, Div Mol & Cell Biol, Okayama 7000202, Japan.
+RP Naomoto, Y (reprint author), Kawasaki Med Univ, Dept Gen Surg, Kita Ku, 2-1-80 Nakasange, Okayama 7008505, Japan.
+EM ynaomoto@med.kawasaki-m.ac.jp
+CR Deramaudt TB, 2006, MOL CELL BIOL, V26, P4185, DOI 10.1128/MCB.01055-05
+   Franses JW, 2011, SCI TRANSL MED, V3, DOI 10.1126/scitranslmed.3001542
+   Golubovskaya VM, 2008, MOL CARCINOGEN, V47, P222, DOI 10.1002/mc.20380
+   Golubovskaya VM, 2010, ANTI-CANCER AGENT ME, V10, P735
+   Golubovskaya VM, 2009, HISTOL HISTOPATHOL, V24, P503
+   Halder J, 2007, CANCER RES, V67, P10976, DOI 10.1158/0008-5472.CAN-07-2667
+   Hashimoto K, 2005, CANCER RES, V65, P540
+   Ilic Dusko, 1995, Nature (London), V377, P539
+   Lawson C, 2012, J CELL BIOL, V196, P223, DOI 10.1083/jcb.201108078
+   Liu TJ, 2007, MOL CANCER THER, V6, P1357, DOI 10.1158/1535-7163.MCT-06-0476
+   Mima H, 2006, MOL CANCER THER, V5, P1021, DOI 10.1158/1535-7163.MCT-05-0352
+   Murata T, 2008, INT J ONCOL, V32, P791
+   OWENS LV, 1995, CANCER RES, V55, P2752
+   Parsons JT, 2010, NAT REV MOL CELL BIO, V11, P633, DOI 10.1038/nrm2957
+   Parsons JT, 2003, J CELL SCI, V116, P1409, DOI 10.1242/jcs.00373
+   Sakurama K, 2009, MOL CANCER THER, V8, P127, DOI 10.1158/1535-7163.MCT-08-0884
+   Schaller MD, 2001, BBA-MOL CELL RES, V1540, P1, DOI 10.1016/S0167-4889(01)00123-9
+   Shi Q, 2007, MOL CARCINOGEN, V46, P488, DOI 10.1002/mc.20297
+   Shieh AC, 2011, CANCER RES, V71, P790, DOI 10.1158/0008-5472.CAN-10-1513
+   Watanabe N, 2008, CLIN CANCER RES, V14, P4631, DOI 10.1158/1078-0432.CCR-07-4755
+   Yonemura Y, 2007, CANCER SCI, V98, P11, DOI 10.1111/j.1349-7006.2006.00350.x
+NR 21
+TC 0
+Z9 0
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD JUL 13
+PY 2012
+VL 423
+IS 4
+BP 744
+EP 749
+DI 10.1016/j.bbrc.2012.06.030
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 982GZ
+UT WOS:000307032400022
+ER
+
+PT J
+AU Mochizuki, A
+   Kimura, M
+   Ina, A
+   Tomono, Y
+   Tanaka, M
+AF Mochizuki, Akira
+   Kimura, Maki
+   Ina, Ayano
+   Tomono, Yuka
+   Tanaka, Masaru
+TI Study on the Water Structure and Blood Compatibility of
+   Poly(acryloylmorpholine-r-butyl methacrylate)
+SO JOURNAL OF BIOMATERIALS SCIENCE-POLYMER EDITION
+LA English
+DT Article
+DE Water structure; bound water; blood compatibility; platelets;
+   coagulation system; DSC; N-substituted acrylamide co-polymer
+ID SELF-ASSEMBLED MONOLAYERS; PROTEIN ADSORPTION; PLATELET-ADHESION;
+   SURFACE; BIOMATERIAL; GLYCOL); PLASMA
+AB We have been studying the blood compatibility of polymeric materials from the viewpoint of their water structure, and have proposed that freezable water interacting with polymer molecules plays an important role in determining that compatibility. As we found that water-soluble poly(acryloylmorpholine) interacted with water, resulting in the formation of 'bound water', we newly prepared water-non-soluble poly(acryloylmorpholine-r-butyl methacrylate) (denoted as ACMO co-polymer) with various composition ratios. In addition, the properties of a co-polymer based on N,N-diethylacrylamide (DEA co-polymer), where DEA has a similar chemical structure to ACMO, except that DEA has no ether oxygen, were compared with that of the ACMO co-polymer. Contact angle and DSC analysis revealed that an increase in the content of an N-substituted acrylamide unit in the co-polymers enhanced the hydrophilicity of the polymer and that the hydrophilicity of the ACMO co-polymer was stronger than that of the DEA co-polymer. As for the water structure, it was found that the ACMO co-polymer had a lot of bound water compared to the DEA co-polymer. The difference in these properties between the ACMO and DEA co-polymers was due to the ether oxygen of the morpholine group. At the same time, in vitro blood compatibility tests showed that the ACMO co-polymer exhibited a much better performance than the DEA co-polymer. The water structure and blood compatibility is discussed in detail. (C) Koninklijke Brill NV, Leiden, 2010
+C1 Tokai Univ, Dept Biomed Engn, Sch High Technol Human Welf, Shizuoka 4100395, Japan.
+   Yamagata Univ, Dept Biochem Engn, Grad Sch Sci & Engn, Yamagata 9928510, Japan.
+RP Mochizuki, A (reprint author), Tokai Univ, Dept Biomed Engn, Sch High Technol Human Welf, Nishino 317, Shizuoka 4100395, Japan.
+EM azmochi@wing.ncc.u-tokai.ac.jp
+CR Andersson J, 2005, BIOMATERIALS, V26, P1477, DOI 10.1016/j.biomaterials.2004.05.011
+   ANDRADE JD, 1973, T AM SOC ART INT ORG, V19, P1
+   Benesch J, 2001, J BIOMAT SCI-POLYM E, V12, P581, DOI 10.1163/156856201316883421
+   CAZENAVE JP, 1986, BLOOD SURFACE INTERA
+   Chuang WH, 2007, J BIOMED MATER RES A, V82A, P820, DOI 10.1002/jbm.a.31193
+   Chung YC, 2005, BIOMATERIALS, V26, P2313, DOI 10.1016/j.biomaterials.2004.06.043
+   GLASSER WG, 1992, ACS S SERIES, V489
+   GOLBET MB, 2004, BIOMATERIALS, V22, P5681
+   GRIFFIN JH, 2006, WILLIAMS HEMATOLOGY, P1703
+   Hansson KM, 2005, BIOMATERIALS, V26, P861, DOI 10.1016/j.biomaterials.2004.03.036
+   Hirota E, 2006, J BIOMED MATER RES A, V76A, P540, DOI 10.1002/jbm.a.30563
+   Hirota E, 2007, J BIOMED MATER RES A, V81A, P710, DOI 10.1002/jbm.a.31113
+   Ide M, 2003, LANGMUIR, V19, P429, DOI 10.1021/1a020617p
+   Israelachvili J, 1996, NATURE, V379, P219, DOI 10.1038/379219a0
+   Mitragotri S, 2009, NAT MATER, V8, P15, DOI [10.1038/nmat2344, 10.1038/NMAT2344]
+   MIWA Y, 2003, J JPN SOC BIOMATER, V21, P143
+   Morita S, 2007, LANGMUIR, V23, P3750, DOI 10.1021/la0625998
+   Morra M., 2001, WATER BIOMATERIAL SU
+   Ratner BD, 2000, J BIOMAT SCI-POLYM E, V11, P1107, DOI 10.1163/156856200744219
+   Schwendel D, 2001, LANGMUIR, V17, P5717, DOI 10.1021/la010576h
+   Tanaka M, 2000, BIOMATERIALS, V21, P1471, DOI 10.1016/S0142-9612(00)00031-4
+   Tanaka M, 2004, J BIOMED MATER RES A, V68A, P684, DOI 10.1002/jbm.a.20088
+   YAMADA N, 1990, J APPL POLYM SCI, V39, P2443
+NR 23
+TC 2
+Z9 3
+PU VSP BV
+PI LEIDEN
+PA BRILL ACADEMIC PUBLISHERS, PO BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 0920-5063
+J9 J BIOMAT SCI-POLYM E
+JI J. Biomater. Sci.-Polym. Ed.
+PY 2010
+VL 21
+IS 14
+BP 1895
+EP 1910
+DI 10.1163/092050610X489321
+PG 16
+WC Engineering, Biomedical; Materials Science, Biomaterials; Polymer
+   Science
+SC Engineering; Materials Science; Polymer Science
+GA 679HI
+UT WOS:000284152100006
+ER
+
+PT J
+AU Mochizuki, A
+   Hatakeyama, T
+   Tomono, Y
+   Tanaka, M
+AF Mochizuki, Akira
+   Hatakeyama, Tatsuko
+   Tomono, Yuka
+   Tanaka, Masaru
+TI Water Structure and Blood Compatibility of Poly(tetrahydrofurfuryl
+   acrylate)
+SO JOURNAL OF BIOMATERIALS SCIENCE-POLYMER EDITION
+LA English
+DT Article
+DE Blood compatibility; water structure; differential scanning calorimetry;
+   freezing bound water; poly(tetrahydrofurfuryl acrylate)
+ID SELF-ASSEMBLED MONOLAYERS; COMPLEMENT ACTIVATION; PROTEIN ADSORPTION;
+   POLY(2-METHOXYETHYL ACRYLATE); SURFACE; COPOLYMERS; PLASMA; PMEA
+AB We previously reported that poly(2-methoxyethyl acrylate) (PMEA), which has excellent blood compatibility, contains a large amount of freezing bound water. In order to confirm the role of freezing bound water in determining blood compatibility, poly(tetrahydrofurfuryl acrylate) (PTHFA) was newly synthesized and the thermal properties of water in PTHFA were investigated by differential scanning calorimetry (DSC), as freezing bound water was observed as cold crystallization in DSC heating curves. In addition, the blood compatibility of PTHFA, including activations of platelets, the coagulation system and the complement system, was investigated. The temperature of cold crystallization of water in PTHFA was higher than that of water in PMEA; moreover, the amount of freezing bound water in PTHFA was smaller than that in PMEA. The effect of freezing bound water on blood compatibility was investigated by comparing PTHFA, PMEA, poly(2-hydroxyethyl methacrylate) (PHEMA) and poly(2-methoxyethyl methacrylate) (PMEMA). The latter two samples showed no cold crystallization. Activations of platelets, the coagulation system and the complement system were enhanced in the following order: PMEA < PHEMA < PTHFA < PMEMA, PMEA < PMEMA < PTHFA < PHEMA and PMEA < PTHFA < PMEMA < PHEMA, respectively. The above results were reasonably explained by the amount and/ or the stability of freezing bound water. (C) Koninklijke Brill NV, Leiden, 2009
+C1 Tokai Univ, Dept Biomed Engn, Sch High Technol Human Welf, Shizuoka 4100395, Japan.
+   Lignocel Res, Bunkyo Ku, Tokyo 1120015, Japan.
+   Tohoku Univ, Inst Multidisciplinary Res Adv Mat, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+RP Mochizuki, A (reprint author), Tokai Univ, Dept Biomed Engn, Sch High Technol Human Welf, Nishino 317, Shizuoka 4100395, Japan.
+EM azmochi@wing.ncc.u-tokai.ac.jp
+CR Andersson J, 2005, BIOMATERIALS, V26, P1477, DOI 10.1016/j.biomaterials.2004.05.011
+   Benesch J, 2001, J BIOMAT SCI-POLYM E, V12, P581, DOI 10.1163/156856201316883421
+   BERGER M, 1994, J MATER SCI-MATER M, V5, P622, DOI 10.1007/BF00120343
+   CAZENAVE JP, 1986, BLOOD SURFACE INTERA
+   Hansson KM, 2005, BIOMATERIALS, V26, P861, DOI 10.1016/j.biomaterials.2004.03.036
+   Hirata I, 2003, J BIOMED MATER RES A, V66A, P669, DOI 10.1002/jbm.a.10067
+   Hirota E, 2007, J BIOMED MATER RES A, V81A, P710, DOI 10.1002/jbm.a.31113
+   JANATOVA J, 1991, COMPLEMENT INFLAMMAT, V8, P61
+   Lin JC, 2000, J BIOMED MATER RES, V51, P413, DOI 10.1002/1097-4636(20000905)51:3<413::AID-JBM16>3.0.CO;2-L
+   MIWA Y, 2003, J JPN SOC BIOMATER, V21, P143
+   PAYNE MS, 1987, J BIOMED MATER RES, V21, P843, DOI 10.1002/jbm.820210703
+   Sperling C, 2005, BIOMATERIALS, V26, P6547, DOI 10.1016/j.biomaterials.2005.04.042
+   Tanaka M, 2002, BIOMACROMOLECULES, V3, P36, DOI 10.1021/bm010072y
+   Tanaka M, 2000, BIOMATERIALS, V21, P1471, DOI 10.1016/S0142-9612(00)00031-4
+   Tanaka M, 2000, POLYM INT, V49, P1709, DOI 10.1002/1097-0126(200012)49:12<1709::AID-PI601>3.0.CO;2-L
+   Tanaka M, 2004, J BIOMED MATER RES A, V68A, P684, DOI 10.1002/jbm.a.20088
+   Wolfgang G.G., 1992, ACS S SERIES, V489
+NR 17
+TC 10
+Z9 10
+PU VSP BV
+PI LEIDEN
+PA BRILL ACADEMIC PUBLISHERS, PO BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 0920-5063
+J9 J BIOMAT SCI-POLYM E
+JI J. Biomater. Sci.-Polym. Ed.
+PY 2009
+VL 20
+IS 5-6
+BP 591
+EP 603
+DI 10.1163/156856209X426411
+PG 13
+WC Engineering, Biomedical; Materials Science, Biomaterials; Polymer
+   Science
+SC Engineering; Materials Science; Polymer Science
+GA 440NM
+UT WOS:000265707000004
+ER
+
+PT J
+AU Ikegami, Y
+   Goto, H
+   Kiyono, T
+   Enomoto, M
+   Kasahara, K
+   Tomono, Y
+   Tozawa, K
+   Morita, A
+   Kohri, K
+   Inagaki, M
+AF Ikegami, Yosuke
+   Goto, Hidemasa
+   Kiyono, Tohru
+   Enomoto, Masato
+   Kasahara, Kousuke
+   Tomono, Yasuko
+   Tozawa, Keiichi
+   Morita, Akimichi
+   Kohri, Kenjiro
+   Inagaki, Masaki
+TI Chk1 phosphorylation at Ser286 and Ser301 occurs with both stalled DNA
+   replication and damage checkpoint stimulation
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE Chk1; Cyclin-dependent kinase 2 (Cdk2); ATR; Checkpoint; Phosphorylation
+ID MONOCLONAL-ANTIBODY; PATHWAYS; PROTEIN; KINASES; CANCER; CELLS; ATR
+AB We previously reported Chk1 to be phosphorylated at Ser286 and Ser301 by cyclin-dependent kinase (Cdk) 1 during mitosis [T. Shiromizu et al., Genes Cells 11 (2006) 477-485]. Here, we demonstrated that Chk1-Ser-286 and -Ser301 phosphorylation also occurs in hydroxyurea (HU)-treated or ultraviolet (UV)irradiated cells. Unlike the mitosis case, however, Chk1 was phosphorylated not only at Ser286 and Ser301 but also at Ser317 and Ser345 in the checkpoint response. Treatment with Cdk inhibitors diminished Chk1 phosphorylation at Ser286 and Ser301 but not at Ser317 and Ser345 with the latter. fit vitro analyses revealed Ser286 and Ser301 oil Chk1 to serve as two major phosphorylation sites for Cdk2. Immunoprecipitation analyses further demonstrated that Ser286/Ser301 and Ser317/Ser345 phosphorylation occur in the same Chk1 molecule during the checkpoint response. In addition, Ser286/Ser301 phosphorylation by Cdk2 was observed in Chk1 Mutated to Ala at Ser317 and Ser345 (S317A/S345A), as well as Ser317/Ser345 phosphorylation by ATR was in S286A/S301A. Therefore, Chk1 phosphorylation in the checkpoint response is regulated not only by ATR but also by Cdk2. (C) 2008 Elsevier Inc. All rights reserved.
+C1 Aichi Canc Ctr, Res Inst, Div Biochem, Chikusa Ku, Aichi 4648681, Japan.
+   Nagoya City Univ, Grad Sch Med Sci, Dept Nephrourol, Aichi 4678601, Japan.
+   Nagoya City Univ, Grad Sch Med Sci, Dept Geriatr & Environm Dermatol, Aichi 4678601, Japan.
+   Natl Canc Ctr, Res Inst, Div Virol, Chuo Ku, Tokyo 1040045, Japan.
+   Nagoya Univ, Grad Sch Med, Dept Cellular Oncol, Aichi 4668550, Japan.
+   Shigei Med Res Inst, Div Cell & Mol Biol, Okayama 7010202, Japan.
+RP Goto, H (reprint author), Aichi Canc Ctr, Res Inst, Div Biochem, Chikusa Ku, 1-1 Kanokoden, Aichi 4648681, Japan.
+EM hgoto@aichi-cc.jp; minagaki@aichi-cc.jp
+RI Kiyono, Tohru/H-5834-2011
+FU Japan Society for the Promotion of Science; Ministry of Education,
+   Science, Technology, Sports and Culture of Japan; Ministry of Health and
+   Welfare, Japan; Uehara Memorial Foundation; Naito Foundation; Takeda
+   Science Foundation
+FX We thank K. Tsujimura (Hamamatsu University), T. Yamaguchi (Nagoya
+   University), and T. Shiromizu for helpful discussions, Y. Hayashi, and
+   C. Yuhara for technical assistances, and Y. Takada for secretarial
+   services. This work was supported in part by Grants-in-Aid for
+   Scientific Research from the Japan Society for the Promotion of Science
+   and from the Ministry of Education, Science, Technology, Sports and
+   Culture of Japan; by a Grant-in-Aid for the Third Term Comprehensive
+   10-Year Strategy for Cancer Control from the Ministry of Health and
+   Welfare, Japan; by the Uehara Memorial Foundation; by the Naito
+   Foundation; and by the Takeda Science Foundation.
+CR Bartek J, 2003, CANCER CELL, V3, P421, DOI 10.1016/S1535-6108(03)00110-7
+   BOYLE WJ, 1991, METHOD ENZYMOL, V201, P110
+   Cimprich KA, 2008, NAT REV MOL CELL BIO, V9, P616, DOI 10.1038/nrm2450
+   Goto H, 2007, NAT PROTOC, V2, P2574, DOI 10.1038/nprot.2007.374
+   Gray N, 1999, CURR MED CHEM, V6, P859
+   HARTWELL LH, 1989, SCIENCE, V246, P629, DOI 10.1126/science.2683079
+   Jiang KC, 2003, J BIOL CHEM, V278, P25207, DOI 10.1074/jbc.M300070200
+   Kastan MB, 2004, NATURE, V432, P316, DOI 10.1038/nature03097
+   KISHIRO Y, 1995, CELL STRUCT FUNCT, V20, P151
+   Naviaux RK, 1996, J VIROL, V70, P5701
+   NISHIZAWA K, 1991, J BIOL CHEM, V266, P3074
+   Rhind N, 2000, J CELL SCI, V113, P3889
+   Shiromizu T, 2006, GENES CELLS, V11, P477, DOI 10.1111/j.1365-2443.2006.00955.x
+   TSUJIMURA K, 1994, J BIOL CHEM, V269, P31097
+   Woo Richard A, 2003, Cell Cycle, V2, P316
+   YANO T, 1991, BIOCHEM BIOPH RES CO, V175, P1144, DOI 10.1016/0006-291X(91)91685-6
+   Zhao H, 2001, MOL CELL BIOL, V21, P4129, DOI 10.1128/MCB.21.13.4129-4139.2001
+   Zhou BBS, 2000, NATURE, V408, P433
+NR 18
+TC 6
+Z9 6
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD DEC 26
+PY 2008
+VL 377
+IS 4
+BP 1227
+EP 1231
+DI 10.1016/j.bbrc.2008.10.119
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 382UM
+UT WOS:000261630900039
+ER
+
+PT S
+AU Kawaii, S
+   Tomono, Y
+   Ogawa, K
+   Sugiura, M
+   Yano, M
+   Yoshizawa, Y
+AF Kawaii, S
+   Tomono, Y
+   Ogawa, K
+   Sugiura, M
+   Yano, M
+   Yoshizawa, Y
+BE Shahidi, F
+   Weerasinghe, DK
+TI Anticancer activity and flavonoid content of various Citrus juices
+SO NUTRACEUTICAL BEVERAGES: CHEMISTRY, NUTRITION, AND HEALTH EFFECTS
+SE ACS SYMPOSIUM SERIES
+LA English
+DT Article; Proceedings Paper
+CT Conference on Nutraceutical Beverages held at the 222nd National Meeting
+   of the American-Chemical-Society
+CY AUG 26-30, 2001
+CL Chicago, IL
+SP Amer Chem Soc, Div Agr & Food Chem
+ID LEUKEMIA-CELLS; DIFFERENTIATION
+AB It is commonly accepted that cancer formation can be prevented by the consumption of certain foods; thus flavonoids in Citrus fruits and juices are among the most prominent anticancer agents. From a viewpoint of health-promotion by dietary habits, cancer preventative activity in the Citrus juices is more important than that found in their inedible parts. However, few studies have focused on the biological activities in Citrus juices, possibly because the measurable activities in juices tend to be hindered by the more abundant substances, such as sugars. In order to eliminate the masking, we prepared the readily extractable fractions of Citrus juices by adsorbing on porous polymer resin, and successive elution from the resin with ethanol and acetone. Among 34 Citrus juices examined, King (C. nobilis) exhibited potent differentiation-inducing activity toward HL-60 leukemia cells, and the active principles were identified as four polymethoxyflavones. (C) 2004 American Chemical Society.
+C1 Tokyo Denki Univ, Lab Bioorgan Chem, Hatoyama, Saitama 3500394, Japan.
+   Natl Inst Fruit Tree Sci, Shimizu, Shizuoka 4240204, Japan.
+   Akita Prefectural Univ, Lab Bioorgan Chem, Akita 0100195, Japan.
+RP Kawaii, S (reprint author), Tokyo Denki Univ, Lab Bioorgan Chem, Hatoyama, Saitama 3500394, Japan.
+CR ALBACH RF, 1969, PHYTOCHEMISTRY, V8, P127, DOI 10.1016/S0031-9422(00)85805-7
+   Benavente-Garcia O., 1997, J AGR FOOD CHEM, V45, P4506
+   Chen J, 1997, J AGR FOOD CHEM, V45, P364, DOI 10.1021/jf960110i
+   COLLINS SJ, 1978, P NATL ACAD SCI USA, V75, P2458, DOI 10.1073/pnas.75.5.2458
+   HANDA T, 1985, J JPN SOC HORTIC SCI, V54, P145
+   Ito C, 1998, J CHIN CHEM SOC-TAIP, V45, P89
+   KANES K, 1992, PHYTOCHEMISTRY, V31, P967
+   Kawaii S, 1999, ANTICANCER RES, V19, P1261
+   Kawaii S, 1999, J AGR FOOD CHEM, V47, P128, DOI 10.1021/jf9805101
+   Kawaii S, 1999, J AGR FOOD CHEM, V47, P3565, DOI 10.1021/jf990153+
+   Kawaii S, 1999, BIOSCI BIOTECH BIOCH, V63, P896, DOI 10.1271/bbb.63.896
+   KOEFFLER HP, 1983, BLOOD, V62, P709
+   SUGIYAMA S, 1993, CHEM PHARM BULL, V41, P714
+   SWINGLE WT, CITRUS IND, V1
+   TANAKA. T, 1969, Bulletin of the University of Osaka Prefecture. Series B. Agriculture and Biology, V21, P139
+NR 15
+TC 0
+Z9 0
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 SIXTEENTH ST NW, WASHINGTON, DC 20036 USA
+SN 0097-6156
+BN 0-8412-3823-5
+J9 ACS SYM SER
+PY 2004
+VL 871
+BP 76
+EP 89
+PG 14
+WC Biochemistry & Molecular Biology; Chemistry, Multidisciplinary; Food
+   Science & Technology
+SC Biochemistry & Molecular Biology; Chemistry; Food Science & Technology
+GA BY57R
+UT WOS:000189412400007
+ER
+
+PT J
+AU Yamada, K
+   Tomono, Y
+   Morimoto, J
+   Sasaki, Y
+   Ohmori, A
+AF Yamada, K
+   Tomono, Y
+   Morimoto, J
+   Sasaki, Y
+   Ohmori, A
+TI Hot corrosion behavior of boiler tube materials in refuse incineration
+   environment
+SO VACUUM
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Symposium on Applied Plasma Science (ISAPS 01)
+CY JUL 02-06, 2001
+CL FAIRBANKS, ALASKA
+DE water-wall tubes; hot corrosion resistant; detonation spraying; Ni-Cr
+   alloy coating; refuse incineration plant
+AB Thermal spraying has emerged as an important tool of increasingly sophisticated surface engineering technology. The different functions of the coating, such as wear and corrosion resistance, thermal or electrical of insulation can be achieved using different coating techniques and coating materials. The purpose of a hot corrosion resistant coating is to serve as a effective solid-state diffusion barrier between oxygen (or other gaseous) and the base metal. The 50%Ni-50%Cr alloy coating produced by the detonation spray method exhibited the most corrosion resistance in a laboratory test. This paper presents the hot corrosion test results of the 50%Ni-50%Cr alloy spray coated boiler tubes at the actual refuse incineration plant. This plant had operated for about 7 years without any problems and the coated tubes are expected to have longer life. (C) 2002 Published by Elsevier Science Ltd.
+C1 Kinki Univ, Fac Sci & Technol, Osaka 5778502, Japan.
+   Tech Res Inst Hitachizosen, Osaka, Japan.
+   Osaka Univ, Joining & Welding Res Inst, Osaka 5670047, Japan.
+RP Morimoto, J (reprint author), Kinki Univ, Fac Sci & Technol, 3-4-1 Kowakae Higshiosaka, Osaka 5778502, Japan.
+CR MORIMOTO J, 2000, P INT S HIGH TEMP CO, P275
+   MORIMOTO J, 1997, J SURF FINISHING SOC, V48, P88
+   MOTOKI A, 1990, JPN SOC CORROSION EN, V39, P192
+   TUCKER RC, 1992, J HIGH TEMP SOC, V18, P260
+   TUJINO B, 1981, J JPN THERM SPRAY SO, V18, P621
+   WATANABE S, 1977, JPN I MAT, V47, P26
+   YAMADA K, 1994, P 3 THERM SPRAY DIV, P6
+NR 7
+TC 25
+Z9 27
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0042-207X
+J9 VACUUM
+JI Vacuum
+PD MAY 27
+PY 2002
+VL 65
+IS 3-4
+BP 533
+EP 540
+DI 10.1016/S0042-207X(01)00468-7
+PG 8
+WC Materials Science, Multidisciplinary; Physics, Applied
+SC Materials Science; Physics
+GA 574CY
+UT WOS:000176871900041
+ER
+
+PT J
+AU Wu, PH
+   Yonekura, H
+   Li, H
+   Nozaki, I
+   Tomono, Y
+   Naito, I
+   Ninomiya, Y
+   Yamamoto, H
+AF Wu, PH
+   Yonekura, H
+   Li, H
+   Nozaki, I
+   Tomono, Y
+   Naito, I
+   Ninomiya, Y
+   Yamamoto, H
+TI Hypoxia down-regulates endostatin production by human microvascular
+   endothelial cells and pericytes
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE angiostatic factor; collagen XVIII; endostatin; endothelial cell;
+   hypoxia; pericyte
+ID GROWTH-FACTOR; ANGIOGENESIS; INHIBITOR; ANGIOPOIETIN-2; EXPRESSION;
+   AUTOCRINE; COLLAGEN; XVIII
+AB Endostatin is a potent anti-angiogenic factor derived from the C-terminal region of collagen XVIII and is implicated in the regulation of physiological and pathological angiogenesis. In this study, reverse transcription-polymerase chain reaction analysis of poly(A)(+) RNA demonstrated the presence of mRNA for collagen XVIII in human endothelial cells (EC) and pericytes, the very constituents of microvessels wherein angiogenesis takes place. Enzyme immunoassay revealed that both cell types liberated endostatin into culture media and that the endostatin levels were decreased by hypoxia, the principal cause of angiogenesis. Northern and Western blot analyses revealed that while the collagen XVIII/endostatin mRNA levels were invariant between hypoxic and normoxic conditions, the collagen XVIII protein levels in EC and pericytes decreased by hypoxia. Further, exogenously administered intact endostatin was significantly decreased when it was incubated with hypoxic conditioned media of endothelial cells or pericytes, but not with normoxic media. The results suggest that the reduction of autocrine endostatin may take an active part in hypoxia-driven angiogenesis. (C) 2001 Academic Press.
+C1 Kanazawa Univ, Grad Sch Med Sci, Dept Biochem & Mol Vasc Biol, Kanazawa, Ishikawa 9208640, Japan.
+   Shigei Med Res Inst, Div Mol & Cell Biol, Okayama 7010202, Japan.
+   Shigei Med Res Inst, Div Ultrastruct Pathol, Okayama 7010202, Japan.
+   Okayama Univ, Sch Med, Dept Mol Biol & Biochem, Okayama 7008558, Japan.
+RP Yamamoto, H (reprint author), Kanazawa Univ, Grad Sch Med Sci, Dept Biochem & Mol Vasc Biol, Kanazawa, Ishikawa 9208640, Japan.
+CR Canfield AE, 1996, J CELL SCI, V109, P343
+   Dawson DW, 1999, SCIENCE, V285, P245, DOI 10.1126/science.285.5425.245
+   GALLAGHER SR, 1995, CURRENT PROTOCOLS PR
+   GOOD DJ, 1990, P NATL ACAD SCI USA, V87, P6624, DOI 10.1073/pnas.87.17.6624
+   Griffioen AW, 2000, PHARMACOL REV, V52, P237
+   Halfter W, 1998, J BIOL CHEM, V273, P25404, DOI 10.1074/jbc.273.39.25404
+   Hanahan D, 1996, CELL, V86, P353, DOI 10.1016/S0092-8674(00)80108-7
+   Hiraki Y, 1997, J BIOL CHEM, V272, P32419, DOI 10.1074/jbc.272.51.32419
+   KING GL, 1994, JOSLINS DIABETES MEL, P177
+   Maisonpierre PC, 1997, SCIENCE, V277, P55, DOI 10.1126/science.277.5322.55
+   NOMURA M, 1995, J BIOL CHEM, V270, P28316
+   Oh H, 1999, J BIOL CHEM, V274, P15732, DOI 10.1074/jbc.274.22.15732
+   Olsen B. R., 1991, CELL BIOL EXTRACELLU, P177
+   OREILLY MS, 1994, CELL, V79, P315, DOI 10.1016/0092-8674(94)90200-3
+   OReilly MS, 1997, CELL, V88, P277, DOI 10.1016/S0092-8674(00)81848-6
+   Saarela J, 1998, MATRIX BIOL, V16, P319, DOI 10.1016/S0945-053X(98)90003-8
+   Wen W, 1999, CANCER RES, V59, P6052
+   Yamagishi S, 1999, LAB INVEST, V79, P501
+   YAMAGISHI S, 1993, BIOCHEM BIOPH RES CO, V190, P418, DOI 10.1006/bbrc.1993.1064
+   Yonekura H, 1999, NUCLEIC ACIDS RES, V27, P2591, DOI 10.1093/nar/27.13.2591
+   Yonekura H, 1999, J BIOL CHEM, V274, P35172, DOI 10.1074/jbc.274.49.35172
+NR 21
+TC 29
+Z9 33
+PU ACADEMIC PRESS INC
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD NOV 16
+PY 2001
+VL 288
+IS 5
+BP 1149
+EP 1154
+DI 10.1006/bbrc.2001.5903
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 497QT
+UT WOS:000172467500013
+ER
+
+PT J
+AU Tomono, Y
+   Saito, H
+   Inoue, T
+AF Tomono, Y
+   Saito, H
+   Inoue, T
+TI Effect of physical aging on the stress and birefringence relaxation
+   behaviors in polycarbonate glass
+SO NIHON REOROJI GAKKAISHI
+LA Japanese
+DT Article
+DE physical aging; polycarbonate; stress relaxation; birefringence;
+   enthalpy relaxation
+ID AMORPHOUS POLYMERS; DISSIMILAR POLYMERS; CHAIN RELAXATION;
+   VISCOELASTICITY; DEFORMATIONS; TRANSITION; DYNAMICS; VOLUME
+AB The effect of physical aging on stress and birefringence relaxation behaviors in polycarbonate (PC) glass was investigated. The birefringence relaxed monotonically at the glass transition-to-rubbery plateau region for the non-aged PC, suggesting that chain orientation relaxes in a single relaxation process in this region. On the other hand, stepwise relaxation behavior was observed in birefringence for the aged PC. The birefringence relaxation curves at various temperatures for the aged PC could not be superimposed by horizontal shift. The complicated relaxation behavior could be caused not only by the physical aging but also by the rejuvenation of enthalpy during the relaxation measurement.
+C1 Tokyo Inst Technol, Dept Organ & Polymer Mat, Meguro Ku, Tokyo 1528552, Japan.
+RI Saito, Hiromu/C-9250-2013
+OI Saito, Hiromu/0000-0002-0627-7890
+CR BAUWENSCROWET C, 1991, J NON-CRYST SOLIDS, V131, P505, DOI 10.1016/0022-3093(91)90348-A
+   BERENS AR, 1982, MACROMOLECULES, V15, P756, DOI 10.1021/ma00231a015
+   Doi M., 1986, THEORY POLYM DYNAMIC
+   Ferry J. D., 1980, VISCOELASTIC PROPERT
+   HILL AJ, 1990, POLYM ENG SCI, V30, P762, DOI 10.1002/pen.760301303
+   HODGE IM, 1994, J NON-CRYST SOLIDS, V169, P211, DOI 10.1016/0022-3093(94)90321-2
+   HOFFMAN A, 1994, DISORDER EFFECTS REL, pCH10
+   HWANG EJ, 1993, POLYMER, V34, P1661, DOI 10.1016/0032-3861(93)90325-5
+   KOBAYASHI Y, 1989, MACROMOLECULES, V22, P2303
+   KOENEN JA, 1989, J POLYM SCI POL PHYS, V27, P1235, DOI 10.1002/polb.1989.090270605
+   KOVACS AJ, 1979, J POLYM SCI POL PHYS, V17, P1097, DOI 10.1002/pol.1979.180170701
+   LIN YH, 1986, MACROMOLECULES, V19, P159, DOI 10.1021/ma00155a024
+   Lin YH, 1996, MACROMOLECULES, V29, P5200, DOI 10.1021/ma9516596
+   MCKENNA GB, 1991, J NON-CRYST SOLIDS, V131, P497, DOI 10.1016/0022-3093(91)90347-9
+   MCKENNA GB, 1984, POLYM ENG SCI, V24, P1138, DOI 10.1002/pen.760241410
+   Osaki K, 1996, MACROMOLECULES, V29, P7622, DOI 10.1021/ma9609947
+   OSAKI K, 1994, J NON-CRYST SOLIDS, V172, P838, DOI 10.1016/0022-3093(94)90586-X
+   PEREZ J, 1994, J NON-CRYST SOLIDS, V172, P1028, DOI 10.1016/0022-3093(94)90617-3
+   READ BE, 1983, POLYM ENG SCI, V23, P835, DOI 10.1002/pen.760231509
+   ROUSE PE, 1953, J CHEM PHYS, V21, P1272, DOI 10.1063/1.1699180
+   SAITO H, 1991, MACROMOLECULES, V24, P6536, DOI 10.1021/ma00024a027
+   SAITO H, 1992, MACROMOLECULES, V25, P1824, DOI 10.1021/ma00032a032
+   SHIMO T, 1992, MACROMOLECULES, V25, P5026, DOI 10.1021/ma00045a032
+   STRUIK LCE, 1978, PHYSICAL AGING AMORP
+   TAKAHARA K, 1999, POLYMER, V40, pR30
+   TANT MR, 1981, POLYM ENG SCI, V21, P874, DOI 10.1002/pen.760211403
+   YANNAS IV, 1982, J MACROMOL SCI PHYS, VB21, P443, DOI 10.1080/00222348208018794
+   Yoshida H, 1995, THERMOCHIM ACTA, V266, P119, DOI 10.1016/0040-6031(95)02437-9
+NR 28
+TC 3
+Z9 3
+PU SOC RHEOLOGY, JAPAN
+PI KYOTO
+PA I T E C, 3F BLDG NO.4, KYOTO RESEARCH PARK, 1, CHUDOJI-AWATA,
+   SHIMOGYO-KU, KYOTO, 600, JAPAN
+SN 0387-1533
+J9 NIHON REOROJI GAKK
+JI Nihon Reoroji Gakkaishi
+PY 1999
+VL 27
+IS 1
+BP 43
+EP 48
+DI 10.1678/rheology.27.43
+PG 6
+WC Mechanics; Polymer Science
+SC Mechanics; Polymer Science
+GA 190QU
+UT WOS:000079976600006
+ER
+
+PT J
+AU Uematsu, T
+   Nagashima, S
+   Niwa, M
+   Kohno, K
+   Sassa, T
+   Ishii, M
+   Tomono, Y
+   Yamato, C
+   Kanamaru, M
+AF Uematsu, T
+   Nagashima, S
+   Niwa, M
+   Kohno, K
+   Sassa, T
+   Ishii, M
+   Tomono, Y
+   Yamato, C
+   Kanamaru, M
+TI Effect of dietary fat content on oral bioavailability of menatetrenone
+   in humans
+SO JOURNAL OF PHARMACEUTICAL SCIENCES
+LA English
+DT Article
+ID ABSORPTION; RATS
+AB The purpose of this investigation was to determine the effects of fat content and frequency of meals on the oral bioavailability of menatetrenone (2-methyl-3-alf-trans-tetraprenyl-1,4-naphthoquinone), a vitamin K-2 with four isoprene units. in the first series of studies, menatetrenone (15 mg) was administered at breakfast time to 18 healthy male volunteers after meals with three different fat contents (meals A, B, and C) on three occasions in a crossover design. The three types of meals had almost the same calorie content (721-746 kcal) with varied fat contents (A, 8.8 g; B, 20.0 g; C, 34.9 g). The area under the plasma menatetrenone concentration-time curve within the first 24 h (AUC(0-24)) increased with increase of fat content: 371 +/- 194, 485 +/- 150, and 1024 +/- 341 ng . h/ml (mean +/- SD, n = 18) after meals A, B, and C, respectively. On the fourth occasion, the same dose of menatetrenone was administered to all volunteers after taking meal B, but in this case the lunch 5 h after drug administration was omitted from the protocol. The time profile of plasma menatetrenone showed a single peak when lunch was not taken, whereas it showed two peaks with lunch. On the fifth occasion, 12 out of 18 volunteers took the same dose of menatetrenone after a meal with the highest fat content (53.8 g of fat and 789 kcal; meal D), showing that AUC(0-24) was almost the same as that for meal C, 1027 +/- 389 and 991 +/- 392 ng . h/mL (n = 12) for meals C and D, respectively. The oral bioavailability of lipid-soluble vitamin K was influenced by the fat content of a meal, although the increase in bioavailability seemed to reach a peak when the lipid content of the meal was >35 g.
+C1 GEORGETOWN UNIV,CLIN PHARMACOL CTR,WASHINGTON,DC.
+   EISAI & CO LTD,DEPT CLIN PHARMACOL & BIOSTAT,DIV RES & DEV,TOKYO 11288,JAPAN.
+   SHITORO CLIN,HAMAMATSU,SHIZUOKA 432,JAPAN.
+RP Uematsu, T (reprint author), GIFU UNIV,SCH MED,DEPT PHARMACOL,GIFU 500,JAPAN.
+CR AKIYAMA Y, 1993, JPN J PHARMACOL, V62, P145, DOI 10.1254/jjp.62.145
+   BATES TR, 1980, J PHARM SCI, V64, P793
+   BOUCKAERT JH, 1960, NATURE, V185, P849, DOI 10.1038/185849a0
+   COLBURN WA, 1985, J CLIN PHARMACOL, V25, P583
+   DEMARCO TJ, 1969, J PHARMACOL EXP THER, V169, P142
+   HAUSCHKA PV, 1976, P NATL ACAD SCI USA, V73, P1447
+   ISHII M, 1995, JPN PHARMACOL THER, V23, P2677
+   KOSHIHARA Y, 1992, J CLIN EXP MED, V161, P439
+   MARCUS R, 1990, GOODMAN GILMANS PHAR, P1564
+   MURANUSHI N, 1980, INT J PHARM, V4, P271
+   NAKAGAWA T, 1995, P ANN M JPN SOC PHAR, V4, P176
+   ORIMO H, 1992, J BONE MINER RES, V7, pS122
+   PALIN KJ, 1982, J PHARM PHARMACOL, V34, P707
+   PRICE PA, 1985, VITAM HORM, V42, P65
+   SHIRAKI M, 1992, SHINYAKU TO RINSHO, V41, P1249
+   TADANO K, 1989, J PHARMACOBIO-DYNAM, V12, P646
+   TUCKER G, 1993, LANCET, V341, P1314, DOI 10.1016/0140-6736(93)90821-W
+   *MIN HLTH WEALTH J, 1993, NUTR STAT JAP PEOPL, P29
+   *MIN HLTH WEALTH J, 1990, NUTR REQ JAP PEOPL V, P10
+NR 19
+TC 18
+Z9 18
+PU AMER PHARMACEUTICAL ASSN
+PI WASHINGTON
+PA 2215 CONSTITUTION AVE NW, WASHINGTON, DC 20037
+SN 0022-3549
+J9 J PHARM SCI
+JI J. Pharm. Sci.
+PD SEP
+PY 1996
+VL 85
+IS 9
+BP 1012
+EP 1016
+DI 10.1021/js9600641
+PG 5
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA VF662
+UT WOS:A1996VF66200020
+ER
+
+PT J
+AU SUZUKI, M
+   TANAKA, H
+   MIURA, M
+   SUZUKI, Y
+   MORI, M
+   TAKASAGO, M
+   TOMONO, Y
+AF SUZUKI, M
+   TANAKA, H
+   MIURA, M
+   SUZUKI, Y
+   MORI, M
+   TAKASAGO, M
+   TOMONO, Y
+TI ADVANCED DIRECT SEEKING SYSTEM FOR 5.25'' MAGNETOOPTICAL DISK-DRIVE
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE MAGNETOOPTICAL DISK DRIVE; ACCESS; DIRECT SEEK; TRACKING ERROR SIGNAL;
+   LINEARIZATION; VELOCITY CONTROL; TRACK CROSS PULSE; MISCOUNT; TRACK
+   COUNT
+AB In order to realize high-speed access using a direct seeking system, new methods of tracking error signal transformation, relative velocity detection, and double window detection have been developed. These methods were applied to a 5.25'' magnetooptical disk drive, and a direct seeking system whose counting error is less than one track was realized.
+C1 HITACHI VIDEO & INFORMAT SYST INC,TOTSUKA KU,YOKOHAMA 244,JAPAN.
+   HITACHI LTD,DIV DATA STORAGE & RETRIEVAL SYST,ODAWARA 256,JAPAN.
+RP SUZUKI, M (reprint author), HITACHI LTD,IMAGE & MEDIA SYST LAB,292 YOSHIDA CHO,TOTSUKA KU,YOKOHAMA 244,JAPAN.
+CR ISHIBASHI H, 1987, JPN J APPL PHYS 1, V26, P167
+   OGAWA M, 1991, JPN J APPL PHYS S, V30, P276
+   Suzuki M., 1990, Journal of the Institute of Television Engineers of Japan, V44
+   ISOIEC DIS10089 DRAF, P55
+NR 4
+TC 5
+Z9 5
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD NOV
+PY 1993
+VL 32
+IS 11B
+BP 5371
+EP 5375
+DI 10.1143/JJAP.32.5371
+PG 5
+WC Physics, Applied
+SC Physics
+GA ML967
+UT WOS:A1993ML96700037
+ER
+
+PT J
+AU TOMONO, Y
+   TAKAOKA, T
+   YAJIMA, M
+   TANOKURA, Y
+   JINDA, N
+AF TOMONO, Y
+   TAKAOKA, T
+   YAJIMA, M
+   TANOKURA, Y
+   JINDA, N
+TI TEMPERATURE-DEPENDENCE OF LATTICE VIBRATION FREQUENCIES OF KNIF3 IN
+   CONNECTION WITH ANTIFERROMAGNETISM
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP TOMONO, Y (reprint author), SOPHIA UNIV,FAC SCI & TECHNOL,DEPT PHYS,CHIYODA KU,TOKYO 102,JAPAN.
+CR ANDERSON PW, 1963, SOLID STATE PHYS, V14, P99
+   NAKAGAWA I, 1974, APPL SPECTROSC REV, V8, P229, DOI 10.1080/05704927408060376
+   SHULMAN RG, 1963, PHYS REV, V130, P506, DOI 10.1103/PhysRev.130.506
+   SHULMAN RG, 1960, PHYS REV LETT, V4, P603, DOI 10.1103/PhysRevLett.4.603
+   SINTANI K, 1968, J PHYS SOC JPN, V25, P99, DOI 10.1143/JPSJ.25.99
+   TOMONO Y, 1984, J PHYS SOC JPN, V53, P773, DOI 10.1143/JPSJ.53.773
+NR 6
+TC 3
+Z9 3
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING,RM 211, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO,
+   105-0011, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD FEB
+PY 1990
+VL 59
+IS 2
+BP 579
+EP 583
+DI 10.1143/JPSJ.59.579
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA CY489
+UT WOS:A1990CY48900030
+ER
+
+PT J
+AU TOMONO, Y
+   SATO, S
+   KONDOW, T
+   TANOKURA, Y
+AF TOMONO, Y
+   SATO, S
+   KONDOW, T
+   TANOKURA, Y
+TI HYDROGEN ABSORPTION PROCESS BY GRAPHITE-INTERCALATION COMPOUND C24RB AT
+   LIQUID-NITROGEN TEMPERATURE
+SO SYNTHETIC METALS
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT CHEM,TOKYO 113,JAPAN.
+RP TOMONO, Y (reprint author), SOPHIA UNIV,DEPT PHYS,TOKYO 102,JAPAN.
+CR BEAUFILS JP, 1981, MOL PHYS, V44, P1257, DOI 10.1080/00268978100103171
+   INOKUCHI H, 1967, J CHEM PHYS, V46, P837, DOI 10.1063/1.1840813
+   KAMBE N, 1980, PHYS REV B, V21, P3491, DOI 10.1103/PhysRevB.21.3491
+   KONDOW T, 1981, PHYSICS INTERCALATIO, P315
+   KONDOW T, 1985, SYNTHETIC MET, V12, P213, DOI 10.1016/0379-6779(85)90112-2
+   LAGRANGE P, 1972, CR HEBD ACAD SCI, V275, pC765
+   WATANABE K, 1973, PROC R SOC LON SER-A, V333, P51, DOI 10.1098/rspa.1973.0047
+   WATANABE K, 1971, NATURE-PHYS SCI, V233, P160
+   ZABEL H, 1983, SYNTH MET, V7, P261
+NR 9
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0379-6779
+J9 SYNTHETIC MET
+JI Synth. Met.
+PD SEP 15
+PY 1988
+VL 25
+IS 4
+BP 385
+EP 391
+DI 10.1016/0379-6779(88)90578-4
+PG 7
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter; Polymer
+   Science
+SC Materials Science; Physics; Polymer Science
+GA Q2514
+UT WOS:A1988Q251400008
+ER
+
+PT J
+AU KONDOW, T
+   SAGAWA, M
+   TAKEYAMA, T
+   TOMONO, Y
+   ANDO, K
+   MIZUTANI, U
+AF KONDOW, T
+   SAGAWA, M
+   TAKEYAMA, T
+   TOMONO, Y
+   ANDO, K
+   MIZUTANI, U
+TI ELECTRON-SPIN-RESONANCE AND LOW-TEMPERATURE SPECIFIC-HEATS OF C24K(H2)X
+   AND C24K(D2)X
+SO SYNTHETIC METALS
+LA English
+DT Article
+C1 SOPHIA UNIV,FAC SCI & ENGN,DEPT PHYS,CHIYODA KU,TOKYO 102,JAPAN.
+   NAGOYA UNIV,FAC ENGN,DEPT APPL PHYS,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+RP KONDOW, T (reprint author), UNIV TOKYO,FAC SCI,DEPT CHEM,BUNKYO KU,TOKYO 113,JAPAN.
+CR DISALVO FJ, 1978, SOLID STATE COMMUN, V28, P71, DOI 10.1016/0038-1098(78)90330-7
+   FEHER G, 1955, PHYS REV, V98, P337, DOI 10.1103/PhysRev.98.337
+   Fowler R.H., 1940, Proceedings of the Royal Society of London, Series A (Mathematical and Physical Sciences), V174, DOI 10.1098/rspa.1940.0014
+   INOKUCHI H, 1967, J CHEM PHYS, V46, P837, DOI 10.1063/1.1840813
+   KONDOW T, 1981, PHYSICS INTERCALATIO, P315
+   KONDOW T, 1983, SYNTHETIC MET, V6, P141, DOI 10.1016/0379-6779(83)90148-0
+   LAGRANGE P, 1972, SR ACAD SCI, V275, pC765
+   LOW W, 1957, PHYS REV, V105, P793, DOI 10.1103/PhysRev.105.793
+   MARECHE JF, 1980, SYNTHETIC MET, V2, P267, DOI 10.1016/0379-6779(80)90056-9
+   MIZUTANI U, 1978, PHYS REV B, V17, P3165, DOI 10.1103/PhysRevB.17.3165
+   MURATA M, 1982, J PHYS SOC JPN, V51, P1337, DOI 10.1143/JPSJ.51.1337
+   SUGIHARA K, 1984, J PHYS SOC JPN, V53, P795, DOI 10.1143/JPSJ.53.795
+   SUGIHARA K, 1984, J PHYS SOC JPN, V53, P393, DOI 10.1143/JPSJ.53.393
+   TERAI T, 1983, SYNTHETIC MET, V7, P49, DOI 10.1016/0379-6779(83)90083-8
+   WATANABE K, 1973, PROC R SOC LON SER-A, V333, P51, DOI 10.1098/rspa.1973.0047
+   WATANABE K, 1971, NATURE-PHYS SCI, V233, P160
+NR 16
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0379-6779
+J9 SYNTHETIC MET
+JI Synth. Met.
+PD NOV-DEC
+PY 1985
+VL 12
+IS 1-2
+BP 213
+EP 218
+DI 10.1016/0379-6779(85)90112-2
+PG 6
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter; Polymer
+   Science
+SC Materials Science; Physics; Polymer Science
+GA AXP03
+UT WOS:A1985AXP0300036
+ER
+
+PT J
+AU TOMONO, Y
+   NAITO, I
+   WATANABE, K
+AF TOMONO, Y
+   NAITO, I
+   WATANABE, K
+TI GLYCOSPHINGOLIPID PATTERNS OF RAT-KIDNEY DEPENDENCE ON AGE AND SEX
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 SHIGEI MED RES INST,DIV BIOCHEM,2117 YAMADA,OKAYAMA 70102,JAPAN.
+   SHIGEI MED RES INST,DIV ULTRASTRUCTURES,OKAYAMA 70102,JAPAN.
+CR ADAMS EP, 1968, CHEM PHYS LIPIDS, V2, P147, DOI 10.1016/0009-3084(68)90018-2
+   BARTON NW, 1975, J BIOL CHEM, V250, P8462
+   BASS NH, 1981, GANGLIOSIDES NEUROBI, P29
+   BOUHOURS JF, 1976, BIOCHIM BIOPHYS ACTA, V441, P123, DOI 10.1016/0005-2760(76)90287-3
+   COLES L, 1970, BIOCHEM BIOPH RES CO, V38, P520, DOI 10.1016/0006-291X(70)90745-X
+   COLES L, 1970, J LIPID RES, V11, P158
+   COSTANTI.E, 1973, J BIOL CHEM, V248, P8240
+   DUFFARD RO, 1972, BIOCHEMISTRY-US, V11, P1396, DOI 10.1021/bi00758a011
+   GRAY GM, 1971, BIOCHIM BIOPHYS ACTA, V239, P494, DOI 10.1016/0005-2760(71)90041-5
+   HAKOMORI S, 1976, GLYCOLIPID METHODOLO, P13
+   HAKOMORI SI, 1983, HDB LIPID RES, V3, P327
+   HAY JB, 1970, BIOCHIM BIOPHYS ACTA, V202, P566, DOI 10.1016/0005-2760(70)90132-3
+   KANFER JN, 1983, HDB LIPID RES, V3, P437
+   MARTENSS.E, 1974, J BIOL CHEM, V249, P4132
+   MEISLER MH, 1978, J BIOL CHEM, V253, P3129
+   MERAT A, 1973, J NEUROCHEM, V20, P873, DOI 10.1111/j.1471-4159.1973.tb00047.x
+   SAITO T, 1971, J LIPID RES, V12, P257
+   SIDDIQUI B, 1973, BIOCHIM BIOPHYS ACTA, V330, P147, DOI 10.1016/0005-2736(73)90219-8
+   SUZUKI K, 1964, LIFE SCI, V3, P1227, DOI 10.1016/0024-3205(64)90040-2
+   SVENNERHOLM L, 1963, J NEUROCHEM, V10, P613, DOI 10.1111/j.1471-4159.1963.tb08933.x
+   SVENNERHOLM L, 1957, BIOCHIM BIOPHYS ACTA, V24, P604, DOI 10.1016/0006-3002(57)90254-8
+   SWANK RT, 1978, RECENT PROG HORM RES, V34, P410
+   SWANK RT, 1973, J MOL BIOL, V81, P225, DOI 10.1016/0022-2836(73)90191-5
+   TAKI T, 1983, J BIOCHEM-TOKYO, V94, P925
+   VANIER MT, 1971, J NEUROCHEM, V18, P581, DOI 10.1111/j.1471-4159.1971.tb11988.x
+   WATANABE K, 1984, ANAL BIOCH
+   YAMAKAWA T, 1960, J BIOCH, V48, P409
+NR 27
+TC 20
+Z9 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1984
+VL 796
+IS 2
+BP 199
+EP 204
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TY561
+UT WOS:A1984TY56100011
+ER
+
+PT J
+AU TOMONO, Y
+   KATO, T
+   TANOKURA, Y
+AF TOMONO, Y
+   KATO, T
+   TANOKURA, Y
+TI ELECTRON-PARAMAGNETIC-RES SPECTRA FROM NI2+ PAIRS IN KZNF3 CRYSTALS
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP TOMONO, Y (reprint author), SOPHIA UNIV,DEPT PHYS,CHIYODA KU,TOKYO 102,JAPAN.
+CR ANDERSON PW, 1963, SOLID STATE PHYS, V14, P99
+   JECK RK, 1972, PHYS REV B, V5, P1677, DOI 10.1103/PhysRevB.5.1677
+   KANAMORI J, 1963, MAGNETISM, V1, P161
+   MAY CEC, 1972, ELECTRON PARAMAGNETI, P427
+   ORTON JW, 1960, PHYS REV LETT, V4, P128, DOI 10.1103/PhysRevLett.4.128
+   SHINTANI K, 1968, J PHYS SOC JPN, V25, P99
+   SHULMAN RG, 1963, PHYS REV, V130, P506, DOI 10.1103/PhysRev.130.506
+   SHULMAN RG, 1960, PHYS REV LETT, V4, P603, DOI 10.1103/PhysRevLett.4.603
+   TINKHAM M, 1956, PROC R SOC LON SER-A, V236, P535, DOI 10.1098/rspa.1956.0154
+NR 9
+TC 5
+Z9 5
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1984
+VL 53
+IS 2
+BP 773
+EP 779
+DI 10.1143/JPSJ.53.773
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA SN109
+UT WOS:A1984SN10900045
+ER
+
+PT J
+AU HASEGAWA, J
+   TOMONO, Y
+   TANAKA, M
+   FUJITA, T
+   SUGIYAMA, K
+   HIROSE, N
+AF HASEGAWA, J
+   TOMONO, Y
+   TANAKA, M
+   FUJITA, T
+   SUGIYAMA, K
+   HIROSE, N
+TI PHARMACOKINETIC AND BIOPHARMACEUTICAL STUDIES ON AZELASTINE
+   HYDROCHLORIDE IN BEAGLE DOGS BY QUANTITATIVE SELECTED-ION MONITORING
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+C1 EISAI CO LTD,DRUG METAB & BIOPHARMACEUT SECT,KOISHIKAWA,BUNKYO KU,TOKYO 112,JAPAN.
+   EISAI CO LTD,MED CHEM SECT,TOKYO,JAPAN.
+   EISAI CO LTD,TOXICOL & EXPTL BIOL RES SECT,GIFU,JAPAN.
+CR AWAZU S, 1970, 2ND S DRUG MET ACT K, P87
+   BOXENBAU.HG, 1974, J PHARMACOKINET BIOP, V2, P123, DOI 10.1007/BF01061504
+   BURSEY JT, 1973, CHEM REV, V73, P191, DOI 10.1021/cr60283a001
+   COLBURN WA, 1978, DRUG METAB DISPOS, V6, P193
+   GIBALDI M, 1971, J PHARM SCI, V60, P1338, DOI 10.1002/jps.2600600909
+   LENKE D, 1971, ASTA A5610
+   LOO JCK, 1968, J PHARM SCI, V57, P918, DOI 10.1002/jps.2600570602
+   OMAILLE ERL, 1967, J PHYSIOL-LONDON, V189, P337
+   RIEGELMA.S, 1973, J PHARMACOKINET BIOP, V1, P419, DOI 10.1007/BF01059666
+   ROWLAND M, 1972, J PHARM SCI, V61, P70, DOI 10.1002/jps.2600610111
+   ROWLAND M, 1973, J PHARMACOKINET BIOP, V1, P123, DOI 10.1007/BF01059626
+   TASAKA K, 1979, ARZNEIMITTEL-FORSCH, V29-1, P488
+   TATSUMI K, 1980, JPN J PHARMACOL, V30, P37
+   VATNER SF, 1970, AM J PHYSIOL, V219, P170
+   ZECHEL HJ, 1981, ARZNEIMITTEL-FORSCH, V31-2, P1184
+NR 15
+TC 7
+Z9 7
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PY 1981
+VL 31-2
+IS 8
+BP 1215
+EP 1220
+PG 6
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA MB843
+UT WOS:A1981MB84300009
+ER
+
+EF

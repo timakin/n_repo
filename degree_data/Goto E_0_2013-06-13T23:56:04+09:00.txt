@@ -1,0 +1,3510 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Yaguchi, S
+   Ogawa, Y
+   Kamoi, M
+   Uchino, M
+   Tatematsu, Y
+   Ban, Y
+   Ohba, E
+   Okamoto, S
+   Goto, E
+   Tsubota, K
+AF Yaguchi, S.
+   Ogawa, Y.
+   Kamoi, M.
+   Uchino, M.
+   Tatematsu, Y.
+   Ban, Y.
+   Ohba, E.
+   Okamoto, S.
+   Goto, E.
+   Tsubota, K.
+TI Surgical management of lacrimal punctal cauterization in chronic
+   GVHD-related dry eye with recurrent punctal plug extrusion
+SO BONE MARROW TRANSPLANTATION
+LA English
+DT Article
+DE dry eye; chronic GVHD; surgical punctal occlusion; cauterization
+ID VERSUS-HOST-DISEASE; FUNCTIONAL VISUAL-ACUITY; OCULAR SURFACE;
+   OCCLUSION; KERATOCONJUNCTIVITIS; EFFICACY; LASER; SICCA
+AB We investigated the efficacy of lacrimal punctal occlusion surgery with a cautery device in patients with chronic GVHD (cGVHD) -related dry eye, with recanalization of puncta and recurrent punctal plug extrusion. A total of 23 puncta from 14 eyes of 10 patients with chronic GVHD (cGVHD)-related dry eye underwent punctual thermal cauterization with a high-temperature disposable cautery device. All patients were refractory to conventional treatment, including artificial tear eye drops, autologous serum eye drops and vitamin A eye drops, and had a history of recanalization and recurrent punctal plug extrusion. The effect of lacrimal punctal cauterization by thermal cautery device was evaluated by changes in subjective symptom scores, corrected distance visual acuity, Schirmer's test values, fluorescein staining scores, rose bengal staining scores, and tear-film break-up time before and 3 months after the surgery. Subjective symptom scores, Schirmer's test values, fluorescein and rose bengal scores, and tear-film break-up time improved significantly 3 months after the surgery. Recanalization of puncta was not observed in all the cases (0 of 14 eyes, 0%). Lacrimal punctal cauterization was effective with no recanalization and significant improvements in subjective symptoms and the ocular surface environment in cGVHD-related dry eye patients who had been refractory to conventional treatments. Bone Marrow Transplantation (2012) 47, 1465-1469; doi:10.1038/bmt.2012.50; published online 19 March 2012
+C1 Keio Univ, Sch Med, Dept Ophthalmol, Shinjyuku Ku, Tokyo 1608582, Japan.
+   Tsurumi Univ, Sch Dent Med, Dept Ophthalmol, Yokohama, Kanagawa, Japan.
+   Keio Univ, Sch Med, Div Haematol, Dept Med, Tokyo 1608582, Japan.
+RP Ogawa, Y (reprint author), Keio Univ, Sch Med, Dept Ophthalmol, Shinjyuku Ku, 35 Shinanomachi, Tokyo 1608582, Japan.
+EM yoko@z7.keio.jp
+FU Japanese Ministry of the Education, Science, Sports and Culture (Tokyo,
+   Japan) [23592590]
+FX This study was supported in part by a Grant #23592590 from the Japanese
+   Ministry of the Education, Science, Sports and Culture (Tokyo, Japan).
+CR BENSON DR, 1992, OPHTHALMOLOGY, V99, P618
+   Couriel D, 2006, BIOL BLOOD MARROW TR, V12, P375, DOI 10.1016/j.bbmt.2006.02.003
+   FRANKLIN RM, 1983, OPHTHALMOLOGY, V90, P4
+   Goto E, 2003, AM J OPHTHALMOL, V135, P704, DOI 10.1016/S0002-9394(02)02147-5
+   Goto E, 2002, AM J OPHTHALMOL, V133, P181, DOI 10.1016/S0002-9394(01)01365-4
+   Goto E, 2006, AM J OPHTHALMOL, V142, P264, DOI 10.1016/j.ajo.2006.03.022
+   Kaido M, 2004, OPHTHALMOLOGY, V111, P895, DOI 10.1016/j.ophtha.2003.09.034
+   Kamoi Mizuka, 2007, Curr Eye Res, V32, P837, DOI 10.1080/02713680701586409
+   Kojima T, 2005, AM J OPHTHALMOL, V139, P242, DOI 10.1016/j.ajo.2004.08.040
+   Law RWK, 2005, BRIT J OPHTHALMOL, V89, P1449, DOI 10.1136/bjo.2005.066969
+   Liu D, 2002, BRIT J OPHTHALMOL, V86, P1031, DOI 10.1136/bjo.86.9.1031
+   Murube J, 1996, SURV OPHTHALMOL, V40, P463, DOI 10.1016/S0039-6257(96)82013-3
+   Ogawa Y, 2010, BONE MARROW TRANSPL, V45, P565, DOI 10.1038/bmt.2009.173
+   Ogawa Y, 2003, BONE MARROW TRANSPL, V31, P579, DOI 10.1038/sj.bmt.1703862
+   Ogawa Y, 1999, BRIT J OPHTHALMOL, V83, P1125, DOI 10.1136/bjo.83.10.1125
+   Ohba E, 2011, AM J OPHTHALMOL, V151, P483, DOI 10.1016/j.ajo.2010.08.045
+   Sabti S, 2012, BONE MARROW TRANSPL, V47, P981, DOI 10.1038/bmt.2011.205
+   Schirmer O., 1903, ALBRECH GRAEFES ARCH, V56, P197, DOI 10.1007/BF01946264
+   TODA I, 1993, CORNEA, V12, P366, DOI 10.1097/00003226-199307000-00015
+   VANBIJST.OP, 1969, ARCH OPHTHALMOL-CHIC, V82, P10
+   VRABEC MP, 1993, AM J OPHTHALMOL, V116, P469
+   Wang Y, 2008, BONE MARROW TRANSPL, V41, P293, DOI 10.1038/sj.bmt.1705900
+   Yang HY, 1997, AM J OPHTHALMOL, V124, P80
+   Yokoi Norihiko, 2004, Nippon Ganka Gakkai Zasshi, V108, P560
+   [Anonymous], 2007, OCUL SURF, V5, P75
+NR 25
+TC 1
+Z9 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0268-3369
+J9 BONE MARROW TRANSPL
+JI Bone Marrow Transplant.
+PD NOV
+PY 2012
+VL 47
+IS 11
+BP 1465
+EP 1469
+DI 10.1038/bmt.2012.50
+PG 5
+WC Biophysics; Oncology; Hematology; Immunology; Transplantation
+SC Biophysics; Oncology; Hematology; Immunology; Transplantation
+GA 033KS
+UT WOS:000310795500014
+ER
+
+PT J
+AU Higashihara, T
+   Goto, E
+   Ueda, M
+AF Higashihara, Tomoya
+   Goto, Eisuke
+   Ueda, Mitsuru
+TI Purification-Free and Protection-Free Synthesis of Regioregular
+   Poly(3-hexylthiophene) and Poly(3-(6-hydroxyhexyl)thiophene) Using a
+   Zincate Complex of (Bu4ZnLi2)-Bu-t
+SO ACS MACRO LETTERS
+LA English
+DT Article
+ID CHAIN-GROWTH POLYMERIZATION; ANIONIC-POLYMERIZATION; GRIGNARD
+   METATHESIS; SOLAR-CELLS; POLY(3-ALKYLTHIOPHENES); DESIGN; MECHANISM
+AB The controlled synthesis of head-to-tail regioregular poly(3-hexylthiophene) (P3HT) using a dianion-type zincate complex, (Bu4ZnLi2)-Bu-t, is described. The molecular weights of P3HTs could be increased up to 30 kDa by increasing the feed ratio of the monomer to Ni catalyst while maintaining a low polydispersity (PDI < 1.2) and a high regioregularity (>97%, when M-n > 10 kDa). Surprisingly, this new system can be used in as-received THF as well as in THF containing protic impurities, such as isopropanol, methanol, and even 1000 ppm water. In addition, the direct synthesis of poly[3-(6-hydroxyhexyl)thiophene] (P3HHT) could be performed without protection based on the developed system.
+C1 Tokyo Inst Technol, Grad Sch Sci & Engn, Dept Organ & Polymer Mat, Meguro Ku, Tokyo 1528552, Japan.
+   Japan Sci & Technol Agcy JST, Kawaguchi, Saitama 3320012, Japan.
+RP Higashihara, T (reprint author), Tokyo Inst Technol, Grad Sch Sci & Engn, Dept Organ & Polymer Mat, Meguro Ku, 2-12-1-H-120 O okayama, Tokyo 1528552, Japan.
+FU Japan Science and Technology Agency (JST) PRESTO [JY220176]; Japan
+   Society for the Promotion of Science, KAKENHI [22750100]
+FX This work was mainly supported by the Japan Science and Technology
+   Agency (JST) PRESTO program (JY220176). Also, we would like to thank the
+   Japan Society for the Promotion of Science for the partial financial
+   support by KAKENHI (22750100). The helpful discussion and advice given
+   by Prof. Masanobu Uchiyama (The University of Tokyo/Riken) is gratefully
+   acknowledged.
+CR Chen JW, 2009, ACCOUNTS CHEM RES, V42, P1709, DOI 10.1021/ar900061z
+   CHEN TA, 1995, J AM CHEM SOC, V117, P233, DOI 10.1021/ja00106a027
+   Cheng YJ, 2009, CHEM REV, V109, P5868, DOI 10.1021/cr900182s
+   Di CA, 2007, J PHYS CHEM B, V111, P14083, DOI 10.1021/jp071753b
+   Green MA, 2010, PROG PHOTOVOLTAICS, V18, P144, DOI 10.1002/pip.974
+   Ishizone T, 2003, MACROMOLECULES, V36, P42, DOI 10.1021/ma021257f
+   Kim JY, 2007, SCIENCE, V317, P222, DOI 10.1126/science.1141711
+   Kobayashi M, 2004, MACROMOLECULES, V37, P4339, DOI 10.1021/ma0400261
+   Loewe RS, 1999, ADV MATER, V11, P250, DOI 10.1002/(SICI)1521-4095(199903)11:3<250::AID-ADMA250>3.0.CO;2-J
+   Loewe RS, 2001, MACROMOLECULES, V34, P4324, DOI 10.1021/ma001677+
+   MCCULLOUGH RD, 1992, J CHEM SOC CHEM COMM, P70, DOI 10.1039/c39920000070
+   MCCULLOUGH RD, 1993, J ORG CHEM, V58, P904, DOI 10.1021/jo00056a024
+   Miyakoshi R, 2005, J AM CHEM SOC, V127, P17542, DOI 10.1021/ja0556880
+   Sheina E.E., 2005, MACROMOLECULES, V38, P8649
+   Sheina EE, 2004, MACROMOLECULES, V37, P3526, DOI 10.1021/ma0357063
+   Thompson BC, 2008, ANGEW CHEM INT EDIT, V47, P58, DOI 10.1002/anie.200702506
+   Uchiyama M, 2006, J AM CHEM SOC, V128, P8404, DOI 10.1021/ja058246x
+   Wei Q., 2008, ADV MATER, V20, P1
+   Yokoyama A, 2004, MACROMOLECULES, V37, P1169, DOI 10.1021/ma035396o
+NR 19
+TC 8
+Z9 8
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 2161-1653
+J9 ACS MACRO LETT
+JI ACS Macro Lett.
+PD JAN
+PY 2012
+VL 1
+IS 1
+BP 167
+EP 170
+DI 10.1021/mz200128d
+PG 4
+WC Polymer Science
+SC Polymer Science
+GA 913YR
+UT WOS:000301913800038
+ER
+
+PT J
+AU Takemura, Y
+   Nakajima, T
+   Tanase, T
+   Usuki, M
+   Takenaka, H
+   Goto, E
+   Mikuriya, M
+AF Takemura, Yukie
+   Nakajima, Takayuki
+   Tanase, Tomoaki
+   Usuki, Miho
+   Takenaka, Hiroe
+   Goto, Eri
+   Mikuriya, Masahiro
+TI Dynamic structural changes of pentacopper(II) chains supported by
+   N-6-donor ligands
+SO CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+ID METAL BOND FORMATION; COMPLEXES; COPPER; MAGNETISM; CLUSTERS; RH; IR
+AB Elastic pentacopper molecular chains, [Cu-5(panapy)(4)X-2] (X = Cl (1), Br (2)) and [Cu-5(panapy)(4)]X'(2) (X' = BF4 (3), PF6 (4)), were prepared using a naphthyridine-modulated N-6-donor ligand, panapy(2-), and showed magnetically coupled, dynamic rearrangement of five Cu(II) ions switched by the presence/absence of halide termination.
+C1 Nara Womens Univ, Fac Sci, Dept Chem, Nara 6308506, Japan.
+   Kwansei Gakuin Univ, Sch Sci & Technol, Dept Chem, Sanda, Hyogo 6991337, Japan.
+RP Tanase, T (reprint author), Nara Womens Univ, Fac Sci, Dept Chem, Kitauoya Higashi Machi, Nara 6308506, Japan.
+EM tanase@cc.nara-wu.ac.jp
+FU Japan Science Society; Nara Women's University; Ministry of Education,
+   Culture, Sports, Science and Technology, Japan
+FX We would like to thank Prof. Masashi Takada of Nara Women's University
+   for kind help in EPR measurement. Y.T. is grateful to the Japan Science
+   Society for generous financial support (Sasakawa Scientific Research
+   Grant) and to Nara Women's University for a grant for young women
+   researchers. This work was supported by a Grant-in-aid for Scientific
+   Research from the Ministry of Education, Culture, Sports, Science and
+   Technology, Japan.
+CR Benard M, 2006, INORG CHEM, V45, P3932, DOI 10.1021/ic051799o
+   Berry J. F., 2005, MULTIPLE BONDS METAL, P669, DOI 10.1007/0-387-25829-9_15
+   Berry JF, 2003, INORG CHEM, V42, P2418, DOI 10.1021/ic0262740
+   Berry JF, 2003, INORG CHEM, V42, P377, DOI 10.1021/ic025957c
+   Berry JF, 2002, J AM CHEM SOC, V124, P3212, DOI 10.1021/ja025543i
+   Chan WH, 1998, J CHEM SOC DALTON, P2867, DOI 10.1039/a802279h
+   Chien CH, 2006, DALTON T, P3249, DOI 10.1039/b516749c
+   Chien CH, 2006, DALTON T, P2106, DOI 10.1039/b515311e
+   Clerac R, 2000, INORG CHEM, V39, P4488, DOI 10.1021/ic000208l
+   Fortin D, 1998, J AM CHEM SOC, V120, P5351, DOI 10.1021/ja973902h
+   FOUNIER E, 2004, INORG CHEM, V43, P1491
+   Goto E, 2004, ANGEW CHEM INT EDIT, V43, P5029, DOI 10.1002/anie.200460707
+   Murahashi T, 1999, J AM CHEM SOC, V121, P10660, DOI 10.1021/ja992387f
+   Murahashi T, 2007, ANGEW CHEM INT EDIT, V46, P3509, DOI 10.1002/anie.200700340
+   Murahashi T, 2003, J AM CHEM SOC, V125, P8436, DOI 10.1021/ja0358246
+   Ohashi M, 2007, INORG CHEM, V46, P6702, DOI 10.1021/ic062474q
+   Ruffer T, 2004, J AM CHEM SOC, V126, P12244, DOI 10.1021/ja046552p
+   Tatsumi Y, 2008, CHEM COMMUN, P477, DOI 10.1039/b714530f
+   Tejel C, 2003, ANGEW CHEM INT EDIT, V42, P529, DOI 10.1002/anie.200390152
+   van Albada GA, 1999, EUR J INORG CHEM, P2269
+   Villarroya BE, 2005, INORG CHEM, V44, P6536, DOI 10.1021/ic050419w
+   Yeh CY, 2006, REDOX SYSTEMS UNDER NANO-SPACE CONTROL, P85, DOI 10.1007/3-540-29580-1_5
+NR 22
+TC 4
+Z9 4
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1359-7345
+J9 CHEM COMMUN
+JI Chem. Commun.
+PY 2009
+IS 13
+BP 1664
+EP 1666
+DI 10.1039/b817237d
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 419XX
+UT WOS:000264254100013
+ER
+
+PT J
+AU Goto, E
+   Mito-Yoshida, M
+   Uematsu, M
+   Aoki, M
+   Matsuki, Y
+   Ohmura-Hoshino, M
+   Hotta, H
+   Miyagishi, M
+   Ishido, S
+AF Goto, Eiji
+   Mito-Yoshida, Mari
+   Uematsu, Mika
+   Aoki, Masami
+   Matsuki, Yohei
+   Ohmura-Hoshino, Mari
+   Hotta, Hak
+   Miyagishi, Makoto
+   Ishido, Satoshi
+TI An Excellent Monitoring System for Surface Ubiquitination-Induced
+   Internalization in Mammals
+SO PLOS ONE
+LA English
+DT Article
+AB Background. At present, it is difficult to visualize the internalization of surface receptors induced by ubiquitination that is taken place at the plasma membrane in mammals. This problem makes it difficult to reveal molecular basis for ubiquitination-mediated internalization in mammals. Methodology/Principle Findings. In order to overcome it, we have generated T-REx-c-MIR, a novel mammalian Tet-on B cell line using a constitutively active E3 ubiquitin ligase, c-MIR, and its artificial target molecule. By applying the surface biotinylation method to T-REx-c-MIR, we succeeded to monitor the fate of surface target molecules after initiation of ubiquitination process by doxycycline (Dox)-induced c-MIR expression. Target molecules that preexisted at the plasma membrane before induction of c-MIR expression were oligo-ubiquitinated and degraded by Dox-induced c-MIR expression. Dox-induced c-MIR expression initiated rapid internalization of surface target molecules, and blockage of the internalization induced the accumulation of the surface target molecules that were newly ubiquitinated by c-MIR. Inhibition of the surface ubiquitination by down-regulating ubiquitin conjugating enzyme E2 impaired the internalization of target molecules. Finally, a complex of c-MIR and target molecule was detected at the plasma membrane. Conclusions/Significances. These results demonstrate that in T-REx-c-MIR, surface target molecule is ubiquitinated at the plasma membrane and followed by being internalized from the plasma membrane. Thus, T-REx-c-MIR is a useful experimental tool to analyze how surface ubiquitination regulates internalization in mammals.
+C1 RIKEN, Res Ctr Allergy & Immunol, Lab Infect Immun, Yokohama, Kanagawa, Japan.
+   Kobe Univ, Grad Sch Med, Dept Pathol & Microbiol, Kobe, Hyogo, Japan.
+   Univ Tokyo, Sch Med, Century 21 COE Prog, Tokyo, Japan.
+RP Ishido, S (reprint author), RIKEN, Res Ctr Allergy & Immunol, Lab Infect Immun, Yokohama, Kanagawa, Japan.
+EM ishido@rcai.riken.jp
+FU Ministry of Education, Science, Sports, and Culture (MEXT) of Japan
+   [Grant-in-Aid for Scientific Research]; Japan Society for the Promotion
+   of Science (JSPS)
+FX This work was supported by a Grant-in-Aid for Scientific Research from
+   the Ministry of Education, Science, Sports, and Culture (MEXT) of Japan
+   and by the Japan Society for the Promotion of Science (JSPS).
+CR BAKER A, 1995, LEUKEMIA RES, V19, P309, DOI 10.1016/0145-2126(94)00128-W
+   Barriere H, 2006, TRAFFIC, V7, P282, DOI 10.1111/j.1600-0854.2006.00384.x
+   Bartee E, 2004, J VIROL, V78, P1109, DOI 10.1128/JVI.78.3.1109-1120.2004
+   CHAU V, 1989, SCIENCE, V243, P1576, DOI 10.1126/science.2538923
+   Coscoy L, 2000, P NATL ACAD SCI USA, V97, P8051, DOI 10.1073/pnas.140129797
+   Duncan LM, 2006, EMBO J, V25, P1635, DOI 10.1038/sj.emboj.7601056
+   Dupre S, 2004, BBA-MOL CELL RES, V1695, P89, DOI 10.1016/j.bbamcr.2004.09.024
+   Goto E, 2003, J BIOL CHEM, V278, P14657, DOI 10.1074/jbc.M211285200
+   Hershko A, 1998, ANNU REV BIOCHEM, V67, P425, DOI 10.1146/annurev.biochem.67.1.425
+   Hewitt EW, 2002, EMBO J, V21, P2418, DOI 10.1093/emboj/21.10.2418
+   Hicke L, 2003, ANNU REV CELL DEV BI, V19, P141, DOI 10.1146/annurev.cellbio.19.110701.154617
+   Hicke L, 1996, CELL, V84, P277, DOI 10.1016/S0092-8674(00)80982-4
+   Ishido S, 2000, J VIROL, V74, P5300, DOI 10.1128/JVI.74.11.5300-5309.2000
+   Kamsteeg EJ, 2006, P NATL ACAD SCI USA, V103, P18344, DOI 10.1073/pnas.0604073103
+   Lehner PJ, 2005, IMMUNOL REV, V207, P112, DOI 10.1111/j.0105-2896.2005.00314.x
+   Levkowitz G, 1998, GENE DEV, V12, P3663, DOI 10.1101/gad.12.23.3663
+   Levkowitz G, 1999, MOL CELL, V4, P1029, DOI 10.1016/S1097-2765(00)80231-2
+   Matsuki Y, 2007, EMBO J, V26, P846, DOI 10.1038/sj.emboj.7601556
+   Matsumoto Sahohime, 2007, Methods Mol Biol, V360, P131
+   Mukhopadhyay D, 2007, SCIENCE, V315, P201, DOI 10.1126/science.1127085
+   Ohmura-Hoshino M, 2006, J IMMUNOL, V177, P341
+   Ohmura-Hoshino M, 2006, J BIOCHEM, V140, P147, DOI 10.1093/jb/mvj160
+   RIDGE SA, 1990, P NATL ACAD SCI USA, V87, P1377, DOI 10.1073/pnas.87.4.1377
+   Ryan PE, 2006, TRENDS BIOCHEM SCI, V31, P79, DOI 10.1016/j.tibs.2005.12.004
+   Sanchez DJ, 2002, J BIOL CHEM, V277, P6124, DOI 10.1074/jbc.M110265200
+   Soubeyran P, 2002, NATURE, V416, P183, DOI 10.1038/416183a
+   Stevenson PG, 2000, P NATL ACAD SCI USA, V97, P8455, DOI 10.1073/pnas.150240097
+   Thien CBF, 2005, BIOCHEM J, V391, P153, DOI 10.1042/BJ20050892
+   Zhou RF, 2007, J BIOL CHEM, V282, P20207, DOI 10.1074/jbc.M611329200
+NR 29
+TC 8
+Z9 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 185 BERRY ST, STE 1300, SAN FRANCISCO, CA 94107 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 30
+PY 2008
+VL 3
+IS 1
+AR e1490
+DI 10.1371/journal.pone.0001490
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 366SR
+UT WOS:000260504200003
+ER
+
+PT J
+AU Goto, E
+   Kachi, T
+   Okahara, H
+   Takigawa, Y
+   Higashi, K
+AF Goto, Eiji
+   Kachi, Takashi
+   Okahara, Haruo
+   Takigawa, Yorinobu
+   Higashi, Kenji
+TI Addition of an aminic antioxidant to a hindered ester-based heat
+   resisting oil to improve lubrication for press forming of magnesium
+   alloy sheets
+SO MATERIALS TRANSACTIONS
+LA English
+DT Article; Proceedings Paper
+CT 1st Asian Thermal Spray Conference (ATSC 2005)
+CY NOV, 2005
+CL Nagoya, JAPAN
+DE magnesium; warm press forming; heat-resisting lubricant; diamond like
+   carbon; carbide; coefficient of friction
+AB High heat resistance is required for the lubricant used during the mass production of press formed magnesium parts using a warm press forming process. The heat resistance of a hindered ester has previously been found to be high, but insufficient at temperatures around 573 K. Therefore, further improvement of hindered ester-based heat resisting lubricants is required. This paper describes the influence on lubricity of adding aminic antioxidants to hindered esters. The results showed that excellent heat resistance was obtained by adding 5 to 20% styrenated diphenylamine. While a 5% addition improved heat resistance and inhibited lubricant degradation, addition of 10 or 20% additive resulted in decreased lubricity. Furthermore, the best lubricity was obtained when DLC-coated carbide was used as the die material in combination with the lubricant containing aminic antioxidant.
+C1 Sugimura Chem Co Ltd, Nagoya, Aichi 4630037, Japan.
+   Kasatani Corp, Osaka 5320036, Japan.
+   Osaka Prefecture Univ, Grad Sch Engn, Dept Mat Sci, Sakai, Osaka 5998531, Japan.
+RP Goto, E (reprint author), Sugimura Chem Co Ltd, Nagoya, Aichi 4630037, Japan.
+RI Takigawa, Yorinobu/A-6555-2010
+CR CRUITCHLEY SW, 1965, P IND LUB S LOND
+   DUKEK WG, 1964, J I PETROL, V50, P273
+   OHKATSU Y, 1977, J MACROMOL SCI CHEM, VA11, P1975, DOI 10.1080/00222337708061343
+   Rabinowicz E, 1966, FRICTION WEAR MAT
+   SCOTT G, 1980, CHEM IND, V573
+   Yoshinaga H., 1963, T JIM, V4, P134
+NR 6
+TC 4
+Z9 4
+PU JAPAN INST METALS
+PI SENDAI
+PA 1-14-32 ICHIBANCHO AOBA-KU, SENDAI, 980-8544, JAPAN
+SN 1345-9678
+J9 MATER TRANS
+JI Mater. Trans.
+PD JUL
+PY 2006
+VL 47
+IS 7
+BP 1782
+EP 1787
+DI 10.2320/matertrans.47.1782
+PG 6
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 082GP
+UT WOS:000240375000029
+ER
+
+PT S
+AU Yamashita, M
+   Ishikawa, Y
+   Kitaya, Y
+   Goto, E
+   Arai, M
+   Hashimoto, H
+   Tomita-Yokotani, K
+   Hirafuji, M
+   Omori, K
+   Shiraishi, A
+   Tani, A
+   Toki, K
+   Yokota, H
+   Fujita, O
+AF Yamashita, Masamichi
+   Ishikawa, Yoji
+   Kitaya, Yoshiaki
+   Goto, Eiji
+   Arai, Mayumi
+   Hashimoto, Hirofumi
+   Tomita-Yokotani, Kaori
+   Hirafuji, Masayuki
+   Omori, Katsunori
+   Shiraishi, Atsushi
+   Tani, Akira
+   Toki, Kyoichiro
+   Yokota, Hiroki
+   Fujita, Osamu
+BE Sadhal, SS
+TI An overview of challenges in modeling heat and mass transfer for living
+   on Mars
+SO INTERDISCIPLINARY TRANSPORT PHENOMENA IN THE SPACE SCIENCES
+SE ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+LA English
+DT Article; Proceedings Paper
+CT Conference on Interdisciplinary Transport Phenomena in Microgravity and
+   Space Sciences IV
+CY AUG 07-12, 2005
+CL Tomar, PORTUGAL
+SP Engn Conf Int
+DE space agriculture; greenhouse dome; Mars
+AB Engineering a life-support system for living on Mars requires the modeling of heat and mass transfer. This report describes the analysis of heat and mass transfer phenomena in a greenhouse dome, which is being designed as a pressurized life-support system for agricultural production on Mars. In this Martian greenhouse, solar energy will be converted into chemical energy in plant biomass. Agricultural products will be harvested for food and plant cultivation, and waste materials will be processed in a composting microbial ecosystem. Transpired water from plants will be condensed and recycled. In our thermal design and analysis for the Martian greenhouse, we addressed the question of whether temperature and pressure would be maintained in the appropriate range for humans as well as plants. Energy flow and material circulation should be controlled to provide an artificial ecological system on Mars. In our analysis, we assumed that the greenhouse would be maintained at a subatmospheric pressure under 1/3-G gravitational force with 1/2 solar light intensity on Earth. Convection of atmospheric gases will be induced inside the greenhouse, primarily by heating from sunlight. Microclimate (thermal and gas species structure) could be generated locally around plant bodies, which would affect gas transport. Potential effects of those environmental factors are discussed on the phenomena including plant growth and plant physiology and focusing on transport processes. Fire safety is a crucial issue and we evaluate its impact on the total gas pressure in the greenhouse dome.
+C1 Inst Space & Astronaut Sci, JAXA, Sagamihara, Kanagawa 2298510, Japan.
+   Obayashi Corp, Tokyo 1088502, Japan.
+   Osaka Prefecture Univ, Sakai, Osaka 5998531, Japan.
+   Osaka Prefecture Univ, Sakai, Osaka 5998531, Japan.
+   Chiba Univ, Matsudo, Chiba 2718510, Japan.
+   Natl Museum Emerging Sci & Innovat, Tokyo 1350064, Japan.
+   Univ Tsukuba, Tsukuba, Ibaraki 3058573, Japan.
+   Natl Agr Res Ctr, Tsukuba, Ibaraki 3058666, Japan.
+   JAXA, Tsukuba, Ibaraki 3058505, Japan.
+   YSC, Yokosuka, Kanagawa 238, Japan.
+   Tokai Univ, Shimizu, Shizuoka 4248610, Japan.
+   Tokyo Univ Agr & Technol, Koganei, Tokyo 1848588, Japan.
+   Indiana Univ, Indianapolis, IN 46202 USA.
+   Hokkaido Univ, Sapporo, Hokkaido 0608628, Japan.
+RP Yamashita, M (reprint author), Inst Space & Astronaut Sci, JAXA, 3-1-1 Yoshinodai, Sagamihara, Kanagawa 2298510, Japan.
+EM yamashita@surc.isas.jaxa.jp
+CR Denny M. W., 1993, AIR WATER BIOL PHYS
+   Goto Eiji, 2003, Biol Sci Space, V17, P267
+   HINOKUCHI T, 2005, SPACE UTILIZ RES, V21, P315
+   Hublitz I, 2004, ADV SPACE RES, V34, P1546, DOI 10.1016/j.asr.2004.06.002
+   ISHIKAWA Y, 1990, JBIS, V43, P505
+   Kieffer H. H., 1992, MARS
+   Kitaya Y, 2004, ADV SPACE RES-SERIES, V34, P1466, DOI 10.1016/j.asr.2003.08.031
+   Kitaya Y, 2003, PLANT CELL ENVIRON, V26, P497, DOI 10.1046/j.1365-3040.2003.00980.x
+   KOTAKE S, 1992, NUMERICAL SIMULATION
+   Lovelock J., 1979, GAIA NEW LOOK LIFE E
+   Monje O, 2003, ADV SPACE RES, V31, P151, DOI 10.1016/S0273-1177(02)00751-2
+   NAGATOMO M, 2003, 10 INT SPAC C PAC BA
+   Porterfield DM, 2002, J PLANT GROWTH REGUL, V21, P177, DOI 10.1007/s003440010054
+   TAIZ L., 2002, PLANT PHYSL
+   Yamashita Masamichi, 2005, Biol Sci Space, V19, P25, DOI 10.2187/bss.19.25
+   Yamashita M., 2005, SPACE UTILIZ RES, V21, P323
+NR 16
+TC 10
+Z9 10
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXEN, ENGLAND
+SN 0077-8923
+BN 1-57331-615-6
+J9 ANN NY ACAD SCI
+JI Ann.NY Acad.Sci.
+PY 2006
+VL 1077
+BP 232
+EP 243
+DI 10.1196/annals.1362.012
+PG 12
+WC Materials Science, Multidisciplinary; Mechanics; Multidisciplinary
+   Sciences; Physics, Multidisciplinary
+SC Materials Science; Mechanics; Science & Technology - Other Topics;
+   Physics
+GA BFM85
+UT WOS:000243124500016
+ER
+
+PT S
+AU Kitaya, Y
+   Kawai, M
+   Takahashi, H
+   Tani, A
+   Goto, E
+   Saito, T
+   Shibuya, T
+   Kiyota, M
+AF Kitaya, Yoshiaki
+   Kawai, Masayuki
+   Takahashi, Hideyuki
+   Tani, Akira
+   Goto, Eiji
+   Saito, Takahiro
+   Shibuya, Toshio
+   Kiyota, Makoto
+BE Sadhal, SS
+TI Heat and gas exchanges between plants and atmosphere under microgravity
+   conditions
+SO INTERDISCIPLINARY TRANSPORT PHENOMENA IN THE SPACE SCIENCES
+SE ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+LA English
+DT Article; Proceedings Paper
+CT Conference on Interdisciplinary Transport Phenomena in Microgravity and
+   Space Sciences IV
+CY AUG 07-12, 2005
+CL Tomar, PORTUGAL
+SP Engn Conf Int
+DE barley; heat convection; infrared thermography; leaf temperature;
+   microgravity; parabolic airplane flight; photosynthesis; space
+ID CYCLE
+AB Fundamental studies were conducted to develop a facility having an adequate air circulation system for growing healthy plants over a long term under microgravity conditions in space. To clarify the effects of gravity on heat and gas exchanges between plant leaves and the ambient air, surface temperatures and net photosynthetic rates of barley leaves were evaluated at gravity levels of 0.01, 1.0, and 2.0 g for 20 sec each during parabolic airplane flights. Thermal images were captured using infrared thermography at an air temperature of 22 degrees C, a relative humidity of 18%, and an irradiance of 260 W/m(2). The net photosynthetic rates were determined by means of a chamber method with an infrared gas analyzer at an air temperature of 20 degrees C, a relative humidity of 50%, and photosynthetic photon fluxes (PPFDs) of 250 and 500 mu mol/m(2)/sec. Mean leaf temperatures increased by 1.9 degrees C with decreasing gravity levels from 1.0 to 0.01 g and decreased by 0.6 degrees C with increasing gravity levels from 1.0 to 2.0 g. The increase in leaf temperatures was greater at the regions closer to the leaf tip and at most 2.5 degrees C over 20 see as gravity decreased from 1.0 to 0.01 g. The net photosynthetic rate decreased by 20% with decreasing gravity levels from 1.0 to 0.01 g and increased by 10% with increasing gravity levels from 1.0 to 2.0 g at a PPFD of 500 mu mol/m(2)/sec. The heat and gas exchanges between leaves and the ambient air were suppressed more at the lower gravity levels. The retardation would be caused by heat and gas transfers with less heat convection. Restricted free air convection under microgravity conditions in space would limit plant growth by retarding heat and gas exchanges between leaves and the ambient air.
+C1 Osaka Prefecture Univ, Grad Sch Life & Environm Sci, Sakai, Osaka 5998531, Japan.
+   Tohoku Univ, Grad sch Life Sci, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tokai Univ, Sch High Technol Human Welf, Shizuoka 4100395, Japan.
+   Chiba Univ, Fac Hort, Matsudo, Chiba 2718510, Japan.
+   Utsunomiya Univ, Fac Agr, Utsunomiya, Tochigi 3218505, Japan.
+RP Kitaya, Y (reprint author), Osaka Prefecture Univ, Grad Sch Life & Environm Sci, Gakuen Cho, Sakai, Osaka 5998531, Japan.
+EM kitaya@envi.osakafu-u.ac.jp
+CR Bingham GE, 1996, ADV SPACE RES-SERIES, V18, P225, DOI 10.1016/0273-1177(95)00881-E
+   DIFFUE NA, 1995, 951627 SAE
+   Jones HG, 1992, PLANTS MICROCLIMATE
+   Jones HG, 1999, PLANT CELL ENVIRON, V22, P1043, DOI 10.1046/j.1365-3040.1999.00468.x
+   KIM YH, 1996, ACTA HORTIC, V440, P354
+   Kitaya Y, 2000, ADV SPACE RES, V26, P281, DOI 10.1016/S0273-1177(99)00572-4
+   Kitaya Y, 1998, Life Support Biosph Sci, V5, P199
+   Kitaya Y, 2004, ADV SPACE RES-SERIES, V34, P1466, DOI 10.1016/j.asr.2003.08.031
+   KITAYA Y, 2000, TRANSPLANT PRODUCTIO, P83
+   Kitaya Y, 2003, PLANT CELL ENVIRON, V26, P497, DOI 10.1046/j.1365-3040.2003.00980.x
+   MASHINSKY A, 1994, ADV SPACE RES, V14, P13, DOI 10.1016/0273-1177(94)90274-7
+   MERKIS AI, 1983, DOKL AKAD NAUK SSSR+, V271, P509
+   Monteith J.L., 1990, PRINCIPLES ENV PHYSI, P291
+   Salisbury F B, 1995, Life Support Biosph Sci, V2, P31
+   Shibuya Toshio, 1998, Environment Control in Biology, V36, P131
+   Yabuki K., 1970, JAPAN J AGR MET, V26, P137
+NR 16
+TC 5
+Z9 5
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXEN, ENGLAND
+SN 0077-8923
+BN 1-57331-615-6
+J9 ANN NY ACAD SCI
+JI Ann.NY Acad.Sci.
+PY 2006
+VL 1077
+BP 244
+EP 255
+DI 10.1196/annals.1362.027
+PG 12
+WC Materials Science, Multidisciplinary; Mechanics; Multidisciplinary
+   Sciences; Physics, Multidisciplinary
+SC Materials Science; Mechanics; Science & Technology - Other Topics;
+   Physics
+GA BFM85
+UT WOS:000243124500017
+ER
+
+PT J
+AU Goto, E
+   Begum, RA
+   Zhan, SZ
+   Tanase, T
+   Tanigaki, K
+   Sakai, K
+AF Goto, E
+   Begum, RA
+   Zhan, SZ
+   Tanase, T
+   Tanigaki, K
+   Sakai, K
+TI Linear, redox-active Pt-6 and Pt2Pd2Pt2 clusters
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+LA English
+DT Article
+DE cluster compounds; oxidation; palladium; platinum; redox chemistry
+ID ALIGNED TETRAMETAL SYSTEM; 6-DIPHENYLPHOSPHINO-2-PYRIDONATE LIGANDS;
+   CRYSTAL-STRUCTURES; PLATINUM-BLUES; COMPLEXES; TETRAPYRIDYLTRIAMINE;
+   BONDS
+EM tanase@cc.nara-wu.ac.jp
+RI Tanigaki, Katsumi/A-4853-2010
+CR ADAMS DA, 1998, CATALYSIS DI POLYNUC
+   Chen YH, 1999, CHEM COMMUN, P1667, DOI 10.1039/a905001i
+   Clerac R, 2000, J AM CHEM SOC, V122, P2272, DOI 10.1021/ja994051b
+   Cotton FA, 1999, CHEM COMMUN, P2461
+   FACKLER JP, 1990, METAL METAL BONDS CL
+   Lai SY, 1999, J AM CHEM SOC, V121, P250, DOI 10.1021/ja982065w
+   Mashima K, 1998, J AM CHEM SOC, V120, P12151, DOI 10.1021/ja9817702
+   Mashima K, 1996, J AM CHEM SOC, V118, P9083, DOI 10.1021/ja960606g
+   Mashima K, 1997, J AM CHEM SOC, V119, P4307, DOI 10.1021/ja964052t
+   Matsumoto K, 2000, ADV INORG CHEM, V49, P375
+   MATSUMOTO K, 1992, J AM CHEM SOC, V114, P8110, DOI 10.1021/ja00047a020
+   Murahashi T, 1999, J AM CHEM SOC, V121, P10660, DOI 10.1021/ja992387f
+   Murahashi T, 2002, J AM CHEM SOC, V124, P14288, DOI 10.1021/ja0208254
+   Murahashi T, 2000, CHEM COMMUN, P1689, DOI 10.1039/b004726k
+   Murahashi T, 2003, J AM CHEM SOC, V125, P8436, DOI 10.1021/ja0358246
+   Shieh S.-J., 1997, ANGEW CHEM, V109, P57, DOI 10.1002/ange.19971090111
+   Shieh SJ, 1997, ANGEW CHEM INT EDIT, V36, P56, DOI 10.1002/anie.199700561
+   Tanase T, 1997, INORG CHEM, V36, P1571, DOI 10.1021/ic960771x
+   Tanase T, 1998, ORGANOMETALLICS, V17, P196, DOI 10.1021/om970724s
+   Tanase T, 2001, ORGANOMETALLICS, V20, P968, DOI 10.1021/om000843z
+   Tanase T, 1996, INORG CHEM, V35, P4114, DOI 10.1021/ic951186j
+   Tejel C., 2003, ANGEW CHEM INT EDIT, V42, P530
+   Tejel C., 2003, ANGEW CHEM, V115, P547, DOI 10.1002/ange.200390120
+   Wang CC, 1998, INORG CHEM, V37, P4059, DOI 10.1021/ic971608k
+   Zhang TL, 1999, INORG CHEM, V38, P957, DOI 10.1021/ic9807947
+NR 25
+TC 27
+Z9 27
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA PO BOX 10 11 61, D-69451 WEINHEIM, GERMANY
+SN 1433-7851
+J9 ANGEW CHEM INT EDIT
+JI Angew. Chem.-Int. Edit.
+PY 2004
+VL 43
+IS 38
+BP 5029
+EP 5032
+DI 10.1002/anie.200460707
+PG 4
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 859QV
+UT WOS:000224283900012
+ER
+
+PT S
+AU Norikane, J
+   Goto, E
+   Kurata, K
+   Takakura, T
+AF Norikane, J
+   Goto, E
+   Kurata, K
+   Takakura, T
+BE Horneck, G
+   Vazquez, ME
+   Porterfield, DM
+TI A new relative referencing method for crop monitoring using chlorophyll
+   fluorescence
+SO SPACE LIFE SCIENCES: MISSIONS TO MARS, RADIATION BIOLOGY, AND PLANTS AS
+   A FOUNDATION FOR LONG-TERM LIFE SUPPORT SYSTEMS IN SPACE
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT F0 1 and F1 3-F2 3 Symposia of COSPAR Scientific Commission F held at
+   the 33rd COSPAR Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP CNES, Deutsch Zentrum Luft & Raumfahrt eV, European Space Sci Comm, Int Astronaut Federat, Int Soc Study Origin Life, NASA, Comm Space Res
+AB The measurement of plant chlorophyll fluorescence has been used for many years as a method to monitor a plant's health status. These types of methods have been mostly relegated to the laboratory. The newly developed Relative Referencing Method allows for the measurement of chlorophyll fluorescence under artificial lighting conditions. The fluorescence signal can be determined by first taking a reference signal measurement, then a second measurement with an additional fluorescence excitation source. The first signal can then be subtracted from the second and the plant's chlorophyll fluorescence due to the second lighting source can be determined. With this simple approach, a photosynthesizing plant can be monitored to detect signs of water stress. Using this approach experiments on tomato plants have shown that it was possible to detect water stress, while the plants were continuously illuminated by fluorescent lamps. This method is a promising tool for the remote monitoring of crops grown in a CELSS-type application. Published by Elsevier Science Ltd on behalf of COSPAR.
+C1 Gen Dynam Corp, Kennedy Space Ctr, FL 32899 USA.
+   Univ Tokyo, Dept Biol & Environm Engn, Bunkyo Ku, Tokyo 1138657, Japan.
+   Nagasaki Univ, Coll Environm Studies, Nagasaki 8528521, Japan.
+RP Norikane, J (reprint author), Gen Dynam Corp, Mail Code DYN-3, Kennedy Space Ctr, FL 32899 USA.
+CR BARRS H. D., 1968, Water Deficits and Plant Growth., V1, P235
+   CORNIC G, 1994, PHOTOINHIBITION PHOT
+   Dorf R., 1992, MODERN CONTROL SYSTE
+   Lichtenthaler HK, 1988, CRC CRIT R ANAL CHEM, V12, P29
+   OLEARY J, 1998, COMMUNICATION   0302
+   Lang M, 1996, J PLANT PHYSIOL, V148, P613
+NR 6
+TC 5
+Z9 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2003
+VL 31
+IS 1
+BP 245
+EP 248
+DI 10.1016/S0273-1177(02)00746-9
+PG 4
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BV98Q
+UT WOS:000180591400033
+ER
+
+PT J
+AU Kuramoto, N
+   Goto, E
+   Masamune, Y
+   Gion, K
+   Yoneda, Y
+AF Kuramoto, N
+   Goto, E
+   Masamune, Y
+   Gion, K
+   Yoneda, Y
+TI Existence of xenobiotic response element binding in Dictyostelium
+SO BIOCHIMICA ET BIOPHYSICA ACTA-GENE STRUCTURE AND EXPRESSION
+LA English
+DT Article
+DE XRE; TRE; E-box; DNA binding; nuclear receptor; slime mold;
+   Dictyostelium; gel retardation electrophoresis; UV crosslinking; super
+   shift
+ID ARYL-HYDROCARBON RECEPTOR; TISSUE-SPECIFIC EXPRESSION; NUCLEAR
+   TRANSLOCATOR ARNT; TRANSCRIPTION FACTOR; AH RECEPTOR; GENE-EXPRESSION;
+   CDNA CLONING; DNA-BINDING; PROTEIN; DIFFERENTIATION
+AB Xenobiotic response element (XRE) is a core nucleotide sequence at the upstream of inducible target genes for the transcription factor aryl hydrocarbon receptor (AhR) that is responsible for recognition of exogenous environmental pollutants in eukaryotic cells. Gel retardation electrophoresis revealed the presence of binding of a radiolabeled probe containing XRE in both cytosolic and nuclear preparations of the slime mold Dictyostelium. Unlabeled XRE probe was more potent in competing for XRE binding in both fractions than unlabeled XRE probe with a point mutation at the core element. Limited proteolysis by V8 protease did not markedly affect XRE binding in both fractions, while XRE binding decreased during in vitro incubation at 30 degreesC for up to 24 h at decline rates proportional to increasing pHs at a range of 6.5-8.5 in cytosolic fractions in a manner different from those in nuclear fractions. Deprivation of nutrients induced aggregation of cells within 4-8 h later, followed by formation of first finger tips around 12 h later and subsequent development to mobile slugs within 16 h and then to fruit bodies between 20 and 24 h later. The starvation led to a marked decrement of XRE binding in cytosolic fractions 4-36 h later, followed by a robust but transient increment of that in nuclear extracts 12-20 h afterward. However, XRE binding was not affected by antibodies against AhR-related proteins known to date in both fractions irrespective of nutritional conditions. These results suggest the abundance of as-yet unidentified proteins with high affinity for XRE in the slime mold Dictyostelium. The possibility that those proteins may be translocated from the cytoplasm to the nucleus in response to cellular development during starvation is feasible. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Kanazawa Univ, Fac Pharmaceut Sci, Dept Mol Pharmacol, Kanazawa, Ishikawa 9200934, Japan.
+   Kanazawa Univ, Fac Pharmaceut Sci, Dept Microbiol, Kanazawa, Ishikawa 9200934, Japan.
+RP Kuramoto, N (reprint author), Kanazawa Univ, Fac Pharmaceut Sci, Dept Mol Pharmacol, 13-1 Takara Machi, Kanazawa, Ishikawa 9200934, Japan.
+CR Azuma Y, 1998, NEUROCHEM INT, V32, P325, DOI 10.1016/S0197-0186(97)00097-1
+   Benedict JC, 2000, TOXICOL SCI, V56, P382, DOI 10.1093/toxsci/56.2.382
+   Dearolf CR, 1999, CELL MOL LIFE SCI, V55, P1578, DOI 10.1007/s000180050397
+   Dong W, 2001, NEUROSCI LETT, V303, P169, DOI 10.1016/S0304-3940(01)01743-8
+   Elferink CJ, 2001, MOL PHARMACOL, V59, P664
+   Escalante R, 2000, INT J DEV BIOL, V44, P819
+   Fischer B, 2000, ANDROLOGIA, V32, P279, DOI 10.1046/j.1439-0272.2000.00397.x
+   Gollop R, 1997, DEVELOPMENT, V124, P3395
+   HANKINSON O, 1995, ANNU REV PHARMACOL, V35, P307, DOI 10.1146/annurev.pharmtox.35.1.307
+   Heath-Pagliuso S, 1998, BIOCHEMISTRY-US, V37, P11508, DOI 10.1021/bi980087p
+   Hirose K, 1996, MOL CELL BIOL, V16, P1706
+   Ikeda M, 1997, BIOCHEM BIOPH RES CO, V233, P258, DOI 10.1006/bbrc.1997.6371
+   INSALL R, 1990, EMBO J, V9, P3323
+   Kashani M, 1998, PROSTATE, V37, P98, DOI 10.1002/(SICI)1097-0045(19981001)37:2<98::AID-PROS6>3.0.CO;2-H
+   Kawata T, 1997, CELL, V89, P909, DOI 10.1016/S0092-8674(00)80276-7
+   Kolluri SK, 1999, GENE DEV, V13, P1742, DOI 10.1101/gad.13.13.1742
+   Kuramoto N, 1998, BRAIN RES, V806, P152, DOI 10.1016/S0006-8993(98)00693-3
+   MACWILLIAMS HK, 1979, DIFFERENTIATION, V14, P1, DOI 10.1111/j.1432-0436.1979.tb01006.x
+   Manabe T, 2001, J NEUROSCI RES, V64, P34, DOI 10.1002/jnr.1051
+   Mattingly CJ, 2001, ENVIRON HEALTH PERSP, V109, P845, DOI 10.2307/3454829
+   Mimura J, 1999, GENE DEV, V13, P20, DOI 10.1101/gad.13.1.20
+   MORANDINI P, 1995, BIOCHEM J, V306, P735
+   Morita T, 2000, BIOCHEM BIOPH RES CO, V274, P323, DOI 10.1006/bbrc.2000.3096
+   NAYLER O, 1992, EUR J BIOCHEM, V208, P531, DOI 10.1111/j.1432-1033.1992.tb17217.x
+   Otsuka H, 1998, GENE DEV, V12, P1738, DOI 10.1101/gad.12.11.1738
+   Robles R, 2000, ENDOCRINOLOGY, V141, P450, DOI 10.1210/en.141.1.450
+   RUSHMORE TH, 1990, P NATL ACAD SCI USA, V87, P3826, DOI 10.1073/pnas.87.10.3826
+   Ryu DY, 1996, MOL PHARMACOL, V50, P443
+   SAATCIOGLU F, 1990, MOL CELL BIOL, V10, P6408
+   SCHREIBER E, 1989, NUCLEIC ACIDS RES, V17, P6419, DOI 10.1093/nar/17.15.6419
+   Sogawa K, 1997, J BIOCHEM-TOKYO, V122, P1075
+   Tanguay RL, 2000, BBA-GENE STRUCT EXPR, V1494, P117, DOI 10.1016/S0167-4781(00)00225-6
+   Thompson CRL, 2000, MOL CELL, V6, P1509, DOI 10.1016/S1097-2765(00)00147-7
+   Traincard F, 1999, J CELL SCI, V112, P3529
+   Warner N, 2000, ARCH BIOCHEM BIOPHYS, V373, P462, DOI 10.1006/abbi.1999.1575
+NR 35
+TC 3
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-4781
+J9 BBA-GENE STRUCT EXPR
+JI Biochim. Biophys. Acta-Gene Struct. Expression
+PD OCT 11
+PY 2002
+VL 1578
+IS 1-3
+BP 1
+EP 11
+DI 10.1016/S0167-4781(02)00449-9
+PG 11
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 608AB
+UT WOS:000178822000001
+ER
+
+PT J
+AU Tanase, T
+   Hamaguchi, M
+   Begum, RA
+   Goto, E
+AF Tanase, T
+   Hamaguchi, M
+   Begum, RA
+   Goto, E
+TI Cyclic dimerization of tetracyanoethylene promoted on linear triplatinum
+   centres leading to novel nitrene-bridged Pt-3 complexes
+SO CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+ID A-FRAME COMPLEXES; MOLECULAR-STRUCTURE; PALLADIUM; PLATINUM;
+   ARYLSULFONYLNITRENE; INSERTION; FRAGMENTS; LIGANDS; CRYSTAL; IMIDO
+AB Reactions of linear triplatinum complexes, linear-[Pt-3(mu -dpmp)(2)(RNC)(2])(PF6)(2) (1), with excess tetracyanoethylene (tcne) afford the novel nitrene-bridged asymmetrical A-frame triplatinum complexes, [Pt-3(mu -dpmp)(2)(mu -C12N8)(RNC)(2)](PF6)(2) (2a: R = 2,6-xylyl; 2b: R = 2,4,6-mesityl, dpmp = bis(diphenylphosphinomethyl)phenylphosphine) in which two tcne molecules are coupled to form a (heptacyanocyclopent-1-enyl)nitrene moiety.
+C1 Nara Womens Univ, Fac Sci, Dept Chem, Kitauoya Higashi, Nara 6308285, Japan.
+RP Tanase, T (reprint author), Nara Womens Univ, Fac Sci, Dept Chem, Kitauoya Higashi, Nara 6308285, Japan.
+CR ADAMS RD, 1983, CATALYSIS DI POLYNUC, P167
+   Balch A. L., 1983, HOMOGENEOUS CATALYSI, P167
+   Besenyei G, 1997, CHEM COMMUN, P1143, DOI 10.1039/a700942i
+   BUTTERFIELD PJ, 1978, J CHEM SOC PERK T 1, P1237, DOI 10.1039/p19780001237
+   Foch I, 1999, J CHEM SOC DALTON, P293, DOI 10.1039/a805467c
+   GE YW, 1990, J AM CHEM SOC, V112, P2632, DOI 10.1021/ja00163a025
+   GUCZI L, 1986, METAL CLUSTERS CATAL
+   JONES R, 1985, CHEM COMMUN, P1325
+   KELLY PF, 1990, POLYHEDRON, V9, P1567, DOI 10.1016/S0277-5387(00)86575-4
+   LEE SW, 1990, INORG CHEM, V29, P1099, DOI 10.1021/ic00330a039
+   Leung WH, 1997, J CHEM SOC DALTON, P3277, DOI 10.1039/a702404e
+   MEIJ R, 1978, J ORGANOMET CHEM, V155, P123, DOI 10.1016/S0022-328X(00)90428-5
+   MOHAN T, 1992, INORG CHEM, V31, P2271, DOI 10.1021/ic00037a049
+   Sinfelt J. H., 1983, BIMETALLIC CATALYSIS
+   Tanase T, 1997, INORG CHEM, V36, P1571, DOI 10.1021/ic960771x
+   Tanase T, 1998, ORGANOMETALLICS, V17, P196, DOI 10.1021/om970724s
+   Tanase T, 1997, J ORGANOMET CHEM, V545, P531, DOI 10.1016/S0022-328X(97)00379-3
+   Tanase T, 1996, INORG CHEM, V35, P4114, DOI 10.1021/ic951186j
+   Tanase T, 1996, ORGANOMETALLICS, V15, P5272, DOI 10.1021/om9605589
+   Tanase T, 2001, ORGANOMETALLICS, V20, P106, DOI 10.1021/om000747y
+   Tanase T, 1999, CHEM COMMUN, P745, DOI 10.1039/a900302i
+   YAMAMOTO Y, 1993, ORGANOMETALLICS, V12, P933, DOI 10.1021/om00027a049
+   YE CQ, 1995, INORG CHEM, V34, P55, DOI 10.1021/ic00105a013
+NR 23
+TC 7
+Z9 7
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD,, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1359-7345
+J9 CHEM COMMUN
+JI Chem. Commun.
+PD JUN 21
+PY 2001
+IS 12
+BP 1072
+EP 1073
+DI 10.1039/b101805l
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 446DN
+UT WOS:000169497800009
+ER
+
+PT S
+AU Tani, A
+   Okuma, T
+   Goto, E
+   Kitaya, Y
+   Saito, T
+   Takahashi, H
+AF Tani, A
+   Okuma, T
+   Goto, E
+   Kitaya, Y
+   Saito, T
+   Takahashi, H
+BE Nelson, M
+TI Ground performance of air conditioning and water recycle system for a
+   space plant box
+SO SPACE LIFE SCIENCES: CLOSED ECOLOGICAL SYSTEMS: EARTH AND SPACE
+   APPLICATIONS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT F4 4 Symposium of COSPAR Scientific Commission F held at the 33rd COSPAR
+   Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP Krasnoyarsk Reg Sci Fdn, Comm Space Res
+AB Researchers from 5 Japanese universities have developed a plant growth facility (Space Plant Box) for seed to seed experiments under microgravity. The breadboard model of the Space Plant Box was fabricated by assembling subsystems developed for microgravity. The subsystems include air conditioning and water recycle system, air circulation system, water and nutrient delivery system, lighting system and plant monitoring system. The air conditioning and water recycle system is simply composed of a single heat exchanger, two fans and hydrophilic fibrous strings. The strings allow water movement from the cooler fin in the Cooling Box to root supporting materials in the Plant Growth Chamber driven by water potential deficit. Relative humidity in the Plant Growth Chamber can be changed over a wide range by controlling the ratio of latent heat exchange to sensible heat exchange on the cooling fin of the heat exchanger. The transpiration rate was successfully measured by circulating air inside the Plant Growth Chamber only. Most water was recycled and a small amount of water needed to be added from the outside. The simple, air conditioning and water recycle system for the Space Plant Box showed good performance through a barley (Hordeum vulgare L.) growth experiment. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 Tokai Univ, Sch High Technol Human Welf, Shizuoka 4100395, Japan.
+   Univ Tokyo, Dept Environ & Biol Eng, Tokyo 1138657, Japan.
+   Univ Osaka Prefecture, Coll Agr, Sakai, Osaka 5998531, Japan.
+   Utsunomiya Univ, Fac Agr, Utsunomiya, Tochigi 321, Japan.
+   Tohoku Univ, Inst Genet Ecol, Aoba Ku, Sendai, Miyagi 98077, Japan.
+RP Tani, A (reprint author), Tokai Univ, Sch High Technol Human Welf, Shizuoka 4100395, Japan.
+CR GOTO E, 1999, BIOL SCI SPACE, V13, P228
+   HOEHN A, 1997, ASAE TECHNICAL PAPER
+   Kitaya Y, 2000, ADV SPACE RES, V26, P281, DOI 10.1016/S0273-1177(99)00572-4
+   Kitaya Y, 1999, Biol Sci Space, V13, P230
+   KOBAYASHI Y, 1999, CELSS J, V12, P99
+   MORROW RC, 1995, ASAE TECHNICAL PAPER
+   SAITO T, 1998, BIOL SCI SPACE, V12, P310
+   Tani Akira, 2000, Journal of Agricultural Meteorology, V56, P209
+   TANI A, 1999, CELSS J, V12, P21
+   Tani Akira, 2000, Environment Control in Biology, V38, P79
+   Tani Akira, 2000, Environment Control in Biology, V38, P89
+NR 11
+TC 0
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2001
+VL 27
+IS 9
+BP 1557
+EP 1562
+DI 10.1016/S0273-1177(01)00250-2
+PG 6
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT01Q
+UT WOS:000171630400009
+ER
+
+PT S
+AU Kitaya, Y
+   Kawai, M
+   Tsuruyama, J
+   Takahashi, H
+   Tani, A
+   Goto, E
+   Saito, T
+   Kiyota, M
+AF Kitaya, Y
+   Kawai, M
+   Tsuruyama, J
+   Takahashi, H
+   Tani, A
+   Goto, E
+   Saito, T
+   Kiyota, M
+BE Mogami, Y
+   Bruce, L
+   Nechitailo, G
+   Kondyurin, A
+   Clark, BC
+   McKay, CP
+TI The effect of gravity on surface temperature and net photosynthetic rate
+   of plant leaves
+SO SPACE LIFE SCIENCES: LIVING ORGANISMS, BIOLOGICAL PROCESSES AND THE
+   LIMITS OF LIFE
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT F1 4/F4 5/and F3 2/F3 3 Symposium of COSPAR Scientific Commission F held
+   at the 33rd COPAR Scientific Assembly
+CY JUL 16-23, 2000
+CL WARSAW, POLAND
+SP Comm Space Res
+AB To clarify the effects of gravity on heat/gas exchange between plant leaves and the ambient air, the leaf temperatures and net photosynthetic rates of plant leaves were evaluated at 0.01, 1.0, 1.5 and 2.0 G of 20 seconds each during a parabolic airplane flight. Thermal images of leaves were captured using infrared thermography at an air temperature of 26degreesC, a relative humidity of 15% and an irradiance of 260 W m(-2). The net photosynthetic rates were determined by using a chamber method with an infrared gas analyzer at an air temperature of 20degreesC, a relative humidity of 50% and a photosynthetic photon flux of 0.5 mmol m(-2) s(-1). The mean leaf temperature increased by 1degreesC and the net photosynthetic rate decreased by 13% with decreasing gravity levels from 1.0 to 0.01 G. The leaf temperature decreased by 0.5degreesC and the net photosynthetic rate increased by 7% with increasing gravity levels from 1.0 to 2.0 G. Heat/gas exchanges between leaves and the ambient air were more retarded at lower gravity levels. A restricted free air convection under microgravity conditions in space would limit plant growth by retarding heat and gas exchanges between leaves and the ambient air. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 Univ Osaka Prefecture, Grad Sch Agr & Biol Sci, Osaka 5998531, Japan.
+   Tohoku Univ, Inst Genet Ecol, Aoba Ku, Sendai, Miyagi 9808577, Japan.
+   Tokai Univ, Sch High Technol Human Welf, Shizuoka 4100395, Japan.
+   Univ Tokyo, Grad Sch Agr & Life Sci, Bunkyo Ku, Tokyo 1138657, Japan.
+   Utsunomiya Univ, Fac Agr, Utsunomiya, Tochigi 3218505, Japan.
+RP Kitaya, Y (reprint author), Univ Osaka Prefecture, Grad Sch Agr & Biol Sci, Osaka 5998531, Japan.
+RI Kondyurin, Alexey/B-9580-2011
+OI Kondyurin, Alexey/0000-0002-8837-9734
+CR KIM YH, 1996, ACTA HORTIC, V440, P354
+   Kitaya Y, 2000, ADV SPACE RES, V26, P281, DOI 10.1016/S0273-1177(99)00572-4
+   Kitaya Y, 1998, Life Support Biosph Sci, V5, P199
+   KITAYA Y, 2000, TRANSPLANT PRODUCTIO, P83
+   MONTEITH JL, 1990, PRINCIPLES ENV PHYSI, P101
+   Shibuya Toshio, 1998, Environment Control in Biology, V36, P131
+   Yabuki K., 1970, JAPAN J AGR MET, V26, P137
+NR 7
+TC 13
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2001
+VL 28
+IS 4
+BP 659
+EP 664
+DI 10.1016/S0273-1177(01)00375-1
+PG 6
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT60H
+UT WOS:000173493700020
+ER
+
+PT J
+AU Goto, E
+   Yoshida, N
+AF Goto, E
+   Yoshida, N
+TI Formulas for viscous fluid and heat flows around a hexagonal lattice of
+   circular tubes
+SO FLUID DYNAMICS RESEARCH
+LA English
+DT Article
+DE viscous flow around hexagonal lattice; heat transfer; formula
+   manipulation; heat exchanger
+AB The analytical formulas for viscous flow in the axial direction around the hexagonal lattice of circular tubes are derived using the formula manipulation system REDUCE. Formulas are also derived for the temperature distributions in two flows in a heat exchanger: one flowing in the circular tubes (Hagen-Poiseuille flow carrying heat), the other flowing in the opposite axial direction outside and around the circular tubes.
+C1 TOKAI UNIV,FAC SCI,DEPT INFORMAT SCI,HIRATSUKA,KANAGAWA 25912,JAPAN.
+CR Graetz L., 1885, ANN PHYS CHEM, V261, P337, DOI DOI 10.1002/ANDP.18852610702
+   HEARN AC, 1983, REDUCE USERS MANUAL
+   IKUI T, 1974, FLUID MECH
+   LANDAU LD, 1959, FLUID MECHANICS
+   NICOLIS G., 1977, SELF ORG NONEQUILIBR
+   Sellars J.R., 1956, T ASME, V78, P441
+   Sparrow E. M., 1961, J HEAT TRANSFER, V83
+   SPARROW EM, 1959, AICHE J, V5, P325, DOI 10.1002/aic.690050315
+   *TOK ASTR OBS, 1995, CHRON SCI TABL
+   *VER DTSCH ING, 1982, LAHRG KRYOT
+NR 10
+TC 1
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-5983
+J9 FLUID DYN RES
+JI Fluid Dyn. Res.
+PD SEP
+PY 1996
+VL 18
+IS 4
+BP 211
+EP 222
+DI 10.1016/0169-5983(96)00017-2
+PG 12
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA VC970
+UT WOS:A1996VC97000003
+ER
+
+PT S
+AU WHEELER, EF
+   KOSSOWSKI, J
+   GOTO, E
+   LANGHANS, RW
+   WHITE, G
+   ALBRIGHT, LD
+   WILCOX, D
+AF WHEELER, EF
+   KOSSOWSKI, J
+   GOTO, E
+   LANGHANS, RW
+   WHITE, G
+   ALBRIGHT, LD
+   WILCOX, D
+BE Kraft, G
+   Carr, KE
+   Goodwin, EH
+   Ting, KC
+   Finn, CK
+   Tsai, KC
+   Volk, T
+   Henninger, DL
+   Mitchell, CA
+   MacElroy, RD
+   Stabekis, P
+TI CONSIDERATION IN SELECTING CROPS FOR THE HUMAN-RATED LIFE-SUPPORT-SYSTEM
+   - A LINEAR-PROGRAMMING MODEL
+SO PHYSICAL, CHEMICAL, BIOCHEMICAL AND BIOLOGICAL TECHNIQUES AND PROCESSES
+SE ADVANCES IN SPACE RESEARCH-SERIES
+LA English
+DT Article; Proceedings Paper
+CT F2.2, F2.3, F2.5, F4.3, F4.4, F4.9, F4.10 Meetings of COSPAR Scientific
+   Commission F, at the 13th COSPAR Scientific Assembly
+CY JUL 11-21, 1994
+CL HAMBURG, GERMANY
+SP Comm Space Res
+AB A Linear Programming model has been constructed which aids in selecting appropriate crops for CELSS (Controlled Environment Life Support System) food production. A team of Controlled Environment Agriculture (CEA) faculty, staff, graduate students and invited experts representing more than a dozen disciplines, provided a wide range of expertise in developing the model and the crop production program. The model incorporates nutritional content and controlled-environment based production yields of carefully chosen crops into a framework where a crop mix can be constructed to suit the astronauts' needs. The crew's nutritional requirements can be adequately satisfied with only a few crops (assuming vitamin mineral supplements are provided) but this will not be satisfactory from a culinary standpoint. This model is flexible enough that taste and variety driven food choices can be built into the model.
+RP WHEELER, EF (reprint author), CORNELL UNIV, RILEY ROBB HALL, ITHACA, NY 14853 USA.
+NR 0
+TC 3
+Z9 3
+PU PERGAMON PRESS LTD
+PI OXFORD
+PA THE BOULEVARD LANGFORD LANE KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0273-1177
+BN 0-08-042664-6
+J9 ADV SPACE RES-SERIES
+PY 1996
+VL 18
+IS 1/2
+BP 233
+EP 236
+DI 10.1016/0273-1177(95)00813-T
+PG 4
+WC Engineering, Aerospace; Astronomy & Astrophysics; Chemistry,
+   Multidisciplinary
+SC Engineering; Astronomy & Astrophysics; Chemistry
+GA BE07T
+UT WOS:A1995BE07T00030
+ER
+
+PT J
+AU HOSOYA, M
+   HIOE, W
+   TAKAGI, K
+   GOTO, E
+AF HOSOYA, M
+   HIOE, W
+   TAKAGI, K
+   GOTO, E
+TI OPERATION OF A 1-BIT QUANTUM FLUX PARAMETRON SHIFT REGISTER (LATCH) BY
+   4-PHASE 36-GHZ CLOCK
+SO IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY
+LA English
+DT Article; Proceedings Paper
+CT 1994 Applied Superconductivity Conference
+CY OCT 16-21, 1994
+CL BOSTON, MA
+SP MIT, Plasma Fus Ctr, Dept Elect Engn & Comp Sci, US DOE, Off Fus Energy, High Energy Phys, Adv Res Projects Agcy, Natl Inst Stand & Technol, USN, Naval Res Lab, USN, Off Naval Res, Quantum Magnet, IGC Adv Superconductors, Stone & Webster Engn Corp, Technova, Martin Marietta Astronaut, Walker Sci Inc, Westinghouse Sci & Technol Ctr, Babcock & Wilcox, Bechtel Corp, Cosine, Inc, Synchrony
+AB The Quantum Flux Parametron (QFP) is a SFQ-type logic device which uses a single flux quantum (SFQ) to represent 1-bit of information. QFP circuits use a multi-phase external ac power which also acts as the clock for synchronization, hence QFP circuits are highly pipelined. The clock frequency must be increased to improve the throughputs of the circuits, so the control of a high frequency clock is a key technology for the QFP. This paper describes a clock distribution technique which utilizes the characteristics of a standing wave. Using this technique, the operation of a 1-bit QFP shift register by a 4-phase clock up to 36 GHz is shown. In the 4-phase clock operation of QFPs, the input is given in phase 1, the QFP switches in phase 2, the output is held during phase 3, and the QFP resets in phase 4. Therefore, the 4-phase 36-GHz operation means that each QFP switches or resets in less than 7 ps.
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA,JAPAN.
+RP HOSOYA, M (reprint author), HITACHI LTD,KOKUBUNJI,TOKYO 185,JAPAN.
+CR CASAS J, 1992, IEEE J SOLID-ST CIRC, V27, P97, DOI 10.1109/4.109561
+   Casas J., 1992, IEEE Transactions on Applied Superconductivity, V2, DOI 10.1109/77.124925
+   GOTO E, 1986, DC FLUX PARAMETRON
+   Harada Y., 1992, IEEE Transactions on Applied Superconductivity, V2, DOI 10.1109/77.124924
+   HIOE W, 1991, QUANTUM FLUX PARAMET
+   Hosoya M., 1993, IEEE Transactions on Applied Superconductivity, V3, DOI 10.1109/77.257229
+   LEE GS, 1991, APPL PHYS LETT, V59, P2892, DOI 10.1063/1.105843
+   Likharev K.K., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.80745
+   Mukhanov O.A., 1993, IEEE Transactions on Applied Superconductivity, V3, DOI 10.1109/77.251810
+   Nakajima K., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.80746
+   Hosoya M., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.84613
+   Yuh P.-F., 1992, IEEE Transactions on Applied Superconductivity, V2, DOI 10.1109/77.139226
+NR 12
+TC 8
+Z9 8
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1051-8223
+J9 IEEE T APPL SUPERCON
+JI IEEE Trans. Appl. Supercond.
+PD JUN
+PY 1995
+VL 5
+IS 2
+BP 2831
+EP 2834
+DI 10.1109/77.403181
+PN Part 3
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA RP640
+UT WOS:A1995RP64000189
+ER
+
+PT J
+AU JEFFERY, M
+   GOTO, E
+AF JEFFERY, M
+   GOTO, E
+TI LOW-NOISE JOSEPHSON DC PARAMETRIC-AMPLIFIER
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID QUANTUM NOISE; SQUIDS
+AB We describe a new Josephson Inductive Kinetic Amplifier (IKA) designed to measure weak dc magnetic fields with low noise. The IKA operates by frequency shifting dc input to a high frequency range and then parametrically amplifying. The IKA does not require dc offset and by frequency shifting dc input 1/f noise may be reduced. We define the circuit Lagrangian and derive the system equations. An analytical expression for the IKA transfer function is derived and the frequency response, optimal parameters, and stability are all obtained from the analytic theory. We also calculate the temperature at which the internal Nyquist noise should equal the quantum sensitivity limit. Our analysis suggests that the IKA could be more sensitive than the conventional dc Superconducting Quantum Interference Device.
+RP JEFFERY, M (reprint author), INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR ABROMOWITZ M, 1972, HDB MATH FUNCTIONS, P361
+   ARNOLD V, 1991, ORDINARY DIFFERENTIA, P188
+   AWSCHALOM DD, 1988, APPL PHYS LETT, V53, P2108, DOI 10.1063/1.100291
+   FOGLIETTI V, 1986, APPL PHYS LETT, V49, P1393, DOI 10.1063/1.97334
+   GOLDSTEIN H, 1980, CLASSICAL MECHANICS, P24
+   GOTO E, 1961, Patent No. 301944
+   GOTO E, 1989, Patent No. 4851776
+   GOTO E, 1986, SERIES COMPUTER SCI, V6, P58
+   GOTO E, 1959, P IRE, V147, P1304
+   HARADA K, 1987, SUPERCONDUCTIVITY EL, P125
+   HILL GW, 1886, ACTA MATH, V8
+   HIOE W, 1991, IEEE T MAGN, V27, P2847
+   Hosoya M., 1993, IEEE Transactions on Applied Superconductivity, V3, DOI 10.1109/77.257229
+   HOSOYA M, 1991, IEEE T APPL SUPERCON, V1, P75
+   JEFFERY M, UNPUB
+   JOHNSON D, 1986, BASIC ELECTRIC CIRCU, P461
+   KITTEL C, 1986, INTRO SOLID STATE PH, P167
+   Ko H.L., 1992, IEEE Transactions on Applied Superconductivity, V2, DOI 10.1109/77.160155
+   KOCH RH, 1981, APPL PHYS LETT, V38, P380, DOI 10.1063/1.92345
+   KUZMIN LS, 1983, IEEE T MAGN, V19, P618, DOI 10.1109/TMAG.1983.1062472
+   Nyquist H, 1928, PHYS REV, V32, P110, DOI 10.1103/PhysRev.32.110
+   SMITH AD, 1985, IEEE T MAGN, V21, P1022, DOI 10.1109/TMAG.1985.1063665
+   TESCHE CD, 1977, J LOW TEMP PHYS, V29, P301, DOI 10.1007/BF00655097
+   TESCHE CD, 1977, IEEE T MAGN, V13, P859, DOI 10.1109/TMAG.1977.1059276
+   THOMPSON JM, 1991, NONLINEAR DYNAMICS C, P108
+   VANDERZIEL A, 1986, NOISE SOLID STATE DE, P25
+   VANHARLINGEN DJ, 1982, APPL PHYS LETT, V41, P197, DOI 10.1063/1.93460
+   WAKAI RT, 1988, APPL PHYS LETT, V52, P1182, DOI 10.1063/1.99197
+   YURKE B, 1988, PHYS REV LETT, V60, P764, DOI 10.1103/PhysRevLett.60.764
+NR 29
+TC 3
+Z9 3
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD JUN 1
+PY 1994
+VL 75
+IS 11
+BP 7550
+EP 7558
+DI 10.1063/1.356630
+PG 9
+WC Physics, Applied
+SC Physics
+GA NQ267
+UT WOS:A1994NQ26700060
+ER
+
+PT J
+AU ISHIHARA, H
+   GOTO, E
+   TSUJI, H
+   HIRAI, K
+AF ISHIHARA, H
+   GOTO, E
+   TSUJI, H
+   HIRAI, K
+TI DIGITAL POWER-METER
+SO MEASUREMENTS & CONTROL
+LA English
+DT Article
+AB The performance, features, operating principles and configuration of two digital power meters, Model 2534 for single-phase and Model 2535 for 3-phase measurement, will be discussed in this article. These instruments make use of the latest digital sampling technology and have a wide frequency bandwidth (DC, 10 Hz to 20 kHz).
+C1 YOKOGAWA CORP AMER,NEWNAN,GA 30265.
+NR 0
+TC 0
+Z9 0
+PU MEAS & DATA CORP
+PI PITTSBURGH
+PA 2994 W LIBERTY AVE, PITTSBURGH, PA 15216
+SN 0148-0057
+J9 MEAS CONTROL-US
+JI Meas. Control
+PD JUN
+PY 1994
+IS 165
+BP 104
+EP 108
+PG 5
+WC Automation & Control Systems; Instruments & Instrumentation
+SC Automation & Control Systems; Instruments & Instrumentation
+GA NU032
+UT WOS:A1994NU03200008
+ER
+
+PT J
+AU WONG, WF
+   GOTO, E
+AF WONG, WF
+   GOTO, E
+TI FAST HARDWARE-BASED ALGORITHMS FOR ELEMENTARY FUNCTION COMPUTATIONS
+   USING RECTANGULAR MULTIPLIERS
+SO IEEE TRANSACTIONS ON COMPUTERS
+LA English
+DT Article
+DE TABLE-BASED ALGORITHMS; ELEMENTARY FUNCTION COMPUTATION; DIGITAL
+   ARITHMETIC HARDWARE; ERROR ANALYSIS
+ID PERFORMANCE
+AB As the name suggests, elementary functions play a vital role in scientific computations.  Yet due to their inherent nature, they are a considerable computing task by themselves.  Not surprisingly, since the drawn of computing, the goal of speeding up elementary function computation has been pursued.  This paper describes new hardware based algorithms for the computation of the common elementary functions, namely division, logarithm, reciprocal square root, arc tangent, sine and cosine.  These algorithms exploit microscopic parallelism using specialized hardware with heavy use of truncation based on detailed accuracy analysis.  The contribution of this work lies in the fact that these algorithms are very fast and yet are accurate.  If we let the time to perform an IEEE Standard 754 double precision floating point multiplication be tau(x), our algorithms to achieve roughly 3.68tau(x),4.56tau(x), 5.25tau(x), 3.69tau(x), 7.06tau(x) and 6.5tau(x) for division, logarithm, square root, exponential, arc tangent and complex exponential (sine and cosine) respectively.  The trade-off is the need for tables and some specialized hardware.  The total amount of tables required, however, is less than 128 Kbytes.  In this paper, we will discuss the hardware, algorithmic and accuracy aspects of these algorithms.
+C1 INST PHYS & CHEM RES,GOTO LAB,WAKO,SAITAMA 35101,JAPAN.
+RP WONG, WF (reprint author), NATL UNIV SINGAPORE,DEPT INFORMAT SYST & COMP SCI,LOWER KENT RIDGE RD,SINGAPORE 0511,SINGAPORE.
+CR AGARWAL RC, 1986, IBM J RES DEV, P126
+   BRIGHTMAN T, 1989, HIGH PERFORM SYST, P59
+   CHEN TC, 1972, IBM J RES DEV    JUL, P380
+   ERCEGOVA.MD, 1973, IEEE T COMPUT, VC 22, P561
+   FERRARI D, 1967, IEEE TRANS ELECTRON, VEC16, P224, DOI 10.1109/PGEC.1967.264579
+   GAL S, 1986, LECT NOTES COMPUT SC, V235, P1
+   GAL S, 1991, ACM T MATH SOFTWARE, V17, P26, DOI 10.1145/103147.103151
+   KOREN I, 1990, IEEE T COMPUT, V39, P1030, DOI 10.1109/12.57042
+   NAGAI T, 1991, SUPERCOMPUTER, V8, P46
+   Nambu H., 1991, 1991 Symposium on VLSI Circuits. Digest of Technical Papers  (IEEE Cat. No.91CH3018-9), DOI 10.1109/VLSIC.1991.760054
+   PAYNE MN, 1983, ACM SIGNUM NEWSLETT, V18, P19, DOI 10.1145/1057600.1057602
+   QUACH NT, 1992, IEEE T COMPUT, V41, P1612, DOI 10.1109/12.214671
+   RODRIGUES MRD, 1981, IEE PROC-E, V128, P155
+   TAKADA M, 1990, ISSCC FEB, P138
+   TANG PTP, 1991, MCSP1941190 ARG NAT
+   VOLDER JE, 1960, IRE T ELEC COMPUT, V9, P227
+   WALLACE CS, 1964, IEEE T COMPUT, VEC13, P14, DOI 10.1109/PGEC.1964.263829
+   Walther J. S, 1971, SPRING JOINT COMP C, P379
+   WONG WF, 1993, THESIS U TSUKUBA
+   1985, ANSIIEEE7541985 IEEE
+NR 20
+TC 35
+Z9 38
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264
+SN 0018-9340
+J9 IEEE T COMPUT
+JI IEEE Trans. Comput.
+PD MAR
+PY 1994
+VL 43
+IS 3
+BP 278
+EP 294
+DI 10.1109/12.272429
+PG 17
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA ND517
+UT WOS:A1994ND51700003
+ER
+
+PT J
+AU JEFFERY, M
+   GOTO, E
+AF JEFFERY, M
+   GOTO, E
+TI NUMERICAL SIMULATIONS OF THE IKA EVEN HARMONIC PARAMETRIC-AMPLIFIER
+SO PHYSICA B
+LA English
+DT Article; Proceedings Paper
+CT 20th International Conference on Low Temperature Physics
+CY AUG 04-11, 1993
+CL EUGENE, OR
+SP INT UNION PURE & APPL PHYS, AMER PHYS SOC, CITY EUGENE, INT INST REFRIGERAT, INT SCI FDN, JET PROPULS LABS, NATL SCI FDN, USN, OFF NAVAL RES, OXFORD INSTRUMENTS INC, TEKTRONIX INC, UNIV OREGON
+AB We have developed a numerical model of the IKA even harmonic Josephson parametric amplifier.  The IKA magnetometer is designed to detect very weak magnetic fields without DC offset and with low noise.  In this paper the frequency response and linear dynamic range are calculated as functions of various parameters.  We demonstrate that the device operates as a linear parametric amplifier at weak input flux values.
+RP JEFFERY, M (reprint author), INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR AWSCHALOM D, 1988, APPL PHYS LETT, P53
+   GENG Q, UNPUB IEEE T APPL SU
+   GOTO E, 1961, Patent No. 301944
+   GOTO E, 1989, Patent No. 4851776
+   JEFFERY M, IN PRESS
+   KOCH R, 1981, APPL PHYS LETT, P38
+NR 6
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4526
+J9 PHYSICA B
+JI Physica B
+PD FEB
+PY 1994
+VL 194
+BP 91
+EP 92
+DI 10.1016/0921-4526(94)90375-1
+PN Part 1
+PG 2
+WC Physics, Condensed Matter
+SC Physics
+GA NB789
+UT WOS:A1994NB78900049
+ER
+
+PT J
+AU MCKENNA, A
+   GOTO, E
+AF MCKENNA, A
+   GOTO, E
+TI REFRIGERATION SYSTEMS REALIZING L(4) - LOW POLLUTION, LOW-COST,
+   LOW-LOSS, AND LONG-LIFE
+SO CRYOGENICS
+LA English
+DT Article; Proceedings Paper
+CT 15th International Cryogenic Engineering Conference (ICEC 15)
+CY JUN 07-10, 1994
+CL GENOVA, ITALY
+SP INT CRYOGEN ENGN COMM
+AB The present work describes a refrigeration system which satisfies the criteria of L(4): low pollution, low cost, low loss, and long life. The design closely models the Ericsson ideal gas cycle which consists of two isothermal and two constant pressure processes. The working fluid is Helium which does not change phase during the cycle. The present design uses a high frequency bellows pumping system where one bellows compartment is capable of producing 40W of cooling power, The number of compartments in the bellows pump can be customized according to the amount of power needed.
+RP MCKENNA, A (reprint author), RIKEN,INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR Black W.Z., 1991, THERMODYNAMICS
+   BOLZ RE, 1970, CRC HDB TABLES APPLI
+   ITO T, 1993, HITACHI REV, V42
+   KITTEL C, 1990, THERMAL PHYSICS
+   KUBO R, 1987, IWANAMI DICT PHYSICS, P952
+   LONG HM, 1954, APPL SCI RES, P237
+   SMITH JL, 1967, ADV CRYOGEN ENG, V12, P595
+NR 7
+TC 0
+Z9 0
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA LINACRE HOUSE JORDAN HILL, OXFORD, OXON, ENGLAND OX2 8DP
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PY 1994
+VL 34
+SU ICEC
+BP 171
+EP 174
+DI 10.1016/S0011-2275(05)80036-0
+PG 4
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA PY678
+UT WOS:A1994PY67800036
+ER
+
+PT J
+AU JEFFERY, M
+   GOTO, E
+AF JEFFERY, M
+   GOTO, E
+TI SUBQUANTUM LIMIT DC JOSEPHSON PARAMETRIC-AMPLIFIER
+SO CRYOGENICS
+LA English
+DT Article; Proceedings Paper
+CT 15th International Cryogenic Engineering Conference (ICEC 15)
+CY JUN 07-10, 1994
+CL GENOVA, ITALY
+SP INT CRYOGEN ENGN COMM
+ID NOISE; SQUID
+AB A new dc Josephson Inductive Kinetic Amplifier (IKA) has been proposed to measure weak magnetic fields with high sensitivity. In the present work the quantum noise intrinsic to the device is analyzed at 4.2K and we show that the IKA is capable of subquantum limit measurement of dc magnetic fields.
+RP JEFFERY, M (reprint author), RIKEN,INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR AWSCHALOM DD, 1988, APPL PHYS LETT, V53, P2108, DOI 10.1063/1.100291
+   CAVES CM, 1982, PHYS REV D, V26, P1817, DOI 10.1103/PhysRevD.26.1817
+   DRUNG D, 1990, APPL PHYS LETT, V57, P406, DOI 10.1063/1.103650
+   GOTO E, 1961, Patent No. 301944
+   GOTO E, 1989, Patent No. 4851776
+   JEFFERY M, 1994, IN PRESS J APPL PHYS, V75
+   KOCH RH, 1981, APPL PHYS LETT, V38, P380, DOI 10.1063/1.92345
+   Nyquist H, 1928, PHYS REV, V32, P110, DOI 10.1103/PhysRev.32.110
+   SAVO B, 1987, APPL PHYS LETT, V50, P1757, DOI 10.1063/1.97738
+   Takahasi H., 1965, Advances in Communication Systems
+   TESCHE CD, 1977, J LOW TEMP PHYS, V29, P301, DOI 10.1007/BF00655097
+   YURKE B, 1988, PHYS REV LETT, V60, P764, DOI 10.1103/PhysRevLett.60.764
+NR 12
+TC 0
+Z9 0
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA LINACRE HOUSE JORDAN HILL, OXFORD, OXON, ENGLAND OX2 8DP
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PY 1994
+VL 34
+SU ICEC
+BP 899
+EP 902
+DI 10.1016/S0011-2275(05)80212-7
+PG 4
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA PY678
+UT WOS:A1994PY67800216
+ER
+
+PT J
+AU SUDA, R
+   KAMIKAWAI, R
+   WADA, Y
+   HIOE, W
+   HOSOYA, M
+   GOTO, E
+AF SUDA, R
+   KAMIKAWAI, R
+   WADA, Y
+   HIOE, W
+   HOSOYA, M
+   GOTO, E
+TI QFP WIRING PROBLEM - INTRODUCTION AND ANALYTICAL CONSIDERATIONS
+SO IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND
+   SYSTEMS
+LA English
+DT Article
+ID FLUX
+AB A novel Josephson device with many desirable properties-fast switching speed, high operation frequency, and low power dissipation-has been researched these several years: the Quantum Flux Parametron (QFP). This paper discusses the interconnection problem of QFP circuits, where wire inductance matching and high clock rate restrict the lengths of interconnection wires. A layout model of QFP interconnection wires is clarified, and the effects of wire inductance matching on interconnection area and wire length are analyzed. The limitation comes from the bound of the number of squares of wires, therefore similar effects will exist where wire resistance is bounded. This paper discusses a simple wiring and buffering algorithm for QFP circuits, in which wire inductance is adjusted and the maximum wire length is controlled, to prove that any logic is realizable as a QFP circuit.
+C1 UNIV TOKYO,DEPT INFORMAT SCI,TOKYO,TOKYO,JAPAN.
+   JAPAN WOMENS UNIV,DEPT MATH & PHYS SCI,TOKYO,TOKYO,JAPAN.
+   INST PHYS & CHEM RES,GOTO LAB,WAKO,SAITAMA 351,JAPAN.
+RP SUDA, R (reprint author), QFP PROJECT,KOKUBUNJI,TOKYO 185,JAPAN.
+CR Akl S. G., 1985, PARALLEL SORTING ALG
+   CASAS J, 1992, IEEE J SOLID-ST CIRC, V27, P97, DOI 10.1109/4.109561
+   HARADA Y, 1989, P IEEE, V77, P1280, DOI 10.1109/5.34126
+   HIOE W, 1991, IEEE T MAGN, V27, P2765, DOI 10.1109/20.133784
+   HIOE W, 1991, QUANTUM FLUX PARAMET
+   HOSOYA M, 1991, P ISEC 91 EXTENDED A, P188
+   HOSOYA M, 1991, IEEE T APPL SUPERCON, V1, P75
+   Likharev K.K., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.80745
+   Nakajima K., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.80746
+   RIVEST RL, 1981, VLSI SYSTEMS COMPUTA
+   WANG DC, 1991, 28TH ACM/IEEE DESIGN AUTOMATION CONFERENCE, P49
+   Yoshimura T., 1982, IEEE Transactions on Computer-Aided Design of Integrated Circuits  and Systems, VCAD-1, DOI 10.1109/TCAD.1982.1269993
+NR 12
+TC 1
+Z9 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0278-0070
+J9 IEEE T COMPUT AID D
+JI IEEE Trans. Comput-Aided Des. Integr. Circuits Syst.
+PD JAN
+PY 1994
+VL 13
+IS 1
+BP 48
+EP 56
+DI 10.1109/43.273750
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science,
+   Interdisciplinary Applications; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA MT511
+UT WOS:A1994MT51100005
+ER
+
+PT J
+AU GENG, Q
+   GOTO, E
+AF GENG, Q
+   GOTO, E
+TI FLUX TRAPPING IN SUPERCONDUCTING THIN-FILMS IN WEAK MAGNETIC-FIELDS
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID PICK-UP COIL; QUANTA
+AB Magnetic-field distribution measurements over a patterned superconducting strip line sample were conducted using a superconducting quantum interference device pickup coil, showing that, in the range of 500 muG-50 mG of perpendicular magnetic field B(parallel-to, i), the superconducting films record previous magnetic histories precisely. The magnetic-field distribution with a field B(parallel-to, i) applied at all times is identical to one with no field applied at any time. A calculation based on the flux trapping model explains these results indicating that all the magnetic fluxes penetrate the superconducting thin films.
+C1 INST PHYS & CHEM RES,FRONTIER RES PROGRAM,WAKO,SAITAMA 35101,JAPAN.
+CR BROOM RF, 1962, P PHYS SOC LOND, V79, P586, DOI 10.1088/0370-1328/79/3/315
+   DOLAN GJ, 1973, PHYS REV LETT, V30, P603, DOI 10.1103/PhysRevLett.30.603
+   GENG Q, 1992, REV SCI INSTRUM, V63, P3972, DOI 10.1063/1.1143247
+   GENG Q, 1991, ISSUES JOSEPHSON SUP, P29
+   GENG Q, 1990, PHYSICA B, V165, P87, DOI 10.1016/0921-4526(90)90435-W
+   HUEBENER RP, 1975, J LOW TEMP PHYS, V19, P247, DOI 10.1007/BF00116179
+   Likharev K.K., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.80745
+   MAKI K, 1965, ANN PHYS-NEW YORK, V34, P363, DOI 10.1016/0003-4916(65)90153-3
+   MATSUDA T, 1989, PHYS REV LETT, V62, P2519, DOI 10.1103/PhysRevLett.62.2519
+   MINAMI H, 1992, CRYOGENICS, V32, P648, DOI 10.1016/0011-2275(92)90297-N
+   MORRIS DE, 1962, PHYS REV LETT, V6, P600
+   ROBERTS BW, 1969, 482 NAT BUR STAND TE
+   Schrieffer J. R., 1964, THEORY SUPERCONDUCTI
+   TINKHAM M, 1963, PHYS REV, V129, P2413, DOI 10.1103/PhysRev.129.2413
+   VANDUZER T, 1980, IEEE T MICROW THEORY, V28, P490, DOI 10.1109/TMTT.1980.1130107
+   WASHINGTON MA, 1982, APPL PHYS LETT, V40, P848, DOI 10.1063/1.93252
+NR 16
+TC 1
+Z9 1
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD NOV 15
+PY 1993
+VL 74
+IS 10
+BP 6293
+EP 6296
+DI 10.1063/1.355148
+PG 4
+WC Physics, Applied
+SC Physics
+GA MF840
+UT WOS:A1993MF84000058
+ER
+
+PT J
+AU GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+AF GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+TI SWEEPING OF TRAPPED FLUX IN SUPERCONDUCTING FILMS BY A
+   MICRO-HEAT-FLUSHING METHOD
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID QUANTA
+AB A new technique has been developed to remove flux quanta trapped in superconducting film. It consists of measuring the magnetic field distribution over a superconductor with an rf superconducting quantum interference device (SQUID) and removing the detected trapped flux using laser beam scanning. The trapped flux movement follows the motion of the Ar laser beam exactly. By scanning the laser beam over the trapped flux quanta, the trapped flux is successfully moved to any desired location. Comparison with heat flushing method, the most important advantages of this technique are (i) the flux movement in the superconducting film can be controlled precisely; (ii) by adjusting the laser power so as to change the diameter of the normal hot spot, flux creations caused by the thermoelectric potential of the material can be avoided. These results show that our technique is very useful in the field of Josephson junction electronics and other areas that require extremely low magnetic field environment.
+C1 ERATO RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,KANAGAWA 253,JAPAN.
+CR ALLEN LH, 1989, PHYS REV B, V39, P2054, DOI 10.1103/PhysRevB.39.2054
+   BARDAS D, 1986, P SOC PHOTO-OPT INS, V619, P29
+   BARONE A, 1982, PHYSICS APPLICATIONS
+   Cabrera B., 1975, THESIS STANFORD U
+   CABRERA B, 1978, ACTA ASTRONAUT, V5, P125, DOI 10.1016/0094-5765(78)90041-3
+   GENG Q, 1991, P ISEC91, P576
+   GENG Q, 1991, 8TH P RIKEN S JOS EL
+   GENG Q, 1990, PHYSICA B, V165, P87, DOI 10.1016/0921-4526(90)90435-W
+   GOTO E, 1959, Patent No. 96875
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HIOE W, 1991, QUANTUM FLUX PARAMET
+   Huebener R. P., 1979, MAGNETIC FLUX STRUCT
+   LOCKHART JM, 1986, P SOC PHOTO-OPT INS, V619, P148
+   MINAMI H, 1991, IEEE T MAGN, V27, P3009, DOI 10.1109/20.133843
+   TANABE K, 1988, J APPL PHYS, V63, P1733, DOI 10.1063/1.339910
+   TESTARDI LR, 1971, PHYS REV B, V4, P2189, DOI 10.1103/PhysRevB.4.2189
+   Tinkham M., 1975, INTRO SUPERCONDUCTIV
+   YUYAMA J, 1988, FLUXOID JOSEPHSON CO, P76
+NR 18
+TC 1
+Z9 1
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD SEP 15
+PY 1992
+VL 72
+IS 6
+BP 2411
+EP 2417
+DI 10.1063/1.351585
+PG 7
+WC Physics, Applied
+SC Physics
+GA JN512
+UT WOS:A1992JN51200046
+ER
+
+PT J
+AU GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+AF GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+TI TECHNIQUE FOR MEASURING ABSOLUTE INTENSITY OF WEAK MAGNETIC-FIELDS BY A
+   SQUID PICK-UP COIL SYSTEM
+SO REVIEW OF SCIENTIFIC INSTRUMENTS
+LA English
+DT Article
+ID TRAPPED FLUX QUANTA; SUPERCONDUCTORS
+AB A method to measure the absolute intensity of a weak magnetic field is described.  This method uses patterned superconducting strip lines as a spatial modulator of the field and detects the magnetic field distribution over them as a function of applied magnetic fields.  The field distribution change measured by an rf SQUID system is proportional to the component of the absolute intensity of the magnetic field at the specimen that is parallel with the pick-up coil axis.  The magnetic field intensity can be determined absolutely from about 1-mu-G by this method.  A spatial resolution of the field as good as few millimeters is obtained.  Some practical limitations of this method and possible ways for improving are also discussed.
+C1 RES DEV CORP JAPAN,ERATO,QUANTUM MAGNETO FLUX LOG PROJECT,CHIGASAKI,KANAGAWA 253,JAPAN.
+CR BARDAS D, 1986, SPIE, V619, P29
+   BARONE A, 1982, PHYSICS APPLICATIONS
+   Cabrera B., 1975, THESIS STANFORD U
+   GENG Q, 1991, ISSUES JOSEPHSON SUP
+   GENG Q, 1991, JPN J APPL PHYS 2, V30, pL838, DOI 10.1143/JJAP.30.L838
+   GENG Q, 1990, PHYSICA B, V165, P87, DOI 10.1016/0921-4526(90)90435-W
+   Grover F. W., 1973, INDUCTANCE CALCULATI
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   Huebener R. P., 1979, MAGNETIC FLUX STRUCT
+   KOSUGE K, 1980, CRYOGENICS, V20, P223, DOI 10.1016/0011-2275(80)90131-9
+   LOCKHART JM, 1986, SPIE, V619, P148
+   MINAMI H, 1991, IEEE T MAGN, V27, P3009, DOI 10.1109/20.133843
+   SWITHENBY SJ, 1980, J PHYS E SCI INSTRUM, V13, P801, DOI 10.1088/0022-3735/13/8/001
+   VANHULSTEYN DB, 1990, PHYSICA B, V165, P89, DOI 10.1016/0921-4526(90)90436-X
+   WASHINGTON MA, 1982, APPL PHYS LETT, V40, P848, DOI 10.1063/1.93252
+   WILLIAMSON SJ, 1981, J MAGN MAGN MATER, V22, P129, DOI 10.1016/0304-8853(81)90078-0
+   YUYAMA J, 1988, FLUXOID JOSEPHSON CO
+NR 17
+TC 4
+Z9 4
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0034-6748
+J9 REV SCI INSTRUM
+JI Rev. Sci. Instrum.
+PD AUG
+PY 1992
+VL 63
+IS 8
+BP 3972
+EP 3977
+DI 10.1063/1.1143247
+PG 6
+WC Instruments & Instrumentation; Physics, Applied
+SC Instruments & Instrumentation; Physics
+GA JF720
+UT WOS:A1992JF72000026
+ER
+
+PT J
+AU GOTO, E
+   SHI, Y
+   YOSHIDA, N
+AF GOTO, E
+   SHI, Y
+   YOSHIDA, N
+TI EXTRAPOLATED SURFACE-CHARGE METHOD FOR CAPACITY CALCULATION OF POLYGONS
+   AND POLYHEDRA
+SO JOURNAL OF COMPUTATIONAL PHYSICS
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 35101,JAPAN.
+   RES DEV CORP JAPAN,QUANTUM MAGNETOFLUX LOG PROJECT,TAITO KU,TOKYO 110,JAPAN.
+RP GOTO, E (reprint author), UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,7-3-1 HONGO,BUNKYO KU,TOKYO 113,JAPAN.
+CR HOSOYA M, 1988, J COMPUT PHYS, V74, P94, DOI 10.1016/0021-9991(88)90071-X
+   HOSOYA M, 1988, THESIS U TOKYO
+   MAXWELL JC, 1878, ELECTRICAL RES HONOR, P426
+   REITAN DK, 1951, J APPL PHYS, V22, P223, DOI 10.1063/1.1699929
+   RUEHLI AE, 1973, IEEE T MICROW THEORY, VMT21, P76, DOI 10.1109/TMTT.1973.1127927
+   TAKUMA T, 1980, 180029 CENTR RES I E
+NR 6
+TC 20
+Z9 20
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0021-9991
+J9 J COMPUT PHYS
+JI J. Comput. Phys.
+PD MAY
+PY 1992
+VL 100
+IS 1
+BP 105
+EP 115
+DI 10.1016/0021-9991(92)90313-N
+PG 11
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA HV236
+UT WOS:A1992HV23600009
+ER
+
+PT J
+AU HIOE, W
+   HOSOYA, M
+   GOTO, E
+AF HIOE, W
+   HOSOYA, M
+   GOTO, E
+TI A STUDY ON CIRCUITS TO IMPROVE THE MARGIN OF THE QUANTUM FLUX PARAMETRON
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+AB The Quantum Flux Parametron (QFP) is a single-flux quantum Josephson device with a high gain of over 20 dB and a low power dissipation of 1-nW order at 10 GHz. Logic and analog circuits using the device have been fabricated and tested. It has been found that the device's margin may be reduced by a number of problems due to fabrication and design variations such as imbalance of Josephson-junction critical currents, flux loss in transformer self-inductances, and transformer coupling variations. This paper reviews these problems and describes three auxiliary circuits: booster, puller, and regulator, for alleviating them. A booster reduces the effect of critical current variations and doubles the output. A puller increases the activation current thus allowing smaller clock signals. A regulator ensures full activation of the QFP over a wide range of activation levels. With these circuits, the device has a much improved margin against variations originating from within itself.
+C1 RES DEV CORP JAPAN,GOTO QUANTUM MAGNETOFLUX LOG PROJECT,TOKYO,JAPAN.
+   KANAGAWA UNIV,DEPT INFORMAT SCI,YOKOHAMA,KANAGAWA,JAPAN.
+RP HIOE, W (reprint author), HITACHI LTD,CENT RES LAB,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR GOTO E, 1960, IRE T ELECT COMPUTER, P25
+   GOTO E, 1984, 1ST P RIK S JOS EL, P48
+   GOTO E, 1986, DC FLUX PARAMETRON
+   GOTO E, 1959, P IRE, V47, P1309
+   HARADA Y, 1989, 6TH P RIKEN S JOS EL, P54
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HARADA Y, 1987, IEDMT, P387
+   HARADA Y, 1989, P IEEE, V77, P1280, DOI 10.1109/5.34126
+   HIOE W, 1991, IEEE T MAGN, V27, P2765, DOI 10.1109/20.133784
+   KAMIKAWAI R, 1990, 7TH P RIKEN S JOS EL, P54
+   SHIMIZU N, 1989, IEEE T ELECTRON DEV, V36, P1175, DOI 10.1109/16.24365
+NR 11
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PD FEB
+PY 1992
+VL 39
+IS 2
+BP 437
+EP 443
+DI 10.1109/16.121704
+PG 7
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA GZ714
+UT WOS:A1992GZ71400028
+ER
+
+PT J
+AU KASUYA, M
+   YUYAMA, J
+   GENG, Q
+   GOTO, E
+AF KASUYA, M
+   YUYAMA, J
+   GENG, Q
+   GOTO, E
+TI OPTIMUM PHASE-ANGLE BETWEEN PRESSURE AND GAS DISPLACEMENT OSCILLATIONS
+   IN A PULSE-TUBE REFRIGERATOR
+SO CRYOGENICS
+LA English
+DT Article
+DE REFRIGERATION; PULSE-TUBE REFRIGERATORS; PHASE ANGLE
+AB A study is made to investigate how the phase angle between pressure oscillation and gas displacement affects pulse-tube refrigeration performance.  For this purpose, a pulse-tube refrigerator involving a piston at the hot end of the pulse tube is constructed.  It is found that the optimum phase angle of piston motion is 142-degrees, and that the lowest temperature is 47 K with an operating speed of 1.3 Hz.  Gas displacement due to contraction and expansion is suppressed by the piston motion at this optimum phase angle.  Since the optimum phase angle is in the range of 90-degrees-180-degrees, orifice pulse-tube refrigerators cannot achieve optimum phase operation.  The improvement achieved with double-inlet pulse-tube refrigerators can be explained by the phase angle versus refrigeration performance relation found in the present experiment.
+RP KASUYA, M (reprint author), RES DEV CORP JAPAN,ERATO,QUANTUM MAGNETO FLUX LOG PROJECT,2500 HAGISONO,CHIGASAKI,KANAGAWA 253,JAPAN.
+CR GENG Q, IN PRESS ADV QUANTUM
+   GIFFORD WE, 1966, ADV CRYOGEN ENG, V11, P171
+   KASUYA M, 1991, CRYOGENICS, V31, P786, DOI 10.1016/0011-2275(91)90135-J
+   Radebaugh R., 1986, ADV CRYOGEN ENG, V31, P779
+   SWIFT GW, 1988, J ACOUST SOC AM, V84, P1145, DOI 10.1121/1.396617
+   TOMINAGA A, 1990, CRYOG ENG, V25, P132
+   TOMINAGA A, 1989, UNPUB 3RD P JAP SIN, P141
+   TOMINAGA A, 1991, CRYOG ENG, V26, P30
+   WU PY, 1990, CRYOGENICS, V30, P253
+   ZHU SW, 1990, CRYOGENICS, V30, P514
+   ZHU SW, 1990, CRYOGENICS, V30, P257
+NR 11
+TC 5
+Z9 5
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PY 1992
+VL 32
+IS 3
+BP 303
+EP 308
+DI 10.1016/0011-2275(92)90369-L
+PG 6
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA HF553
+UT WOS:A1992HF55300008
+ER
+
+PT J
+AU MINAMI, H
+   GENG, Q
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+AF MINAMI, H
+   GENG, Q
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+TI DETECTION OF TRAPPED FLUX QUANTA IN SUPERCONDUCTING FILMS BY SCANNING A
+   SQUID PICK-UP COIL
+SO CRYOGENICS
+LA English
+DT Article
+DE FLUX QUANTA; SQUIDS; PICK-UP COILS
+AB Trapped flux quanta have been detected by scanning a SQUID pick-up coil over a superconductor surface. The basic principle of this method is that the perpendicular component of the magnetic field near the superconductor surface vanishes because of the Meissner effect. On the other hand, the perpendicular component above trapped flux quanta will not vanish. Therefore when the coil scans over the surface, a change of PHI-0 in the flux through the coil is observed just above the trapped flux quantum. The advantages of this method are high sensitivity to flux trapped in superconductors and low sensitivity to external magnetic disturbances. These features are confirmed through experimentation. The experiment, performed with a superconducting film in liquid helium, shows that this method can detect flux quanta trapped in superconductors.
+C1 EXPLORATORY RES ADV TECHNOL,RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,CHIGASAKI,KANAGAWA 253,JAPAN.
+CR BOSHE J, 1985, PHYS REV LETT, V54, P1448
+   GENG Q, 1991, JPN J APPL PHYS, V30, P838
+   GENG Q, 1991, UNPUB 8TH P RIKEN S, P51
+   GOTO E, Patent No. 5996785
+   HYUN OB, 1987, IEEE T MAGN, V23, P1176, DOI 10.1109/TMAG.1987.1065080
+   MATSUDA T, 1989, PHYS REV LETT, V62, P2519, DOI 10.1103/PhysRevLett.62.2519
+   MINAMI H, 1991, IEEE T MAGN, V27, P3009, DOI 10.1109/20.133843
+   SCHEUERMANN M, 1983, PHYS REV LETT, V50, P74, DOI 10.1103/PhysRevLett.50.74
+   YUYAMA J, 1988, UNPUB 5TH P RIKEN S, P110
+   YUYAMA J, 1988, FLUXOID JOSEPHSON CO, P76
+NR 10
+TC 11
+Z9 11
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PY 1992
+VL 32
+IS 7
+BP 648
+EP 652
+DI 10.1016/0011-2275(92)90297-N
+PG 5
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA JB723
+UT WOS:A1992JB72300007
+ER
+
+PT J
+AU HIOE, W
+   HOSOYA, M
+   GOTO, E
+   SUDA, R
+   MIYAMOTO, N
+AF HIOE, W
+   HOSOYA, M
+   GOTO, E
+   SUDA, R
+   MIYAMOTO, N
+TI EXPERIMENTAL AND SIMULATION STUDY OF AN AUXILIARY CIRCUIT TO IMPROVE
+   GAIN OF THE QUANTUM FLUX PARAMETRON
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article; Proceedings Paper
+CT 1991 INTERNATIONAL CONF ON SOLID STATE DEVICES AND MATERIALS ( SSDM 91 )
+CY AUG 27-29, 1991
+CL YOKOHAMA, JAPAN
+SP JAPAN SOC APPL PHYS
+DE SINGLE FLUX QUANTUM DEVICE; PARAMETRON; CRITICAL CURRENT IMBALANCE;
+   GAIN; AUXILIARY CIRCUIT; THEORY; SIMULATION
+AB The gain of parametron-type devices like the Quantum Flux Parametron (QFP) is reduced by non-uniformity which causes an apparent input bias. A method to improve gain by circuit design is considered. A booster, a dc-activated QFP attached to the output of a clock-activated QFP, improves gain by doubling total output current without significantly increasing minimum input current. The booster's operation is analyzed theoretically from its quasi-static behavior and compared to results obtained from low-speed experiments on fabricated test circuits and computer simulation at high-clock rates.
+C1 ERATO,RES DEV CORP JAPAN,KOKUBUNJI,TOKYO 185,JAPAN.
+RP HIOE, W (reprint author), HITACHI LTD,CENT RES LAB,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR CASAS J, 1992, IN PRESS IEEE J SOLI
+   GOTO E, 1960, IRE T ELECT COMPUTER, P25
+   GOTO E, 1959, P IRE            AUG, P1304
+   GOTO E, 1986, DC FLUX PARAMETRON
+   Harada Y., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.84614
+   HIOE W, 1992, IN PRESS IEEE T ELEC
+NR 6
+TC 0
+Z9 0
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD DEC
+PY 1991
+VL 30
+IS 12B
+BP 3920
+EP 3924
+DI 10.1143/JJAP.30.3920
+PG 5
+WC Physics, Applied
+SC Physics
+GA HF428
+UT WOS:A1991HF42800082
+ER
+
+PT J
+AU CASAS, J
+   KAMIKAWAI, R
+   MIYAMOTO, N
+   GOTO, E
+AF CASAS, J
+   KAMIKAWAI, R
+   MIYAMOTO, N
+   GOTO, E
+TI A QUANTUM FLUX PARAMETRON (QFP) 12-BIT SHIFT REGISTER CAPABLE OF STABLE
+   MICROWAVE FREQUENCY OPERATION
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article; Proceedings Paper
+CT 1991 INTERNATIONAL CONF ON SOLID STATE DEVICES AND MATERIALS ( SSDM 91 )
+CY AUG 27-29, 1991
+CL YOKOHAMA, JAPAN
+SP JAPAN SOC APPL PHYS
+DE QFP; SUPERCONDUCTING GATE; SHIFT REGISTER; ERROR-FREE OPERATION;
+   NANOWATT POWER DISSIPATION; STANDING WAVE; INDUCTIVE CLOCK DISTRIBUTION;
+   MICROWAVE CLOCK FREQUENCY
+ID JOSEPHSON
+AB A 12-bit shift register employing the quantum flux parametron (QFP) as its basic element is presented. The 12-bit shift register operates at frequencies from dc up to 4.24 GHz with an on-chip total power consumption below 10 nW. Such a low power consumption is possible to obtain because (1) the QFP has very little power dissipation and (2) the clock lines do not dissipate power. The clock current is applied as a standing wave and is distributed by inductive division. The output put waveform has been sampled in the time domain at a clock frequency of 2.4 GHz in spite of the low output signal amplitude (about 10-mu-V) and of the large crosstalk with the clock frequency. The 12-bit shift register is capable of stable operation, demonstrating that at least 10(15) error-free operations per QFP are possible.
+RP CASAS, J (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR CASAS J, 1991, IN PRESS IEEE J SOLI
+   CASAS J, 1991, IEEE T MAGN, V27, P2851, DOI 10.1109/20.133803
+   FLEISCHMAN J, 1991, IEEE T MAGN, V27, P2769, DOI 10.1109/20.133785
+   FUJIMAKI N, 1988, IEEE J SOLID-ST CIRC, V23, P852, DOI 10.1109/4.329
+   FUJIMAKI N, 1987, IEEE J SOLID-ST CIRC, V22, P886, DOI 10.1109/JSSC.1987.1052829
+   HOROWITZ P, 1980, ART ELECTRONICS
+   PRZYBYSZ JX, 1991, IEEE T MAGN, V27, P2773, DOI 10.1109/20.133786
+   PRZYBYSZ JX, 1989, P IEEE, V77, P1274, DOI 10.1109/5.34125
+   SADLER RA, 1989, IEEE ELECTR DEVICE L, V10, P440, DOI 10.1109/55.43093
+   SINGH HP, 1990, IEEE J SOLID-ST CIRC, V25, P239, DOI 10.1109/4.50310
+   SINGH HP, 1986, 1986 GAAS IC S, P11
+   TSUJI H, 1990, FAL JOINT C INST EL
+   Hosoya M., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.84613
+   WANG KC, 1986, 1986 GAAS IC S, P159
+   YANO S, 1987, IEEE T MAGN, V23, P1472, DOI 10.1109/TMAG.1987.1065100
+   YUH PF, 1991, IEEE T MAGN, V27, P2898, DOI 10.1109/20.133815
+   1988, FREQUENCY PRODUCT GU
+NR 17
+TC 0
+Z9 0
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD DEC
+PY 1991
+VL 30
+IS 12B
+BP 3938
+EP 3942
+DI 10.1143/JJAP.30.3938
+PG 5
+WC Physics, Applied
+SC Physics
+GA HF428
+UT WOS:A1991HF42800086
+ER
+
+PT J
+AU GOTO, E
+   HIOE, W
+   HOSOYA, M
+AF GOTO, E
+   HIOE, W
+   HOSOYA, M
+TI PHYSICAL LIMITS TO QUANTUM FLUX PARAMETRON OPERATION
+SO PHYSICA C
+LA English
+DT Article; Proceedings Paper
+CT 3RD INTERNATIONAL CONF ON MATERIALS AND MECHANISMS OF SUPERCONDUCTIVITY
+   : HIGH TEMPERATURE SUPERCONDUCTORS
+CY JUL 22-26, 1991
+CL KANAZAWA, JAPAN
+SP CITY KANAZAWA, ISHIKAWA PERFECTURE
+ID OHMIC DISSIPATION; SYSTEMS
+AB The Quantum Flux Parametron (QFP) is a superconducting logic device with very high switching speed and low power dissipation.  Experiments have confirmed its operation at 16.2 GHz clocking.  It operates close to the physical limits determined by thermal hopping and macroscopic quantum tunnelling (MQT).  Theory shows that the energy barrier between stable states, for a typical QFP, must be near a hundred kT so that spontaneous transitions due to thermal fluctuations are less than one in the time for a year of supercomputer operation or 10(26) switching operations.  Transitions due to MQT are usually much less likely but approaches that due to thermal hopping at maximum current density.  Since the energy barrier height is not static but varies dynamically with an activation clock, Monte Carlo simulations were conducted to verify error probability due to thermal fluctuations.  The feasibility of operating QFP's at liquid nitrogen temperature is discussed.  The question whether loss of information generates entropy is also discussed.
+RP GOTO, E (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR BRILLOUIN L, 1956, SCI INFORMATION THEO
+   CALDEIRA AO, 1981, PHYS REV LETT, V46, P211, DOI 10.1103/PhysRevLett.46.211
+   CASAS J, IN PRESS IEEE J SOLI
+   CHAKRAVARTY S, 1984, PHYS REV LETT, V52, P5, DOI 10.1103/PhysRevLett.52.5
+   FISHER MPA, 1985, PHYS REV LETT, V54, P1609, DOI 10.1103/PhysRevLett.54.1609
+   GOTO E, 1990, 3RD P INT S F QUANT, P412
+   GOTO E, 1986, DC FLUX PARAMETRON
+   GRABERT H, 1985, PHYS REV LETT, V54, P1605, DOI 10.1103/PhysRevLett.54.1605
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HOSOYA M, IN PRESS IEEE T APPL
+   Kramers HA, 1940, PHYSICA, V7, P284, DOI 10.1016/S0031-8914(40)90098-2
+   LANDAUER R, 1961, IBM J RES DEV, V5, P183
+   SHIMIZU N, 1989, IEEE T ELECTRON DEV, V36, P1175, DOI 10.1109/16.24365
+   von Neumann J., 1966, THEORY SELF REPRODUC
+   VOSS RF, 1981, PHYS REV LETT, V47, P265, DOI 10.1103/PhysRevLett.47.265
+NR 15
+TC 3
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4534
+J9 PHYSICA C
+JI Physica C
+PD DEC 1
+PY 1991
+VL 185
+BP 385
+EP 390
+DI 10.1016/0921-4534(91)92004-U
+PN 1
+PG 6
+WC Physics, Applied
+SC Physics
+GA GW827
+UT WOS:A1991GW82700069
+ER
+
+PT J
+AU CASAS, J
+   KAMIKAWAI, R
+   MIYAMOTO, N
+   GOTO, E
+AF CASAS, J
+   KAMIKAWAI, R
+   MIYAMOTO, N
+   GOTO, E
+TI MULTIGIGAHERTZ TIME-DOMAIN TESTING OF THE QUANTUM FLUX PARAMETRON
+SO SUPERCONDUCTOR SCIENCE & TECHNOLOGY
+LA English
+DT Article
+ID JOSEPHSON
+AB The quantum flux parametron QFP is a very fast superconducting logic device. Previously, the high frequency operation of the QFP was assessed by analysing the output of the device in the frequency domain. This paper shows for the first time that time domain measurements are possible in spite of the low voltage amplitude of the output signal and relatively large crosstalk with the clock frequency. The time-domain waveform of a single-bit shift register with logic inversion working at a clock frequency of 5 GHz is recorded.
+RP CASAS, J (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR CASAS J, 1991, IN PRESS IEEE J SOLI
+   CASAS J, 1991, IEEE T MAGN, V27, P2851, DOI 10.1109/20.133803
+   FUJIMAKI N, 1988, IEEE J SOLID-ST CIRC, V23, P852, DOI 10.1109/4.329
+   FUJIMAKI N, 1987, IEEE J SOLID-ST CIRC, V22, P886, DOI 10.1109/JSSC.1987.1052829
+   PRZYBYSZ JX, 1991, IEEE T MAGN, V27, P2773, DOI 10.1109/20.133786
+   Hosoya M., 1991, IEEE Transactions on Applied Superconductivity, V1, DOI 10.1109/77.84613
+NR 6
+TC 0
+Z9 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-2048
+J9 SUPERCOND SCI TECH
+JI Supercond. Sci. Technol.
+PD NOV
+PY 1991
+VL 4
+IS 11
+BP 606
+EP 609
+DI 10.1088/0953-2048/4/11/013
+PG 4
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA HA193
+UT WOS:A1991HA19300014
+ER
+
+PT J
+AU HIOE, W
+   HOSOYA, M
+   SUDA, R
+   GOTO, E
+AF HIOE, W
+   HOSOYA, M
+   SUDA, R
+   GOTO, E
+TI A SINGLE FLUX QUANTUM LOGIC GATE WITH HIGH FUNCTIONALITY
+SO SUPERCONDUCTOR SCIENCE & TECHNOLOGY
+LA English
+DT Article
+AB The D-gate is a quantum flux parametron (QFP) logic gate which was proposed to reduce input interaction and improve input margin. It is basically a 2-input multiplexer with two select signals. By giving appropriate inputs, a single gate can also perform 2-input AND, 2-input OR, 2-input XOR, 3-input majority, 3-input parity or 1-bit equality. Since it is a QFP device, it has a self-latching effect which can be exploited for pipelined designs of many combinational logic functions. However, because QFP logic is a clocked logic expected to operate at 10 GHz or more, propagation delay becomes an important issue in circuit design.
+RP HIOE, W (reprint author), ERATO,RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR GOTO E, 1986, DC FLUX PARAMETRON
+   HIOE W, 1991, IEEE T MAGN, V27, P2765, DOI 10.1109/20.133784
+   HIOE W, 1991, SERIES JOSEPHSON SUP
+   HOSAYA M, 1991, ISEC 91
+   HOSOYA M, IN PRESS IEEE T APPL
+   HOSOYA M, 1991, IEEE T MAGN, V27, P2847, DOI 10.1109/20.133802
+   SHIMIZU N, 1989, IEEE T ELECTRON DEV, V36, P1175, DOI 10.1109/16.24365
+NR 7
+TC 1
+Z9 1
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-2048
+J9 SUPERCOND SCI TECH
+JI Supercond. Sci. Technol.
+PD NOV
+PY 1991
+VL 4
+IS 11
+BP 658
+EP 661
+DI 10.1088/0953-2048/4/11/028
+PG 4
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA HA193
+UT WOS:A1991HA19300029
+ER
+
+PT J
+AU HOSOYA, M
+   GOTO, E
+AF HOSOYA, M
+   GOTO, E
+TI COILS FOR GENERATING UNIFORM-FIELDS IN A CYLINDRICAL FERROMAGNETIC
+   SHIELD
+SO REVIEW OF SCIENTIFIC INSTRUMENTS
+LA English
+DT Article
+AB A Helmholtz coil is widely used for generating uniform magnetic fields.  On the other hand, a ferromagnetic shield is the most common method to eliminate external magnetic fields.  However, if a Helmholtz coil is used inside a ferromagnetic shield, the uniform magnetic field generated by the coil is disturbed because of the influence of the ferromagnetic shield.  This article presents a new coil system that generates highly uniform magnetic fields in any direction even inside a ferromagnetic shield.  This coil system does not waste valuable space inside the shield, because the coils are placed so that they touch the inner surface of the shield.  The magnetic fields generated by the system were numerically calculated and confirmed by experiments.  For a cylindrical shield of radius R0 with a ferromagnetic shielding disk at the bottom, the nonuniformity of the field is less than 1% within the space 0.7R0 from the central axis and below 3R0 from the top open edge of the shield.
+C1 UNIV TOKYO,FAC SCI,TOKYO 113,JAPAN.
+RP HOSOYA, M (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR GARRETT MW, 1967, J APPL PHYS, V38, P2563, DOI 10.1063/1.1709950
+   HANSON RJ, 1965, REV SCI INSTRUM, V36, P179, DOI 10.1063/1.1719514
+   KAMINISHI K, 1981, REV SCI INSTRUM, V52, P447, DOI 10.1063/1.1136609
+   MERRITT R, 1983, REV SCI INSTRUM, V54, P879, DOI 10.1063/1.1137480
+   RIGBY KW, 1988, REV SCI INSTRUM, V59, P156, DOI 10.1063/1.1139992
+NR 5
+TC 2
+Z9 2
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0034-6748
+J9 REV SCI INSTRUM
+JI Rev. Sci. Instrum.
+PD OCT
+PY 1991
+VL 62
+IS 10
+BP 2472
+EP 2475
+DI 10.1063/1.1142267
+PG 4
+WC Instruments & Instrumentation; Physics, Applied
+SC Instruments & Instrumentation; Physics
+GA GH598
+UT WOS:A1991GH59800033
+ER
+
+PT J
+AU KASUYA, M
+   NAKATSU, M
+   GENG, Q
+   YUYAMA, J
+   GOTO, E
+AF KASUYA, M
+   NAKATSU, M
+   GENG, Q
+   YUYAMA, J
+   GOTO, E
+TI WORK AND HEAT FLOWS IN A PULSE-TUBE REFRIGERATOR
+SO CRYOGENICS
+LA English
+DT Article
+DE REFRIGERATION; PULSE-TUBE REFRIGERATORS; HEAT TRANSFER
+AB This paper reports a study on the role of heat exchange between the gases in the pulse tube and the tube wall in a pulse-tube refrigerator.  To this end, the work flow going through the pulse tube without heat exchange is experimentally studied by mounting a piston on the hot end of the pulse tube.  Refrigeration power is found to increase as the work flow reaching the hot-end piston increases.  On the contrary, the heat flow released into a room temperature environment decreases as the work flow increases.  This suggests that the work flow becomes more important as the refrigeration power increases.
+RP KASUYA, M (reprint author), ERATO,RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,2500 HAGISONO,CHIGASAKI,KANAGAWA 253,JAPAN.
+CR GIFFORD WE, 1966, ADV CRYOGEN ENG, V11, P171
+   Longsworth R.C., 1967, ADV CRYOGEN ENG, V12, P608
+   MATSUBARA Y, 1988, 5TH P INT CRYOC C MO, P127
+   Mikulin E.I., 1984, ADV CRYOGEN ENG, V29, P629
+   Radebaugh R., 1986, ADV CRYOGEN ENG, V31, P779
+   SWIFT GW, 1988, J ACOUST SOC AM, V84, P1145, DOI 10.1121/1.396617
+   TOMINAGA A, 1989, 3RD P JAP SIN JOINT, P141
+NR 7
+TC 6
+Z9 6
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PD SEP
+PY 1991
+VL 31
+IS 9
+BP 786
+EP 790
+DI 10.1016/0011-2275(91)90135-J
+PG 5
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA GC482
+UT WOS:A1991GC48200003
+ER
+
+PT J
+AU GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+AF GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+TI SWEEPING OF TRAPPED FLUX IN SUPERCONDUCTORS USING LASER-BEAM SCANNING
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+DE FLUX TRAPPING; SUPERCONDUCTOR; SQUID; LASER BEAM; NORMAL HOT SPOT;
+   MAGNETIC SHIELDING
+AB A new technique has been developed to remove flux quanta trapped in superconducting film.  It consists of measuring the magnetic field distribution over a superconductor with an rf SQUID and removing the detected trapped flux using laser beam scanning.  The trapped flux movement follows the motion of the Ar laser beam exactly.  By scanning the laser beam over the trapped flux quanta, the trapped flux is successfully moved to any desired location.
+RP GENG, Q (reprint author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,CHIGASAKI,KANAGAWA 253,JAPAN.
+CR GENG Q, 1990, PHYSICA B, V166, P87
+   GENG Q, 1990, PHYSICA B, V165, P87, DOI 10.1016/0921-4526(90)90435-W
+   GOTO E, 1984, Patent No. 5996785
+   MINAMI H, 1991, IEEE T MAGN, V27, P3009, DOI 10.1109/20.133843
+NR 4
+TC 2
+Z9 2
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD MAY 1
+PY 1991
+VL 30
+IS 5A
+BP L838
+EP L840
+DI 10.1143/JJAP.30.L838
+PG 3
+WC Physics, Applied
+SC Physics
+GA FL138
+UT WOS:A1991FL13800019
+ER
+
+PT J
+AU HIOE, W
+   HOSOYA, M
+   GOTO, E
+AF HIOE, W
+   HOSOYA, M
+   GOTO, E
+TI A NEW QUANTUM FLUX PARAMETRON LOGIC GATE WITH LARGE INPUT MARGIN
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+AB The Quantum Flux Parametron (QFP) is a flux transfer, flux activated Josephson logic device which realizes much lower power dissipation than other Josephson logic devices.  Being a two-terminal device its correct operation may be affected by coupling to other QFPs.  The problems include backcoupling from active QFPs through inactive QFPs (relay noise), coupling between QFPs activated at different times because of clock skew (homophase noise), and interaction between active QFPs (reaction hazard).  Previous QFP circuits worked by wired-majority, which being a linear input logic, has low input margin.  A new logic gate (D-gate) using a QFP to perform logic operations has been analyzed and tested by computer simulation.  Relay noise, homophase noise and reaction hazard are substantially reduced.  Moreover, the inputs have little interaction hence input margin is greatly improved.  Using only D-gates one can realize any combinational logic function.  Important logic functions can be realized using one gate such as a 2-input multiplexor, majority and parity.  Since the QFP has a latching effect, D-Gates can realize fully pipelined circuits without additional registers.
+RP HIOE, W (reprint author), RES DEV CORP JAPAN,GOTO QUANTUM MAGNETOFLUX LOGIC PROJECT,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR GOTO E, 1986, FLUX PARAMETRON
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HARADA Y, 1989, P IEEE, V77, P1280, DOI 10.1109/5.34126
+   HIOE W, QUANTUM FLUX PARAMET
+   HOSOYA M, 1991, IEEE T MAGN, V27, P2847, DOI 10.1109/20.133802
+   Lewis II P. M., 1967, THRESHOLD LOGIC
+   TAKAHASHI H, 1969, PARAMETRON COMPUTER
+NR 7
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1991
+VL 27
+IS 2
+BP 2765
+EP 2768
+DI 10.1109/20.133784
+PN 4
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA EY654
+UT WOS:A1991EY65400054
+ER
+
+PT J
+AU HOSOYA, M
+   HIOE, W
+   GOTO, E
+   KAMIKAWAI, R
+   WADA, Y
+   MIYAMOTO, N
+   NAKANE, H
+AF HOSOYA, M
+   HIOE, W
+   GOTO, E
+   KAMIKAWAI, R
+   WADA, Y
+   MIYAMOTO, N
+   NAKANE, H
+TI EXPERIMENTAL-STUDY OF A DUAL-INPUT-MULTIPLEXOR GATE
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+ID FLUX
+AB In order to solve the problems of old QFP (Quantum Flux Parametron) logic and to improve the operating margin, new QFP logic employs various circuits including a flux regulator, activation/signal amplifiers, a variable activated QFP (VAQ), and a dual-input-multiplexor gate (D-gate).  This paper describes the detailed designs and experimental results of these circuits.
+   New QFP logic adopts a new type QFP, which can transfer I/O signals between two stacked chips directly by its I/O transformer.  The paper also describes the prototype model of three dimensional circuits by this kind of QFP.
+RP HOSOYA, M (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR CASAS J, IN PRESS ASC 90
+   GOTO E, 1986, DC FLUX PARAMETRON N
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HARADA Y, 1989, P IEEE, V77, P1280, DOI 10.1109/5.34126
+   HIOE W, IN PRESS ASC 90
+   HIOE W, 1990, 7TH P RIKEN S JOS EL
+   KAMIKAWAI R, 1990, 7TH P RIKEN S JOS EL
+   SHIMIZU N, 1989, IEEE T ELECTRON DEV, V36, P1175, DOI 10.1109/16.24365
+NR 8
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1991
+VL 27
+IS 2
+BP 2847
+EP 2850
+DI 10.1109/20.133802
+PN 4
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA EY654
+UT WOS:A1991EY65400073
+ER
+
+PT J
+AU CASAS, J
+   KAMIKAWAI, R
+   HARADA, Y
+   MIYAMOTO, N
+   NAKANE, H
+   GOTO, E
+AF CASAS, J
+   KAMIKAWAI, R
+   HARADA, Y
+   MIYAMOTO, N
+   NAKANE, H
+   GOTO, E
+TI SUBHARMONIC GENERATORS AND ERROR-DETECTION BY USING THE QUANTUM FLUX
+   PARAMETRON (QFP)
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+AB Several subharmonic generators are presented in this paper, the larger of which consists of four shift registers connected serially around a loop.  Low frequency operation was demonstrated for four different devices employing one, two, three and four shift registers respectively.  The circuits presented in this paper employ a standing wave for powering the QFPs, guaranteeing that all the QFPs are perfectly synchronized and that no power is consumed in the clock lines.  If all the QFPs along a clock line are to be powered within a 20% margin, the maximum operating frequency is limited by the clock lines length.  Concerning the high speed operation, a frequency divide by two circuit was able to work at a clock frequency of 8 GHz.  For checking that no error occurs during the operation of the QFPs, a four bit shift register was employed.  The latter device was able to work at frequencies up to 3.1 GHz and all of the four bit patterns were stored during experimental times of the order of one hour without observing the occurrence of an error.  Thus about 10(14) error free operations per QFP were demonstrated.
+RP CASAS, J (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR HARADA Y, 1989, 1989 P INT SUP C ISE, P391
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   LAYMAN PA, 1989, IEEE J SOLID-ST CIRC, V24, P79, DOI 10.1109/4.16305
+   LOE K, 1986, DC FLUX PARAMETRON N
+   TESCHE CD, 1977, J LOW TEMP PHYS, V27, P303
+NR 5
+TC 4
+Z9 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1991
+VL 27
+IS 2
+BP 2851
+EP 2854
+DI 10.1109/20.133803
+PN 4
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA EY654
+UT WOS:A1991EY65400074
+ER
+
+PT J
+AU HARADA, Y
+   GOTO, E
+AF HARADA, Y
+   GOTO, E
+TI ARTIFICIAL NEURAL NETWORK CIRCUITS WITH JOSEPHSON DEVICES
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+AB This article describes a new approach of Josephson devices for computer applications.  With an artificial neural network scheme, Josephson devices will be expected to develop a new paradigm for future computer systems.  Here we will discuss circuit configurations for a neuron with Josephson devices.  We propose a combination of a variable bias source and Josephson devices for a synapse circuit.  The bias source signal is steered by the Josephson device input signal and becomes the synapse output signal.  These output signals are summed up at the specific resistor or inductor to produce the weighted sum of Josephson devices input signals.  According to the error signal, the bias source value is corrected.  This corresponds to the learning procedure.  Because Josephson devices are threshold logic circuits themselves, they are employed as soma circuits.  We also discuss the cell structure of the artificial neural network.
+RP HARADA, Y (reprint author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,ERATO,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR DIEDERICH J, 1990, IEEE COMPUTER SOC NE
+   HARADA Y, 1989, P IEEE, V77, P1280, DOI 10.1109/5.34126
+   HARING DR, 1966, IEEE TRANS ELECTRON, VEC15, P45, DOI 10.1109/PGEC.1966.264374
+   HATANO Y, 1987, IEEE J SOLID-ST CIRC, V22, P606, DOI 10.1109/JSSC.1987.1052778
+   MORGAN N, 1990, IEEE COMPUTER SOC NE
+NR 5
+TC 8
+Z9 8
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1991
+VL 27
+IS 2
+BP 2863
+EP 2866
+DI 10.1109/20.133806
+PN 4
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA EY654
+UT WOS:A1991EY65400077
+ER
+
+PT J
+AU CASAS, J
+   MIYAMOTO, N
+   NAKANE, H
+   GOTO, E
+AF CASAS, J
+   MIYAMOTO, N
+   NAKANE, H
+   GOTO, E
+TI PERFORMANCE OF A DOUBLE DC SQUID MAGNETOMETER
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+AB This paper presents a magnetic flux sensing device that is made by using two dc Squids.  The dc Squids are of similar characteristics, magnetically coupled by a common coil and are turned into the voltage state by a single dc current source.  As the dc Squids are magnetically coupled, the magnetic flux noise generated by one of the dc Squids is sensed by the other one and vice versa.  Then by making a differential measurement across both dc Squids, the magnetic flux noise detected by the dc Squids can be added either constructively or destructively.  This means that magnetic flux noise cancellation is possible as it is demonstrated experimentally.  The double dc Squid configuration can also be used in the add flux noise mode, case in which there is no loss of performance when comparing with what is possible to obtain with a single dc Squid.  Another non-negligible advantage of the two dc Squids configuration is that the output impedance is twice as large that of the a dc Squid with Josephson junctions of same critical current and shunting resistance.  Then in the former configuration the matching to room temperature electronics is simplified.
+RP CASAS, J (reprint author), RES DEV CORP JAPAN,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR CLARKE J, 1989, SQUIDS CONCEPTS SYST, pCH5
+   KETCHEN MB, 1987, IEEE T MAGN, V23, P1650, DOI 10.1109/TMAG.1987.1064839
+   RYHANEN T, 1989, J LOW TEMP PHYS, V76, P287, DOI 10.1007/BF00681735
+NR 3
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1991
+VL 27
+IS 2
+BP 2975
+EP 2978
+DI 10.1109/20.133835
+PN 4
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA EY654
+UT WOS:A1991EY65400106
+ER
+
+PT J
+AU MINAMI, H
+   GENG, Q
+   CHIHARA, K
+   YUYAMA, J
+   NAKANE, H
+   MIYAMOTO, N
+   GOTO, E
+AF MINAMI, H
+   GENG, Q
+   CHIHARA, K
+   YUYAMA, J
+   NAKANE, H
+   MIYAMOTO, N
+   GOTO, E
+TI DETECTION OF TRAPPED FLUX QUANTA IN SUPERCONDUCTORS BY A
+   HYDRODYNAMICALLY CONTROLLED SQUID PICK-UP COIL
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 1990 CONF ON APPLIED SUPERCONDUCTIVITY
+CY SEP 24-28, 1990
+CL SNOWMASS, CO
+ID JOSEPHSON
+AB The purpose of this study is to detect the flux quanta trapped in a large area superconductor by scanning a SQUID pick-up coil.  For this purpose a gas floating technique has been developed.  In this technique the supplied gas flow supports the coil while the coil scans the superconductor surface in liquid helium.
+   First, the applicability of the gas floating technique is examined, and it is shown that this technique can be utilized even in liquid nitrogen or liquid helium.  Second, measurements of magnetic field distribution over several superconductors in liquid helium are reported.  By scanning the pick-up coil over the superconductor, changes in the magnetic field, which come from the flux trapped in the superconductor, are observed.  Furthermore the background variation during sample rotation and displacement is reduced to about 2.4-PHI-0.  The minimum detectable flux is shown to be less than PHI-0.  These results show the possibility of our technique in the detection of trapped flux quanta in superconductors.
+RP MINAMI, H (reprint author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOGIC PROJECT,HAGISONO CHIGASAKI,KANAGAWA 253,JAPAN.
+CR BOSCH J, 1985, PHYS REV LETT, V54, P1448, DOI 10.1103/PhysRevLett.54.1448
+   GENG Q, 1990, PHYSICA B, V165, P87, DOI 10.1016/0921-4526(90)90435-W
+   HYUN OB, 1987, IEEE T MAGN, V23, P1176, DOI 10.1109/TMAG.1987.1065080
+   MATSUDA T, 1989, PHYS REV LETT, V62, P2519, DOI 10.1103/PhysRevLett.62.2519
+   SCHEUERMANN M, 1983, PHYS REV LETT, V50, P74, DOI 10.1103/PhysRevLett.50.74
+NR 5
+TC 4
+Z9 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1991
+VL 27
+IS 2
+BP 3009
+EP 3012
+DI 10.1109/20.133843
+PN 4
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA EY654
+UT WOS:A1991EY65400115
+ER
+
+PT J
+AU GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+AF GENG, Q
+   MINAMI, H
+   CHIHARA, K
+   YUYAMA, J
+   GOTO, E
+TI GAS FLOATING TECHNIQUE FOR DETECTION OF TRAPPED FLUX QUANTA
+SO PHYSICA B
+LA English
+DT Article; Proceedings Paper
+CT 19TH INTERNATIONAL CONF ON LOW TEMPERATURE PHYSICS ( LT-19 )
+CY AUG 16-22, 1990
+CL BRIGHTON, ENGLAND
+SP USAF, EUROPEAN OFF AEROSPACE RES & DEV, ROYAL SOC, ELSEVIER SCI PUBL, GE OXFORD INSTRUMENTS, OXFORD INSTRUMENTS, QUANTUM DESIGN, UNIV SUSSEX
+C1 INST PHYS & CHEM RES,INFORMAT SCI LAB,WAKO,SAITAMA 351,JAPAN.
+   UNIV TOKYO,FAC SCI,TOKYO 113,JAPAN.
+RP GENG, Q (reprint author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,TOKYO,JAPAN.
+CR BOSCH J, 1985, PHYS REV LETT, V54, P1448, DOI 10.1103/PhysRevLett.54.1448
+   Huebener R. P., 1979, MAGNETIC FLUX STRUCT
+   HYUN OB, 1987, IEEE T MAGN, V23, P1176, DOI 10.1109/TMAG.1987.1065080
+   MINAMI H, 1989, 6TH P S JOS EL, P89
+   SCHEUERMANN M, 1983, PHYS REV LETT, V50, P74, DOI 10.1103/PhysRevLett.50.74
+   Schlichting H., 1979, BOUNDARY LAYER THEOR
+NR 6
+TC 6
+Z9 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4526
+J9 PHYSICA B
+JI Physica B
+PD AUG
+PY 1990
+VL 165
+BP 87
+EP 88
+DI 10.1016/0921-4526(90)90435-W
+PN 1
+PG 2
+WC Physics, Condensed Matter
+SC Physics
+GA ED915
+UT WOS:A1990ED91500045
+ER
+
+PT J
+AU KAGEYAMA, K
+   ONOYAMA, Y
+   KOGAWA, H
+   GOTO, E
+   TANABE, K
+AF KAGEYAMA, K
+   ONOYAMA, Y
+   KOGAWA, H
+   GOTO, E
+   TANABE, K
+TI THE MAXIMUM AND MINIMUM WATER-CONTENT AND CELL-VOLUME OF
+   HUMAN-ERYTHROCYTES INVITRO
+SO BIOPHYSICAL CHEMISTRY
+LA English
+DT Article
+C1 OSAKA CITY UNIV,SCH MED,DEPT SCH NURSE,OSAKA 545,JAPAN.
+   OSAKA KYOIKU UNIV,DEPT HLTH SCI,OSAKA 543,JAPAN.
+   OSAKA INST TECHNOL,BIOL LAB,OSAKA,JAPAN.
+   OSAKA CITY UNIV,SCH MED,DEPT RADIOL,OSAKA 545,JAPAN.
+RP KAGEYAMA, K (reprint author), OSAKA CITY UNIV,SCH MED,CTR RADIOISOTOPE,OSAKA 545,JAPAN.
+CR KAGEYAMA K, 1979, NOUV REV FR HEMATOL, V21, P161
+   KAGEYAMA K, 1981, EXPERIENTIA, V37, P748, DOI 10.1007/BF01967959
+   MURPHY JR, 1969, J LAB CLIN MED, V74, P319
+   SAVITZ D, 1964, J GEN PHYSIOL, V48, P79, DOI 10.1085/jgp.48.1.79
+NR 4
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0301-4622
+J9 BIOPHYS CHEM
+JI Biophys. Chem.
+PD SEP 15
+PY 1989
+VL 34
+IS 1
+BP 79
+EP 82
+DI 10.1016/0301-4622(89)80044-4
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Biophysics; Chemistry
+GA AU335
+UT WOS:A1989AU33500010
+ER
+
+PT J
+AU HARADA, Y
+   HIOE, W
+   GOTO, E
+AF HARADA, Y
+   HIOE, W
+   GOTO, E
+TI FLUX-TRANSFER DEVICES
+SO PROCEEDINGS OF THE IEEE
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+RP HARADA, Y (reprint author), QUANTUM MAGNETO FLUX,ERATO,JRDC,TOKYO 185,JAPAN.
+CR FULTON TA, 1973, P IEEE, V61, P28, DOI 10.1109/PROC.1973.8966
+   GHEEWALA TR, 1980, IEEE T ELECTRON DEV, V27, P1857, DOI 10.1109/T-ED.1980.20123
+   GOTO E, 1960, IRE T ELECT COMPUTER, P25
+   GOTO E, 1988, FLUXOID JOSEPHSON CO
+   GOTO E, 1984, 1ST P RIK S JOS EL, P48
+   GOTO E, 1959, P IRE, V47, P1309
+   HAMILTON CA, 1982, ELECTRON DEVIC LETT, V3, P335
+   HARADA Y, 1987, IEDM, P389
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HOSOYA M, 1988, J COMPUT PHYS, V74, P94, DOI 10.1016/0021-9991(88)90071-X
+   HOSOYA M, 1989, IEEE T MAGN, V25, P1111, DOI 10.1109/20.92484
+   LIKHAREV KK, 1977, IEEE T MAGN, V13, P242, DOI 10.1109/TMAG.1977.1059351
+   LOE K, 1986, DC FLUX PARAMETRON N
+   LOE KF, 1985, IEEE T MAGN, V21, P884, DOI 10.1109/TMAG.1985.1063734
+   MUKHANOV OA, 1987, IEEE T MAGN, V23, P759, DOI 10.1109/TMAG.1987.1064951
+   NAKAJIMA K, 1976, J APPL PHYS, V47, P1620, DOI 10.1063/1.322782
+   SAKAI S, 1984, JPN J APPL PHYS 2, V23, pL610, DOI 10.1143/JJAP.23.L610
+   SHIMIZU N, 1989, IEEE T MAGN, V25, P865, DOI 10.1109/20.92423
+   TAMURA H, 1980, IEEE T ELECTRON DEV, V27, P2035, DOI 10.1109/T-ED.1980.20144
+   TAMURA H, 1981, APPL PHYS LETT, V39, P761, DOI 10.1063/1.92845
+   ZAPPE HH, 1980, IEEE T ELECTRON DEV, V27, P1870, DOI 10.1109/T-ED.1980.20124
+NR 21
+TC 7
+Z9 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9219
+J9 P IEEE
+JI Proc. IEEE
+PD AUG
+PY 1989
+VL 77
+IS 8
+BP 1280
+EP 1286
+DI 10.1109/5.34126
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA AQ697
+UT WOS:A1989AQ69700016
+ER
+
+PT J
+AU SHIMIZU, K
+   GOTO, E
+   ICHIKAWA, S
+AF SHIMIZU, K
+   GOTO, E
+   ICHIKAWA, S
+TI CPC (CYCLIC PIPELINE COMPUTER) - AN ARCHITECTURE SUITED FOR JOSEPHSON
+   AND PIPELINED-MEMORY MACHINES
+SO IEEE TRANSACTIONS ON COMPUTERS
+LA English
+DT Article
+RP SHIMIZU, K (reprint author), UNIV TOKYO,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+CR GOTO E, 1982, 1982 ACM S LISP FUNC, P208
+   GOTO E, 1985, 2ND P INT S SYMB ALG
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   KOWALIK J, 1985, PARALLEL MIMD COMPUT
+   LOE K, 1986, DC FLUX PARAMETRON N
+   LOE KF, 1985, IEEE T MAGN, V21, P884, DOI 10.1109/TMAG.1985.1063734
+   Ogiue K., 1985, Proceedings of IEEE International Conference on Computer Design:  VLSI in Computers. ICCD '85 (Cat. No.85CH2223-6)
+   RAMAMOORTHY CV, 1977, COMPUT SURV, V9, P61
+   RIGANATI JP, 1984, COMPUTER, V17, P97
+   SHIMIZU K, 1986, P RIMS S SOFTW SCI E
+   SHIMIZU K, 1985, THESIS U TOKYO
+   TEMPERSON C, 1979, INFOTECH STATE ART R, V2, P359
+   ZAPPE HH, 1977, IEEE T MAGN, V13, P41, DOI 10.1109/TMAG.1977.1059358
+NR 13
+TC 7
+Z9 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264
+SN 0018-9340
+J9 IEEE T COMPUT
+JI IEEE Trans. Comput.
+PD JUN
+PY 1989
+VL 38
+IS 6
+BP 825
+EP 832
+DI 10.1109/12.24291
+PG 8
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA U7738
+UT WOS:A1989U773800007
+ER
+
+PT J
+AU SHIMIZU, N
+   HARADA, Y
+   MIYAMOTO, N
+   HOSOYA, M
+   GOTO, E
+AF SHIMIZU, N
+   HARADA, Y
+   MIYAMOTO, N
+   HOSOYA, M
+   GOTO, E
+TI FUNDAMENTAL CHARACTERISTICS OF THE QFP MEASURED BY THE DC SQUID
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+RP SHIMIZU, N (reprint author), RES DEV CORP JAPAN,ERATO,QUANTUM MAGNETO FLUX LOG PROJECT,1-280 HIGASHI KOIGAKUBO,KOKUBUNJI,TOKYO 185,JAPAN.
+CR FOCK LK, 1986, WORLD SCI SINGAPORE
+   GOTO E, 1960, IRE T ELECT COMPUTER, P25
+   GOTO E, 1984, 1ST P RIK S JOS EL, P48
+   GOTO E, 1959, P IRE, V47, P1309
+   HARADA Y, 1987, IEEE T MAGN, V23, P3801, DOI 10.1109/TMAG.1987.1065574
+   HATANO Y, 1983, REV SCI INSTRUM, V54, P1543, DOI 10.1063/1.1137293
+   HOSOYA M, 1988, J COMPUT PHYS, V74, P94, DOI 10.1016/0021-9991(88)90071-X
+   KETCHEN MB, 1981, IEEE T MAGN, V17, P387, DOI 10.1109/TMAG.1981.1061180
+   LOE K, 1984, 1ST P RIK S JOS EL, P52
+   LOE KF, 1985, IEEE T MAGN, V21, P884, DOI 10.1109/TMAG.1985.1063734
+   MAGERLEIN JH, 1981, IEEE T MAGN, V17, P286, DOI 10.1109/TMAG.1981.1060968
+   TARUTANI Y, 1984, 1984 INT C SOL STAT, P615
+NR 12
+TC 5
+Z9 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PD JUN
+PY 1989
+VL 36
+IS 6
+BP 1175
+EP 1181
+DI 10.1109/16.24365
+PG 7
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA U6310
+UT WOS:A1989U631000025
+ER
+
+PT J
+AU SHIMIZU, N
+   HARADA, Y
+   MIYAMOTO, N
+   GOTO, E
+AF SHIMIZU, N
+   HARADA, Y
+   MIYAMOTO, N
+   GOTO, E
+TI A NEW A/D CONVERTER WITH QUANTUM FLUX PARAMETRON
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,BUNKYO KU,TOKYO 113,JAPAN.
+RP SHIMIZU, N (reprint author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOGIC PROJECT,TOKYO 185,JAPAN.
+CR DHONG SH, 1983, IEEE T MAGN, V19, P1282, DOI 10.1109/TMAG.1983.1062400
+   GOTO E, 1986, DC FLUX PARAMETRON N
+   HAMILTON CA, 1981, IEEE T MAGN, V17, P3414, DOI 10.1109/TMAG.1981.1061716
+   HAMILTON CA, 1983, IEEE T MAGN, V19, P1259, DOI 10.1109/TMAG.1983.1062337
+   HAMILTON CA, 1985, IEEE T MAGN, V21, P197, DOI 10.1109/TMAG.1985.1063773
+   Hamilton C.A., 1980, IEEE Electron Device Letters, VEDL-1, DOI 10.1109/EDL.1980.25242
+   HARADA Y, 1987, IEDM, P389
+   HARADA Y, 1987, IEEE T MAGN, V23
+   HOSOYA M, 1988, J COMPUT PHYS, V74, P94, DOI 10.1016/0021-9991(88)90071-X
+   LOE KF, 1985, IEEE T MAGN, V21, P884, DOI 10.1109/TMAG.1985.1063734
+   PETERSEN DA, 1985, IEEE T MAGN, V21, P200, DOI 10.1109/TMAG.1985.1063833
+NR 11
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1989
+VL 25
+IS 2
+BP 865
+EP 868
+DI 10.1109/20.92423
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA T6706
+UT WOS:A1989T670600029
+ER
+
+PT J
+AU HOSOYA, M
+   GOTO, E
+   SHIMIZU, N
+   MIYAMOTO, N
+   HARADA, Y
+AF HOSOYA, M
+   GOTO, E
+   SHIMIZU, N
+   MIYAMOTO, N
+   HARADA, Y
+TI INDUCTANCE CALCULATION SYSTEM FOR SUPERCONDUCTING CIRCUITS
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+RP HOSOYA, M (reprint author), RES DEV CORP JAPAN,QUANTUM MAGNETO FLUX LOG PROJECT,1-280 HIGASHI KOIGAKUBO,TOKYO 185,JAPAN.
+CR ALSOP LE, 1979, J COMPUT PHYS, V31, P216, DOI 10.1016/0021-9991(79)90070-6
+   CHANG WH, 1981, J APPL PHYS, V52, P1417, DOI 10.1063/1.329774
+   CHANG WH, 1981, IEEE T MAGN, V17, P764, DOI 10.1109/TMAG.1981.1060982
+   HOSOYA M, 1988, J COMPUT PHYS, V74, P94, DOI 10.1016/0021-9991(88)90071-X
+   RUEHLI AE, 1972, IBM J RES DEV, V16, P470
+NR 5
+TC 10
+Z9 10
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD MAR
+PY 1989
+VL 25
+IS 2
+BP 1111
+EP 1114
+DI 10.1109/20.92484
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA T6706
+UT WOS:A1989T670600093
+ER
+
+PT J
+AU HOSOYA, M
+   GOTO, E
+   SOMA, T
+AF HOSOYA, M
+   GOTO, E
+   SOMA, T
+TI EXTRAPOLATED BOUNDARY ELEMENT METHOD FOR 3-DIMENSIONAL INDUCTANCE
+   CALCULATION
+SO JOURNAL OF COMPUTATIONAL PHYSICS
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,INFORMAT SCI LAB,WAKO,SAITAMA 351,JAPAN.
+RP HOSOYA, M (reprint author), UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+CR ALSOP LE, 1979, J COMPUT PHYS, V31, P216, DOI 10.1016/0021-9991(79)90070-6
+   BRENNAN PA, 1979, IBM J RES DEV, V23, P661
+   CHANG WH, 1981, IEEE T MAGN, V17, P764, DOI 10.1109/TMAG.1981.1060982
+   NISHI K, 1986, MAR RIK S JOS EL WAK
+NR 4
+TC 5
+Z9 5
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0021-9991
+J9 J COMPUT PHYS
+JI J. Comput. Phys.
+PD JAN
+PY 1988
+VL 74
+IS 1
+BP 94
+EP 109
+DI 10.1016/0021-9991(88)90071-X
+PG 16
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA L8976
+UT WOS:A1988L897600007
+ER
+
+PT J
+AU HARADA, Y
+   NAKANE, H
+   MIYAMOTO, N
+   KAWABE, U
+   GOTO, E
+   SOMA, T
+AF HARADA, Y
+   NAKANE, H
+   MIYAMOTO, N
+   KAWABE, U
+   GOTO, E
+   SOMA, T
+TI BASIC OPERATIONS OF THE QUANTUM FLUX PARAMETRON
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,INFORMAT SCI LAB,WAKO,SAITAMA 35001,JAPAN.
+   UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+RP HARADA, Y (reprint author), KITACHI LTD,CENT RES LAB,KOKUBUNJI,TOKYO 185,JAPAN.
+CR FOCK LK, 1986, WORLD SCI
+   FULTON T, 1979, APPL PHYS LETT, V19, P554
+   GHEEWALA TR, 1980, IEEE T ELECTRON DEV, V27, P1857, DOI 10.1109/T-ED.1980.20123
+   GOTO E, 1960, IRE T ELECT COMPUTER, P25
+   GOTO E, 1984, 1ST P RIK S JOS EL, P48
+   GOTO E, 1959, P IRE, V47, P1309
+   HATANO Y, 1983, REV SCI INSTRUM, V54, P1543, DOI 10.1063/1.1137293
+   LOE K, 1984, 1ST P RIK S JOS EL, P52
+   LOE KF, 1985, IEEE T MAGN, V21, P884, DOI 10.1109/TMAG.1985.1063734
+   TARUTANI Y, 1984, 1984 INT C SOL STAT, P615
+   ZAPPE H, 1976, Patent No. 3983546
+NR 11
+TC 21
+Z9 21
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD SEP
+PY 1987
+VL 23
+IS 5
+BP 3801
+EP 3807
+DI 10.1109/TMAG.1987.1065574
+PN Part 2
+PG 7
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA L9284
+UT WOS:A1987L928400281
+ER
+
+PT J
+AU TAKANO, S
+   SATO, S
+   GOTO, E
+   OGASAWARA, K
+AF TAKANO, S
+   SATO, S
+   GOTO, E
+   OGASAWARA, K
+TI A NEW ASYMMETRIC ROUTE TO (+)-VINCAMINE
+SO JOURNAL OF THE CHEMICAL SOCIETY-CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+RP TAKANO, S (reprint author), TOHOKU UNIV,INST PHARMACEUT,SENDAI,MIYAGI 980,JAPAN.
+CR EDER U, 1971, ANGEW CHEM INT EDIT, V10, P496, DOI 10.1002/anie.197104961
+   FRANKOWSKI A, 1977, TETRAHEDRON, V33, P427, DOI 10.1016/0040-4020(77)80099-9
+   GIBSON KH, 1977, TETRAHEDRON, V33, P833, DOI 10.1016/0040-4020(77)80029-X
+   GIBSON KH, 1972, J CHEM SOC PERK T 1, P2776, DOI 10.1039/p19720002776
+   GUPTON JT, 1984, SYNTHETIC COMMUN, V14, P1001, DOI 10.1080/00397918408059627
+   HAJOS ZG, 1974, J ORG CHEM, V39, P1615, DOI 10.1021/jo00925a003
+   Lipton M.F., 1979, ORG SYNTH, V<IT>59</IT>, P49
+   MICHELI RA, 1975, J ORG CHEM, V40, P675, DOI 10.1021/jo00894a003
+   OPPOLZER W, 1977, HELV CHIM ACTA, V60, P1801, DOI 10.1002/hlca.19770600533
+   SZABO L, 1983, TETRAHEDRON, V39, P3749, DOI 10.1016/S0040-4020(01)88615-4
+   SZANTAY C, 1981, ORGANIC SYNTHESIS TO, P285
+   SZANTAY C, 1977, TETRAHEDRON, V33, P1803, DOI 10.1016/0040-4020(77)84062-3
+   TAKANO S, 1985, J CHEM SOC PERK T 1, P305, DOI 10.1039/p19850000305
+   TAKANO S, 1980, J ORG CHEM, V45, P3729, DOI 10.1021/jo01306a042
+NR 14
+TC 27
+Z9 27
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON ROAD, CAMBRIDGE, CAMBS,
+   ENGLAND CB4 4WF
+SN 0022-4936
+J9 J CHEM SOC CHEM COMM
+JI J. Chem. Soc.-Chem. Commun.
+PD JAN 15
+PY 1986
+IS 2
+BP 156
+EP 158
+DI 10.1039/c39860000156
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA AYT80
+UT WOS:A1986AYT8000038
+ER
+
+PT J
+AU LOE, KF
+   GOTO, E
+AF LOE, KF
+   GOTO, E
+TI ANALYSIS OF FLUX INPUT AND OUTPUT JOSEPHSON PAIR DEVICE
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+C1 NATL UNIV SINGAPORE,DEPT COMP SCI,SINGAPORE 0511,SINGAPORE.
+RP LOE, KF (reprint author), UNIV TOKYO,INST PHYS & CHEM RES,DEPT INFORMAT SCI,INFORMAT SCI LAB,TOKYO 113,JAPAN.
+CR BOHM D, QUANTUM THEORY, pCH12
+   GOTO E, 1959, P IRE, V47, P1309
+   GOTO E, 1984, MAR RIKEN SEM JOS EL, P48
+   JOSEPHSON BD, 1962, PHYS LETT, V1, P251, DOI 10.1016/0031-9163(62)91369-0
+NR 4
+TC 19
+Z9 19
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PY 1985
+VL 21
+IS 2
+BP 884
+EP 887
+DI 10.1109/TMAG.1985.1063734
+PG 4
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA AFM40
+UT WOS:A1985AFM4000204
+ER
+
+PT J
+AU SOMA, T
+   IDESAWA, M
+   GOTO, E
+   SASAKI, T
+AF SOMA, T
+   IDESAWA, M
+   GOTO, E
+   SASAKI, T
+TI A COMPUTER-AIDED EVALUATION SYSTEM FOR SECTORED-TYPE MULTIPOLE
+   ELECTROSTATIC DEFLECTORS
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B
+LA English
+DT Article
+RP SOMA, T (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 35101,JAPAN.
+CR GOTO E, 1983, 12TH P S EL ION BEAM, P1229
+   GOTO E, 1982, 16TH M EL SOC, V821, P488
+   GOTO E, 1980, 11TH P S EL ION BEAM, P103
+   GOTO E, 1978, J VAC SCI TECHNOL, V15, P883, DOI 10.1116/1.569620
+   GOTO E, 1983, J VAC SCI TECHNOL B, V1, P1289, DOI 10.1116/1.582731
+   HUTTER RGE, 1973, ADV IMAGE PICKUP DIS, V1, P163
+   IDESAWA M, 1983, J VAC SCI TECHNOL B, V1, P1322, DOI 10.1116/1.582738
+   KELLY J, 1977, ADV ELECTRON ELECTRO, V43, P43
+   LEAN MH, 1979, DEV BOUNDARY ELEMENT, V1
+   MORIYA S, 1983, J VAC SCI TECHNOL B, V1, P990, DOI 10.1116/1.582720
+   Munro E., 1975, SET COMPUTER PROGRAM
+   OHIWA H, 1980, 9TH P INT S EL ION B, P24
+   RITZ EF, 1979, ADV ELECTRON ELECTRO, V49, P299
+   SOMA T, 1982, 11TH P S EL ION BEAM, P396
+NR 14
+TC 5
+Z9 5
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+J9 J VAC SCI TECHNOL B
+JI J. Vac. Sci. Technol. B
+PY 1985
+VL 3
+IS 1
+BP 177
+EP 180
+DI 10.1116/1.583205
+PG 4
+WC Engineering, Electrical & Electronic; Nanoscience & Nanotechnology;
+   Physics, Applied
+SC Engineering; Science & Technology - Other Topics; Physics
+GA AAU60
+UT WOS:A1985AAU6000037
+ER
+
+PT J
+AU GOTO, E
+   KANADA, Y
+AF GOTO, E
+   KANADA, Y
+TI FORMULA MANIPULATION
+SO JAPAN ANNUAL REVIEWS IN ELECTRONICS COMPUTERS & TELECOMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,CTR COMP,TOKYO 113,JAPAN.
+RP GOTO, E (reprint author), UNIV TOKYO,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+CR Brent R.P., 1978, ACM Transactions on Mathematical Software, V4, DOI 10.1145/355769.355775
+   BRENT RP, 1976, J ACM, V23, P242, DOI 10.1145/321941.321944
+   GOTO E, 1976, P 1976 ACM S SYMB AL, P154, DOI 10.1145/800205.806334
+   GOTO E, 1974, 7403 U TOK INF SCI L
+   GOTO E, 1978, 1978 P NCC AFIPS MON, P1223
+   GOTO E, 1977, OPTIK, V48, P255
+   Goto E., 1980, Journal of Information Processing, V3
+   GOTO E, 1979, 6TH C P ANN S COMP A, P102
+   GOTO E, 1977, INFORM PROCESS LETT, V6, P8, DOI 10.1016/0020-0190(77)90004-7
+   Goto E., 1980, Journal of Information Processing, V3
+   GUNJI T, 1976, THESIS U TOKYO
+   GUSTAVSON F, 1976, P ACM SYMSAC 76, P149, DOI 10.1145/800205.806333
+   HEARN AC, 1980, P IFIP 80, P621
+   HOROWITZ E, 1975, J ACM, V22, P450, DOI 10.1145/321906.321908
+   Ida T., 1978, Journal of Information Processing, V1
+   Ida T., 1978, Journal of Information Processing, V1
+   Ida T., 1978, Journal of Information Processing, V1
+   IDA T, 1977, P IFIP 77, P643
+   IDESAWA M, 1977, APPL OPTICS, V16, P2152, DOI 10.1364/AO.16.002152
+   Idesawa M., 1977, Scientific Papers of the Institute of Physical and Chemical  Research, V71
+   Ikehara S., 1979, Transactions of the Information Processing Society of Japan, V20
+   IKEHARA S, 1978, REV ELECTRICAL COMMU, V26
+   JOHNSON SC, 1974, ACM SIGSAM B, V8
+   KANADA Y, 1981, SIGSAM B, V15, P13
+   KANADA Y, 1979, HLISP SUPPLEMENTARY
+   KANADA Y, 1975, 7501 U TOK INF SCI L
+   KATSURA S, 1978, COMPUT PHYS COMMUN, V13, P311, DOI 10.1016/0010-4655(78)90028-0
+   MITSUI T, 1982, PUBL RIMS KYOTO U, V18, P325, DOI 10.2977/prims/1195184026
+   Murao H., 1980, Journal of Information Processing, V3
+   SASAKI T, 1981, TOKYO J MATH, V4, P493
+   SASAKI T, 1977, 1977 P INT M PROGR M
+   SASAKI T, 1979, MANUAL ARBITRARY PRE
+   SASAKI T, 1979, LECTURE NOTES COMPUT, V72, P358
+   SASAKI T, 1981, SYMSAC 81, P155
+   SASAKI T, 1981, SYMSAC 81, P160
+   Sasaki T., 1982, Journal of Information Processing, V5
+   SASSA M, 1977, INFORM PROCESS LETT, V6, P50, DOI 10.1016/0020-0190(77)90081-3
+   Sassa M., 1976, Information Processing Letters, V5, DOI 10.1016/0020-0190(76)90075-2
+   SOMA T, 1977, OPTIK, V49, P255
+   SOMA T, 1981, FINITE ELEMENT METHO
+   TAKAMI M, 1978, THEORY IRMWMW TRIPLE
+   TAKIZAWA M, 1974, 1974 P IPSJ SUMM S S, P147
+   TERASHIMA M, 1978, INFORM PROCESS LETT, V7, P27, DOI 10.1016/0020-0190(78)90034-0
+   TERASHIMA M, 1975, 7503 U TOK INF SCI L
+   TODA H, 1977, 772 RES EL LAB
+   TSUNEMATSU T, 1977, JAERIM7179 JAP AT EN
+   WATANABE S, 1981, SYMSAC 81, P36
+   WATANABE S, 1976, PUBL RIMS KYOTO U, V11, P297
+NR 48
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+J9 JPN ANNU REV ELECTR
+PY 1983
+VL 7
+BP 65
+EP 76
+PG 12
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA SD793
+UT WOS:A1983SD79300006
+ER
+
+PT J
+AU GOTO, E
+   SOMA, T
+   IDESAWA, M
+   SASAKI, T
+   GOTO, T
+   KONNO, S
+   SOMEYA, T
+   TANAKA, K
+   MIYAUCHI, S
+AF GOTO, E
+   SOMA, T
+   IDESAWA, M
+   SASAKI, T
+   GOTO, T
+   KONNO, S
+   SOMEYA, T
+   TANAKA, K
+   MIYAUCHI, S
+TI IN-LENS DEFLECTION SYSTEM WITH NONEQUISECTORED-TYPE MULTIPOLE
+   ELECTROSTATIC DEFLECTORS
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B
+LA English
+DT Article
+C1 JEOL LTD,TOKYO 196,JAPAN.
+RP GOTO, E (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR GOTO E, 1982, 161ST M EL SOC, P488
+   GOTO E, 1982, 10TH P S EL ION BEAM, V103
+   HUTTER RGE, 1973, ADV IMAGE PICKUP DIS, V1, P163
+   IDESAWA M, 1983, J VAC SCI TECHNOL B, V1, P1322, DOI 10.1116/1.582738
+   RITZ EF, 1979, ADV ELECTRON ELECTRO, V49, P299
+NR 5
+TC 8
+Z9 8
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+J9 J VAC SCI TECHNOL B
+JI J. Vac. Sci. Technol. B
+PY 1983
+VL 1
+IS 4
+BP 1289
+EP 1292
+DI 10.1116/1.582731
+PG 4
+WC Engineering, Electrical & Electronic; Nanoscience & Nanotechnology;
+   Physics, Applied
+SC Engineering; Science & Technology - Other Topics; Physics
+GA RV036
+UT WOS:A1983RV03600084
+ER
+
+PT J
+AU IDESAWA, M
+   SOMA, T
+   GOTO, E
+   SASAKI, T
+AF IDESAWA, M
+   SOMA, T
+   GOTO, E
+   SASAKI, T
+TI NUMERICAL CONSIDERATIONS ON MULTIPOLE-TYPE ELECTROSTATIC DEFLECTORS
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B
+LA English
+DT Article
+RP IDESAWA, M (reprint author), INST PHYS & CHEM RES,HIROSAWA,WAKO,SAITAMA 351,JAPAN.
+CR GOTO E, 1982, 161ST M EL SOC, P488
+   GOTO E, 1982, 10TH P S EL ION BEAM, P103
+   HUTTER RGE, ADV IMAGE PICKUP DIS, V1, P299
+   KELLY J, 1977, ADV ELECTRON ELECTRO, V43, P43
+   OHIWA H, 1980, 9TH P INT S EL ION B, P24
+   RITZ EF, ADV ELECTRONICS ELEC, V49, P299
+NR 6
+TC 8
+Z9 8
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+J9 J VAC SCI TECHNOL B
+JI J. Vac. Sci. Technol. B
+PY 1983
+VL 1
+IS 4
+BP 1322
+EP 1326
+DI 10.1116/1.582738
+PG 5
+WC Engineering, Electrical & Electronic; Nanoscience & Nanotechnology;
+   Physics, Applied
+SC Engineering; Science & Technology - Other Topics; Physics
+GA RV036
+UT WOS:A1983RV03600091
+ER
+
+PT J
+AU TAKANO, S
+   GOTO, E
+   OGASAWARA, K
+AF TAKANO, S
+   GOTO, E
+   OGASAWARA, K
+TI A SIMPLE ENANTIOSELECTIVE SYNTHESIS OF BOTH ENANTIOMERS OF SULCATOL
+   USING A SINGLE CHIRAL PRECURSOR
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+RP TAKANO, S (reprint author), TOHOKU UNIV, INST PHARMACEUT, SENDAI, MIYAGI 980, JAPAN.
+CR BORDEN JH, 1976, SCIENCE, V192, P894, DOI 10.1126/science.1273573
+   BYRNE KJ, 1974, J INSECT PHYSIOL, V20, P1895, DOI 10.1016/0022-1910(74)90096-1
+   CHALK RC, 1970, J CHEM SOC CHEM COMM, P245
+   JOHNSTON BD, 1979, CAN J CHEM, V57, P233, DOI 10.1139/v79-038
+   KAKINUMA K, 1978, TETRAHEDRON LETT, P768
+   MORI K, 1981, TOTAL SYNTHESIS NATU, V1, P119
+   MORI K, 1981, TETRAHEDRON, V37, P1341, DOI 10.1016/S0040-4020(01)92449-4
+   MORI K, 1975, TETRAHEDRON, V31, P3011, DOI 10.1016/0040-4020(75)80138-4
+   TAKANO S, UNPUB
+   TAKANO S, 1981, HETEROCYCLES, V16, P951
+   TANIGUCH.M, 1974, TETRAHEDRON, V30, P3547, DOI 10.1016/S0040-4020(01)97033-4
+NR 11
+TC 13
+Z9 13
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101-8307, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PY 1982
+IS 12
+BP 1913
+EP 1914
+DI 10.1246/cl.1982.1913
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA PU267
+UT WOS:A1982PU26700008
+ER
+
+PT J
+AU IDESAWA, M
+   SOMA, T
+   GOTO, E
+AF IDESAWA, M
+   SOMA, T
+   GOTO, E
+TI DISCONTINUITY REDUCTION METHOD IN PATTERN CONNECTION
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY
+LA English
+DT Article
+RP IDESAWA, M (reprint author), INST PHYS & CHEM RES,INFORMAT SCI LAB,2-1 HIROSAWA,WAKO,SAITAMA 351,JAPAN.
+CR COGSWELL G, 1978, 8TH P INT C EL ION B, P117
+   GOTO E, 1975, IEEE T TOKYO, V14, P79
+   GOTO E, 1978, J VAC SCI TECHNOL, V15, P883, DOI 10.1116/1.569620
+   GUIUFFRE GJ, 1979, J VAC SCI TECHNOL, V16, P1644
+   IDESAWA M, 1979, J VAC SCI TECHNOL, V16, P1672, DOI 10.1116/1.570270
+   PFEIFFER HC, 1979, IEEE T ELECTRON DEV, V26, P663, DOI 10.1109/T-ED.1979.19475
+   VARNELL GL, 1979, J VAC SCI TECHNOL, V16, P1787, DOI 10.1116/1.570295
+   VISWANATHAN R, 1978, 8TH P EL ION BEAM SC, P44
+NR 8
+TC 0
+Z9 0
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0022-5355
+J9 J VAC SCI TECHNOL
+PY 1981
+VL 19
+IS 4
+BP 983
+EP 987
+DI 10.1116/1.571205
+PG 5
+WC Physics, Applied
+SC Physics
+GA MT466
+UT WOS:A1981MT46600028
+ER
+
+PT J
+AU IDESAWA, M
+   SOMA, T
+   GOTO, E
+   SASAKI, T
+AF IDESAWA, M
+   SOMA, T
+   GOTO, E
+   SASAKI, T
+TI CONSIDERATIONS ON SPACE-CHARGE EFFECT FOR HIGH-CURRENT VARIABLE SHAPED
+   BEAM FORMING
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY
+LA English
+DT Article
+RP IDESAWA, M (reprint author), INST PHYS & CHEM RES,INFORMAT SCI LAB,2-1 HIROSAWA,WAKO,SAITAMA 351,JAPAN.
+CR COGSWELL G, 1978, 8TH P INT C EL ION B, P117
+   Crewe A.V., 1978, OPTIK, V52, P337
+   GIUFFRE GJ, 1979, J VAC SCI TECHNOL, V16, P1644, DOI 10.1116/1.570262
+   GOTO E, 1978, J VAC SCI TECHNOL, V15, P883, DOI 10.1116/1.569620
+   HOH K, 1979, IEEE T ELECTRON DEV, V26, P1363
+   IDESAWA M, 1979, J VAC SCI TECHNOL, V16, P1672, DOI 10.1116/1.570270
+   PFEIFFER HC, 1979, IEEE T ELECTRON DEV, V26, P663, DOI 10.1109/T-ED.1979.19475
+   SAKAKIBARA Y, 1980, P IEDM, P425
+   SASAKI T, 1978, 9TH P INT C EL ION B, P74
+   SASAKI T, 1979, P VLSI C PASADENA, P125
+NR 10
+TC 1
+Z9 1
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0022-5355
+J9 J VAC SCI TECHNOL
+PY 1981
+VL 19
+IS 4
+BP 1103
+EP 1105
+DI 10.1116/1.571177
+PG 3
+WC Physics, Applied
+SC Physics
+GA MT466
+UT WOS:A1981MT46600053
+ER
+
+PT J
+AU IDESAWA, M
+   GOTO, E
+   SOMA, T
+   SASAKI, T
+AF IDESAWA, M
+   GOTO, E
+   SOMA, T
+   SASAKI, T
+TI TRIPLE SLIT SCHEME FOR HIGH-CURRENT VARIABLE-SHAPED BEAM FORMING
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY
+LA English
+DT Article
+RP IDESAWA, M (reprint author), INST PHYS & CHEM RES,INFORMAT SCI LAB,WAKO,SAITAMA 351,JAPAN.
+CR COGSWELL G, 1978, 8TH P INT C EL ION B, P117
+   Crewe A.V., 1978, OPTIK, V52, P337
+   GOTO E, 1978, J VAC SCI TECHNOL, V15, P883, DOI 10.1116/1.569620
+   GOTO E, 1978, 8 P INT C EL ION BEA, P135
+   PFEIFFER HC, 1971, 11TH P S EL ION LAS, P239
+   PFEIFFER HC, 1978, 8TH P S EL ION BEAM, P149
+   PFEIFFER HC, 1978, J VAC SCI TECHNOL, V15, P887, DOI 10.1116/1.569621
+   SASAKI T, 1979, P VLSI C PASADENA, P125
+   THOMSON MGR, 1978, J VAC SCI TECHNOL, V15, P891, DOI 10.1116/1.569622
+   TROTEL J, 1978, J VAC SCI TECHNOL, V15, P872, DOI 10.1116/1.569617
+   YAMAMOTO K, 1977, OPTIK, P69
+NR 11
+TC 4
+Z9 4
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0022-5355
+J9 J VAC SCI TECHNOL
+PY 1979
+VL 16
+IS 6
+BP 1672
+EP 1675
+DI 10.1116/1.570270
+PG 4
+WC Physics, Applied
+SC Physics
+GA JQ361
+UT WOS:A1979JQ36100019
+ER
+
+EF

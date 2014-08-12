@@ -1,0 +1,3780 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Ikegami, A
+   Suda, M
+   Watanabe, T
+   Einaga, Y
+AF Ikegami, Aya
+   Suda, Masayuki
+   Watanabe, Takeshi
+   Einaga, Yasuaki
+TI Reversible Optical Manipulation of Superconductivity
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+LA English
+DT Article
+DE nanostructures; photochromism; self-assembly; superconductors; thin
+   films
+ID HIGH-TC SUPERCONDUCTIVITY; ELECTRIC-FIELD; FILMS; TEMPERATURE;
+   INTERFACES; NIOBIUM; METAL; GAAS; GOLD
+C1 Keio Univ, Fac Sci & Technol, Dept Chem, Yokohama, Kanagawa 2238522, Japan.
+RP Einaga, Y (reprint author), Keio Univ, Fac Sci & Technol, Dept Chem, 3-14-1 Hiyoshi, Yokohama, Kanagawa 2238522, Japan.
+EM einaga@chem.keio.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology (MEXT) of
+   the Japanese Government [471]
+FX This work was supported by a Grant-in-Aid for Scientific Research in
+   Priority Areas "New Frontiers in Photochromism (no. 471)" from the
+   Ministry of Education, Culture, Sports, Science and Technology (MEXT) of
+   the Japanese Government. Also, we thank Prof. T. Iyoda and Dr. K. Ito
+   (Tokyo Inst. of Tec.) for helping to measure the water contact angle of
+   the films and for useful discussion.
+CR Ahn CH, 2003, NATURE, V424, P1015, DOI 10.1038/nature01878
+   BARDEEN J, 1957, PHYS REV, V108, P1175, DOI 10.1103/PhysRev.108.1175
+   BEDNORZ JG, 1986, Z PHYS B CON MAT, V64, P189, DOI 10.1007/BF01303701
+   BERKOVITS R, 1995, PHYS REV B, V51, P3151, DOI 10.1103/PhysRevB.51.3151
+   BLATTER G, 1994, REV MOD PHYS, V66, P1215
+   BURLACHKOV L, 1993, PHYS REV B, V48, P1156, DOI 10.1103/PhysRevB.48.1156
+   Cahen D, 2005, ADV FUNCT MATER, V15, P1571, DOI 10.1002/adfm.200500187
+   Cohen R, 1999, J AM CHEM SOC, V121, P10545, DOI 10.1021/ja9906150
+   Suda M, 2008, ANGEW CHEM INT EDIT, V47, P160, DOI 10.1002/anie.200704027
+   EMERY VJ, 1987, PHYS REV LETT, V58, P2794, DOI 10.1103/PhysRevLett.58.2794
+   Fadeev AY, 1999, J AM CHEM SOC, V121, P12184, DOI 10.1021/ja9931269
+   GRUNDNER M, 1980, J APPL PHYS, V51, P397, DOI 10.1063/1.327386
+   HEBARD AF, 1991, NATURE, V350, P600, DOI 10.1038/350600a0
+   Irie M, 2000, CHEM REV, V100, P1685, DOI 10.1021/cr980069d
+   Ishii H, 1999, ADV MATER, V11, P605, DOI 10.1002/(SICI)1521-4095(199906)11:8<605::AID-ADMA605>3.3.CO;2-H
+   Kamihara Y, 2008, J AM CHEM SOC, V130, P3296, DOI 10.1021/ja800073m
+   KUDINOV VI, 1990, PHYS LETT A, V151, P358, DOI 10.1016/0375-9601(90)90298-3
+   Lemberger TR, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.094515
+   Mishra PK, 1996, PHYSICA C, V269, P71, DOI 10.1016/0921-4534(96)00462-5
+   On DT, 1999, J PHYS CHEM B, V103, P3511, DOI 10.1021/jp984428k
+   ONNES KH, 1911, LEIDEN COMM, pC124
+   Pena V, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.177005
+   Qune LFNA, 2008, APPL PHYS LETT, V93, DOI 10.1063/1.2969468
+   Shvarts D, 2005, EUROPHYS LETT, V72, P465, DOI 10.1209/epl/i2005-10260-6
+   Suda M, 2009, J AM CHEM SOC, V131, P865, DOI 10.1021/ja808231c
+   Suda M., 2008, ANGEW CHEM, V120, P166, DOI 10.1002/ange.200704027
+   Takahashi KS, 2006, NATURE, V441, P195, DOI 10.1038/nature04731
+   Ueno K, 2008, NAT MATER, V7, P855, DOI 10.1038/nmat2298
+   Wu DG, 2001, J PHYS CHEM B, V105, P12011, DOI 10.1021/jp012708l
+   Zhang YM, 1999, ANAL CHEM, V71, P119, DOI 10.1021/ac980571y
+NR 30
+TC 7
+Z9 7
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA PO BOX 10 11 61, D-69451 WEINHEIM, GERMANY
+SN 1433-7851
+J9 ANGEW CHEM INT EDIT
+JI Angew. Chem.-Int. Edit.
+PY 2010
+VL 49
+IS 2
+BP 372
+EP 374
+DI 10.1002/anie.200904548
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 546XE
+UT WOS:000273847100020
+ER
+
+PT J
+AU Ikegami, A
+   Abe, M
+   Inatomi, A
+   Hisaeda, Y
+AF Ikegami, Atsushi
+   Abe, Masaaki
+   Inatomi, Atsushi
+   Hisaeda, Yoshio
+TI Synthetic Design of Heterometallic Cluster Compounds with Site-Selective
+   and Stepwise Substitution of Bridging Carboxylates
+SO CHEMISTRY-A EUROPEAN JOURNAL
+LA English
+DT Article
+DE carboxylates; cluster compounds; coordination chemistry; ruthenium;
+   substitution reactions
+ID QUANTUM CELLULAR-AUTOMATA; N-HETEROCYCLIC LIGANDS; MIXED-VALENCE;
+   TRINUCLEAR COMPLEXES; ACTIVE-SITE; METAL-ION; PYRIDINE; STABILIZATION;
+   DIMERS; ARRAY
+C1 Kyushu Univ, Grad Sch Engn, Dept Appl Chem, Nishi Ku, Fukuoka 8190395, Japan.
+RP Abe, M (reprint author), Kyushu Univ, Grad Sch Engn, Dept Appl Chem, Nishi Ku, Fukuoka 8190395, Japan.
+EM mabe@mail.cstm.kyushu-u.ac.jp; yhisatcm@mail.cstm.kyushu-u.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+   [18065018, 17036002, 21245016, 20350029]
+FX This work was supported by Grant-in-Aid for Scientific Research on
+   Priority Area of "Chemistry of Concerto Catalysis" (No. 18065018),
+   ''Chemistry of Coordination Space" (No. 17036002). Grant-in-Aid for
+   Scientific Research (A) (No. 21245016). Grant-in-Aid for Scientific
+   Research (B) (No. 20350029), and the Global COE Program, "Science for
+   Future Molecular Systems'', from the Ministry of Education, Culture,
+   Sports, Science and Technology of Japan.
+CR Abe M, 1999, INORG CHEM, V38, P4146, DOI 10.1021/ic990047p
+   Abe M, 2002, INORG CHIM ACTA, V331, P158, DOI 10.1016/S0020-1693(01)00780-0
+   Abe M, 1996, INORG CHEM, V35, P6724, DOI 10.1021/ic960430j
+   Adams R. D., 2008, ANGEW CHEM, V120, P258, DOI 10.1002/ange.200702407
+   Adams RD, 2008, ANGEW CHEM INT EDIT, V47, P252, DOI 10.1002/anie.200702407
+   Albinati A., 2005, ANGEW CHEM, V117, P5847, DOI 10.1002/ange.200501714
+   Albinati A, 2005, ANGEW CHEM INT EDIT, V44, P5701, DOI 10.1002/anie.200501714
+   Barton BE, 2009, J AM CHEM SOC, V131, P6942, DOI 10.1021/ja902570u
+   Blake AB, 1998, J CHEM SOC DALTON, P45, DOI 10.1039/a705778d
+   CANNON RD, 1988, PROG INORG CHEM, V36, P195, DOI 10.1002/9780470166376.ch3
+   COOKE MW, 2005, ANGEW CHEM, V117, P4959, DOI 10.1002/ange.200500392
+   Cooke MW, 2005, ANGEW CHEM INT EDIT, V44, P4881, DOI 10.1002/anie.200500392
+   Cooke MW, 2002, ORGANOMETALLICS, V21, P5962, DOI 10.1021/om020729b
+   Evans DJ, 2003, CHEM SOC REV, V32, P268, DOI 10.1039/b201317g
+   Fontecilla-Camps JC, 2009, NATURE, V460, P814, DOI 10.1038/nature08299
+   Inatomi A, 2009, EUR J INORG CHEM, P4830, DOI 10.1002/ejic.200900701
+   Jiao JY, 2005, J AM CHEM SOC, V127, P17819, DOI 10.1021/ja0550935
+   Jiao JY, 2003, J AM CHEM SOC, V125, P7522, DOI 10.1021/ja035177c
+   MCGLYNN SE, 2009, J CHEM SOC DA, P4274
+   Mereacre V, 2006, INORG CHEM, V45, P10443, DOI 10.1021/ic061322s
+   NAKATA K, 1991, INORG CHEM, V30, P1575, DOI 10.1021/ic00007a028
+   Novitchi G, 2008, INORG CHEM, V47, P10587, DOI 10.1021/ic801206m
+   Ohashi M, 2007, CHEM COMMUN, P3103, DOI 10.1039/b703730a
+   Ohashi M, 2006, CHEM LETT, V35, P954, DOI 10.1246/cl.2006.954
+   OHTO A, 1994, INORG CHEM, V33, P1245, DOI 10.1021/ic00085a003
+   Prokopuk N, 1997, INORG CHEM, V36, P5609, DOI 10.1021/ic970816+
+   RICHARDSON DE, 1984, COORDIN CHEM REV, V60, P107, DOI 10.1016/0010-8545(84)85063-8
+   SASAKI Y, 1993, INORG CHIM ACTA, V212, P175, DOI 10.1016/S0020-1693(00)92323-5
+   SASAKI Y, 1991, INORG CHEM, V30, P4903, DOI 10.1021/ic00026a011
+   SASAKI Y, 1987, J AM CHEM SOC, V109, P6341, DOI 10.1021/ja00255a018
+   Singh B, 1997, J AM CHEM SOC, V119, P7030, DOI 10.1021/ja970562r
+   Tanaka M, 2007, B CHEM SOC JPN, V80, P192, DOI 10.1246/bcsj.80.192
+   Tard C, 2009, CHEM REV, V109, P2245, DOI 10.1021/cr800542q
+   Volbeda A, 1996, J AM CHEM SOC, V118, P12989, DOI 10.1021/ja962270g
+   Wei QH, 2004, INORG CHEM COMMUN, V7, P286, DOI 10.1016/j.inoche.2003.11.026
+   WHITE RP, 1993, J AM CHEM SOC, V115, P7778, DOI 10.1021/ja00070a025
+   YAMAGUCHI T, 1989, INORG CHEM, V28, P4311, DOI 10.1021/ic00323a004
+   Yip JHK, 2002, ORGANOMETALLICS, V21, P5292, DOI 10.1021/om020513+
+   Zheng GL, 2004, ANGEW CHEM INT EDIT, V43, P2409, DOI 10.1002/anie.2003535359
+   ZHENG GL, 2004, ANGEW CHEM, V116, P2463, DOI 10.1002/ange.200353359
+NR 40
+TC 3
+Z9 3
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA PO BOX 10 11 61, D-69451 WEINHEIM, GERMANY
+SN 0947-6539
+J9 CHEM-EUR J
+JI Chem.-Eur. J.
+PY 2010
+VL 16
+IS 15
+BP 4438
+EP 4441
+DI 10.1002/chem.201000387
+PG 4
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 591UR
+UT WOS:000277331000002
+ER
+
+PT J
+AU Suda, M
+   Kameyama, N
+   Ikegami, A
+   Suzuki, M
+   Kawamura, N
+   Einaga, Y
+AF Suda, Masayuki
+   Kameyama, Naoto
+   Ikegami, Aya
+   Suzuki, Motohiro
+   Kawamura, Naomi
+   Einaga, Yasuaki
+TI Size-reduction induced ferromagnetism and photo-magnetic effects in
+   azobenzene-thiol-passivated gold nanoparticles
+SO POLYHEDRON
+LA English
+DT Article; Proceedings Paper
+CT 11th International Conference on Molecule-Based Magnets (ICMM 2008)
+CY SEP 21-24, 2008
+CL Florence, ITALY
+DE Azo compounds; Photochromism; Gold nanoparticles; Ferromagnetism;
+   Photo-magnetic effects; Organic-inorganic interface
+ID SELF-ASSEMBLED MONOLAYERS; IRON-OXIDE NANOPARTICLES; AMPHIPHILIC
+   AZOBENZENE; ROOM-TEMPERATURE; PRUSSIAN BLUE; DERIVATIVES;
+   PHOTOISOMERIZATION; ORGANIZATION; INTERFACES; FILMS
+AB We have observed size-reduction induced ferromagnetism and significant photo-magnetic effects in azobezene-thiol-modified gold nanoparticles. When the particle size was reduced to 1.7 nm, ferromagnetism even at room temperature was observed while diamagnetism was dominating with the particle size of 5.0 nm. Furthermore, reducing the particles size to 1.7 nm also gave rise to photo-magnetic properties because the decrease in particle size provided free volume between each of the azobenzene ligands. This photo-magnetic effect could be attributed to photo-induced changes in the values of d-charge losses due to the photoisomerization of azo-ligands, which were accompanied by the inversion of surface dipole values to the opposite sign. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 Keio Univ, Dept Chem, Fac Sci & Technol, Yokohama, Kanagawa 2238522, Japan.
+   Japan Synchrotron Radiat Res Inst JASRI SPring 8, Sayo 6795198, Japan.
+RP Einaga, Y (reprint author), Keio Univ, Dept Chem, Fac Sci & Technol, 3-14-1 Hiyoshi, Yokohama, Kanagawa 2238522, Japan.
+EM einaga@chem.keio.ac.jp
+CR Barnes WL, 2003, NATURE, V424, P824, DOI 10.1038/nature01937
+   BRUST M, 1994, J CHEM SOC CHEM COMM, P801, DOI 10.1039/c39940000801
+   Carmeli I, 2003, J CHEM PHYS, V118, P10372, DOI 10.1063/1.1580800
+   Crespo P, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.087204
+   Daniel MC, 2004, CHEM REV, V104, P293, DOI 10.1021/cr030698+
+   Dutta P, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2740577
+   Einaga Y, 1999, J AM CHEM SOC, V121, P3745, DOI 10.1021/ja982450l
+   Suda M, 2008, ANGEW CHEM INT EDIT, V47, P160, DOI 10.1002/anie.200704027
+   Elghanian R, 1997, SCIENCE, V277, P1078, DOI 10.1126/science.277.5329.1078
+   Evans SD, 1998, LANGMUIR, V14, P6436, DOI 10.1021/la980450t
+   Garitaonandia JS, 2008, NANO LETT, V8, P661, DOI 10.1021/nl073129g
+   Hernando A, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.052403
+   Hostetler MJ, 1998, LANGMUIR, V14, P17, DOI 10.1021/la970588w
+   Hu J, 1999, J ORG CHEM, V64, P4959, DOI 10.1021/jo990076h
+   Ishii H, 1999, ADV MATER, V11, P605, DOI 10.1002/(SICI)1521-4095(199906)11:8<605::AID-ADMA605>3.3.CO;2-H
+   Manna A, 2003, CHEM MATER, V15, P20, DOI 10.1021/cm0207696
+   Mikami R, 2004, ANGEW CHEM INT EDIT, V43, P6135, DOI 10.1002/anie.200460g64
+   NAKAHARA H, 1988, NIPPON KAGAKU KAISHI, P1001
+   NARAYANAN R, 2001, J PHYS CHEM B, V109, P631
+   Negishi Y, 2006, J AM CHEM SOC, V128, P12034, DOI 10.1021/ja062815z
+   Ray SG, 2005, J PHYS CHEM B, V109, P14064, DOI 10.1021/jp050398r
+   Suda M, 2007, J AM CHEM SOC, V129, P5538, DOI 10.1021/ja0682374
+   Suda M, 2005, CHEM LETT, V34, P1028, DOI 10.1246/cl.2005.1028
+   Taguchi M, 2005, CHEM MATER, V17, P4554, DOI 10.1021/cm051060c
+   Tamada K, 1998, LANGMUIR, V14, P3264, DOI 10.1021/la971348j
+   Ulman A, 1996, CHEM REV, V96, P1533, DOI 10.1021/cr9502357
+   Yamamoto T, 2004, CHEM MATER, V16, P1195, DOI 10.1021/cm035223d
+   ZHANG P, 2003, PHYS REV LETT, V90
+NR 28
+TC 7
+Z9 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-5387
+J9 POLYHEDRON
+JI Polyhedron
+PD JUN 22
+PY 2009
+VL 28
+IS 9-10
+BP 1868
+EP 1874
+DI 10.1016/j.poly.2008.10.021
+PG 7
+WC Chemistry, Inorganic & Nuclear; Crystallography
+SC Chemistry; Crystallography
+GA 465JQ
+UT WOS:000267580000055
+ER
+
+PT J
+AU Suda, M
+   Kameyama, N
+   Ikegami, A
+   Einaga, Y
+AF Suda, Masayuki
+   Kameyama, Naoto
+   Ikegami, Aya
+   Einaga, Yasuaki
+TI Reversible Phototuning of the Large Anisotropic Magnetization at the
+   Interface between a Self-Assembled Photochromic Monolayer and Gold
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID LANGMUIR-BLODGETT-FILMS; IRON-OXIDE NANOPARTICLES;
+   LIGHT-EMITTING-DIODES; PRUSSIAN BLUE; PHOTOINDUCED MAGNETIZATION;
+   ROOM-TEMPERATURE; SPIN-STATE; PHOTOISOMERIZATION REACTION; AMPHIPHILIC
+   AZOBENZENE; ELECTRONIC-TRANSITIONS
+AB We have observed the emergence of a large anisotropic magnetization and significant photoinduced changes in the magentization that appear at the interface between a gold film and an azobenzene-containing self-assembled monolayer. The magnetization value was extremely high, up to 50 mu(B) per adsorbed molecule. These photomagnetic effects can be attributed to a photoinduced change in the loss of d charge due to photoisomerization of the azobenzene monolayer, which is accompanied by inversion of the surface dipoles. Furthermore, we have also observed reversible changes in the work function of the gold film by alternating UV and visible light, showing that the value of the surface dipole moment is changed as a result of photoisomerization. This allowed us to control the magnetization by alternating the photoillumination between UV and visible light, and we have clarified the mechanism for these photomagnetic effects. A novel strategy such as this, which enables significant reversible phototuning of the magnetic order, has great potential for applications in future magneto-optical devices.
+C1 Keio Univ, Fac Sci & Technol, Dept Chem, Yokohama, Kanagawa 2238522, Japan.
+RP Einaga, Y (reprint author), Keio Univ, Fac Sci & Technol, Dept Chem, 3-14-1 Hiyoshi, Yokohama, Kanagawa 2238522, Japan.
+EM einaga@chem.keio.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology (MEXT) of
+   the Japanese Government
+FX This work was supported by a Grant-in-Aid for Scientific Research (A)
+   and Scientific Research in Priority Areas "Photochromism (No. 471)" from
+   the Ministry of Education, Culture, Sports, Science and Technology
+   (MEXT) of the Japanese Government.
+CR AKIYAMA H, 2000, T MAT RES JPN, V25, P425
+   Akiyama H, 2003, J PHYS CHEM B, V107, P130, DOI 10.1021/jp026103g
+   Alloway DM, 2003, J PHYS CHEM B, V107, P11690, DOI 10.1021/jp034665+
+   Andreoni W, 2000, INT J QUANTUM CHEM, V80, P598, DOI 10.1002/1097-461X(2000)80:4/5<598::AID-QUA9>3.3.CO;2-N
+   Boer B, 2005, ADV MATER, V17, P621
+   Campbell IH, 1997, APPL PHYS LETT, V71, P3528, DOI 10.1063/1.120381
+   Carmeli I, 2003, J CHEM PHYS, V118, P10372, DOI 10.1063/1.1580800
+   Caruso AN, 2006, J MATER SCI, V41, P6198, DOI 10.1007/s10853-006-0362-7
+   Chen J, 1999, SCIENCE, V286, P1550, DOI 10.1126/science.286.5444.1550
+   Collier CP, 1999, SCIENCE, V285, P391, DOI 10.1126/science.285.5426.391
+   Crespo P, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.087204
+   Crone BK, 2000, J APPL PHYS, V87, P1974, DOI 10.1063/1.372123
+   DECURTINS S, 1984, CHEM PHYS LETT, V105, P1, DOI 10.1016/0009-2614(84)80403-0
+   DUBOIS LH, 1990, J ELECTRON SPECTROSC, V54, P1143, DOI 10.1016/0368-2048(90)80304-S
+   Dutta P, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2740577
+   Einaga Y, 1999, J AM CHEM SOC, V121, P3745, DOI 10.1021/ja982450l
+   Suda M, 2008, ANGEW CHEM INT EDIT, V47, P160, DOI 10.1002/anie.200704027
+   Evans SD, 1998, LANGMUIR, V14, P6436, DOI 10.1021/la980450t
+   FABIAN J, 1980, LIGHT ABSORPTION ORG, pCH7
+   Garitaonandia JS, 2008, NANO LETT, V8, P661, DOI 10.1021/nl073129g
+   Gutlich P, 2001, COORDIN CHEM REV, V219, P839, DOI 10.1016/S0010-8545(01)00381-2
+   Haneda S, 2000, J APPL PHYS, V87, P6445, DOI 10.1063/1.372733
+   Hayami S, 2000, J AM CHEM SOC, V122, P7126, DOI 10.1021/ja001406e
+   Hernando A, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.052403
+   Hill IG, 2000, APPL SURF SCI, V166, P354, DOI 10.1016/S0169-4332(00)00449-9
+   IHS A, 1993, LANGMUIR, V9, P739
+   Ishii H, 1999, ADV MATER, V11, P605, DOI 10.1002/(SICI)1521-4095(199906)11:8<605::AID-ADMA605>3.3.CO;2-H
+   Koshihara S, 1997, PHYS REV LETT, V78, P4617, DOI 10.1103/PhysRevLett.78.4617
+   LAIBINIS PE, 1991, J AM CHEM SOC, V113, P7152, DOI 10.1021/ja00019a011
+   Matsuda K, 2000, J AM CHEM SOC, V122, P7195, DOI 10.1021/ja000605v
+   Matsuda K, 1998, PHYS REV B, V58, pR4203, DOI 10.1103/PhysRevB.58.R4203
+   Mikami R, 2004, ANGEW CHEM INT EDIT, V43, P6135, DOI 10.1002/anie.200460g64
+   NAKAHARA H, 1998, NIPPON KAGAKU KAISHI, V7, P1001
+   Negishi Y, 2006, J AM CHEM SOC, V128, P12034, DOI 10.1021/ja062815z
+   Neuman O, 2006, J PHYS CHEM B, V110, P5163, DOI 10.1021/jp060003j
+   NUZZO RG, 1990, J AM CHEM SOC, V112, P558, DOI 10.1021/ja00158a012
+   OHKASHI S, 1997, APPL PHYS LETT, V70, P1040
+   PUNKKA E, 1992, J ELECTRON MATER, V21, P1057, DOI 10.1007/BF02665884
+   Ray SG, 2005, J PHYS CHEM B, V109, P14064, DOI 10.1021/jp050398r
+   Renz F, 2000, ANGEW CHEM INT EDIT, V39, P3699, DOI 10.1002/1521-3773(20001016)39:20<3699::AID-ANIE3699>3.0.CO;2-Z
+   ROBIN MB, 1962, J CHEM PHYS, V36, P580, DOI 10.1063/1.1732574
+   Sato O, 1996, SCIENCE, V272, P704, DOI 10.1126/science.272.5262.704
+   Sato O, 1997, J ELECTROCHEM SOC, V144, pL11, DOI 10.1149/1.1837356
+   SELLERS H, 1993, J AM CHEM SOC, V115, P9389, DOI 10.1021/ja00074a004
+   SHI J, 1995, CHEM PHYS LETT, V246, P90, DOI 10.1016/0009-2614(95)01085-N
+   Sortino S, 2004, J MATER CHEM, V14, P811, DOI 10.1039/b314710j
+   Suda M, 2007, J AM CHEM SOC, V129, P5538, DOI 10.1021/ja0682374
+   Suda M, 2005, CHEM LETT, V34, P1028, DOI 10.1246/cl.2005.1028
+   Taguchi M, 2005, CHEM MATER, V17, P4554, DOI 10.1021/cm051060c
+   Taguchi M, 2006, J AM CHEM SOC, V128, P10978, DOI 10.1021/ja063461e
+   Tamada K, 2003, LANGMUIR, V19, P2306, DOI 10.1021/la0258493
+   Tamada K, 2002, LANGMUIR, V18, P5239, DOI 10.1021/la0157667
+   ULAMN A, 1996, CHEM REV, V96, P1533
+   Ulman A., 1991, INTRO ULTRATHIN ORGA
+   UZNANSKI P, 1990, SPECTROCHIM ACTA A, V46, P23, DOI 10.1016/0584-8539(93)80005-U
+   Vager Z, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.087205
+   Vilan A, 2000, NATURE, V404, P166
+   Vuillaume D, 1999, LANGMUIR, V15, P4011, DOI 10.1021/la990099r
+   Wu DG, 2001, CHEM-EUR J, V7, P1743, DOI 10.1002/1521-3765(20010417)7:8<1743::AID-CHEM17430>3.0.CO;2-X
+   Wu YQ, 1999, LANGMUIR, V15, P4625, DOI 10.1021/la981765b
+   Yaliraki SN, 1999, J CHEM PHYS, V111, P6997, DOI 10.1063/1.480096
+   Yamamori A, 2001, APPL PHYS LETT, V78, P3343, DOI 10.1063/1.1359485
+   Yamamoto T, 2005, J AM CHEM SOC, V127, P16065, DOI 10.1021/ja053131e
+   Yamamoto T, 2004, CHEM MATER, V16, P1195, DOI 10.1021/cm035223d
+NR 64
+TC 22
+Z9 22
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD JAN 21
+PY 2009
+VL 131
+IS 2
+BP 865
+EP 870
+DI 10.1021/ja808231c
+PG 6
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 395KA
+UT WOS:000262521800081
+ER
+
+PT J
+AU Ogawa, K
+   Kato, T
+   Ikegami, A
+   Tsuji, H
+   Aoki, N
+   Ochiai, Y
+   Bird, JP
+AF Ogawa, K
+   Kato, T
+   Ikegami, A
+   Tsuji, H
+   Aoki, N
+   Ochiai, Y
+   Bird, JP
+TI Electrical properties of field-effect transistors based on C-60
+   nanowhiskers
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID THIN-FILM TRANSISTORS; EFFECT MOBILITY; LAYER; C60
+AB We fabricate field-effect transistors (FETs) based on C-60 nanowhiskers (C-60 NWs) and investigate their structural and electrical properties. Thermally annealed C-60 NWs show x-ray powder-diffraction spectra that are consistent with a similar fcc structure to that of C-60 bulk crystals, although with a slightly reduced lattice constant (a=13.9 angstrom). The C-60 NW-FETs exhibit n-channel, normally-on, properties (or FETs) and their carrier mobility is estimated to be 2x10(-2) cm(2)/V s under vacuum conditions at room temperature. (c) 2006 American Institute of Physics.
+C1 Chiba Univ, Dept Elect & Mech Engn, Chiba 2638522, Japan.
+   SUNY Buffalo, Univ Buffalo, Dept Elect Engn, Buffalo, NY 14260 USA.
+RP Ogawa, K (reprint author), Chiba Univ, Dept Elect & Mech Engn, 1-33 Yayoi Cho, Chiba 2638522, Japan.
+EM ochiai@faculty.chiba-u.jp
+RI Bird, Jonathan/G-4068-2010
+CR Dimitrakopoulos CD, 2002, ADV MATER, V14, P99, DOI 10.1002/1521-4095(20020116)14:2<99::AID-ADMA99>3.0.CO;2-9
+   HADDON RC, 1995, APPL PHYS LETT, V67, P121, DOI 10.1063/1.115503
+   HEINEY PA, 1991, PHYS REV LETT, V66, P2911, DOI 10.1103/PhysRevLett.66.2911
+   HORIUCHI K, 2002, I PHYS C SER, V171
+   Horiuchi K, 2003, PHYSICA B, V329, P1538, DOI 10.1016/S0921-4526(02)02282-2
+   Horiuchi K, 2004, APPL PHYS LETT, V85, P1987, DOI 10.1063/1.1790036
+   Horiuchi K, 2002, APPL PHYS LETT, V81, P1911, DOI 10.1063/1.1505746
+   Horiuchi K, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1899251
+   Kanbara T, 2003, CHEM PHYS LETT, V379, P223, DOI 10.1016/j.cplett.2003.07.025
+   Kobayashi S, 2003, APPL PHYS LETT, V82, P4581, DOI 10.1063/1.1577383
+   Lin YY, 1997, IEEE ELECTR DEVICE L, V18, P606, DOI 10.1109/55.644085
+   Malenfant PRL, 2002, APPL PHYS LETT, V80, P2517, DOI 10.1063/1.1467706
+   Michaud F, 1998, PHYS REV B, V57, P10351, DOI 10.1103/PhysRevB.57.10351
+   Minato J, 2005, CARBON, V43, P2837, DOI 10.1016/j.carbon.2005.06.013
+   Miyazawa K, 2002, J MATER RES, V17, P83, DOI 10.1557/JMR.2002.0014
+   Miyazawa K, 2001, J AM CERAM SOC, V84, P3037
+   Ogawa S, 2000, J PHYS CHEM SOLIDS, V61, P1047, DOI 10.1016/S0022-3697(99)00361-3
+   Ramm M, 1996, CRYST RES TECHNOL, V31, P43, DOI 10.1002/crat.2170310111
+   Yang YS, 2002, APPL PHYS LETT, V80, P1595, DOI 10.1063/1.1459117
+   ZHOU O, 1992, J PHYS CHEM SOLIDS, V53, P1373, DOI 10.1016/0022-3697(92)90233-4
+NR 20
+TC 25
+Z9 25
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD MAR 13
+PY 2006
+VL 88
+IS 11
+AR 112109
+DI 10.1063/1.2186519
+PG 3
+WC Physics, Applied
+SC Physics
+GA 022NO
+UT WOS:000236062700045
+ER
+
+PT J
+AU Kimura, Y
+   Ikegami, A
+   Kurumada, M
+   Kamitsuji, K
+   Kaito, C
+AF Kimura, Y
+   Ikegami, A
+   Kurumada, M
+   Kamitsuji, K
+   Kaito, C
+TI Correlations between crystallite size, shape, surface, and infrared
+   spectra using the Ti-C system
+SO ASTROPHYSICAL JOURNAL SUPPLEMENT SERIES
+LA English
+DT Article
+DE astrochemistry; dust, extinction; ISM : molecules; methods : laboratory;
+   molecular data
+ID MICRON EMISSION FEATURE; GIANT BRANCH STARS; INTERSTELLAR NANODIAMONDS;
+   CARBIDE; SPECTROSCOPY; GRAINS; NANOPARTICLES; NANOCRYSTALS; CLUSTERS;
+   NEBULAE
+AB crystallites less than 10 nm in size showed an absorption feature at 14.3 mum. This 14.3 mum absorption was rarely seen in specimens ranging from bulk material to grains of 50 nm in size. The 14.3 mum feature was weakened as a result of the growth of TiC crystallites by heat treatment. When the carbide grains were covered with a carbon layer, the absorption peaks were considerably weakened, i.e., the absorption intensity depended on the grain surface state. A possible explanation is that the effects of size and shape on the spectra depend on the surface anisotropy.
+C1 Ritsumeikan Univ, Dept Phys, Shiga 5258577, Japan.
+RP Kimura, Y (reprint author), Ritsumeikan Univ, Dept Phys, Shiga 5258577, Japan.
+CR Chigai T, 2003, ASTROPHYS J, V587, P771, DOI 10.1086/368299
+   Henning T, 2001, SPECTROCHIM ACTA A, V57, P815, DOI 10.1016/S1386-1425(00)00446-7
+   Hill HGM, 1998, ASTRON ASTROPHYS, V336, pL41
+   Hill HGM, 1997, METEORIT PLANET SCI, V32, P713
+   Ikegami A, 2003, SURF SCI, V540, P395, DOI 10.1016/S0039-6028(03)00875-6
+   Jones AP, 2000, ASTRON ASTROPHYS, V355, P1191
+   Kimura Y, 2003, MON NOT R ASTRON SOC, V343, P385, DOI 10.1046/j.1365-8711.2003.06675.x
+   KWOK S, 1989, ASTROPHYS J, V345, pL51, DOI 10.1086/185550
+   Li AG, 2003, ASTROPHYS J, V599, pL45, DOI 10.1086/381137
+   Okazawa T, 2001, SURF SCI, V473, P117, DOI 10.1016/S0039-6028(00)00959-6
+   OSHIMA C, 1987, PHYS REV B, V36, P7510, DOI 10.1103/PhysRevB.36.7510
+   Posch T, 2003, ASTROPHYS J SUPPL S, V149, P437, DOI 10.1086/379167
+   Speck AK, 2004, ASTROPHYS J, V600, P986, DOI 10.1086/379973
+   SPECK AK, 2002, LUNAR PLANET SCI, V33, P1155
+   TAKAYANAGI K, 1985, J VAC SCI TECHNOL A, V3, P1502, DOI 10.1116/1.573160
+   van Heijnsbergen D, 1999, PHYS REV LETT, V83, P4983, DOI 10.1103/PhysRevLett.83.4983
+   Volk K, 1999, ASTROPHYS J, V516, pL99, DOI 10.1086/312007
+   von Helden G, 2000, SCIENCE, V288, P313
+NR 18
+TC 3
+Z9 3
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0067-0049
+J9 ASTROPHYS J SUPPL S
+JI Astrophys. J. Suppl. Ser.
+PD JUN
+PY 2004
+VL 152
+IS 2
+BP 297
+EP 301
+DI 10.1086/386373
+PG 5
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA 823IT
+UT WOS:000221605200007
+ER
+
+PT J
+AU Ikegami, A
+   Kimura, Y
+   Suzuki, H
+   Sato, T
+   Tanigaki, T
+   Kido, O
+   Kurumada, M
+   Saito, Y
+   Kaito, C
+AF Ikegami, A
+   Kimura, Y
+   Suzuki, H
+   Sato, T
+   Tanigaki, T
+   Kido, O
+   Kurumada, M
+   Saito, Y
+   Kaito, C
+TI Growth process of TiC clusters from Ti nanoparticles with evaporated
+   carbon layer
+SO SURFACE SCIENCE
+LA English
+DT Article
+DE electron microscopy; crystalline-amorphous interfaces; clusters;
+   titanium carbide; amorphous surfaces
+ID ULTRAFINE PARTICLE; COALESCENCE GROWTH; SMOKE PARTICLES; FILM; BEHAVIOR;
+   SIZE
+AB Titanium carbide formation by the solid-solid reaction on the surface of Ti nanoparticles was studied in situ using a high-resolution transmission electron microscope with a heating stage. The cross-sectional image of the Ti surface was clearly observed. Vacuum-deposited carbon covered the whole the surface of Ti nanoparticles in spite of the partly evaporation on the nanoparticle surface. The diffusion of the carbon atoms inside the Ti nanoparticles depended on the size of the nanoparticles. When the Ti nanoparticle diameter was less than 30 nm, carbon atoms diffused into the Ti nanoparticle and formed TiC. The superstructure of the Ti nanoparticles was observed, which revealed the growth process of TiC to be the diffusion of carbon atoms. For Ti nanoparticles with diameter larger than 30 run it was observed that diffusion of Ti atoms into the carbon layer was dominant, which resulted in formation of TiC in the carbon layer at the surface of Ti nanoparticles. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Ritsumeikan Univ, Dept Nanophys Frontier Project, Kaito Lab, Shiga 5258577, Japan.
+   Kyoto Inst Technol, Dept Elect & Informat Sci, Sakyo Ku, Kyoto 6068585, Japan.
+RP Kimura, Y (reprint author), Ritsumeikan Univ, Dept Nanophys Frontier Project, Kaito Lab, Shiga 5258577, Japan.
+CR Atou Y, 2003, PHYSICA E, V16, P179, DOI 10.1016/S1386-9477(02)00597-0
+   HENNING T, 2000, ACTA PART A, V57, P815
+   KAITO C, 1994, J GEOMAGN GEOELECTR, V46, P1043
+   KAITO C, 1993, J CRYST GROWTH, V134, P157, DOI 10.1016/0022-0248(93)90121-C
+   Kaito C, 2003, METEORIT PLANET SCI, V38, P49
+   Kaito C, 1998, THIN SOLID FILMS, V312, P93, DOI 10.1016/S0040-6090(97)00690-1
+   KAITO C, 1973, JPN J APPL PHYS, V12, P489, DOI 10.1143/JJAP.12.489
+   Kaito C, 1999, JPN J APPL PHYS 1, V38, P213, DOI 10.1143/JJAP.38.213
+   Kaito C, 1998, J CRYST GROWTH, V186, P386, DOI 10.1016/S0022-0248(97)00451-X
+   KAITO C, 1985, JPN J APPL PHYS 1, V24, P261, DOI 10.1143/JJAP.24.261
+   KIDO O, 2003, IN PRESS SURF REV LE
+   Kimura Y, 2003, SURF SCI, V527, pL219, DOI 10.1016/S0039-6028(03)00011-6
+   KIMURA Y, 2003, IN PRESS MON NOT
+   NAGATA T, 1991, P NIPR S ANT MET, V4, P404
+   Nakai T, 2001, J NANOPART RES, V3, P279, DOI 10.1023/A:1017956130188
+   Tsurusako T, 2002, PHYS LOW-DIMENS STR, V7-8, P77
+   von Helden G, 2000, SCIENCE, V288, P313
+NR 17
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0039-6028
+J9 SURF SCI
+JI Surf. Sci.
+PD AUG 20
+PY 2003
+VL 540
+IS 2-3
+BP 395
+EP 400
+DI 10.1016/S0039-6028(03)00875-6
+PG 6
+WC Chemistry, Physical; Physics, Condensed Matter
+SC Chemistry; Physics
+GA 713FM
+UT WOS:000184846500032
+ER
+
+PT J
+AU Ikegami, A
+   Niwa, A
+AF Ikegami, A
+   Niwa, A
+TI A subproblem-centric model and approach to the nurse scheduling problem
+SO MATHEMATICAL PROGRAMMING
+LA English
+DT Article
+DE nurse scheduling; block-angular problem; subproblem; integer
+   programming; relaxation; tabu search; branch-and-bound
+ID FUTURE-RESEARCH DIRECTIONS; TABU SEARCH; PROGRAMMING-MODEL; SUPPORT
+   SYSTEM; PERSONNEL
+AB The number of hospitals in Japan exceeds 10,000, and every month nurses are scheduled to shifts in about 30,000 units in total. There is serious demand for automating this scheduling task. In this paper, we introduce a mathematical programming formulation of the nurse scheduling problem in Japan, and develop a meta-heuristic approach to solve the problem. This scheduling problem is a hard combinatorial problem due to tight constraints involving such factors as the skill level of a team, the need to balance workload among nurses, and the consideration of nurses' preferences, even though the number of the nurses to be scheduled is not large, at between 20 and 40. The performance of our approach is demonstrated by the successful solution of data taken from actual scheduling problems. The proposed model and approach can be adapted for the majority of hospitals in Japan, as well as for some hospitals in other countries, and is likely applicable to many other scheduling problems in the fields of business and logistics.
+C1 Seikei Univ, Dept Ind Engn & Informat Sci, Musashino, Tokyo 1808633, Japan.
+RP Ikegami, A (reprint author), Seikei Univ, Dept Ind Engn & Informat Sci, 3-3-1 Kichijoji Kitamachi, Musashino, Tokyo 1808633, Japan.
+CR Aickelin U., 2000, Journal of Scheduling, V3, DOI 10.1002/(SICI)1099-1425(200005/06)3:3<139::AID-JOS41>3.0.CO;2-2
+   ARTHUR JL, 1981, AIIE T, V13, P55
+   AUFMHOFE HM, 2001, DIMACS SERIES DISCRE, V57, P67
+   BELL PC, 1986, INFOR, V24, P134
+   CHAN L, 1987, C NUMERANTIUM, V56, P251
+   Chvatal V., 1983, LINEAR PROGRAMMING
+   Dowsland KA, 2000, J OPER RES SOC, V51, P825, DOI 10.1057/palgrave.jors.2600970
+   Dowsland KA, 1998, EUR J OPER RES, V106, P393, DOI 10.1016/S0377-2217(97)00281-6
+   IKEGAMI A, 2001, THESIS SEIKEI U TOKY
+   Ikegami A., 1996, COMMUNICATIONS OPERA, V41, P436
+   Ikegami A, 2000, J OPER RES SOC JPN, V43, P365
+   Ikegami A, 1998, J OPER RES SOC JPN, V41, P572
+   IKEGAMI A, 1995, J SCI LATOUR, V71, P413
+   Jaumard B, 1998, EUR J OPER RES, V107, P1, DOI 10.1016/S0377-2217(97)00330-5
+   KOSTREVA MM, 1991, COMPUT OPER RES, V18, P731, DOI 10.1016/0305-0548(91)90011-F
+   Li LX, 1996, EUR J OPER RES, V93, P449, DOI 10.1016/0377-2217(95)00375-4
+   MEGEATH JD, 1978, INTERFACES, V8, P55, DOI 10.1287/inte.8.2.55
+   Millar HH, 1998, EUR J OPER RES, V104, P582, DOI 10.1016/S0377-2217(97)00006-4
+   MILLER HE, 1976, OPER RES, V24, P857, DOI 10.1287/opre.24.5.857
+   MUSA AA, 1984, IIE TRANS, V16, P216, DOI 10.1080/07408178408974687
+   NAGANO H, 1996, J JAPAN IND MANAGEME, V47, P143
+   Nonobe K, 1998, EUR J OPER RES, V106, P599, DOI 10.1016/S0377-2217(97)00294-4
+   OSOGAMI T, 2000, LECT NOTES COMPUTER, P72
+   OZKARAHAN I, 1988, IIE TRANS, V20, P306, DOI 10.1080/07408178808966185
+   RANDHAWA SU, 1993, COMPUT OPER RES, V20, P837, DOI 10.1016/0305-0548(93)90105-R
+   ROSENBLOOM ES, 1987, EUR J OPER RES, V31, P19, DOI 10.1016/0377-2217(87)90131-7
+   SIFERD SP, 1992, EUROP J OPER RES, V60, P223
+   SMITHDANIELS VL, 1988, DECISION SCI, V19, P889, DOI 10.1111/j.1540-5915.1988.tb00310.x
+   WANDEL SE, 1976, OPERATIONAL RES 75, P561
+   WARNER DM, 1976, OPER RES, V24, P842, DOI 10.1287/opre.24.5.842
+   EUROPEAN J OPERATION, V31, P19
+NR 31
+TC 20
+Z9 20
+PU SPRINGER-VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010 USA
+SN 0025-5610
+J9 MATH PROGRAM
+JI Math. Program.
+PD AUG
+PY 2003
+VL 97
+IS 3
+BP 517
+EP 541
+DI 10.1007/s10107-003-0426-2
+PG 25
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA 714WH
+UT WOS:000184936100005
+ER
+
+PT J
+AU Kawae, T
+   Ikegami, A
+   Maeda, K
+   Okayama, Y
+   Oyamada, A
+   Suzuki, T
+   Takeda, K
+AF Kawae, T
+   Ikegami, A
+   Maeda, K
+   Okayama, Y
+   Oyamada, A
+   Suzuki, T
+   Takeda, K
+TI Pressure effects on heat capacity of a heavy fermion compound YbAs
+SO PHYSICA B
+LA English
+DT Article; Proceedings Paper
+CT 22nd International Conference on Low Temperature Physics
+CY AUG 04-11, 1999
+CL HELSINKI, FINLAND
+SP Commiss C5 low Temp Phys, Int Union Pure & Appl Phys, Acad Finland, Helsinki Univ Technol, Int Assoc Promot Sci, Oxford Instruments Ltd, FortumCorp, Nokia Grp, Finnair Ltd, Datex Engstrom Ltd, Finnish Phys Soc, Picker Nordstar Ltd, Neuromag ltd, SAP Finland Ltd, Espoo Elect Ltd, Outokumpu Ltd, City Espoo, Finnish Acad Sci & Letters, DCA-Instruments Ltd, Vaisala Ltd
+HO HELSINKI UNIV TECHNOL
+DE heat capacity; low carrier concentration compound; YbAs
+AB Heat capacity measurements have been carried out on a heavy fermion compound YbAs down to 0.2 K under pressure up to 5 kbar. A sharp peak due to the antiferromagnetic transition is observed at 0.51 K at ambient pressure. As pressure increases, the peak shifts slightly to higher temperatures with a decreasing of its height. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Kyushu Univ, Fac Engn, Fukuoka 8128581, Japan.
+   Saga Univ, Fac Sci, Saga 8408502, Japan.
+   Kyoto Univ, Grad Sch & Environm Studies, Kyoto 6068501, Japan.
+   Univ Tokyo, Inst Solid State Phys, Tokyo 1068666, Japan.
+RP Kawae, T (reprint author), Kyushu Univ, Fac Engn, 6-10-1 Hakozaki, Fukuoka 8128581, Japan.
+CR MONNIER R, 1990, PHYS REV B, V41, P573, DOI 10.1103/PhysRevB.41.573
+   OYAMADA A, 1991, THESIS TOHOKU U
+   SAKON T, 1992, J PHYS SOC JPN, V61, P2209, DOI 10.1143/JPSJ.61.2209
+NR 3
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4526
+J9 PHYSICA B
+JI Physica B
+PD JUL
+PY 2000
+VL 284
+BP 1261
+EP 1262
+DI 10.1016/S0921-4526(99)02524-7
+PN Part 2
+PG 2
+WC Physics, Condensed Matter
+SC Physics
+GA 320WD
+UT WOS:000087423100070
+ER
+
+PT J
+AU Mito, M
+   Kawae, T
+   Ikegami, A
+   Hitaka, M
+   Takeda, K
+   Nakatsuji, S
+   Morimoto, H
+   Anzai, H
+AF Mito, M
+   Kawae, T
+   Ikegami, A
+   Hitaka, M
+   Takeda, K
+   Nakatsuji, S
+   Morimoto, H
+   Anzai, H
+TI Pressure-induced enhancement of T-c in a genuine organic
+   bulk-ferromagnet
+SO PHYSICA B
+LA English
+DT Article; Proceedings Paper
+CT 22nd International Conference on Low Temperature Physics
+CY AUG 04-11, 1999
+CL HELSINKI, FINLAND
+SP Commiss C5 low Temp Phys, Int Union Pure & Appl Phys, Acad Finland, Helsinki Univ Technol, Int Assoc Promot Sci, Oxford Instruments Ltd, FortumCorp, Nokia Grp, Finnair Ltd, Datex Engstrom Ltd, Finnish Phys Soc, Picker Nordstar Ltd, Neuromag ltd, SAP Finland Ltd, Espoo Elect Ltd, Outokumpu Ltd, City Espoo, Finnish Acad Sci & Letters, DCA-Instruments Ltd, Vaisala Ltd
+HO HELSINKI UNIV TECHNOL
+DE genuine organic bulk ferromagnet; pressure effect; transition
+   temperature
+ID ANTIFERROMAGNETIC TRANSITION; NITROXIDE
+AB Few genuine organic bulk-ferromagnets have been synthesized until now, but their transition temperatures (T-c) do not exceed 1.5 K. The representative organic bulk-ferromagnets such as beta-phase p-NPNN (T-c = 0.61 K) and p-Cl-C6H5CH=N=TEMPO (T-c = 0.28 K) show a ferro-to-antiferromagnetic transition under pressure. In 2,5-DFPNN (T-c = 0.48 K), however, we find that ferromagnetism is stable even under pressure, and T-c increases with pressure. This result gives us a clue for realizing the high-temperature organic bulk-ferromagnet. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Kyushu Univ, Fac Engn, Fukuoka 8128581, Japan.
+   Himeji Inst Technol, Fac Sci, Kamigori, Hyogo 6781297, Japan.
+RP Mito, M (reprint author), Kyushu Univ, Fac Engn, Fukuoka 8128581, Japan.
+CR CHIARELLI R, 1993, NATURE, V363, P147, DOI 10.1038/363147a0
+   KINOSHITA M, 1992, CHEM LETT, P1225
+   Mito M, 1999, MOL CRYST LIQ CRYS A, V334, P323, DOI 10.1080/10587259908023330
+   Mito M, 1997, PHYS REV B, V56, P14255
+   Nakatsuji S, 1998, CHEM PHYS LETT, V296, P159, DOI 10.1016/S0009-2614(98)01021-5
+   Takeda K, 1999, CHEM PHYS LETT, V308, P181, DOI 10.1016/S0009-2614(99)00571-0
+NR 6
+TC 7
+Z9 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4526
+J9 PHYSICA B
+JI Physica B
+PD JUL
+PY 2000
+VL 284
+BP 1493
+EP 1494
+DI 10.1016/S0921-4526(99)02691-5
+PN Part 2
+PG 2
+WC Physics, Condensed Matter
+SC Physics
+GA 320WD
+UT WOS:000087423100185
+ER
+
+PT J
+AU Ikegami, A
+   Nakasone, K
+   Fujita, M
+   Fujii, S
+   Kato, C
+   Usami, R
+   Horikoshi, K
+AF Ikegami, A
+   Nakasone, K
+   Fujita, M
+   Fujii, S
+   Kato, C
+   Usami, R
+   Horikoshi, K
+TI Cloning and characterization of the gene encoding RNA polymerase sigma
+   factor sigma(54) of deep-sea piezophilic Shewanella violacea
+SO BIOCHIMICA ET BIOPHYSICA ACTA-GENE STRUCTURE AND EXPRESSION
+LA English
+DT Article
+DE piezophilic bacterium; Shewanella violacea; sigma(54); transcription
+ID PRESSURE-REGULATED OPERON; ESCHERICHIA-COLI; PSEUDOMONAS-PUTIDA; STRAIN
+   DSS12; NTRA; RPON; BACTERIA; ELEMENTS; UPSTREAM; DOMAINS
+AB We have recently reported that a sigma(54)-like factor recognizes a DNA element, designated as region A, upstream of a pressure-regulated operon in piezophilic Shewanella violacea strain DSS12 (Nakasone et al., FEMS Microbiology Lett. 176 (1999) 351-356). In this study, we isolated and characterized the rpoN gene of this piezophilic bacterium. The rpoN gene was found to encode a putative protein consisting of 492 amino acid residues with a predicted molecular mass of 55 359 Da. Significant homology was evident comparing the rpoN sequence of S. violacea with that of Escherichia coli (62.8% identity), Vibrio anguillarum (61.7% identity) and Pseudomonas putida (57.0% identity). The DNA-binding domain at the C-terminus of sigma(54) is well conserved in the case of the S. violacea rpoN gene product and the helix-turn-helix motif and the RpoN box are also present. In addition, the conserved glutamine-rich domain is present at the N-terminus. sigma(54) in S. violacea was expressed at a relatively constant level under various growth conditions as determined by both primer extension and Western blotting analyses. By means of a recombinant plasmid, a hexahistidine-tagged derivative of the sigma(54) from strain DSS12 was overexpressed in Escherichia coli and purified to near homogeneity. An electrophoretic mobility shift assay demonstrated that the purified sigma(54) protein specifically recognizes region A in the above-mentioned pressure-regulated operon. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Japan Marine Sci & Technol Ctr, Deep Star Grp, Kanagawa 2370061, Japan.
+   Toyo Univ, Fac Engn, Dept Appl Chem, Kawagoe, Saitama 3500852, Japan.
+   Natl Inst Genet, Radioisotope Ctr, Shizuoka 4118540, Japan.
+RP Nakasone, K (reprint author), Japan Marine Sci & Technol Ctr, Deep Star Grp, 2-15 Natsushima Cho, Kanagawa 2370061, Japan.
+EM nakasone@jamstec.go.jp
+RI Fujii, Shinsuke/E-8889-2011
+CR CANNON W, 1995, J MOL BIOL, V248, P781, DOI 10.1006/jmbi.1995.0260
+   CANNON W, 1994, P NATL ACAD SCI USA, V94, P5006
+   DEBRUIJN FJ, 1983, MOL GEN GENET, V192, P342
+   Fujii S, 1999, FEMS MICROBIOL LETT, V178, P123, DOI 10.1016/S0378-1097(99)00349-3
+   HIRSCHMAN J, 1985, P NATL ACAD SCI USA, V82, P7525, DOI 10.1073/pnas.82.22.7525
+   IKEGAMI A, 1999, JAMSTECR, V40, P31
+   INOUYE S, 1989, GENE, V85, P145
+   Jishage M, 1996, J BACTERIOL, V178, P5447
+   KATO C, 1995, BIODIVERS CONSERV, V4, P1, DOI 10.1007/BF00115311
+   Kato C, 1997, J MAR BIOTECHNOL, V5, P210
+   KOHLER T, 1989, J BACTERIOL, V171, P4326
+   LUTZ S, 1990, MOL MICROBIOL, V4, P13, DOI 10.1111/j.1365-2958.1990.tb02010.x
+   MERRICK MJ, 1993, MOL MICROBIOL, V10, P903, DOI 10.1111/j.1365-2958.1993.tb00961.x
+   Nakasone K, 1999, FEMS MICROBIOL LETT, V176, P351, DOI 10.1111/j.1574-6968.1999.tb13683.x
+   Nakasone K, 1998, EXTREMOPHILES, V2, P149, DOI 10.1007/s007920050054
+   Nogi Y, 1998, ARCH MICROBIOL, V170, P331, DOI 10.1007/s002030050650
+   O'Toole R, 1997, MICROBIOL-SGM, V143, P3849
+   SASSEDWIGHT S, 1990, CELL, V62, P945, DOI 10.1016/0092-8674(90)90269-K
+   SASSEDWIGHT S, 1988, P NATL ACAD SCI USA, V85, P8934, DOI 10.1073/pnas.85.23.8934
+   Toku S, 1996, EUR J BIOCHEM, V238, P136, DOI 10.1111/j.1432-1033.1996.0136q.x
+NR 20
+TC 14
+Z9 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-4781
+J9 BBA-GENE STRUCT EXPR
+JI Biochim. Biophys. Acta-Gene Struct. Expression
+PD APR 25
+PY 2000
+VL 1491
+IS 1-3
+BP 315
+EP 320
+DI 10.1016/S0167-4781(00)00035-X
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 307PD
+UT WOS:000086661000035
+ER
+
+PT J
+AU Hayakawa, M
+   Miyauchi, H
+   Ikegami, A
+   Nishida, M
+AF Hayakawa, M
+   Miyauchi, H
+   Ikegami, A
+   Nishida, M
+TI Elastic constants of zirconia single crystals determined by X-ray
+   measurements for polycrystals
+SO MATERIALS TRANSACTIONS JIM
+LA English
+DT Article
+DE single crystal elastic constants; polycrystal; cubic zirconia;
+   tetragonal zirconia; X-ray diffraction; X-ray stress measurement;
+   titanium-nickel; shape memory alloy
+AB A previously developed method for determining elastic constants of single crystals from polycrystalline specimens was applied to cubic and tetragonal zirconia. The method is based on the orientation dependence of the lattice strain of a stressed specimen as measured by X-ray diffraction and also on Kroner's equation relating the elastic constants of polycrystals to those of a single crystal. A simple loading device for a disc-shaped specimen was developed using a Ti-Ni shape memory alloy. The resulting elastic constants, C-11, C-12, and C-44 for cubic zirconia were in fair agreement with those measured directly on a single crystal. The same method was applied to tetragonal zirconia after verifying that the elasticity of this material may be well approximated by cubic symmetry. Error analysis and suggestions for an improved measurement are also included.
+C1 Tottori Univ, Dept Mech Engn, Tottori 6800945, Japan.
+   Kumamoto Univ, Dept Mat Sci & Resource Engn, Kumamoto 8608555, Japan.
+RP Hayakawa, M (reprint author), Tottori Univ, Dept Mech Engn, Tottori 6800945, Japan.
+RI nishida, minoru/E-4027-2012
+CR ALERS GA, 1960, J PHYS CHEM SOLIDS, V13, P40, DOI 10.1016/0022-3697(60)90125-6
+   BOLLENRA.F, 1967, Z METALLKD, V58, P76
+   ESHELBY JD, 1957, PROC R SOC LON SER-A, V241, P376, DOI 10.1098/rspa.1957.0133
+   Green DJ, 1989, TRANSFORMATION TOUGH
+   HAUK V, 1979, Z METALLKD, V70, P500
+   HAYAKAWA M, 1985, J APPL CRYSTALLOGR, V18, P513, DOI 10.1107/S0021889885010809
+   HAYAKAWA M, 1983, ACTA METALL MATER, V31, P955, DOI 10.1016/0001-6160(83)90124-4
+   KANDIL HM, 1984, J AM CERAM SOC, V67, P341, DOI 10.1111/j.1151-2916.1984.tb19534.x
+   KRONER E, 1958, Z PHYS, V151, P504, DOI 10.1007/BF01337948
+   MURA T, 1982, MICROMECHANICS DEFEC, P364
+   Nye J.F., 1957, Physical Properties of Crystals: Their Representation by Tensors and Matrices
+   SCHWARTZ LH, 1977, DIFFRACTION MAT, P245
+   VIRKAR AV, 1986, J AM CERAM SOC, V69, pC224
+NR 13
+TC 13
+Z9 13
+PU JAPAN INST METALS
+PI SENDAI
+PA AOBA ARAMAKI, SENDAI, 980, JAPAN
+SN 0916-1821
+J9 MATER T JIM
+JI Mater. Trans. JIM
+PD FEB
+PY 1998
+VL 39
+IS 2
+BP 268
+EP 274
+PG 7
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA ZH545
+UT WOS:000073121800006
+ER
+
+PT J
+AU MIYATA, H
+   YOSHIKAWA, H
+   HAKOZAKI, H
+   SUZUKI, N
+   FURUNO, T
+   IKEGAMI, A
+   KINOSITA, K
+   NISHIZAKA, T
+   ISHIWATA, S
+AF MIYATA, H
+   YOSHIKAWA, H
+   HAKOZAKI, H
+   SUZUKI, N
+   FURUNO, T
+   IKEGAMI, A
+   KINOSITA, K
+   NISHIZAKA, T
+   ISHIWATA, S
+TI MECHANICAL MEASUREMENTS OF SINGLE ACTOMYOSIN MOTOR FORCE
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article; Proceedings Paper
+CT 7th Biophysical Discussions on Molecular Motors - Structure, Mechanics
+   and Energy Transduction
+CY OCT 21-23, 1994
+CL AIRLIE, VA
+SP US PHS, Natl Sci Fdn
+ID MYOSIN
+AB To elucidate the mechanism of force generation by actomyosin motor, a measuring system was constructed, in which an in vitro motility assay was combined with an optical trapping technique. An actin filament of several mu m long was attached to a gelsolin-coated polystyrene bead, and was allowed to interact with a small number (similar to 1/1-mu m actin filament) of rabbit skeletal heavy meromyosin (an active subfragment of myosin) molecules bound to a nitrocellulose-coated coverglass. The bead position was determined at 33-ms intervals. We measured the force generation event at relatively low (100-400 nM) ATP concentration so that the occurrence of individual force generation events could be detected with our time resolution. The actin-bound bead held in the optical trap moved in a stepwise manner in the direction of the actin filament only in the presence of ATP. At the trap strength of 0.3 pN/nm, the maximum size of the step was 11 nm, and the maximum force associated with the movement was 3.3 pN.
+C1 NIKON INC,YOKOHAMA PLANT,SAKAE KU,YOKOHAMA,KANAGAWA 244,JAPAN.
+   NAGOYA UNIV,FAC SCI,DEPT PHYS,CHIKUSA KU,NAGOYA,AICHI 46401,JAPAN.
+   KEIO UNIV,FAC MED,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+   WASEDA UNIV,SCH SCI & ENGN,DEPT PHYS,SHINJUKU KU,TOKYO 169,JAPAN.
+RP MIYATA, H (reprint author), KEIO UNIV,FAC SCI & TECHNOL,DEPT PHYS,KOHOKU KU,3-14-1 HIYOSHI,YOKOHAMA,KANAGAWA 223,JAPAN.
+CR FINER JT, 1994, NATURE, V368, P113, DOI 10.1038/368113a0
+   FURUNO T, 1992, MICROSC RES TECHNIQ, V21, P32, DOI 10.1002/jemt.1070210105
+   GOLDMAN YE, 1987, ANNU REV PHYSIOL, V49, P637, DOI 10.1146/annurev.physiol.49.1.637
+   HACKNEY DD, 1994, P NATL ACAD SCI USA, V91, P6865, DOI 10.1073/pnas.91.15.6865
+   ISHIJIMA A, 1994, BIOCHEM BIOPH RES CO, V199, P1057, DOI 10.1006/bbrc.1994.1336
+   KRON SJ, 1991, METHOD ENZYMOL, V196, P399, DOI 10.1016/0076-6879(91)96035-P
+   MIYATA H, 1994, J BIOCHEM-TOKYO, V115, P644
+   NISHIZAKA T, 1995, BIOPHYS J, V68, pS75
+   RAYMENT I, 1993, SCIENCE, V261, P58, DOI 10.1126/science.8316858
+   SVOBODA K, 1994, CELL, V77, P773, DOI 10.1016/0092-8674(94)90060-4
+   UYEDA TQP, 1991, NATURE, V352, P307, DOI 10.1038/352307a0
+   WAKABAYASHI K, 1992, SCIENCE, V258, P443, DOI 10.1126/science.1411537
+NR 12
+TC 29
+Z9 29
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD APR
+PY 1995
+VL 68
+IS 4
+SU S
+BP S286
+EP S290
+PG 5
+WC Biophysics
+SC Biophysics
+GA RK090
+UT WOS:A1995RK09000063
+ER
+
+PT J
+AU INOUE, S
+   ORIMO, A
+   HOSOI, T
+   IKEGAMI, A
+   KOZAKI, K
+   OUCHI, Y
+   NOMURA, S
+   MURAMATSU, M
+   ORIMO, H
+AF INOUE, S
+   ORIMO, A
+   HOSOI, T
+   IKEGAMI, A
+   KOZAKI, K
+   OUCHI, Y
+   NOMURA, S
+   MURAMATSU, M
+   ORIMO, H
+TI DEMONSTRATION OF ACTIVIN-A IN ARTERIOSCLEROTIC LESIONS
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+ID SMOOTH-MUSCLE CELLS; ERYTHROID-DIFFERENTIATION FACTOR;
+   GROWTH-FACTOR-BETA; BINDING PROTEIN; FOLLISTATIN; EXPRESSION;
+   ATHEROSCLEROSIS; INDUCTION; CHAIN
+AB We previously reported that follistatin, an activin-binding protein, is produced in arteriosclerotic lesions. Here, the expression of activin-A which promotes the growth of vascular smooth muscle cells was examined in arteriosclerotic lesions of WHHL (Watanabe heritable hyperlipidemic) rabbits. Activin-A mRNA was detected in normal aorta by reverse transcriptase-polymerase chain reaction using specific primers for activin-A cDNA and was increased remarkably in arteriosclerotic lesions. In addition, using the cloned rabbit activin-A cDNA, RNA probe was prepared and in situ hybridization histochemistry was performed. Activin-A transcripts were detected abundantly in neointima of the diseased artery. Furthermore, immunohistochemistry also detected activin-A at the protein level. These observations suggest that activin-A is a cytokine expressed in arteriosclerotic lesions and might be involved in the pathogenesis of atherosclerosis. (C) 1994 Academic Press, Inc.
+C1 SAITAMA MED SCH,DEPT BIOCHEM,MOROYAMA,SAITAMA 35004,JAPAN.
+   UNIV TOKYO,FAC MED,DEPT GERIATR,TOKYO 113,JAPAN.
+   OSAKA UNIV,SCH MED,DEPT PATHOL,SUITA,OSAKA 565,JAPAN.
+CR ASASHIMA M, 1990, ROUX ARCH DEV BIOL, V198, P330, DOI 10.1007/BF00383771
+   BOSTROM K, 1993, J CLIN INVEST, V91, P1800, DOI 10.1172/JCI116391
+   GOODMAN LV, 1989, J BIOL CHEM, V264, P5241
+   GUBLER U, 1983, GENE, V25, P263, DOI 10.1016/0378-1119(83)90230-5
+   HAMET P, 1991, HYPERTENSION, V17, P896
+   HASHIMOTO M, 1992, J BIOL CHEM, V267, P4999
+   HASHIMOTO M, 1990, BIOCHEM BIOPH RES CO, V166, P750
+   HASHIMOTO M, 1992, J BIOL CHEM, V267, P7203
+   IKEGAMI Y, 1994, ENDOCRINOLOGY, V135, P782
+   INOUE S, 1993, ARTERIOSCLER THROMB, V13, P1859
+   KOJIMA I, 1993, EXP CELL RES, V206, P152, DOI 10.1006/excr.1993.1131
+   KOYAMA N, 1990, BIOCHEM BIOPH RES CO, V169, P725, DOI 10.1016/0006-291X(90)90391-Y
+   LYONS RM, 1990, EUR J BIOCHEM, V187, P467, DOI 10.1111/j.1432-1033.1990.tb15327.x
+   MAJACK RA, 1987, J CELL BIOL, V105, P465, DOI 10.1083/jcb.105.1.465
+   MCCARTHY SA, 1993, J BIOL CHEM, V268, P23066
+   MURATA M, 1988, P NATL ACAD SCI USA, V85, P2434, DOI 10.1073/pnas.85.8.2434
+   NAKAMURA T, 1990, SCIENCE, V247, P836, DOI 10.1126/science.2106159
+   NOMURA S, 1993, ACTA HISTOCHEM CYTOC, V26, P299
+   ROSS R, 1990, SCIENCE, V248, P1009, DOI 10.1126/science.2343305
+   ROSS R, 1993, NATURE, V362, P801, DOI 10.1038/362801a0
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SARAZANI R, 1989, J CLIN INVEST, V83, P1404
+   SCHUBERT D, 1990, NATURE, V344, P868, DOI 10.1038/344868a0
+   SMITH JC, 1990, NATURE, V345, P729, DOI 10.1038/345729a0
+   VALE W, 1986, NATURE, V321, P776, DOI 10.1038/321776a0
+   VANDENEIJNDENVANRAAIJ AJM, 1990, NATURE, V345, P732, DOI 10.1038/345732a0
+   WATANABE Y, 1980, ATHEROSCLEROSIS, V36, P261, DOI 10.1016/0021-9150(80)90234-8
+   YASUDA H, 1993, ENDOCRINOLOGY, V133, P624, DOI 10.1210/en.133.2.624
+NR 28
+TC 31
+Z9 33
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD NOV 30
+PY 1994
+VL 205
+IS 1
+BP 441
+EP 448
+DI 10.1006/bbrc.1994.2685
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA PW785
+UT WOS:A1994PW78500066
+ER
+
+PT J
+AU INOUE, S
+   ORIMO, A
+   HOSOI, T
+   KONDO, S
+   TOYOSHIMA, H
+   KONDO, T
+   IKEGAMI, A
+   OUCHI, Y
+   ORIMO, H
+   MURAMATSU, M
+AF INOUE, S
+   ORIMO, A
+   HOSOI, T
+   KONDO, S
+   TOYOSHIMA, H
+   KONDO, T
+   IKEGAMI, A
+   OUCHI, Y
+   ORIMO, H
+   MURAMATSU, M
+TI GENOMIC BINDING-SITE CLONING REVEALS AN ESTROGEN-RESPONSIVE GENE THAT
+   ENCODES A RING FINGER PROTEIN
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE TRANSCRIPTION FACTOR; TARGET GENE; ZINC FINGER; ESTROGEN-RESPONSIVE
+   ELEMENT
+ID ACUTE PROMYELOCYTIC LEUKEMIA; REGULATORY ELEMENTS; VIRUS TYPE-1;
+   RAR-ALPHA; RECEPTOR; CELLS; EXPRESSION; SEQUENCE; DNA; TRANSCRIPTION
+AB Estrogen receptor (ER)-binding fragments were isolated from human genomic DNA by using a recombinant ER protein. Using one of these fragments as a probe, we have identified an estrogen-responsive gene that encodes a putative zinc finger protein. It has a RING finger motif present in a family of apparent DNA-binding proteins and is designated estrogen-responsive finger protein (efp). efp cDNA contains a consensus estrogen-responsive element at the 3' untranslated region that can act as a downstream estrogen-dependent enhancer. Moreover, efp is regulated by estrogen as demonstrated at both the mRNA and the protein level in ER-positive cells derived from mammary gland. These data suggest that efp may represent an estrogen-responsive transcription factor that mediates phenotypic expression of the diverse estrogen action. Thus, the genomic binding-site cloning may be applicable for isolation of the target genes of other transcription factors.
+C1 SAITAMA MED SCH,DEPT BIOCHEM,38 MORO HONGO,MOROYAMA MACHI,MOROYAMA,SAITAMA 35004,JAPAN.
+   UNIV TOKYO,FAC MED,DEPT GERIATR,BUNKYO KU,TOKYO 113,JAPAN.
+   UNIV TOKYO,FAC MED,DEPT INTERNAL MED 3,BUNKYO KU,TOKYO 113,JAPAN.
+CR BRUNK BP, 1991, NATURE, V353, P351, DOI 10.1038/353351a0
+   CHAN EKL, 1991, J CLIN INVEST, V87, P68, DOI 10.1172/JCI115003
+   CURATOLA AM, 1990, MOL CELL BIOL, V10, P2475
+   DETHE H, 1991, CELL, V66, P675, DOI 10.1016/0092-8674(91)90113-D
+   EVANS RM, 1988, SCIENCE, V240, P889, DOI 10.1126/science.3283939
+   FREEMONT PS, 1991, CELL, V64, P483, DOI 10.1016/0092-8674(91)90229-R
+   GAFFNEY EV, 1982, CELL TISSUE RES, V227, P563
+   GINIGER E, 1987, NATURE, V330, P670, DOI 10.1038/330670a0
+   GODDARD AD, 1991, SCIENCE, V254, P1371, DOI 10.1126/science.1720570
+   GORMAN CM, 1982, MOL CELL BIOL, V2, P1044
+   GOULD AP, 1990, NATURE, V348, P308, DOI 10.1038/348308a0
+   GRABE G, 1992, EMBO J, V11, P3375
+   GRAHAM FL, 1973, VIROLOGY, V52, P456, DOI 10.1016/0042-6822(73)90341-3
+   GREEN S, 1988, TRENDS GENET, V4, P309, DOI 10.1016/0168-9525(88)90108-4
+   HARRIS JR, 1987, BREAST DISEASES
+   HASHIMOTO M, 1992, J BIOL CHEM, V267, P4999
+   HASHIMOTO M, 1992, J BIOL CHEM, V267, P7203
+   INOUE S, 1991, NUCLEIC ACIDS RES, V19, P4091, DOI 10.1093/nar/19.15.4091
+   JONES JS, 1988, NUCLEIC ACIDS RES, V16, P7119, DOI 10.1093/nar/16.14.7119
+   KAKIZUKA A, 1991, CELL, V66, P663, DOI 10.1016/0092-8674(91)90112-C
+   KASTNER P, 1990, EMBO J, V9, P1603
+   KOIKE S, 1987, NUCLEIC ACIDS RES, V15, P2499, DOI 10.1093/nar/15.6.2499
+   KOZAK M, 1987, NUCLEIC ACIDS RES, V15, P8125, DOI 10.1093/nar/15.20.8125
+   LUCKOW B, 1987, NUCLEIC ACIDS RES, V15, P5490, DOI 10.1093/nar/15.13.5490
+   MIKI T, 1991, P NATL ACAD SCI USA, V88, P5167, DOI 10.1073/pnas.88.12.5167
+   PATARCA R, 1988, P NATL ACAD SCI USA, V85, P2733, DOI 10.1073/pnas.85.8.2733
+   REDDY BA, 1991, NUCLEIC ACIDS RES, V19, P6330, DOI 10.1093/nar/19.22.6330
+   REDDY BA, 1992, TRENDS BIOCHEM SCI, V17, P344, DOI 10.1016/0968-0004(92)90308-V
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SCHATZ DG, 1989, CELL, V59, P1035, DOI 10.1016/0092-8674(89)90760-5
+   SCHREIBER E, 1989, NUCLEIC ACIDS RES, V17, P6419, DOI 10.1093/nar/17.15.6419
+   SIMERLY RB, 1990, J COMP NEUROL, V294, P76, DOI 10.1002/cne.902940107
+   TAKAHASHI M, 1988, MOL CELL BIOL, V8, P1853
+   TAKEBE Y, 1988, MOL CELL BIOL, V8, P466
+   VANLOHUIZEN M, 1991, NATURE, V353, P353, DOI 10.1038/353353a0
+NR 35
+TC 129
+Z9 130
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD DEC 1
+PY 1993
+VL 90
+IS 23
+BP 11117
+EP 11121
+DI 10.1073/pnas.90.23.11117
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA MK094
+UT WOS:A1993MK09400049
+ER
+
+PT J
+AU ORIMO, A
+   INOUE, S
+   IKEGAMI, A
+   HOSOI, T
+   AKISHITA, M
+   OUCHI, Y
+   MURAMATSU, M
+   ORIMO, H
+AF ORIMO, A
+   INOUE, S
+   IKEGAMI, A
+   HOSOI, T
+   AKISHITA, M
+   OUCHI, Y
+   MURAMATSU, M
+   ORIMO, H
+TI VASCULAR SMOOTH-MUSCLE CELLS AS TARGET FOR ESTROGEN
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+ID MOLECULAR-CLONING; RECEPTOR CDNA; C-FOS; IDENTIFICATION; ANTIBODIES;
+   EXPRESSION; CULTURE
+C1 UNIV TOKYO,FAC MED,DEPT GERIATR,BUNKYO KU,TOKYO 113,JAPAN.
+   SAITAMA MED SCH,DEPT BIOCHEM,MOROYAMA,SAITAMA 35004,JAPAN.
+CR BELDEKAS JC, 1981, BIOCHEMISTRY-US, V20, P2162, DOI 10.1021/bi00511a014
+   BERGERON C, 1988, LAB INVEST, V58, P338
+   CHAMLEY JH, 1977, CELL TISSUE RES, V177, P503
+   CHANG WC, 1980, BIOCHIM BIOPHYS ACTA, V619, P107
+   COLBURN P, 1978, SCIENCE, V201, P817, DOI 10.1126/science.684408
+   CURRAN T, 1982, J VIROL, V44, P674
+   GAHR M, 1987, BRAIN RES, V402, P173, DOI 10.1016/0006-8993(87)91063-8
+   GREEN S, 1986, NATURE, V320, P134, DOI 10.1038/320134a0
+   GUBLER U, 1983, GENE, V25, P263, DOI 10.1016/0378-1119(83)90230-5
+   HARDER DR, 1979, J CELL PHYSIOL, V100, P375, DOI 10.1002/jcp.1041000218
+   HASHIMOTO M, 1992, J BIOL CHEM, V267, P7203
+   KOIKE S, 1987, NUCLEIC ACIDS RES, V15, P2499, DOI 10.1093/nar/15.6.2499
+   MACGILL HC, 1979, ATHEROSCLER REV, V4, P157
+   NAKAO J, 1981, ATHEROSCLEROSIS, V38, P75, DOI 10.1016/0021-9150(81)90105-2
+   REINER A, 1986, AM J PATHOL, V125, P443
+   ROSS R, 1986, NEW ENGL J MED, V314, P488, DOI 10.1056/NEJM198602203140806
+   SEITZ G, 1987, PATHOL RES PRACT, V182, P792
+   STAMPFER MJ, 1985, NEW ENGL J MED, V313, P1044, DOI 10.1056/NEJM198510243131703
+   TRAISH AM, 1990, STEROIDS, V55, P196, DOI 10.1016/0039-128X(90)90017-6
+   WEISZ A, 1988, MOL ENDOCRINOL, V2, P816
+   WEISZ A, 1990, NUCLEIC ACIDS RES, V18, P5097, DOI 10.1093/nar/18.17.5097
+   WITTMAN JCM, 1989, BRIT MED J, V198, P642
+   1973, JAMA-J AM MED ASSOC, V226, P652
+NR 23
+TC 118
+Z9 120
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD SEP 15
+PY 1993
+VL 195
+IS 2
+BP 730
+EP 736
+DI 10.1006/bbrc.1993.2106
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA LW469
+UT WOS:A1993LW46900032
+ER
+
+PT J
+AU AKEDO, Y
+   HOSOI, T
+   INOUE, S
+   IKEGAMI, A
+   MIZUNO, Y
+   KANEKI, M
+   NAKAMURA, T
+   OUCHI, Y
+   ORIMO, H
+AF AKEDO, Y
+   HOSOI, T
+   INOUE, S
+   IKEGAMI, A
+   MIZUNO, Y
+   KANEKI, M
+   NAKAMURA, T
+   OUCHI, Y
+   ORIMO, H
+TI VITAMIN-K2 MODULATES PROLIFERATION AND FUNCTION OF OSTEOBLASTIC
+   CELLS-INVITRO
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+ID DEPENDENT BONE PROTEIN; OSTEO-SARCOMA CELLS; HUMAN OSTEOSARCOMA;
+   WARFARIN; MATRIX; ANTAGONIST; MC3T3-E1; ACID
+C1 UNIV TOKYO,FAC MED,DEPT SURG & RADIOL,TOKYO 113,JAPAN.
+CR BOUCKAERT JH, 1960, NATURE, V185, P849, DOI 10.1038/185849a0
+   ESMON CT, 1975, J BIOL CHEM, V250, P4744
+   FETEIH R, 1990, J BONE MINER RES, V5, P885
+   FRASER JD, 1988, J BIOL CHEM, V263, P911
+   HANAZAWA S, 1985, BIOCHEM BIOPH RES CO, V131, P774, DOI 10.1016/0006-291X(85)91306-3
+   HART JP, 1984, LANCET, V2, P283
+   HASHIMOTO M, 1992, J BIOL CHEM, V267, P4999
+   HAUSCHKA PV, 1986, HAEMOSTASIS, V16, P258
+   MCALLIST.RM, 1971, CANCER, V27, P397, DOI 10.1002/1097-0142(197102)27:2<397::AID-CNCR2820270224>3.0.CO;2-X
+   NAKAYAMA Y, 1990, FEBS LETT, V261, P93, DOI 10.1016/0014-5793(90)80644-X
+   NISHIMOTO SK, 1985, J BIOL CHEM, V260, P2832
+   ORIMO H, 1992, CLIN EVAL, V20, P45
+   PAULI RM, 1988, PATHOL IMMUNOPATH R, V7, P107, DOI 10.1159/000157104
+   PRICE PA, 1987, THROMB RES, V46, P121, DOI 10.1016/0049-3848(87)90212-X
+   PRICE PA, 1985, J BIOL CHEM, V260, P4971
+   ULRICH MMW, 1988, THROMB RES, V50, P27, DOI 10.1016/0049-3848(88)90171-5
+   WALLIN R, 1990, BIOCHEM J, V269, P459
+   1974, SCAND J CLIN LAB INV, V33, P291
+NR 18
+TC 42
+Z9 43
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD SEP 16
+PY 1992
+VL 187
+IS 2
+BP 814
+EP 820
+DI 10.1016/0006-291X(92)91269-V
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA JN585
+UT WOS:A1992JN58500039
+ER
+
+PT J
+AU FUJIWARA, M
+   IKEGAMI, A
+AF FUJIWARA, M
+   IKEGAMI, A
+TI INDUCED DIPOLE-MOMENT OF PURPLE MEMBRANES - THEORETICAL-ANALYSIS
+SO BIOPHYSICAL CHEMISTRY
+LA English
+DT Article
+DE PURPLE MEMBRANE; INDUCED DIPOLE MOMENT; POLARIZABILITY; FLUCTUATION
+   THEORY OF COUNTERIONS; DIFFUSE DOUBLE LAYER; SCREENING EFFECT OF SALTS
+AB The induced dipole moment of a purple membrane parallel to the membrane surface was analysed based on the two-dimensional fluctuation theory of counterions.  The observed polarizability previously measured by electric dichroism and its dependence on the membrane size were derived from theory for the case where the interaction between counterions was screened.  The screening effect of salts on the induced dipole moment was estimated from the theory on diffuse double layers.
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+   KEIO UNIV,DEPT PHYS,KOHOKU KU,YOKOHAMA,KANAGAWA 223,JAPAN.
+CR KIMURA Y, 1984, BIOPHYS J, V45, P615
+   OOSAWA F, 1970, BIOPOLYMERS, V9, P677, DOI 10.1002/bip.1970.360090606
+   OTOMO J, 1986, BIOPHYS J, V50, P205
+   VERWEY EJW, 1948, THEORY STABILITY LYO, P41
+NR 4
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0301-4622
+J9 BIOPHYS CHEM
+JI Biophys. Chem.
+PD MAY
+PY 1991
+VL 40
+IS 2
+BP 155
+EP 159
+DI 10.1016/0301-4622(91)87004-O
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Biophysics; Chemistry
+GA FN877
+UT WOS:A1991FN87700004
+ER
+
+PT J
+AU ITO, O
+   ASAI, T
+   OGAWA, T
+   HASEGAWA, M
+   IKEGAMI, A
+   ENDOH, Y
+   ARAYA, T
+   ATOH, K
+   KOBAYASHI, T
+AF ITO, O
+   ASAI, T
+   OGAWA, T
+   HASEGAWA, M
+   IKEGAMI, A
+   ENDOH, Y
+   ARAYA, T
+   ATOH, K
+   KOBAYASHI, T
+TI EFFECT OF CONDUCTION PARTICLE-SIZE ON LAB6 THICK-FILM RESISTOR
+SO THIN SOLID FILMS
+LA English
+DT Article
+ID ELECTRICAL-PROPERTIES; CERMET RESISTORS
+AB In order to obtain guidelines to develop a thick film resistor (TFR) fireable in an N2 atmosphere and covering a wide practical range of sheet resistivities, i.e. 10-10(6) OMEGA/open-square-box, the microstructures of TFRs were observed, the sintering behaviour of the conduction particles and glass was analysed and the particle size effect on the formation of the conduction path was simulated.
+   Through these investigations, conductive material properties which influence the characteristics of the TFR have been found.  (1) As conduction particles fireable in N2, LaB6 particles have suitable properties such as poor sinterability and good wettability with glass.  (2) Particle size also has a large effect on the characteristics of the TFR, and it is necessary to use LaB6 ultrafine particles (UFPs) as conduction particles to cover a wide range of sheet resistivities.
+   Using UFPs with specific surface areas of 8.9 and 83.0 m2 g-1, we found the possibility of developing TFRs fireable in N2 with resistivities of 10-10(6) OMEGA/open-square-box in the LaB6-glass system.
+C1 HITACHI LTD,MECH ENGN RES LAB,TSUCHIURA,IBARAKI 300,JAPAN.
+   HITACHI LTD,TOKAI WORKS,KATSUTA,IBARAKI 312,JAPAN.
+RP ITO, O (reprint author), HITACHI LTD,HITACHI RES LAB,1-1 SAIWAICHO 3 CHOME,HITACHI,IBARAKI 317,JAPAN.
+CR CARCIA PF, 1982, J APPL PHYS, V53, P5258
+   FISHER JC, 1961, J APPL PHYS, V32, P172, DOI 10.1063/1.1735973
+   INOKUMA T, 1984, IEEE T COMPON HYBR, V7, P166, DOI 10.1109/TCHMT.1984.1136345
+   KUSY A, 1977, THIN SOLID FILMS, V43, P243, DOI 10.1016/0040-6090(77)90285-1
+   ORGER L, 1986, POWDER TECHNOL, V46, P133
+   PALANISAMY P, 1985, J AM CERAM SOC, V68, pC215
+   PIKE GE, 1977, J APPL PHYS, V48, P5152, DOI 10.1063/1.323595
+   PIKE GE, 1974, PHYS REV B, V10, P1421, DOI 10.1103/PhysRevB.10.1421
+   PRUDENZIATI M, 1983, ELECTROCOMP SCI TECH, V10, P285
+   STRATTON R, 1962, J PHYS CHEM SOLIDS, V23, P1177, DOI 10.1016/0022-3697(62)90165-8
+NR 10
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0040-6090
+J9 THIN SOLID FILMS
+JI Thin Solid Films
+PD MAR 20
+PY 1991
+VL 198
+IS 1-2
+BP 17
+EP 27
+DI 10.1016/0040-6090(91)90320-W
+PG 11
+WC Materials Science, Multidisciplinary; Materials Science, Coatings &
+   Films; Physics, Applied; Physics, Condensed Matter
+SC Materials Science; Physics
+GA FE543
+UT WOS:A1991FE54300003
+ER
+
+PT J
+AU URABE, H
+   OTOMO, J
+   IKEGAMI, A
+AF URABE, H
+   OTOMO, J
+   IKEGAMI, A
+TI ORIENTATION OF RETINAL IN PURPLE MEMBRANE DETERMINED BY POLARIZED
+   RAMAN-SPECTROSCOPY
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,FRONTIER RES PROGRAM,WAKO,SAITAMA 35101,JAPAN.
+   INST PHYS & CHEM RES,BIOPHYS LAB,WAKO,SAITAMA 35101,JAPAN.
+CR BEHRINGER J, 1967, RAMAN SPECTROSCOPY, pCH6
+   EARNEST TN, 1986, BIOCHEMISTRY-US, V25, P7793, DOI 10.1021/bi00372a002
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   KIMURA Y, 1981, PHOTOCHEM PHOTOBIOL, V33, P435, DOI 10.1111/j.1751-1097.1981.tb05443.x
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   SMITH SO, 1985, J MEMBRANE BIOL, V85, P95, DOI 10.1007/BF01871263
+   SMITH SO, 1983, BIOCHEMISTRY-US, V22, P6141, DOI 10.1021/bi00295a016
+   VARO G, 1983, BIOPHYS J, V43, P47
+NR 8
+TC 8
+Z9 8
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD DEC
+PY 1989
+VL 56
+IS 6
+BP 1225
+EP 1228
+PG 4
+WC Biophysics
+SC Biophysics
+GA CD943
+UT WOS:A1989CD94300016
+ER
+
+PT J
+AU OGAWA, T
+   ASAI, T
+   ITOH, O
+   HASEGAWA, M
+   IKEGAMI, A
+   ATOH, K
+   KOBAYASHI, T
+AF OGAWA, T
+   ASAI, T
+   ITOH, O
+   HASEGAWA, M
+   IKEGAMI, A
+   ATOH, K
+   KOBAYASHI, T
+TI NEW THICK-FILM COPPER PASTE FOR ULTRA-FINE-LINE CIRCUITS
+SO IEEE TRANSACTIONS ON COMPONENTS HYBRIDS AND MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+C1 HITACHI LTD,TOKAI WORKS,KATSUTA,JAPAN.
+RP OGAWA, T (reprint author), HITACHI LTD,HITACHI RES LAB,HITACHI,IBARAKI 316,JAPAN.
+CR KINGERY WD, 1976, INTRO CERAMICS, P469
+   MONMA K, 1960, T JAPAN I METALS, V24, P377
+   MONMA K, 1960, T JAPAN I METALS, V24, P374
+   MONMA K, 1960, T JAPAN I METALS, V24, P544
+   OGAWA T, 1988, IEEE T COMPON HYBR, V11, P211, DOI 10.1109/33.2989
+NR 5
+TC 5
+Z9 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0148-6411
+J9 IEEE T COMPON HYBR
+PD SEP
+PY 1989
+VL 12
+IS 3
+BP 397
+EP 401
+DI 10.1109/33.35488
+PG 5
+WC Engineering, Manufacturing; Engineering, Electrical & Electronic;
+   Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA AQ999
+UT WOS:A1989AQ99900012
+ER
+
+PT J
+AU OTOMO, J
+   TOMIOKA, A
+   KINOSITA, K
+   MIYATA, H
+   TAKENAKA, Y
+   KOUYAMA, T
+   IKEGAMI, A
+AF OTOMO, J
+   TOMIOKA, A
+   KINOSITA, K
+   MIYATA, H
+   TAKENAKA, Y
+   KOUYAMA, T
+   IKEGAMI, A
+TI CHROMOPHORE OF BACTERIORHODOPSIN IS CLOSER TO THE CYTOPLASMIC SURFACE OF
+   PURPLE MEMBRANE - FLUORESCENCE ENERGY-TRANSFER ON ORIENTED MEMBRANE
+   SHEETS
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+   UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR AGARD DA, 1982, BIOPHYS J, V37, P589
+   Antonini E, 1971, FRONTIERS BIOL, V21
+   BAYLEY H, 1981, P NATL ACAD SCI-BIOL, V78, P2225, DOI 10.1073/pnas.78.4.2225
+   CHANG CH, 1985, P NATL ACAD SCI USA, V82, P396, DOI 10.1073/pnas.82.2.396
+   DENCHER NA, 1983, PHOTOCHEM PHOTOBIOL, V38, P753, DOI 10.1111/j.1751-1097.1983.tb03611.x
+   DICKERSO.RE, 1971, J BIOL CHEM, V246, P1511
+   FISHER KA, 1978, J CELL BIOL, V77, P611, DOI 10.1083/jcb.77.2.611
+   FISHER KA, 1977, J CELL BIOL, V75, pA220
+   FISHER KA, 1982, METHOD ENZYMOL, V88, P230
+   Forster T, 1965, MODERN QUANTUM CHE 3, P93
+   HAYWARD SB, 1981, J MOL BIOL, V151, P491, DOI 10.1016/0022-2836(81)90007-3
+   HENDERSON R, 1975, J MOL BIOL, V93, P123, DOI 10.1016/0022-2836(75)90123-0
+   HENDERSON R, 1975, NATURE, V257, P28, DOI 10.1038/257028a0
+   JUBB JS, 1984, EMBO J, V3, P1455
+   KHORANA HG, 1979, P NATL ACAD SCI USA, V76, P5046, DOI 10.1073/pnas.76.10.5046
+   KIMURA Y, 1984, PHOTOCHEM PHOTOBIOL, V40, P641, DOI 10.1111/j.1751-1097.1984.tb05353.x
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   KOMETANI T, 1987, BIOPHYS J, V52, P509
+   KOUYAMA T, 1983, J MOL BIOL, V165, P91, DOI 10.1016/S0022-2836(83)80244-7
+   KOUYAMA T, 1981, J MOL BIOL, V153, P337, DOI 10.1016/0022-2836(81)90282-5
+   KOUYAMA T, 1981, FEBS LETT, V124, P100, DOI 10.1016/0014-5793(81)80062-2
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   MARGOLIASH E., 1966, ADVANCE PROTEIN CHEM, V21, P113, DOI 10.1016/S0065-3233(08)60128-X
+   NABIEV IR, 1985, J BIOSCIENCE, V8, P363, DOI 10.1007/BF02703989
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OVCHINNIKOV YA, 1979, FEBS LETT, V100, P219, DOI 10.1016/0014-5793(79)80338-5
+   RENTHAL R, 1979, BIOCHIM BIOPHYS ACTA, V547, P258, DOI 10.1016/0005-2728(79)90009-4
+   SEIFF F, 1985, P NATL ACAD SCI USA, V82, P3227, DOI 10.1073/pnas.82.10.3227
+   SEIFF F, 1986, P NATL ACAD SCI USA, V83, P7746, DOI 10.1073/pnas.83.20.7746
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   STOECKENIUS W, 1982, ANNU REV BIOCHEM, V52, P587
+   STOECKENIUS W, 1985, TRENDS BIOCHEM SCI, V10, P483, DOI 10.1016/0968-0004(85)90210-5
+   STRYER L, 1978, ANNU REV BIOCHEM, V47, P819, DOI 10.1146/annurev.bi.47.070178.004131
+   TSETLIN VI, 1983, BIOORG KHIM+, V9, P1589
+NR 34
+TC 12
+Z9 12
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD JUL
+PY 1988
+VL 54
+IS 1
+BP 57
+EP 64
+PG 8
+WC Biophysics
+SC Biophysics
+GA P0177
+UT WOS:A1988P017700006
+ER
+
+PT J
+AU OGAWA, T
+   FUJII, M
+   ASAI, T
+   IKEGAMI, A
+   KOBAYASHI, T
+AF OGAWA, T
+   FUJII, M
+   ASAI, T
+   IKEGAMI, A
+   KOBAYASHI, T
+TI APPLICATION OF COPPER CONDUCTOR AND RUTHENIUM CONTAINING OXIDE-GLASS
+   RESISTOR TO HIGH-FREQUENCY HYBRID ICS FOR A PORTABLE CELLULAR RADIO
+SO IEEE TRANSACTIONS ON COMPONENTS HYBRIDS AND MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+C1 HITACHI LTD,TOKAI WORKS,KATSUTA 312,JAPAN.
+RP OGAWA, T (reprint author), HITACHI LTD,HITACHI RES LAB,HITACHI 317,JAPAN.
+CR NAGUIB HM, 1979, IEEE T COMPON HYBR, V2, P196, DOI 10.1109/TCHMT.1979.1135444
+   TAYLOR BE, 1981, CERAMICS JAPAN, V16, P260
+   Taylor B.E., 1980, Proceedings of the 30th Electronic Components Conference
+NR 3
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0148-6411
+J9 IEEE T COMPON HYBR
+PD JUN
+PY 1988
+VL 11
+IS 2
+BP 211
+EP 217
+DI 10.1109/TCHMT.1988.1134903
+PG 7
+WC Engineering, Manufacturing; Engineering, Electrical & Electronic;
+   Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA N2725
+UT WOS:A1988N272500006
+ER
+
+PT J
+AU FURUNO, T
+   TAKIMOTO, K
+   KOUYAMA, T
+   IKEGAMI, A
+   SASABE, H
+AF FURUNO, T
+   TAKIMOTO, K
+   KOUYAMA, T
+   IKEGAMI, A
+   SASABE, H
+TI PHOTOVOLTAIC PROPERTIES OF PURPLE MEMBRANE LANGMUIR-BLODGETT FILMS
+SO THIN SOLID FILMS
+LA English
+DT Article
+C1 CANON INC,CANON RES CTR,ATSUGI,KANAGAWA 24301,JAPAN.
+RP FURUNO, T (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 35101,JAPAN.
+CR DENCHER NA, 1983, PHOTOCHEM PHOTOBIOL, V38, P753, DOI 10.1111/j.1751-1097.1983.tb03611.x
+   FLANAGAN MT, 1983, THIN SOLID FILMS, V99, P133, DOI 10.1016/0040-6090(83)90371-1
+   HWANG SB, 1977, J MEMBRANE BIOL, V36, P115, DOI 10.1007/BF01868147
+   HWANG SB, 1978, BIOCHIM BIOPHYS ACTA, V509, P300, DOI 10.1016/0005-2736(78)90049-4
+   KESZTHELYI L, 1982, ACTA PHYS HUNG, V53, P143
+   KORENSTEIN R, 1977, NATURE, V270, P184, DOI 10.1038/270184a0
+   KOUYAMA T, 1985, BIOPHYS J, V48, P201
+   LOZIER RH, 1975, BIOPHYS J, V15, P955
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   SCHILDKRAUT J, 1985, THIN SOLID FILMS, V134, P13, DOI 10.1016/0040-6090(85)90112-9
+   STOECKENIUS W, 1982, ANNU REV BIOCHEM, V52, P587
+   VARO G, 1981, ACTA BIOL ACAD SCI H, V32, P301
+   ZACCAI G, 1987, J MOL BIOL, V194, P569, DOI 10.1016/0022-2836(87)90683-8
+NR 13
+TC 65
+Z9 65
+PU ELSEVIER SCIENCE SA LAUSANNE
+PI LAUSANNE 1
+PA PO BOX 564, 1001 LAUSANNE 1, SWITZERLAND
+SN 0040-6090
+J9 THIN SOLID FILMS
+JI Thin Solid Films
+PD JUN
+PY 1988
+VL 160
+IS 1-2
+BP 145
+EP 151
+DI 10.1016/0040-6090(88)90057-0
+PG 7
+WC Materials Science, Multidisciplinary; Materials Science, Coatings &
+   Films; Physics, Applied; Physics, Condensed Matter
+SC Materials Science; Physics
+GA P3972
+UT WOS:A1988P397200017
+ER
+
+PT J
+AU SAITO, T
+   FUKUDA, T
+   TAJIMA, S
+   SUKAMOTO, T
+   YAMASHITA, A
+   KANAZAWA, T
+   MORIMOTO, Y
+   SHIMOHARA, K
+   NISHIMURA, N
+   YOKOTA, K
+   IKEGAMI, A
+   HARA, H
+   ITO, K
+AF SAITO, T
+   FUKUDA, T
+   TAJIMA, S
+   SUKAMOTO, T
+   YAMASHITA, A
+   KANAZAWA, T
+   MORIMOTO, Y
+   SHIMOHARA, K
+   NISHIMURA, N
+   YOKOTA, K
+   IKEGAMI, A
+   HARA, H
+   ITO, K
+TI GENERAL PHARMACOLOGY OF
+   1-(2-ETHOXYETHYL)-2-(4-METHYL-1-HOMOPIPERAZINYL)BENZIMIDAZOLE DIFUMARATE
+   .2. EFFECTS ON THE CIRCULATION AND THE OTHER SYSTEMS
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+RP SAITO, T (reprint author), KANEBO LTD,PHARMACEUT RES CTR,5-90 TOMOBUCHI CHO 1 CHOME,MIYAKOJIMA KU,OSAKA 534,JAPAN.
+CR BORN GVR, 1962, NATURE, V194, P927, DOI 10.1038/194927b0
+   FUKUDA T, 1984, ARZNEIMITTEL-FORSCH, V34-2, P805
+   FUKUDA T, 1984, ARZNEIMITTEL-FORSCH, V34-2, P801
+   FUKUDA T, 1984, ARZNEIMITTEL-FORSCH, V34-2, P811
+   SAITO T, 1988, ARZNEIMITTEL-FORSCH, V38-1, P66
+   SHAY H, 1945, GASTROENTEROLOGY, V5, P43
+   YELLIN TO, 1979, LIFE SCI, V25, P2001, DOI 10.1016/0024-3205(79)90604-0
+NR 7
+TC 9
+Z9 9
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PD FEB
+PY 1988
+VL 38-1
+IS 2
+BP 267
+EP 272
+PG 6
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA M1568
+UT WOS:A1988M156800013
+ER
+
+PT J
+AU KOMETANI, T
+   KINOSITA, K
+   FURUNO, T
+   KOUYAMA, T
+   IKEGAMI, A
+AF KOMETANI, T
+   KINOSITA, K
+   FURUNO, T
+   KOUYAMA, T
+   IKEGAMI, A
+TI TRANSMEMBRANE LOCATION OF RETINAL IN PURPLE MEMBRANE - FLUORESCENCE
+   ENERGY-TRANSFER IN MAXIMALLY PACKED DONOR-ACCEPTOR SYSTEMS
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+RP KOMETANI, T (reprint author), INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR AGARD DA, 1982, BIOPHYS J, V37, P589
+   BAYLEY H, 1981, P NATL ACAD SCI-BIOL, V78, P2225, DOI 10.1073/pnas.78.4.2225
+   BLAUROCK AE, 1971, NATURE-NEW BIOL, V233, P152
+   BRAIMAN M, 1982, P NATL ACAD SCI-BIOL, V79, P403, DOI 10.1073/pnas.79.2.403
+   DENCHER NA, 1983, PHOTOCHEM PHOTOBIOL, V38, P753, DOI 10.1111/j.1751-1097.1983.tb03611.x
+   Forster T, 1965, MODERN QUANTUM CHE 3, P93
+   FURUNO T, 1983, J MOL BIOL, V170, P137, DOI 10.1016/S0022-2836(83)80230-7
+   HARRIGAN RW, 1973, CHEM PHYS LETT, V21, P487, DOI 10.1016/0009-2614(73)80290-8
+   HAYWARD SB, 1981, J MOL BIOL, V151, P491, DOI 10.1016/0022-2836(81)90007-3
+   HENDERSON R, 1975, J MOL BIOL, V93, P123, DOI 10.1016/0022-2836(75)90123-0
+   HENDERSON R, 1975, NATURE, V257, P28, DOI 10.1038/257028a0
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   HSIEH CL, 1983, PHOTOCHEM PHOTOBIOL, V38, P83, DOI 10.1111/j.1751-1097.1983.tb08370.x
+   HUANG KS, 1982, J BIOL CHEM, V257, P13616
+   JUBB JS, 1984, EMBO J, V3, P1455
+   KATRE NV, 1981, P NATL ACAD SCI-BIOL, V78, P4068, DOI 10.1073/pnas.78.7.4068
+   KHORANA HG, 1979, P NATL ACAD SCI USA, V76, P5046, DOI 10.1073/pnas.76.10.5046
+   KING GI, 1979, J MOL BIOL, V130, P395, DOI 10.1016/0022-2836(79)90430-3
+   KINOSITA K, 1987, J CHEM PHYS, V86, P3273, DOI 10.1063/1.451986
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   KOUYAMA T, 1983, J MOL BIOL, V165, P91, DOI 10.1016/S0022-2836(83)80244-7
+   KOUYAMA T, 1981, J MOL BIOL, V153, P337, DOI 10.1016/0022-2836(81)90282-5
+   KOUYAMA T, 1981, FEBS LETT, V124, P100, DOI 10.1016/0014-5793(81)80062-2
+   Kuhn H., 1972, PHYSICAL TECHNIQU 3B, V1, P577
+   KURIMURA Y, 1982, J PHYS CHEM-US, V86, P2432, DOI 10.1021/j100210a037
+   LEMKE HD, 1981, FEBS LETT, V128, P255, DOI 10.1016/0014-5793(81)80093-2
+   LEWIS A, 1974, P NATL ACAD SCI USA, V71, P4462, DOI 10.1073/pnas.71.11.4462
+   MEARES CF, 1981, J AM CHEM SOC, V103, P1607, DOI 10.1021/ja00396a073
+   MULLEN E, 1981, FEBS LETT, V130, P187, DOI 10.1016/0014-5793(81)81116-7
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OVCHINNIKOV YA, 1979, FEBS LETT, V100, P219, DOI 10.1016/0014-5793(79)80338-5
+   PETERS J, 1976, FEBS LETT, V61, P128, DOI 10.1016/0014-5793(76)81019-8
+   PETTEI MJ, 1977, BIOCHEMISTRY-US, V16, P1955, DOI 10.1021/bi00628a031
+   RILLEMA DP, 1979, J CHEM SOC CHEM COMM, P849, DOI 10.1039/c39790000849
+   SCHRECKENBACH T, 1977, EUR J BIOCHEM, V76, P499, DOI 10.1111/j.1432-1033.1977.tb11620.x
+   SEIFF F, 1985, P NATL ACAD SCI USA, V82, P3227, DOI 10.1073/pnas.82.10.3227
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   STOECKENIUS W, 1982, ANNU REV BIOCHEM, V51, P587, DOI 10.1146/annurev.bi.51.070182.003103
+   STOECKENIUS W, 1985, TRENDS BIOCHEM SCI, V10, P483, DOI 10.1016/0968-0004(85)90210-5
+   STRYER L, 1978, ANNU REV BIOCHEM, V47, P819, DOI 10.1146/annurev.bi.47.070178.004131
+   TERNER J, 1979, P NATL ACAD SCI USA, V76, P3046, DOI 10.1073/pnas.76.7.3046
+   THOMAS DD, 1978, P NATL ACAD SCI USA, V75, P5746, DOI 10.1073/pnas.75.12.5746
+   TSETLIN VI, 1983, BIOORG KHIM+, V9, P1589
+   TSUDA M, 1980, NATURE, V287, P351, DOI 10.1038/287351a0
+   UNWIN PNT, 1975, J MOL BIOL, V94, P425, DOI 10.1016/0022-2836(75)90212-0
+   WEAKLIEM HA, 1959, J AM CHEM SOC, V81, P549, DOI 10.1021/ja01512a011
+   WEBER G, 1957, T FARADAY SOC, V53, P646, DOI 10.1039/tf9575300646
+   ZACCAI G, 1979, J MOL BIOL, V132, P181, DOI 10.1016/0022-2836(79)90390-5
+NR 48
+TC 9
+Z9 9
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD OCT
+PY 1987
+VL 52
+IS 4
+BP 509
+EP 517
+PG 9
+WC Biophysics
+SC Biophysics
+GA K4718
+UT WOS:A1987K471800001
+ER
+
+PT J
+AU URABE, H
+   SUGAWARA, Y
+   TSUKAKOSHI, M
+   IKEGAMI, A
+   IWASAKI, H
+   KASUYA, T
+AF URABE, H
+   SUGAWARA, Y
+   TSUKAKOSHI, M
+   IKEGAMI, A
+   IWASAKI, H
+   KASUYA, T
+TI RAMAN-SPECTROSCOPIC STUDY ON LOW-FREQUENCY COLLECTIVE MODES IN
+   SELF-ASSOCIATES OF GUANOSINE MONOPHOSPHATES
+SO BIOPOLYMERS
+LA English
+DT Article
+RP URABE, H (reprint author), RIKEN INST PHYS & CHEM RES,WAKO,SAITAMA 35101,JAPAN.
+CR CHANTOT JF, 1972, ARCH BIOCHEM BIOPHYS, V153, P347, DOI 10.1016/0003-9861(72)90455-9
+   DEMARCO C, 1985, BIOPOLYMERS, V24, P2035, DOI 10.1002/bip.360241103
+   DETELLIER C, 1980, J AM CHEM SOC, V102, P1135, DOI 10.1021/ja00523a033
+   GELLERT M, 1962, P NATL ACAD SCI USA, V48, P2013, DOI 10.1073/pnas.48.12.2013
+   NIELSEN OF, 1982, J AM CHEM SOC, V104, P1991, DOI 10.1021/ja00371a032
+   NISHIMURA Y, 1986, ADV SPECTROSCOPY BIO, V13, pCH10
+   PINNAVAIA TJ, 1978, J AM CHEM SOC, V100, P3625, DOI 10.1021/ja00479a070
+   SASISEKHARAN V, 1975, J MOL BIOL, V92, P171, DOI 10.1016/0022-2836(75)90221-1
+   TOMINAGA Y, 1985, J CHEM PHYS, V83, P5972, DOI 10.1063/1.449629
+   URABE H, 1985, J CHEM PHYS, V82, P531, DOI 10.1063/1.448775
+   URABE H, 1982, BIOPOLYMERS, V21, P2447
+   URABE H, 1983, J CHEM PHYS, V78, P5937, DOI 10.1063/1.444600
+   ZIMMERMAN SB, 1976, J MOL BIOL, V106, P663, DOI 10.1016/0022-2836(76)90257-6
+   ZIMMERMAN SB, 1975, J MOL BIOL, V92, P181, DOI 10.1016/0022-2836(75)90222-3
+NR 14
+TC 16
+Z9 16
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0006-3525
+J9 BIOPOLYMERS
+JI Biopolymers
+PD JUN
+PY 1987
+VL 26
+IS 6
+BP 963
+EP 971
+DI 10.1002/bip.360260614
+PG 9
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA H6075
+UT WOS:A1987H607500013
+ER
+
+PT J
+AU KANEYASU, M
+   IKEGAMI, A
+   ARIMA, H
+   IWANAGA, S
+AF KANEYASU, M
+   IKEGAMI, A
+   ARIMA, H
+   IWANAGA, S
+TI SMELL IDENTIFICATION USING A THICK-FILM HYBRID GAS SENSOR
+SO IEEE TRANSACTIONS ON COMPONENTS HYBRIDS AND MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+C1 HITACHI LTD,HITACHI PROD ENGN RES LAB,CTR RELIABIL,TOTSUKA KU,YOKOHAMA,KANAGAWA 244,JAPAN.
+   HITACHI LTD,HITACHI RES LAB,DEPT 6,HITACHI,IBARAKI 317,JAPAN.
+RP KANEYASU, M (reprint author), HITACHI LTD,HITACHI RES LAB,DEPT 9,4026 KUJICHO,HITACHI,IBARAKI 31912,JAPAN.
+CR Ikegami A., 1985, TRANSDUCERS '85. 1985 International Conference on Solid-State  Sensors and Actuators. Digest of Technical Papers (Cat. No.85CH2127-9)
+   IKEGAMI A, 1982, P EUR HYBR MICR C, P211
+   IKEGAMI A, 1984, P SICE JAPAN, P673
+   KANEYASU M, Patent No. 4638443
+   KANEYASU M, 1983, P SICE JAPAN, P271
+   MOULTON DG, 1963, OLFACTION TASTE, P71
+   TAKAGI S, 1974, KYUKAKU NO HANASHI
+NR 7
+TC 25
+Z9 25
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0148-6411
+J9 IEEE T COMPON HYBR
+PD JUN
+PY 1987
+VL 10
+IS 2
+BP 267
+EP 273
+DI 10.1109/TCHMT.1987.1134730
+PG 7
+WC Engineering, Manufacturing; Engineering, Electrical & Electronic;
+   Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA J7220
+UT WOS:A1987J722000020
+ER
+
+PT J
+AU ASHIKAWA, I
+   KINOSITA, K
+   IKEGAMI, A
+   TOBITA, T
+AF ASHIKAWA, I
+   KINOSITA, K
+   IKEGAMI, A
+   TOBITA, T
+TI CHANGES OF THE DNA PACKAGING MODE DURING BOAR SPERM MATURATION
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+   CHIBA UNIV,FAC SCI,DEPT CHEM,CHIBA,JAPAN.
+CR ASHIKAWA I, 1983, BIOCHEMISTRY-US, V22, P6018, DOI 10.1021/bi00294a050
+   ASHIKAWA I, 1984, J BIOL CHEM, V259, P8338
+   ASHIKAWA I, 1983, J BIOCHEM-TOKYO, V93, P665
+   ASHIKAWA I, 1985, BIOCHEMISTRY-US, V24, P1291, DOI 10.1021/bi00327a004
+   Bellve A.R., 1983, P55
+   GENEST D, 1982, BIOCHIMIE, V64, P419, DOI 10.1016/S0300-9084(82)80580-4
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   LOIR M, 1978, EXP CELL RES, V115, P231, DOI 10.1016/0014-4827(78)90277-X
+   MARUSHIGE Y, 1975, J BIOL CHEM, V250, P39
+   Marushige Y, 1978, Methods Cell Biol, V17, P59, DOI 10.1016/S0091-679X(08)61134-6
+   MEISTRICH ML, 1976, EXP CELL RES, V99, P72, DOI 10.1016/0014-4827(76)90681-9
+   MEZQUITA C, 1977, BIOCHEM J, V164, P99
+   SAOWAROS W, 1979, EXPERIENTIA, V35, P191, DOI 10.1007/BF01920608
+   TOBITA T, 1984, BIOCHEM INT, V9, P161
+   WANG J, 1982, P NATL ACAD SCI-BIOL, V79, P5896, DOI 10.1073/pnas.79.19.5896
+NR 15
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PD APR 29
+PY 1987
+VL 908
+IS 3
+BP 263
+EP 267
+DI 10.1016/0167-4781(87)90106-0
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA H3192
+UT WOS:A1987H319200007
+ER
+
+PT J
+AU KINOSITA, K
+   KOUYAMA, T
+   IKEGAMI, A
+AF KINOSITA, K
+   KOUYAMA, T
+   IKEGAMI, A
+TI CRITERIA FOR THE RAPID DIFFUSION LIMIT OF FLUORESCENCE ENERGY-TRANSFER
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP KINOSITA, K (reprint author), INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR DALE RE, 1974, BIOPOLYMERS, V13, P1573, DOI 10.1002/bip.1974.360130807
+   Forster T, 1965, MODERN QUANTUM CHE 3, P93
+   KOMETANI TY, UNPUB
+   KOUYAMA T, 1983, J MOL BIOL, V165, P91, DOI 10.1016/S0022-2836(83)80244-7
+   KOUYAMA T, 1981, J MOL BIOL, V153, P337, DOI 10.1016/0022-2836(81)90282-5
+   MEARES CF, 1981, BIOCHEMISTRY-US, V20, P610, DOI 10.1021/bi00506a025
+   SAMSON AM, 1962, OPT SPECTROSC, V13, P285
+   STEINBER.IZ, 1968, J CHEM PHYS, V48, P2404, DOI 10.1063/1.1669460
+   STRYER L, 1978, ANNU REV BIOCHEM, V47, P819, DOI 10.1146/annurev.bi.47.070178.004131
+   STRYER L, 1982, ANNU REV BIOPHYS BIO, V11, P203, DOI 10.1146/annurev.bb.11.060182.001223
+   THOMAS DD, 1978, P NATL ACAD SCI USA, V75, P5746, DOI 10.1073/pnas.75.12.5746
+   THOMAS DD, 1982, J MOL BIOL, V154, P145, DOI 10.1016/0022-2836(82)90422-3
+   YEH SM, 1980, BIOCHEMISTRY-US, V19, P5057, DOI 10.1021/bi00563a019
+NR 13
+TC 5
+Z9 5
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD MAR 15
+PY 1987
+VL 86
+IS 6
+BP 3273
+EP 3282
+DI 10.1063/1.451986
+PG 10
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA G4424
+UT WOS:A1987G442400023
+ER
+
+PT J
+AU FURUNO, T
+   SASABE, H
+   IKEGAMI, A
+AF FURUNO, T
+   SASABE, H
+   IKEGAMI, A
+TI A SMALL-ANGLE X-RAY-CAMERA USING A TWO-DIMENSIONAL MULTIWIRE
+   PROPORTIONAL CHAMBER
+SO JOURNAL OF APPLIED CRYSTALLOGRAPHY
+LA English
+DT Article
+RP FURUNO, T (reprint author), INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 35101,JAPAN.
+CR ALBERI J, 1975, IEEE T NUCL SCI, VNS22, P255, DOI 10.1109/TNS.1975.4327648
+   AMEMIYA Y, 1983, NUCL INSTRUM METHODS, V208, P471, DOI 10.1016/0167-5087(83)91170-5
+   ANDRIANOVA ME, 1982, J APPL CRYSTALLOGR, V15, P626, DOI 10.1107/S0021889882012801
+   ANISIMOV YS, 1981, NUCL INSTRUM METHODS, V179, P503, DOI 10.1016/0029-554X(81)90174-9
+   BADE D, 1982, NUCL INSTRUM METHODS, V201, P193, DOI 10.1016/0167-5087(82)90026-6
+   BORKOWSK.CJ, 1972, IEEE T NUCL SCI, VNS19, P161, DOI 10.1109/TNS.1972.4326720
+   BOUCLIER R, 1970, NUCL INSTRUM METHODS, V88, P149, DOI 10.1016/0029-554X(70)90872-4
+   CHARPAK G, 1970, NUCL INSTRUM METHODS, V80, P13, DOI 10.1016/0029-554X(70)90293-4
+   CHIBA J, 1983, NUCL INSTRUM METHODS, V206, P451, DOI 10.1016/0167-5087(83)90382-4
+   CHIPMAN DR, 1969, ACTA CRYSTALL A-CRYS, VA 25, P209, DOI 10.1107/S0567739469000350
+   ERSKINE GA, 1972, NUCL INSTRUM METHODS, V105, P565, DOI 10.1016/0029-554X(72)90356-4
+   FAINBERG A, 1977, NUCL INSTRUM METHODS, V141, P277, DOI 10.1016/0029-554X(77)90776-5
+   FISCHBAC.FA, 1965, J MOL BIOL, V14, P458
+   FRANKS A, 1958, BRIT J APPL PHYS, V9, P349, DOI 10.1088/0508-3443/9/9/302
+   GATTI E, 1979, NUCL INSTRUM METHODS, V163, P83, DOI 10.1016/0029-554X(79)90035-1
+   HARRISON SC, 1968, J APPL CRYSTALLOGR, V1, P84, DOI 10.1107/S0021889868005054
+   HELLIWELL JR, 1982, NUCL INSTRUM METHODS, V201, P153, DOI 10.1016/0167-5087(82)90023-0
+   HELLIWELL JR, 1982, NUCL INSTRUM METHODS, V201, P175, DOI 10.1016/0167-5087(82)90024-2
+   HENDERSON R, 1975, J MOL BIOL, V93, P123, DOI 10.1016/0022-2836(75)90123-0
+   HENDRICKS RW, 1978, J APPL CRYSTALLOGR, V11, P15, DOI 10.1107/S0021889878012613
+   HOUGH J, 1972, NUCL INSTRUM METHODS, V103, P365, DOI 10.1016/0029-554X(72)90397-7
+   KUHN H, 1973, TECHNIQUES CHEM 3B, V1
+   PHIZACKERLEY RP, 1980, NUCL INSTRUM METHODS, V172, P393, DOI 10.1016/0029-554X(80)90670-9
+   Pilz I, 1979, Methods Enzymol, V61, P148
+   TCHOUBAR D, 1978, NUCL INSTRUM METHODS, V152, P301, DOI 10.1016/0029-554X(78)90284-7
+NR 25
+TC 5
+Z9 5
+PU MUNKSGAARD INT PUBL LTD
+PI COPENHAGEN
+PA 35 NORRE SOGADE, PO BOX 2148, DK-1016 COPENHAGEN, DENMARK
+SN 0021-8898
+J9 J APPL CRYSTALLOGR
+JI J. Appl. Crystallogr.
+PD FEB 1
+PY 1987
+VL 20
+BP 16
+EP 22
+DI 10.1107/S002188988708720X
+PN Part 1
+PG 7
+WC Crystallography
+SC Crystallography
+GA G1675
+UT WOS:A1987G167500005
+ER
+
+PT J
+AU OTOMO, J
+   OHNO, K
+   TAKEUCHI, Y
+   IKEGAMI, A
+AF OTOMO, J
+   OHNO, K
+   TAKEUCHI, Y
+   IKEGAMI, A
+TI SURFACE-CHARGE MOVEMENTS OF PURPLE MEMBRANE DURING LIGHT-DARK ADAPTATION
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 JICHI MED SCH,DEPT PHYS,MINAMIKAWACHI,TOCHIGI 32904,JAPAN.
+   JICHI MED SCH,DEPT BIOL,MINAMIKAWACHI,TOCHIGI 32904,JAPAN.
+   INST PHYS & CHEM RES,2-1 HIROSAWA,WAKO,SAITAMA 35101,JAPAN.
+CR BAGLEY K, 1982, P NATL ACAD SCI-BIOL, V79, P4972, DOI 10.1073/pnas.79.16.4972
+   BARABAS K, 1983, BIOPHYS J, V43, P5
+   BECHER B, 1976, BIOPHYS J, V16, P1183
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   KALISKY O, 1977, BIOPHYS J, V19, P185
+   KESZTHELYI L, 1980, BIOCHIM BIOPHYS ACTA, V598, P429, DOI 10.1016/0005-2736(80)90023-1
+   KIMURA Y, 1981, PHOTOCHEM PHOTOBIOL, V33, P435, DOI 10.1111/j.1751-1097.1981.tb05443.x
+   KIMURA Y, 1984, BIOPHYS J, V45, P615
+   KOUYAMA T, 1985, BIOPHYS J, V48, P201
+   OESTERHE.D, 1973, EUR J BIOCHEM, V40, P453, DOI 10.1111/j.1432-1033.1973.tb03214.x
+   OESTERHE.D, 1973, P NATL ACAD SCI USA, V70, P2853, DOI 10.1073/pnas.70.10.2853
+   OESTERHE.D, 1971, NATURE-NEW BIOL, V233, P149
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OHNO K, 1977, J BIOCHEM-TOKYO, V82, P1177
+   OHNO K, 1977, BIOCHIM BIOPHYS ACTA, V462, P575, DOI 10.1016/0005-2728(77)90102-5
+   OHNO K, 1984, BIOPHYS J, V43, P251
+   OHNO K, 1983, BIOPHYSICS, V23, pS104
+   OVCHINNIKOV YA, 1979, FEBS LETT, V100, P219, DOI 10.1016/0014-5793(79)80338-5
+   Perrin F, 1934, J PHYS-PARIS, V5, P497, DOI 10.1051/jphysrad:01934005010049700
+   RENTHAL R, 1979, BIOCHIM BIOPHYS ACTA, V547, P258, DOI 10.1016/0005-2728(79)90009-4
+   ROTHSCHILD KJ, 1981, BIOCHEM BIOPH RES CO, V103, P483, DOI 10.1016/0006-291X(81)90478-2
+   SHINAR R, 1977, BIOPHYS J, V19, P1
+   SPERLING W, 1977, BIOPHYS STRUCT MECH, V3, P79, DOI 10.1007/BF00535798
+   TODOROV G, 1982, BIOPHYS J, V40, P1
+   TSUDA M, 1980, BIOPHYS J, V30, P149
+   VARO G, 1982, ACTA BIOL HUNG, V32, P301
+NR 26
+TC 14
+Z9 14
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD AUG
+PY 1986
+VL 50
+IS 2
+BP 205
+EP 211
+PG 7
+WC Biophysics
+SC Biophysics
+GA D4826
+UT WOS:A1986D482600001
+ER
+
+PT J
+AU MARQUE, J
+   IKEGAMI, A
+   KUBOTA, K
+   TOMINAGA, Y
+   FUJIME, S
+AF MARQUE, J
+   IKEGAMI, A
+   KUBOTA, K
+   TOMINAGA, Y
+   FUJIME, S
+TI QUASI-ELASTIC LIGHT-SCATTERING STUDY ON CHANGES IN SIZES OF NATIVE WHITE
+   MEMBRANES AFTER ADDITION OF RETINAL
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 112,JAPAN.
+   INST PHYS & CHEM RES,WAKO,SAITAMA 35101,JAPAN.
+   MITSUBISHI KASEI INST LIFE SCI,MACHIDA,TOKYO 194,JAPAN.
+CR BERNE B, 1975, DYNAMIC LIGHT SCATTE, P1
+   CHU B, 1974, LASER LIGHT SCATTERI, P1
+   DENCHER NA, 1979, FEBS LETT, V108, P307, DOI 10.1016/0014-5793(79)80552-9
+   DENCHER NA, 1983, BIOCHEMISTRY-US, V22, P1323, DOI 10.1021/bi00275a002
+   DENCHER NA, 1983, PHOTOCHEM PHOTOBIOL, V38, P753, DOI 10.1111/j.1751-1097.1983.tb03611.x
+   FUJIME S, 1982, BIOPHYS J, V38, P213
+   FUJIME S, 1985, BIOPHYS CHEM, V23, P1, DOI 10.1016/0301-4622(85)80059-4
+   FUJIME S, 1985, MACROMOLECULES, V18, P191, DOI 10.1021/ma00144a015
+   HENDERSON R, 1977, ANNU REV BIOPHYS BIO, V6, P87, DOI 10.1146/annurev.bb.06.060177.000511
+   HWANG SB, 1981, PHOTOCHEM PHOTOBIOL, V33, P419, DOI 10.1111/j.1751-1097.1981.tb05441.x
+   JACKSON MB, 1978, BIOCHEMISTRY-US, V17, P911, DOI 10.1021/bi00598a026
+   JIPPO T, 1983, JPN J APPL PHYS S231, V23, P63
+   KOPPEL DE, 1972, J CHEM PHYS, V57, P4814, DOI 10.1063/1.1678153
+   KORENSTEIN R, 1982, METHOD ENZYMOL, V88, P193
+   KUBOTA K, 1984, MACROMOLECULES, V17, P2096, DOI 10.1021/ma00140a038
+   KUBOTA K, 1985, BIOPHYS CHEM, V23, P15, DOI 10.1016/0301-4622(85)80060-0
+   MAEDA T, 1984, MACROMOLECULES, V17, P2381, DOI 10.1021/ma00141a030
+   MARQUE J, 1984, BIOPHYS J, V46, P567
+   MUKOHATA Y, 1981, PHOTOCHEM PHOTOBIOL, V33, P593, DOI 10.1111/j.1751-1097.1981.tb05464.x
+   OESTERHELT D, 1982, METHOD ENZYMOL, V88, P10
+   ONISHI H, 1965, CAN J MICROBIOL, V11, P365
+   Perrin F, 1934, J PHYS-PARIS, V5, P497, DOI 10.1051/jphysrad:01934005010049700
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   STOECKENIUS W, 1982, ANNU REV BIOCHEM, V52, P587
+   SUMPER M, 1976, ANGEW CHEM INT EDIT, V15, P187, DOI 10.1002/anie.197601871
+   TRISTRAMNAGLE S, 1985, BIOPHYS J, V47, pA93
+NR 26
+TC 5
+Z9 5
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PD JUL
+PY 1986
+VL 50
+IS 1
+BP 139
+EP 144
+PG 6
+WC Biophysics
+SC Biophysics
+GA C9937
+UT WOS:A1986C993700015
+ER
+
+PT J
+AU SHIMIZU, Y
+   IKEGAMI, A
+   NOJIMA, M
+   KUSABAYASHI, S
+AF SHIMIZU, Y
+   IKEGAMI, A
+   NOJIMA, M
+   KUSABAYASHI, S
+TI MESOMORPHIC THERMAL-STABILITY OF
+   3-(4-ALKOXYBENZYLIDENEAMINO)-DIBENZOFURANS AND
+   3-(4-ALKOXY-BENZYLIDENEAMINO)-DIBENZOTHIOPHENES
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article
+RP SHIMIZU, Y (reprint author), OSAKA UNIV,FAC ENGN,DEPT APPL CHEM,2-1 YAMADAOKA,SUITA,OSAKA 565,JAPAN.
+CR AKABA R, 1980, B CHEM SOC JPN, V53, P1993, DOI 10.1246/bcsj.53.1993
+   BANERJEE A, 1973, ACTA CRYSTALLOGR B, V29, P2070, DOI 10.1107/S0567740873006126
+   BEHNAM BA, 1982, J CHEM SOC PERK T 2, P465, DOI 10.1039/p29820000465
+   BERNSTEIN J, 1981, J CHEM PHYS, V75, P2346, DOI 10.1063/1.442296
+   BRAUDE EA, 1955, J CHEM SOC, P3754, DOI 10.1039/jr9550003754
+   BROWN GM, 1954, ACTA CRYSTALLOGR, V7, P139, DOI 10.1107/S0365110X54000382
+   BROWN RK, 1948, J AM CHEM SOC, V70, P1748, DOI 10.1021/ja01185a021
+   BURGI HB, 1970, HELV CHIM ACTA, V53, P1747, DOI 10.1002/hlca.19700530724
+   BURNS DM, 1955, PROC R SOC LON SER-A, V227, P200, DOI 10.1098/rspa.1955.0004
+   BYRON DJ, 1983, J CHEM SOC PERK T 2, P197, DOI 10.1039/p29830000197
+   CANSELIER JP, 1979, J CHIM PHYS PCB, V76, P699
+   DEMUS D, 1980, MOL CRYST LIQ CRYST, V56, P311, DOI 10.1080/01406568008070143
+   DIDEBERG O, 1972, ACTA CRYSTALL B-STRU, VB 28, P1002, DOI 10.1107/S0567740872003607
+   GRAY GW, 1958, J CHEM SOC, P552, DOI 10.1039/jr9580000552
+   GRAY GW, 1955, J CHEM SOC, P4359, DOI 10.1039/jr9550004359
+   GRAY GW, 1954, J CHEM SOC, P1467, DOI 10.1039/jr9540001467
+   MILLER KJ, 1979, J AM CHEM SOC, V101, P7206, DOI 10.1021/ja00518a014
+   REICHE A, 1966, CHEM BER, V93, P88
+   SCHAFFRI.RM, 1970, J CHEM SOC A, P1561, DOI 10.1039/j19700001561
+   SHIGETA K, UNPUB
+   SKRABAL P, 1975, HELV CHIM ACTA, V58, P800, DOI 10.1002/hlca.19750580318
+   TAGAKI W, 1964, CHEM IND-LONDON, P1624
+NR 22
+TC 4
+Z9 4
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0140-6566
+J9 MOL CRYST LIQ CRYST
+PY 1986
+VL 133
+IS 1-2
+BP 111
+EP 123
+DI 10.1080/00268948608079565
+PG 13
+WC Crystallography
+SC Crystallography
+GA A3819
+UT WOS:A1986A381900009
+ER
+
+PT J
+AU KUBOTA, K
+   TOMINAGA, Y
+   FUJIME, S
+   OTOMO, J
+   IKEGAMI, A
+AF KUBOTA, K
+   TOMINAGA, Y
+   FUJIME, S
+   OTOMO, J
+   IKEGAMI, A
+TI DYNAMIC LIGHT-SCATTERING STUDY OF SUSPENSIONS OF PURPLE MEMBRANE
+SO BIOPHYSICAL CHEMISTRY
+LA English
+DT Article
+C1 MITSUBISHI KASEI INST LIFE SCI,MACHIDA,TOKYO 194,JAPAN.
+   INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+RP KUBOTA, K (reprint author), OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 112,JAPAN.
+CR ARAGON SR, 1976, J CHEM PHYS, V64, P2395
+   Berne B. J., 1975, DYNAMIC LIGHT SCATTE
+   Chen S. H., 1981, SCATTERING TECHNIQUE
+   Chu B., 1974, LASER LIGHT SCATTERI
+   EARNSHAW JC, 1983, APPLICATION LASER LI
+   FUJIME S, 1982, BIOPHYS J, V38, P213
+   FUJIME S, 1985, BIOPHYS CHEM, V23, P1, DOI 10.1016/0301-4622(85)80059-4
+   FUJIME S, 1985, MACROMOLECULES, V18, P191, DOI 10.1021/ma00144a015
+   HENDERSON R, 1977, ANNU REV BIOPHYS BIO, V6, P87, DOI 10.1146/annurev.bb.06.060177.000511
+   KIMURA Y, 1984, BIOPHYS J, V45, P615
+   KOPPEL DE, 1972, J CHEM PHYS, V57, P4814, DOI 10.1063/1.1678153
+   KUBOTA K, 1984, MACROMOLECULES, V17, P2096, DOI 10.1021/ma00140a038
+   MAEDA T, 1981, MACROMOLECULES, V14, P809, DOI 10.1021/ma50004a066
+   MAEDA T, 1984, MACROMOLECULES, V17, P1157, DOI 10.1021/ma00136a009
+   NEWMAN J, 1980, BIOPHYS J, V29, P37
+   NORISUYE T, 1976, BIOCHEMISTRY-US, V15, P5678, DOI 10.1021/bi00670a038
+   NORISUYE T, 1977, BIOCHIM BIOPHYS ACTA, V471, P436, DOI 10.1016/0005-2736(77)90048-7
+   OESTERHE.D, 1973, P NATL ACAD SCI USA, V70, P2853, DOI 10.1073/pnas.70.10.2853
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   PACKER L, 1984, BIOCHEM BIOPH RES CO, V122, P252, DOI 10.1016/0006-291X(84)90467-4
+   Perrin F, 1934, J PHYS-PARIS, V5, P497, DOI 10.1051/jphysrad:01934005010049700
+   Schulz GV, 1939, Z PHYS CHEM B-CHEM E, V43, P25
+   SCHULZDUBOIS EO, 1983, PHOTON CORRELATION T
+   ZIMM BH, 1948, J CHEM PHYS, V16, P1099, DOI 10.1063/1.1746740
+NR 24
+TC 18
+Z9 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0301-4622
+J9 BIOPHYS CHEM
+JI Biophys. Chem.
+PD NOV
+PY 1985
+VL 23
+IS 1-2
+BP 15
+EP 29
+DI 10.1016/0301-4622(85)80060-0
+PG 15
+WC Biochemistry & Molecular Biology; Biophysics; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Biophysics; Chemistry
+GA AYW82
+UT WOS:A1985AYW8200002
+ER
+
+PT J
+AU KATAOKA, R
+   ARUGA, S
+   MITAKU, S
+   KINOSITA, K
+   IKEGAMI, A
+AF KATAOKA, R
+   ARUGA, S
+   MITAKU, S
+   KINOSITA, K
+   IKEGAMI, A
+TI INTERACTION BETWEEN CA-2+ AND DIPALMITOYLPHOSPHATIDYLCHOLINE MEMBRANES
+   .2. FLUORESCENCE ANISOTROPY STUDY
+SO BIOPHYSICAL CHEMISTRY
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+RP KATAOKA, R (reprint author), TOKYO UNIV AGR & TECHNOL,FAC TECHNOL,DEPT MAT SYST ENGN,KOGANEI,TOKYO 184,JAPAN.
+CR ARUGA S, 1985, BIOPHYS CHEM, V21, P265, DOI 10.1016/0301-4622(85)80014-4
+   BLOCK MC, 1975, BIOCHIM BIOPHYS ACTA, V406, P187
+   GRADDICK WF, 1979, BIOCHEM BIOPH RES CO, V88, P907, DOI 10.1016/0006-291X(79)91494-3
+   HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   INOKO Y, 1975, BIOCHIM BIOPHYS ACTA, V413, P24, DOI 10.1016/0005-2736(75)90055-3
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   KATAOKA R, 1983, STUDIES PHYS THEOR C, V27, P433
+   KAWATO S, 1977, BIOCHEMISTRY, V16, P319
+   KINOSITA K, 1982, BIOPHYS J, V37, P461
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   MITAKU S, 1983, BIOPHYS J, V42, P137
+   OHSHIMA H, 1978, J COLLOID INTERF SCI, V63, P525, DOI 10.1016/S0021-9797(78)80012-5
+   OHSHIMA H, 1982, J COLLOID INTERF SCI, V86, P57
+   PAPAHADJ.D, 1973, BIOCHIM BIOPHYS ACTA, V311, P330, DOI 10.1016/0005-2736(73)90314-3
+NR 16
+TC 25
+Z9 25
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0301-4622
+J9 BIOPHYS CHEM
+JI Biophys. Chem.
+PY 1985
+VL 21
+IS 3-4
+BP 277
+EP 284
+DI 10.1016/0301-4622(85)80015-6
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics; Chemistry, Physical
+SC Biochemistry & Molecular Biology; Biophysics; Chemistry
+GA AFD08
+UT WOS:A1985AFD0800015
+ER
+
+PT J
+AU KOUYAMA, T
+   KINOSITA, K
+   IKEGAMI, A
+AF KOUYAMA, T
+   KINOSITA, K
+   IKEGAMI, A
+TI EXCITED-STATE DYNAMICS OF BACTERIORHODOPSIN
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 351,JAPAN.
+CR ALFANO RR, 1976, BIOPHYS J, V16, P541
+   APPLEBURY ML, 1978, BIOPHYS J, V23, P375
+   Berlman IB, 1971, HDB FLUORESCENCE SPE
+   BIRGE RR, 1981, ANNU REV BIOPHYS BIO, V10, P315, DOI 10.1146/annurev.bb.10.060181.001531
+   EASTMAN JW, 1967, PHOTOCHEM PHOTOBIOL, V6, P55, DOI 10.1111/j.1751-1097.1967.tb08790.x
+   FISCHER U, 1979, BIOPHYS J, V28, P211
+   GILLBRO T, 1983, PHOTOCHEM PHOTOBIOL, V37, P445, DOI 10.1111/j.1751-1097.1983.tb04498.x
+   GILLBRO T, 1977, FEBS LETT, V78, P57, DOI 10.1016/0014-5793(77)80272-X
+   GOVINDJEE R, 1978, BIOPHYS J, V22, P67
+   HENDERSON R, 1975, J MOL BIOL, V93, P123, DOI 10.1016/0022-2836(75)90123-0
+   HIRSCH MD, 1976, BIOPHYS J, V16, P1399
+   HUDSON BS, 1973, J CHEM PHYS, V59, P4984, DOI 10.1063/1.1680717
+   IPPEN EP, 1978, SCIENCE, V200, P1279, DOI 10.1126/science.663607
+   ISENBERG I, 1969, BIOPHYS J, V9, P1337
+   KAUFMANN KJ, 1976, BIOCHEM BIOPH RES CO, V68, P1109, DOI 10.1016/0006-291X(76)90310-7
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   KOUYAMA T, 1981, J MOL BIOL, V153, P337, DOI 10.1016/0022-2836(81)90282-5
+   KRIEBEL AN, 1979, BIOCHIM BIOPHYS ACTA, V546, P106, DOI 10.1016/0005-2728(79)90174-9
+   KRYUKOV PG, 1981, STUD BIOPHYS, V83, P101
+   LEWIS A, 1976, NATURE, V260, P675, DOI 10.1038/260675a0
+   LEWIS A, 1978, P NATL ACAD SCI USA, V75, P549, DOI 10.1073/pnas.75.2.549
+   MATHIES R, 1976, P NATL ACAD SCI USA, V73, P2169, DOI 10.1073/pnas.73.7.2169
+   MOWERY PC, 1979, BIOCHEMISTRY-US, V18, P4100, DOI 10.1021/bi00586a007
+   NAITO T, 1981, BIOCHIM BIOPHYS ACTA, V637, P457, DOI 10.1016/0005-2728(81)90051-7
+   OESTERHE.D, 1973, EUR J BIOCHEM, V40, P453, DOI 10.1111/j.1432-1033.1973.tb03214.x
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OTTOLENGHI M, 1980, ADV PHOTOCHEM, V12, P97
+   SHAPIRO SL, 1978, BIOPHYS J, V23, P383
+   SHARKOV AV, 1983, PHOTOCHEM PHOTOBIOL, V38, P108, DOI 10.1111/j.1751-1097.1983.tb08374.x
+   SPERLING W, 1977, BIOPHYS STRUCT MECH, V3, P79, DOI 10.1007/BF00535798
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   WAHL P, 1979, BIOCH FLUORESCENCE C, P1
+   WEBER G, 1957, T FARADAY SOC, V53, P646, DOI 10.1039/tf9575300646
+NR 33
+TC 26
+Z9 26
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PY 1985
+VL 47
+IS 1
+BP 43
+EP 54
+PG 12
+WC Biophysics
+SC Biophysics
+GA TZ821
+UT WOS:A1985TZ82100006
+ER
+
+PT J
+AU SAKURAI, I
+   KAWAMURA, Y
+   SAKURAI, T
+   IKEGAMI, A
+   SETO, T
+AF SAKURAI, I
+   KAWAMURA, Y
+   SAKURAI, T
+   IKEGAMI, A
+   SETO, T
+TI MORPHOLOGY AND GROWTH-BEHAVIOR OF MYELIN FIGURES OF LECITHIN
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article
+C1 TOKYO METROPOLITAN UNIV,DEPT PHYS,TOKYO 158,JAPAN.
+RP SAKURAI, I (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR KLEMAN M, 1977, PHILOS MAG, V35, P33, DOI 10.1080/14786437708235970
+   MILLER RG, 1980, NATURE, V287, P166, DOI 10.1038/287166a0
+   NAKASHIMA N, 1985, J AM CHEM SOC, V107, P509, DOI 10.1021/ja00288a043
+   RAND RP, 1981, NATURE, V293, P237, DOI 10.1038/293237a0
+   SAKURAI I, 1983, BIOCHIM BIOPHYS ACTA, V735, P189, DOI 10.1016/0005-2736(83)90275-4
+   SAKURAI I, 1984, BIOCHIM BIOPHYS ACTA, V777, P347, DOI 10.1016/0005-2736(84)90439-5
+   SAKURAI I, 1985, BIOCHIM BIOPHYS ACTA, V815, P149, DOI 10.1016/0005-2736(85)90486-9
+   SCHNEIDER MB, 1984, J PHYS-PARIS, V45, P273, DOI 10.1051/jphys:01984004502027300
+   SINGLETO.WS, 1965, J AM OIL CHEM SOC, V42, P53, DOI 10.1007/BF02558256
+   TATTRIE NH, 1968, CAN J BIOCHEM CELL B, V46, P819
+NR 10
+TC 37
+Z9 37
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0140-6566
+J9 MOL CRYST LIQ CRYST
+PY 1985
+VL 130
+IS 3-4
+BP 203
+EP 222
+DI 10.1080/00268948508079512
+PG 20
+WC Crystallography
+SC Crystallography
+GA ASP89
+UT WOS:A1985ASP8900001
+ER
+
+PT J
+AU ASHIKAWA, I
+   KINOSITA, K
+   IKEGAMI, A
+AF ASHIKAWA, I
+   KINOSITA, K
+   IKEGAMI, A
+TI DYNAMICS OF Z-FORM DNA
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 351,JAPAN.
+CR ASHIKAWA I, 1983, BIOCHEMISTRY-US, V22, P6018, DOI 10.1021/bi00294a050
+   ASHIKAWA I, 1983, J BIOCHEM-TOKYO, V93, P665
+   BARKLEY MD, 1979, J CHEM PHYS, V70, P2991, DOI 10.1063/1.437838
+   DICKERSON RE, 1982, SCIENCE, V216, P475, DOI 10.1126/science.7071593
+   JOLLY D, 1976, BIOPOLYMERS, V15, P61, DOI 10.1002/bip.1976.360150107
+   KAY ERM, 1952, J AM CHEM SOC, V74, P1724, DOI 10.1021/ja01127a034
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   LIPPS HJ, 1983, CELL, V32, P435, DOI 10.1016/0092-8674(83)90463-4
+   MILLAR DP, 1982, J CHEM PHYS, V76, P2080, DOI 10.1063/1.443182
+   MIRAU PA, 1983, NUCLEIC ACIDS RES, V11, P1931, DOI 10.1093/nar/11.6.1931
+   NORDHEIM A, 1981, NATURE, V294, P417, DOI 10.1038/294417a0
+   NORDHEIM A, 1982, CELL, V31, P309, DOI 10.1016/0092-8674(82)90124-6
+   OLMSTED J, 1977, BIOCHEMISTRY-US, V16, P3647, DOI 10.1021/bi00635a022
+   PATEL DJ, 1982, P NATL ACAD SCI-BIOL, V79, P1413, DOI 10.1073/pnas.79.5.1413
+   PECK LJ, 1982, P NATL ACAD SCI-BIOL, V79, P4560, DOI 10.1073/pnas.79.15.4560
+   POHL F, 1972, P NATL ACAD SCI USA, V69, P3805, DOI 10.1073/pnas.69.12.3805
+   RAMSTEIN J, 1980, NATURE, V288, P413, DOI 10.1038/288413a0
+   THAMANN TJ, 1981, NUCLEIC ACIDS RES, V9, P5443, DOI 10.1093/nar/9.20.5443
+   THOMAS JC, 1980, BIOPHYS CHEM, V12, P177, DOI 10.1016/0301-4622(80)80050-0
+   WANG AHJ, 1979, NATURE, V282, P680, DOI 10.1038/282680a0
+NR 20
+TC 14
+Z9 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1984
+VL 782
+IS 1
+BP 87
+EP 93
+DI 10.1016/0167-4781(84)90109-X
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA ST809
+UT WOS:A1984ST80900011
+ER
+
+PT J
+AU STUBBS, CD
+   KINOSITA, K
+   MUNKONGE, F
+   QUINN, PJ
+   IKEGAMI, A
+AF STUBBS, CD
+   KINOSITA, K
+   MUNKONGE, F
+   QUINN, PJ
+   IKEGAMI, A
+TI THE DYNAMICS OF LIPID MOTION IN SARCOPLASMIC-RETICULUM MEMBRANES
+   DETERMINED BY STEADY-STATE AND TIME-RESOLVED FLUORESCENCE MEASUREMENTS
+   ON 1,6-DIPHENYL-1,3,5-HEXATRIENE AND RELATED MOLECULES
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+   UNIV LONDON,CHELSEA COLL,DEPT BIOCHEM,LONDON W3,ENGLAND.
+RI Quinn, Peter/E-4019-2010
+CR BARTLETT GR, 1959, J BIOL CHEM, V234, P466
+   BISBY RH, 1981, FLUORESCENT PROBES, P97
+   BLIGH EG, 1959, CAN J BIOCHEM PHYS, V37, P911
+   CHEAH AM, 1981, BIOCHIM BIOPHYS ACTA, V648, P113, DOI 10.1016/0005-2736(81)90025-0
+   CHEN LA, 1977, J BIOL CHEM, V252, P2163
+   CUNDALL RB, 1979, CHEM PHYS LETT, V64, P39, DOI 10.1016/0009-2614(79)87270-X
+   ENGLE LW, 1981, BIOCHEMISTRY, V20, P7338
+   HILDENBRAND K, 1979, BIOCHIM BIOPHYS ACTA, V553, P365, DOI 10.1016/0005-2736(79)90292-X
+   KATZ AM, 1982, BIOCHIM BIOPHYS ACTA, V687, P17, DOI 10.1016/0005-2736(82)90165-1
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KINOSITA K, 1976, JPN J APPL PHYS, V15, P2433, DOI 10.1143/JJAP.15.2433
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KINOSITA K, 1981, BIOCHIM BIOPHYS ACTA, V647, P7, DOI 10.1016/0005-2736(81)90290-X
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   KLAUSNER RD, 1980, P NATL ACAD SCI-BIOL, V77, P437, DOI 10.1073/pnas.77.1.437
+   KLAUSNER RD, 1980, J BIOL CHEM, V255, P1286
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   MORGAN CG, 1982, BIOCHIM BIOPHYS ACTA, V692, P196, DOI 10.1016/0005-2736(82)90521-1
+   PRENDERGAST FG, 1981, BIOCHEMISTRY-US, V20, P7333, DOI 10.1021/bi00529a002
+   SEELIG A, 1977, BIOCHEMISTRY-US, V16, P45, DOI 10.1021/bi00620a008
+   SHINITZKY M, 1978, BIOCHIM BIOPHYS ACTA, V515, P367, DOI 10.1016/0304-4157(78)90010-2
+   SIMMONDS AC, 1982, BIOCHIM BIOPHYS ACTA, V693, P398, DOI 10.1016/0005-2736(82)90447-3
+   STUBBS CD, 1981, BIOCHEMISTRY-US, V20, P4257, DOI 10.1021/bi00518a004
+   WARREN GB, 1974, P NATL ACAD SCI USA, V71, P622, DOI 10.1073/pnas.71.3.622
+NR 26
+TC 51
+Z9 53
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1984
+VL 775
+IS 3
+BP 374
+EP 380
+DI 10.1016/0005-2736(84)90193-7
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TL512
+UT WOS:A1984TL51200013
+ER
+
+PT J
+AU OSADA, H
+   NAKANISHI, M
+   TSUBOI, M
+   KINOSITA, K
+   IKEGAMI, A
+AF OSADA, H
+   NAKANISHI, M
+   TSUBOI, M
+   KINOSITA, K
+   IKEGAMI, A
+TI ROTATIONAL-DYNAMICS OF IMMUNOGLOBULINS WITH FLUORESCENT HAPTENS ON A
+   MEMBRANE-SURFACE
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 UNIV TOKYO,FAC PHARMACEUT SCI,BUNKYO KU,TOKYO 113,JAPAN.
+   INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR BRULET P, 1976, P NATL ACAD SCI USA, V73, P2977, DOI 10.1073/pnas.73.9.2977
+   CHAN LM, 1977, J MOL BIOL, V112, P653, DOI 10.1016/S0022-2836(77)80170-8
+   ESSER AF, 1979, J BIOL CHEM, V254, P1768
+   HAFEMAN DG, 1980, BIOCHEMISTRY-US, V19, P5387, DOI 10.1021/bi00564a037
+   HAFEMAN DG, 1981, P NATL ACAD SCI-BIOL, V78, P4552, DOI 10.1073/pnas.78.7.4552
+   HANSON DC, 1981, BIOCHEMISTRY-US, V20, P6842, DOI 10.1021/bi00527a016
+   HUDSON EN, 1973, BIOCHEMISTRY-US, V12, P4154, DOI 10.1021/bi00745a019
+   KINOSHITA K, 1977, BIOPHYS J, V20, P6842
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   KINSKY SC, 1972, BIOCHIM BIOPHYS ACTA, V265, P1, DOI 10.1016/0304-4157(72)90017-2
+   KOBAYASHI M, 1982, J BIOCHEM-TOKYO, V91, P407
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   LOVEJOY C, 1977, BIOCHEMISTRY, V16, P3669
+   LUEDTKE R, 1982, BIOCHEMISTRY-US, V21, P5738, DOI 10.1021/bi00266a002
+   MCCONNELL HM, 1978, INT REV BIOCH BIOC 2, V19
+   NAKANISHI M, 1984, 9TH P TAN INT S
+   NAKANISHI M, 1983, MOL IMMUNOL, V20, P1227, DOI 10.1016/0161-5890(83)90147-5
+   PUTNAM FW, 1962, J BIOL CHEM, V237, P717
+   REIDLER J, 1982, J MOL BIOL, V158, P739, DOI 10.1016/0022-2836(82)90258-3
+   SZOKA F, 1980, ANNU REV BIOPHYS BIO, V9, P467, DOI 10.1146/annurev.bb.09.060180.002343
+   YGUERABI.J, 1970, J MOL BIOL, V51, P573, DOI 10.1016/0022-2836(70)90009-4
+NR 21
+TC 7
+Z9 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1984
+VL 773
+IS 2
+BP 321
+EP 324
+DI 10.1016/0005-2736(84)90097-X
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TB627
+UT WOS:A1984TB62700017
+ER
+
+PT J
+AU KINOSITA, K
+   IKEGAMI, A
+AF KINOSITA, K
+   IKEGAMI, A
+TI REEVALUATION OF THE WOBBLING DYNAMICS OF DIPHENYLHEXATRIENE IN
+   PHOSPHATIDYLCHOLINE AND CHOLESTEROL PHOSPHATIDYLCHOLINE MEMBRANES
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+RP KINOSITA, K (reprint author), INST PHYS & CHEM RES,INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR CHEN LA, 1977, J BIOL CHEM, V252, P2163
+   FULFORD AJC, 1980, BIOCHIM BIOPHYS ACTA, V598, P237, DOI 10.1016/0005-2736(80)90002-4
+   HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   HILDENBRAND K, 1979, BIOCHIM BIOPHYS ACTA, V553, P365, DOI 10.1016/0005-2736(79)90292-X
+   IKEGAMI A, 1982, STRUCTURE DYNAMICS B, P1
+   JAHNIG F, 1982, BIOCHEMISTRY-US, V21, P6790
+   JOHANSSON LBA, 1980, Q REV BIOPHYS, V13, P63
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KINOSITA K, 1982, BIOPHYS J, V37, P461
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KINOSITA K, 1981, BIOCHIM BIOPHYS ACTA, V647, P7, DOI 10.1016/0005-2736(81)90290-X
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   LADBROOK.BD, 1968, BIOCHIM BIOPHYS ACTA, V150, P333, DOI 10.1016/0005-2736(68)90132-6
+   LAKOWICZ JR, 1979, BIOCHEMISTRY-US, V18, P508, DOI 10.1021/bi00570a021
+   SAKANISHI A, 1979, BIOCHEMISTRY-US, V12, P2636
+   SEELIG J, 1980, Q REV BIOPHYS, V13, P19
+   STUBBS CD, 1981, BIOCHEMISTRY-US, V20, P4257, DOI 10.1021/bi00518a004
+   TRAUBLE H, 1971, CHEM PHYS LIPIDS, V7, P324, DOI 10.1016/0009-3084(71)90010-7
+   VEATCH WR, 1977, J MOL BIOL, V117, P1109, DOI 10.1016/S0022-2836(77)80017-X
+NR 20
+TC 30
+Z9 30
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1984
+VL 769
+IS 2
+BP 523
+EP 527
+DI 10.1016/0005-2736(84)90342-0
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA SE740
+UT WOS:A1984SE74000036
+ER
+
+PT J
+AU KIMURA, Y
+   FUJIWARA, M
+   IKEGAMI, A
+AF KIMURA, Y
+   FUJIWARA, M
+   IKEGAMI, A
+TI ANISOTROPIC ELECTRIC PROPERTIES OF PURPLE MEMBRANE AND THEIR CHANGE
+   DURING THE PHOTOREACTION CYCLE
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+RP KIMURA, Y (reprint author), INST PHYS & CHEM RES,2-1 HIROSAWA,WAKO,SAITAMA 351,JAPAN.
+CR Benoit H., 1951, ANN PHYS-PARIS, V6, P561
+   BOGOMOLNI RA, 1977, BIOPHYS J, V17, pA98
+   DRUCKMANN S, 1981, BIOPHYS J, V33, P263
+   ENGELMAN DM, 1980, P NATL ACAD SCI-BIOL, V77, P2023, DOI 10.1073/pnas.77.4.2023
+   GERBER GE, 1977, P NATL ACAD SCI USA, V74, P5426, DOI 10.1073/pnas.74.12.5426
+   HENDERSON R, 1977, ANNU REV BIOPHYS BIO, V6, P87, DOI 10.1146/annurev.bb.06.060177.000511
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   KESZTHELYI L, 1980, BIOCHIM BIOPHYS ACTA, V598, P429, DOI 10.1016/0005-2736(80)90023-1
+   KIMURA Y, 1981, PHOTOCHEM PHOTOBIOL, V33, P435, DOI 10.1111/j.1751-1097.1981.tb05443.x
+   KORENSTEIN R, 1978, FEBS LETT, V89, P15, DOI 10.1016/0014-5793(78)80512-2
+   KOUYAMA T, 1981, FEBS LETT, V124, P100, DOI 10.1016/0014-5793(81)80062-2
+   LOZIER RH, 1975, BIOPHYS J, V15, P955
+   OESTERHE.D, 1973, P NATL ACAD SCI USA, V70, P2853, DOI 10.1073/pnas.70.10.2853
+   OESTERHE.D, 1971, NATURE-NEW BIOL, V233, P149
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OGAWA S, 1960, J PHYS SOC JPN, V15, P658, DOI 10.1143/JPSJ.15.658
+   OVCHINNIKOV YA, 1979, FEBS LETT, V100, P219, DOI 10.1016/0014-5793(79)80338-5
+   Perrin F, 1934, J PHYS-PARIS, V5, P497, DOI 10.1051/jphysrad:01934005010049700
+   PETERSEN DC, 1975, BIOPHYS J, V15, P1181
+   Razi Naqvi K, 1973, Nat New Biol, V245, P249
+   SAIGO S, 1978, BIOL CHEM UTILIZATIO, P127
+   SHAH MJ, 1963, J PHYS CHEM-US, V67, P2215, DOI 10.1021/j100804a058
+   SHINAR R, 1977, BIOPHYS J, V19, P1
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   STOECKENIUS W, 1982, ANNU REV BIOCHEM, V52, P587
+   TSUJI K, 1981, INT J BIOL MACROMOL, V3, P231, DOI 10.1016/0141-8130(81)90033-7
+   UNWIN PNT, 1975, J MOL BIOL, V94, P425, DOI 10.1016/0022-2836(75)90212-0
+NR 27
+TC 61
+Z9 61
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PY 1984
+VL 45
+IS 3
+BP 615
+EP 625
+PG 11
+WC Biophysics
+SC Biophysics
+GA SJ053
+UT WOS:A1984SJ05300017
+ER
+
+PT J
+AU JIPPO, T
+   KATAOKA, R
+   MITAKU, S
+   IKEGAMI, A
+AF JIPPO, T
+   KATAOKA, R
+   MITAKU, S
+   IKEGAMI, A
+TI ULTRASONIC MEASUREMENT OF BACTERIORHODOPSIN IN PURPLE MEMBRANE
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+RP JIPPO, T (reprint author), TOKYO UNIV AGR & TECHNOL,FAC TECHNOL,DEPT MAT SYS ENGN,KOGANEI,TOKYO 184,JAPAN.
+CR HENDERSON R, 1975, J MOL BIOL, V93, P123, DOI 10.1016/0022-2836(75)90123-0
+   HENDERSON R, 1975, NATURE, V257, P28, DOI 10.1038/257028a0
+   KATAOKA R, 1982, NIHON REOROJI GAKKAI, V10, P97
+   MITAKU S, 1983, BIOPHYS J, V42, P137
+   MITAKU S, 1975, JPN J APPL PHYS, V14, P395, DOI 10.1143/JJAP.14.395
+   MITAKU S, 1982, BIOCHIM BIOPHYS ACTA, V688, P411, DOI 10.1016/0005-2736(82)90352-2
+   Mitaku S., 1982, Japanese Journal of Applied Physics, V21
+   MITAKU S, 1979, HYOMEN, V17, P41
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+NR 10
+TC 3
+Z9 3
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PY 1984
+VL 23
+SU 1
+BP 63
+EP 65
+PG 3
+WC Physics, Applied
+SC Physics
+GA AJZ08
+UT WOS:A1984AJZ0800015
+ER
+
+PT J
+AU KIMURA, Y
+   IKEGAMI, A
+   STOECKENIUS, W
+AF KIMURA, Y
+   IKEGAMI, A
+   STOECKENIUS, W
+TI SALT AND PH-DEPENDENT CHANGES OF THE PURPLE MEMBRANE ABSORPTION-SPECTRUM
+SO PHOTOCHEMISTRY AND PHOTOBIOLOGY
+LA English
+DT Article
+C1 UNIV CALIF SAN FRANCISCO,CARDIOVASC RES INST,SAN FRANCISCO,CA 94143.
+   UNIV CALIF SAN FRANCISCO,DEPT BIOCHEM & BIOPHYS,SAN FRANCISCO,CA 94143.
+   INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR Ames B. N., 1966, METHOD ENZYMOL, V8, P115
+   BAKKERGRUNWALD T, 1981, J MEMBRANE BIOL, V60, P45, DOI 10.1007/BF01870831
+   BLAUROCK AE, 1971, NATURE-NEW BIOL, V233, P152
+   CASADIO R, 1980, BIOCHEMISTRY-US, V19, P3374, DOI 10.1021/bi00555a043
+   CHANG CH, 1984, BIOPHYS J, V45, pA210
+   EDGERTON ME, 1980, BIOCHEM J, V189, P413
+   EDGERTON ME, 1978, FEBS LETT, V95, P35, DOI 10.1016/0014-5793(78)80046-5
+   FISCHER U, 1979, BIOPHYS J, V28, P211
+   GERBER GE, 1977, P NATL ACAD SCI USA, V74, P5426, DOI 10.1073/pnas.74.12.5426
+   HENDERSON R, 1977, ANNU REV BIOPHYS BIO, V6, P87, DOI 10.1146/annurev.bb.06.060177.000511
+   KATRE NV, 1981, P NATL ACAD SCI-BIOL, V78, P4068, DOI 10.1073/pnas.78.7.4068
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LOZIER RH, 1975, BIOPHYS J, V15, P955
+   MARINETTI T, 1983, P NATL ACAD SCI-BIOL, V80, P178, DOI 10.1073/pnas.80.1.178
+   McLaughlin S.G.A., 1977, CURR TOP MEMBR TRANS, V9, P71, DOI 10.1016/S0070-2161(08)60677-2
+   MOORE TA, 1978, BIOCHEM J, V171, P469
+   MOWERY PC, 1979, BIOCHEMISTRY-US, V18, P4100, DOI 10.1021/bi00586a007
+   MUCCIO DD, 1979, J MOL BIOL, V135, P595, DOI 10.1016/0022-2836(79)90166-9
+   NAKANISHI K, 1980, J AM CHEM SOC, V102, P7945, DOI 10.1021/ja00547a028
+   OESTERHE.D, 1973, P NATL ACAD SCI USA, V70, P2853, DOI 10.1073/pnas.70.10.2853
+   OESTERHE.D, 1971, NATURE-NEW BIOL, V233, P149
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OVCHINNIKOV YA, 1977, FEBS LETT, V84, P1, DOI 10.1016/0014-5793(77)81046-6
+   REHOREK M, 1979, BIOCHEMISTRY-US, V18, P4977, DOI 10.1021/bi00589a027
+   RENTHAL R, 1979, BIOCHIM BIOPHYS ACTA, V547, P258, DOI 10.1016/0005-2728(79)90009-4
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   STOECKENIUS W, 1982, ANNU REV BIOCHEM, V52, P587
+   TSUJI K, 1979, FEBS LETT, V98, P368, DOI 10.1016/0014-5793(79)80219-7
+   UNWIN PNT, 1975, J MOL BIOL, V94, P425, DOI 10.1016/0022-2836(75)90212-0
+   WEBER HJ, 1981, PHOTOCHEM PHOTOBIOL, V33, P601, DOI 10.1111/j.1751-1097.1981.tb05465.x
+NR 30
+TC 211
+Z9 211
+PU AMER SOC PHOTOBIOLOGY
+PI AUGUSTA
+PA BIOTECH PARK, 1021 15TH ST, SUITE 9, AUGUSTA, GA 30901-3158
+SN 0031-8655
+J9 PHOTOCHEM PHOTOBIOL
+JI Photochem. Photobiol.
+PY 1984
+VL 40
+IS 5
+BP 641
+EP 646
+DI 10.1111/j.1751-1097.1984.tb05353.x
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TQ339
+UT WOS:A1984TQ33900012
+ER
+
+PT J
+AU KOBAYASHI, T
+   OHTANI, H
+   IWAI, J
+   IKEGAMI, A
+   UCHIKI, H
+AF KOBAYASHI, T
+   OHTANI, H
+   IWAI, J
+   IKEGAMI, A
+   UCHIKI, H
+TI EFFECT OF PH ON THE PHOTOREACTION CYCLES OF BACTERIORHODOPSIN
+SO FEBS LETTERS
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+RP KOBAYASHI, T (reprint author), UNIV TOKYO,DEPT PHYS,TOKYO 113,JAPAN.
+CR APPLEBURY ML, 1978, BIOPHYS J, V23, P375
+   ELSAYED MA, 1982, METHOD ENZYMOL, V88, P617
+   IWASA T, 1980, BIOPHYS STRUCT MECH, V6, P253, DOI 10.1007/BF00538227
+   KALISKY O, 1977, BIOPHYS J, V19, P185
+   KAUFMANN KJ, 1976, BIOCHEM BIOPH RES CO, V68, P1109, DOI 10.1016/0006-291X(76)90310-7
+   KOBAYASHI T, 1983, UNPUB
+   LEWIS A, 1982, METHOD ENZYMOL, V88, P561
+   LEWIS A, 1974, P NATL ACAD SCI USA, V71, P4462, DOI 10.1073/pnas.71.11.4462
+   LOZIER RH, 1975, BIOPHYS J, V15, P955
+   MATHIES R, 1982, METHOD ENZYMOL, V88, P633
+   MOWERY PC, 1979, BIOCHEMISTRY-US, V18, P4100, DOI 10.1021/bi00586a007
+   OESTERHE.D, 1971, NATURE-NEW BIOL, V233, P149
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+NR 13
+TC 57
+Z9 57
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1983
+VL 162
+IS 1
+BP 197
+EP 200
+DI 10.1016/0014-5793(83)81078-3
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA RJ843
+UT WOS:A1983RJ84300042
+ER
+
+PT J
+AU MIURA, M
+   IKEGAMI, A
+   NOJIMA, M
+   KUSABAYASHI, S
+   MCCULLOUGH, KJ
+   NAGASE, S
+AF MIURA, M
+   IKEGAMI, A
+   NOJIMA, M
+   KUSABAYASHI, S
+   MCCULLOUGH, KJ
+   NAGASE, S
+TI SYNTHESIS, X-RAY-ANALYSIS, AND ACIDOLYSIS OF EXO-1-METHYLINDENE AND
+   ENDO-1-METHYLINDENE OZONIDES
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+C1 HERIOT WATT UNIV,DEPT CHEM,EDINBURGH EH14 4AS,MIDLOTHIAN,SCOTLAND.
+   OSAKA UNIV,FAC ENGN,DEPT APPL CHEM,SUITA,OSAKA 565,JAPAN.
+   YOKOHAMA NATL UNIV,FAC EDUC,DEPT CHEM,YOKOHAMA,KANAGAWA 240,JAPAN.
+RI Miura, Masahiro/C-1205-2012
+CR ASHBY EC, 1966, J AM CHEM SOC, V88, P729, DOI 10.1021/ja00956a021
+   Bailey P. S., 1982, OZONATION ORGANIC CH, V2
+   Bailey P. S., 1978, OZONATION ORGANIC CH, V1
+   BARTLETT PD, 1977, J AM CHEM SOC, V99, P1890, DOI 10.1021/ja00448a033
+   BERNATEK E, 1950, ACTA CHEM SCAND, V74, P3861
+   CREMER D, 1975, J AM CHEM SOC, V97, P1354, DOI 10.1021/ja00839a011
+   CREMER D, 1979, J CHEM PHYS, V70, P1898, DOI 10.1063/1.437669
+   Eliel E. L., 1961, REC CHEM PROGR, V22, P129
+   ELIEL EL, 1970, J AM CHEM SOC, V92, P3045, DOI 10.1021/ja00713a021
+   GRAND A, 1978, ACTA CRYSTALLOGR B, V34, P1524, DOI 10.1107/S0567740878006044
+   GROTH P, 1969, ACTA CHEM SCAND, V23, P1311, DOI 10.3891/acta.chem.scand.23-1311
+   HARDING LB, 1978, J AM CHEM SOC, V100, P7180, DOI 10.1021/ja00491a010
+   HITCHCOCK PB, 1979, J CHEM SOC PERK T 2, P126, DOI 10.1039/p29790000126
+   JEFFORD CW, 1965, J AM CHEM SOC, V87, P2183, DOI 10.1021/ja01088a016
+   KARBAN J, 1978, J CHEM SOC CHEM COMM, P729, DOI 10.1039/c39780000729
+   LANGS DA, 1978, J CRYST MOL STRUCT, V5, P239
+   LANSBURY PT, 1967, J ORG CHEM, V32, P1748, DOI 10.1021/jo01281a011
+   MAIN P, 1976, MULTAN 76 SYSTEM COM
+   MAZUR S, 1977, J MOL SPECTROSC, V65, P84
+   MCCONNELL JF, 1973, CRYST STRUCT COMMUN, V2, P619
+   MCCULLOUGH KJ, 1981, J CHEM RES M, P4357
+   MCCULLOUGH KJ, 1981, J CHEM RES-S, P369
+   MIURA M, 1979, J CHEM SOC CHEM COMM, P467, DOI 10.1039/c39790000467
+   MIURA M, 1980, J CHEM SOC PERK T 1, P2909, DOI 10.1039/p19800002909
+   MIURA M, 1980, J CHEM SOC CHEM COMM, P1279, DOI 10.1039/c39800001279
+   MIURA M, 1982, J CHEM SOC CHEM COMM, P397, DOI 10.1039/c39820000397
+   MIURA M, 1980, J CHEM SOC PERK T 1, P1950, DOI 10.1039/p19800001950
+   MIURA M, 1980, J AM CHEM SOC, V102, P288, DOI 10.1021/ja00521a045
+   MIURA M, 1981, J AM CHEM SOC, V103, P1789, DOI 10.1021/ja00397a034
+   MOTHERWELL S, PLUTO PROGRAM PLOTTI
+   MULLICA DF, 1979, J CHEM SOC PERK T 2, P1703, DOI 10.1039/p29790001703
+   OLIVER JD, 1979, ACTA CRYSTALLOGR B, V35, P2276
+   PERST H, 1976, CARBONIUM IONS, P1961
+   SHELDRICK G, 1976, SHELX SYSTEM PROGRAM
+   SWERN D, 1970, ORGANIC PEROXIDE, V1
+   WITKOP B, 1952, J AM CHEM SOC, V74, P3861, DOI 10.1021/ja01135a042
+   YUREV YN, 1975, ZH ORG KHIM, V11, P8
+NR 37
+TC 24
+Z9 24
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PY 1983
+VL 105
+IS 8
+BP 2414
+EP 2426
+DI 10.1021/ja00346a051
+PG 13
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA QL865
+UT WOS:A1983QL86500052
+ER
+
+PT J
+AU KINOSITA, K
+   IKEGAMI, A
+   KAWATO, S
+AF KINOSITA, K
+   IKEGAMI, A
+   KAWATO, S
+TI ON THE WOBBLING-IN-CONE ANALYSIS OF FLUORESCENCE ANISOTROPY DECAY
+SO BIOPHYSICAL JOURNAL
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+   SWISS FED INST TECHNOL,BIOCHEM LAB,CH-8092 ZURICH,SWITZERLAND.
+CR HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   JAHNIG F, 1979, J CHEM PHYS, V70, P3279
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KINOSITA K, 1981, BIOCHEMISTRY-US, V20, P4270, DOI 10.1021/bi00518a006
+   LIPARI G, 1980, BIOPHYS J, V30, P489
+   SZABO A, 1980, J CHEM PHYS, V72, P4620, DOI 10.1063/1.439704
+   UCHIDA T, 1981, BIOCHEMISTRY-US, V20, P162, DOI 10.1021/bi00504a027
+NR 9
+TC 86
+Z9 86
+PU BIOPHYSICAL SOCIETY
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998
+SN 0006-3495
+J9 BIOPHYS J
+JI Biophys. J.
+PY 1982
+VL 37
+IS 2
+BP 461
+EP 464
+PG 4
+WC Biophysics
+SC Biophysics
+GA QE470
+UT WOS:A1982QE47000007
+ER
+
+PT J
+AU KINOSITA, K
+   KAWATO, S
+   IKEGAMI, A
+   YOSHIDA, S
+   ORII, Y
+AF KINOSITA, K
+   KAWATO, S
+   IKEGAMI, A
+   YOSHIDA, S
+   ORII, Y
+TI THE EFFECT OF CYTOCHROME-OXIDASE ON LIPID CHAIN DYNAMICS - A NANOSECOND
+   FLUORESCENCE DEPOLARIZATION STUDY
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 OSAKA UNIV,FAC ENGN SCI,DEPT BIOPHYS ENGN,TOYONAKA,OSAKA 560,JAPAN.
+   KYOTO UNIV,FAC MED,DEPT PUBL HLTH,KYOTO 606,JAPAN.
+RP KINOSITA, K (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR CHAPMAN D., 1967, CHEM PHYS LIPIDS, V1, P445, DOI 10.1016/0009-3084(67)90023-0
+   CHEN LA, 1977, J BIOL CHEM, V252, P2163
+   DAHLQUIST FW, 1977, P NATL ACAD SCI USA, V74, P5435, DOI 10.1073/pnas.74.12.5435
+   DALE RE, 1977, J BIOL CHEM, V252, P7500
+   Forster T, 1965, MODERN QUANTUM CHE 3, P93
+   FULLER SD, 1979, J MOL BIOL, V134, P305, DOI 10.1016/0022-2836(79)90037-8
+   HESKETH TR, 1976, BIOCHEMISTRY-US, V15, P4145, DOI 10.1021/bi00664a002
+   HEYN MP, 1979, FEBS LETT, V108, P359, DOI 10.1016/0014-5793(79)80564-5
+   HILDENBRAND K, 1979, BIOCHIM BIOPHYS ACTA, V553, P365, DOI 10.1016/0005-2736(79)90292-X
+   JAHNIG F, 1979, P NATL ACAD SCI USA, V76, P6361, DOI 10.1073/pnas.76.12.6361
+   JOST PC, 1937, BIOCH BIOPHYS ACTA, V311, P141
+   JOST PC, 1973, P NATL ACAD SCI USA, V70, P480, DOI 10.1073/pnas.70.2.480
+   JOST PC, 1977, BIOCHEMISTRY-US, V16, P3110, DOI 10.1021/bi00633a011
+   KANG SY, 1979, BIOCHEMISTRY-US, V18, P3257, DOI 10.1021/bi00582a010
+   KAWATO S, 1980, BIOCHEMISTRY-US, V19, P1598, DOI 10.1021/bi00549a011
+   KAWATO S, 1980, J BIOL CHEM, V255, P5508
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KAWATO S, 1981, BIOCHIM BIOPHYS ACTA, V634, P85, DOI 10.1016/0005-2728(81)90129-8
+   KINOSITA K, 1976, JPN J APPL PHYS, V15, P2433, DOI 10.1143/JJAP.15.2433
+   KINOSITA K, BIOCHEMISTRY
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   KNOWLES PF, 1979, BIOCHEMISTRY-US, V18, P4480, DOI 10.1021/bi00588a005
+   LAKOWICZ JR, 1979, BIOCHEMISTRY-US, V18, P508, DOI 10.1021/bi00570a021
+   LENTZ BR, 1976, BIOCHEMISTRY-US, V15, P4521, DOI 10.1021/bi00665a029
+   OKUNUKI K, 1958, J BIOCHEM-TOKYO, V45, P847
+   OLDFIELD E, 1978, P NATL ACAD SCI USA, V75, P4657, DOI 10.1073/pnas.75.10.4657
+   ORII Y, 1965, J BIOCHEM-TOKYO, V58, P561
+   RICE DM, 1979, BIOCHEMISTRY-US, V18, P5885, DOI 10.1021/bi00593a020
+   RIGLER R, 1973, Q REV BIOPHYS, V6, P139
+   SEELIG A, 1978, H-S Z PHYSIOL CHEM, V359, P1747, DOI 10.1515/bchm2.1978.359.2.1747
+   SEELIG J, BIOCHEMISTRY
+   SENE C, 1978, FEBS LETT, V88, P181, DOI 10.1016/0014-5793(78)80169-0
+   SHINITZKY M, 1978, BIOCHIM BIOPHYS ACTA, V515, P317
+   SHINITZK.M, 1974, J BIOL CHEM, V249, P2652
+   STUBBS GW, 1976, BIOCHEMISTRY-US, V15, P2766, DOI 10.1021/bi00658a009
+   SWANSON MS, 1980, J BIOL CHEM, V255, P7494
+   VANDERKOOI G, 1974, BIOCHIM BIOPHYS ACTA, V344, P307, DOI 10.1016/0304-4157(74)90011-2
+   VEATCH WR, 1977, J MOL BIOL, V117, P1109, DOI 10.1016/S0022-2836(77)80017-X
+   WARREN GB, 1975, NATURE, V255, P684, DOI 10.1038/255684a0
+   YOSHIDA S, 1979, J BIOCHEM-TOKYO, V86, P1443
+NR 41
+TC 50
+Z9 50
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1981
+VL 647
+IS 1
+BP 7
+EP 17
+DI 10.1016/0005-2736(81)90290-X
+PG 11
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA MH510
+UT WOS:A1981MH51000002
+ER
+
+PT J
+AU KAWATO, S
+   YOSHIDA, S
+   ORII, Y
+   IKEGAMI, A
+   KINOSITA, K
+AF KAWATO, S
+   YOSHIDA, S
+   ORII, Y
+   IKEGAMI, A
+   KINOSITA, K
+TI NANOSECOND TIME-RESOLVED FLUORESCENCE INVESTIGATIONS OF
+   TEMPERATURE-INDUCED CONFORMATIONAL-CHANGES IN CYTOCHROME-OXIDASE IN
+   PHOSPHATIDYLCHOLINE VESICLES AND SOLUBILIZED SYSTEMS
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+   OSAKA UNIV,FAC ENGN SCI,DEPT BIOPHYS ENGN,TOYONAKA,OSAKA 560,JAPAN.
+   OSAKA UNIV,FAC SCI,DEPT BIOL,TOYONAKA,OSAKA 560,JAPAN.
+CR BOYER PD, 1977, ANNU REV BIOCHEM, V46, P955, DOI 10.1146/annurev.bi.46.070177.004515
+   ERECINSK.M, 1972, ARCH BIOCHEM BIOPHYS, V151, P304, DOI 10.1016/0003-9861(72)90501-2
+   HENDERSON R, 1977, J MOL BIOL, V112, P631, DOI 10.1016/S0022-2836(77)80167-8
+   HESKETH TR, 1976, BIOCHEMISTRY-US, V15, P4145, DOI 10.1021/bi00664a002
+   INESI G, 1973, J MOL BIOL, V81, P483, DOI 10.1016/0022-2836(73)90518-4
+   KANAOKA Y, 1973, BIOCHIM BIOPHYS ACTA, V317, P563, DOI 10.1016/0005-2795(73)90253-5
+   KAWATO S, 1980, BIOCHEMISTRY-US, V19, P1598, DOI 10.1021/bi00549a011
+   KAWATO S, 1980, J BIOL CHEM, V255, P5508
+   KAWATO S, 1977, BIOCHEMISTRY-US, V16, P2319, DOI 10.1021/bi00630a002
+   KAWATO S, 1978, BIOCHEMISTRY-US, V17, P5026, DOI 10.1021/bi00616a026
+   KINOSITA K, 1976, JPN J APPL PHYS, V15, P2433, DOI 10.1143/JJAP.15.2433
+   KINOSITA K, 1977, BIOPHYS J, V20, P289
+   LUDWIG B, 1979, BIOCHEMISTRY-US, V18, P1401, DOI 10.1021/bi00575a002
+   OKUNUKI K, 1958, J BIOCHEM-TOKYO, V45, P847
+   ORII Y, 1977, J BIOCHEM-TOKYO, V81, P505
+   RAISON JK, 1971, ARCH BIOCHEM BIOPHYS, V142, P83, DOI 10.1016/0003-9861(71)90261-X
+   WAHL P, 1971, EUR J BIOCHEM, V18, P332, DOI 10.1111/j.1432-1033.1971.tb01248.x
+   YAMAMOTO T, 1974, J BIOCHEM-TOKYO, V75, P1081
+   YOSHIDA S, 1979, J BIOCHEM-TOKYO, V86, P1443
+NR 19
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1981
+VL 634
+IS 1
+BP 85
+EP 92
+DI 10.1016/0005-2728(81)90129-8
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA KZ186
+UT WOS:A1981KZ18600008
+ER
+
+PT J
+AU SUGISHITA, N
+   IKEGAMI, A
+AF SUGISHITA, N
+   IKEGAMI, A
+TI PROCESSING CONSIDERATIONS OF THICK-FILM DEVICES WITH MULTILAYERED
+   RESISTORS
+SO ELECTROCOMPONENT SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+RP SUGISHITA, N (reprint author), HITACHI LTD,PROD ENGN RES LAB,YOKOHAMA,JAPAN.
+NR 0
+TC 0
+Z9 0
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0305-3091
+J9 ELECTROCOMP SCI TECH
+PY 1981
+VL 9
+IS 1
+BP 59
+EP 65
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA MY186
+UT WOS:A1981MY18600010
+ER
+
+PT J
+AU IKEGAMI, A
+   ARIMA, H
+   ABE, K
+AF IKEGAMI, A
+   ARIMA, H
+   ABE, K
+TI THICK-FILM CAPACITOR MATERIALS OF THE POWDER - GLASS BINARY-SYSTEMS AND
+   THEIR DIELECTRIC-PROPERTIES
+SO ELECTROCOMPONENT SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+RP IKEGAMI, A (reprint author), HITACHI LTD,PROD ENGN RES LAB,TOTSUKA KU,YOHOHAMA 244,JAPAN.
+NR 0
+TC 0
+Z9 0
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0305-3091
+J9 ELECTROCOMP SCI TECH
+PY 1981
+VL 9
+IS 2
+BP 147
+EP 152
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA MZ455
+UT WOS:A1981MZ45500007
+ER
+
+PT J
+AU ARIMA, H
+   IKEGAMI, A
+   TOSAKI, H
+   AI, M
+   MATSUOKA, Y
+   OKAYAMA, T
+AF ARIMA, H
+   IKEGAMI, A
+   TOSAKI, H
+   AI, M
+   MATSUOKA, Y
+   OKAYAMA, T
+TI THICK-FILM TEMPERATURE COMPENSATING CIRCUIT FOR SEMICONDUCTOR
+   STRAIN-GAUGES
+SO ELECTROCOMPONENT SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+RP ARIMA, H (reprint author), HITACHI LTD,PROD ENGN RES LAB,HITACHI,JAPAN.
+NR 0
+TC 0
+Z9 0
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0305-3091
+J9 ELECTROCOMP SCI TECH
+PY 1981
+VL 8
+IS 3-4
+BP 189
+EP 197
+PG 9
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA MY185
+UT WOS:A1981MY18500010
+ER
+
+PT J
+AU TOSAKI, H
+   IKEGAMI, A
+   OKAYAMA, T
+   MATSUOKA, Y
+AF TOSAKI, H
+   IKEGAMI, A
+   OKAYAMA, T
+   MATSUOKA, Y
+TI A THICK-FILM HYBRID IC AMPLIFIER FOR INDUSTRIAL USE
+SO ELECTROCOMPONENT SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+RP TOSAKI, H (reprint author), HITACHI LTD,PROD ENGN RES LAB,HITACHI,JAPAN.
+NR 0
+TC 0
+Z9 0
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0305-3091
+J9 ELECTROCOMP SCI TECH
+PY 1981
+VL 8
+IS 3-4
+BP 207
+EP 213
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA MY185
+UT WOS:A1981MY18500012
+ER
+
+PT J
+AU KOUYAMA, T
+   KIMURA, Y
+   KINOSITA, K
+   IKEGAMI, A
+AF KOUYAMA, T
+   KIMURA, Y
+   KINOSITA, K
+   IKEGAMI, A
+TI IMMOBILITY OF THE CHROMOPHORE IN BACTERIORHODOSIN
+SO FEBS LETTERS
+LA English
+DT Article
+C1 INST PHYS & CHEM RES,HIROSAWA 2-1,WAKO,SAITAMA 351,JAPAN.
+CR Cherry R J, 1978, Methods Enzymol, V54, P47
+   EBREY TG, 1977, J MOL BIOL, V112, P377, DOI 10.1016/S0022-2836(77)80188-5
+   Forster T, 1965, MODERN QUANTUM CHE 3, P93
+   HEYN MP, BIOCHEMISTRY
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   KIMURA Y, 1981, PHOTOCHEM PHOTOBIOL
+   KINOSITA K, UNPUBLISHED
+   KORENSTEIN R, 1978, FEBS LETT, V89, P15, DOI 10.1016/0014-5793(78)80512-2
+   LACHISH U, 1976, J CHEM PHYS, V64, P4205, DOI 10.1063/1.431991
+   LOZIER RH, 1977, FED PROC, V36, P1805
+   NAQVI R, 1973, NATURE, V245, P249
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   PETERS J, 1976, FEBS LETT, V61, P128, DOI 10.1016/0014-5793(76)81019-8
+   SCHRECKENBACH T, 1977, EUR J BIOCHEM, V76, P499, DOI 10.1111/j.1432-1033.1977.tb11620.x
+   SHERMAN WV, 1976, BIOCHIM BIOPHYS ACTA, V423, P238, DOI 10.1016/0005-2728(76)90182-1
+   SHINAR R, 1977, BIOPHYS J, V19, P1
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+   STRICKLER SJ, 1962, J CHEM PHYS, V37, P814, DOI 10.1063/1.1733166
+   Yguerabide J, 1972, Methods Enzymol, V26, P498
+NR 19
+TC 25
+Z9 25
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1981
+VL 124
+IS 1
+BP 100
+EP 104
+DI 10.1016/0014-5793(81)80062-2
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA LF601
+UT WOS:A1981LF60100022
+ER
+
+PT J
+AU KAWAMURA, Y
+   SAKURAI, I
+   IKEGAMI, A
+   IWAYANAGI, S
+AF KAWAMURA, Y
+   SAKURAI, I
+   IKEGAMI, A
+   IWAYANAGI, S
+TI MAGNETO-ORIENTATION OF PHOSPHOLIPIDS
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article
+C1 GUNMA UNIV,FAC TECHNOL,KIRYU,GUNMA 376,JAPAN.
+RP KAWAMURA, Y (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR BECKER JF, 1978, PHOTOCHEM PHOTOBIOL, V27, P51, DOI 10.1111/j.1751-1097.1978.tb07564.x
+   BOROSKE E, 1978, BIOPHYS J, V24, P863
+   BRETON J, 1973, BIOCHEM BIOPH RES CO, V54, P1403, DOI 10.1016/0006-291X(73)91142-X
+   CHABRE M, 1978, P NATL ACAD SCI USA, V75, P5471, DOI 10.1073/pnas.75.11.5471
+   CHAGNEUX R, 1972, CR ACAD SCI D NAT, V274, P317
+   CHAGNEUX R, 1977, BIOPHYS J, V18, P125
+   CHALAZON.N, 1970, CR ACAD SCI D NAT, V271, P130
+   FRANKS NP, 1976, J MOL BIOL, V100, P345, DOI 10.1016/S0022-2836(76)80067-8
+   GEACINTO.NE, 1972, BIOCHIM BIOPHYS ACTA, V267, P65, DOI 10.1016/0005-2728(72)90138-7
+   HITCHCOC.PB, 1974, P NATL ACAD SCI USA, V71, P3036, DOI 10.1073/pnas.71.8.3036
+   HONG FT, 1971, P NATL ACAD SCI USA, V68, P1283, DOI 10.1073/pnas.68.6.1283
+   HONG FT, 1977, J COLLOID INTERF SCI, V58, P471, DOI 10.1016/0021-9797(77)90158-8
+   HONG FT, 1980, BIOPHYS J, V29, P343
+   Lonsdale K, 1938, J CHEM SOC, P364, DOI 10.1039/jr9380000364
+   Lonsdale K, 1939, PROC R SOC LON SER-A, V171, P0541, DOI 10.1098/rspa.1939.0083
+   PAULING L, 1979, P NATL ACAD SCI USA, V76, P2293, DOI 10.1073/pnas.76.5.2293
+   Perrin F., 1934, J PHYS RADIUM      7, V5, P499
+   SAKURAI I, 1980, CHEM PHYS LIPIDS, V26, P41, DOI 10.1016/0009-3084(80)90009-2
+   SAKURAI I, 1980, 8TH INT LIQ CRYST C
+   SAKURAI I, 1980, P NATL ACAD SCI US, V77
+   SAKURAI I, 1977, J MOL BIOL, V117, P285, DOI 10.1016/0022-2836(77)90036-5
+   SAKURAI I, UNPUBLISHED
+   WORCESTER DL, 1976, J MOL BIOL, V100, P359, DOI 10.1016/S0022-2836(76)80068-X
+   WORCESTER DL, 1978, P NATL ACAD SCI USA, V75, P5475, DOI 10.1073/pnas.75.11.5475
+   WUNDERLICH B, 1973, MACROMOLECULAR PHYSI, V1
+NR 25
+TC 1
+Z9 1
+PU GORDON BREACH SCI PUBL LTD
+PI READING
+PA C/O STBS LTD, PO BOX 90, READING, BERKS, ENGLAND RG1 8JL
+SN 0140-6566
+J9 MOL CRYST LIQ CRYST
+PY 1981
+VL 67
+IS 1-4
+BP 733
+EP 743
+PG 11
+WC Crystallography
+SC Crystallography
+GA LZ175
+UT WOS:A1981LZ17500008
+ER
+
+PT J
+AU KIMURA, Y
+   IKEGAMI, A
+   OHNO, K
+   SAIGO, S
+   TAKEUCHI, Y
+AF KIMURA, Y
+   IKEGAMI, A
+   OHNO, K
+   SAIGO, S
+   TAKEUCHI, Y
+TI ELECTRIC DICHROISM OF PURPLE MEMBRANE SUSPENSIONS
+SO PHOTOCHEMISTRY AND PHOTOBIOLOGY
+LA English
+DT Article
+C1 JICHI MED SCH,DEPT BIOL,MINAMIKAWACHI,TOCHIGI 32904,JAPAN.
+RP KIMURA, Y (reprint author), INST PHYS & CHEM RES,BIOPHYS LAB,WAKO,SAITAMA 351,JAPAN.
+CR BOGOMOLNI RA, 1977, BIOPHYS J, V17, pA98
+   EISENBACH M, 1977, FEBS LETT, V81, P77, DOI 10.1016/0014-5793(77)80932-0
+   ENGELMAN DM, 1980, P NATL ACAD SCI-BIOL, V77, P2023, DOI 10.1073/pnas.77.4.2023
+   HENDERSON R, 1977, ANNU REV BIOPHYS BIO, V6, P87, DOI 10.1146/annurev.bb.06.060177.000511
+   HEYN MP, 1977, J MOL BIOL, V117, P607, DOI 10.1016/0022-2836(77)90060-2
+   KESZTHELYI L, 1980, BIOCHIM BIOPHYS ACTA, V598, P429, DOI 10.1016/0005-2736(80)90023-1
+   KORENSTEIN R, 1978, FEBS LETT, V89, P15, DOI 10.1016/0014-5793(78)80512-2
+   KOUYAMA Y, FEBS LETT
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OVCHINNIKOV YA, 1979, FEBS LETT, V100, P219, DOI 10.1016/0014-5793(79)80338-5
+   Perrin F, 1934, J PHYS-PARIS, V5, P497, DOI 10.1051/jphysrad:01934005010049700
+   SAIGO S, 1978, BIOL CHEM UTILIZATIO, P127
+   SHAH MJ, 1963, J PHYS CHEM-US, V67, P2215, DOI 10.1021/j100804a058
+   SHINAR R, 1977, BIOPHYS J, V19, P1
+   STOECKENIUS W, 1979, BIOCHIM BIOPHYS ACTA, V505, P215, DOI 10.1016/0304-4173(79)90006-5
+NR 15
+TC 51
+Z9 51
+PU AMER SOC PHOTOBIOLOGY
+PI AUGUSTA
+PA BIOTECH PARK, 1021 15TH ST, SUITE 9, AUGUSTA, GA 30901-3158
+SN 0031-8655
+J9 PHOTOCHEM PHOTOBIOL
+JI Photochem. Photobiol.
+PY 1981
+VL 33
+IS 4
+BP 435
+EP 439
+DI 10.1111/j.1751-1097.1981.tb05443.x
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA LK486
+UT WOS:A1981LK48600004
+ER
+
+PT J
+AU YAMAGUCHI, A
+   UNEMOTO, T
+   IKEGAMI, A
+AF YAMAGUCHI, A
+   UNEMOTO, T
+   IKEGAMI, A
+TI C-13 NUCLEAR MAGNETIC-RESONANCE STUDIES ON C-13-ENRICHED RETINALS
+   EMBEDDED IN BACTERIORHODOPSIN
+SO PHOTOCHEMISTRY AND PHOTOBIOLOGY
+LA English
+DT Article
+C1 CHIBA UNIV,INST CHEMOBIODYNAM,DEPT MEMBRANE BIOCHEM,CHIBA 280,JAPAN.
+   INST PHYS & CHEM RES,DEPT BIOPHYS,WAKO,SAITAMA 351,JAPAN.
+RP YAMAGUCHI, A (reprint author), CHIBA UNIV,INST CHEMOBIODYNAM,DEPT ENZYMOL,CHIBA 280,JAPAN.
+CR ATON B, 1977, BIOCHEMISTRY-US, V16, P2995, DOI 10.1021/bi00632a029
+   CALLENDER RH, 1976, BIOCHEMISTRY-US, V15, P1621, DOI 10.1021/bi00653a005
+   DENCHER NA, 1978, FEBS LETT, V96, P322, DOI 10.1016/0014-5793(78)80427-X
+   HANAFUSA T, 1980, B CHEM SOC JPN, V53, P239
+   HONIG B, 1979, J AM CHEM SOC, V101, P7084, DOI 10.1021/ja00517a060
+   LEWIS A, 1974, P NATL ACAD SCI USA, V71, P4462, DOI 10.1073/pnas.71.11.4462
+   Lewis A., 1973, Journal of Raman Spectroscopy, V1, DOI 10.1002/jrs.1250010505
+   MATHIES R, 1976, P NATL ACAD SCI USA, V73, P1, DOI 10.1073/pnas.73.1.1
+   NATELSON S, 1955, ORG SYNTH C, V3, P381
+   OESTERHE.D, 1974, FEBS LETT, V44, P262, DOI 10.1016/0014-5793(74)81153-1
+   Oesterhelt D, 1974, Methods Enzymol, V31, P667
+   OSEROFF AR, 1974, BIOCHEMISTRY-US, V13, P4243, DOI 10.1021/bi00717a027
+   SHRIVER J, 1976, J AM CHEM SOC, V98, P2407, DOI 10.1021/ja00425a006
+   SHRIVER J, 1977, NATURE, V270, P271, DOI 10.1038/270271a0
+   TERNER J, 1979, BIOPHYS J, V26, P527
+   TERNER J, 1979, P NATL ACAD SCI USA, V76, P3046, DOI 10.1073/pnas.76.7.3046
+   TOKITO Y, 1975, ORG MAGN RESONANCE, V7, P485, DOI 10.1002/mrc.1270071006
+   WADSWORTH WS, 1965, ORG SYNTH, V45, P547
+   Ward CF, 1922, J CHEM SOC, V121, P1161, DOI 10.1039/ct9222101161
+   WOLINSKY J, 1965, J ORG CHEM, V30, P2208, DOI 10.1021/jo01018a021
+NR 20
+TC 18
+Z9 18
+PU AMER SOC PHOTOBIOLOGY
+PI AUGUSTA
+PA BIOTECH PARK, 1021 15TH ST, SUITE 9, AUGUSTA, GA 30901-3158
+SN 0031-8655
+J9 PHOTOCHEM PHOTOBIOL
+JI Photochem. Photobiol.
+PY 1981
+VL 33
+IS 4
+BP 511
+EP 516
+DI 10.1111/j.1751-1097.1981.tb05453.x
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA LK486
+UT WOS:A1981LK48600014
+ER
+
+PT J
+AU SAKURAI, I
+   SAKURAI, S
+   SAKURAI, T
+   SETO, T
+   IKEGAMI, A
+   IWAYANAGI, S
+AF SAKURAI, I
+   SAKURAI, S
+   SAKURAI, T
+   SETO, T
+   IKEGAMI, A
+   IWAYANAGI, S
+TI ELECTRON-DIFFRACTION STUDY ON SINGLE-CRYSTALS OF L-TYPE AND DL-TYPE
+   LECITHINS
+SO CHEMISTRY AND PHYSICS OF LIPIDS
+LA English
+DT Article
+C1 JAPAN ELECTRON OPT LAB CO LTD,AKISHIMA,TOKYO 196,JAPAN.
+   TOKYO METROPOLITAN UNIV,DEPT PHYS,TOKYO 158,JAPAN.
+   GUMMA UNIV,FAC TECHNOL,KIRYU,GUMMA 376,JAPAN.
+RP SAKURAI, I (reprint author), INST PHYS & CHEM RES,WAKO,SAITAMA 351,JAPAN.
+CR ALBON N, 1976, J CRYST GROWTH, V35, P105, DOI 10.1016/0022-0248(76)90250-5
+   HITCHCOC.PB, 1974, P NATL ACAD SCI USA, V71, P3036, DOI 10.1073/pnas.71.8.3036
+   SAKURAI I, 1977, J MOL BIOL, V117, P285, DOI 10.1016/0022-2836(77)90036-5
+   TARDIEU A, 1973, J MOL BIOL, V75, P711, DOI 10.1016/0022-2836(73)90303-3
+NR 4
+TC 17
+Z9 17
+PU ELSEVIER SCI IRELAND LTD
+PI CLARE
+PA CUSTOMER RELATIONS MANAGER, BAY 15, SHANNON INDUSTRIAL ESTATE CO, CLARE,
+   IRELAND
+SN 0009-3084
+J9 CHEM PHYS LIPIDS
+JI Chem. Phys. Lipids
+PY 1980
+VL 26
+IS 1
+BP 41
+EP 48
+DI 10.1016/0009-3084(80)90009-2
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA JF975
+UT WOS:A1980JF97500002
+ER
+
+PT J
+AU IKEGAMI, A
+   ARIMA, H
+   TOSAKI, H
+   MATSUOKA, Y
+   AI, M
+   MINORIKAWA, H
+   ASAHINO, Y
+AF IKEGAMI, A
+   ARIMA, H
+   TOSAKI, H
+   MATSUOKA, Y
+   AI, M
+   MINORIKAWA, H
+   ASAHINO, Y
+TI THICK-FILM THERMISTOR AND ITS APPLICATIONS
+SO IEEE TRANSACTIONS ON COMPONENTS HYBRIDS AND MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+C1 HITACHI LTD,NAKA WORKS,KATSUTA,IBARAKI 312,JAPAN.
+   HITACHI LTD,SAWA WORKS,KATSUTA,IBARAKI 312,JAPAN.
+   HITACHI LTD,TOCHIGI WORKS,OHHIRA,TOCHIGI 32944,JAPAN.
+RP IKEGAMI, A (reprint author), HITACHI LTD,PROD ENGN RES LAB,292 YOSHIDA-MACHI,TOTSUKA KU,YOKOHAMA 244,JAPAN.
+CR ABE K, 1979, IEEE T COMPON HYBR, V2, P434, DOI 10.1109/TCHMT.1979.1135477
+   ARIMA H, INT C SOLID FILMS SU, pB67
+   DELANEY RA, 1969, 19TH P EL COMP C, P380
+   IKEGAMI A, 1979, P EUROPEAN HYBRID MI, P271
+   IKEGAMI A, 1978, ELECTROCOMP SCI TECH, V5, P27
+   IKEGAMI A, 1976, P INT MICROELECTRONI, P287
+NR 6
+TC 16
+Z9 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0148-6411
+J9 IEEE T COMPON HYBR
+PY 1980
+VL 3
+IS 4
+BP 541
+EP 550
+DI 10.1109/TCHMT.1980.1135644
+PG 10
+WC Engineering, Manufacturing; Engineering, Electrical & Electronic;
+   Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA KY721
+UT WOS:A1980KY72100012
+ER
+
+PT J
+AU MIURA, M
+   IKEGAMI, A
+   NOJIMA, M
+   KUSABAYASHI, S
+AF MIURA, M
+   IKEGAMI, A
+   NOJIMA, M
+   KUSABAYASHI, S
+TI SYNTHESIS OF 1,4-DISUBSTITUTED (OR 1,4,4-TRISUBSTITUTED)
+   2,3,5,6,11-PENTAOXABICYCLO[5.3.1]UNDECANES
+SO JOURNAL OF THE CHEMICAL SOCIETY-CHEMICAL COMMUNICATIONS
+LA English
+DT Article
+C1 OSAKA UNIV,FAC ENGN,DEPT APPL CHEM,SUITA,OSAKA 565,JAPAN.
+RI Miura, Masahiro/C-1205-2012
+CR ADAM W, 1979, ACCOUNTS CHEM RES, V12, P390
+   GROTH P, 1967, ACTA CHEM SCAND, V21, P2711, DOI 10.3891/acta.chem.scand.21-2711
+   MIURA M, 1980, J AM CHEM SOC, V102, P288, DOI 10.1021/ja00521a045
+   MIURA M, 1979, J CHEM SOC CHEM COMM, P468
+   NICOLAOU KC, 1978, ANGEW CHEM INT EDIT, V17, P293, DOI 10.1002/anie.197802933
+   SCHUSTER GB, 1979, ACCOUNTS CHEM RES, V12, P366, DOI 10.1021/ar50142a003
+NR 6
+TC 7
+Z9 7
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON ROAD, CAMBRIDGE, CAMBS,
+   ENGLAND CB4 4WF
+SN 0022-4936
+J9 J CHEM SOC CHEM COMM
+JI J. Chem. Soc.-Chem. Commun.
+PY 1980
+IS 24
+BP 1279
+EP 1281
+DI 10.1039/c39800001279
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA KW432
+UT WOS:A1980KW43200071
+ER
+
+PT J
+AU ABE, K
+   IKEGAMI, A
+   SUGISHITA, N
+   TAGUCHI, N
+   ISOGAI, T
+   TSUBOKAWA, I
+   OHTSU, H
+AF ABE, K
+   IKEGAMI, A
+   SUGISHITA, N
+   TAGUCHI, N
+   ISOGAI, T
+   TSUBOKAWA, I
+   OHTSU, H
+TI DEVELOPMENT OF THE THICK-FILM CAPACITOR AND ITS APPLICATION FOR HYBRID
+   CIRCUIT MODULES
+SO IEEE TRANSACTIONS ON COMPONENTS HYBRIDS AND MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+C1 HITACHI LTD,TOKAI WORKS,IBARAGI,JAPAN.
+RP ABE, K (reprint author), HITACHI LTD,PROD ENGN LAB,292 YOSHIDA CHO,TOTSUKA KU,YOKOHAMA,KANAGAWA 244,JAPAN.
+CR Anan'eva AA, 1960, B ACAD SCI USSR PHYS, V24, P1395
+   BRATSCHUN WR, 1978, 28TH P EL COMP C, P38
+   BRATSCHUN WR, 1976, IEEE T PARTS HYBRIDS, P194
+   IKEGAMI A, 1973, Patent No. 508046
+   KINOSHITA K, 1976, J APPL PHYS, V47, P371, DOI 10.1063/1.322330
+   KUMMEL ML, 1972, 22ND P EL COMP C, P124
+   MURAKAMI T, 1976, CERAM B, V155, P572
+NR 7
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0148-6411
+J9 IEEE T COMPON HYBR
+PY 1979
+VL 2
+IS 4
+BP 434
+EP 441
+DI 10.1109/TCHMT.1979.1135477
+PG 8
+WC Engineering, Manufacturing; Engineering, Electrical & Electronic;
+   Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA JA793
+UT WOS:A1979JA79300012
+ER
+
+EF

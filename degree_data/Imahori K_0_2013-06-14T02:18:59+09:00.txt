@@ -1,0 +1,1606 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Matsumoto, R
+   Ishihara, I
+   Ozawa, M
+   Imahori, K
+AF Matsumoto, R
+   Ishihara, I
+   Ozawa, M
+   Imahori, K
+TI Development of low-NOx emission DME (Dimethyl Ether) combustor
+SO JSME INTERNATIONAL JOURNAL SERIES B-FLUIDS AND THERMAL ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT International Conference on Power and Energy System
+CY 2003
+CL Kobe, JAPAN
+SP JSME
+DE DME (Dimethyl Ether); diffusion combustion; alternative fuel;
+   tube-nested combustor; NOx reduction; boiler; gas turbine
+AB This study focuses on fundamental characteristics of DME (Dimethyl Ether) combustion, aiming at the development of low-NOx combustion. DME is one of the most promising new alternative fuels owing to its cleanness of the exhaust gas and wide applications. Combustion experiments using a diffusion burner were conducted for characterizing DME through the comparison with the results of LPG and 13 A-city gas. Experimental results demonstrated a high potential of DME for a boiler and a gas-turbine fuel. DME has a wide stable-combustion range compared with those of the other fuels. In this study, the concept of the low-NOx combustion, referred to as the tube-nested combustion, was applied to the DME combustion. This tube-nested combustor consists of tube banks to cool the burning flame leading to NOx reduction. Then, the NOx emission of the DME combustion was successfully reduced to a level suitable for practical applications.
+C1 Kansai Univ, Dept Mech Syst Engn, Suita, Osaka 5648680, Japan.
+RP Matsumoto, R (reprint author), Kansai Univ, Dept Mech Syst Engn, 3-3-35 Yamate Cho, Suita, Osaka 5648680, Japan.
+EM matumoto@kansai-u.ac.jp
+CR ISHIGAI S, 1995, 21 INT C COMB ENG CI, P1
+   KONNO M, 2001, T JPN SOC MECH ENG, V67, P2611
+   MATSUMOTO R, 2000, P 4 JSME KSME THERM, V1, P91
+   MATSUMOTO R, 2003, STRUCTURE RECIRCULAT, V11, P15
+   MATSUMOTO R, 2002, T VISUALIZATION SOC, V22, P15
+   MIZUTANI Y, 1978, T JPN SOC MECH ENG, V44, P1036
+   NAKAYAMA M, 1997, P 35 ANN COMB S, P645
+   OHNO Y, 2000, P INT DME WORKSH JAP, P73
+NR 8
+TC 5
+Z9 5
+PU JAPAN SOC MECHANICAL ENGINEERS
+PI TOKYO
+PA SHINANOMACHI-RENGAKAN BLDG, SHINANOMACHI 35, SHINJUKU-KU, TOKYO,
+   160-0016, JAPAN
+SN 1340-8054
+J9 JSME INT J B-FLUID T
+JI JSME Int. J. Ser. B-Fluids Therm. Eng.
+PD MAY
+PY 2004
+VL 47
+IS 2
+BP 214
+EP 220
+DI 10.1299/jsmeb.47.214
+PG 7
+WC Thermodynamics; Engineering, Mechanical
+SC Thermodynamics; Engineering
+GA 837FG
+UT WOS:000222613300011
+ER
+
+PT J
+AU Michel, G
+   Mercken, M
+   Murayama, M
+   Noguchi, K
+   Ishiguro, K
+   Imahori, K
+   Takashima, A
+AF Michel, G
+   Mercken, M
+   Murayama, M
+   Noguchi, K
+   Ishiguro, K
+   Imahori, K
+   Takashima, A
+TI Characterization of tau phosphorylation in glycogen synthase kinase-3
+   beta and cyclin dependent kinase-5 activator (p23) transfected cells
+SO BIOCHIMICA ET BIOPHYSICA ACTA-GENERAL SUBJECTS
+LA English
+DT Article
+DE GSK-3 beta; p23; CDK5; tau; phosphorylation site;
+   phosphorylation-dependent anti-tau antibody
+ID PAIRED HELICAL FILAMENTS; PROLINE-DIRECTED PHOSPHORYLATION;
+   PROTEIN-KINASE; ALZHEIMERS-DISEASE; SITES; SUBUNIT; BRAIN; PHF;
+   MICROTUBULES; PATHOLOGY
+AB One of the histopathological markers in Alzheimer's disease is the accumulation of hyperphosphorylated tau in neurons called neurofibrillary tangles (NFT) composing paired helical filaments (PHF). Combined tau protein kinase II (TPK II), which consists of CDK5 and its activator (p23), and glycogen synthase kinase-3 beta (GSK-3 beta) phosphorylate tau to the PHF-form in vitro. To investigate tau phosphorylation by these kinases in intact cells, the phosphorylation sites were examined in detail using well-characterized phosphorylation-dependent anti-tau antibodies after overexpressing the kinases in COS-7 cells with a human tau isoform. The overexpression of tau in COS-7 cells showed extensive phosphorylation at Ser-202 and Ser-404. The p23 overexpression induced a mobility shift of tau, but most of the phosphorylation sites overlapped the endogenous phosphorylation sites. GSK-3 beta transfection showed the phosphorylation at Ser-199, Thr-231, Ser-396, and Ser-413. Triplicated transfection resulted in phosphorylation of tau at 8 observed sites (Ser-199, Ser-202, Thr-205, Thr-231, Ser-235, Ser-396, Ser-404, and Ser-413). (C) 1998 Elsevier Science B.V.
+C1 Mitsubishi Kasei Inst Life Sci, Machida, Tokyo 194, Japan.
+RP Takashima, A (reprint author), RIKEN, Lab Alzheimers Dis, Brain Sci Inst, 2-1 Hirosawa, Wako, Saitama, Japan.
+EM kenneth@brain.riken.go.jp
+CR ALONSO AD, 1994, P NATL ACAD SCI USA, V91, P5562, DOI 10.1073/pnas.91.12.5562
+   ARIOKA M, 1993, J NEUROCHEM, V60, P461, DOI 10.1111/j.1471-4159.1993.tb03173.x
+   BAUM L, 1995, MOL BRAIN RES, V34, P1, DOI 10.1016/0169-328X(95)00111-5
+   BIERNAT J, 1993, NEURON, V11, P153, DOI 10.1016/0896-6273(93)90279-Z
+   BINDER LI, 1985, J CELL BIOL, V101, P1371, DOI 10.1083/jcb.101.4.1371
+   CORREAS I, 1992, J BIOL CHEM, V267, P15721
+   DREWES G, 1992, EMBO J, V11, P2131
+   DRUBIN DG, 1986, J CELL BIOL, V103, P2739, DOI 10.1083/jcb.103.6.2739
+   GOEDERT M, 1989, NEURON, V3, P519, DOI 10.1016/0896-6273(89)90210-9
+   GRUNDKEIQBAL I, 1986, J BIOL CHEM, V261, P6084
+   GRUNDKEIQBAL I, 1986, P NATL ACAD SCI USA, V83, P4913, DOI 10.1073/pnas.83.13.4913
+   IHARA Y, 1986, J BIOCHEM-TOKYO, V99, P1807
+   ISHIGURO K, 1993, FEBS LETT, V325, P167, DOI 10.1016/0014-5793(93)81066-9
+   ISHIGURO K, 1992, NEUROSCI LETT, V148, P202, DOI 10.1016/0304-3940(92)90839-Y
+   Ishiguro K, 1995, NEUROSCI LETT, V202, P81, DOI 10.1016/0304-3940(95)12206-0
+   ISHIGURO K, 1991, NEUROSCI LETT, V128, P195, DOI 10.1016/0304-3940(91)90259-V
+   KANAI Y, 1989, J CELL BIOL, V109, P1173, DOI 10.1083/jcb.109.3.1173
+   LEE VMY, 1991, SCIENCE, V251, P675, DOI 10.1126/science.1899488
+   LINT JV, 1993, ANAL BIOCHEM, V208, P132
+   LOVESTONE S, 1994, CURR BIOL, V4, P1077, DOI 10.1016/S0960-9822(00)00246-3
+   MORISHIMAKAWASHIMA M, 1995, J BIOL CHEM, V270, P823
+   QI Z, 1995, J BIOL CHEM, V270, P10847
+   SCOTT CW, 1993, J BIOL CHEM, V268, P1166
+   SELKOE DJ, 1991, NEURON, V6, P487, DOI 10.1016/0896-6273(91)90052-2
+   SPERBER BR, 1995, NEUROSCI LETT, V197, P149, DOI 10.1016/0304-3940(95)11902-9
+   TAKAHASHI M, 1995, J NEUROCHEM, V64, P1759
+   TSAI LH, 1994, NATURE, V371, P419, DOI 10.1038/371419a0
+   UCHIDA T, 1994, FEBS LETT, V355, P35, DOI 10.1016/0014-5793(94)01163-X
+   VULLIET R, 1992, J BIOL CHEM, V267, P22570
+   WATANABE A, 1993, J BIOL CHEM, V268, P25712
+   YANG SD, 1993, J NEUROCHEM, V61, P1742, DOI 10.1111/j.1471-4159.1993.tb09811.x
+   YOSHIDA H, 1993, J NEUROCHEM, V61, P1183, DOI 10.1111/j.1471-4159.1993.tb03642.x
+NR 32
+TC 55
+Z9 58
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-4165
+J9 BBA-GEN SUBJECTS
+JI Biochim. Biophys. Acta-Gen. Subj.
+PD APR 10
+PY 1998
+VL 1380
+IS 2
+BP 177
+EP 182
+DI 10.1016/S0304-4165(97)00139-6
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA ZJ417
+UT WOS:000073213400005
+ER
+
+PT J
+AU Mercken, M
+   Takahashi, H
+   Honda, T
+   Sato, K
+   Murayama, M
+   Nakazato, Y
+   Noguchi, K
+   Imahori, K
+   Takashima, A
+AF Mercken, M
+   Takahashi, H
+   Honda, T
+   Sato, K
+   Murayama, M
+   Nakazato, Y
+   Noguchi, K
+   Imahori, K
+   Takashima, A
+TI Characterization of human presenilin 1 using N-terminal specific
+   monoclonal antibodies: Evidence that Alzheimer mutations affect
+   proteolytic processing
+SO FEBS LETTERS
+LA English
+DT Article
+DE Alzheimer disease; chromosome 14; presenilin; proteolysis; monoclonal
+   antibody
+ID ESCHERICHIA-COLI; GENE
+AB The majority of cases of early-onset familial Alzheimer disease are caused by mutations in the recently identified presenilin 1 (PS1) gene, located on chromosome 14, PS1, a 467 amino acid protein, is predicted to be an integral membrane protein containing seven putative transmembrane domains and a large hydrophilic loop between the sixth and seventh membrane-spanning domain, We produced 7 monoclonal antibodies that react with 3 non-overlapping epitopes on the N-terminal hydrophilic tail of PS1, The monoclonal antibodies can detect the full-size PS1 at M(r) 47 000 and a more abundant M(r) 28 000 product in membrane extracts from human brain and human cell lines, PC12 cells transiently transfected with PS1 constructs containing two different Alzheimer mutations fail to generate the 28 kDa degradation product in contrast to PC12 cells transfected with wild-type PS1. Our results indicate that missense mutations in this form of familial Alzheimer disease may act via a mechanism of impaired proteolytic processing of PS1.
+C1 MITSUBISHI CHEM CORP,YOKOHAMA RES CTR,YOKOHAMA,KANAGAWA 227,JAPAN.
+RP Mercken, M (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR CAMPION D, 1995, HUM MOL GENET, V4, P2373, DOI 10.1093/hmg/4.12.2373
+   CRUTS M, 1995, HUM MOL GENET, V4, P2363, DOI 10.1093/hmg/4.12.2363
+   EHRING R, 1980, NATURE, V283, P537, DOI 10.1038/283537a0
+   GOATE A, 1991, NATURE, V349, P704, DOI 10.1038/349704a0
+   ITO K, 1984, MOL GEN GENET, V197, P204, DOI 10.1007/BF00330964
+   KIM DW, 1990, GENE, V91, P217, DOI 10.1016/0378-1119(90)90091-5
+   Kovacs DM, 1996, NAT MED, V2, P224, DOI 10.1038/nm0296-224
+   LEVYLAHAD E, 1995, SCIENCE, V269, P973, DOI 10.1126/science.7638622
+   MANN DMA, 1995, RES ADV ALZHEIMERS D
+   MERCKEN M, 1992, ACTA NEUROPATHOL, V84, P265
+   PerezTur J, 1995, NEUROREPORT, V7, P297, DOI 10.1097/00001756-199512000-00071
+   ROGAEV EI, 1995, NATURE, V376, P775, DOI 10.1038/376775a0
+   Sahara N, 1996, FEBS LETT, V381, P7
+   SHERRINGTON R, 1995, NATURE, V375, P754, DOI 10.1038/375754a0
+   SORBI S, 1995, LANCET, V346, P439, DOI 10.1016/S0140-6736(95)92809-X
+   STRITTMATTER JW, 1995, P NATL ACAD SCI USA, V92, P4725
+   TANAHASHI H, 1995, LANCET, V346, P440, DOI 10.1016/S0140-6736(95)92810-3
+   VANBROECKHOVEN C, 1995, NAT GENET, V11, P230
+   WASCO W, 1995, NAT MED, V1, P848, DOI 10.1038/nm0995-848a
+   WISNIEWSKI T, 1995, LANCET, V346, P1366, DOI 10.1016/S0140-6736(95)92379-9
+   Wragg M, 1996, LANCET, V347, P509, DOI 10.1016/S0140-6736(96)91140-X
+   [Anonymous], 1995, NAT GENET, V11, P219
+NR 22
+TC 110
+Z9 111
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD JUL 8
+PY 1996
+VL 389
+IS 3
+BP 297
+EP 303
+DI 10.1016/0014-5793(96)00608-4
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA UX133
+UT WOS:A1996UX13300017
+ER
+
+PT J
+AU Hoshi, M
+   Takashima, A
+   Noguchi, K
+   Murayama, M
+   Sato, M
+   Kondo, S
+   Saitoh, Y
+   Ishiguro, K
+   Hoshino, T
+   Imahori, K
+AF Hoshi, M
+   Takashima, A
+   Noguchi, K
+   Murayama, M
+   Sato, M
+   Kondo, S
+   Saitoh, Y
+   Ishiguro, K
+   Hoshino, T
+   Imahori, K
+TI Regulation of mitochondrial pyruvate dehydrogenase activity by tau
+   protein kinase 1 glycogen synthase kinase 3 beta in brain
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE Alzheimer disease; beta-amyloid peptide; neuronal death; acetylcholine
+ID PAIRED HELICAL FILAMENTS; ALZHEIMERS-DISEASE; CHOLINE-ACETYLTRANSFERASE;
+   SENILE DEMENTIA; COMPONENT; NEURONS; PURIFICATION; PATHOLOGY; COMPLEX;
+   TISSUE
+AB According to the amyloid hypothesis for the pathogenesis of Alzheimer disease, beta-amyloid peptide (beta A) directly affects neurons, leading to neurodegeneration and tau phosphorylation, In rat hippocampal culture, beta A exposure activates tau protein kinase I/glycogen synthase kinase 3 beta (TPKI/GSK-3 beta), which phosphorylates tau protein into Alzheimer disease-like forms, resulting in neuronal death, To elucidate the mechanism of beta A-induced neuronal death, we searched for substrates of TPKI/GSK-3 beta in a two-hybrid system and identified pyruvate dehydrogenase (PDH), which converts pyruvate to acetyl-CoA In mitochondria. PDH was phosphorylated and inactivated by TPKI/GSK-3 beta in vitro and also In beta A-treated hippocampal cultures, resulting in mitochondrial dysfunction, which would contribute to neuronal death, In cholinergic neurons, beta A impaired acetylcholine synthesis without affecting choline acetyltransferase activity, which suggests that PDH is inactivated by beta A-induced TPKI/GSK-3 beta. Thus, TPKI/GSK-3 beta regulates PDH and participates in energy metabolism and acetylcholine synthesis, These results suggest that TPKI/GSK-3 beta plays a key role in the pathogenesis of Alzheimer disease.
+RP Hoshi, M (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR ABE E, 1994, BRAIN RES, V636, P162, DOI 10.1016/0006-8993(94)90193-7
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1006/abio.1976.9999
+   BUSCIGLIO J, 1995, NEURON, V14, P879, DOI 10.1016/0896-6273(95)90232-5
+   DAVIES P, 1976, LANCET, V2, P1403
+   EMBI N, 1980, EUR J BIOCHEM, V107, P519
+   FIELDS S, 1989, NATURE, V340, P245, DOI 10.1038/340245a0
+   FONNUM F, 1975, J NEUROCHEM, V24, P407, DOI 10.1111/j.1471-4159.1975.tb11895.x
+   GAMES D, 1995, NATURE, V373, P523, DOI 10.1038/373523a0
+   GOATE A, 1991, NATURE, V349, P704, DOI 10.1038/349704a0
+   GRUNDKEIQBAL I, 1986, P NATL ACAD SCI USA, V83, P4913, DOI 10.1073/pnas.83.13.4913
+   HARDY JA, 1992, SCIENCE, V256, P184, DOI 10.1126/science.1566067
+   HOSHI M, 1995, J BIOCHEM-TOKYO, V118, P683
+   HOYER S, 1988, J NEUROL, V235, P143, DOI 10.1007/BF00314304
+   IHARA Y, 1986, J BIOCHEM-TOKYO, V99, P1807
+   ISHIGURO K, 1994, FEBS LETT, V342, P203, DOI 10.1016/0014-5793(94)80501-6
+   ISHIGURO K, 1993, FEBS LETT, V325, P167, DOI 10.1016/0014-5793(93)81066-9
+   ISHIGURO K, 1992, J BIOL CHEM, V267, P10897
+   KOSIK KS, 1986, P NATL ACAD SCI USA, V83, P4044, DOI 10.1073/pnas.83.11.4044
+   KSIEZAKREDING H, 1982, J NEUROCHEM, V38, P1627, DOI 10.1111/j.1471-4159.1982.tb06643.x
+   LATIMER DA, 1995, FEBS LETT, V365, P42, DOI 10.1016/0014-5793(95)00434-B
+   LEE VMY, 1991, SCIENCE, V251, P675, DOI 10.1126/science.1899488
+   LEW J, 1992, J BIOL CHEM, V267, P13383
+   LINN TC, 1969, P NATL ACAD SCI USA, V62, P234, DOI 10.1073/pnas.62.1.234
+   MATUDA S, 1983, BIOCHIM BIOPHYS ACTA, V741, P86, DOI 10.1016/0167-4781(83)90013-1
+   MCKEEL DW, 1970, J CELL BIOL, V44, P417, DOI 10.1083/jcb.44.2.417
+   PARNETTI L, 1995, J AM GERIATR SOC, V43, P316
+   PERRY EK, 1980, NEUROSCI LETT, V18, P105, DOI 10.1016/0304-3940(80)90220-7
+   PERRY EK, 1977, J NEUROL SCI, V34, P247, DOI 10.1016/0022-510X(77)90073-9
+   POPOV KM, 1993, J BIOL CHEM, V268, P26602
+   POTTER PE, 1983, J NEUROCHEM, V41, P188
+   Reed L.J., 1969, METHOD ENZYMOL, V9, P247
+   SELKOE DJ, 1991, NEURON, V6, P487, DOI 10.1016/0896-6273(91)90052-2
+   SORBI S, 1983, ANN NEUROL, V13, P72, DOI 10.1002/ana.410130116
+   STRUBLE RG, 1982, SCIENCE, V216, P413, DOI 10.1126/science.6803359
+   SUZUKI N, 1994, SCIENCE, V264, P1336, DOI 10.1126/science.8191290
+   TAKAHASHI M, 1994, J NEUROCHEM, V63, P245
+   TAKASHIMA A, 1995, NEUROSCI LETT, V198, P83, DOI 10.1016/0304-3940(95)11964-X
+   TAKASHIMA A, 1993, P NATL ACAD SCI USA, V90, P7789, DOI 10.1073/pnas.90.16.7789
+   VANLINT J, 1993, ANAL BIOCHEM, V208, P132, DOI 10.1006/abio.1993.1018
+   WHITE P, 1977, LANCET, V1, P668
+   WHITEHOUSE PJ, 1982, SCIENCE, V215, P1237, DOI 10.1126/science.7058341
+   WHITEHOU.S, 1974, BIOCHEM J, V141, P761
+   WOODGETT JR, 1990, EMBO J, V9, P2431
+   YATES CM, 1990, J NEUROCHEM, V55, P1624, DOI 10.1111/j.1471-4159.1990.tb04948.x
+   YOKOTA S, 1992, IMMUNOELECTRON MICRO, P260
+NR 45
+TC 126
+Z9 130
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 2
+PY 1996
+VL 93
+IS 7
+BP 2719
+EP 2723
+DI 10.1073/pnas.93.7.2719
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA UD375
+UT WOS:A1996UD37500018
+ER
+
+PT J
+AU UCHIDA, T
+   ISHIGURO, K
+   OHNUMA, J
+   TAKAMATSU, M
+   YONEKURA, S
+   IMAHORI, K
+AF UCHIDA, T
+   ISHIGURO, K
+   OHNUMA, J
+   TAKAMATSU, M
+   YONEKURA, S
+   IMAHORI, K
+TI PRECURSOR OF CDK5 ACTIVATOR, THE 23-KDA SUBUNIT OF TAU-PROTEIN KINASE-II
+   - ITS SEQUENCE AND DEVELOPMENTAL-CHANGE IN BRAIN
+SO FEBS LETTERS
+LA English
+DT Article
+DE CYCLIN-DEPENDENT KINASE 5; TAU PROTEIN; PAIRED HELICAL FILAMENT;
+   ALZHEIMERS DISEASE
+ID PAIRED HELICAL FILAMENTS; PHOSPHORYLATION SITES; ALZHEIMERS-DISEASE;
+   CYCLIN; EPITOPE; DNA
+AB Tau protein kinase II (TPKII) is shown by immunoprecipitation to be a complex composed of two subunits, a catalytic subunit, cdk5, and regulatory subunit, p23. By sequence analysis of p23 cDNA, p23 was found to occupy a region from the 99th amino acid residue to the C-terminus of a novel protein with a molecular weight of 34,000 Da, suggesting that this 34 kDa protein is a precursor of p23 (pre-p23). These findings suggest that p23 results from the processing of the precursor protein, pre-p23. The precursor mRNA was expressed most abundantly in rat brain just before and after birth. Expression of pre-p23, but not of cdk5, mRNA changed, coinciding with the developmental change of TPKII activity, suggesting that its expression controls the phosphorylation of tau by the TPKII/TPKI system in the neonatal brain, p23 appears to be a cdk5 activator in neuronal cells.
+RP UCHIDA, T (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR ARIOKA M, 1993, J NEUROCHEM, V60, P461, DOI 10.1111/j.1471-4159.1993.tb03173.x
+   CHOMCZYNSKI P, 1993, BIOTECHNIQUES, V15, P532
+   GLOTZER M, 1991, NATURE, V349, P132, DOI 10.1038/349132a0
+   HASEGAWA M, 1992, J BIOL CHEM, V267, P17047
+   HELLMICH MR, 1992, P NATL ACAD SCI USA, V89, P10867, DOI 10.1073/pnas.89.22.10867
+   IHARA Y, 1988, BRAIN RES, V459, P138, DOI 10.1016/0006-8993(88)90293-4
+   ISHIGURO K, 1994, FEBS LETT, V342, P203, DOI 10.1016/0014-5793(94)80501-6
+   ISHIGURO K, 1993, FEBS LETT, V325, P167, DOI 10.1016/0014-5793(93)81066-9
+   ISHIGURO K, 1988, J BIOCHEM-TOKYO, V104, P319
+   ISHIGURO K, 1992, NEUROSCI LETT, V148, P202, DOI 10.1016/0304-3940(92)90839-Y
+   ISHIGURO K, 1992, J BIOL CHEM, V267, P10897
+   ISHIGURO K, 1991, NEUROSCI LETT, V128, P195, DOI 10.1016/0304-3940(91)90259-V
+   KOBAYASHI S, 1993, FEBS LETT, V335, P171, DOI 10.1016/0014-5793(93)80723-8
+   KOZAK M, 1991, J BIOL CHEM, V266, P19867
+   LEES EM, 1993, MOL CELL BIOL, V13, P1194
+   LEW DJ, 1991, CELL, V66, P1197, DOI 10.1016/0092-8674(91)90042-W
+   LEW J, 1992, J BIOL CHEM, V267, P13383
+   LEW J, 1992, J BIOL CHEM, V267, P25922
+   LEW J, 1994, NATURE, V371, P423, DOI 10.1038/371423a0
+   MEYERSON M, 1992, EMBO J, V11, P2909
+   MORISHIMAKAWASH.M, 1994, IN PRESS NEUROBIOL A
+   PINES J, 1993, TRENDS BIOCHEM SCI, V18, P195, DOI 10.1016/0968-0004(93)90185-P
+   ROBBINS J, 1991, CELL, V64, P615, DOI 10.1016/0092-8674(91)90245-T
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   TAKAHASHI M, 1994, J NEUROCHEM, V63, P245
+   TAKASHIMA A, 1993, P NATL ACAD SCI USA, V90, P7789, DOI 10.1073/pnas.90.16.7789
+   TSAI LH, 1994, NATURE, V371, P419, DOI 10.1038/371419a0
+   WATANABE A, 1993, J BIOL CHEM, V268, P25712
+   XIONG Y, 1992, CELL, V71, P505, DOI 10.1016/0092-8674(92)90518-H
+NR 29
+TC 64
+Z9 66
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD NOV 21
+PY 1994
+VL 355
+IS 1
+BP 35
+EP 40
+DI 10.1016/0014-5793(94)01163-X
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA PU124
+UT WOS:A1994PU12400009
+ER
+
+PT J
+AU ISHIGURO, K
+   KOBAYASHI, S
+   OMORI, A
+   TAKAMATSU, M
+   YONEKURA, S
+   ANZAI, K
+   IMAHORI, K
+   UCHIDA, T
+AF ISHIGURO, K
+   KOBAYASHI, S
+   OMORI, A
+   TAKAMATSU, M
+   YONEKURA, S
+   ANZAI, K
+   IMAHORI, K
+   UCHIDA, T
+TI IDENTIFICATION OF THE 23 KDA SUBUNIT OF TAU-PROTEIN KINASE-II AS A
+   PUTATIVE ACTIVATOR OF CDK5 IN BOVINE BRAIN
+SO FEBS LETTERS
+LA English
+DT Article
+DE TAU PROTEIN; PAIRED HELICAL FILAMENT; ALZHEIMERS DISEASE;
+   CYCLIN-DEPENDENT KINASE 5; TAG SEQUENCE
+ID HELICAL FILAMENT EPITOPE; D-TYPE CYCLINS; ALZHEIMERS-DISEASE; HUMAN
+   GENOME; SEQUENCE; GENES
+AB Tau protein kinase II (TPKII) was reported previously to be composed of a neuron-rich cdc2-related kinase (PSSALRE/cdk5) and 23 kDa subunit. Here we show that the 23 kDa subunit is a putative activator for the kinase activity. Amino acid sequence analysis revealed that the protein was novel and included a partial similarity of amino acids to a cyclin box important for the interaction with cdc2-related kinase. These results suggest that the 23 kDa subunit, but not cyclin, activates cdk5 in neuronal cells, which no longer exhibit cell cycling but are terminally differentiated cells.
+C1 NIHON UNIV,COLL PHARM,FUNABASHI,CHIBA 274,JAPAN.
+RP ISHIGURO, K (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR ADAMS MD, 1991, SCIENCE, V252, P1651, DOI 10.1126/science.2047873
+   ADAMS MD, 1992, NATURE, V355, P632, DOI 10.1038/355632a0
+   ARIOKA M, 1993, J NEUROCHEM, V60, P461, DOI 10.1111/j.1471-4159.1993.tb03173.x
+   BAUMANN K, 1993, FEBS LETT, V336, P417, DOI 10.1016/0014-5793(93)80849-P
+   HASEGAWA M, 1992, J BIOL CHEM, V267, P17047
+   HELLMICH MR, 1992, P NATL ACAD SCI USA, V89, P1086
+   HISANAGA S, 1993, J BIOL CHEM, V268, P15056
+   HISANAGA S, 1991, J BIOL CHEM, V266, P21798
+   IHARA Y, 1988, BRAIN RES, V459, P138, DOI 10.1016/0006-8993(88)90293-4
+   ISHIGURO K, 1993, FEBS LETT, V325, P167, DOI 10.1016/0014-5793(93)81066-9
+   ISHIGURO K, 1988, J BIOCHEM-TOKYO, V104, P319
+   ISHIGURO K, 1992, NEUROSCI LETT, V148, P202, DOI 10.1016/0304-3940(92)90839-Y
+   ISHIGURO K, 1992, J BIOL CHEM, V267, P10897
+   ISHIGURO K, 1991, NEUROSCI LETT, V128, P195, DOI 10.1016/0304-3940(91)90259-V
+   KOBAYASHI S, 1993, FEBS LETT, V335, P171, DOI 10.1016/0014-5793(93)80723-8
+   LEES EM, 1993, MOL CELL BIOL, V13, P1194
+   LEW DJ, 1991, CELL, V66, P1197, DOI 10.1016/0092-8674(91)90042-W
+   LEW J, 1992, J BIOL CHEM, V267, P13383
+   MEYERSON M, 1992, EMBO J, V11, P2909
+   MIYASAKA H, 1993, J BIOL CHEM, V268, P22695
+   NUGENT JHA, 1991, J CELL SCI, V99, P669
+   OLSON M, 1989, SCIENCE, V245, P1434, DOI 10.1126/science.2781285
+   PAUDEL HK, 1993, J BIOL CHEM, V268, P23512
+   PINES J, 1993, TRENDS BIOCHEM SCI, V18, P195, DOI 10.1016/0968-0004(93)90185-P
+   PINES J, 1989, CELL, V58, P833, DOI 10.1016/0092-8674(89)90936-7
+   RICHARDSON HE, 1990, GENE DEV, V4, P1332, DOI 10.1101/gad.4.8.1332
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   TAKAHASHI M, 1991, FEBS LETT, V289, P37, DOI 10.1016/0014-5793(91)80903-G
+   TAKASHIMA A, 1993, P NATL ACAD SCI USA, V90, P7789, DOI 10.1073/pnas.90.16.7789
+   WANG J, 1990, NATURE, V343, P555, DOI 10.1038/343555a0
+   WATANABE A, 1993, J BIOL CHEM, V268, P2571
+   XIONG Y, 1991, Cell, V65, P691, DOI 10.1016/0092-8674(91)90100-D
+   XIONG Y, 1992, GENOMICS, V13, P575, DOI 10.1016/0888-7543(92)90127-E
+   XIONG Y, 1992, CELL, V71, P505, DOI 10.1016/0092-8674(92)90518-H
+NR 34
+TC 135
+Z9 139
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD APR 4
+PY 1994
+VL 342
+IS 2
+BP 203
+EP 208
+DI 10.1016/0014-5793(94)80501-6
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA NE895
+UT WOS:A1994NE89500021
+ER
+
+PT J
+AU KOBAYASHI, S
+   ISHIGURO, K
+   OMORI, A
+   TAKAMATSU, M
+   ARIOKA, M
+   IMAHORI, K
+   UCHIDA, T
+AF KOBAYASHI, S
+   ISHIGURO, K
+   OMORI, A
+   TAKAMATSU, M
+   ARIOKA, M
+   IMAHORI, K
+   UCHIDA, T
+TI A CDC2-RELATED KINASE PSSALRE/CDK5 IS HOMOLOGOUS WITH THE 30 KDA SUBUNIT
+   OF TAU-PROTEIN KINASE-II, A PROLINE-DIRECTED PROTEIN-KINASE ASSOCIATED
+   WITH MICROTUBULE
+SO FEBS LETTERS
+LA English
+DT Article
+DE TAU PROTEIN; PAIRED HELICAL FILAMENT; ALZHEIMERS DISEASE; CDC2-RELATED
+   PROTEIN KINASE; CYCLIN-DEPENDENT KINASE 5
+ID PAIRED HELICAL FILAMENT; ALZHEIMERS-DISEASE; PHOSPHORYLATION; BRAIN;
+   LOCALIZATION; SEQUENCE; EPITOPE; FORMS; CDC2; MAP2
+AB We previously reported that tau protein kinase II (TPKII) from bovine brain was composed of 30 kDa and 23 kDa subunits. The 30 kDa subunit of TPKII can be regarded as a catalytic subunit because of its ATP-binding activity. Antibodies directed against TPKII-phosphorylated tau also reacted with tau phosphorylated by cdc2 kinase obtained from starfish oocytes, indicating that TPKII and cdc2 kinase phosphorylate the same sites. We determined the amino acid sequence of the 30 kDa subunit and found it to be homologous with a cdc2-related kinase, PSSALRE/cdk5. Moreover, an antibody against PSSALRE/cdk5 reacted with the 30 kDa subunit. These results indicate that the 30 kDa subunit of TPKII is bovine homologue of PSSALRE/cdk5. Expression of the 30 kDa subunit mRNA was enhanced in juvenile rat brain. This result supports our previous hypothesis that the kinase works actively in juvenile brain.
+C1 MITSUBISHI KASEI INST LIFE SCI,MACHIDA,TOKYO 194,JAPAN.
+CR ARIOKA M, 1993, J NEUROCHEM, V60, P461, DOI 10.1111/j.1471-4159.1993.tb03173.x
+   CHOMCZYNSKI P, 1987, ANAL BIOCHEM, V162, P156, DOI 10.1006/abio.1987.9999
+   DREWES G, 1992, EMBO J, V11, P2131
+   GOEDERT M, 1988, P NATL ACAD SCI USA, V85, P4051, DOI 10.1073/pnas.85.11.4051
+   GOEDERT M, 1993, P NATL ACAD SCI USA, V90, P5066, DOI 10.1073/pnas.90.11.5066
+   GOEDERT M, 1989, NEURON, V3, P519, DOI 10.1016/0896-6273(89)90210-9
+   GOEDERT M, 1992, FEBS LETT, V312, P95, DOI 10.1016/0014-5793(92)81418-L
+   GUSTKE N, 1992, FEBS LETT, V307, P199, DOI 10.1016/0014-5793(92)80767-B
+   HANGER DP, 1992, NEUROSCI LETT, V147, P58, DOI 10.1016/0304-3940(92)90774-2
+   HASEGAWA M, 1992, J BIOL CHEM, V267, P17047
+   HELLMICH MR, 1992, P NATL ACAD SCI USA, V89, P10867, DOI 10.1073/pnas.89.22.10867
+   HISANAGA S, 1993, J BIOL CHEM, V268, P15056
+   HISANAGA S, 1991, J BIOL CHEM, V266, P21798
+   IHARA Y, 1988, BRAIN RES, V459, P138, DOI 10.1016/0006-8993(88)90293-4
+   ISHIGURO K, 1993, FEBS LETT, V325, P167, DOI 10.1016/0014-5793(93)81066-9
+   ISHIGURO K, 1988, J BIOCHEM-TOKYO, V104, P319
+   ISHIGURO K, 1992, NEUROSCI LETT, V148, P202, DOI 10.1016/0304-3940(92)90839-Y
+   ISHIGURO K, 1992, J BIOL CHEM, V267, P10897
+   ISHIGURO K, 1991, NEUROSCI LETT, V128, P195, DOI 10.1016/0304-3940(91)90259-V
+   KANEMARU K, 1992, J NEUROCHEM, V58, P1667, DOI 10.1111/j.1471-4159.1992.tb10039.x
+   KOSIK KS, 1987, J NEUROSCI, V7, P3142
+   KUSUBATA M, 1992, J BIOL CHEM, V267, P20937
+   LEDESMA MD, 1992, FEBS LETT, V308, P218, DOI 10.1016/0014-5793(92)81278-T
+   LEE VMY, 1991, SCIENCE, V251, P675, DOI 10.1126/science.1899488
+   LEW J, 1992, J BIOL CHEM, V267, P13383
+   LEW J, 1992, J BIOL CHEM, V267, P25922
+   MANDELKOW EM, 1992, FEBS LETT, V314, P315, DOI 10.1016/0014-5793(92)81496-9
+   MEYERSON M, 1992, EMBO J, V11, P2909
+   MIYASAKA H, 1993, IN PRESS J BIOL CHEM
+   PAPASOZOMENOS SC, 1987, CELL MOTIL CYTOSKEL, V8, P210, DOI 10.1002/cm.970080303
+   RODER HM, 1993, BIOCHEM BIOPH RES CO, V193, P639, DOI 10.1006/bbrc.1993.1672
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   STERNBERGER LA, 1983, P NATL ACAD SCI-BIOL, V80, P6126, DOI 10.1073/pnas.80.19.6126
+   TAKAHASHI M, 1991, FEBS LETT, V289, P37, DOI 10.1016/0014-5793(91)80903-G
+   TAKASHIMA A, 1993, IN PRESS P NATL ACAD, V90
+   VULLIET R, 1992, J BIOL CHEM, V267, P22570
+   XIONG Y, 1992, CELL, V71, P505, DOI 10.1016/0092-8674(92)90518-H
+NR 37
+TC 193
+Z9 203
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD DEC 6
+PY 1993
+VL 335
+IS 2
+BP 171
+EP 175
+DI 10.1016/0014-5793(93)80723-8
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA MK850
+UT WOS:A1993MK85000005
+ER
+
+PT J
+AU TAKASHIMA, A
+   NOGUCHI, K
+   SATO, K
+   HOSHINO, T
+   IMAHORI, K
+AF TAKASHIMA, A
+   NOGUCHI, K
+   SATO, K
+   HOSHINO, T
+   IMAHORI, K
+TI TAU-PROTEIN KINASE-I IS ESSENTIAL FOR AMYLOID BETA-PROTEIN-INDUCED
+   NEUROTOXICITY
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE PROGRAMMED CELL DEATH; ALZHEIMER DISEASE
+ID PAIRED HELICAL FILAMENTS; ALZHEIMERS-DISEASE; CORTICAL-NEURONS;
+   EPITOPES; UBIQUITIN; COMPONENT; PEPTIDES; TANGLES; PLAQUES; BRAINS
+AB Pathological changes of Alzheimer disease are characterized by cerebral cortical atrophy as a result of degeneration and loss of neurons. Typical histological lesions include numerous senile plaques composed of deposits of amyloid beta-protein and neurofibrillary tangles consisting predominantly of ubiquitin and highly phosphorylated tau proteins. Previously, tau protein kinase I (TPK I) was purified and its cDNA was cloned. To examine the biological role of this enzyme in neurons, we have studied the induction of its kinase activity in primary cultures of embryonic rat hippocampal neurons. Treatment of cultures with amyloid beta-protein significantly increased TPK I activity and induced the appearance of tau proteins recognized by the Alz-50 monoclonal antibody. In addition, though amyloid beta-protein was neurotoxic, either cycloheximide or actinomycin D prevented neuronal death. Death was also prevented by TPK I antisense oligonucleotides but not by sense oligonucleotides. These observations suggest that rat hippocampal neurons undergo programmed cell death in response to amyloid beta-protein and that TPK I is a key enzyme in this process.
+RP TAKASHIMA, A (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR ARISPE N, 1993, P NATL ACAD SCI USA, V90, P567, DOI 10.1073/pnas.90.2.567
+   BANKER GA, 1977, BRAIN RES, V126, P397, DOI 10.1016/0006-8993(77)90594-7
+   BUSCIGLIO J, 1992, NEUROBIOL AGING, V13, P609, DOI 10.1016/0197-4580(92)90065-6
+   BUSCIGLIO J, 1991, SOC NEUR ABSTR, V17
+   CHOMCZYNSKI P, 1987, ANAL BIOCHEM, V162, P156, DOI 10.1006/abio.1987.9999
+   COTMAN CW, 1992, NEUROBIOL AGING, V13, P587, DOI 10.1016/0197-4580(92)90060-B
+   FIDANI L, 1992, PROG CLIN BIOL RES, V379, P195
+   GIACCONE G, 1989, NEUROSCI LETT, V97, P232, DOI 10.1016/0304-3940(89)90169-9
+   GOATE A, 1991, NATURE, V349, P704, DOI 10.1038/349704a0
+   HANGER DP, 1992, NEUROSCI LETT, V147, P58, DOI 10.1016/0304-3940(92)90774-2
+   HARDY JA, 1992, SCIENCE, V256, P184, DOI 10.1126/science.1566067
+   ISHIGURO K, 1993, IN PRESS FEBS LETT
+   ISHIGURO K, 1988, J BIOCHEM-TOKYO, V104, P319
+   ISHIGURO K, 1992, NEUROSCI LETT, V148, P202, DOI 10.1016/0304-3940(92)90839-Y
+   ISHIGURO K, 1992, J BIOL CHEM, V267, P10897
+   ISHIGURO K, 1991, NEUROSCI LETT, V128, P195, DOI 10.1016/0304-3940(91)90259-V
+   KOH JY, 1990, BRAIN RES, V533, P315, DOI 10.1016/0006-8993(90)91355-K
+   KOIKE T, 1986, J NEUROCHEM, V46, P1493, DOI 10.1111/j.1471-4159.1986.tb01767.x
+   KOSIK KS, 1988, NEURON, V1, P817, DOI 10.1016/0896-6273(88)90129-8
+   KOWALL NW, 1991, P NATL ACAD SCI USA, V88, P7247, DOI 10.1073/pnas.88.16.7247
+   LEE VMY, 1991, SCIENCE, V251, P675, DOI 10.1126/science.1899488
+   LOVE S, 1988, J NEUROPATH EXP NEUR, V47, P393, DOI 10.1097/00005072-198807000-00001
+   MALOUF AT, 1992, NEUROBIOL AGING, V13, P543, DOI 10.1016/0197-4580(92)90054-2
+   MARTIN DP, 1988, J CELL BIOL, V106, P829, DOI 10.1083/jcb.106.3.829
+   MATTSON MP, 1992, J NEUROSCI, V12, P376
+   MORI H, 1987, SCIENCE, V235, P1641, DOI 10.1126/science.3029875
+   NUKINA N, 1987, P NATL ACAD SCI USA, V84, P3415, DOI 10.1073/pnas.84.10.3415
+   PERRY G, 1987, P NATL ACAD SCI USA, V84, P3030
+   ROHER AE, 1991, BIOCHEM BIOPH RES CO, V174, P572, DOI 10.1016/0006-291X(91)91455-L
+   SELKOE DJ, 1989, ANNU REV NEUROSCI, V12, P463, DOI 10.1146/annurev.neuro.12.1.463
+   SPILLANTINI MG, 1990, P NATL ACAD SCI USA, V87, P3947, DOI 10.1073/pnas.87.10.3947
+   SPILLANTINI MG, 1990, P NATL ACAD SCI USA, V87, P3952, DOI 10.1073/pnas.87.10.3952
+   WOLOZIN BL, 1986, SCIENCE, V232, P648, DOI 10.1126/science.3083509
+   WOODGETT JR, 1990, EMBO J, V9, P2431
+   YANKNER BA, 1992, NEUROBIOL AGING, V13, P615, DOI 10.1016/0197-4580(92)90067-8
+   YANKNER BA, 1990, P NATL ACAD SCI USA, V87, P9020, DOI 10.1073/pnas.87.22.9020
+   YANKNER BA, 1989, SCIENCE, V245, P417, DOI 10.1126/science.2474201
+   YANKNER BA, 1990, SCIENCE, V250, P279, DOI 10.1126/science.2218531
+NR 38
+TC 283
+Z9 289
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD AUG 15
+PY 1993
+VL 90
+IS 16
+BP 7789
+EP 7793
+DI 10.1073/pnas.90.16.7789
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA LT437
+UT WOS:A1993LT43700077
+ER
+
+PT J
+AU ISHIGURO, K
+   SHIRATSUCHI, A
+   SATO, S
+   OMORI, A
+   ARIOKA, M
+   KOBAYASHI, S
+   UCHIDA, T
+   IMAHORI, K
+AF ISHIGURO, K
+   SHIRATSUCHI, A
+   SATO, S
+   OMORI, A
+   ARIOKA, M
+   KOBAYASHI, S
+   UCHIDA, T
+   IMAHORI, K
+TI GLYCOGEN-SYNTHASE KINASE 3-BETA IS IDENTICAL TO TAU-PROTEIN KINASE-I
+   GENERATING SEVERAL EPITOPES OF PAIRED HELICAL FILAMENTS
+SO FEBS LETTERS
+LA English
+DT Article
+DE TAU PROTEIN; PROTEIN KINASE; PHOSPHORYLATION; PAIRED HELICAL FILAMENT;
+   ALZHEIMERS DISEASE; GLYCOGEN SYNTHASE KINASE 3-BETA
+ID RABBIT SKELETAL-MUSCLE; ACTIVATING FACTOR; PHOSPHORYLATION;
+   PURIFICATION; PHOSPHATASE; PRODUCT
+AB We previously reported that tau protein kinase I (TPKI) induced normal tau protein into a state of paired helical filaments (PHF); this is further confirmed here by immunoblot analysis using several antibodies. We also present the amino acid sequence of TPKI, which is identical to glycogen synthase kinase 3beta (GSK3beta). Moreover, we found that TPKI activity was inseparable from GSK3 activity throughout the purification procedure. These results indicate that TPKI is identical to GSK3beta.
+C1 NIHON UNIV,COLL PHARM,FUNABASHI,CHIBA 274,JAPAN.
+   UNIV TOKYO,DEPT AGR CHEM,BUNKYO KU,TOKYO 113,JAPAN.
+RP ISHIGURO, K (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR ARIOKA M, 1993, J NEUROCHEM, V60, P461, DOI 10.1111/j.1471-4159.1993.tb03173.x
+   BOULTON TG, 1991, CELL, V65, P663, DOI 10.1016/0092-8674(91)90098-J
+   BOUROUIS M, 1990, EMBO J, V9, P2877
+   BOUROUIS M, 1989, NATURE, V341, P442, DOI 10.1038/341442a0
+   BOYLE WJ, 1991, CELL, V64, P573, DOI 10.1016/0092-8674(91)90241-P
+   COHEN P, 1982, EUR J BIOCHEM, V124, P21, DOI 10.1111/j.1432-1033.1982.tb05902.x
+   COLOTTA F, 1992, J BIOL CHEM, V267, P18278
+   DREWES G, 1992, EMBO J, V11, P2131
+   FIOL CJ, 1990, J BIOL CHEM, V265, P6061
+   GOEDERT M, 1989, NEURON, V3, P519, DOI 10.1016/0896-6273(89)90210-9
+   GOTOH Y, 1991, EMBO J, V10, P2661
+   GUSTKE N, 1992, FEBS LETT, V307, P199, DOI 10.1016/0014-5793(92)80767-B
+   HANGER DP, 1992, NEUROSCI LETT, V147, P58, DOI 10.1016/0304-3940(92)90774-2
+   HASEGAWA M, 1992, J BIOL CHEM, V267, P17047
+   HEMMINGS BA, 1981, EUR J BIOCHEM, V119, P443, DOI 10.1111/j.1432-1033.1981.tb05628.x
+   HUGHES K, 1992, BIOCHEM J, V288, P309
+   ISHIGURO K, 1988, J BIOCHEM-TOKYO, V104, P319
+   ISHIGURO K, 1992, NEUROSCI LETT, V148, P202, DOI 10.1016/0304-3940(92)90839-Y
+   ISHIGURO K, 1992, J BIOL CHEM, V267, P10897
+   ISHIGURO K, 1991, NEUROSCI LETT, V128, P195, DOI 10.1016/0304-3940(91)90259-V
+   KANEMARU K, 1992, J NEUROCHEM, V58, P1667, DOI 10.1111/j.1471-4159.1992.tb10039.x
+   KOSIK KS, 1988, NEURON, V1, P817, DOI 10.1016/0896-6273(88)90129-8
+   LEDESMA MD, 1992, FEBS LETT, V308, P218, DOI 10.1016/0014-5793(92)81278-T
+   LICHTENBERGKRAAG B, 1992, P NATL ACAD SCI USA, V89, P5384, DOI 10.1073/pnas.89.12.5384
+   MANDELKOW EM, 1992, FEBS LETT, V314, P315, DOI 10.1016/0014-5793(92)81496-9
+   RUEL L, 1993, NATURE, V362, P557, DOI 10.1038/362557a0
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   SIEGFRIED E, 1990, NATURE, V345, P825, DOI 10.1038/345825a0
+   VANDENHEEDE JR, 1980, J BIOL CHEM, V255, P1768
+   VULLIET R, 1992, J BIOL CHEM, V267, P22570
+   WEBB EC, 1990, EUR J BIOCHEM, V187, P263, DOI 10.1111/j.1432-1033.1990.tb15304.x
+   WOODGETT JR, 1984, BIOCHIM BIOPHYS ACTA, V788, P339, DOI 10.1016/0167-4838(84)90047-5
+   WOODGETT JR, 1990, EMBO J, V9, P2431
+   WOODGETT JR, 1989, ANAL BIOCHEM, V180, P237, DOI 10.1016/0003-2697(89)90423-5
+   YANG SD, 1991, J PROTEIN CHEM, V10, P171, DOI 10.1007/BF01024781
+NR 35
+TC 262
+Z9 268
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD JUL 5
+PY 1993
+VL 325
+IS 3
+BP 167
+EP 172
+DI 10.1016/0014-5793(93)81066-9
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA LK454
+UT WOS:A1993LK45400002
+ER
+
+PT J
+AU TAKAHASHI, M
+   TOMIZAWA, K
+   ISHIGURO, K
+   SATO, K
+   OMORI, A
+   SATO, S
+   SHIRATSUCHI, A
+   UCHIDA, T
+   IMAHORI, K
+AF TAKAHASHI, M
+   TOMIZAWA, K
+   ISHIGURO, K
+   SATO, K
+   OMORI, A
+   SATO, S
+   SHIRATSUCHI, A
+   UCHIDA, T
+   IMAHORI, K
+TI A NOVEL BRAIN-SPECIFIC 25 KDA PROTEIN (P25) IS PHOSPHORYLATED BY A SER
+   THR-PRO KINASE (TPK-II) FROM TAU PROTEIN-KINASE FRACTIONS
+SO FEBS LETTERS
+LA English
+DT Article
+DE BRAIN-SPECIFIC PROTEIN; PHOSPHORYLATION; PROTEIN KINASE; IMMUNOBLOT
+   ANALYSIS
+ID PAIRED HELICAL FILAMENTS; PURIFICATION
+AB A novel brain-specific 25 kDa protein (p25) was purified from a bovine brain extract.  The protein was phosphorylated by Ser/Thr-Pro kinase (TPK II) in tau protein kinase fractions at the Ser residues of Ser-Pro sequences.  Using immunoblot analysis, the protein was found only in brain extracts, and was most abundant in the brain regions such as cerebrum and hippocampus, but less abundant in cerebellum, medulla oblongata and olfactory bulb.  The protein was detected in rat, bovine and human brain extracts, indicating that this protein specifically exists in mammalian brain tissues.
+RP TAKAHASHI, M (reprint author), MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1006/abio.1976.9999
+   CISEK LJ, 1989, NATURE, V339, P679, DOI 10.1038/339679a0
+   COOPER JA, 1983, METHOD ENZYMOL, V99, P387
+   GRUNDKEIQBAL I, 1986, J BIOL CHEM, V261, P6084
+   GRUNDKEIQBAL I, 1986, P NATL ACAD SCI USA, V83, P4913, DOI 10.1073/pnas.83.13.4913
+   IHARA Y, 1986, J BIOCHEM-TOKYO, V99, P1807
+   IHARA Y, 1979, J BIOCHEM-TOKYO, V86, P587
+   ISHIGURO K, 1988, J BIOCHEM-TOKYO, V104, P319
+   ISHIGURO K, 1991, IN PRESS NEUROSCI LE
+   KUMAGAI H, 1979, J BIOCHEM-TOKYO, V85, P1267
+   LIU FT, 1979, BIOCHEMISTRY-US, V18, P690, DOI 10.1021/bi00571a022
+   MERRIFIELD RB, 1963, J AM CHEM SOC, V85, P2149, DOI 10.1021/ja00897a025
+   MITSUI K, 1990, SEIKAGAKU, V62, P457
+   MUROFUSH.H, 1973, BIOCHIM BIOPHYS ACTA, V327, P354, DOI 10.1016/0005-2744(73)90418-X
+   ROSKOSKI R, 1983, METHOD ENZYMOL, V99, P3
+   TAKAHASHI M, 1990, EUR J BIOCHEM, V192, P735, DOI 10.1111/j.1432-1033.1990.tb19284.x
+   TANG VCW, 1983, METHOD ENZYMOL, V92, P377
+   VULLIET PR, 1989, J BIOL CHEM, V264, P16292
+   WIBLE BA, 1989, P NATL ACAD SCI USA, V86, P720, DOI 10.1073/pnas.86.2.720
+   WOODFORD TA, 1986, J BIOL CHEM, V261, P4669
+NR 20
+TC 51
+Z9 55
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD SEP 2
+PY 1991
+VL 289
+IS 1
+BP 37
+EP 43
+DI 10.1016/0014-5793(91)80903-G
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA GE523
+UT WOS:A1991GE52300010
+ER
+
+PT J
+AU KAWASHIMA, S
+   HAYASHI, M
+   SAITO, Y
+   KASAI, Y
+   IMAHORI, K
+AF KAWASHIMA, S
+   HAYASHI, M
+   SAITO, Y
+   KASAI, Y
+   IMAHORI, K
+TI TISSUE DISTRIBUTION OF CALCIUM-ACTIVATED NEUTRAL PROTEINASES IN RAT
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 MITSUBISHI KASEI INST LIFE SCI,MACHIDA,TOKYO 194,JAPAN.
+RP KAWASHIMA, S (reprint author), TOKYO METROPOLITAN INST GERONTOL,DEPT BIOCHEM,35-2 SAKAE CHO,ITABASHI KU,TOKYO 173,JAPAN.
+CR BAUDRY M, 1980, P NATL ACAD SCI-BIOL, V77, P2298, DOI 10.1073/pnas.77.4.2298
+   CASSEL D, 1982, J BIOL CHEM, V257, P9845
+   CLARK AF, 1986, BIOCHEM J, V235, P279
+   DAYTON WR, 1976, BIOCHEMISTRY-US, V15, P2159, DOI 10.1021/bi00655a020
+   DAYTON WR, 1982, BIOCHIM BIOPHYS ACTA, V709, P166, DOI 10.1016/0167-4838(82)90457-5
+   EK B, 1986, EUR J BIOCHEM, V155, P409, DOI 10.1111/j.1432-1033.1986.tb09506.x
+   GOPALAKRISHNA R, 1985, ANAL BIOCHEM, V148, P413, DOI 10.1016/0003-2697(85)90247-7
+   GOPALAKRISHNA R, 1985, FEBS LETT, V186, P246, DOI 10.1016/0014-5793(85)80717-1
+   HAYASHI M, 1987, BIOCHEM BIOPH RES CO, V148, P567, DOI 10.1016/0006-291X(87)90914-4
+   HUSTON RB, 1968, BIOCHEMISTRY-US, V7, P2116, DOI 10.1021/bi00846a014
+   INOMATA M, 1983, J BIOCHEM-TOKYO, V93, P291
+   INOMATA M, 1985, J BIOCHEM-TOKYO, V98, P407
+   INOMATA M, 1986, BIOCHEM BIOPH RES CO, V138, P638, DOI 10.1016/S0006-291X(86)80544-7
+   KARLSSON JO, 1985, BIOCHEM J, V231, P201
+   KASAI Y, 1986, J BIOCHEM-TOKYO, V100, P183
+   KAWASHIMA S, 1984, J BIOCHEM-TOKYO, V95, P95
+   KISHIMOTO A, 1981, J BIOCHEM-TOKYO, V90, P889
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   MELLGREN RL, 1982, J BIOL CHEM, V257, P7203
+   MELLONI E, 1982, BIOCHEM BIOPH RES CO, V107, P1053, DOI 10.1016/0006-291X(82)90628-3
+   MURACHI T, 1981, BIOCHEM INT, V2, P651
+   NELSON WJ, 1981, EUR J BIOCHEM, V116, P51, DOI 10.1111/j.1432-1033.1981.tb05299.x
+   OHNO S, 1984, NATURE, V312, P566, DOI 10.1038/312566a0
+   PUCA GA, 1977, J BIOL CHEM, V252, P1358
+   SAKIHAMA T, 1985, P NATL ACAD SCI USA, V82, P6075, DOI 10.1073/pnas.82.18.6075
+   SCHLAEPFER WW, 1979, J NEUROCHEM, V32, P211, DOI 10.1111/j.1471-4159.1979.tb04530.x
+   SUZUKI K, 1983, J BIOCHEM-TOKYO, V93, P1463
+   SUZUKI K, 1981, J BIOCHEM-TOKYO, V90, P275
+   TAKAI Y, 1977, BIOCHEM BIOPH RES CO, V77, P542, DOI 10.1016/S0006-291X(77)80013-2
+   TAKANO E, 1984, BIOCHEM BIOPH RES CO, V122, P912, DOI 10.1016/0006-291X(84)91177-X
+   VEDECKIS WV, 1980, BIOCHEMISTRY-US, V19, P343, DOI 10.1021/bi00543a015
+NR 31
+TC 42
+Z9 42
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PD MAY 12
+PY 1988
+VL 965
+IS 2-3
+BP 130
+EP 135
+DI 10.1016/0304-4165(88)90048-7
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA N3943
+UT WOS:A1988N394300006
+ER
+
+PT J
+AU ZSNAGY, I
+   OHNOIWASHITA, Y
+   OHTA, M
+   ZSNAGY, V
+   KITANI, K
+   ANDO, S
+   IMAHORI, K
+AF ZSNAGY, I
+   OHNOIWASHITA, Y
+   OHTA, M
+   ZSNAGY, V
+   KITANI, K
+   ANDO, S
+   IMAHORI, K
+TI EFFECT OF PERFRINGOLYSIN O ON THE LATERAL DIFFUSION CONSTANT OF
+   MEMBRANE-PROTEINS OF HEPATOCYTES AS REVEALED BY FLUORESCENCE RECOVERY
+   AFTER PHOTOBLEACHING
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 TOKYO METROPOLITAN INST GERONTOL,CLIN PHYSIOL LAB 1,ITABASHI KU,TOKYO 173,JAPAN.
+   TOKYO METROPOLITAN INST GERONTOL,DEPT BIOCHEM,ITABASHI KU,TOKYO 173,JAPAN.
+CR AXELROD D, 1976, BIOPHYS J, V16, P1055
+   BLUMENTHAL R, 1984, J BACTERIOL, V157, P321
+   CHERRY RJ, 1979, BIOCHIM BIOPHYS ACTA, V559, P289, DOI 10.1016/0304-4157(79)90009-1
+   COWELL JL, 1978, ARCH BIOCHEM BIOPHYS, V190, P603, DOI 10.1016/0003-9861(78)90316-8
+   CRIADO M, 1982, BIOCHEMISTRY-US, V21, P5750, DOI 10.1021/bi00266a004
+   DAWSON RMC, 1969, DATA BIOCH RES, P507
+   DUNCAN JL, 1980, BIOCHIM BIOPHYS ACTA, V603, P278, DOI 10.1016/0005-2736(80)90374-0
+   EDELMAN GM, 1976, SCIENCE, V192, P218, DOI 10.1126/science.769162
+   EDIDIN M, 1974, ANNU REV BIOPHYS BIO, V3, P179, DOI 10.1146/annurev.bb.03.060174.001143
+   FISHER MH, 1981, P SOC EXP BIOL MED, V168, P233
+   GEIGER B, 1983, BIOCHIM BIOPHYS ACTA, V737, P305, DOI 10.1016/0304-4157(83)90005-9
+   HASE J, 1975, JPN J EXP MED, V45, P433
+   IWAMOTO M, 1987, EUR J BIOCHEM, V167, P425, DOI 10.1111/j.1432-1033.1987.tb13355.x
+   KITANI K, 1988, IN PRESS HEPATOLOGY
+   KLEINFELD AM, 1981, BIOCHIM BIOPHYS ACTA, V649, P471, DOI 10.1016/0005-2736(81)90438-7
+   LUSTYIK G, 1987, BIOCHIM BIOPHYS ACTA, V896, P57, DOI 10.1016/0005-2736(87)90356-7
+   MITSUI K, 1973, JPN J EXP MED, V43, P377
+   MITSUI K, 1979, BIOCHIM BIOPHYS ACTA, V554, P68, DOI 10.1016/0005-2736(79)90007-5
+   MUHLEBACH T, 1985, BIOCHEMISTRY-US, V24, P975
+   NICOLSON GL, 1976, BIOCHIM BIOPHYS ACTA, V457, P57, DOI 10.1016/0304-4157(76)90014-9
+   NOKUBO M, 1988, BIOCHIM BIOPHYS ACTA, V939, P441, DOI 10.1016/0005-2736(88)90090-9
+   NORTH P, 1983, J BIOL CHEM, V258, P1242
+   OHNOIWASHITA Y, 1986, BIOCHEMISTRY-US, V25, P6048, DOI 10.1021/bi00368a032
+   SAFFMAN PG, 1975, P NATL ACAD SCI USA, V72, P3111, DOI 10.1073/pnas.72.8.3111
+   SAITO M, 1983, J BIOCHEM-TOKYO, V94, P323
+   SAITO M, 1982, MECH AGEING DEV, V20, P53, DOI 10.1016/0047-6374(82)90074-4
+   SAITO M, 1986, BIOCHEM BIOPH RES CO, V137, P23, DOI 10.1016/0006-291X(86)91170-8
+   SAMUEL D, 1982, AGING BRAIN CELLULAR, P93
+   SCHLESSINGER J, 1976, P NATL ACAD SCI USA, V73, P2409, DOI 10.1073/pnas.73.7.2409
+   SHEETZ MP, 1980, NATURE, V285, P510, DOI 10.1038/285510a0
+   SHEETZ MP, 1979, P NATL ACAD SCI USA, V76, P3314, DOI 10.1073/pnas.76.7.3314
+   Smyth C. J., 1978, BACTERIAL TOXINS CEL, P129
+   SMYTH CJ, 1975, J GEN MICROBIOL, V87, P219
+   SU YX, 1984, BIOCHIM BIOPHYS ACTA, V776, P92, DOI 10.1016/0005-2736(84)90254-2
+   SZALLASI Z, 1988, IN PRESS J CELL SCI
+   TANK DW, 1982, J CELL BIOL, V92, P207, DOI 10.1083/jcb.92.1.207
+   THELESTAM M, 1980, INFECT IMMUN, V29, P863
+   VANBEZOOIJEN CFA, 1977, MECH AGEING DEV, V6, P293, DOI 10.1016/0047-6374(77)90031-8
+   VAZ WLC, 1982, BIOCHEMISTRY-US, V21, P5608, DOI 10.1021/bi00265a034
+   VAZ WLC, 1982, MEMBRANE RECONSTITUT, P83
+   YAMAKAWA Y, 1977, BIOCHIM BIOPHYS ACTA, V494, P301, DOI 10.1016/0005-2795(77)90159-3
+   YGUERABIDE J, 1982, BIOPHYS J, V39, P69
+   ZSNAGY I, 1986, ARCH GERONTOL GERIAT, V5, P131, DOI 10.1016/0167-4943(86)90016-6
+   ZSNAGY I, 1984, MIKROSKOPIE, V41, P12
+   ZSNAGY I, 1986, EXP GERONTOL, V21, P555, DOI 10.1016/0531-5565(86)90007-0
+   ZSNAGY V, 1988, IN PRESS TISSUE CELL
+NR 46
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PD APR 22
+PY 1988
+VL 939
+IS 3
+BP 551
+EP 560
+DI 10.1016/0005-2736(88)90102-2
+PG 10
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA N2666
+UT WOS:A1988N266600015
+ER
+
+PT J
+AU SHOJIKASAI, Y
+   SENSHU, M
+   IWASHITA, S
+   IMAHORI, K
+AF SHOJIKASAI, Y
+   SENSHU, M
+   IWASHITA, S
+   IMAHORI, K
+TI THIOL PROTEASE-SPECIFIC INHIBITOR-E-64 ARRESTS HUMAN EPIDERMOID
+   CARCINOMA-A431 CELLS AT MITOTIC METAPHASE
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+C1 MITSUBISHI KASEI INST LIFE SCI,11 MINAMIOOYA,MACHIDA,TOKYO 194,JAPAN.
+CR BARNES DW, 1982, J CELL BIOL, V93, P1, DOI 10.1083/jcb.93.1.1
+   CHOU IN, 1974, P NATL ACAD SCI USA, V71, P1748, DOI 10.1073/pnas.71.5.1748
+   COLLARD JG, 1974, EXP CELL RES, V86, P75, DOI 10.1016/0014-4827(74)90650-8
+   DOREE M, 1983, DEV BIOL, V99, P489, DOI 10.1016/0012-1606(83)90298-1
+   EVANS T, 1983, CELL, V33, P389, DOI 10.1016/0092-8674(83)90420-8
+   FABRICANT RN, 1977, P NATL ACAD SCI USA, V74, P565, DOI 10.1073/pnas.74.2.565
+   HANADA K, 1978, AGR BIOL CHEM TOKYO, V42, P529
+   HANADA K, 1978, AGR BIOL CHEM TOKYO, V42, P537
+   HANADA K, 1978, AGR BIOL CHEM TOKYO, V42, P523
+   IMAHORI K, 1982, MUSCULAR DYSTROPHY, P253
+   ISHIURA S, 1981, J BIOCHEM-TOKYO, V90, P283
+   KASAI Y, 1986, J BIOCHEM-TOKYO, V100, P183
+   KOSUGI Y, 1978, IEEE T BIO-MED ENG, V25, P429, DOI 10.1109/TBME.1978.326340
+   KRISHAN A, 1975, J CELL BIOL, V66, P188, DOI 10.1083/jcb.66.1.188
+   MASUI Y, 1971, J EXP ZOOL, V177, P129, DOI 10.1002/jez.1401770202
+   MATSUO M, 1982, J GERONTOL, V37, P33
+   NAKAMURA T, 1984, EXP CELL RES, V154, P81
+   PICARD A, 1985, DEV BIOL, V109, P311, DOI 10.1016/0012-1606(85)90458-0
+   ROSENSTREICH DL, 1978, IMMUNOL REV, V40, P102, DOI 10.1111/j.1600-065X.1978.tb00403.x
+   SCHNEBLI HP, 1972, P NATL ACAD SCI USA, V69, P3825, DOI 10.1073/pnas.69.12.3825
+   SCHNEBLI HP, 1974, NATURE, V248, P150, DOI 10.1038/248150a0
+   SWENSON KI, 1986, CELL, V47, P861, DOI 10.1016/0092-8674(86)90801-9
+   TAMAI M, 1986, J PHARMACOBIO-DYNAM, V9, P672
+   TAMAI M, 1981, J BIOCHEM-TOKYO, V90, P255
+   TANAKA K, 1986, J BIOL CHEM, V261, P2610
+   TODARO GJ, 1963, J CELL BIOL, V17, P299, DOI 10.1083/jcb.17.2.299
+   WAGENAAR EB, 1978, CELL REPROD HONOR D, P539
+NR 27
+TC 73
+Z9 73
+PU NATL ACAD PRESS
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN
+PY 1988
+VL 85
+IS 1
+BP 146
+EP 150
+DI 10.1073/pnas.85.1.146
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA L8646
+UT WOS:A1988L864600032
+ER
+
+PT J
+AU EMORI, Y
+   KAWASAKI, H
+   IMAJOH, S
+   IMAHORI, K
+   SUZUKI, K
+AF EMORI, Y
+   KAWASAKI, H
+   IMAJOH, S
+   IMAHORI, K
+   SUZUKI, K
+TI ENDOGENOUS INHIBITOR FOR CALCIUM-DEPENDENT CYSTEINE PROTEASE CONTAINS 4
+   INTERNAL REPEATS THAT COULD BE RESPONSIBLE FOR ITS MULTIPLE REACTIVE
+   SITES
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+C1 MITSUBISHI KASEI INST LIFE SCI, MACHIDA, TOKYO 194, JAPAN.
+RP EMORI, Y (reprint author), TOKYO METROPOLITAN INST MED SCI, DEPT BIOL, BUNKYO KU, TOKYO 113, JAPAN.
+RI Kawasaki, Hiroshi/C-3048-2011
+CR AOKI K, 1986, FEBS LETT, V205, P313, DOI 10.1016/0014-5793(86)80919-X
+   BARRETT AJ, 1986, RES MONOG CELL TISSU, V12, P515
+   BARRETT AJ, 1985, BIOL ROLE PROTEINASE, P13
+   CARRELL R, 1985, TRENDS BIOCHEM SCI, V10, P20, DOI 10.1016/0968-0004(85)90011-8
+   EMORI Y, 1986, J BIOL CHEM, V261, P9472
+   EMORI Y, 1986, J BIOL CHEM, V261, P9465
+   GUBLER U, 1983, GENE, V25, P263, DOI 10.1016/0378-1119(83)90230-5
+   HUYNH TV, 1985, DNA CLONING PRACTICA, P49
+   IMAHORI K, 1982, CALCIUM CELL FUNCTIO, V3, P473
+   IMAJOH S, 1984, BIOMED RES-TOKYO, V5, P481
+   ISHIURA S, 1982, BIOCHIM BIOPHYS ACTA, V701, P216, DOI 10.1016/0167-4838(82)90116-9
+   KAY J, 1983, PROTEASES POTENTIAL, P519
+   LEPLEY RA, 1985, BIOCHIM BIOPHYS ACTA, V828, P95, DOI 10.1016/0167-4838(85)90014-7
+   MANIATIS T, 1982, MOL CLONING LABORATO
+   MESSING J, 1983, METHOD ENZYMOL, V101, P20
+   MULLERESTERL W, 1986, TRENDS BIOCHEM SCI, V11, P336, DOI 10.1016/0968-0004(86)90293-8
+   Murachi T. M., 1983, CALCIUM CELL FUNCTIO, V4, P377
+   NAKAMURA M, 1984, J BIOCHEM-TOKYO, V96, P1339
+   NAKAMURA M, 1985, J BIOCHEM-TOKYO, V98, P757
+   OHNO S, 1986, NUCLEIC ACIDS RES, V14, P5559
+   OHNO S, 1984, NATURE, V312, P566, DOI 10.1038/312566a0
+   SAKIHAMA T, 1985, P NATL ACAD SCI USA, V82, P6075, DOI 10.1073/pnas.82.18.6075
+   SALVESEN G, 1986, BIOCHEM J, V234, P429
+   TAKANO E, 1986, BIOCHEM J, V235, P97
+   WAKAMATSU N, 1982, J BIOL CHEM, V257, P4653
+NR 25
+TC 158
+Z9 163
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUN
+PY 1987
+VL 84
+IS 11
+BP 3590
+EP 3594
+DI 10.1073/pnas.84.11.3590
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA H6030
+UT WOS:A1987H603000012
+ER
+
+PT J
+AU IMAJOH, S
+   KAWASAKI, H
+   EMORI, Y
+   ISHIURA, S
+   MINAMI, Y
+   SUGITA, H
+   IMAHORI, K
+   SUZUKI, K
+AF IMAJOH, S
+   KAWASAKI, H
+   EMORI, Y
+   ISHIURA, S
+   MINAMI, Y
+   SUGITA, H
+   IMAHORI, K
+   SUZUKI, K
+TI A FRAGMENT OF AN ENDOGENOUS INHIBITOR PRODUCED IN ESCHERICHIA-COLI FOR
+   CALCIUM-ACTIVATED NEUTRAL PROTEASE (CANP) RETAINS AN INHIBITORY ACTIVITY
+SO FEBS LETTERS
+LA English
+DT Article
+C1 MITSUBISHI KASEI INST LIFE SCI,MACHIDA,TOKYO 194,JAPAN.
+   NATL CTR NEUROL & PSYCHIAT,KODAIRA,TOKYO 187,JAPAN.
+RP IMAJOH, S (reprint author), TOKYO METROPOLITAN INST MED SCI,DEPT MOLEC BIOL,BUNKYO KU,TOKYO 113,JAPAN.
+RI Kawasaki, Hiroshi/C-3048-2011
+CR EMORI Y, 1987, IN PRESS P NATL ACAD
+   IMAHORI K, 1982, CALCIUM CELL FUNCTIO, V3, P473
+   IMAJOH S, 1985, FEBS LETT, V187, P47, DOI 10.1016/0014-5793(85)81211-4
+   IMAJOH S, 1984, BIOMED RES-TOKYO, V5, P481
+   IMAJOH S, 1986, J BIOCHEM-TOKYO, V100, P633
+   INOMATA M, 1984, J BIOCHEM-TOKYO, V95, P1661
+   ISHIURA S, 1981, LIFE SCI, V29, P1079, DOI 10.1016/0024-3205(81)90194-6
+   ISHIURA S, 1982, BIOCHIM BIOPHYS ACTA, V701, P216, DOI 10.1016/0167-4838(82)90116-9
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   Maniatis T., 1982, MOL CLONING
+   MESSING J, 1983, METHOD ENZYMOL, V101, P20
+   NAKAMURA M, 1985, J BIOCHEM-TOKYO, V98, P757
+   PARKES C, 1986, PROTEINASE INHIBITOR, V12, P571
+   SHIGETA K, 1984, BIOCHEM INT, V9, P327
+   SUZUKI K, 1984, CALCIUM REGULATION B, P213
+   TAKANO E, 1986, FEBS LETT, V208, P199, DOI 10.1016/0014-5793(86)81017-1
+   TOWATARI T, 1978, J BIOCHEM-TOKYO, V84, P659
+   YAMAMOTO T, 1986, BIOCHIM BIOPHYS ACTA, V882, P297, DOI 10.1016/0304-4165(86)90251-5
+NR 18
+TC 21
+Z9 22
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD MAY 11
+PY 1987
+VL 215
+IS 2
+BP 274
+EP 278
+DI 10.1016/0014-5793(87)80161-8
+PG 5
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA H5980
+UT WOS:A1987H598000016
+ER
+
+PT J
+AU KITABATAKE, S
+   TSURUTANI, R
+   NAKAJIMA, H
+   TOMITA, K
+   YOSHIHARA, Y
+   UEDA, H
+   TAKAGI, H
+   IMAHORI, K
+AF KITABATAKE, S
+   TSURUTANI, R
+   NAKAJIMA, H
+   TOMITA, K
+   YOSHIHARA, Y
+   UEDA, H
+   TAKAGI, H
+   IMAHORI, K
+TI A NOVEL METHOD FOR THE SYNTHESIS OF KYOTORPHIN, TYR-ARG, AND H-3
+   TYR-ARG, CATALYZED BY TYROSYL-TRANSFER-RNA SYNTHETASE FROM
+   BACILLUS-STEAROTHERMOPHILUS
+SO PHARMACEUTICAL RESEARCH
+LA English
+DT Article
+C1 KYOTO UNIV,DEPT PHARMACEUT SCI,KYOTO 606,JAPAN.
+   MITSUBISHI KASEI INST LIFE SCI,MACHIDA,TOKYO 194,JAPAN.
+RP KITABATAKE, S (reprint author), UNITIKA LTD,CTR RES & DEV,23 KOZAKURA,UJI,KYOTO 611,JAPAN.
+CR FRUTON JS, 1982, ADV ENZYMOL RAMB, V53, P239
+   KISO Y, 1980, J CHEM SOC CHEM COMM, P1063, DOI 10.1039/c39800001063
+   Kisselev L L, 1979, Methods Enzymol, V59, P234
+   NAKAJIMA H, 1984, BIOCHIM BIOPHYS ACTA, V790, P197, DOI 10.1016/0167-4838(84)90224-3
+   NAKAJIMA H, 1986, INT J PEPT PROT RES, V28, P179
+   ROLKA K, 1983, POL J PHARMACOL PHAR, V35, P473
+   SADA E, 1984, J CHEM ENG JPN, V17, P642, DOI 10.1252/jcej.17.642
+   SHIOMI H, 1985, YAKUGAKU ZASSHI, V105, P531
+   TAKAGI H, 1966, JPN J PHARMACOL, V16, P287, DOI 10.1254/jjp.16.287
+   TAKAGI H, 1979, NATURE, V282, P410, DOI 10.1038/282410a0
+   UEDA H, 1982, BRAIN RES, V231, P222, DOI 10.1016/0006-8993(82)90023-3
+   UEDA H, 1986, LIFE SCI, V38, P2405, DOI 10.1016/0024-3205(86)90609-0
+   UEDA H, IN PRESS NEUROSCI RE
+   UEDA H, 1986, BIOCHEM BIOPH RES CO, V137, P897, DOI 10.1016/0006-291X(86)91164-2
+   UEDA H, 1979, EUR J PHARMACOL, V56, P265, DOI 10.1016/0014-2999(79)90181-X
+   YAJIMA H, 1980, CHEM PHARM BULL, V28, P1935
+   YOSHIHARA Y, 1986, JPN J PHARMACOL, V40, pP219
+   59130194
+NR 18
+TC 9
+Z9 9
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0724-8741
+J9 PHARMACEUT RES
+JI Pharm. Res.
+PD APR
+PY 1987
+VL 4
+IS 2
+BP 154
+EP 157
+DI 10.1023/A:1016479305603
+PG 4
+WC Chemistry, Multidisciplinary; Pharmacology & Pharmacy
+SC Chemistry; Pharmacology & Pharmacy
+GA G9882
+UT WOS:A1987G988200015
+ER
+
+PT J
+AU INOMATA, M
+   IMAHORI, K
+   KAWASHIMA, S
+AF INOMATA, M
+   IMAHORI, K
+   KAWASHIMA, S
+TI AUTOLYTIC ACTIVATION OF CALCIUM-ACTIVATED NEUTRAL PROTEASE
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+RP INOMATA, M (reprint author), TOKYO METROPOLITAN INST GERONTOL,DEPT BIOCHEM,35-2 SAKAE CHO,ITABASHI KU,TOKYO 173,JAPAN.
+CR COTTIN P, 1983, BIOCHIM BIOPHYS ACTA, V743, P299, DOI 10.1016/0167-4838(83)90227-3
+   CROALL DE, 1984, BIOCHIM BIOPHYS ACTA, V788, P348, DOI 10.1016/0167-4838(84)90048-7
+   DAYTON WR, 1982, BIOCHIM BIOPHYS ACTA, V709, P166, DOI 10.1016/0167-4838(82)90457-5
+   HATHAWAY DR, 1982, J BIOL CHEM, V257, P9072
+   INOMATA M, 1983, J BIOCHEM-TOKYO, V93, P291
+   INOMATA M, 1985, J BIOCHEM-TOKYO, V98, P407
+   INOMATA M, 1984, J BIOCHEM-TOKYO, V95, P1661
+   MELLONI E, 1982, BIOCHEM BIOPH RES CO, V107, P1053, DOI 10.1016/0006-291X(82)90628-3
+   Murachi T. M., 1983, CALCIUM CELL FUNCTIO, V4, P377
+   NAKAMURA M, 1984, J BIOCHEM-TOKYO, V96, P1399
+   NELSON WJ, 1982, J BIOL CHEM, V257, P5544
+   PONTREMOLI S, 1985, ARCH BIOCHEM BIOPHYS, V239, P517, DOI 10.1016/0003-9861(85)90720-9
+   PONTREMOLI S, 1984, BIOCHEM BIOPH RES CO, V123, P331, DOI 10.1016/0006-291X(84)90417-0
+   SUZUKI K, 1981, J BIOCHEM-TOKYO, V90, P1787
+   SUZUKI K, 1983, J BIOCHEM-TOKYO, V93, P1463
+NR 15
+TC 42
+Z9 43
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD JUL 31
+PY 1986
+VL 138
+IS 2
+BP 638
+EP 643
+DI 10.1016/S0006-291X(86)80544-7
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA D5310
+UT WOS:A1986D531000020
+ER
+
+PT J
+AU NAKAJIMA, H
+   KITABATAKE, S
+   TSURUTANI, R
+   TOMIOKA, I
+   YAMAMOTO, K
+   IMAHORI, K
+AF NAKAJIMA, H
+   KITABATAKE, S
+   TSURUTANI, R
+   TOMIOKA, I
+   YAMAMOTO, K
+   IMAHORI, K
+TI REACTIONS OF THE AMINOACYL-TRANSFER RNA SYNTHETASE-AMINOACYL ADENYLATE
+   COMPLEX AND AMINO-ACID DERIVATIVES - A NEW APPROACH TO PEPTIDE-SYNTHESIS
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 TOKYO METROPOLITAN INST GERONTOL,ITABASHI KU,TOKYO 173,JAPAN.
+RP NAKAJIMA, H (reprint author), UNITIKA LTD,CTR RES & DEV,23 KOZAKURA,UJI,KYOTO 611,JAPAN.
+CR ALLENDE JE, 1971, METHODS ENZYMOL, P210
+   Eigner E A, 1974, Methods Enzymol, V29, P601
+   ELDRED EW, 1981, BIOCHEMISTRY, V11, P17
+   FRUTON JS, 1982, ADV ENZYMOL RAMB, V53, P239
+   KONDOH H, 1984, J APPL BIOCH
+   Soll D., 1974, ENZYMES, V10, P489
+   STADTMAN ER, 1973, ENZYMES, V8, P1
+NR 7
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1984
+VL 790
+IS 2
+BP 197
+EP 199
+DI 10.1016/0167-4838(84)90224-3
+PG 3
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TT062
+UT WOS:A1984TT06200013
+ER
+
+PT J
+AU SASAKI, M
+   TANIGUCHI, K
+   SUZUKI, K
+   IMAHORI, K
+AF SASAKI, M
+   TANIGUCHI, K
+   SUZUKI, K
+   IMAHORI, K
+TI HUMAN-PLASMA ALPHA-1-THIOL AND ALPHA-2-THIOL PROTEINASE-INHIBITORS
+   STRONGLY INHIBIT CA-ACTIVATED NEUTRAL PROTEASE FROM MUSCLE
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+C1 UNIV TOKYO,FAC MED,DEPT BIOCHEM,BUNKYO KU,TOKYO 113,JAPAN.
+RP SASAKI, M (reprint author), NAGOYA CITY UNIV,SCH MED,DEPT BIOCHEM,MIZUHO KU,NAGOYA,AICHI 467,JAPAN.
+CR DAYTON WR, 1976, BIOCHEMISTRY-US, V15, P2150, DOI 10.1021/bi00655a019
+   ENGLUND PT, 1968, BIOCHEMISTRY-US, V7, P163, DOI 10.1021/bi00841a021
+   GREENWOOD FC, 1963, BIOCHEM J, V89, P114
+   GUROFF G, 1964, J BIOL CHEM, V239, P149
+   HARTLEY BS, 1960, ANNU REV BIOCHEM, V29, P45, DOI 10.1146/annurev.bi.29.070160.000401
+   INOUE M, 1977, J BIOL CHEM, V252, P7610
+   ISHIURA S, 1978, J BIOCHEM-TOKYO, V84, P225
+   IWATA D, 1982, BIOCHEM BIOPH RES CO, V104, P1525, DOI 10.1016/0006-291X(82)91424-3
+   JARVINEN M, 1979, FEBS LETT, V108, P461, DOI 10.1016/0014-5793(79)80588-8
+   MURACHI T, 1981, BIOCHEM INT, V2, P651
+   MURAKAMI T, 1981, J BIOCHEM-TOKYO, V90, P1809
+   PAGANO M, 1982, FEBS LETT, V138, P307, DOI 10.1016/0014-5793(82)80467-5
+   PHILLIPS DR, 1977, J BIOL CHEM, V252, P5602
+   REDDY MK, 1975, J BIOL CHEM, V250, P4278
+   RYLEY HC, 1979, BIOCHEM BIOPH RES CO, V89, P871, DOI 10.1016/0006-291X(79)91859-X
+   SASAKI M, 1981, J BIOCHEM-TOKYO, V89, P169
+   SASAKI M, 1977, BIOCHEM BIOPH RES CO, V76, P917, DOI 10.1016/0006-291X(77)91589-3
+   SUZUKI K, 1979, FEBS LETT, V104, P355, DOI 10.1016/0014-5793(79)80851-0
+   TAKAI Y, 1977, BIOCHEM BIOPH RES CO, V77, P542, DOI 10.1016/S0006-291X(77)80013-2
+NR 19
+TC 25
+Z9 25
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PY 1983
+VL 110
+IS 1
+BP 256
+EP 261
+DI 10.1016/0006-291X(83)91288-3
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA PY431
+UT WOS:A1983PY43100038
+ER
+
+PT J
+AU FUJITAYAMAGUCHI, Y
+   OISHI, K
+   SUZUKI, K
+   IMAHORI, K
+AF FUJITAYAMAGUCHI, Y
+   OISHI, K
+   SUZUKI, K
+   IMAHORI, K
+TI STUDIES ON CARBOHYDRATE BINDING TO A LECTIN PURIFIED FROM STREPTOMYCES
+   SP
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+C1 UNIV TOKYO,FAC MED,DEPT BIOCHEM,BUNKYO KU,TOKYO 113,JAPAN.
+   UNIV TOKYO,INST APPL MICROBIOL,BUNKYO KU,TOKYO 113,JAPAN.
+CR BURES L, 1972, BIOCHIM BIOPHYS ACTA, V285, P235, DOI 10.1016/0005-2795(72)90194-8
+   CLAMP JR, 1967, BIOCHIM BIOPHYS ACTA, V148, P342, DOI 10.1016/0304-4165(67)90129-8
+   CREMAKOVA M, 1976, BIOCH BIOPHYS ACTA, V420, P236
+   EDELMAN GM, 1972, P NATL ACAD SCI USA, V69, P2580, DOI 10.1073/pnas.69.9.2580
+   FUJITA Y, 1976, THESIS U TOKYO
+   FUJITA Y, 1973, BIOCHEM BIOPH RES CO, V53, P495, DOI 10.1016/0006-291X(73)90689-X
+   FUJITA Y, 1975, BIOCHEMISTRY-US, V14, P4465, DOI 10.1021/bi00691a019
+   FUJITAYAMAGUCHI Y, 1979, FEBS LETT, V103, P256, DOI 10.1016/0014-5793(79)81340-X
+   HAMMARSTROM S, 1971, Biochemistry, V10, P1684
+   HASSING GS, 1972, BIOCHIM BIOPHYS ACTA, V271, P388, DOI 10.1016/0005-2795(72)90214-0
+   LOTAN R, 1974, J BIOL CHEM, V249, P1210
+   MATSUMOTO I, 1980, J BIOCHEM-TOKYO, V88, P1093
+   MURPHY LA, 1977, J BIOL CHEM, V252, P4739
+   NAGATA Y, 1974, J BIOL CHEM, V249, P3116
+   OHNISHI M, 1975, J BIOCHEM-TOKYO, V77, P695
+   OLSNES S, 1974, J BIOL CHEM, V249, P803
+   PATCHORNIK A, 1958, J AM CHEM SOC, V80, P4747, DOI 10.1021/ja01550a090
+   PRIVAT JP, 1976, EUR J BIOCHEM, V68, P563, DOI 10.1111/j.1432-1033.1976.tb10844.x
+   RICE RH, 1975, BIOCHEMISTRY-US, V14, P4093, DOI 10.1021/bi00689a027
+   SCATCHARD G, 1949, ANN NY ACAD SCI, V51, P660, DOI 10.1111/j.1749-6632.1949.tb27297.x
+   SIPS R, 1948, J CHEM PHYS, V16, P490, DOI 10.1063/1.1746922
+   SPANDE TF, 1966, BIOCHEMISTRY-US, V5, P1926, DOI 10.1021/bi00870a020
+   TROWBRID.IS, 1974, J BIOL CHEM, V249, P6004
+   UEHARA K, 1979, J BIOCHEM-TOKYO, V85, P105
+   VANLANDSCHOOT A, 1978, EUR J BIOCHEM, V83, P277
+   WETLAUFER DB, 1962, ADV PROTEIN CHEM, V17, P346
+NR 26
+TC 6
+Z9 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1982
+VL 701
+IS 1
+BP 86
+EP 92
+DI 10.1016/0167-4838(82)90315-6
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA NA226
+UT WOS:A1982NA22600013
+ER
+
+PT J
+AU KUBOTA, S
+   SUZUKI, K
+   IMAHORI, K
+AF KUBOTA, S
+   SUZUKI, K
+   IMAHORI, K
+TI A NEW METHOD FOR THE PREPARATION OF A CALCIUM ACTIVATED NEUTRAL PROTEASE
+   HIGHLY SENSITIVE TO CALCIUM-IONS
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+C1 TOKYO METROPOLITAN INST GERONTOL,ITABASHI KU,TOKYO 173,JAPAN.
+RP KUBOTA, S (reprint author), UNIV TOKYO,FAC MED,DEPT BIOCHEM,BUNKYO KU,TOKYO 113,JAPAN.
+CR AZANZA JL, 1979, BIOCHEM J, V183, P339
+   DAVIS BJ, 1964, ANN NY ACAD SCI, V121, P404, DOI 10.1111/j.1749-6632.1964.tb14213.x
+   DAYTON WR, 1976, BIOCHEMISTRY-US, V15, P2159, DOI 10.1021/bi00655a020
+   HANADA K, 1978, AGR BIOL CHEM TOKYO, V42, P523
+   ISHIURA S, 1978, J BIOCHEM-TOKYO, V84, P225
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   MELLGREN RL, 1980, FEBS LETT, V109, P129, DOI 10.1016/0014-5793(80)81326-3
+   REDDY MK, 1975, J BIOL CHEM, V250, P4278
+   WAXMAN L, 1978, J BIOL CHEM, V253, P5888
+NR 9
+TC 45
+Z9 46
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PY 1981
+VL 100
+IS 3
+BP 1189
+EP 1194
+DI 10.1016/0006-291X(81)91949-5
+PG 6
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA LU824
+UT WOS:A1981LU82400040
+ER
+
+PT J
+AU SUZUKI, K
+   ISHIURA, S
+   TSUJI, S
+   KATAMOTO, T
+   SUGITA, H
+   IMAHORI, K
+AF SUZUKI, K
+   ISHIURA, S
+   TSUJI, S
+   KATAMOTO, T
+   SUGITA, H
+   IMAHORI, K
+TI CALCIUM ACTIVATED NEUTRAL PROTEASE FROM HUMAN SKELETAL-MUSCLE
+SO FEBS LETTERS
+LA English
+DT Article
+C1 NATL CTR NERVOUS MENTAL & MUSCULAR DISORDERS,DIV NEUROMUSCULAR RES,TOKYO,JAPAN.
+   UNIV TOKYO,FAC MED,INST BRAIN RES,DEPT NEUROL,BUNKYO KU,TOKYO 113,JAPAN.
+RP SUZUKI, K (reprint author), UNIV TOKYO,FAC MED,DEPT BIOCHEM,BUNKYO KU,TOKYO 113,JAPAN.
+CR DAYTON WR, 1976, BIOCHEMISTRY-US, V15, P2159, DOI 10.1021/bi00655a020
+   DAYTON WR, 1976, BIOCHEMISTRY-US, V15, P2150, DOI 10.1021/bi00655a019
+   DAYTON WR, 1975, PROTEASES BIOL CONTR, P551
+   HUSTON RB, 1968, BIOCHEMISTRY-US, V7, P2116, DOI 10.1021/bi00846a014
+   INOUE M, 1977, J BIOL CHEM, V252, P7610
+   ISHIURA S, 1978, J BIOCHEM-TOKYO, V84, P225
+   Ouchterlony O., 1967, HDB EXPT IMMUNOLOGY, P655
+   PHILLIPS DR, 1977, J BIOL CHEM, V252, P5602
+   PUCA GA, 1977, J BIOL CHEM, V252, P1358
+   SUZUKI K, 1973, J BIOCHEM-TOKYO, V73, P97
+   TAKAI Y, 1977, BIOCHEM BIOPH RES CO, V77, P542, DOI 10.1016/S0006-291X(77)80013-2
+NR 11
+TC 70
+Z9 70
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1979
+VL 104
+IS 2
+BP 355
+EP 358
+DI 10.1016/0014-5793(79)80851-0
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA HG734
+UT WOS:A1979HG73400036
+ER
+
+PT J
+AU OHNOIWASHITA, Y
+   IMAHORI, K
+AF OHNOIWASHITA, Y
+   IMAHORI, K
+TI COMPARATIVE STUDIES ON THE STRUCTURES OF COLICIN-E2 AND COLICIN-E3
+SO FEBS LETTERS
+LA English
+DT Article
+RP OHNOIWASHITA, Y (reprint author), UNIV TOKYO,FAC MED,DEPT BIOCHEM,BUNKYO KU,TOKYO 113,JAPAN.
+CR BOON T, 1971, P NATL ACAD SCI USA, V68, P2421, DOI 10.1073/pnas.68.10.2421
+   BOWMAN CM, 1971, NATURE-NEW BIOL, V234, P133
+   BOWMAN CM, 1971, P NATL ACAD SCI USA, V68, P964, DOI 10.1073/pnas.68.5.964
+   HERSCHMA.HR, 1967, J BIOL CHEM, V242, P5360
+   HIROSE A, 1976, J BIOCHEM-TOKYO, V79, P305
+   INSELBUR.J, 1973, NATURE-NEW BIOL, V241, P234
+   JAKES KS, 1974, P NATL ACAD SCI USA, V71, P3380, DOI 10.1073/pnas.71.9.3380
+   KONISKY J, 1973, CHEM FUNCTIONS COLIC, P41
+   OHNO S, 1977, J BIOCHEM-TOKYO, V82, P1045
+   PUGSLEY AP, 1977, ANTIMICROB AGENTS CH, V11, P345
+   SAXE LS, 1975, BIOCHEMISTRY-US, V14, P2051, DOI 10.1021/bi00681a003
+   SCHALLER K, 1976, P NATL ACAD SCI USA, V73, P3989, DOI 10.1073/pnas.73.11.3989
+   SENIOR BW, 1971, P NATL ACAD SCI USA, V68, P959, DOI 10.1073/pnas.68.5.959
+   SUZUKI K, 1978, J BIOCHEM-TOKYO, V84, P1031
+   SUZUKI K, 1978, J BIOCHEM-TOKYO, V84, P1021
+   WEBER K, 1969, J BIOL CHEM, V244, P4406
+   YAMAMOTO H, 1978, J BIOCHEM-TOKYO, V83, P827
+NR 17
+TC 12
+Z9 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1979
+VL 100
+IS 2
+BP 249
+EP 252
+DI 10.1016/0014-5793(79)80344-0
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA GT781
+UT WOS:A1979GT78100008
+ER
+
+EF

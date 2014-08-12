@@ -1,0 +1,2619 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Wakakuwa, E
+   Murao, M
+AF Wakakuwa, Eyuri
+   Murao, Mio
+TI The chain rule implies Tsirelson's bound: an approach from generalized
+   mutual information
+SO NEW JOURNAL OF PHYSICS
+LA English
+DT Article
+ID CLASSICAL INFORMATION; QUANTUM CHANNEL; CAPACITY
+AB In order to analyze an information theoretical derivation of Tsirelson's bound based on information causality, we introduce a generalized mutual information (GMI), defined as the optimal coding rate of a channel with classical inputs and general probabilistic outputs. In the case where the outputs are quantum, the GMI coincides with the quantum mutual information. In general, the GMI does not necessarily satisfy the chain rule. We prove that Tsirelson's bound can be derived by imposing the chain rule on the GMI. We formulate a principle, which we call the no-supersignaling condition, which states that the assistance of nonlocal correlations does not increase the capability of classical communication. We prove that this condition is equivalent to the no-signaling condition. As a result, we show that Tsirelson's bound is implied by the nonpositivity of the quantitative difference between information causality and no-supersignaling.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+RP Wakakuwa, E (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+EM wakakuwa@eve.phys.s.u-tokyo.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology (MEXT),
+   Japan; JSPS of KAKENHI [23540463]
+FX We thank T Sugiyama, P S Turner and S Beigi for useful discussions. We
+   also thank the referees for their useful comments. This work was
+   supported by Project for Developing Innovation Systems of the Ministry
+   of Education, Culture, Sports, Science and Technology (MEXT), Japan. MM
+   acknowledges support from JSPS of KAKENHI (grant no. 23540463).
+CR Al-Safi SW, 2011, PHYS REV A, V84, DOI 10.1103/PhysRevA.84.042323
+   Barnum H, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/3/033024
+   Barnum H, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.240501
+   Barrett J, 2007, PHYS REV A, V75, DOI 10.1103/PhysRevA.75.032304
+   Beigi S, 2011, ARXIV11113151
+   Bell J.S., 1964, Physics, V1
+   Brassard G, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.250401
+   Brunner N, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.160403
+   CLAUSER JF, 1969, PHYS REV LETT, V23, P880, DOI 10.1103/PhysRevLett.23.880
+   Cover T M, 2006, ELEMENTS INFORM THEO, P199
+   Dahlsten OCO, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/6/063024
+   Gallego R, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.210403
+   Hausladen P, 1996, PHYS REV A, V54, P1869, DOI 10.1103/PhysRevA.54.1869
+   Holevo AS, 1998, IEEE T INFORM THEORY, V44, P269, DOI 10.1109/18.651037
+   Linden N, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.180502
+   Pawlowski M, 2009, NATURE, V461, P1101, DOI 10.1038/nature08400
+   POPESCU S, 1994, FOUND PHYS, V24, P379, DOI 10.1007/BF02058098
+   SCHUMACHER B, 1995, PHYS REV A, V51, P2738, DOI 10.1103/PhysRevA.51.2738
+   Schumacher B, 1997, PHYS REV A, V56, P131, DOI 10.1103/PhysRevA.56.131
+   Short AJ, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/3/033023
+   Tsirelson (Cirel'son) B.S., 1980, LETT MATH PHYS, V4, P93
+   Yang TH, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/1/013061
+NR 22
+TC 0
+Z9 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1367-2630
+J9 NEW J PHYS
+JI New J. Phys.
+PD NOV 27
+PY 2012
+VL 14
+AR 113037
+DI 10.1088/1367-2630/14/11/113037
+PG 24
+WC Physics, Multidisciplinary
+SC Physics
+GA 043WI
+UT WOS:000311580900002
+ER
+
+PT J
+AU Sugiyama, T
+   Turner, PS
+   Murao, M
+AF Sugiyama, Takanori
+   Turner, Peter S.
+   Murao, Mio
+TI Effect of non-negativity on estimation errors in one-qubit state
+   tomography with finite data
+SO NEW JOURNAL OF PHYSICS
+LA English
+DT Article
+AB We analyze the behavior of estimation errors evaluated by two loss functions, namely the Hilbert-Schmidt distance and infidelity, in one-qubit state tomography with finite data. We show numerically that there can be a large gap between the estimation errors and those predicted by an asymptotic analysis. The origin of this discrepancy is the existence of a boundary in the state space imposed by the requirement that density matrices be non-negative (positive semidefinite). We derive the explicit form of a function reproducing the behavior of estimation errors with high accuracy by introducing two approximations: a Gaussian approximation of the multinomial distributions of outcomes and a linearization of the boundary. This function gives us an intuition of the behavior of the expected losses for finite data sets. We show that this function can be used to determine the amount of data necessary for the estimation to be treated reliably with the asymptotic theory. We give an explicit expression for this amount, which exhibits strong sensitivity to the true quantum state as well as the choice of measurement.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo 1538505, Japan.
+RP Sugiyama, T (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM sugiyama@eve.phys.s.u-tokyo.ac.jp
+RI Turner, Peter/E-9197-2010
+FU JSPS [22-7564]; Ministry of Education, Culture, Sports, Science and
+   Technology (MEXT), Japan
+FX TS thanks R Blume-Kohout and C Ferrie for their correspondence and F
+   Tanaka for helpful discussion on mathematical statistics. PST thanks D
+   Mahler, L Rozema and A Steinberg for discussions pointing out the
+   importance of this problem. This work was supported by JSPS Research
+   Fellowships for Young Scientists (22-7564) and Project for Developing
+   Innovation Systems of the Ministry of Education, Culture, Sports,
+   Science and Technology (MEXT), Japan.
+CR Abramowitz M., 1972, HDB MATH FUNCTIONS F
+   Audenaert KMR, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/2/023028
+   Bagan E, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.010304
+   Blume-Kohout R, 2012, ARXIV12025270QUANTPH
+   CHERNOFF H, 1954, ANN MATH STAT, V25, P573, DOI 10.1214/aoms/1177728725
+   de Burgh MD, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.052122
+   Gill RD, 2000, PHYS REV A, V61, DOI 10.1103/PhysRevA.61.042312
+   Hayashi M, 2005, ASYMPTOTIC THEORY QU
+   Hradil Z, 1997, PHYS REV A, V55, pR1561
+   Paris M., 2004, LECT NOTES PHYS
+   PRUGOVECKI E, 1977, INT J THEOR PHYS, V16, P321, DOI 10.1007/BF01807146
+   Rao CR, 2002, WILEY SERIES PROBABI
+   SELF SG, 1987, J AM STAT ASSOC, V82, P605, DOI 10.2307/2289471
+   Sugiyama T, 2011, PHYS REV A, V83, DOI 10.1103/PhysRevA.83.012105
+   Sugiyama T, 2012, PHYS REV A, V85, DOI 10.1103/PhysRevA.85.052107
+NR 15
+TC 0
+Z9 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1367-2630
+J9 NEW J PHYS
+JI New J. Phys.
+PD AUG 1
+PY 2012
+VL 14
+AR 085005
+DI 10.1088/1367-2630/14/8/085005
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA 987SS
+UT WOS:000307438600005
+ER
+
+PT J
+AU Nakata, Y
+   Turner, PS
+   Murao, M
+AF Nakata, Yoshifumi
+   Turner, Peter S.
+   Murao, Mio
+TI Phase-random states: Ensembles of states with fixed amplitudes and
+   uniformly distributed phases in a fixed basis
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID AVERAGE ENTROPY; QUANTUM STATES; ENTANGLEMENT; SUBSYSTEM
+AB Motivated by studies of typical properties of quantum states in statistical mechanics, we introduce phase-random states, an ensemble of pure states with fixed amplitudes and uniformly distributed phases in a fixed basis. We first give a sufficient condition for canonical states to typically appear in subsystems of phase-random states, which reveals a trade-off relation between the initial state in the bounded energy subspace and the energy eigenstates that define that subspace. We then investigate the simulatability of phase-random states, which is directly related to that of time evolution in closed systems, by studying their entanglement properties. We find that, starting from a separable state, time evolutions under Hamiltonians composed of only separable eigenstates generate extremely high entanglement and are difficult to simulate with matrix-product states. We also show that random quantum circuits consisting of only two-qubit diagonal unitaries can generate an ensemble with the same average entanglement as phase-random states.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1538505, Japan.
+RP Nakata, Y (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+RI Turner, Peter/E-9197-2010
+FU MEXT, Japan; JSPS KAKENHI [222812, 23540463, 23240001]
+FX We acknowledge V. Vedral for useful comments. This work is supported by
+   a Project for Developing Innovation Systems of MEXT, Japan and by JSPS
+   KAKENHI (Grants No. 222812, No. 23540463, and No. 23240001).
+CR Bennett CH, 2005, IEEE T INFORM THEORY, V51, P56, DOI 10.1109/TIT.2004.839476
+   Bravyi S, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.050401
+   Bremner MJ, 2011, P ROY SOC A-MATH PHY, V467, P459, DOI 10.1098/rspa.2010.0301
+   Dahlsten OCO, 2007, J PHYS A-MATH THEOR, V40, P8081, DOI 10.1088/1751-8113/40/28/S16
+   Eisert J, 2010, REV MOD PHYS, V82, P277, DOI 10.1103/RevModPhys.82.277
+   FOONG SK, 1994, PHYS REV LETT, V72, P1148, DOI 10.1103/PhysRevLett.72.1148
+   Goldstein S, 2010, EUR PHYS J H, V35, P173, DOI 10.1140/epjh/e2010-00007-7
+   Goldstein S, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.050403
+   Hayden P, 2004, COMMUN MATH PHYS, V250, P371, DOI 10.1007/s00220-004-1087-6
+   Hayden P, 2006, COMMUN MATH PHYS, V265, P95, DOI 10.1007/s00220-006-1535-6
+   Hayden P, 2007, J HIGH ENERGY PHYS
+   Ikeda TN, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.021130
+   KADISON RV, 1952, ANN MATH, V56, P494, DOI 10.2307/1969657
+   Kruszynska C, 2009, PHYS REV A, V79, DOI 10.1103/PhysRevA.79.052304
+   Leudox M., 2001, AMS MONOGRAPHS, V89
+   Levin D. A., 2009, MARKOV CHAINS MIXING
+   Linden N, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.061103
+   LUBKIN E, 1978, J MATH PHYS, V19, P1028, DOI 10.1063/1.523763
+   Meyer DA, 2002, J MATH PHYS, V43, P4273, DOI 10.1063/1.1497700
+   Nakata Y., 2012, ARXIV12064451
+   Oliveira R, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.130502
+   PAGE DN, 1993, PHYS REV LETT, V71, P1291, DOI 10.1103/PhysRevLett.71.1291
+   Popescu S, 2006, NAT PHYS, V2, P754, DOI 10.1038/nphys444
+   Shepherd D, 2009, P R SOC A, V465, P1413, DOI 10.1098/rspa.2008.0443
+   SINCLAIR, 1992, COMBINAT PROBAB COMP, V1, P351, DOI 10.1017/S0963548300000390
+   Terhal BM, 2001, PHYS REV LETT, V86, P5807, DOI 10.1103/PhysRevLett.86.5807
+NR 26
+TC 0
+Z9 0
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUL 3
+PY 2012
+VL 86
+IS 1
+AR 012301
+DI 10.1103/PhysRevA.86.012301
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 967UW
+UT WOS:000305934300002
+ER
+
+PT J
+AU Sugiyama, T
+   Turner, PS
+   Murao, M
+AF Sugiyama, Takanori
+   Turner, Peter S.
+   Murao, Mio
+TI Adaptive experimental design for one-qubit state estimation with finite
+   data based on a statistical update criterion
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+AB We consider 1-qubit mixed quantum state estimation by adaptively updating measurements according to previously obtained outcomes and measurement settings. Updates are determined by the average-variance-optimality (A-optimality) criterion, known in the classical theory of experimental design and applied here to quantum state estimation. In general, A optimization is a nonlinear minimization problem; however, we find an analytic solution for 1-qubit state estimation using projective measurements, reducing computational effort. We compare numerically the performances of two adaptive and two nonadaptive schemes for finite data sets and show that the A-optimality criterion gives more precise estimates than standard quantum tomography.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo 1538505, Japan.
+RP Sugiyama, T (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM sugiyama@eve.phys.s.u-tokyo.ac.jp; turner@phys.s.u-tokyo.ac.jp;
+   murao@phys.s.u-tokyo.ac.jp
+RI Turner, Peter/E-9197-2010
+FU JSPS [22-7564]; Ministry of Education, Culture, Sports, Science and
+   Technology (MEXT), Japan.
+FX T.S. would like to thank Fuyuhiko Tanaka for helpful discussion on
+   mathematical statistics and Terumasa Tadano for useful advice on
+   numerical simulation. This work was supported by JSPS Research
+   Fellowships for Young Scientists (22-7564) and Project for Developing
+   Innovation Systems of the Ministry of Education, Culture, Sports,
+   Science and Technology (MEXT), Japan.
+CR Bagan E, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.032301
+   Bagan E, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.130501
+   Bagan E, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.010304
+   Blume-Kohout R, 2012, ARXIV12025270QUANTPH
+   Blume-Kohout R, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/4/043034
+   de Burgh MD, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.052122
+   Fischer DG, 2000, PHYS LETT A, V273, P293, DOI 10.1016/S0375-9601(00)00513-2
+   Fischer DG, 2000, PHYS REV A, V61, part. no., DOI 10.1103/PhysRevA.61.032306
+   Fujiwara A, 2006, J PHYS A-MATH GEN, V39, P12489, DOI 10.1088/0305-4470/39/40/014
+   Gill RD, 2000, PHYS REV A, V61, DOI 10.1103/PhysRevA.61.042312
+   Hall P., 1980, PROBABILITY MATH STA
+   Hannemann T, 2002, PHYS REV A, V65, DOI 10.1103/PhysRevA.65.050303
+   Happ CJ, 2011, EUR PHYS J D, V64, P579, DOI 10.1140/epjd/e2011-20367-9
+   Happ CJ, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.064303
+   Hayashi M., 1998, RIMS KOKYUROKU, V1055, P96
+   Hayashi M., 2005, ASYMPTOTIC THEORY QU
+   Horn R. A., 1985, MATRIX ANAL
+   Huszar F., 2011, ARXIV11070895QUANTPH
+   Nagaoka H., 1989, P 12 S INF THEOR ITS, P577
+   Nagaoka H., 2005, ASYMPTOTIC THEORY QU
+   Nunn J, 2010, PHYS REV A, V81, DOI 10.1103/PhysRevA.81.042109
+   Paris M., 2004, LECT NOTES PHYS
+   Petz D., 2007, QP PQ QUANTUM PROBAB, V21, P247
+   Pukelsheim F., 2006, CLASSICS APPL MATH
+   Rao CR, 2002, WILEY SERIES PROBABI
+   Rehacek J, 2004, PHYS REV A, V70, DOI 10.1103/PhysRevA.70.052321
+   Sugiyama T, 2011, PHYS REV A, V83, DOI 10.1103/PhysRevA.83.012105
+   Sugiyama T., UNPUB
+   Watanabe S., 2005, THEORY IMPLEMENTATIO
+NR 29
+TC 2
+Z9 2
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD MAY 10
+PY 2012
+VL 85
+IS 5
+AR 052107
+DI 10.1103/PhysRevA.85.052107
+PG 14
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 939YW
+UT WOS:000303858000002
+ER
+
+PT J
+AU Hide, J
+   Nakata, Y
+   Murao, M
+AF Hide, Jenny
+   Nakata, Yoshifumi
+   Murao, Mio
+TI Entanglement and the interplay between staggered fields and couplings
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID ANTIFERROMAGNETIC CHAIN; STATISTICAL MECHANICS; XY-MODEL; SYSTEMS;
+   STATES
+AB We investigate how the interplay between a staggered magnetic field and staggered coupling strength affects both ground-state and thermal entanglement. Upon analytically calculating thermodynamic quantities and the correlation functions for such a system, we consider both the global Meyer-Wallach measure of entanglement and the concurrence between pairs of spins. We discover two quantum critical points present in the model and show that the behavior of entanglement at zero temperature reflects each. We discover that increasing the alternating field and alternating coupling strength can actually increase the amount of entanglement present both at zero temperature and for thermal states of the system.
+C1 Abdus Salam Int Ctr Theoret Phys, I-34151 Trieste, Italy.
+   Univ Tokyo,Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1538505, Japan.
+RP Hide, J (reprint author), Abdus Salam Int Ctr Theoret Phys, Str Costiera 11, I-34151 Trieste, Italy.
+FU Ministry of Education, Culture, Sports, Science and Technology (MEXT),
+   Japan; JSPS by KAKENHI [222812, 23540463]
+FX This work was supported by the Project for Developing Innovation Systems
+   of the Ministry of Education, Culture, Sports, Science and Technology
+   (MEXT), Japan. Y.N. acknowledges support from JSPS by KAKENHI (Grant No.
+   222812) and M. M. acknowledges support from JSPS by KAKENHI (Grant No.
+   23540463).
+CR ABRAHAM DB, 1969, J CHEM PHYS, V51, P3795, DOI 10.1063/1.1672594
+   Amico L, 2008, REV MOD PHYS, V80, P517, DOI 10.1103/RevModPhys.80.517
+   BAROUCH E, 1971, PHYS REV A, V3, P786, DOI 10.1103/PhysRevA.3.786
+   Bennett CH, 1996, PHYS REV A, V53, P2046, DOI 10.1103/PhysRevA.53.2046
+   Bose S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.207901
+   Brennen GK, 2003, QUANTUM INFORM COMPU, V3, P619
+   Brukner C., ARXIVQUANTPH0406040
+   Crooks RH, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.062305
+   de Oliveira TR, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.170401
+   de Oliveira TR, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.032325
+   de Oliveira TR, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.010305
+   DiVincenzo DP, 2000, NATURE, V408, P339, DOI 10.1038/35042541
+   Doronin SI, 2007, J EXP THEOR PHYS+, V105, P953, DOI 10.1134/S1063776107110088
+   Hide J, 2007, PHYS REV A, V76, DOI 10.1103/PhysRevA.76.022319
+   Meyer DA, 2002, J MATH PHYS, V43, P4273, DOI 10.1063/1.1497700
+   Montakhab A, 2010, PHYS REV A, V82, DOI 10.1103/PhysRevA.82.062313
+   MULLER G, 1985, PHYS REV B, V32, P5845, DOI 10.1103/PhysRevB.32.5845
+   Nakata Y, 2009, PHYS REV A, V79, DOI 10.1103/PhysRevA.79.042313
+   O'Connor KM, 2001, PHYS REV A, V63, DOI 10.1103/PhysRevA.63.052302
+   Osborne T.J., 2002, Physical Review A (Atomic, Molecular, and Optical Physics), V66, DOI 10.1103/PhysRevA.66.032110
+   Oshikawa M, 1997, PHYS REV LETT, V79, P2883, DOI 10.1103/PhysRevLett.79.2883
+   Osterloh A, 2002, NATURE, V416, P608, DOI 10.1038/416608a
+   PERK JHH, 1978, PHYSICA A, V92, P163, DOI 10.1016/0378-4371(78)90026-2
+   PERK JHH, 1975, PHYSICA A, V81, P319, DOI 10.1016/0378-4371(75)90052-7
+   PERK JHH, 1977, PHYSICA A, V89, P304, DOI 10.1016/0378-4371(77)90106-6
+   PINCUS P, 1971, SOLID STATE COMMUN, V9, P1971, DOI 10.1016/0038-1098(71)90593-X
+   Rigolin G, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.022314
+   Sachdev S., 1999, QUANTUM PHASE TRANSI
+   Takahashi M., 1999, THERMODYNAMICS ONE D
+   Toth G, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.010301
+   Wu LA, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.250404
+NR 31
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD APR 4
+PY 2012
+VL 85
+IS 4
+AR 042303
+DI 10.1103/PhysRevA.85.042303
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 920JI
+UT WOS:000302400200004
+ER
+
+PT J
+AU Nakata, Y
+   Murao, M
+AF Nakata, Yoshifumi
+   Murao, Mio
+TI Simulating typical entanglement with many-body Hamiltonian dynamics
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID QUANTUM STATES; SYSTEMS
+AB We study the time evolution of the amount of entanglement generated by one-dimensional spin-1/2 Ising-type Hamiltonians composed of many-body interactions. We investigate sets of states randomly selected during the time evolution generated by several types of time-independent Hamiltonians by analyzing the distributions of the amount of entanglement of the sets. We compare such entanglement distributions with that of typical entanglement, entanglement of a set of states randomly selected from a Hilbert space with respect to the unitarily invariant measure. We show that the entanglement distribution obtained by a time-independent Hamiltonian can simulate the average and standard deviation of the typical entanglement, if the Hamiltonian contains suitable many-body interactions. We also show that the time required to achieve such a distribution is polynomial in the system size for certain types of Hamiltonians.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1538505, Japan.
+RP Nakata, Y (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+FU Ministry of Education, Culture, Sports, Science and Technology (MEXT),
+   Japan; Japan Society for the Promotion of Science (JSPS) by KAKENHI
+   [222812, 23540463]
+FX The authors thank P. S. Turner for helpful discussions and A. Tanaka for
+   useful comments. This work was supported by Project for Developing
+   Innovation Systems of the Ministry of Education, Culture, Sports,
+   Science and Technology (MEXT), Japan. Y.N. acknowledges support from
+   Japan Society for the Promotion of Science (JSPS) by KAKENHI (Grant No.
+   222812) and M.M. acknowledges support from JSPS by KAKENHI (Grant No.
+   23540463).
+CR Abreu RF, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.052327
+   AMBAINIS A, 2007, IEEE C COMP COMPL, P129, DOI DOI 10.1109/CCC.2007.26
+   BENENTI G, 2009, NUOVO CIMENTO, V32, P105
+   Bennett CH, 2005, IEEE T INFORM THEORY, V51, P56, DOI 10.1109/TIT.2004.839476
+   Bravyi S, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.050401
+   Brennen GK, 2003, QUANTUM INFORM COMPU, V3, P619
+   Dahlsten OCO, 2007, J PHYS A-MATH THEOR, V40, P8081, DOI 10.1088/1751-8113/40/28/S16
+   DiVincenzo DP, 2002, IEEE T INFORM THEORY, V48, P580, DOI 10.1109/18.985948
+   Emerson J, 2003, SCIENCE, V302, P2098, DOI 10.1126/science.1090790
+   Goldstein S, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.050403
+   Harrow AW, 2009, COMMUN MATH PHYS, V291, P257, DOI 10.1007/s00220-009-0873-6
+   Hayden P, 2004, COMMUN MATH PHYS, V250, P371, DOI 10.1007/s00220-004-1087-6
+   Hayden P, 2006, COMMUN MATH PHYS, V265, P95, DOI 10.1007/s00220-006-1535-6
+   Hayden P, 2007, J HIGH ENERGY PHYS
+   Linden N, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.061103
+   Meyer DA, 2002, J MATH PHYS, V43, P4273, DOI 10.1063/1.1497700
+   NAKATA Y, ARXIV11112747
+   Oliveira R, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.130502
+   Plato ADK, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.042332
+   Popescu S, 2006, NAT PHYS, V2, P754, DOI 10.1038/nphys444
+   Scott AJ, 2003, J PHYS A-MATH GEN, V36, P9553, DOI 10.1088/0305-4470/36/36/308
+   Terhal BM, 2001, PHYS REV LETT, V86, P5807, DOI 10.1103/PhysRevLett.86.5807
+   Weimer H, 2010, NAT PHYS, V6, P382, DOI 10.1038/NPHYS1614
+NR 23
+TC 0
+Z9 0
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD NOV 21
+PY 2011
+VL 84
+IS 5
+AR 052321
+DI 10.1103/PhysRevA.84.052321
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 851TB
+UT WOS:000297292700007
+ER
+
+PT J
+AU Soeda, A
+   Turner, PS
+   Murao, M
+AF Soeda, Akihito
+   Turner, Peter S.
+   Murao, Mio
+TI Entanglement Cost of Implementing Controlled-Unitary Operations
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID GATES
+AB We investigate the minimum entanglement cost of the deterministic implementation of two-qubit controlled-unitary operations using local operations and classical communication (LOCC). We show that any such operation can be implemented by a three-turn LOCC protocol, which requires at least 1 ebit of entanglement when the resource is given by a bipartite entangled state with Schmidt number 2. Our result implies that there is a gap between the minimum entanglement cost and the entangling power of controlled-unitary operations. This gap arises due to the requirement of implementing the operations while oblivious to the identity of the inputs.
+C1 Univ Tokyo, Grad Sch Sci, Bunkyo Ku, Tokyo 113, Japan.
+   Natl Univ Singapore, Ctr Quantum Technol, Singapore 117543, Singapore.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo, Japan.
+RP Soeda, A (reprint author), Univ Tokyo, Grad Sch Sci, Bunkyo Ku, 7-3-1 Hongo, Tokyo 113, Japan.
+RI Turner, Peter/E-9197-2010
+FU MEXT, Japan; Global COE Program; JSPS [23540463]
+FX This work is supported by the Project for Developing Innovation Systems
+   of MEXT, Japan, the Global COE Program, MEXT, Japan, and JSPS by KAKENHI
+   (Grant No. 23540463).
+CR Andersson E, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.052104
+   Bennett CH, 2003, IEEE T INFORM THEORY, V49, P1895, DOI 10.1109/TIT.2003.814935
+   Buhrman H, 2003, LECT NOTES COMPUT SC, V2747, P1
+   CHOI MD, 1975, LINEAR ALGEBRA APPL, V10, P285, DOI 10.1016/0024-3795(75)90075-0
+   Cirac JI, 1999, PHYS REV A, V59, P4249, DOI 10.1103/PhysRevA.59.4249
+   Cirac JI, 2001, PHYS REV LETT, V86, P544, DOI 10.1103/PhysRevLett.86.544
+   Donald MJ, 2002, J MATH PHYS, V43, P4252, DOI 10.1063/1.1495917
+   Eisert J, 2000, PHYS REV A, V62, DOI 10.1103/PhysRevA.62.052317
+   Kraus B, 2001, PHYS REV A, V63, DOI 10.1103/PhysRevA.63.062309
+   Nielsen MA, 1999, PHYS REV LETT, V83, P436, DOI 10.1103/PhysRevLett.83.436
+   Stahlke D, 2011, PHYS REV A, V84, DOI 10.1103/PhysRevA.84.032316
+NR 11
+TC 2
+Z9 2
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD OCT 25
+PY 2011
+VL 107
+IS 18
+AR 180501
+DI 10.1103/PhysRevLett.107.180501
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 847PW
+UT WOS:000296985900002
+ER
+
+PT J
+AU Soeda, A
+   Kinjo, Y
+   Turner, PS
+   Murao, M
+AF Soeda, Akihito
+   Kinjo, Yoshiyuki
+   Turner, Peter S.
+   Murao, Mio
+TI Quantum computation over the butterfly network
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID COMMUNICATION; INFORMATION; STATES
+AB In order to investigate distributed quantum computation under restricted network resources, we introduce a quantum computation task over the butterfly network where both quantum and classical communications are limited. We consider deterministically performing a two-qubit global unitary operation on two unknown inputs given at different nodes, with outputs at two distinct nodes. By using a particular resource setting introduced by M. Hayashi [Phys. Rev. A 76, 040301(R) (2007)], which is capable of performing a swap operation by adding two maximally entangled qubits (ebits) between the two input nodes, we show that unitary operations can be performed without adding any entanglement resource, if and only if the unitary operations are locally unitary equivalent to controlled unitary operations. Our protocol is optimal in the sense that the unitary operations cannot be implemented if we relax the specifications of any of the channels. We also construct protocols for performing controlled traceless unitary operations with a 1-ebit resource and for performing global Clifford operations with a 2-ebit resource.
+C1 Univ Tokyo, Dept Phys, Grad Sch Sci, Bunkyo Ku, Tokyo, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo, Japan.
+RP Soeda, A (reprint author), Univ Tokyo, Dept Phys, Grad Sch Sci, Bunkyo Ku, 7-3-1 Hongo, Tokyo, Japan.
+EM soeda@eve.phys.s.u-tokyo.ac.jp; kinjo@eve.phys.s.u-tokyo.ac.jp;
+   turner@phys.s.u-tokyo.ac.jp; murao@phys.s.u-tokyo.ac.jp
+RI Turner, Peter/E-9197-2010
+FU MEXT, Japan; JSPS [23540463]
+FX We thank T. Sugiyama and E. Wakakuwa for helpful discussions. This work
+   was supported by Special Coordination Funds for Promoting Science and
+   Technology, MEXT, Japan, JSPS by KAKENHI (Grant No. 23540463), and the
+   Global COE Program, MEXT, Japan.
+CR Ahlswede R, 2000, IEEE T INFORM THEORY, V46, P1204, DOI 10.1109/18.850663
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 2004, QUANTUM INFORM COMPU, V4, P460
+   BENNETT CH, 1992, PHYS REV LETT, V69, P2881, DOI 10.1103/PhysRevLett.69.2881
+   Buhrman H, 2003, LECT NOTES COMPUT SC, V2747, P1
+   Cover T., 2006, ELEMENTS INFORM THEO
+   DAVIES EB, 1970, COMMUN MATH PHYS, V17, P239, DOI 10.1007/BF01647093
+   Dur W, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.057901
+   Eisert J, 2000, PHYS REV A, V62, DOI 10.1103/PhysRevA.62.052317
+   Hayashi M, 2007, PHYS REV A, V76, DOI 10.1103/PhysRevA.76.040301
+   Hayashi M, 2007, LECT NOTES COMPUT SC, V4393, P610
+   Kobayashi H, 2009, LECT NOTES COMPUT SC, V5555, P622, DOI 10.1007/978-3-642-02927-1_52
+   Kraus B, 2001, PHYS REV A, V63, DOI 10.1103/PhysRevA.63.062309
+   Kremer I., 1995, THESIS HEBREW U JERU
+   Leung D, 2010, IEEE T INFORM THEORY, V56, P3478, DOI 10.1109/TIT.2010.2048442
+   SOEDA A, ARXIV10081128, P42333
+   Soeda A, 2010, NEW J PHYS, V12, P1, DOI 10.1088/1367-2630/12/9/093013
+   Vidal G, 1999, PHYS REV LETT, V83, P1046, DOI 10.1103/PhysRevLett.83.1046
+NR 18
+TC 0
+Z9 0
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUL 27
+PY 2011
+VL 84
+IS 1
+AR 012333
+DI 10.1103/PhysRevA.84.012333
+PG 11
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 798CI
+UT WOS:000293179100005
+ER
+
+PT J
+AU Sugiyama, T
+   Turner, PS
+   Murao, M
+AF Sugiyama, Takanori
+   Turner, Peter S.
+   Murao, Mio
+TI Error probability analysis in quantum tomography: A tool for evaluating
+   experiments
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID CONVERGENCE; INFORMATION; ESTIMATORS; PARAMETER; MATRIX; RATES
+AB We expand the scope of the statistical notion of error probability, that is, how often large deviations are observed in an experiment, to make it directly applicable to quantum tomography. We verify that the error probability can decrease at most exponentially in the number of trials, we derive the explicit rate that bounds this decrease, and we show that a maximum likelihood estimator achieves this bound. We also show that the statistical notion of identifiability coincides with the tomographic notion of informational completeness. Our result implies that two quantum tomographic apparatuses that have the same risk function (e.g., variance) can have different error probability, and we give an example in one-qubit-state tomography. Thus by combining these two approaches we can evaluate, in a reconstruction-independent way, the performance of such experiments more discerningly.
+C1 Univ Tokyo, Dept Phys, Grad Sch Sci, Bunkyo Ku, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Meguro Ku, Tokyo 1538505, Japan.
+RP Sugiyama, T (reprint author), Univ Tokyo, Dept Phys, Grad Sch Sci, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM sugiyama@eve.phys.s.u-tokyo.ac.jp; turner@phys.s.u-tokyo.ac.jp;
+   murao@phys.s.u-tokyo.ac.jp
+RI Turner, Peter/E-9197-2010
+FU JSPS [20549002]; Special Coordination Funds for Promoting Science and
+   Technology
+FX T.S. thanks Yu Watanabe for helpful discussions. P.S.T. acknowledges
+   useful discussion with P. Kim. This work was supported by JSPS Research
+   Grants for Young Scientists, JSPS KAKENHI (20549002) for Scientific
+   Research (C), and Special Coordination Funds for Promoting Science and
+   Technology.
+CR AKAHARA M, 1995, NONREGULAR STAT ESTI
+   Bagan E, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.032301
+   Bagan E, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.130501
+   BAHADUR R, 1980, ASYMPTOTIC THEORY ST, P33
+   BAHADUR R. R., 1960, SANKHYA, V22, P229
+   BAHADUR RR, 1967, ANN MATH STAT, V38, P303, DOI 10.1214/aoms/1177698949
+   Banaszek K, 2000, PHYS REV A, V61
+   BUZEK GAV, 1998, ANN PHYS, V266, P454
+   Buzek V, 2000, J MOD OPTIC, V47, P2823, DOI 10.1080/095003400750039726
+   Byrd MS, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.062322
+   Chuang IL, 1997, J MOD OPTIC, V44, P2455, DOI 10.1080/09500349708231894
+   D'Ariano GM, 2001, PHYS REV LETT, V86, P4195, DOI 10.1103/PhysRevLett.86.4195
+   Dembo A., 1998, LARGE DEVIATIONS TEC
+   Fiurasek J, 2001, PHYS REV A, V63, DOI 10.1103/PhysRevA.63.020101
+   Fuchs CA, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.062305
+   Gill RD, 2000, PHYS REV A, V61, DOI 10.1103/PhysRevA.61.042312
+   Hayashi M, 2005, ASYMPTOTIC THEORY QU
+   Hayashi M, 2002, J PHYS A-MATH GEN, V35, P7689, DOI 10.1088/0305-4470/35/36/302
+   HAYASHI M, 2000, IEICE J, V83, P629
+   Helstrom C. W, 1976, QUANTUM DETECTION ES
+   Holevo A. S., 1982, PROBABILISTIC STAT A
+   Hradil Z, 1997, PHYS REV A, V55, pR1561
+   KESTER ADM, 1986, ANN STAT, V14, P648, DOI 10.1214/aos/1176349944
+   Kimura G, 2003, PHYS LETT A, V314, P339, DOI 10.1016/S0375-9601(03)00941-1
+   KOSUT RL, ARXIV08124323QUANTPH
+   Luis A, 2001, PHYS REV A, V64, DOI 10.1103/PhysRevA.64.054102
+   NUNN J, ARXIV09114310QUANTPH
+   Paris M., 2004, LECT NOTES PHYS
+   Poyatos JF, 1997, PHYS REV LETT, V78, P390, DOI 10.1103/PhysRevLett.78.390
+   PRUGOVECKI E, 1977, INT J THEOR PHYS, V16, P321, DOI 10.1007/BF01807146
+   Rao CR, 1973, LINEAR STAT INFERENC
+   Rehacek J, 2004, PHYS REV A, V70, DOI 10.1103/PhysRevA.70.052321
+   RUKHIN AL, 1983, ANN STAT, V11, P202, DOI 10.1214/aos/1176346070
+   Sanov IN, 1961, SELECTED TRANSLATION, V1, P213
+   Schack R, 2001, PHYS REV A, V64, DOI 10.1103/PhysRevA.64.014305
+   Schleich WP, 2007, ELEMENTS QUANTUM INF
+   Shen XT, 2001, STAT SINICA, V11, P479
+   SMITHEY DT, 1993, PHYS REV LETT, V70, P1244, DOI 10.1103/PhysRevLett.70.1244
+   WALD A, 1949, ANN MATH STAT, V20, P595, DOI 10.1214/aoms/1177729952
+NR 39
+TC 3
+Z9 3
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JAN 18
+PY 2011
+VL 83
+IS 1
+AR 012105
+DI 10.1103/PhysRevA.83.012105
+PG 12
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 713KY
+UT WOS:000286738100003
+ER
+
+PT J
+AU Soeda, A
+   Murao, M
+AF Soeda, A.
+   Murao, M.
+TI Delocalization power of global unitary operations on quantum information
+SO NEW JOURNAL OF PHYSICS
+LA English
+DT Article
+ID ENTANGLEMENT MEASURES; COMPUTER; THEOREM
+AB We investigate how two pieces of localized quantum information represented by a tensor product of two unknown qudit states are delocalized by performing two-qudit global unitary operations. To characterize the delocalization power of global unitary operations on quantum information, we analyze the necessary and sufficient condition to deterministically relocalize one of the two pieces of quantum information to its original Hilbert space by using only local operation and classical communication (LOCC). We prove that this LOCC one-piece relocalization is possible if and only if the global unitary operation is local unitary equivalent to a controlled-unitary operation. The delocalization power and the entangling power characterize different non-local properties of global unitary operations.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+RP Soeda, A (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+EM soeda@eve.phys.s.u-tokyo.ac.jp
+FU MEXT, Japan
+FX The authors thank PS Turner for helpful discussions. This work is
+   supported by Special Coordination Funds for Promoting Science and
+   Technology and Global COE Program 'The Physical Sciences Frontier',
+   MEXT, Japan.
+CR ANDERS J, 2009, ANCILLA DRIVEN UNIVE, V911, P3783
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Donald MJ, 2002, J MATH PHYS, V43, P4252, DOI 10.1063/1.1495917
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Giovannetti V, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.010401
+   Gregoratti M, 2003, J MOD OPTIC, V50, P915, DOI 10.1080/0950034021000058021
+   Knill E, 1998, PHYS REV LETT, V81, P5672, DOI 10.1103/PhysRevLett.81.5672
+   KRAUS B, 2001, J PHYS, V63
+   Nielsen, 2000, QUANTUM INFORM, P425
+   Nielsen MA, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.052301
+   Ogata Y, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.062340
+   Plenio MB, 2007, QUANTUM INF COMPUT, V7, P1
+   SHOR PW, 1995, PHYS REV A, V52, pR2493
+   Shor PW, 1999, SIAM REV, V41, P303, DOI 10.1137/S0036144598347011
+   WOOTTERS WK, 1982, NATURE, V299, P802, DOI 10.1038/299802a0
+NR 15
+TC 3
+Z9 3
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1367-2630
+J9 NEW J PHYS
+JI New J. Phys.
+PD SEP 9
+PY 2010
+VL 12
+BP 1
+EP 12
+AR 093013
+DI 10.1088/1367-2630/12/9/093013
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA 651CC
+UT WOS:000281901200001
+ER
+
+PT J
+AU Aulbach, M
+   Markham, D
+   Murao, M
+AF Aulbach, Martin
+   Markham, Damian
+   Murao, Mio
+TI The maximally entangled symmetric state in terms of the geometric
+   measure
+SO NEW JOURNAL OF PHYSICS
+LA English
+DT Article
+ID RANK-1 APPROXIMATION; ORDER TENSORS; QUANTUM; SPIN; REPRESENTATION;
+   PHASE
+AB The geometric measure of entanglement is investigated for permutation symmetric pure states of multipartite qubit systems, in particular the question of maximum entanglement. This is done with the help of the Majorana representation, which maps an n qubit symmetric state to n points on the unit sphere. It is shown how symmetries of the point distribution can be exploited to simplify the calculation of entanglement and also help find the maximally entangled symmetric state. Using a combination of analytical and numerical results, the most entangled symmetric states for up to 12 qubits are explored and discussed. The optimization problem on the sphere presented here is then compared with two classical optimization problems on the S(2) sphere, namely Toth's problem and Thomson's problem, and it is observed that, in general, they are different problems.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Leeds, Sch Phys & Astron, Leeds LS2 9JT, W Yorkshire, England.
+   Univ Oxford, Dept Phys, Clarendon Lab, Oxford OX1 3PU, England.
+   Telecom ParisTech, LTCI, CNRS, F-75014 Paris, France.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+RP Aulbach, M (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+EM pyma@leeds.ac.uk; markham@telecom-paristech.fr;
+   murao@phys.s.u-tokyo.ac.jp
+FU National Research Foundation; Ministry of Education, Singapore;
+   CNRS-JST; Special Coordination Funds for Promoting Science and
+   Technology'
+FX The authors thank S Miyashita, S Virmani, A Soeda and K-H Borgwardt for
+   very helpful discussions. This work was supported by the National
+   Research Foundation and the Ministry of Education, Singapore, and the
+   project 'Quantum Computation: Theory and Feasibility' in the framework
+   of the CNRS-JST Strategic French-Japanese Cooperative Program on ICT. MM
+   thanks the 'Special Coordination Funds for Promoting Science and
+   Technology' for financial support.
+CR Abramowitz M, 1984, POCKETBOOK MATH FUNC
+   ALTSCHULER EL, 1994, PHYS REV LETT, V72, P2671, DOI 10.1103/PhysRevLett.72.2671
+   ASHBY N, 1986, AM J PHYS, V54, P776, DOI 10.1119/1.14440
+   BACRY H, 1974, J MATH PHYS, V15, P1686, DOI 10.1063/1.1666525
+   Barnett R, 2007, PHYS REV A, V76, DOI 10.1103/PhysRevA.76.013605
+   Barnett R, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.180412
+   Barnett R, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.240405
+   Barnum H, 2001, J PHYS A-MATH GEN, V34, P6787, DOI 10.1088/0305-4470/34/35/305
+   Bastin T, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.070503
+   BEREZIN AA, 1985, AM J PHYS, V53, P1036, DOI 10.1119/1.14023
+   Brody DC, 2001, J GEOM PHYS, V38, P19, DOI 10.1016/S0393-0440(00)00052-8
+   Cavalcanti D, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.044302
+   CHEN L, 2009, ARXIV09111493
+   Davis EJ, 1997, AEROSOL SCI TECH, V26, P212, DOI 10.1080/02786829708965426
+   De Lathauwer L, 2000, SIAM J MATRIX ANAL A, V21, P1324, DOI 10.1137/S0895479898346995
+   D'Hondt E, 2006, QUANTUM INFORM COMPU, V6, P173
+   DICKE RH, 1954, PHYS REV, V93, P99, DOI 10.1103/PhysRev.93.99
+   Dinsmore AD, 2002, SCIENCE, V298, P1006, DOI 10.1126/science.1074868
+   Dodgson MJW, 1997, PHYS REV B, V55, P3816, DOI 10.1103/PhysRevB.55.3816
+   Dur W, 2000, PHYS REV A, V62
+   ERBER T, 1991, J PHYS A-MATH GEN, V24, pL1369
+   Giraud O, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/6/063005
+   GREENBERGER DM, 1990, AM J PHYS, V58, P1131, DOI 10.1119/1.16243
+   Gross D, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.190501
+   Hannay JH, 1998, J PHYS A-MATH GEN, V31, pL53, DOI 10.1088/0305-4470/31/2/002
+   Hannay J.H., 1996, J PHYS A, V29, P101
+   Hayashi M, 2009, J MATH PHYS, V50, DOI 10.1063/1.3271041
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040501
+   Horodecki R, 2009, REV MOD PHYS, V81, P865, DOI 10.1103/RevModPhys.81.865
+   Hubener R, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.032324
+   Jung E, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.062317
+   Kofidis E, 2002, SIAM J MATRIX ANAL A, V23, P863, DOI 10.1137/S0895479801387413
+   Kolenderski P, 2010, OPEN SYST INF DYN, V17, P107, DOI 10.1142/S1230161210000084
+   Kolenderski P, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.052333
+   Korbicz JK, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.120502
+   Korbicz JK, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.052319
+   LEBOEUF P, 1991, J PHYS A-MATH GEN, V24, P4575, DOI 10.1088/0305-4470/24/19/021
+   Leech J., 1957, MATH GAZ, V41, P81, DOI 10.2307/3610579
+   LEIDERER P, 1995, Z PHYS B CON MAT, V98, P303, DOI 10.1007/BF01338394
+   de Silva V, 2008, SIAM J MATRIX ANAL A, V30, P1084, DOI 10.1137/06066518X
+   Majorana E., 1932, Nuovo Cimento, V9, DOI 10.1007/BF02960953
+   Makela H, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.190408
+   Markham D, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.042113
+   Markham D., 2010, ARXIV10010343
+   Markham D, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/194
+   MARTIN J, 2010, ARXIV10030593
+   MARX E, 1970, J FRANKLIN I, V290, P71, DOI 10.1016/0016-0032(70)90061-X
+   MARZEC CJ, 1993, BIOPHYS J, V65, P2559
+   Mathonet P, 2010, PHYS REV A, V81, DOI 10.1103/PhysRevA.81.052315
+   Mora CE, 2010, PHYS REV A, V81, DOI 10.1103/PhysRevA.81.042315
+   Ni GY, 2007, MATH COMPUT MODEL, V46, P1345, DOI 10.1016/j.mcm.2007.01.008
+   OGILVY CS, 1951, AM MATH MON, V58, P492, DOI 10.2307/2306934
+   Orus R, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.025701
+   Penrose R, 1984, SPINORS SPACE TIME, V1
+   Plenio MB, 2007, QUANTUM INF COMPUT, V7, P1
+   Prevedel R, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.020503
+   Renner R, 2005, ARXIVQUANTPH0512258
+   Ribeiro P, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.021106
+   Schutte K., 1951, MATH ANN, V123, P96, DOI 10.1007/BF02054944
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   Sloane N. J. A., SPHERICAL CODES
+   Stockton JK, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.022112
+   Tamaryan S, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.052315
+   Tammes P. M. L., 1930, RECL TRAV BOT NEERL, V27, P1
+   Thomson JJ, 1904, PHILOS MAG, V7, P237, DOI 10.1080/14786440409463107
+   Toth G, 2007, J OPT SOC AM B, V24, P275, DOI 10.1364/JOSAB.24.000275
+   Toth G, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.170503
+   Van den Nest M, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/204
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   Vidal G, 1999, PHYS REV A, V59, P141, DOI 10.1103/PhysRevA.59.141
+   Hayashi M, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.012104
+   WALES DJ, GLOBAL MINIMA THOMSO
+   Wang HC, 2004, INT C PATT RECOG, P44
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+   Wei TC, 2004, QUANTUM INF COMPUT, V4, P252
+   WEI TC, 2009, ARXIV09050012
+   WEISSTEIN E, MATHWORLD SPHERICAL
+   Werner RF, 2001, PHYS REV A, V64, DOI 10.1103/PhysRevA.64.032112
+   Werner RF, 2002, J MATH PHYS, V43, P4353, DOI 10.1063/1.1498491
+   Whyte L. L., 1952, AM MATH MONTHLY, V59, P606, DOI 10.2307/2306764
+   Wieczorek W, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.020504
+   Zhang T, 2001, SIAM J MATRIX ANAL A, V23, P534, DOI 10.1137/S0895479899352045
+   ZHU H, 2010, ARXIV10022511
+   Zimba J., 2006, ELECT J THEOR PHYS, V3, P143
+   ZIMBA J, 1993, STUD HIST PHILOS SCI, V24, P697, DOI 10.1016/0039-3681(93)90061-N
+NR 85
+TC 15
+Z9 15
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1367-2630
+J9 NEW J PHYS
+JI New J. Phys.
+PD JUL 22
+PY 2010
+VL 12
+AR 073025
+DI 10.1088/1367-2630/12/7/073025
+PG 34
+WC Physics, Multidisciplinary
+SC Physics
+GA 642RA
+UT WOS:000281232700004
+ER
+
+PT J
+AU Hayashi, M
+   Markham, D
+   Murao, M
+   Owari, M
+   Virmani, S
+AF Hayashi, Masahito
+   Markham, Damian
+   Murao, Mio
+   Owari, Masaki
+   Virmani, Shashank
+TI The geometric measure of entanglement for a symmetric pure state with
+   non-negative amplitudes
+SO JOURNAL OF MATHEMATICAL PHYSICS
+LA English
+DT Article
+DE Hilbert spaces; measurement theory; quantum entanglement
+ID RANK-1 APPROXIMATION; ORDER TENSORS
+AB In this paper for a class of symmetric multiparty pure states, we consider a conjecture related to the geometric measure of entanglement: "for a symmetric pure state, the closest product state in terms of the fidelity can be chosen as a symmetric product state." We show that this conjecture is true for symmetric pure states whose amplitudes are all non-negative in a computational basis. The more general conjecture is still open.
+C1 Tohoku Univ, Grad Sch Informat Sci, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+   TELECOM ParisTech, LTCI, CNRS, F-75014 Paris, France.
+   Univ Tokyo, Dept Phys, Grad Sch Sci, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Grad Sch Sci, Tokyo 1130033, Japan.
+   Univ London Imperial Coll Sci Technol & Med, Opt Sect, Blackett Lab, London SW7 2AZ, England.
+   Univ London Imperial Coll Sci Technol & Med, Inst Math Sci, London SW7 2AZ, England.
+   Univ Strathclyde, Dept Phys, SUPA, Glasgow G4 0NG, Lanark, Scotland.
+RP Hayashi, M (reprint author), Tohoku Univ, Grad Sch Informat Sci, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+EM hayashi@math.is.tohoku.ac.jp
+RI Quantum, CQD at IMS/D-2115-2010; Virmani, Shashank/C-6360-2009; Hayashi,
+   Masahito/F-2964-2012
+OI Virmani, Shashank/0000-0003-4373-0073; 
+FU EPSRC-GB [EP/C546237/1]; European Union; JST; Nano-Quine; "Deepening and
+   Expansion of Statistical Mechanical Informatics (DEX-SMI)" [18079014];
+   MEXT [20686026]
+FX We are very grateful to Robert Hubener and Otfried Guhne for pointing
+   out the error in the argument presented in our original paper (Ref. 12).
+   We also thank Tzu-Shieh Wei and Simone Severini for discussions. We are
+   obliged to the editor for pointing out a very simple proof of Lemma 1.
+   M.O. was supported by the EPSRC-GB Grant EP/C546237/1, and the European
+   Union Integrated Project Qubit Applications (QAP). M. M. acknowledges
+   support from JST and Nano-Quine. M. H. was supported by a Grant-in-Aid
+   for Scientific Research in the Priority Area "Deepening and Expansion of
+   Statistical Mechanical Informatics (DEX-SMI)," No. 18079014 and a MEXT
+   Grant-in-Aid for Young Scientists (A) No. 20686026. S. V. acknowledges
+   support from EU-STREP "Corner"and Quisco.
+CR Defant A., 1992, TENSOR NORMS OPERATO
+   De Lathauwer L, 2000, SIAM J MATRIX ANAL A, V21, P1324, DOI 10.1137/S0895479898346995
+   Gross D, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.190501
+   Guhne O, 2009, PHYS REP, V474, P1, DOI 10.1016/j.physrep.2009.02.004
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040501
+   Horn R. A., 1990, MATRIX ANAL
+   Horodecki R, 2009, REV MOD PHYS, V81, P865, DOI 10.1103/RevModPhys.81.865
+   Kofidis E, 2002, SIAM J MATRIX ANAL A, V23, P863, DOI 10.1137/S0895479801387413
+   de Silva V, 2008, SIAM J MATRIX ANAL A, V30, P1084, DOI 10.1137/06066518X
+   Markham D, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/40006
+   Markham D, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/194
+   Mora C, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.033607
+   Nakata Y, 2009, PHYS REV A, V79, DOI 10.1103/PhysRevA.79.042313
+   Ni GY, 2007, MATH COMPUT MODEL, V46, P1345, DOI 10.1016/j.mcm.2007.01.008
+   Orus R, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.025701
+   Perez-Garcia D, 2008, COMMUN MATH PHYS, V279, P455, DOI 10.1007/s00220-008-0418-4
+   Plenio MB, 2007, QUANTUM INF COMPUT, V7, P1
+   SHI QQ, 2009, ARXIV09012863V1
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   Hayashi M, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.012104
+   Vollbrecht KGH, 2001, PHYS REV A, V64, DOI 10.1103/PhysRevA.64.062307
+   WANG H, 2004, IEEE INT C PAT UNPUB
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+   WEI TC, ARXIV09050012V1
+   Wei TC, 2004, QUANTUM INF COMPUT, V4, P252
+   Wei TC, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.060305
+   Werner RF, 2002, J MATH PHYS, V43, P4353, DOI 10.1063/1.1498491
+   Zhang T, 2001, SIAM J MATRIX ANAL A, V23, P534, DOI 10.1137/S0895479899352045
+NR 28
+TC 16
+Z9 16
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0022-2488
+J9 J MATH PHYS
+JI J. Math. Phys.
+PD DEC
+PY 2009
+VL 50
+IS 12
+AR 122104
+DI 10.1063/1.3271041
+PG 6
+WC Physics, Mathematical
+SC Physics
+GA 538ZV
+UT WOS:000273223900005
+ER
+
+PT J
+AU Nakata, Y
+   Markham, D
+   Murao, M
+AF Nakata, Yoshifumi
+   Markham, Damian
+   Murao, Mio
+TI Thermal robustness of multipartite entanglement of the one-dimensional
+   spin-1/2 XY model
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+DE ground states; magnetic fields; quantum entanglement; X-Y model
+ID STATISTICAL-MECHANICS; PHASE-TRANSITIONS; QUANTUM; STATES; ENTROPY
+AB We study the robustness of multipartite entanglement of the ground state of the one-dimensional spin-1/2 XY model with a transverse magnetic field in the presence of thermal excitations by investigating a threshold temperature, below which the thermal state is guaranteed to be entangled. We obtain the threshold temperature based on the geometric measure of entanglement of the ground state. The threshold temperature reflects three characteristic lines in the phase diagram of the correlation function. Our approach reveals a region where multipartite entanglement at zero temperature is high but is thermally fragile and another region where multipartite entanglement at zero temperature is low but is thermally robust.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Paris 07, F-75013 Paris, France.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1538505, Japan.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+RP Nakata, Y (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+CR Amico L, 2007, EPL-EUROPHYS LETT, V77, DOI 10.1209/0295-5075/77/17001
+   Amico L, 2008, REV MOD PHYS, V80, P517, DOI 10.1103/RevModPhys.80.517
+   Amico L, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.022322
+   Anders J, 2007, OPEN SYST INF DYN, V14, P1, DOI 10.1007/s11080-007-9034-6
+   Barnum H, 2001, J PHYS A-MATH GEN, V34, P6787, DOI 10.1088/0305-4470/34/35/305
+   BAROUCH E, 1970, PHYS REV A-GEN PHYS, V2, P1075, DOI 10.1103/PhysRevA.2.1075
+   BAROUCH E, 1971, PHYS REV A, V3, P2137, DOI 10.1103/PhysRevA.3.2137
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 1999, PHYS REV LETT, V82, P5385, DOI 10.1103/PhysRevLett.82.5385
+   BENNETT CH, 1992, PHYS REV LETT, V68, P3121, DOI 10.1103/PhysRevLett.68.3121
+   BOMBELLI L, 1986, PHYS REV D, V34, P373, DOI 10.1103/PhysRevD.34.373
+   BRUKNER C, ARXIVQUANTPH0406040, P55102
+   Brukner C, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.012110
+   Chandran A, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.170502
+   Dur W, 2000, PHYS REV A, V62
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Gross D, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.220503
+   GUHNE O, ARXIV08112803, P55102
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040501
+   Kaszlikowski D, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/5/053026
+   LEE PA, 1999, QUANTUM PHASE TRANSI, P55102
+   Lee PA, 2006, REV MOD PHYS, V78, P17, DOI 10.1103/RevModPhys.78.17
+   LIEB E, 1961, ANN PHYS-NEW YORK, V16, P407, DOI 10.1016/0003-4916(61)90115-4
+   Markham D, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/40006
+   MULLER G, 1985, PHYS REV B, V32, P5845, DOI 10.1103/PhysRevB.32.5845
+   OHATA T, 2006, THESIS U TOKYO, P55102
+   Osborne TJ, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.032110
+   Osterloh A, 2002, NATURE, V416, P608, DOI 10.1038/416608a
+   Plenio MB, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.060503
+   Raussendorf R, 2001, PHYS REV LETT, V86, P5188, DOI 10.1103/PhysRevLett.86.5188
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   SHOR PW, 1994, P 35 ANN S FDN COMP, V124, P55102
+   SREDNICKI M, 1993, PHYS REV LETT, V71, P666, DOI 10.1103/PhysRevLett.71.666
+   TAKAHASHI M, 1999, THERMODYNAMICS ONE D, P55102
+   Guhne O, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.052319
+   Vidal G, 1999, PHYS REV A, V59, P141, DOI 10.1103/PhysRevA.59.141
+   Vidal G, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.227902
+   Hayashi M, 2008, PHYS REV A, V77, DOI 10.1103/PhysRevA.77.012104
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+   Wei TC, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.060305
+   Wootters WK, 1998, PHYS REV LETT, V80, P2245, DOI 10.1103/PhysRevLett.80.2245
+   Zanardi P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.031123
+NR 42
+TC 6
+Z9 6
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD APR
+PY 2009
+VL 79
+IS 4
+AR 042313
+DI 10.1103/PhysRevA.79.042313
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 443YO
+UT WOS:000265946900045
+ER
+
+PT J
+AU Nakata, Y
+   Markham, D
+   Murao, M
+AF Nakata, Yoshifumi
+   Markham, Damian
+   Murao, Mio
+TI Thermal enhancement of entanglement sensitivity to the phase diagram in
+   XY model
+SO INTERNATIONAL JOURNAL OF QUANTUM INFORMATION
+LA English
+DT Article; Proceedings Paper
+CT International Meeting on Noise, Information and Complexity AT Quantum
+   Scale
+CY NOV 02-10, 2007
+CL Erice, ITALY
+DE multi-partite entanglement; thermal state; XY model
+AB To understand multi-partite entanglement of the thermal state in the 1D spin 1/2 XY model with a transverse magnetic field, we investigate the temperature below which the thermal state is certainly entangled. We refer to such a temperature as a threshold temperature. We show that two characteristic lines in the phase diagram at zero temperature of the XY model can be clearly emphasized by the threshold temperature.
+C1 Univ Tokyo, Dept Phys, Grad Sch, Bunkyo Ku, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+   Univ Paris 07, F-75013 Paris, France.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+RP Nakata, Y (reprint author), Univ Tokyo, Dept Phys, Grad Sch, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM nakata@eve.phys.s.u-tokyo.ac.jp; markham@phys.s.u-tokyo.ac.jp;
+   murao@phys.s.u-tokyo.ac.jp
+CR AMICO L, REV MOD PHY IN PRESS
+   Amico L, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.022322
+   BAROUCH E, 1970, PHYS REV A, V2, P3
+   BAROUCH E, 1971, PHYS REV A, V3, P2
+   Markham D, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/40006
+   MULLER G, 1985, PHYS REV B, V32, P9
+   Osborne TJ, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.032110
+   Osterloh A, 2002, NATURE, V416, P608, DOI 10.1038/416608a
+   TAKAHASHI M, 1999, THERMODYNAMICS ONE D
+   Wei TC, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.060305
+   Wootters WK, 1998, PHYS REV LETT, V80, P2245, DOI 10.1103/PhysRevLett.80.2245
+NR 11
+TC 0
+Z9 0
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-7499
+J9 INT J QUANTUM INF
+JI Int. J. Quantum Inf.
+PD JUL
+PY 2008
+VL 6
+SU 1
+BP 751
+EP 757
+DI 10.1142/S0219749908004067
+PG 7
+WC Computer Science, Theory & Methods; Physics, Particles & Fields;
+   Physics, Mathematical
+SC Computer Science; Physics
+GA 336XG
+UT WOS:000258398400029
+ER
+
+PT J
+AU Ogata, Y
+   Murao, M
+AF Ogata, Yoshiko
+   Murao, Mio
+TI Remote extraction and destruction of spread qubit information
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID ERROR-CORRECTING CODES; QUANTUM STATES
+AB Necessary and sufficient conditions for deterministic remote extraction and destruction of qubit information encoded in bipartite states using only local operations and classical communications (LOCC) are presented. The conditions indicate that there is a way to asymmetrically spread qubit information between two parties such that it can be remotely extracted with unit probability at one of the parties but not at the other as long as they are using LOCC. Remote destruction can also be asymmetric between the two parties, but the conditions are incompatible with those for remote extraction.
+C1 Univ Tokyo, Grad Sch Math Sci, Tokyo 1538914, Japan.
+   Univ Tokyo, Dept Phys, Tokyo 1130033, Japan.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+   Univ Tokyo, Collaborat Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+RP Ogata, Y (reprint author), Univ Tokyo, Grad Sch Math Sci, Tokyo 1538914, Japan.
+CR Anselmi F, 2004, NEW J PHYS, V6, DOI 10.1088/1367-2630/6/1/164
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 1999, PHYS REV A, V59, P1070, DOI 10.1103/PhysRevA.59.1070
+   Buzek V, 1996, PHYS REV A, V54, P1844, DOI 10.1103/PhysRevA.54.1844
+   Calderbank AR, 1996, PHYS REV A, V54, P1098, DOI 10.1103/PhysRevA.54.1098
+   Fan H, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.177905
+   Ghosh S, 2004, PHYS REV A, V70, DOI 10.1103/PhysRevA.70.022304
+   Ghosh S, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.052312
+   Gregoratti M, 2003, J MOD OPTIC, V50, P915, DOI 10.1080/0950034021000058021
+   Grover L.K., 1996, Proceedings of the Twenty-Eighth Annual ACM Symposium on the  Theory of Computing, DOI 10.1145/237814.237866
+   Owari M, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.032108
+   Lo HK, 2001, PHYS REV A, V63, DOI 10.1103/PhysRevA.63.022301
+   SHOR PW, 1995, PHYS REV A, V52, pR2493
+   SHOR PW, 1994, P 35 ANN S FDN COMP, P12334
+   Steane AM, 1996, PHYS REV LETT, V77, P793, DOI 10.1103/PhysRevLett.77.793
+   Walgate J, 2000, PHYS REV LETT, V85, P4972, DOI 10.1103/PhysRevLett.85.4972
+NR 16
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUN
+PY 2008
+VL 77
+IS 6
+AR 062340
+DI 10.1103/PhysRevA.77.062340
+PG 12
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 321EZ
+UT WOS:000257288800076
+ER
+
+PT J
+AU Markham, D
+   Anders, J
+   Vedral, V
+   Murao, M
+   Miyake, A
+AF Markham, D.
+   Anders, J.
+   Vedral, V.
+   Murao, M.
+   Miyake, A.
+TI Survival of entanglement in thermal states
+SO EPL
+LA English
+DT Article
+ID QUANTUM STATES; PURIFICATION; ENTROPY
+AB We present a general sufficiency condition for the presence of multipartite entanglement in thermal states stemming from the ground-state entanglement. The condition is written in terms of the ground-state entanglement and the partition function and it gives transition temperatures below which entanglement is guaranteed to survive. It is flexible and can be easily adapted to consider entanglement for different splittings, as well as be weakened to allow easier calculations by approximations. Examples where the condition is calculated are given. These examples allow us to characterize a minimum gapping behavior for the survival of entanglement in the thermodynamic limit. Further, the same technique can be used to find noise thresholds in the generation of useful resource states for one-way quantum computing. Copyright (C) EPLA, 2008.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Natl Univ Singapore, Dept Phys, Quantum Informat Technol Lab, Singapore 117542, Singapore.
+   Univ Leeds, Sch Phys & Astron, Leeds LS2 9JT, W Yorkshire, England.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+   Univ Innsbruck, Inst Theoret Phys, A-6020 Innsbruck, Austria.
+   Austrian Acad Sci, Inst Quantum Opt & Quantum Informat, Innsbruck, Austria.
+RP Markham, D (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+RI Anders, Janet/C-4369-2008
+CR Anders J, 2006, NEW J PHYS, V8, DOI 10.1088/1367-2630/8/8/140
+   Arnesen MC, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.017901
+   Barnum H, 2001, J PHYS A-MATH GEN, V34, P6787, DOI 10.1088/0305-4470/34/35/305
+   Bertlmann RA, 2001, PHYS LETT A, V289, P21, DOI 10.1016/S0375-9601(01)00577-1
+   Briegel HJ, 2001, PHYS REV LETT, V86, P910, DOI 10.1103/PhysRevLett.86.910
+   BRUKNER C, 2005, PHYS REV A, V71
+   CALLAN C, 1994, PHYS LETT B, V333, P55, DOI 10.1016/0370-2693(94)91007-3
+   De Chiara G, 2006, NEW J PHYS, V8, DOI 10.1088/1367-2630/8/6/095
+   Harrow AW, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.012308
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.197207
+   HAYASHI M, QUANTPH07101056
+   Horodecki R., 2007, QUANTPH0702225
+   Kay A, 2006, NEW J PHYS, V8, DOI 10.1088/1367-2630/8/8/147
+   Osborne T.J., 2002, Physical Review A (Atomic, Molecular, and Optical Physics), V66, DOI 10.1103/PhysRevA.66.032110
+   Osterloh A, 2002, NATURE, V416, P608, DOI 10.1038/416608a
+   Plenio MB, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.060503
+   Raussendorf R, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.062313
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   Steiner M, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.054305
+   Vedral V, 1997, PHYS REV A, V56, P4452, DOI 10.1103/PhysRevA.56.4452
+   Vedral V, 2004, NEW J PHYS, V6, DOI 10.1088/1367-2630/6/1/102
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   Verstraete F, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.094423
+   Vidal G, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.040502
+   Vidal G, 1999, PHYS REV A, V59, P141, DOI 10.1103/PhysRevA.59.141
+   Vidal G, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.227902
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+   Wei TC, 2004, QUANTUM INF COMPUT, V4, P252
+   Zyczkowski K, 1998, PHYS REV A, V58, P883, DOI 10.1103/PhysRevA.58.883
+NR 29
+TC 14
+Z9 14
+PU EPL ASSOCIATION, EUROPEAN PHYSICAL SOCIETY
+PI MULHOUSE
+PA 6 RUE DES FRERES LUMIERE, MULHOUSE, 68200, FRANCE
+SN 0295-5075
+J9 EPL-EUROPHYS LETT
+JI EPL
+PY 2008
+VL 81
+IS 4
+AR 40006
+DI 10.1209/0295-5075/81/40006
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 258RA
+UT WOS:000252884600006
+ER
+
+PT J
+AU Hayashi, M
+   Markham, D
+   Murao, M
+   Owari, M
+   Virmani, S
+AF Hayashi, Masahito
+   Markham, Damian
+   Murao, Mio
+   Owari, Masaki
+   Virmani, Shashank
+TI Entanglement of multiparty-stabilizer, symmetric, and antisymmetric
+   states
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID QUANTUM STATES; PURIFICATION; CHANNELS
+AB We study various distancelike entanglement measures of multipartite states under certain symmetries. Using group averaging techniques we provide conditions under which the relative entropy of entanglement, the geometric measure of entanglement, and the logarithmic robustness are equivalent. We consider important classes of multiparty states, and in particular show that these measures are equivalent for all stabilizer states, symmetric basis and antisymmetric basis states. We rigorously prove a conjecture that the closest product state of permutation symmetric states can always be chosen to be permutation symmetric. This allows us to calculate the explicit values of various entanglement measures for symmetric and antisymmetric basis states, observing that antisymmetric states are generally more entangled. We use these results to obtain a variety of interesting ensembles of quantum states for which the optimal local operations and classical communication discrimination probability may be explicitly determined and achieved. We also discuss applications to the construction of optimal entanglement witnesses.
+C1 Tohoku Univ, Grad Sch Informat Sci, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+   Japan Sci & Technol Agcy, ERATO, SORST, Quantum Computat & Informat Project,Bunkyo Ku, Tokyo 1130033, Japan.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Paris 07, F-75013 Paris, France.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+   Univ Tokyo, Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+   Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2AZ, England.
+   Univ Hertfordshire, Dept Phys Astron & Math, Hatfield AL10 9AB, Herts, England.
+RP Hayashi, M (reprint author), Tohoku Univ, Grad Sch Informat Sci, Aoba Ku, Sendai, Miyagi 9808579, Japan.
+RI Virmani, Shashank/C-6360-2009; Hayashi, Masahito/F-2964-2012
+OI Virmani, Shashank/0000-0003-4373-0073; 
+CR Gottesman D, 2000, J MOD OPTIC, V47, P333, DOI 10.1080/09500340008244046
+   Bennett CH, 1996, PHYS REV LETT, V76, P722, DOI 10.1103/PhysRevLett.76.722
+   Bennett CH, 1996, PHYS REV A, V54, P3824, DOI 10.1103/PhysRevA.54.3824
+   Bourennane M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.087902
+   Brandao FGSL, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.022310
+   Bravyi S, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.012313
+   Cavalcanti D, 2006, PHYS REV A, V73, DOI 10.1103/PhysRevA.73.044302
+   Donald MJ, 2002, J MATH PHYS, V43, P4252, DOI 10.1063/1.1495917
+   Dur W, 2000, PHYS REV A, V62
+   DUR W, 2003, PHYS REV A, V67
+   EISERT J, 2006, LECT QUANTUM INFORM, P237, DOI 10.1002/9783527618637.ch13
+   Fortescue B, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.260501
+   GOODMAN R, 1999, REPRESENTATIONS INVA
+   Harrow AW, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.012308
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040501
+   Horn R. A., 1985, MATRIX ANAL
+   Horodecki R., ARXIVQUANTPH0702225
+   Ishizaka S, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.042325
+   KOBAYASHI T, 2005, LIE GROUP REPRESENTA
+   LEWENSTEIN M, 2000, PHYS REV A, V62
+   Markham D, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/194
+   Plenio MB, 2007, QUANTUM INF COMPUT, V7, P1
+   Rains EM, 2001, IEEE T INFORM THEORY, V47, P2921, DOI 10.1109/18.959270
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   Terhal BM, 2001, LINEAR ALGEBRA APPL, V323, P61, DOI 10.1016/S0024-3795(00)00251-2
+   Terhal BM, 2002, THEOR COMPUT SCI, V287, P313, DOI 10.1016/S0304-3975(02)00139-1
+   Vedral V, 1997, PHYS REV LETT, V78, P2275, DOI 10.1103/PhysRevLett.78.2275
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   Verstraete F, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.097901
+   Vidal G, 1999, PHYS REV A, V59, P141, DOI 10.1103/PhysRevA.59.141
+   Virmani S, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.042328
+   Vollbrecht KGH, 2001, PHYS REV A, V64, DOI 10.1103/PhysRevA.64.062307
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+   WERNER RF, 1989, PHYS REV A, V40, P4277, DOI 10.1103/PhysRevA.40.4277
+   Werner RF, 2002, J MATH PHYS, V43, P4353, DOI 10.1063/1.1498491
+   WEYL H, 1938, CLASSICAL GROUPS
+   WIE TC, 2004, QUANTUM INF COMPUT, V4, P252
+NR 37
+TC 40
+Z9 41
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JAN
+PY 2008
+VL 77
+IS 1
+AR 012104
+DI 10.1103/PhysRevA.77.012104
+PG 15
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 258IQ
+UT WOS:000252862000019
+ER
+
+PT J
+AU Owari, N
+   Braunstein, SL
+   Nemoto, K
+   Murao, M
+AF Owari, Masaki
+   Braunstein, Samuel L.
+   Nemoto, Kae
+   Murao, Mio
+TI epsilon-convertibility of entangled states and extension of Schmidt rank
+   in infinite-dimensional systems
+SO QUANTUM INFORMATION & COMPUTATION
+LA English
+DT Article
+DE entanglement; LOCC; infinite dimension; continuous variable
+ID CONTINUOUS VARIABLE SYSTEMS; QUANTUM; TRANSFORMATIONS; CRITERION;
+   CHANNELS; THEOREM
+AB By introducing the concept of E-convertibility, we extend Nielsen's and Vidal's theorems to the entanglement transformation of infinite-dimensional systems. Using an infinite-dimensional version of Vidal's theorem we derive a new stochastic-LOCC (SLOCC) monotone which can be considered as an extension of the Schmidt rank. We show that states with polynomially-damped Schmidt coefficients belong to a higher rank of entanglement class in terms of SLOCC convertibility. For the case of Hilbert spaces of countable, but infinite dimensionality, we show that there are actually an uncountable number of classes of pure non-interconvertible bipartite entangled states.
+C1 Univ Tokyo, Collaborat Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+   Univ York, York YO10 5DD, N Yorkshire, England.
+   Natl Inst Informat, Tokyo 1018430, Japan.
+   Univ Tokyo, Dept Phys, Tokyo 1130033, Japan.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+RP Owari, M (reprint author), Univ Tokyo, Collaborat Inst Nano Quantum Informat Elect, Tokyo 1130033, Japan.
+RI Braunstein, Samuel/A-5501-2009; Nemoto, Kae/A-8833-2011
+CR Bell J.S., 1964, Physics, V1
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 1996, PHYS REV LETT, V76, P722, DOI 10.1103/PhysRevLett.76.722
+   Bennett CH, 1996, PHYS REV A, V53, P2046, DOI 10.1103/PhysRevA.53.2046
+   Bennett CH, 1996, PHYS REV A, V54, P3824, DOI 10.1103/PhysRevA.54.3824
+   Bhatia R., 1997, MATRIX ANAL
+   CLAUSER JF, 1969, PHYS REV LETT, V23, P880, DOI 10.1103/PhysRevLett.23.880
+   Donald MJ, 2002, J MATH PHYS, V43, P4252, DOI 10.1063/1.1495917
+   Duan LM, 2000, PHYS REV LETT, V84, P2722, DOI 10.1103/PhysRevLett.84.2722
+   Einstein A, 1935, PHYS REV, V47, P0777, DOI 10.1103/PhysRev.47.777
+   Eisert J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.137903
+   Eisert J, 2004, ANN PHYS-NEW YORK, V311, P431, DOI 10.1016/j.aop.2003.12.008
+   Eisert J, 2002, J PHYS A-MATH GEN, V35, P3911, DOI 10.1088/0305-4470/35/17/307
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Fiurasek J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.137904
+   D'Ariano GM, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.042312
+   Giedke G, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.032316
+   Giedke G, 2003, PHYS REV LETT, V91, DOI [10.1103/PhysRevLett.91.107901, 10.1103/PbysRevLett.91.107901]
+   Giedke G, 2003, QUANTUM INF COMPUT, V3, P211
+   Giedke G, 2001, PHYS REV A, V64, DOI 10.1103/PhysRevA.64.052303
+   Keyl M, 2003, QUANTUM INFORM COMPU, V3, P281
+   Kolmogorov A. N., 1975, INTRO REAL ANAL
+   Markus A.S., 1964, RUSS MATH SURV, V19, P91, DOI 10.1070/RM1964v019n04ABEH001154
+   Nielsen MA, 1999, PHYS REV LETT, V83, P436, DOI 10.1103/PhysRevLett.83.436
+   Lo HK, 2001, PHYS REV A, V63, DOI 10.1103/PhysRevA.63.022301
+   Rains EM, 2001, IEEE T INFORM THEORY, V47, P2921, DOI 10.1109/18.959270
+   Reed M, 1980, FUNCTIONAL ANAL
+   Shor P.W., 1994, Proceedings. 35th Annual Symposium on Foundations of Computer  Science (Cat. No.94CH35717), DOI 10.1109/SFCS.1994.365700
+   Simon R, 2000, PHYS REV LETT, V84, P2726, DOI 10.1103/PhysRevLett.84.2726
+   Vedral V, 1997, PHYS REV LETT, V78, P2275, DOI 10.1103/PhysRevLett.78.2275
+   Vidal G, 2000, J MOD OPTIC, V47, P355, DOI 10.1080/09500340008244048
+   Vidal G, 1999, PHYS REV LETT, V83, P1046, DOI 10.1103/PhysRevLett.83.1046
+   von Neumann J, 1955, MATH FDN QUANTUM MEC
+   WERNER RF, 1989, PHYS REV A, V40, P4277, DOI 10.1103/PhysRevA.40.4277
+   WOLF MM, 2003, QUANTPH0306177
+   Wolf MM, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.052320
+NR 36
+TC 0
+Z9 0
+PU RINTON PRESS, INC
+PI PARAMUS
+PA 565 EDMUND TERRACE, PARAMUS, NJ 07652 USA
+SN 1533-7146
+J9 QUANTUM INF COMPUT
+JI Quantum Inform. Comput.
+PD JAN
+PY 2008
+VL 8
+IS 1-2
+BP 30
+EP 52
+PG 23
+WC Computer Science, Theory & Methods; Physics, Particles & Fields;
+   Physics, Mathematical
+SC Computer Science; Physics
+GA 245ZY
+UT WOS:000251978500003
+ER
+
+PT J
+AU Tanaka, Y
+   Markham, D
+   Murao, M
+AF Tanaka, Yu
+   Markham, Damian
+   Murao, Mio
+TI Local encoding of classical information onto quantum states
+SO JOURNAL OF MODERN OPTICS
+LA English
+DT Article
+ID ENTANGLEMENT
+AB In this article we investigate the possibility of encoding classical information onto multipartite quantum states in the distant laboratory framework. We show that for all states generated by Clifford operations there always exists such an encoding; this includes all stabilizer states such as cluster states and all graph states. We also show local encoding for classes of symmetric states ( which cannot be generated by Clifford operations). We generalize our approach using group theoretic methods introducing the unifying notion of pseudo Clifford operations. All states generated by pseudo Clifford operations are locally encodable (unifying all our examples), and we give a general method for generating sets of many such locally encodable states.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+RP Murao, M (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+EM murao@phy.s.u-tokyo.ac.jp
+CR Barnum H, 2001, J PHYS A-MATH GEN, V34, P6787, DOI 10.1088/0305-4470/34/35/305
+   Bennett C. H., 1984, P IEEE INT C COMP SY
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 1999, PHYS REV LETT, V82, P5385, DOI 10.1103/PhysRevLett.82.5385
+   Bennett CH, 1999, PHYS REV A, V59, P1070, DOI 10.1103/PhysRevA.59.1070
+   BENNETT CH, 1992, PHYS REV LETT, V69, P2881, DOI 10.1103/PhysRevLett.69.2881
+   BRUSS D, 2004, PHYS REV LETT, V93, DOI UNSP 220501
+   CHOI MD, 1972, REP MATH PHYS, V3, P275
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Hayashi M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040501
+   HEIN M, 2005, QUANTPH0602096
+   MARKHAM D, 2006, QUANTPH0609102
+   Miyake A, 2001, PHYS REV A, V64
+   Miyake A, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.220501
+   Nielsen M. A., 2000, QUANTUM COMPUTATION
+   Raussendorf R, 2001, PHYS REV LETT, V86, P5188, DOI 10.1103/PhysRevLett.86.5188
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+NR 18
+TC 2
+Z9 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0950-0340
+J9 J MOD OPTIC
+JI J. Mod. Opt.
+PY 2007
+VL 54
+IS 13-15
+BP 2259
+EP 2273
+DI 10.1080/09500340701403301
+PG 15
+WC Optics
+SC Optics
+GA 216PU
+UT WOS:000249891700029
+ER
+
+PT J
+AU Hayashi, M
+   Markham, D
+   Murao, M
+   Owari, M
+   Virmani, S
+AF Hayashi, M
+   Markham, D
+   Murao, M
+   Owari, M
+   Virmani, S
+TI Bounds on multipartite entangled orthogonal state discrimination using
+   local operations and classical communication
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID QUANTUM STATES; GEOMETRIC-MEASURE
+AB We show that entanglement guarantees difficulty in the discrimination of orthogonal multipartite states locally. The number of pure states that can be discriminated by local operations and classical communication is bounded by the total dimension over the average entanglement. A similar, general condition is also shown for pure and mixed states. These results offer a rare operational interpretation for three abstractly defined distancelike measures of multipartite entanglement.
+C1 Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+   Univ Tokyo, Imai Quantum Computat & Informat Proj, ERATO, JST, Tokyo 1130033, Japan.
+   Univ Tokyo, Superrobust Computat Project, Tokyo, Japan.
+   PRESTO, JST, Kawaguchi, Saitama 3320012, Japan.
+   Univ London Imperial Coll Sci Technol & Med, Opt Sect, Blackett Lab, London SW7 2AZ, England.
+   Univ London Imperial Coll Sci Technol & Med, Inst Math Sci, London SW7 2AZ, England.
+RP Markham, D (reprint author), Univ Tokyo, Grad Sch Sci, Dept Phys, Tokyo 1130033, Japan.
+EM markham@phys.s.u-tokyo.ac.jp; owari@eve.phys.s.u-tokyo.ac.jp;
+   s.virmani@imperial.ac.uk
+RI Quantum, CQD at IMS/D-2115-2010; Virmani, Shashank/C-6360-2009; Hayashi,
+   Masahito/F-2964-2012
+OI Virmani, Shashank/0000-0003-4373-0073; 
+CR Anselmi F, 2004, NEW J PHYS, V6, DOI 10.1088/1367-2630/6/1/164
+   Badziag P, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.117901
+   Barnum H, 2001, J PHYS A-MATH GEN, V34, P6787, DOI 10.1088/0305-4470/34/35/305
+   Bennett C. H., 1984, P IEEE INT C COMP SY
+   Bennett CH, 1999, PHYS REV A, V59, P1070, DOI 10.1103/PhysRevA.59.1070
+   BHATIA R, 1991, SPRINGER GRADUATE TE, V169
+   Chefles A, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.050307
+   Chen PX, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.062107
+   Cirac JI, 1999, PHYS REV A, V59, P4249, DOI 10.1103/PhysRevA.59.4249
+   De Rinaldis S, 2004, PHYS REV A, V70, DOI 10.1103/PhysRevA.70.022309
+   DiVincenzo DP, 2002, IEEE T INFORM THEORY, V48, P580, DOI 10.1109/18.985948
+   Dur W, 2000, PHYS REV A, V62
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Fan H, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.177905
+   Ghosh S, 2004, PHYS REV A, V70, DOI 10.1103/PhysRevA.70.022304
+   Ghosh S, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.277902
+   Ghosh S, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.012321
+   GREENBERGER DM, 1989, FUND THEOR, V37, P69
+   Harrow AW, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.012308
+   HAYDEN P, QUANTPH0409026
+   HILLERY M, 2000, PHYS REV A, V67, P2304
+   Horodecki M, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.047902
+   Horodecki M., 2001, Quantum Information and Computation, V1
+   Horodecki M, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.170503
+   Ishizaka S, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.042325
+   Ji ZF, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.032323
+   Nathanson M, 2005, J MATH PHYS, V46, DOI 10.1063/1.1914731
+   Rains EM, 1999, PHYS REV A, V60, P179, DOI 10.1103/PhysRevA.60.179
+   Rains EM, 2001, PHYS REV A, V63
+   SHIMONY A, 1995, ANN NY ACAD SCI, V755, P675, DOI 10.1111/j.1749-6632.1995.tb39008.x
+   Steiner M, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.054305
+   Terhal BM, 2001, PHYS REV LETT, V86, P5807, DOI 10.1103/PhysRevLett.86.5807
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   Vidal G, 1999, PHYS REV A, V59, P141, DOI 10.1103/PhysRevA.59.141
+   Virmani S, 2001, PHYS LETT A, V288, P62, DOI 10.1016/S0375-9601(01)00484-4
+   Virmani S, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.062308
+   Walgate J, 2000, PHYS REV LETT, V85, P4972, DOI 10.1103/PhysRevLett.85.4972
+   Watrous J, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.080505
+   Wei TC, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.042307
+   Wei TC, 2004, QUANTUM INF COMPUT, V4, P252
+NR 40
+TC 45
+Z9 46
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD FEB 3
+PY 2006
+VL 96
+IS 4
+AR 040501
+DI 10.1103/PhysRevLett.96.040501
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 009AN
+UT WOS:000235083600006
+ER
+
+PT J
+AU Markham, D
+   Murao, M
+   Vedral, V
+AF Markham, D
+   Murao, M
+   Vedral, V
+TI Entanglement generation from thermal spin states via unitary beam
+   splitters
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+AB We suggest a method of generating distillable entanglement from mixed states unitarily, by utilizing the flexibility of dimension of occupied Hilbert space. We present a model of a thermal spin state entering a beam splitter generating entanglement. It is the truncation of the state that allows for entanglement generation. The output entanglement is investigated for different temperatures and it is found that more randomness-in the form of higher temperature-is better for this setup.
+C1 Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BW, England.
+   Univ Tokyo, Grad Sch Sci, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+RP Markham, D (reprint author), Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BW, England.
+CR Arnesen MC, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.017901
+   Bose S, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.050401
+   Browne DE, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.062320
+   CAMPOS RA, 1989, PHYS REV A, V40, P1371, DOI 10.1103/PhysRevA.40.1371
+   Castin Y, 1997, PHYS REV A, V55, P4330, DOI 10.1103/PhysRevA.55.4330
+   Eisert J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.137903
+   Eisert J, 2001, THESIS U POTSDAM
+   Filip R, 2002, PHYS REV A, V65, DOI 10.1103/PhysRevA.65.043802
+   GISIN N, 2003, P 6 INT C QUANT COMM
+   HAMMERER K, QUANTPH0409109
+   Horodecki M, 1997, PHYS REV LETT, V78, P574, DOI 10.1103/PhysRevLett.78.574
+   Kim MS, 2002, PHYS REV A, V65, DOI 10.1103/PhysRevA.65.032323
+   Knill E, 1998, PHYS REV LETT, V81, P5672, DOI 10.1103/PhysRevLett.81.5672
+   Lee JY, 2000, J MOD OPTIC, V47, P2151, DOI 10.1080/09500340008235138
+   Lukin MD, 2003, REV MOD PHYS, V75, P457, DOI 10.1103/RevModPhys.75.457
+   Markham D, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.042113
+   Nielsen M. A., 2000, QUANTUM COMPUTATION
+   Sackett CA, 2001, J OPT B-QUANTUM S O, V3, pR1, DOI 10.1088/1464-4266/3/3/201
+   SORENSEN AS, QUANTPH0304008
+   Vidal G, 2002, PHYS REV A, V65, DOI 10.1103/PhysRevA.65.032314
+   Wang XB, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.024303
+NR 21
+TC 0
+Z9 0
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD DEC
+PY 2004
+VL 70
+IS 6
+AR 062312
+DI 10.1103/PhysRevA.70.062312
+PG 5
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 889BQ
+UT WOS:000226418900042
+ER
+
+PT J
+AU Owari, M
+   Matsumoto, K
+   Murao, M
+AF Owari, M
+   Matsumoto, K
+   Murao, M
+TI Entanglement convertibility for infinite-dimensional pure bipartite
+   states
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID TELEPORTATION; TRANSFORMATIONS; DISTILLATION
+AB It is shown that the order property of pure bipartite states under stochastic local operations and classical communications (SLOCC) changes radically when dimensionality shifts from finite to infinite. In contrast to finite-dimensional systems where there is no pure incomparable state, the existence of infinitely many mutually SLOCC incomparable states is shown for infinite-dimensional systems even under the bounded energy and finite information exchange condition. These results show that the effect of the infinite dimensionality of Hilbert space, the "infinite workspace" property, remains even in physically relevant infinite-dimensional systems.
+C1 Univ Tokyo, Dept Phys, Tokyo 1130033, Japan.
+   Natl Inst Informat, Quantum Computat Grp, Tokyo 1018430, Japan.
+   JST, Imai Quantum Computat & Informat Project, Tokyo 1130033, Japan.
+   JST, PRESTO, Kawaguchi, Saitama 3320012, Japan.
+RP Owari, M (reprint author), Univ Tokyo, Dept Phys, Tokyo 1130033, Japan.
+CR Audenaert K, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.027901
+   Bennett CH, 1996, PHYS REV LETT, V76, P722, DOI 10.1103/PhysRevLett.76.722
+   Bennett CH, 1996, PHYS REV A, V53, P2046, DOI 10.1103/PhysRevA.53.2046
+   Bennett CH, 1996, PHYS REV A, V54, P3824, DOI 10.1103/PhysRevA.54.3824
+   Braunstein SL, 1998, PHYS REV LETT, V80, P869, DOI 10.1103/PhysRevLett.80.869
+   Donald MJ, 2002, J MATH PHYS, V43, P4252, DOI 10.1063/1.1495917
+   Dur W, 2000, PHYS REV A, V62
+   Eisert J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.137903
+   Eisert J, 2004, ANN PHYS-NEW YORK, V311, P431, DOI 10.1016/j.aop.2003.12.008
+   Fiurasek J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.137904
+   Furusawa A, 1998, SCIENCE, V282, P706, DOI 10.1126/science.282.5389.706
+   Giedke G, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.032316
+   Giedke G, 2003, PHYS REV LETT, V91, DOI [10.1103/PhysRevLett.91.107901, 10.1103/PbysRevLett.91.107901]
+   Giedke G, 2003, QUANTUM INF COMPUT, V3, P211
+   Horodecki M, 2000, PHYS REV LETT, V84, P2014, DOI 10.1103/PhysRevLett.84.2014
+   Horodecki M, 1998, PHYS REV LETT, V80, P5239, DOI 10.1103/PhysRevLett.80.5239
+   Kolmogorov A.N., 1970, INTRO REAL ANAL
+   Morikoshi F, 2004, J PHYS A-MATH GEN, V37, P5887, DOI 10.1088/0305-4470/37/22/013
+   Nielsen MA, 1999, PHYS REV LETT, V83, P436, DOI 10.1103/PhysRevLett.83.436
+   OWARI M, UNPUB
+   Rains EM, 2001, IEEE T INFORM THEORY, V47, P2921, DOI 10.1109/18.959270
+   Vedral V, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.037903
+   Vidal G, 1999, PHYS REV LETT, V83, P1046, DOI 10.1103/PhysRevLett.83.1046
+   Wolf MM, 2004, PHYS REV A, V69, DOI 10.1103/PhysRevA.69.052320
+NR 24
+TC 5
+Z9 5
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD NOV
+PY 2004
+VL 70
+IS 5
+AR 050301
+DI 10.1103/PhysRevA.70.050301
+PG 4
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 876EM
+UT WOS:000225479000002
+ER
+
+PT J
+AU Murao, M
+   Vedral, V
+AF Murao, M
+   Vedral, V
+TI Remote information concentration using a bound entangled state
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID MIXED STATES; QUANTUM; TELEPORTATION; SEPARABILITY; PURIFICATION
+AB Remote information concentration, the reverse process of quantum telecloning, is presented. In this scheme, quantum information originally from a single qubit. but now distributed into three spatially separated qubits, is remotely concentrated back to a single qubit via an initially shared entangled state without performing any global operations. This entangled state is a single unlockable bound entangled slate and we analyze its properties.
+C1 RIKEN, Inst Phys & Chem Res, Semicond Lab, Wako, Saitama 3510198, Japan.
+   Univ Oxford, Clarendon Lab, Ctr Quantum Computat, Oxford OX1 3PU, England.
+RP Murao, M (reprint author), RIKEN, Inst Phys & Chem Res, Semicond Lab, Wako, Saitama 3510198, Japan.
+CR Bennett C. H., 1984, P IEEE INT C COMP SY, P175
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   BENNETT CH, 1992, PHYS REV LETT, V69, P2881, DOI 10.1103/PhysRevLett.69.2881
+   Bennett CH, 1996, PHYS REV A, V54, P3824, DOI 10.1103/PhysRevA.54.3824
+   Buzek V, 1996, PHYS REV A, V54, P1844, DOI 10.1103/PhysRevA.54.1844
+   Buzek V, 1997, PHYS REV A, V56, P3446, DOI 10.1103/PhysRevA.56.3446
+   CIRAC JI, QUANTPH0007057
+   Gottesman D, 1999, NATURE, V402, P390
+   Gottesman D., QUANTPH9807006
+   Hillery M, 1997, PHYS REV A, V56, P1212, DOI 10.1103/PhysRevA.56.1212
+   Horodecki M, 1996, PHYS LETT A, V223, P1, DOI 10.1016/S0375-9601(96)00706-2
+   Horodecki M, 1998, PHYS REV LETT, V80, P5239, DOI 10.1103/PhysRevLett.80.5239
+   Horodecki P, 1999, PHYS REV LETT, V82, P1056, DOI 10.1103/PhysRevLett.82.1056
+   Kent A, 1998, PHYS REV LETT, V81, P2839, DOI 10.1103/PhysRevLett.81.2839
+   Lewenstein M, 2000, J MOD OPTIC, V47, P2481, DOI 10.1080/095003400100014767
+   Linden N, 1998, PHYS REV LETT, V81, P3279, DOI 10.1103/PhysRevLett.81.3279
+   Murao M, 1999, PHYS REV A, V59, P156, DOI 10.1103/PhysRevA.59.156
+   Murao M, 2000, PHYS REV A, V61, DOI 10.1103/PhysRevA.61.032311
+   Peres A, 1996, PHYS REV LETT, V77, P1413, DOI 10.1103/PhysRevLett.77.1413
+   Plenio MB, 1998, CONTEMP PHYS, V39, P431, DOI 10.1080/001075198181766
+   SHOR PW, QUANTPH0005117
+   SMOLIN JA, QUANTPH0001001
+   Vedral V, 1997, PHYS REV LETT, V78, P2275, DOI 10.1103/PhysRevLett.78.2275
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   WOOTTERS WK, 1982, NATURE, V299, P802, DOI 10.1038/299802a0
+NR 25
+TC 48
+Z9 52
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD JAN 8
+PY 2001
+VL 86
+IS 2
+BP 352
+EP 355
+DI 10.1103/PhysRevLett.86.352
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 389GZ
+UT WOS:000166231400042
+ER
+
+PT J
+AU Murao, M
+   Plenio, MB
+   Vedral, V
+AF Murao, M
+   Plenio, MB
+   Vedral, V
+TI Quantum-information distribution via entanglement
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID ERROR-CORRECTING CODES; CLONING MACHINES; STATES; TELEPORTATION;
+   SEPARABILITY; UNIVERSAL
+AB We present a generalization of quantum teleportation that distributes quantum information from a sender's d-level particle to N-o particles held by remote receivers via an initially shared multiparticle entangled state. This entangled state functions as a multiparty quantum information distribution channel between the sender and the receivers. The structure of the distribution channel determines how quantum information is processed. Our generalized teleportation scheme allows multiple receivers at arbitrary locations, and can be used for applications such as optimal quantum information broadcasting, asymmetric telecloning, and quantum error correction.
+C1 RIKEN, Inst Phys & Chem Res, Semicond Lab, Wako, Saitama 35101, Japan.
+   Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+   Univ Oxford, Clarendon Lab, Ctr Quantum Comp, Oxford OX1 3PU, England.
+RP Murao, M (reprint author), RIKEN, Inst Phys & Chem Res, Semicond Lab, Wako, Saitama 35101, Japan.
+CR Barenco A, 1997, PHYS REV A, V56, P1177, DOI 10.1103/PhysRevA.56.1177
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 1996, PHYS REV A, V54, P3824, DOI 10.1103/PhysRevA.54.3824
+   Bose S, 1998, PHYS REV A, V57, P822, DOI 10.1103/PhysRevA.57.822
+   BOSHI D, 1998, PHYS REV LETT, V80, P1121
+   Bouwmeester D, 1997, NATURE, V390, P575, DOI 10.1038/37539
+   Bruss D, 1998, PHYS REV A, V57, P2368, DOI 10.1103/PhysRevA.57.2368
+   Buzek V, 1998, PHYS REV LETT, V81, P5003, DOI 10.1103/PhysRevLett.81.5003
+   Buzek V, 1996, PHYS REV A, V54, P1844, DOI 10.1103/PhysRevA.54.1844
+   Buzek V, 1997, PHYS REV A, V56, P3446, DOI 10.1103/PhysRevA.56.3446
+   Buzek V, 1998, ACTA PHYS SLOVACA, V48, P177
+   Calderbank AR, 1996, PHYS REV A, V54, P1098, DOI 10.1103/PhysRevA.54.1098
+   Cerf NJ, 1998, ACTA PHYS SLOVACA, V48, P115
+   Cleve R, 1999, PHYS REV LETT, V83, P648, DOI 10.1103/PhysRevLett.83.648
+   Dur W, 2000, J MOD OPTIC, V47, P247, DOI 10.1080/095003400148178
+   Furusawa A, 1998, SCIENCE, V282, P706, DOI 10.1126/science.282.5389.706
+   Gisin N, 1997, PHYS REV LETT, V79, P2153, DOI 10.1103/PhysRevLett.79.2153
+   Hillery M, 1997, PHYS REV A, V56, P1212, DOI 10.1103/PhysRevA.56.1212
+   Hillery M, 1999, PHYS REV A, V59, P1829, DOI 10.1103/PhysRevA.59.1829
+   Horodecki M, 1996, PHYS LETT A, V223, P1, DOI 10.1016/S0375-9601(96)00706-2
+   Karlsson A, 1999, PHYS REV A, V59, P162, DOI 10.1103/PhysRevA.59.162
+   Knill E, 1997, PHYS REV A, V55, P900, DOI 10.1103/PhysRevA.55.900
+   Laflamme R, 1996, PHYS REV LETT, V77, P198, DOI 10.1103/PhysRevLett.77.198
+   MASSAR S, 1995, PHYS REV LETT, V74, P1259, DOI 10.1103/PhysRevLett.74.1259
+   Murao M, 1999, PHYS REV A, V59, P156, DOI 10.1103/PhysRevA.59.156
+   Peres A, 1996, PHYS REV LETT, V77, P1413, DOI 10.1103/PhysRevLett.77.1413
+   POPESCU S, COMMUNICATION
+   SHOR PW, 1995, PHYS REV A, V52, pR2493
+   Steane AM, 1996, PHYS REV LETT, V77, P793, DOI 10.1103/PhysRevLett.77.793
+   Werner RF, 1998, PHYS REV A, V58, P1827, DOI 10.1103/PhysRevA.58.1827
+   WOOTTERS WK, 1982, NATURE, V299, P802, DOI 10.1038/299802a0
+NR 31
+TC 61
+Z9 66
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD MAR
+PY 2000
+VL 61
+IS 3
+AR 032311
+DI 10.1103/PhysRevA.61.032311
+PG 11
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 293DM
+UT WOS:000085836300035
+ER
+
+PT J
+AU Knight, PL
+   Murao, M
+   Plenio, MB
+   Vedral, V
+AF Knight, PL
+   Murao, M
+   Plenio, MB
+   Vedral, V
+TI Ion trap quantum gates, decoherence and error correction
+SO CHAOS SOLITONS & FRACTALS
+LA English
+DT Article
+ID NONCLASSICAL MOTIONAL STATES; LOGIC GATES; COMPUTATION; JUMPS; COMPUTER;
+   NETWORKS; BOUNDS; ATOM
+AB We analyze the linear ion trap proposal for realizing a quantum computer. We calculate the limits on Shor's factorization algorithm due to spontaneous emission of the ions. A further contribution to decoherence which originates from instrumental fluctuations and imperfections is described. Fault-tolerant error correction is then applied to derive limits on the efficiency of ion trap computing. (C) 1999 Elsevier Science Ltd. All rights reserved.
+C1 Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+RP Knight, PL (reprint author), Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+CR Aharonov D., 1996, FAULT TOLERANT QUANT
+   SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   BARENCO A, 1995, PHYS REV LETT, V74, P4083, DOI 10.1103/PhysRevLett.74.4083
+   Barenco A, 1996, CONTEMP PHYS, V37, P375, DOI 10.1080/00107519608217543
+   BARENCO A, 1995, PHYS REV A, V52, P3457, DOI 10.1103/PhysRevA.52.3457
+   BARENCO A, 1995, P ROY SOC LOND A MAT, V449, P678
+   BERGQUIST JC, 1986, PHYS REV LETT, V57, P1699, DOI 10.1103/PhysRevLett.57.1699
+   Buzek V, 1997, PHYS REV A, V55, P3327, DOI 10.1103/PhysRevA.55.3327
+   CIRAC JI, 1995, PHYS REV LETT, V74, P4091, DOI 10.1103/PhysRevLett.74.4091
+   DEUTSCH D, 1989, P ROY SOC LOND A MAT, V425, P73, DOI 10.1098/rspa.1989.0099
+   DIVINCENZO D, 1995, PHYS REV A, V50, P1015
+   DiVincenzo DP, 1996, PHYS REV LETT, V77, P3260, DOI 10.1103/PhysRevLett.77.3260
+   Ekert A, 1996, REV MOD PHYS, V68, P733, DOI 10.1103/RevModPhys.68.733
+   Hughes RJ, 1998, FORTSCHR PHYS, V46, P329, DOI 10.1002/(SICI)1521-3978(199806)46:4/5<329::AID-PROP329>3.0.CO;2-X
+   Hughes RJ, 1996, PHYS REV LETT, V77, P3240, DOI 10.1103/PhysRevLett.77.3240
+   JAMES DFV, 1996, GLOBAL LIMITS QUANTU, V1
+   King BE, 1998, PHYS REV LETT, V81, P1525, DOI 10.1103/PhysRevLett.81.1525
+   Knight PL, 1997, PHILOS T R SOC A, V355, P2381
+   KNILL E, QUANTPH9610011
+   Meekhof DM, 1996, PHYS REV LETT, V76, P1796, DOI 10.1103/PhysRevLett.76.1796
+   MONROE C, 1995, PHYS REV LETT, V75, P4714, DOI 10.1103/PhysRevLett.75.4714
+   Murao M, 1998, PHYS REV A, V58, P663, DOI 10.1103/PhysRevA.58.663
+   NAGOURNEY W, 1986, PHYS REV LETT, V56, P2797, DOI 10.1103/PhysRevLett.56.2797
+   Plenio MB, 1997, FUND THEOR, V81, P311
+   Plenio MB, 1997, P ROY SOC LOND A MAT, V453, P2017
+   Plenio MB, 1996, PHYS REV A, V53, P2986, DOI 10.1103/PhysRevA.53.2986
+   PRESKILL J, 1996, COMMUNICATION
+   SAUTER T, 1986, PHYS REV LETT, V57, P1696, DOI 10.1103/PhysRevLett.57.1696
+   SAUTER T, 1986, OPT COMMUN, V60, P287, DOI 10.1016/0030-4018(86)90152-5
+   SHOR PW, 1995, PHYS REV A, V52, pR2493
+   Shor P.W., 1994, Proceedings. 35th Annual Symposium on Foundations of Computer  Science (Cat. No.94CH35717), DOI 10.1109/SFCS.1994.365700
+   Shor P.W., QUANTPH9605011
+   SLEATOR T, 1995, PHYS REV LETT, V74, P4087, DOI 10.1103/PhysRevLett.74.4087
+   Steane A, 1998, REP PROG PHYS, V61, P117, DOI 10.1088/0034-4885/61/2/002
+   Vedral V, 1996, PHYS REV A, V54, P147, DOI 10.1103/PhysRevA.54.147
+   VEDRAL V, 1998, PROG QUANT ELECT, V22
+NR 36
+TC 5
+Z9 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-0779
+J9 CHAOS SOLITON FRACT
+JI Chaos Solitons Fractals
+PD OCT
+PY 1999
+VL 10
+IS 10
+BP 1621
+EP 1635
+PG 15
+WC Mathematics, Interdisciplinary Applications; Physics, Multidisciplinary;
+   Physics, Mathematical
+SC Mathematics; Physics
+GA 200XD
+UT WOS:000080564700004
+ER
+
+PT J
+AU Murao, M
+   Jonathan, D
+   Plenio, MB
+   Vedral, V
+AF Murao, M
+   Jonathan, D
+   Plenio, MB
+   Vedral, V
+TI Quantum telecloning and multiparticle entanglement
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID BELL THEOREM; COMMUNICATION; SEPARABILITY; STATES
+AB A quantum telecloning process combining quantum teleportation and optimal quantum cloning from one input to M outputs is presented. The scheme relies on the establishment of particular multiparticle entangled states, which function as multiuser quantum information channels. The entanglement structure of these states is analyzed and shown to be crucial for this type of information processing. [S1050-2947(99)07301-1].
+C1 Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+   Univ Oxford, Clarendon Lab, Ctr Quantum Comp, Oxford OX1 3PU, England.
+RP Murao, M (reprint author), Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+CR Bennett C. H., 1984, P IEEE INT C COMP SY
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   BENNETT CH, 1992, PHYS REV LETT, V69, P2881, DOI 10.1103/PhysRevLett.69.2881
+   Bose S, 1998, PHYS REV A, V57, P822, DOI 10.1103/PhysRevA.57.822
+   Bruss D, 1998, PHYS REV A, V57, P2368, DOI 10.1103/PhysRevA.57.2368
+   Bruss D, 1998, PHYS REV LETT, V81, P2598, DOI 10.1103/PhysRevLett.81.2598
+   BUZEK V, QUANTPH9801009
+   Buzek V, 1996, PHYS REV A, V54, P1844, DOI 10.1103/PhysRevA.54.1844
+   Buzek V, 1997, PHYS REV A, V56, P3446, DOI 10.1103/PhysRevA.56.3446
+   CERF NJ, QUANTPH9803058
+   CIRAC JI, QUANTPH9803017
+   Cleve R, 1997, PHYS REV A, V56, P1201, DOI 10.1103/PhysRevA.56.1201
+   Ekert A, 1996, REV MOD PHYS, V68, P733, DOI 10.1103/RevModPhys.68.733
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Gisin N, 1997, PHYS REV LETT, V79, P2153, DOI 10.1103/PhysRevLett.79.2153
+   GREENBERGER DM, 1990, AM J PHYS, V58, P1131, DOI 10.1119/1.16243
+   Grover L.K., QUANTPH9704012
+   HILLERY M, QUANTPH9806063
+   Horodecki M, 1996, PHYS LETT A, V223, P1, DOI 10.1016/S0375-9601(96)00706-2
+   Murao M, 1998, PHYS REV A, V57, pR4075, DOI 10.1103/PhysRevA.57.R4075
+   Peres A, 1996, PHYS REV LETT, V77, P1413, DOI 10.1103/PhysRevLett.77.1413
+   PLENIO MB, QUANTPH9804075
+   Vedral V, 1997, PHYS REV LETT, V78, P2275, DOI 10.1103/PhysRevLett.78.2275
+   Werner RF, 1998, PHYS REV A, V58, P1827, DOI 10.1103/PhysRevA.58.1827
+   WOOTTERS WK, 1982, NATURE, V299, P902
+   Zanardi P, 1998, PHYS REV A, V58, P3484, DOI 10.1103/PhysRevA.58.3484
+NR 26
+TC 313
+Z9 338
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JAN
+PY 1999
+VL 59
+IS 1
+BP 156
+EP 161
+DI 10.1103/PhysRevA.59.156
+PG 6
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 158JD
+UT WOS:000078111500026
+ER
+
+PT J
+AU Bose, S
+   Knight, PL
+   Murao, M
+   Plenio, MB
+   Vedral, V
+AF Bose, S
+   Knight, PL
+   Murao, M
+   Plenio, MB
+   Vedral, V
+TI Implementations of quantum logic: fundamental and experimental limits
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL
+   AND ENGINEERING SCIENCES
+LA English
+DT Article
+DE quantum computation; decoherence; entanglement; quantum communication
+ID TOLERANT ERROR-CORRECTION; JAYNES-CUMMINGS MODEL; TRAPPED IONS;
+   COMPUTATION; ENTANGLEMENT; DECOHERENCE; GENERATION; MECHANICS; COMPUTER;
+   NETWORKS
+AB Quantum information processing rests on our ability to manipulate quantum superpositions through coherent unitary transformations. In reality the quantum information processor (a linear ion trap, or cavity QED implementation for example) exists in a dissipative environment. Dephasing, and other technical sources of noise, as well as more fundamental sources of dissipation severely restrict quantum processing capabilities. The strength of the coherent coupling needed to implement quantum logic is not always independent of dissipation. The limitations these dissipative influences present will be described and the need for efficient error correction noted. Even if long and involved quantum computations turn out to be hard to realize, one can perform interesting manipulations of entanglement involving only a few gates and qubits, of which we give examples. Quantum communication also involves manipulations of entanglement which are simpler to implement than elaborate computations. We briefly analyse the notion of the capacity of a quantum communication channel.
+C1 Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Dept Opt, London SW7 2BZ, England.
+RP Bose, S (reprint author), Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Dept Opt, Prince Consort Rd, London SW7 2BZ, England.
+CR AHARANOV D, 1996, QUANTPH9611029
+   SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   Bennett CH, 1996, PHYS REV LETT, V76, P722, DOI 10.1103/PhysRevLett.76.722
+   BENNETT CH, 1992, PHYS REV LETT, V69, P2881, DOI 10.1103/PhysRevLett.69.2881
+   BENNETT CH, 1989, SIAM J COMPUT, V18, P766, DOI 10.1137/0218053
+   Biham E, 1996, PHYS REV A, V54, P2651, DOI 10.1103/PhysRevA.54.2651
+   Bose S, 1998, PHYS REV A, V57, P822, DOI 10.1103/PhysRevA.57.822
+   CIRAC JI, 1995, PHYS REV LETT, V74, P4091, DOI 10.1103/PhysRevLett.74.4091
+   DEUTSCH D, 1985, P ROY SOC LOND A MAT, V400, P97, DOI 10.1098/rspa.1985.0070
+   DEUTSCH D, 1992, P ROY SOC LOND A MAT, V439, P553, DOI 10.1098/rspa.1992.0167
+   DEUTSCH D, 1989, P ROY SOC LOND A MAT, V425, P73, DOI 10.1098/rspa.1989.0099
+   Deutsch D., 1997, FABRIC REALITY
+   DiVincenzo DP, 1996, PHYS REV LETT, V77, P3260, DOI 10.1103/PhysRevLett.77.3260
+   Ekert A, 1996, REV MOD PHYS, V68, P733, DOI 10.1103/RevModPhys.68.733
+   Grover LK, 1997, PHYS REV LETT, V79, P325, DOI 10.1103/PhysRevLett.79.325
+   Knill E., 1996, QUANTPH9610011
+   Lloyd S, 1997, PHYS REV A, V55, P1613, DOI 10.1103/PhysRevA.55.1613
+   Meekhof DM, 1996, PHYS REV LETT, V76, P1796, DOI 10.1103/PhysRevLett.76.1796
+   MONROE C, 1995, PHYS REV LETT, V75, P4714, DOI 10.1103/PhysRevLett.75.4714
+   MURAO M, 1998, IN PRESS PHYS REV A
+   MURAO M, 1995, J PHYS SOC JPN, V64, P2394, DOI 10.1143/JPSJ.64.2394
+   Murao M, 1997, J PHYS SOC JPN, V66, P2314, DOI 10.1143/JPSJ.66.2314
+   Plenio MB, 1997, P ROY SOC LOND A MAT, V453, P2017
+   Plenio MB, 1997, PHYS REV A, V55, P4593, DOI 10.1103/PhysRevA.55.4593
+   Plenio MB, 1996, PHYS REV A, V53, P2986, DOI 10.1103/PhysRevA.53.2986
+   Schumacher B, 1996, PHYS REV A, V54, P2629, DOI 10.1103/PhysRevA.54.2629
+   SHOR PW, 1995, PHYS REV A, V52, pR2493
+   Shor P.W., 1994, Proceedings. 35th Annual Symposium on Foundations of Computer  Science (Cat. No.94CH35717), DOI 10.1109/SFCS.1994.365700
+   SHOR PW, 1996, QUANTPH9605011
+   SHORE BW, 1993, J MOD OPTIC, V40, P1195, DOI 10.1080/09500349314551321
+   Vedral V, 1996, PHYS REV A, V54, P147, DOI 10.1103/PhysRevA.54.147
+   Vedral V, 1997, PHYS REV LETT, V78, P2275, DOI 10.1103/PhysRevLett.78.2275
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   ZUKOWSKI M, 1993, PHYS REV LETT, V71, P4287, DOI 10.1103/PhysRevLett.71.4287
+NR 34
+TC 14
+Z9 14
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-503X
+J9 PHILOS T R SOC A
+JI Philos. Trans. R. Soc. A-Math. Phys. Eng. Sci.
+PD AUG 15
+PY 1998
+VL 356
+IS 1743
+BP 1823
+EP 1838
+PG 16
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 113TJ
+UT WOS:000075568100014
+ER
+
+PT J
+AU Murao, M
+   Knight, PL
+AF Murao, M
+   Knight, PL
+TI Decoherence in nonclassical motional states of a trapped ion
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID JAYNES-CUMMINGS MODEL; INTRINSIC DECOHERENCE; MECHANICS; DYNAMICS;
+   QUANTUM; ATOM
+AB The decoherence of nonclassical motional states of a trapped Be-9(+) ion in a recent experiment is investigated theoretically. Sources of decoherence considered here destroy the characteristic coherent quantum dynamics of the system, but do not cause energy dissipation. Here they are first introduced phenomenologically, and then described using a microscopic Hamiltonian formulation. Theoretical predictions are compared to experimental results.
+C1 Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+RP Murao, M (reprint author), Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+CR SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   BOSE S, IN PRESS PHILOS T A
+   JAMES DFV, EPRINT QUANT PH98040
+   KEITEL CH, 1995, OPT COMMUN, V118, P143, DOI 10.1016/0030-4018(95)00161-Z
+   LEGGETT AJ, 1987, REV MOD PHYS, V59, P1, DOI 10.1103/RevModPhys.59.1
+   Leibfried D, 1997, J MOD OPTIC, V44, P2485, DOI 10.1080/09500349708231896
+   Louisell W. H., 1973, QUANTUM STAT PROPERT
+   Meekhof DM, 1996, PHYS REV LETT, V76, P1796, DOI 10.1103/PhysRevLett.76.1796
+   MILBURN GJ, 1991, PHYS REV A, V44, P5401, DOI 10.1103/PhysRevA.44.5401
+   MOYACESSA H, 1993, PHYS REV A, V48, P3900, DOI 10.1103/PhysRevA.48.3900
+   MURAO M, 1995, J PHYS SOC JPN, V64, P2394, DOI 10.1143/JPSJ.64.2394
+   Murao M, 1997, J PHYS SOC JPN, V66, P2314, DOI 10.1143/JPSJ.66.2314
+   Schneider S, 1998, PHYS REV A, V57, P3748, DOI 10.1103/PhysRevA.57.3748
+   SHORE BW, 1993, J MOD OPTIC, V40, P1195, DOI 10.1080/09500349314551321
+   Steinbach J, 1997, PHYS REV A, V56, P4815, DOI 10.1103/PhysRevA.56.4815
+   WINELAND DJ, UNPUB
+   ZUREK WH, 1991, PHYS TODAY, V44, P36, DOI 10.1063/1.881293
+NR 17
+TC 52
+Z9 52
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUL
+PY 1998
+VL 58
+IS 1
+BP 663
+EP 669
+DI 10.1103/PhysRevA.58.663
+PG 7
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA ZZ998
+UT WOS:000074790500085
+ER
+
+PT J
+AU Murao, M
+   Plenio, MB
+   Popescu, S
+   Vedral, V
+   Knight, PL
+AF Murao, M
+   Plenio, MB
+   Popescu, S
+   Vedral, V
+   Knight, PL
+TI Multiparticle entanglement purification protocols
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID QUANTUM CRYPTOGRAPHY; NOISY CHANNELS; BELL THEOREM; STATE
+AB Purification schemes for multiparticle entangled states cannot be treated as straightforward extensions of those two-particle ones because of the lack of symmetry they possess. We propose purification protocols for a wide range of mixed entangled states of many particles. These are useful for understanding entanglement, and could be of practical significance in multiuser cryptographic schemes or distributed quantum computation and communication. We show that operating locally on multiparticle entangled states directly is more efficient than relying on two-particle purification.
+C1 Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+   Isaac Newton Inst Math Sci, Cambridge CB3 0HE, England.
+   Hewlett Packard Labs, BRIMS, Bristol BS12 6QZ, Avon, England.
+RP Murao, M (reprint author), Univ London Imperial Coll Sci Technol & Med, Blackett Lab, Opt Sect, London SW7 2BZ, England.
+CR Barenco A, 1996, CONTEMP PHYS, V37, P375, DOI 10.1080/00107519608217543
+   BENNETT CH, 1993, PHYS REV LETT, V70, P1895, DOI 10.1103/PhysRevLett.70.1895
+   Bennett CH, 1996, PHYS REV LETT, V76, P722, DOI 10.1103/PhysRevLett.76.722
+   Bennett CH, 1996, PHYS REV A, V53, P2046, DOI 10.1103/PhysRevA.53.2046
+   Bennett CH, 1996, PHYS REV A, V54, P3824, DOI 10.1103/PhysRevA.54.3824
+   Deutsch D, 1996, PHYS REV LETT, V77, P2818, DOI 10.1103/PhysRevLett.77.2818
+   EKERT AK, 1991, PHYS REV LETT, V67, P661, DOI 10.1103/PhysRevLett.67.661
+   Gisin N, 1996, PHYS LETT A, V210, P151, DOI 10.1016/S0375-9601(96)80001-6
+   GREENBERGER DM, 1990, AM J PHYS, V58, P1131, DOI 10.1119/1.16243
+   Horodecki M, 1997, PHYS REV LETT, V78, P574, DOI 10.1103/PhysRevLett.78.574
+   LINDEN N, QUANTPH9711016
+   Popescu S, 1997, PHYS REV A, V56, pR3319
+   Vedral V, 1997, PHYS REV A, V56, P4452, DOI 10.1103/PhysRevA.56.4452
+   Vedral V, 1997, PHYS REV LETT, V78, P2275, DOI 10.1103/PhysRevLett.78.2275
+   Vedral V, 1998, PHYS REV A, V57, P1619, DOI 10.1103/PhysRevA.57.1619
+   WERNER RF, 1989, PHYS REV A, V40, P4277, DOI 10.1103/PhysRevA.40.4277
+   Zeilinger A, 1997, PHYS REV LETT, V78, P3031, DOI 10.1103/PhysRevLett.78.3031
+NR 17
+TC 129
+Z9 131
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUN
+PY 1998
+VL 57
+IS 6
+BP R4075
+EP R4078
+DI 10.1103/PhysRevA.57.R4075
+PG 4
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA ZU090
+UT WOS:000074160600001
+ER
+
+PT J
+AU Murao, M
+AF Murao, M
+TI Relaxation and decoherence to two strongly coupled spin 1/2 particles
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE coupled spin; quantum dissipative system; relaxation; decoherence
+ID JAYNES-CUMMINGS MODEL; QUANTUM; DYNAMICS; SYSTEM; EQUILIBRIUM
+AB A quantum statistical model for the relaxation of two strongly coupled spin 1/2 particles toward thermal equilibrium is formulated microscopically using a master equation. Raman-type dissipation mechanisms are introduced in addition to the usual bilinear coupling between the coupled system and the reservoir, The effects of two different rotating wave approximations to derive the master equation are investigated. Decoherence is considered as a process toward thermal equilibrium for the dissipative system and is studied by observing the phase and energy relaxation.
+C1 OCHANOMIZU UNIV,BUNKYO KU,TOKYO 112,JAPAN.
+   HARVARD UNIV,DEPT PHYS,CAMBRIDGE,MA 02138.
+CR AGARWAL GS, 1974, SPRINGER TRACTS MODE, V70, P116
+   SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   ASLANGUL C, 1985, J PHYS-PARIS, V46, P2031, DOI 10.1051/jphys:0198500460120203100
+   BERMAN PR, 1994, ATOMIC MOL OPTICAL P, V2
+   BLOEMBERGEN N, 1956, PHYS REV, V104, P1542, DOI 10.1103/PhysRev.104.1542
+   CIRAC JI, 1994, PHYS REV A, V49, P1202, DOI 10.1103/PhysRevA.49.1202
+   DIVINCENZO DP, 1995, SCIENCE, V270, P255, DOI 10.1126/science.270.5234.255
+   EKERT A, IN PRESS REV MOD PHY
+   HAAKE F, 1973, SPRINGER TRACTS MODE, V66
+   JAYNES ET, 1963, P IEEE, V51, P89, DOI 10.1109/PROC.1963.1664
+   KEITEL CH, 1995, OPT COMMUN, V118, P143, DOI 10.1016/0030-4018(95)00161-Z
+   LEGGETT AJ, 1987, REV MOD PHYS, V59, P1, DOI 10.1103/RevModPhys.59.1
+   LINDBLAD G, 1975, COMMUN MATH PHYS, V40, P147, DOI 10.1007/BF01609396
+   Louisell W H., 1973, QUANTUM STATISTICAL
+   Munro WJ, 1996, PHYS REV A, V53, P2633, DOI 10.1103/PhysRevA.53.2633
+   MURAO M, 1995, PHYSICA A, V217, P348, DOI 10.1016/0378-4371(95)00105-G
+   MURAO M, 1995, PHYSICA A, V216, P255, DOI 10.1016/0378-4371(95)00010-5
+   MURAO M, 1995, J PHYS SOC JPN, V64, P2394, DOI 10.1143/JPSJ.64.2394
+   SHORE BW, 1993, J MOD OPTIC, V40, P1195, DOI 10.1080/09500349314551321
+   SLICHTER CP, 1963, PRINCIPLES MAGNETIC
+   SOLOMON I, 1956, J CHEM PHYS, V25, P261, DOI 10.1063/1.1742867
+   SOLOMON I, 1955, PHYS REV, V99, P559, DOI 10.1103/PhysRev.99.559
+   TAMESHTIT A, 1994, PHYS REV A, V49, P89, DOI 10.1103/PhysRevA.49.89
+   ZUREK WH, 1991, PHYS TODAY, V44, P36, DOI 10.1063/1.881293
+NR 24
+TC 4
+Z9 4
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD AUG
+PY 1997
+VL 66
+IS 8
+BP 2314
+EP 2323
+DI 10.1143/JPSJ.66.2314
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA XU218
+UT WOS:A1997XU21800024
+ER
+
+PT J
+AU Tanahashi, M
+   Ito, M
+   Murao, M
+   Iga, A
+AF Tanahashi, M
+   Ito, M
+   Murao, M
+   Iga, A
+TI Effect of Al-doping on the grain growth of ZnO
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+DE ZnO ceramics; ZnO varistor; abnormal grain growth; Al2O3 doping; Bi2O3
+   doping; retarded grain growth; grain growth
+ID ZNO-BI2O3 CERAMICS; MICROSTRUCTURE; VARISTORS
+AB Grain growth of ZnO in liquid phase sintering of ZnO-0.5 mol%Bi2O3 ceramics has been studied by increasing the doping amount of Al2O3 from 25 ppm to 200 ppm. Al2O3 was doped using an aluminum nitrate aqueous solution. When 50 ppm of Al2O3 was doped to ZnO ceramics, abnormal grain growth was observed, while 75 ppm Al2O3 retarded grain growth. Doping of Al2O3 to pure ZnO ceramics did not cause abnormal grain growth, but simply retarded grain growth. The ratio of diameters of these grain sizes sintered at 900 degrees C: d (abnormal grain growth)/d(retarded grain growth) is 20-100. Mechanisms of abnormal grain growth and retardation are proposed as follows. When the doped amount of Al2O3 was 50 ppm, aluminum compound thin films which were formed around ZnO grains at a low temperature and retarded grain growth disappeared suddenly by diffusion into the ZnO gain and ZnO grains grew suddenly. When the doped amount of Al2O3 was 75 ppm and the aluminum compound film was thick enough, part of the film remained unchanged even when a considerable proportion of the aluminum diffused mainly into the ZnO to reach solubility, retarding grain growth.
+C1 MATSUSHITA TECHNO RES CO LTD, KADOMA, OSAKA 691, JAPAN.
+   ZINCTOPIA LAB, TAKATSUKI, OSAKA 56911, JAPAN.
+RP Tanahashi, M (reprint author), MATSUSHITA ELECT IND CO LTD, DEVICE ENGN DEV CTR, KADOMA, OSAKA 691, JAPAN.
+CR BLATTER G, 1986, PHYS REV B, V34, P8555, DOI 10.1103/PhysRevB.34.8555
+   BOWEN LJ, 1983, J APPL PHYS, V54, P2764, DOI 10.1063/1.332305
+   IGA A, 1976, JPN J APPL PHYS, V15, P1161, DOI 10.1143/JJAP.15.1161
+   MAHAN GD, 1979, J APPL PHYS, V50, P2799, DOI 10.1063/1.326191
+   MATSUOKA M, 1971, JPN J APPL PHYS, V10, P736, DOI 10.1143/JJAP.10.736
+   NUNES SI, 1995, J AM CERAM SOC, V78, P2469, DOI 10.1111/j.1151-2916.1995.tb08687.x
+   OKINAKA H, 1995, AM CERAM SOC BULL, V74, P62
+   SUNG GY, 1989, CERAMIC T, V3, P101
+   WONG J, 1974, AM CERAM SOC BULL, V53, P816
+NR 9
+TC 4
+Z9 4
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD MAY 1
+PY 1997
+VL 36
+IS 5A
+BP L573
+EP L576
+DI 10.1143/JJAP.36.L573
+PG 4
+WC Physics, Applied
+SC Physics
+GA WY806
+UT WOS:A1997WY80600015
+ER
+
+PT J
+AU Murao, M
+   Shibata, F
+AF Murao, M
+   Shibata, F
+TI Quantum dynamics of a strongly coupled dissipative system toward thermal
+   equilibrium .2.
+SO PHYSICA A
+LA English
+DT Article
+DE Jaynes-Cummings model; dissipative system; phase relaxation; energy
+   relaxation; decoherence
+ID JAYNES-CUMMINGS MODEL
+AB The quantum dynamics of the Jaynes-Cummings model toward thermal equilibrium is studied in detail from the viewpoint of phase and energy reIaxation, continuing the previous work of the authors, Physica A 217 (1995) 348. The dynamics of the spin subsystem and the Hushimi functions of the boson subsystem are clarified by calculating the reduced density matrix including the off-diagonal part with respect to the boson quantum number. The decoherence of the coupled system is investigated using the purity. The Hushimi function and purity are divided into two parts from the diagonal and off-diagonal elements. The effects of phase and energy relaxation are analysed quantitatively.
+C1 OCHANOMIZU UNIV,DOCTORAL RES COURSE HUMAN CULTURE,BUNKYO KU,TOKYO 112,JAPAN.
+   OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 112,JAPAN.
+RP Murao, M (reprint author), UNIV LONDON IMPERIAL COLL SCI TECHNOL & MED,BLACKETT LAB,PRINCE CONSORT RD,LONDON SW7 2BZ,ENGLAND.
+CR Cohen-Tannoudji C., 1992, ATOM PHOTON INTERACT
+   JAYNES ET, 1963, P IEEE, V51, P89, DOI 10.1109/PROC.1963.1664
+   KUBO R, 1985, STATISTICAL PHYSICS, V2, P89
+   Louisell W H., 1973, QUANTUM STATISTICAL
+   Meekhof DM, 1996, PHYS REV LETT, V76, P1796, DOI 10.1103/PhysRevLett.76.1796
+   MURAO M, 1995, PHYSICA A, V217, P348, DOI 10.1016/0378-4371(95)00105-G
+   MURAO M, 1995, PHYSICA A, V216, P255, DOI 10.1016/0378-4371(95)00010-5
+   MURAO M, 1995, J PHYS SOC JPN, V64, P2394, DOI 10.1143/JPSJ.64.2394
+   SHORE BW, 1993, J MOD OPTIC, V40, P1195, DOI 10.1080/09500349314551321
+NR 9
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD APR 15
+PY 1997
+VL 238
+IS 1-4
+BP 265
+EP 278
+DI 10.1016/S0378-4371(96)00460-8
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA WV809
+UT WOS:A1997WV80900019
+ER
+
+PT J
+AU MURAO, M
+   SHIBATA, F
+AF MURAO, M
+   SHIBATA, F
+TI QUANTUM DYNAMICS OF A STRONGLY COUPLED DISSIPATIVE SYSTEM TOWARD
+   THERMAL-EQUILIBRIUM .1.
+SO PHYSICA A
+LA English
+DT Article
+ID JAYNES-CUMMINGS MODEL
+AB The quantum dynamics of a strongly coupled dissipative system toward thermal equilibrium is investigated by means of the the Jaynes-Cummings model with relaxation mechanisms. Our relaxation model ensures that the coupled system evolves in time to the correct canonical distribution in thermal equilibrium The quantal master equation is expanded in terms of the eigenstates of the whole coupled system. The time evolution of the elements of the reduced density matrix is described by the vector tri-diagonal differential equation. The relaxation process reveals itself through the dynamics of these elements resulting in the canonical distribution. Quantum characteristics are found both in the short time regime and the long time regime. The short time regime is characterized by the decoherence process, which represents the phase relaxation, whereas the long time relaxation process is dominated by the diagonal process of the energy relaxation.
+C1 OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 112,JAPAN.
+RP MURAO, M (reprint author), OCHANOMIZU UNIV,DOCTORAL RES COURSE HUMAN CULTURE,BUNKYO KU,TOKYO 112,JAPAN.
+CR SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   BERMAN PR, 1994, ADV ATOMIC MOL OPT S, V2
+   BRECHA RJ, 1992, PHYS REV A, V46, P567, DOI 10.1103/PhysRevA.46.567
+   Cohen-Tannoudji C., 1992, ATOMPHOTON INTERACTI
+   COHENTANNOUDJI C, 1977, FRONTIERS LASER SPEC, V1
+   CRESSER JD, 1992, J MOD OPTIC, V39, P2187, DOI 10.1080/09500349214552211
+   HAAKE F, 1973, SPRINGER TRACTS MODE, V66, P98
+   JAYNES ET, 1963, P IEEE, V51, P89, DOI 10.1109/PROC.1963.1664
+   KUBO R, 1985, STATISTICAL PHYSICS, V2, P89
+   Louisell W H., 1973, QUANTUM STATISTICAL
+   MURAO M, 1995, PHYSICA A, V216, P255, DOI 10.1016/0378-4371(95)00010-5
+   REYNAUD S, 1982, J PHYS-PARIS, V43, P1021, DOI 10.1051/jphys:019820043070102100
+   Risken H., 1984, FOKKERPLANCK EQUATIO
+   SHORE BW, 1993, J MOD OPTIC, V40, P1195, DOI 10.1080/09500349314551321
+NR 14
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD AUG 1
+PY 1995
+VL 217
+IS 3-4
+BP 348
+EP 372
+DI 10.1016/0378-4371(95)00105-G
+PG 25
+WC Physics, Multidisciplinary
+SC Physics
+GA RM605
+UT WOS:A1995RM60500007
+ER
+
+PT J
+AU MURAO, M
+   SHIBATA, F
+AF MURAO, M
+   SHIBATA, F
+TI DYNAMICS OF A DISSIPATIVE JAYNES-CUMMINGS MODEL
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE SOLVABLE MODEL; STRONGLY COUPLED SYSTEM; JAYNES-CUMMINGS MODEL;
+   RELAXATION; DISSIPATIVE SYSTEM
+AB A new type of the dissipative Jaynes-Cummings model is presented. Interaction between a composite relevant system and a reservoir is introduced to modulate the coupling constant in the relevant system. A quantal master equation is obtained with use of the time convolutionless (TCL) projection operator formalism and is expanded in terms of eigenstates of the composite relevant system, The resulting basic equations become solvable and can be used irrespective of the interaction strength between the relevant subsystems. Moreover, these equations give the correct equilibrium values in each subspace. Several explicit numerical calculations are done.
+C1 OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,TOKYO 112,JAPAN.
+RP MURAO, M (reprint author), OCHANOMIZU UNIV,DOCTORAL RES COURSE HUMAN CULTURE,BUNKYO KU,TOKYO 112,JAPAN.
+CR ARIMITSU T, 1980, PHYSICA A, V100, P507, DOI 10.1016/0378-4371(80)90165-X
+   SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   BRECHA RJ, 1992, PHYS REV A, V46, P567, DOI 10.1103/PhysRevA.46.567
+   HAAKE F, 1973, SPRINGER TRACTS MODE, V66, P98
+   JAYNES ET, 1963, P IEEE, V51, P89, DOI 10.1109/PROC.1963.1664
+   KUBO R, 1985, STATISTICAL PHYSICS, V2, P89
+   Louisell W H., 1973, QUANTUM STATISTICAL
+   MURAO M, IN PRESS PHYSICA A
+NR 8
+TC 7
+Z9 7
+PU PHYSICAL SOCIETY JAPAN KIKAI-SHINKO BUILDING
+PI TOKYO
+PA 3-5-8 SHIBA-KOEN MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JUL
+PY 1995
+VL 64
+IS 7
+BP 2394
+EP 2404
+DI 10.1143/JPSJ.64.2394
+PG 11
+WC Physics, Multidisciplinary
+SC Physics
+GA RL629
+UT WOS:A1995RL62900031
+ER
+
+PT J
+AU MURAO, M
+   SHIBATA, F
+AF MURAO, M
+   SHIBATA, F
+TI RELAXATION THEORY OF A STRONGLY COUPLED SYSTEM
+SO PHYSICA A
+LA English
+DT Article
+AB A model of relaxation is presented for the Jaynes-Cummings model.  Interaction between the relevant system and the reservoir is introduced to exchange mutual energies.  After elimination of reservoir variables a quantal master equation is derived.  This is expanded in terms of eigenstates of the total Hamiltonian of the relevant system.  A set of basic equations are obtained in a vector tri-diagonal form which determines time evolution of components of the density matrix.  The resulting basic equations become solvable and can be used even for strong interaction in the relevant subsystems.  Moreover, these equations evolve in time to the correct equilibrium values.
+C1 OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 112,JAPAN.
+   OCHANOMIZU UNIV,DOCTORAL RES COURSE HUMAN CULTURE,BUNKYO KU,TOKYO 112,JAPAN.
+CR SHIBATA F, 1980, J PHYS SOC JPN, V49, P891, DOI 10.1143/JPSJ.49.891
+   BRECHA RJ, 1992, PHYS REV A, V46, P567, DOI 10.1103/PhysRevA.46.567
+   DAEUBLER B, 1993, PHYS REV A, V48, P3955, DOI 10.1103/PhysRevA.48.3955
+   JAYNES ET, 1963, P IEEE, V51, P89, DOI 10.1109/PROC.1963.1664
+   Louisell W H., 1973, QUANTUM STATISTICAL
+   Risken H., 1984, FOKKERPLANCK EQUATIO
+NR 6
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD JUN 15
+PY 1995
+VL 216
+IS 3
+BP 255
+EP 270
+DI 10.1016/0378-4371(95)00010-5
+PG 16
+WC Physics, Multidisciplinary
+SC Physics
+GA RE902
+UT WOS:A1995RE90200006
+ER
+
+PT J
+AU MURAO, M
+   UCHIYAMA, C
+   SHIBATA, F
+AF MURAO, M
+   UCHIYAMA, C
+   SHIBATA, F
+TI QUANTUM DYNAMICS OF LANDAU-ZENER MODEL WITH FLUCTUATION AND DISSIPATION
+   MECHANISMS
+SO PHYSICA A
+LA English
+DT Article
+ID NONADIABATIC TRANSITIONS; ENERGY FLUCTUATION
+AB A model of quantum dynamics of nonadiabatic transition in energy crossing two-level systems (Landau-Zener model) with fluctuation and dissipation mechanisms is formulated on the basis of the damping theory. The model is composed of a two-level system interacting with a single-mode boson system which is surrounded by a reservoir. The basic equation which describes time-evolution of the relevant system is transformed into bi-tridiagonally coupled differential equations which are solved numerically. Characteristics of our formulation are the following. It is possible to study the quantum dynamics at any temperature and to treat a situation when the fluctuation field is strong. This is because our theory is extended beyond the applicability of the usual perturbation theory. Moreover, our theory can treat both the diagonal and the off-diagonal fluctuations simultaneously.
+C1 RIKEN,INST PHYS & CHEM RES,WAKO,SAITAMA 35101,JAPAN.
+   OCHANOMIZU UNIV,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 112,JAPAN.
+RP MURAO, M (reprint author), OCHANOMIZU UNIV,DOCTORAL RES COURSE HUMAN CULTURE,BUNKYO KU,TOKYO 112,JAPAN.
+CR AGARWAL GS, 1970, PHYS REV D, V2, P2161, DOI 10.1103/PhysRevD.2.2161
+   DAEUBLER B, 1991, THESIS U ULM
+   DAEUBLER B, 1992, PHYS REV A, V46, P1654, DOI 10.1103/PhysRevA.46.1654
+   GLAUBER RJ, 1963, PHYS REV, V131, P2766, DOI 10.1103/PhysRev.131.2766
+   HAAKE F, 1973, QUANTUM STATISTICS O
+   KAYANUMA Y, 1984, J PHYS SOC JPN, V53, P118, DOI 10.1143/JPSJ.53.118
+   KAYANUMA Y, 1984, J PHYS SOC JPN, V54, P2037
+   KAYANUMA Y, 1984, J PHYS SOC JPN, V53, P108, DOI 10.1143/JPSJ.53.108
+   KLAUDER JR, 1960, ANN PHYS-NEW YORK, V11, P123, DOI 10.1016/0003-4916(60)90131-7
+   Kubo R., 1985, STATISTICAL PHYSICS
+   Landau L. D., 1977, QUANTUM MECHANICS
+   Louisell W H., 1973, QUANTUM STATISTICAL
+   Risken H., 1984, FOKKERPLANCK EQUATIO
+   RISKEN H, 1990, PHYS REV A, V42, P4562, DOI 10.1103/PhysRevA.42.4562
+   SUDARSHAN ECG, 1963, PHYS REV LETT, V10, P277, DOI 10.1103/PhysRevLett.10.277
+   Zener C, 1932, P R SOC LOND A-CONTA, V137, P696, DOI 10.1098/rspa.1932.0165
+NR 16
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD SEP 1
+PY 1994
+VL 209
+IS 3-4
+BP 444
+EP 456
+DI 10.1016/0378-4371(94)90196-1
+PG 13
+WC Physics, Multidisciplinary
+SC Physics
+GA PF970
+UT WOS:A1994PF97000014
+ER
+
+PT J
+AU KAWASHIMA, N
+   IKEBOU, Y
+   HOSONO, T
+   NISHINAKA, N
+   OZAKI, M
+   MURAO, M
+   FUJIMOTO, S
+   SAKATA, S
+AF KAWASHIMA, N
+   IKEBOU, Y
+   HOSONO, T
+   NISHINAKA, N
+   OZAKI, M
+   MURAO, M
+   FUJIMOTO, S
+   SAKATA, S
+TI HOME AIR-CONDITIONER WITH HUMAN DETECTOR
+SO SHARP TECHNICAL JOURNAL
+LA Japanese
+DT Article
+NR 0
+TC 0
+Z9 0
+PU SHARP CORP
+PI NARA
+PA ENGINEERING CENTER 2613-1 ICHINOMOTO-CHO TENRISHI, NARA 632, JAPAN
+SN 0285-0362
+J9 SHARP TECH J
+JI Sharp Tech. J.
+PY 1988
+IS 40
+BP 143
+EP 145
+PG 3
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Instruments & Instrumentation
+SC Computer Science; Engineering; Instruments & Instrumentation
+GA Q6644
+UT WOS:A1988Q664400031
+ER
+
+PT J
+AU KOBAYASHI, S
+   YAMAGUCHI, S
+   KATSUBE, T
+   OKADA, K
+   KITANI, M
+   MURAO, M
+   TSUNEMATSU, T
+AF KOBAYASHI, S
+   YAMAGUCHI, S
+   KATSUBE, T
+   OKADA, K
+   KITANI, M
+   MURAO, M
+   TSUNEMATSU, T
+TI EFFECTS OF NAFTIDROFURYL ON THE TIME COURSE OF THE REGIONAL CEREBRAL
+   BLOOD-FLOW IN ACUTE ISCHEMIC STROKE
+SO ARZNEIMITTEL-FORSCHUNG/DRUG RESEARCH
+LA English
+DT Article
+C1 INST SHIMANE HLTH SCI,IZUMO,JAPAN.
+RP KOBAYASHI, S (reprint author), SHIMANE MED UNIV,DEPT INTERNAL MED,IZUMO,SHIMANE 693,JAPAN.
+CR Admani A K, 1978, Br Med J, V2, P1678
+   ASTRUP J, 1981, STROKE, V12, P723
+   BARON JC, 1983, J CEREBR BLOOD FL S1, V3, P12
+   BRANCONNIER RJ, 1977, J AM GERIATR SOC, V25, P186
+   COX JR, 1975, GERONTOL CLIN, V17, P160
+   GERIN J, 1974, BRIT J CLIN PRACT, V28, P117
+   JOHNSON RH, 1975, ACTA NEUROL SCAND, V52, P231
+   LASSEN NA, 1966, LANCET, V2, P1113
+   LEVY LL, 1977, STROKE, V8, P189
+   MEYNAUD A, 1973, ARZNEIMITTEL-FORSCH, V23, P1431
+   OBRIST WD, 1975, STROKE, V6, P245
+   SHAW T, 1978, CEREBROVASC DIS, V2, P198
+   Yamaoka S, 1972, Stroke, V3, P57
+NR 13
+TC 15
+Z9 15
+PU ECV-EDITIO CANTOR VERLAG MEDIZIN NATURWISSENSCHAFTEN
+PI AULENDORF
+PA BANDELSTOCKWEG 20, POSTFACH 1255, D-88322 AULENDORF, GERMANY
+SN 0004-4172
+J9 ARZNEIMITTEL-FORSCH
+JI Arzneimittelforschung
+PY 1984
+VL 34-2
+IS 11
+BP 1580
+EP 1583
+PG 4
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA TU421
+UT WOS:A1984TU42100024
+ER
+
+PT J
+AU KOYAMA, T
+   HORIMOTO, M
+   MISHINA, H
+   ASAKURA, T
+   HORIMOTO, M
+   MURAO, M
+AF KOYAMA, T
+   HORIMOTO, M
+   MISHINA, H
+   ASAKURA, T
+   HORIMOTO, M
+   MURAO, M
+TI LASER DOPPLER MICROSCOPE IN AN OBLIQUE-BACKWARD MODE AND PULSATILE
+   BLOOD-FLOW VELOCITY IN PULMONARY ARTERIOLE
+SO EXPERIENTIA
+LA English
+DT Article
+RP KOYAMA, T (reprint author), HOKKAIDO UNIV,APPL ELECT RES INST,SAPPORO,HOKKAIDO 060,JAPAN.
+CR FEKE GT, 1978, J OPT SOC AM, V68, P526, DOI 10.1364/JOSA.68.000526
+   KOYAMA T, 1975, EXPERIENTIA, V31, P1420, DOI 10.1007/BF01923222
+   KOYAMA T, 1978, EXPERIENTIA, V34, P857, DOI 10.1007/BF01939665
+   LEE GDJ, 1955, J CLIN INVEST, V34, P1380, DOI 10.1172/JCI103187
+   MISHINA H, 1975, APPL OPTICS, V14, P2326, DOI 10.1364/AO.14.002326
+   MISHINA H, 1974, OPT COMMUN, V11, P99, DOI 10.1016/0030-4018(74)90344-7
+   MISHINA H, 1978, J SOC INSTR CONTR EN, V14, P324
+   RIVA C, 1972, INVEST OPHTHAL, V11, P937
+   ROEDER T, 1932, Z GES EXP MED, V80, P540
+NR 9
+TC 7
+Z9 7
+PU BIRKHAUSER VERLAG AG
+PI BASEL
+PA PO BOX 133 KLOSTERBERG 23, CH-4010 BASEL, SWITZERLAND
+SN 0014-4754
+J9 EXPERIENTIA
+JI Experientia
+PY 1979
+VL 35
+IS 1
+BP 65
+EP 67
+DI 10.1007/BF01917880
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GF640
+UT WOS:A1979GF64000041
+ER
+
+EF

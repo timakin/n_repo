@@ -1,0 +1,2670 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Aya, Y
+   Shinohara, W
+   Matsumoto, M
+   Murata, K
+   Kunii, T
+   Nakagawa, M
+   Terakawa, A
+   Tanaka, M
+AF Aya, Y.
+   Shinohara, W.
+   Matsumoto, M.
+   Murata, K.
+   Kunii, T.
+   Nakagawa, M.
+   Terakawa, A.
+   Tanaka, M.
+TI Progress of Thin-Film Silicon Photovoltaic Technologies in SANYO
+SO PROGRESS IN PHOTOVOLTAICS
+LA English
+DT Article
+DE solar cell; thin-film; amorphous silicon; microcrystalline silicon; CVD;
+   reliability test
+ID HIGH-DEPOSITION-RATE; SOLAR-CELLS; EFFICIENCY
+AB Methods to achieve a good balance among a high conversion efficiency, a large panel size and a high deposition rate of mu c-Si:H for mass production are shown here. For this purpose, an original technology called the Localized Plasma Confinement CVD (LPC-CVD) method is investigated. Using know-how from this method, an amorphous silicon/microcrystalline silicon (mu c-Si:H) solar panel, whose size is Gen. 5.5 (1100?mm?x?1400?mm) and whose mu c-Si:H deposition rate is 2.4?nm/s, with a conversion efficiency of 11.1% (Voc?=?161.7?V, Isc?=?1.46?A, FF?=?72.4%, Pmax?=?171?W) is obtained. It is also experimentally confirmed that the value is equivalent to 10.0% of stabilized efficiency. Various reliability tests that conform to IEC standards have been performed for solar modules. It has been shown that the solar modules adapt to the major categories of IEC standards. Copyright (c) 2011 John Wiley & Sons, Ltd.
+C1 Sanyo Elect Co Ltd, Adv Photovolta Dev Ctr, Anpachi, Gifu 5030195, Japan.
+RP Shinohara, W (reprint author), Sanyo Elect Co Ltd, Adv Photovolta Dev Ctr, 180 Ohmori, Anpachi, Gifu 5030195, Japan.
+EM youichirou.aya@sanyo.com
+FU NEDO under METI
+FX This work was supported in part by NEDO as a part of the New Sunshine
+   Program under METI.
+CR Aya Y, 2007, 17 INT PHOT SCI ENG, p4O
+   Aya Y., 2009, P 24 EUR SOL EN C HA, P2394
+   Guo LH, 1998, JPN J APPL PHYS 2, V37, pL1116, DOI 10.1143/JJAP.37.L1116
+   Hishida M, 2009, P 19 INT PHOT SPEC J
+   HISHIKAWA Y, 1993, MATER RES SOC SYMP P, V297, P779, DOI 10.1557/PROC-297-779
+   Hishikawa Y, 1994, P 1 WORLD C PHOT EN, P386
+   IGARI S, 1994, SOL ENERG MAT SOL C, V34, P473, DOI 10.1016/0927-0248(94)90075-2
+   Kameda M, 1996, P 25 IEEE PHOT SPEC, P1049
+   Katayama H, 2010, P REN EN YOK JAP, pOP
+   Kunii T, 2008, P 33 IEEE PHOT SCI E, P259
+   Kuwano Y, 1981, P 15 IEEE PVSEC 1981, P698
+   Maruyama E, 2002, SOL ENERG MAT SOL C, V74, P339, DOI 10.1016/S0927-0248(02)00093-4
+   Matsui T, 2002, JPN J APPL PHYS 1, V41, P20, DOI 10.1143/JJAP.41.201
+   Matsumoto M., 2006, P WCPEC 4, P1580
+   Nakano Y, 2006, THIN SOLID FILMS, V506, P33, DOI 10.1016/j.tsf.2005.08.026
+   Okamoto S, 2001, MATER RES SOC S P, V664, pA111
+   Sekimoto T, 2010, P 35 IEEE PHOT SCI E
+   Shinohara W, 2010, P 25 EUR SOL EN C VA, p3BO_12_3
+   Sobajima Y., 2002, SOLAR ENERGY MAT SOL, V93, P980
+   Sobajima Y, 2009, SOL ENERG MAT SOL C, V93, P980, DOI 10.1016/j.solmat.2008.11.042
+   TERAKAWA A, 1995, JPN J APPL PHYS 1, V34, P1741, DOI 10.1143/JJAP.34.1741
+NR 21
+TC 1
+Z9 1
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1062-7995
+J9 PROG PHOTOVOLTAICS
+JI Prog. Photovoltaics
+PD MAR
+PY 2012
+VL 20
+IS 2
+BP 166
+EP 172
+DI 10.1002/pip.1111
+PG 7
+WC Energy & Fuels; Materials Science, Multidisciplinary; Physics, Applied
+SC Energy & Fuels; Materials Science; Physics
+GA 897ZE
+UT WOS:000300701600005
+ER
+
+PT J
+AU Iida, T
+   Takamido, Y
+   Kunii, T
+   Ogawa, S
+   Mizuno, K
+   Narita, T
+   Yoshida, N
+   Itoh, T
+   Nonomura, S
+AF Iida, Tamio
+   Takamido, Yasuhiko
+   Kunii, Takao
+   Ogawa, Shunsuke
+   Mizuno, Kouichi
+   Narita, Tornoki
+   Yoshida, Norimitsu
+   Itoh, Takashi
+   Nonomura, Shuichi
+TI TiO2 thin films using organic liquid materials prepared by Hot-Wire CVD
+   method
+SO THIN SOLID FILMS
+LA English
+DT Article; Proceedings Paper
+CT 4th International Conference on Hot-Wire CVD (Cat-CVD) Process
+CY OCT 04-08, 2006
+CL Takayama, JAPAN
+DE catalytic chemical vapor deposition; titanium oxide; optical properties;
+   conductivity; X-ray diffraction; scanning electron microscopy; X-ray
+   photoelectron spectroscopy
+ID TRANSPARENT CONDUCTING OXIDE; SOLAR-CELLS; TEMPERATURE
+AB TiO2 thin films prepared by Hot-Wire CVD method have been studied as a protecting material of transparent conducting oxide (TCO) against atomic hydrogen exposures for the fabrications of Si thin film solar cells. It was found that electrical conductivity of the films at room temperature reached a value of 0.4 S/cm. This value is 2-3 orders of magnitude higher than that of TiO2 films prepared by RF magnetron sputtering and electron-beam evaporation methods in our previous works. The conductivity improvement seems to be partly due to the enlargement of TiO2 crystallites. (c) 2007 Elsevier B.V. All rights reserved.
+C1 Gifu Univ, Gifu 5011193, Japan.
+   Gifu Univ, Dept Elect & Elect Engn, Gifu 5011193, Japan.
+RP Iida, T (reprint author), Gifu Univ, 1-1 Yamagido, Gifu 5011193, Japan.
+EM nonomura@gifu-u.ac.jp
+CR HATTORI Y, 1987, INT PVSEC 3, P171
+   Hitosugi T, 2005, JPN J APPL PHYS 2, V44, pL1063, DOI 10.1143/JJAP.44.L1063
+   Miyajima S, 2004, JPN J APPL PHYS 2, V43, pL1190, DOI 10.1143/JJAP.43.L1190
+   Nakayama H, 2006, THIN SOLID FILMS, V501, P190, DOI 10.1016/j.tsf.2005.07.239
+   Natsuhara H, 2003, THIN SOLID FILMS, V430, P253, DOI 10.1016/S0040-6090(03)00118-4
+   Natsuhara H, 2006, SOL ENERG MAT SOL C, V90, P2867, DOI 10.1016/j.solmat.2006.05.001
+   YAMAMOTO K, 2005, INT PVSEC 15, P529
+NR 7
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0040-6090
+J9 THIN SOLID FILMS
+JI Thin Solid Films
+PD JAN 15
+PY 2008
+VL 516
+IS 5
+BP 807
+EP 809
+DI 10.1016/j.tsf.2007.06.204
+PG 3
+WC Materials Science, Multidisciplinary; Materials Science, Coatings &
+   Films; Physics, Applied; Physics, Condensed Matter
+SC Materials Science; Physics
+GA 250FR
+UT WOS:000252285900079
+ER
+
+PT J
+AU Takeuchi, H
+   Yamamoto, Y
+   Kamo, Y
+   Kunii, T
+   Oku, T
+   Shirahama, T
+   Tanaka, H
+   Nakayama, M
+AF Takeuchi, Hideo
+   Yamamoto, Yoshitsugu
+   Kamo, Yoshitaka
+   Kunii, Tetsuo
+   Oku, Tomoki
+   Shirahama, Takeo
+   Tanaka, Hiroyasu
+   Nakayama, Masaaki
+TI Photoluminescence-excitation spectroscopy as a highly sensitive probe
+   for carrier transport processes affected by surface damages in
+   AlxGa1-xN/GaN heterostructures
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID ANOMALOUS-SCATTERING FACTORS; FRANZ-KELDYSH OSCILLATIONS; X-RAY;
+   SEMICONDUCTOR SURFACES; GAN; RECOMBINATION; TRANSITIONS; PARAMETERS;
+   INTERFACES; NITRIDES
+AB We demonstrate that photoluminescence-excitation (PLE) spectroscopy can probe with high sensitivity the effects of plasma-induced surface damages on photogenerated-carrier-transport processes in AlxGa1-xN/GaN heterostructures, on the basis of systematic optical and structural characterization results for the as-grown reference sample and the plasma-exposed sample. It is found from the structural characterizations with atomic force microscopy that the plasma exposure remarkably modifies the atomic step boundaries and the pits on the AlxGa1-xN surface, which leads to a remarkable difference between the PLE spectra of the bound exciton photoluminescence from the underlying GaN layer in the two samples. The PLE spectrum of the reference sample shows a step rising from the AlxGa1-xN fundamental transition energy toward the high energy side, whereas the rising step disappears in the PLE spectrum of the plasma-exposed sample. In contrast, the reflectance characteristics are the same in the two samples; i.e., the excitonic transition itself is not influenced by the plasma exposure. The present findings indicate that the PLE spectral profile is sensitive to the change in efficiency of the photogenerated carrier injection from the AlxGa1-xN layer to the GaN layer. Thus, it is concluded that the PLE characterization is effective to probe the photogenerated-carrier transport in heterostructures.
+C1 Mitsubishi Electr Corp, R&D Dept, Itami, Hyogo 6648641, Japan.
+   Mitsubishi Electr Corp, Wafer Mfg Dept, Itami, Hyogo 6648641, Japan.
+   Osaka City Univ, Grad Sch Engn, Dept Appl Phys, Sumiyoshi Ku, Osaka 5588585, Japan.
+RP Takeuchi, H (reprint author), Mitsubishi Electr Corp, R&D Dept, 4-1 Mizuhara, Itami, Hyogo 6648641, Japan.
+EM Takeuchi.Hideo@db.MitsubishiElectric.co.jp
+CR Ambacher O, 1999, J APPL PHYS, V85, P3222, DOI 10.1063/1.369664
+   Anantathanasarn S, 2001, J VAC SCI TECHNOL B, V19, P1589, DOI 10.1116/1.1388605
+   ASPNES DE, 1983, SURF SCI, V132, P406, DOI 10.1016/0039-6028(83)90550-2
+   BASU PK, 1997, THEORY OPTICAL PROCE, P126
+   Chen Y, 1998, APPL PHYS LETT, V72, P710, DOI 10.1063/1.120853
+   CHIN VWL, 1994, J APPL PHYS, V75, P7365, DOI 10.1063/1.356650
+   CINGOLANI A, 1986, SOLID STATE COMMUN, V58, P823, DOI 10.1016/0038-1098(86)90778-7
+   CROMER DT, 1970, J CHEM PHYS, V53, P1891, DOI 10.1063/1.1674266
+   DEBOER DKG, 1995, X-RAY SPECTROM, V24, P91, DOI 10.1002/xrs.1300240304
+   DUBOZ JY, 1998, GROUP 3 NITRIDE SEMI, pCH9
+   Gil B, 1996, PHYS REV B, V54, P7678, DOI 10.1103/PhysRevB.54.7678
+   Davydov VY, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.125203
+   KARMALKAR S, 2003, WIDE ENERGY BANDGAP, pCH3
+   KIKKAWA T, 2001, 2001 IEDM, P585
+   KISSEL L, 1990, ACTA CRYSTALLOGR A, V46, P170, DOI 10.1107/S0108767389010718
+   KLINGSHIRN CF, 1997, SEMICONDUCTOR OPTICS, P24
+   Mitrofanov O, 2003, APPL PHYS LETT, V82, P4361, DOI 10.1063/1.1582373
+   MONEMAR B, 1974, PHYS REV B, V10, P676, DOI 10.1103/PhysRevB.10.676
+   MUTH JF, 1999, J NITRIDE SEMICOND R
+   PARRATT LG, 1954, PHYS REV, V95, P359, DOI 10.1103/PhysRev.95.359
+   SAITOH T, 1992, APPL SURF SCI, V56-8, P94, DOI 10.1016/0169-4332(92)90221-I
+   SAKURAI K, 1992, JPN J APPL PHYS 2, V31, pL113, DOI 10.1143/JJAP.31.L113
+   Sakurai K., 1992, ADV XRAY ANAL, V35, P813
+   Shan W, 1996, PHYS REV B, V54, P13460, DOI 10.1103/PhysRevB.54.13460
+   SINHA SK, 1988, PHYS REV B, V38, P2297, DOI 10.1103/PhysRevB.38.2297
+   Sirenko YM, 1997, PHYS REV B, V55, P4360, DOI 10.1103/PhysRevB.55.4360
+   SONG JJ, 1998, GROUP 3 NITRIDE SEMI, pCH6
+   SUZUKI M, 1995, PHYS REV B, V52, P8132, DOI 10.1103/PhysRevB.52.8132
+   Takeuchi H, 2007, EUR PHYS J-APPL PHYS, V37, P119, DOI 10.1051/epjap:2007009
+   Takeuchi H, 2006, EUR PHYS J B, V52, P311, DOI 10.1140/epjb/e2006-00302-y
+   Umlauff M, 1998, PHYS REV B, V57, P1390, DOI 10.1103/PhysRevB.57.1390
+   Vurgaftman I, 2003, J APPL PHYS, V94, P3675, DOI 10.1063/1.1600519
+   Weber Z.L., 1997, PHYS REV LETT, V79, P2835
+   WIEDER HH, 1983, SURF SCI, V132, P390, DOI 10.1016/0039-6028(83)90549-6
+   Yu ET, 1999, J VAC SCI TECHNOL B, V17, P1742, DOI 10.1116/1.590818
+   Zhou YG, 2005, PHYS STATUS SOLIDI C, V2, P2663, DOI 10.1002/pssc.200461623
+NR 36
+TC 1
+Z9 1
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD AUG 15
+PY 2007
+VL 102
+IS 4
+AR 043510
+DI 10.1063/1.2769776
+PG 8
+WC Physics, Applied
+SC Physics
+GA 206AL
+UT WOS:000249156200028
+ER
+
+PT J
+AU Takeuchi, H
+   Yamamoto, Y
+   Kamo, Y
+   Kunii, T
+   Oku, T
+   Wakaiki, S
+   Nakayama, M
+AF Takeuchi, H.
+   Yamamoto, Y.
+   Kamo, Y.
+   Kunii, T.
+   Oku, T.
+   Wakaiki, S.
+   Nakayama, M.
+TI High sensitivity of Franz-Keldysh oscillations in photoreflectance
+   spectra for probing morphology in AlxGa1-xN/GaN heterostructures
+SO EUROPEAN PHYSICAL JOURNAL-APPLIED PHYSICS
+LA English
+DT Article
+ID ALGAN/GAN HETEROSTRUCTURES; SEMICONDUCTORS; SPECTROSCOPY; GAN
+AB We demonstrate that Franz-Keldysh oscillations (FKOs) observed by photoreflectance (PR) spectroscopy are highly sensitive to the surface morphology of AlxGa1-xN layers in AlxGa1-xN heterostructures. Three Al0.2Ga0.8N/GaN heterostructures with different surface-morphology profiles, which are confirmed with atomic force microscopy, have been investigated. The X-ray-diffraction patterns are hardly affected by the Al0.2Ga0.8N/GaN-layer morphology. In contrast, it is revealed that cracks and pits dominating the morphology remarkably reduce the amplitude of the FKOs from the Al0.2Ga0.8N/GaN layer, which is attributed to the following two mechanisms related to the cracks and pits. One is lifetime broadening due to carrier scattering, and the other is the suppression of the modulation magnitude for the built-in electric field, which is caused by the trapping and recombination of photogenerated carriers at the surface.
+C1 Mitsubishi Electr Corp, R&D Dept, High Frequency & Opt Device Works, Itami, Hyogo 6648641, Japan.
+   Osaka City Univ, Grad Sch Engn, Dept Appl Phys, Sumiyoshi Ku, Osaka 5588585, Japan.
+RP Takeuchi, H (reprint author), Mitsubishi Electr Corp, R&D Dept, High Frequency & Opt Device Works, 4-1 Mizuhara, Itami, Hyogo 6648641, Japan.
+EM Takeuchi.Hideo@db.MitsubishiElectric.co.jp
+CR Ambacher O, 1999, J APPL PHYS, V85, P3222, DOI 10.1063/1.369664
+   ASPNES DE, 1967, PHYS REV, V153, P153
+   ASPNES DE, 1974, PHYS REV B, V10, P4228, DOI 10.1103/PhysRevB.10.4228
+   CARDONA M, 1969, MODULATION SPECTROSC, pCH7
+   Chen Y, 1998, APPL PHYS LETT, V72, P710, DOI 10.1063/1.120853
+   ENDERLEI.R, 1967, PHYS STATUS SOLIDI, V20, P295, DOI 10.1002/pssb.19670200128
+   Gil B, 1997, PHYS REV B, V55, P2530, DOI 10.1103/PhysRevB.55.2530
+   KARMALKAR S, 2003, WIDE ENERGY BANDGAP, pCH3
+   Keller S, 1999, J APPL PHYS, V86, P5850, DOI 10.1063/1.371602
+   KIKKAWA T, 2001, 2001 IEDM, P585
+   LilientalWeber Z, 1997, PHYS REV LETT, V79, P2835, DOI 10.1103/PhysRevLett.79.2835
+   Mitrofanov O, 2003, APPL PHYS LETT, V82, P4361, DOI 10.1063/1.1582373
+   POLLAK FH, 1993, MAT SCI ENG R, V10, P275
+   Vurgaftman I, 2001, J APPL PHYS, V89, P5815, DOI 10.1063/1.1368156
+   Zhou YG, 2005, PHYS STATUS SOLIDI C, V2, P2663, DOI 10.1002/pssc.200461623
+NR 15
+TC 2
+Z9 2
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 1286-0042
+J9 EUR PHYS J-APPL PHYS
+JI Eur. Phys. J.-Appl. Phys
+PD FEB
+PY 2007
+VL 37
+IS 2
+BP 119
+EP 122
+DI 10.1051/epjap:2007009
+PG 4
+WC Physics, Applied
+SC Physics
+GA 136MY
+UT WOS:000244230000001
+ER
+
+PT J
+AU Kunii, T
+   Honda, T
+   Yoshida, N
+   Nonomura, S
+AF Kunii, Toshie
+   Honda, Takashi
+   Yoshida, Norimitsu
+   Nonomura, Shuichi
+TI Optical properties of microcrystalline 3C-SiC : H films measured by
+   resonant photothermal bending spectroscopy
+SO JOURNAL OF NON-CRYSTALLINE SOLIDS
+LA English
+DT Article; Proceedings Paper
+CT 21st International Conference on Amorphous and Nanocrystalline
+   Semiconductors
+CY SEP 04-09, 2005
+CL Lisbon, PORTUGAL
+DE silicon; optical spectroscopy; microcrystallinity; absorption
+ID TEMPERATURE
+AB Optical absorption coefficient spectra of hydrogenated microcrystalline cubic silicon carbide (mu c-3C-SiC:H) films prepared by Hot-Wire CVD method have been estimated for the first time by resonant photothermal bending spectroscopy (resonant-PBS). The optical bandgap energy and its temperature coefficient of mu c-3C-SiC:H film is found to be about 2.2 eV and 2.3 x 10(-4) eV K-1, respectively, The absorption coefficient spectra of localized states, which are related to grain boundaries, do not change by exposure of air and thermal annealing. The localized state of mu c-3C-SiC:H has different properties for impurity incorporation compared with that of hydrogenated microcrystalline silicon (mu c-Si:H) film. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Gifu Univ, Grad Sch Engn, Environm & Renewable Energy Syst Div, Gifu 5011193, Japan.
+RP Yoshida, N (reprint author), Gifu Univ, Grad Sch Engn, Environm & Renewable Energy Syst Div, Yanagido 1-1, Gifu 5011193, Japan.
+EM n-yoshi@cc.gifu-u.ac.jp
+CR AMER NM, 1984, SEMICONDUCTORS SEMIN, V21, P85
+   CHOYKE WJ, 1974, SILICON CARBIDE 1973, P544
+   Galeckas A, 2004, MATER SCI FORUM, V457-460, P657
+   Kunii T, 2003, PROCEEDINGS OF 3RD WORLD CONFERENCE ON PHOTOVOLTAIC ENERGY CONVERSION, VOLS A-C, P1683
+   Kunii T, 2003, REV SCI INSTRUM, V74, P881, DOI 10.1063/1.1517152
+   Kunii T, 2002, SOL ENERG MAT SOL C, V74, P415, DOI 10.1016/S0927-0248(02)00119-8
+   Miyajima S, 2004, JPN J APPL PHYS 2, V43, pL1190, DOI 10.1143/JJAP.43.L1190
+   Robertson J, 2002, MAT SCI ENG R, V37, P129, DOI 10.1016/S0927-796X(02)00005-0
+   ROSENCWAIG A, 1976, J APPL PHYS, V47, P64, DOI 10.1063/1.322296
+   Sze S, 1981, PHYSICS SEMICONDUCTO, P68
+   Tauc J., 1974, AMORPHOUS LIQUID SEM, P176
+   Unold T, 1998, J NON-CRYST SOLIDS, V227, P362, DOI 10.1016/S0022-3093(98)00227-0
+   VODAKOV YA, 1974, SILICON CARBIDE 1973, P510
+NR 13
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-3093
+J9 J NON-CRYST SOLIDS
+JI J. Non-Cryst. Solids
+PD JUN 15
+PY 2006
+VL 352
+IS 9-20
+BP 1196
+EP 1199
+DI 10.1016/j.jnoncrysol.2006.01.074
+PG 4
+WC Materials Science, Ceramics; Materials Science, Multidisciplinary
+SC Materials Science
+GA 060DQ
+UT WOS:000238782900081
+ER
+
+PT J
+AU Kunii, T
+   Yoshida, N
+   Hori, Y
+   Nonomura, S
+AF Kunii, T
+   Yoshida, N
+   Hori, Y
+   Nonomura, S
+TI Optical absorption spectra of hydrogenated microcrystalline silicon
+   films by resonant photothermal bending spectroscopy
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS BRIEF
+   COMMUNICATIONS & REVIEW PAPERS
+LA English
+DT Article
+DE microcrystalline silicon; resonant photothermal bending spectroscopy;
+   optical properties; localized state; grain boundary; microcrystalline
+   silicon carbide
+ID SOLAR-CELLS; TEMPERATURE; DEPOSITION
+AB A resonant photothermal bending spectroscopy (PBS) is demonstrated for the measurement of absorption coefficient spectra in hydrogenated microcrystalline silicon (pc-Si:H) and hydrogenated microcrystalline cubic silicon carbide (mu c-3C-SiC:H) films. The resonant vibration technique utilized in PBS establishes the sensitivity as alpha d similar to 5 x 10(-5) in a vacuum measurement. Appling resonant PBS to pc-Si:H films, a new extra absorption coefficient alpha(ex) spectrum is observed from 0.6 to 1.2 eV. The alpha(ex) spectrum has a peak at similar to 1.0 eV, and the localized states inducing the alpha(ex) are located similar to 0.35 eV below the conduction band edge of mu c-Si:H. A possible explanation for the observed localized state is that an oxidation produces weak bonds at the grain boundaries and/or amorphous silicon tissues. In mu c-3C-SiC:H film, an optical band-gap energy of similar to 2.2 eV was demonstrated assuming an indirect optical transition. The temperature coefficient of the optical band-gap energy was similar to 2.3 x 10(-4) eV K-1. The alpha(ex) spectrum of mu c-3C-SiC:H film is plateau-shaped and its magnitude is in accord with an increase in grain size.
+C1 Gifu Univ, Grad Sch Engn, Environm & Renewable Energy Syst Div, Gifu 5011193, Japan.
+   Aichi Inst Technol, Dept Mech Engn, Intelligent Mech Engn Course, Aichi 4700392, Japan.
+RP Kunii, T (reprint author), Gifu Univ, Grad Sch Engn, Environm & Renewable Energy Syst Div, 1-1 Yanagido, Gifu 5011193, Japan.
+CR AMER NM, 1984, SEMICONDUCTORS SEMIN, V21, P85
+   AMER NM, 1984, SEMICONDUCT SEMIMET, V21, P89
+   BOCCARA AC, 1980, APPL PHYS LETT, V36, P130, DOI 10.1063/1.91395
+   Choyke W. J., 1974, SILICON CARBIDE 1973, P261
+   CODY GD, 1984, SEMICONDUCTORS SEM B, V21, P65
+   COLTHUP NB, 1964, INTRO INFRARED RAMAN, P328
+   DEPAULA MH, 1988, J APPL PHYS, V64, P3722, DOI 10.1063/1.341416
+   FAGEN EA, 1974, SILICON CARBIDE 1973, P542
+   Galeckas A, 2004, MATER SCI FORUM, V457-460, P657
+   Gotoh T, 1996, PROG NAT SCI, V6, pS34
+   Kunii T, 2003, REV SCI INSTRUM, V74, P881, DOI 10.1063/1.1517152
+   Kunii T, 2002, SOL ENERG MAT SOL C, V74, P415, DOI 10.1016/S0927-0248(02)00119-8
+   MANDELUNG O, 2003, SEMICONDUCTORS DATA, P20
+   Meirovitch L., 1967, ANAL METHODS VIBRATI, P161
+   Miyajima S, 2004, JPN J APPL PHYS 2, V43, pL1190, DOI 10.1143/JJAP.43.L1190
+   Nasuno Y, 2002, SOL ENERG MAT SOL C, V74, P497, DOI 10.1016/S0927-0248(02)00065-X
+   Nasuno Y, 2001, APPL PHYS LETT, V78, P2330, DOI 10.1063/1.1364657
+   Poruba A, 2000, J APPL PHYS, V88, P148, DOI 10.1063/1.373635
+   ROSENCWAIG A, 1976, J APPL PHYS, V47, P64, DOI 10.1063/1.322296
+   Rosencwaig A., 1973, Optics Communications, V7, DOI 10.1016/0030-4018(73)90039-4
+   Sze S.M., 1981, PHYSICS SEMICONDUCTO, P42
+   Tauc J., 1974, AMORPHOUS LIQUID SEM, P176
+   Vanecek M, 2000, J NON-CRYST SOLIDS, V266, P519, DOI 10.1016/S0022-3093(99)00804-2
+   Yamamoto K, 2003, PROCEEDINGS OF 3RD WORLD CONFERENCE ON PHOTOVOLTAIC ENERGY CONVERSION, VOLS A-C, P2789
+   YU PY, 1996, FUNDAMENTALS SEMICON, P263
+   YU PY, 1996, FUNDAMENTALS SEMICON, P251
+   *JAP SOC THERM PRO, 1990, NETS BUSS HDB, P130
+NR 27
+TC 2
+Z9 2
+PU INST PURE APPLIED PHYSICS
+PI TOKYO
+PA 5F YUSHIMA BLDG, 2-31-22 YUSHIMA, BUNKYO-KU, TOKYO, 113-0034, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Brief Commun. Rev. Pap.
+PD MAY
+PY 2006
+VL 45
+IS 5A
+BP 3913
+EP 3921
+DI 10.1143/JJAP.45.3913
+PG 9
+WC Physics, Applied
+SC Physics
+GA 044ZZ
+UT WOS:000237713700017
+ER
+
+PT J
+AU Kunii, T
+   Mori, K
+   Kiriyama, T
+   Kitao, J
+   Yoshida, N
+   Nonomura, S
+AF Kunii, T
+   Mori, K
+   Kiriyama, T
+   Kitao, J
+   Yoshida, N
+   Nonomura, S
+TI Resonant photothermal bending spectroscopy at variable temperature
+   25-150 degrees C and its application to hydrogenated microcrystalline
+   silicon films
+SO REVIEW OF SCIENTIFIC INSTRUMENTS
+LA English
+DT Article; Proceedings Paper
+CT 12th International Conference on Photoacoustic and Photothermal
+   Phenomena (12 ICPPP)
+CY JUN 24-27, 2002
+CL TORONTO, CANADA
+HO UNIV TORONTO
+AB Resonant photothermal bending spectroscopy (RPBS) at various measurement temperatures has been developed for estimating absorption coefficient (alpha) spectra of thin film semiconductors. The experimentally obtained sensitivity of RPBS was about ten times larger than nonresonant PBS. In vacuum, this technique has been applied to estimate the alpha spectrum of hydrogenated microcrystalline silicon (muc-Si:H) films at the measurement temperatures from 25 to 150 degreesC. It is demonstrated that the temperature coefficient of an indirect optical absorption at 1.2-1.8 eV caused by Si microcrystallite is almost the same as that of single crystalline silicon, and the temperature coefficient of below-gap absorption intensity is negative. The reason for the negative temperature coefficient and the energy level of the localized state resulting in the below gap absorption are discussed. (C) 2003 American Institute of Physics.
+C1 Gifu Univ, Grad Sch Engn, Environm & Renewable Energy Syst Div, Gifu 5001193, Japan.
+RP Kunii, T (reprint author), Gifu Univ, Grad Sch Engn, Environm & Renewable Energy Syst Div, Yanagido 1-1, Gifu 5001193, Japan.
+CR AMER NM, 1984, SEMICONDUCTORS SEM B, V21, P88
+   Kunii T, 2002, SOL ENERG MAT SOL C, V74, P415, DOI 10.1016/S0927-0248(02)00119-8
+   Lucovsky G, 1965, SOLID STATE COMMUN, V3, P299, DOI 10.1016/0038-1098(65)90039-6
+   Nonomura S., 2001, ANAL SCI, V17, P302
+   SZE SM, 1981, PHYSICS SEMICONDUCTO
+NR 5
+TC 7
+Z9 7
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0034-6748
+J9 REV SCI INSTRUM
+JI Rev. Sci. Instrum.
+PD JAN
+PY 2003
+VL 74
+IS 1
+BP 881
+EP 883
+DI 10.1063/1.1517152
+PN Part 2
+PG 3
+WC Instruments & Instrumentation; Physics, Applied
+SC Instruments & Instrumentation; Physics
+GA 636JQ
+UT WOS:000180451900174
+ER
+
+PT J
+AU Kunii, T
+   Kitao, J
+   Mori, K
+   Yoshida, N
+   Nonomura, S
+AF Kunii, T
+   Kitao, J
+   Mori, K
+   Yoshida, N
+   Nonomura, S
+TI Temperature dependence of absorption coefficient spectra for mu c-Si
+   films by resonant photothermal bending spectroscopy
+SO SOLAR ENERGY MATERIALS AND SOLAR CELLS
+LA English
+DT Article
+DE photothermal spectroscopy; resonant photothermal bending spectroscopy;
+   hydrogenated microcrystalline silicon films; optical absorption;
+   localized state
+AB Resonant photothermal bending spectroscopy (R-PBS) has been developed for estimating absorption coefficient spectra of thin film semiconductors. This technique has been applied to hydrogenated microcrystalline silicon (muc-Si:H) films at different measurement temperatures. It is found that absorption coefficient of muc-Si:H films at 0.7-1.1 eV is relevant for the localized states and decreases with increasing measurement temperature. The localized state exists at similar to0.7 eV in the band gap from the band edge. The origin of the absorption is also discussed. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Gifu Univ, Environm & Renewable Energy Syst Div, Gifu 5011193, Japan.
+RP Kitao, J (reprint author), Gifu Univ, Environm & Renewable Energy Syst Div, 1-1 Yanagido, Gifu 5011193, Japan.
+CR Gotoh T, 1996, PROG NAT SCI, V6, pS34
+   Kitao J, 2001, ANAL SCI, V17, pS302
+   Lucovsky G, 1965, SOLID STATE COMMUN, V3, P299, DOI 10.1016/0038-1098(65)90039-6
+   SZE SM, 1981, PHYSICS SEMICONDUCTO
+   VARDENY Z, 1980, PHYS REV LETT, V44, P1267, DOI 10.1103/PhysRevLett.44.1267
+NR 5
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0927-0248
+J9 SOL ENERG MAT SOL C
+JI Sol. Energy Mater. Sol. Cells
+PD OCT
+PY 2002
+VL 74
+IS 1-4
+BP 415
+EP 420
+DI 10.1016/S0927-0248(02)00119-8
+PG 6
+WC Energy & Fuels; Materials Science, Multidisciplinary; Physics, Applied
+SC Energy & Fuels; Materials Science; Physics
+GA 595TY
+UT WOS:000178125900051
+ER
+
+PT J
+AU Goto, S
+   Fujii, K
+   Kunii, T
+   Suzuki, S
+   Kawata, H
+   Miyakuni, S
+   Yoshida, N
+   Sakamoto, S
+   Fujioka, T
+   Tanino, N
+   Sato, K
+AF Goto, S
+   Fujii, K
+   Kunii, T
+   Suzuki, S
+   Kawata, H
+   Miyakuni, S
+   Yoshida, N
+   Sakamoto, S
+   Fujioka, T
+   Tanino, N
+   Sato, K
+TI A 100 WS-band AlGaAs/GaAs heterostructure FET for base stations of
+   wireless personal communications
+SO IEICE TRANSACTIONS ON ELECTRONICS
+LA English
+DT Article
+DE high-power FET; HFET; base station; low distortion; microwave
+AB A 100W, low distortion AlGaAs/GaAs heterostructure FET has been developed for CDMA cellular base stations. This FET employs the longest gate finger ever reported of 800 mu m to shrink the chip size. The size of the chip and the package are miniaturized to 1.24 x 2.6 mm(2) and 17.4 x 24.0 mm(2) respectively. The developed FET exhibits 100 W (50 dBm) saturation output power, and 11.5 dB power gain at 1 dB gain compression at 2.1 GHz. The third-order intermodulation distortion and the power-added efficiency under the two-tone test condition (Delta f = 1 MHz) are -35 dBc and 24%, respectively at 42 dBm output power, that is 8 dB back off from the saturation power.
+C1 Mitsubishi Elect Corp, High Frequency & Opt Semicond Div, Itami, Hyogo 6648641, Japan.
+RP Goto, S (reprint author), Mitsubishi Elect Corp, High Frequency & Opt Semicond Div, Itami, Hyogo 6648641, Japan.
+CR EBIHARA K, 1998 IEEE MTT S, P703
+   HOLWAY LH, 1977, IEEE T ELECTRON DEV, V24, P156, DOI 10.1109/T-ED.1977.18696
+   ISHIKAWA T, 1994, IEEE T ELECTRON DEV, V41, P3, DOI 10.1109/16.259613
+   ISHIKURA K, P 1998 IEICE GEN C S, V2, P102
+NR 4
+TC 0
+Z9 0
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO, 105, JAPAN
+SN 0916-8524
+J9 IEICE T ELECTRON
+JI IEICE Trans. Electron.
+PD NOV
+PY 1999
+VL E82C
+IS 11
+BP 1936
+EP 1942
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 259VZ
+UT WOS:000083915800011
+ER
+
+PT J
+AU Paul, RA
+   Kunii, TL
+   Shinagawa, Y
+   Khan, MF
+AF Paul, RA
+   Kunii, TL
+   Shinagawa, Y
+   Khan, MF
+TI Software metrics knowledge and databases for project management
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Article
+DE knowledge-based tools for software project management; efficiency and
+   robustness in large-scale software; development; knowledge abstraction
+   from raw data; software metrics databases; test and evaluation;
+   cost-effective project management
+AB Construction and maintenance of large, high-quality software projects is a complex, error-prone, and difficult process. Tools employing software database metrics can play an important role in efficient execution and management of such large projects. In this paper, we present a generic framework to address this problem. This framework incorporates database and knowledge-base tools, a formal set of software test and evaluation metrics, and a suite of advanced analytic techniques for extracting information and knowledge from available data. The proposed combination of critical metrics and analytic tools can enable highly efficient and cost-effective management of large and complex software projects. The framework has potential for greatly reducing venture risks and enhancing the production quality in the domain of large software project management.
+C1 US Off Under Secretary Def, Washington, DC 20230 USA.
+   Aizu Univ, Dept Comp & Informat Sci, Aizu, Japan.
+   Univ Tokyo, Dept Comp & Informat Sci, Tokyo, Japan.
+   Purdue Univ, Sch Elect & Comp Engn, W Lafayette, IN 47907 USA.
+RP Paul, RA (reprint author), US Off Under Secretary Def, 3000 Def Pentagon, Washington, DC 20230 USA.
+EM paulra@acq.osd.mil; kunii@u-aizu.ac.jp; sinagawa@is.s.u-tokyo.ac.jp;
+   mkhan@ecn.purdue.edu
+CR BASILI VR, 1984, IEEE T SOFTWARE ENG, V10, P728
+   BELADY LA, 1989, IEEE COMMUN MAG, V27, P33, DOI 10.1109/MCOM.1989.34694
+   BOEHM B, 1991, SOFTWARE EC
+   Fenton Norman, 1991, SOFTWARE METRICS RIG
+   GOEL A, 1994, 941 OPTECH US ARM
+   GRADY R, 1994, COMPUTER         SEP, P18
+   GREY S, 1992, C RISK AN METH TOOLS
+   LANNING DL, 1994, COMPUTER, V27, P35, DOI 10.1109/2.312036
+   MADSEN RK, 1991, UCI910 U CAL DEP COM
+   Mallat S, 1989, IEEE T PATTERN ANAL, V7, p[7, 647]
+   OUYANG M, 1991, MITANPTR035
+   PORTER A, 1990, IEEE SOFTWARE    MAR
+   ROMBACH HD, 1989, P IEEE, V77, P581, DOI 10.1109/5.24144
+   STARK G, 1994, COMPUTER, V27, P42, DOI 10.1109/2.312037
+   THOMAS I, 1992, IEEE SOFTWARE, P29
+   WELLER EF, 1993, IEEE SOFTWARE, V10, P38, DOI 10.1109/52.232397
+   ZAGE WM, 1993, IEEE SOFTWARE, V10, P75, DOI 10.1109/52.219620
+   *DEP ARM, 1992, 731 DEP ARM 7
+   *DEP DEF, 1990, SOFTW ENG TOOLS EXP, V1
+   *NASA JOHNS SPAC C, 1992, JSC25519 NASA JOHNS
+NR 20
+TC 12
+Z9 12
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1041-4347
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD JAN-FEB
+PY 1999
+VL 11
+IS 1
+BP 255
+EP 264
+DI 10.1109/69.755633
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 178YK
+UT WOS:000079296600025
+ER
+
+PT J
+AU Shinagawa, Y
+   Kunii, TL
+AF Shinagawa, Y
+   Kunii, TL
+TI Unconstrained automatic image matching using multiresolutional
+   critical-point filters
+SO IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+LA English
+DT Article
+DE image matching; multiresolution; nonlinear filters; critical-point
+   filters; singularity; homotopy; image interpolation; morphing; volume
+   rendering
+ID OPTICAL-FLOW; STEREO; SURFACES; COMPUTATION; MODEL
+AB This paper proposes a novel method for matching images. The results can be used for a variety of applications: fully automatic morphing, object recognition, stereo photogrammetry, and volume rendering. Optimal mappings between the given images are computed automatically using multiresolutional nonlinear filters that extract the critical points of the images of each resolution. Parameters are set completely automatically by dynamical computation analogous to human visual systems. No prior knowledge about the objects is necessary. The matching results can be used to generate intermediate views when given two different views of objects. When used for morphing, our method automatically transforms the given images. There is no need for manually specifying the correspondence between the two images. When used for volume rendering, our method reconstructs the intermediate images between cross-sections accurately, even when the distance between them is long and the cross-sections vary widely in shape; A large number of experiments has been carried out to show the usefulness and capability of our method.
+C1 Univ Tokyo, Dept Informat Sci, Bunkyo Ku, Tokyo 113, Japan.
+   Hosei Univ, Computat Sci Res Ctr, Tokyo, Japan.
+RP Shinagawa, Y (reprint author), Univ Tokyo, Dept Informat Sci, Bunkyo Ku, 7-3-1 Hongo, Tokyo 113, Japan.
+CR BAJCSY R, 1989, COMPUT VISION GRAPH, V46, P1, DOI 10.1016/S0734-189X(89)80014-3
+   Bangham JA, 1996, IEEE T PATTERN ANAL, V18, P520, DOI 10.1109/34.494641
+   Barequet G, 1997, IEEE T PATTERN ANAL, V19, P929, DOI 10.1109/34.615444
+   BEIER T, 1992, COMP GRAPH, V26, P35
+   BORGEFORS G, 1988, IEEE T PATTERN ANAL, V10, P849, DOI 10.1109/34.9107
+   BROOKSHIRE G, 1990, COMPUT VISION GRAPH, V52, P276, DOI 10.1016/0734-189X(90)90059-5
+   BURR DJ, 1981, COMPUT VISION GRAPH, V15, P102, DOI 10.1016/0146-664X(81)90072-1
+   Canny J., 1986, PAMI, V8, P679
+   Chui C. K., 1992, INTRO WAVELETS
+   Daubechies I, 1992, 10 LECT WAVELETS
+   Faugeras O, 1996, INT J COMPUT VISION, V18, P5, DOI 10.1007/BF00126137
+   GEIGER D, 1995, INT J COMPUT VISION, V14, P211, DOI 10.1007/BF01679683
+   GRIMSON WEL, 1983, COMPUT VISION GRAPH, V22, P39, DOI 10.1016/0734-189X(83)90095-6
+   GUPTA NC, 1995, ARTIF INTELL, V78, P45, DOI 10.1016/0004-3702(95)00031-3
+   HERMAN M, 1984, IEEE T PATTERN ANAL, V6, P331
+   HERMAN M, 1986, ARTIF INTELL, V30, P289, DOI 10.1016/0004-3702(86)90002-0
+   HOFF W, 1989, IEEE T PATTERN ANAL, V11, P121, DOI 10.1109/34.16709
+   Horn B. K. P., 1986, ROBOT VISION
+   LEVOY M, 1988, IEEE COMPUT GRAPH, V8, P29, DOI 10.1109/38.511
+   Lorensen W. E., 1987, COMPUT GRAPH, V21, P163
+   MALLAT SG, 1989, IEEE T PATTERN ANAL, V11, P674, DOI 10.1109/34.192463
+   Meyer Y., 1993, WAVELETS ALGORITHMS
+   NISHITA T, 1993, MULTIMEDIA MODELING, P162
+   OTTE M, 1995, ARTIF INTELL, V78, P5, DOI 10.1016/0004-3702(95)00033-X
+   Seitz S., 1996, P SIGGRAPH 96, P21, DOI 10.1145/237170.237196
+   TERZOPOULOS D, 1988, IEEE T PATTERN ANAL, V10, P417, DOI 10.1109/34.3908
+   ULLMAN S, 1991, IEEE T PATTERN ANAL, V13, P992, DOI 10.1109/34.99234
+   VENKATESWAR V, 1995, INT J COMPUT VISION, V15, P245, DOI 10.1007/BF01451743
+   WEBER J, 1995, INT J COMPUT VISION, V14, P67, DOI 10.1007/BF01421489
+   Wolberg G., 1990, DIGITAL IMAGE WARPIN
+   YANG YB, 1995, ARTIF INTELL, V78, P121, DOI 10.1016/0004-3702(95)00028-3
+   ZHANG ZY, 1995, ARTIF INTELL, V78, P87, DOI 10.1016/0004-3702(95)00022-4
+NR 32
+TC 29
+Z9 31
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0162-8828
+J9 IEEE T PATTERN ANAL
+JI IEEE Trans. Pattern Anal. Mach. Intell.
+PD SEP
+PY 1998
+VL 20
+IS 9
+BP 994
+EP 1010
+DI 10.1109/34.713364
+PG 17
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA 117AX
+UT WOS:000075758500007
+ER
+
+PT J
+AU Sagawa, H
+   Moller, P
+   Kunii, TL
+AF Sagawa, H
+   Moller, P
+   Kunii, TL
+TI Constrained deformations of 3D objects
+SO NONLINEAR ANALYSIS-THEORY METHODS & APPLICATIONS
+LA English
+DT Article; Proceedings Paper
+CT 2nd World Congress of Nonlinear Analysis
+CY JUL 10-17, 1996
+CL ATHENS, GREECE
+SP Int Federat Nonlinear Analysts
+DE constrained deformation; 3D graphics; quantum many-body systems; fusion;
+   fission; super-heavy elements
+C1 Univ Aizu, Fukushima 96580, Japan.
+RP Sagawa, H (reprint author), Univ Aizu, Fukushima 96580, Japan.
+CR Iwamoto A, 1996, NUCL PHYS A, V596, P329, DOI 10.1016/0375-9474(95)00394-0
+   SAGAWA H, ELECTROMAGNETISM
+NR 2
+TC 0
+Z9 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0362-546X
+J9 NONLINEAR ANAL-THEOR
+JI Nonlinear Anal.-Theory Methods Appl.
+PD DEC
+PY 1997
+VL 30
+IS 2
+BP 791
+EP 798
+DI 10.1016/S0362-546X(96)00352-5
+PG 8
+WC Mathematics, Applied; Mathematics
+SC Mathematics
+GA YN741
+UT WOS:000071201600013
+ER
+
+PT J
+AU Okayama, H
+   Ozeki, Y
+   Kunii, T
+AF Okayama, H
+   Ozeki, Y
+   Kunii, T
+TI Dynamic wavelength selective add/drop node comprising tunable gratings
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE gratings in fibres; optical communication
+AB The authors propose an add/drop node, consisting of pairs of tunable and static gratings for the realisation of dynamic wavelength selection. Wavelength switching with small wavelength tuning and maximum wavelength channel density for a given grating bandwidth are attained.
+RP Okayama, H (reprint author), OKI ELECT IND CO LTD,RES & DEV GRP,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR CHAWKI MJ, ECOC 95
+   Okamoto K, 1996, ELECTRON LETT, V32, P1471, DOI 10.1049/el:19960981
+   OKAYAMA H, 1996, OPE96151
+   Quetel L., 1996, OFC 96
+   SHIOZAWA T, 1994, IEICE T COMMUN, VE77B, P184
+   Weber JP, 1996, J LIGHTWAVE TECHNOL, V14, P2719, DOI 10.1109/50.545791
+NR 6
+TC 18
+Z9 19
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD MAY 8
+PY 1997
+VL 33
+IS 10
+BP 881
+EP 882
+DI 10.1049/el:19970607
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA WZ747
+UT WOS:A1997WZ74700038
+ER
+
+PT J
+AU Izumi, S
+   Yamamoto, Y
+   Kunii, T
+   Miyakuni, S
+   Hayafuji, N
+   Sato, K
+   Otsubo, M
+AF Izumi, S
+   Yamamoto, Y
+   Kunii, T
+   Miyakuni, S
+   Hayafuji, N
+   Sato, K
+   Otsubo, M
+TI Selective area chemical beam epitaxial regrowth of Si-doped GaAs by
+   using silicon tetraiodide for field effect transistor application
+SO JOURNAL OF CRYSTAL GROWTH
+LA English
+DT Article; Proceedings Paper
+CT 9th International Conference on Molecular Beam Epitaxy (MBE-IX)
+CY AUG 05-09, 1996
+CL MALIBU, CA
+HO PEPPERDINE UNIV
+ID GAS-SOURCE; GROWTH; DISILANE; INP
+AB Selective area regrowth of silicon-doped GaAs has been successfully achieved by chemical beam epitaxy (CBE) on dry etched trench structures. Abrupt doping-interface and excellent doping controllability have also been achieved by using a novel silicon dopant source of silicon tetraiodide (SiI4), Metal-semiconductor field effect transistor (MESFET) and heterostructure field effect transistor (HFET) fabricated in this way with Ni/AuGe/Au alloyed contact metals on the Si-doped GaAs regrown layer reveal contact resistances as low as 3 x 10(-7) Ohm cm(2) and perfect selectivity there being no polycrystalline growth on the dielectric mask film.
+RP Izumi, S (reprint author), MITSUBISHI ELECTR CORP,OPTOELECT & MICROWAVE DEVICES LAB,4-1 MIZUHARA,ITAMI,HYOGO 664,JAPAN.
+CR ANDO H, 1991, JPN J APPL PHYS 2, V30, pL1696
+   BOVE P, 1994, J CRYST GROWTH, V136, P261, DOI 10.1016/0022-0248(94)90421-9
+   FRESINA MT, 1994, P INT S COMP SEM SAN, P699
+   FURUHATA N, 1991, J CRYST GROWTH, V112, P1, DOI 10.1016/0022-0248(91)90905-K
+   HEINECKE H, 1994, J CRYST GROWTH, V136, P18, DOI 10.1016/0022-0248(94)90378-6
+   HEINECKE H, 1986, J CRYST GROWTH, V77, P303, DOI 10.1016/0022-0248(86)90316-7
+   Izumi S, 1996, APPL PHYS LETT, V68, P3102, DOI 10.1063/1.116436
+   JACKSON SL, 1994, APPL PHYS LETT, V64, P2867, DOI 10.1063/1.111420
+   KIMURA K, 1987, J CRYST GROWTH, V81, P276, DOI 10.1016/0022-0248(87)90404-0
+   KIZUKI H, 1995, J CRYST GROWTH, V146, P527, DOI 10.1016/0022-0248(94)00546-X
+   KONDO N, 1989, JPN J APPL PHYS 2, V28, pL7, DOI 10.1143/JJAP.28.L7
+   PAVELSKI A, 1990, APPL PHYS LETT, V64, P171
+   PLOOG K, 1980, MOL BEAM EPITAXY 3 5, P73
+   SHIMAZU M, 1987, J CRYST GROWTH, V83, P327, DOI 10.1016/0022-0248(87)90294-6
+   Takatani S., 1988, International Electron Devices Meeting. Technical Digest (IEEE  Cat. No.88CH2528-8), DOI 10.1109/IEDM.1988.32907
+   TSANG WT, 1993, SEMICOND SCI TECH, V8, P1016, DOI 10.1088/0268-1242/8/6/008
+   *MORT INT INC, SII4 MAT SAFT DAT SH
+   1991, CRC HDB CHEM PHYSICS, P9
+NR 18
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-0248
+J9 J CRYST GROWTH
+JI J. Cryst. Growth
+PD MAY
+PY 1997
+VL 175
+BP 404
+EP 410
+DI 10.1016/S0022-0248(96)00874-3
+PN Part 1
+PG 7
+WC Crystallography; Materials Science, Multidisciplinary; Physics, Applied
+SC Crystallography; Materials Science; Physics
+GA XL451
+UT WOS:A1997XL45100071
+ER
+
+PT J
+AU Yamada, K
+   Nakamura, K
+   Murai, H
+   Kunii, T
+   Ogawa, Y
+AF Yamada, K
+   Nakamura, K
+   Murai, H
+   Kunii, T
+   Ogawa, Y
+TI Polarization insensitive electroabsorption modulators for high-speed
+   optical gating
+SO IEICE TRANSACTIONS ON ELECTRONICS
+LA English
+DT Article
+DE optical gating; electroabsorption modulator; polarization insensitivity;
+   large optical confinement
+ID LASER-LIGHT SOURCE; 10 GBIT/S; VOLTAGE
+AB Polarization insensitive discrete electroabsorption modulators have been designed as an optical gating device. It reveals the first finding, to our knowledge, that the ratio of the optical confinement Factor (Gamma) to the differential of the values (Delta Gamma) between TE and TM polarized lights decides polarization dependence of attenuation. The ratio Delta Gamma/Gamma is significantly reduced by increasing core thickness. Large optical confinement structures combining a thick InGaAsP bulk absorption layer and polyimide-buried mesa-ridge waveguide have Fabricated. The ratio Delta Gamma/Gamma of the high-mesa structure was estimated to be less than 0.05 in the gain-region of an erbium-doped fiber amplifier (EDFA), which enable us extremely low polarization sensitivity less than 1 dB up to 20 dB extinction. Proper waveguide length of the structure allowed low insertion loss (<9.3 dB), small loss-change (<1.8 dB) and sufficient modulation depth (>30 dB) simultaneously in the EDFA's gain region. The low-mesa structure provided low insertion loss around 7 dB with small deviation in the wavelength region. High modulation band width and a polarization-insensitive optical gating waveform have also demonstrated.
+RP Yamada, K (reprint author), OKI ELECT IND CO LTD,HACHIOJI,TOKYO 193,JAPAN.
+CR AOKI M, 1993, IEEE J QUANTUM ELECT, V29, P2088, DOI 10.1109/3.234473
+   DEVAUX F, 1993, ELECTRON LETT, V29, P1201, DOI 10.1049/el:19930803
+   ELLIS AD, 1994, ELECTRON LETT, V30, P1333, DOI 10.1049/el:19940884
+   IDO T, 1994, IEEE PHOTONIC TECH L, V6, P1207, DOI 10.1109/68.329640
+   KUINDERSMA PI, 1993, ELECTRON LETT, V29, P1876, DOI 10.1049/el:19931249
+   MITOMI O, 1992, J LIGHTWAVE TECHNOL, V10, P71, DOI 10.1109/50.108739
+   NUSS MC, 1995, LEOS 1995 ANN M
+   SAITOH T, 1989, OPT QUANT ELECTRON, V21, pS47, DOI 10.1007/BF02117682
+   SODA H, 1990, ELECTRON LETT, V26, P9, DOI 10.1049/el:19900006
+   SUZUKI M, 1992, J LIGHTWAVE TECHNOL, V10, P1912, DOI 10.1109/50.202817
+   WAKITA K, 1992, IEEE PHOTONIC TECH L, V4, P16, DOI 10.1109/68.124860
+   YAMADA K, 1995, P OFC 95 TECHN DIG
+NR 12
+TC 1
+Z9 1
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO 105, JAPAN
+SN 0916-8524
+J9 IEICE T ELECTRON
+JI IEICE Trans. Electron.
+PD JAN
+PY 1997
+VL E80C
+IS 1
+BP 62
+EP 68
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA WF332
+UT WOS:A1997WF33200010
+ER
+
+PT J
+AU Katoh, Y
+   Yamada, K
+   Kunii, T
+   Ogawa, Y
+AF Katoh, Y
+   Yamada, K
+   Kunii, T
+   Ogawa, Y
+TI Integrated tunable DBR laser with EA-Modulator grown by selective area
+   MOVPE
+SO IEICE TRANSACTIONS ON ELECTRONICS
+LA English
+DT Article
+DE WDM; integrated laser; DBR laser; EA-modulator; MQW; selective area
+   growth; MOVPE
+AB A wavelength tunable DBR laser monolithically integrated with an EA-modulator as a WDM system light source was fabricated by selective area MOVPE growth. The lasing wavelength and band-gap energy were simultaneously controlled on the same epitaxial wafer by using a modulated grown thickness of InGaAsP/InGaAsP MQW layers. A wavelength tuning range of >3.5 nm, an output power of >3 mW, and an extinction ratio of >14 dB for 3 V were achieved. The measured 3 dB frequency bandwidth was 2 GHz. No significant change in modulation characteristics were observed when wavelength tuning by injecting the current into the DBR.
+RP Katoh, Y (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,HACHIOJI,TOKYO 193,JAPAN.
+CR AOKI M, 1993, IEEE J QUANTUM ELECT, V29, P2088, DOI 10.1109/3.234473
+   AOKI M, 1995, P OPT FIB COMM
+   DEVAUX F, 1993, ELECTRON LETT, V29, P814, DOI 10.1049/el:19930544
+   Katoh Y, 1996, OPT QUANT ELECTRON, V28, P533, DOI 10.1007/BF00943622
+   KATOH Y, 1993, ELECTRON LETT, V29, P2195, DOI 10.1049/el:19931475
+   KOYAMA F, 1988, J LIGHTWAVE TECHNOL, V6, P87, DOI 10.1109/50.3969
+   SASAKI T, 1994, J CRYST GROWTH, V145, P846, DOI 10.1016/0022-0248(94)91152-5
+   YAMAGUCHI M, 1994, P 20 EUR C OPT COMM, P977
+NR 8
+TC 1
+Z9 1
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO 105, JAPAN
+SN 0916-8524
+J9 IEICE T ELECTRON
+JI IEICE Trans. Electron.
+PD JAN
+PY 1997
+VL E80C
+IS 1
+BP 69
+EP 73
+PG 5
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA WF332
+UT WOS:A1997WF33200011
+ER
+
+PT J
+AU Liu, HF
+   Arahira, S
+   Kunii, T
+   Ogawa, Y
+AF Liu, HF
+   Arahira, S
+   Kunii, T
+   Ogawa, Y
+TI Tuning characteristics of monolithic passively mode-locked distributed
+   Bragg reflector semiconductor lasers
+SO IEEE JOURNAL OF QUANTUM ELECTRONICS
+LA English
+DT Article
+ID QUANTUM-WELL LASERS; SHORT-PULSE GENERATION; SOLITON-EFFECT COMPRESSION;
+   TRANSFORM-LIMITED PULSES; EXTENDED-CAVITY LASER; FABRY-PEROT LASER; DBR
+   LASER; FEEDBACK LASER; SIGNAL GENERATION; FIBER COMPRESSION
+AB Tuning characteristics of multicontact passively mode-locked distributed Bragg reflector (DBR) semiconductor lasers are investigated in terms of center wavelengths and pulse repetition frequencies. It is shown that the center wavelength of the pulses can be tuned over a wide range by changing the refractive index of the Bragg reflector section either by means of carrier injection or by thermal effects while maintaining the pulses to be nearly transform-limited. Tuning of the pulse repetition rates is realized by using four different approaches, i.e., current injection to a passive phase-control section, varying of the reverse bias to the absorber, varying of the injection current to the gain region, and thermal effects. Injecting current into the phase-control region results in a tuning range of more than 400 MHz while maintaining the pulses at transform-limited condition. Varying the reverse bias voltage to the absorber is shown to be an alternative to achieve large repetition rate tuning, by which a tuning range of 600 MHz is obtained. By combining these tuning schemes, a total tuning range of more than 1 GHz is realized.
+C1 OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,HACHIOJI,TOKYO 193,JAPAN.
+RP Liu, HF (reprint author), UNIV MELBOURNE,DEPT ELECT ENGN,PHOTON RES LAB,AUSTRALIAN PHOTON COOPERAT RES CTR,PARKVILLE,VIC 3052,AUSTRALIA.
+CR AGRAWAL GP, 1989, IEEE J QUANTUM ELECT, V25, P2297, DOI 10.1109/3.42059
+   AHMED KA, 1995, IEEE J SEL TOP QUANT, V1, P592, DOI 10.1109/2944.401246
+   AHMED KA, 1993, ELECTRON LETT, V29, P54, DOI 10.1049/el:19930036
+   Ahmed Z, 1996, IEEE PHOTONIC TECH L, V8, P37, DOI 10.1109/68.475770
+   AHMED Z, 1995, ELECTRON LETT, V31, P1254, DOI 10.1049/el:19950855
+   Arahira S, 1996, IEEE PHOTONIC TECH L, V8, P191, DOI 10.1109/68.484237
+   ARAHIRA S, 1994, OPT LETT, V19, P834, DOI 10.1364/OL.19.000834
+   ARAHIRA S, 1995, ELECTRON LETT, V31, P808, DOI 10.1049/el:19950534
+   ARAHIRA S, 1994, APPL PHYS LETT, V64, P1917, DOI 10.1063/1.111741
+   ARAHIRA S, 1993, IEEE PHOTONIC TECH L, V5, P1362, DOI 10.1109/68.262541
+   AZOUZ A, 1995, IEEE J SEL TOP QUANT, V1, P577, DOI 10.1109/2944.401244
+   BIRD DM, 1990, ELECTRON LETT, V26, P2086, DOI 10.1049/el:19901344
+   CAVELIER M, 1992, ELECTRON LETT, V28, P224, DOI 10.1049/el:19920139
+   CHEN YK, 1992, IEEE J QUANTUM ELECT, V28, P2176
+   CHEN YK, 1991, APPL PHYS LETT, V58, P1253, DOI 10.1063/1.104327
+   CHUSSEAU L, 1994, OPT LETT, V19, P734, DOI 10.1364/OL.19.000734
+   DELFYETT PJ, 1992, IEEE J QUANTUM ELECT, V28, P2203, DOI 10.1109/3.159528
+   DERICKSON DJ, 1992, IEEE J QUANTUM ELECT, V28, P2186, DOI 10.1109/3.159527
+   ELLIS AD, 1993, ELECTRON LETT, V29, P1323, DOI 10.1049/el:19930887
+   GEORGES JB, 1995, IEEE T MICROW THEORY, V43, P2229, DOI 10.1109/22.414569
+   HANSEN PB, 1992, IEEE PHOTONIC TECH L, V4, P215, DOI 10.1109/68.122370
+   HAUS HA, 1976, IEEE J QUANTUM ELECT, V12, P169, DOI 10.1109/JQE.1976.1069112
+   HAUS HA, 1975, IEEE J QUANTUM ELECT, V11, P736, DOI 10.1109/JQE.1975.1068922
+   HOFMANN M, 1994, IEEE PHOTONIC TECH L, V6, P1306, DOI 10.1109/68.334821
+   KAMEDA T, 1993, IEEE PHOTONIC TECH L, V5, P608, DOI 10.1109/68.219684
+   KIM DY, 1995, ELECTRON LETT, V31, P733, DOI 10.1049/el:19950475
+   KOTAKI Y, 1989, IEEE J QUANTUM ELECT, V25, P1340, DOI 10.1109/3.29266
+   LAU KY, 1991, IEEE PHOTONIC TECH L, V3, P974, DOI 10.1109/68.97831
+   LAU KY, 1990, IEEE J QUANTUM ELECT, V26, P251
+   LAU KY, 1988, APPL PHYS LETT, V52, P257, DOI 10.1063/1.99486
+   LAU KY, 1989, J LIGHTWAVE TECHNOL, V7, P400, DOI 10.1109/50.17787
+   LIU HF, 1991, IEEE J QUANTUM ELECT, V27, P1655, DOI 10.1109/3.89990
+   LIU HF, 1989, IEEE J QUANTUM ELECT, V25, P1417, DOI 10.1109/3.29277
+   LIU HF, 1991, APPL PHYS LETT, V59, P1284, DOI 10.1063/1.105476
+   LIU HF, 1995, IEEE PHOTONIC TECH L, V7, P1139, DOI 10.1109/68.466570
+   LUGWIG R, 1995, ELECTRON LETT, V31, P1165
+   MOGROCAMPERO A, 1982, J APPL PHYS, V53, P1224, DOI 10.1063/1.330531
+   MORIOKA T, 1994, ELECTRON LETT, V30, P1166, DOI 10.1049/el:19940805
+   MORTON PA, 1993, IEEE PHOTONIC TECH L, V5, P28, DOI 10.1109/68.185050
+   MORTON PA, 1990, APPL PHYS LETT, V56, P111, DOI 10.1063/1.103046
+   NAKAZAWA M, 1990, ELECTRON LETT, V26, P2038, DOI 10.1049/el:19901315
+   NAKAZAWA M, 1994, IEEE COMMUN MAG, V32, P34, DOI 10.1109/35.267439
+   ONG JT, 1993, IEEE J QUANTUM ELECT, V29, P1701, DOI 10.1109/3.234424
+   SAHARA RT, 1995, IEEE J QUANTUM ELECT, V31, P120, DOI 10.1109/3.341715
+   SAKANO S, 1992, IEEE PHOTONIC TECH L, V4, P321, DOI 10.1109/68.127200
+   SCHELL M, 1993, IEEE PHOTONIC TECH L, V5, P1267, DOI 10.1109/68.250040
+   SCHRANS T, 1992, IEEE PHOTONIC TECH L, V4, P323, DOI 10.1109/68.127201
+   SEO DS, 1995, APPL PHYS LETT, V67, P1503, DOI 10.1063/1.114473
+   SPIRIT DM, 1994, IEEE COMMUN MAG, V32, P56, DOI 10.1109/35.336012
+   SUZUKI K, 1994, ELECTRON LETT, V30, P660, DOI 10.1049/el:19940459
+   TAKAHASHI R, 1989, APPL PHYS LETT, V55, P2377, DOI 10.1063/1.102022
+   TEMKIN H, 1990, APPL PHYS LETT, V56, P1210, DOI 10.1063/1.102562
+   TUCKER RS, 1989, ELECTRON LETT, V25, P621, DOI 10.1049/el:19890421
+   VANDERZIEL JP, 1985, SEMICONDUCT SEMIMET, V22, pCH1
+   Vasil'ev P., 1995, ULTRAFAST DIODE LASE
+   WEBER AG, 1992, IEEE J QUANTUM ELECT, V28, P2220, DOI 10.1109/3.159529
+   WIESENFELD JM, 1990, IEEE PHOTONIC TECH L, V2, P319, DOI 10.1109/68.54692
+   WU MC, 1991, IEEE PHOTONIC TECH L, V3, P874, DOI 10.1109/68.93246
+   WU MC, 1990, APPL PHYS LETT, V57, P759, DOI 10.1063/1.103413
+   YU J, 1994, APPL PHYS LETT, V65, P2395, DOI 10.1063/1.112686
+   YU J, 1995, IEEE PHOTONIC TECH L, V7, P467, DOI 10.1109/68.384512
+NR 61
+TC 35
+Z9 36
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9197
+J9 IEEE J QUANTUM ELECT
+JI IEEE J. Quantum Electron.
+PD NOV
+PY 1996
+VL 32
+IS 11
+BP 1965
+EP 1975
+PG 11
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA VP675
+UT WOS:A1996VP67500014
+ER
+
+PT J
+AU Katoh, Y
+   Kunii, T
+   Matsui, Y
+   Kamijoh, T
+AF Katoh, Y
+   Kunii, T
+   Matsui, Y
+   Kamijoh, T
+TI Four-wavelength DBR laser array with waveguide couplers fabricated using
+   selective MOVPE growth
+SO OPTICAL AND QUANTUM ELECTRONICS
+LA English
+DT Article
+AB We have developed an integrated multiwavelength laser with waveguide couplers using a novel selective metal-organic vapor-phase epitaxy (MOVPE) technique. The lasing wavelength was controlled by modulating the effective refractive index of distributed Bragg reflector (DBR) waveguides. Array lasing wavelengths were distributed from 1548.0 to 1553.5 nm with an average spacing of 1.8 nm. The propagation loss of the waveguide coupler was about 16 dB for inner ports and 20 dB for outer ports with a 6 dB splitting loss. Four-wavelength laser outputs were coupled into a single-mode fibre.
+RP Katoh, Y (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR AOKI M, 1993, IEEE J QUANTUM ELECT, V29, P2088, DOI 10.1109/3.234473
+   GALEUCHET YD, 1991, J CRYST GROWTH, V107, P147, DOI 10.1016/0022-0248(91)90447-D
+   ITAGAKI T, 1994, J CRYST GROWTH, V145, P256, DOI 10.1016/0022-0248(94)91060-X
+   KATOH Y, 1993, ELECTRON LETT, V29, P2195, DOI 10.1049/el:19931475
+   NAKAO M, 1989, IOOC 89, V4, P98
+   OKUDA H, 1987, IEEE J QUANTUM ELECT, V23, P843, DOI 10.1109/JQE.1987.1073442
+   SASAKI T, 1993, IOOC 93, V4, P211
+   ZAH CE, 1992, ELECTRON LETT, V28, P2361
+NR 8
+TC 2
+Z9 2
+PU CHAPMAN HALL LTD
+PI LONDON
+PA 2-6 BOUNDARY ROW, LONDON, ENGLAND SE1 8HN
+SN 0306-8919
+J9 OPT QUANT ELECTRON
+JI Opt. Quantum Electron.
+PD MAY
+PY 1996
+VL 28
+IS 5
+BP 533
+EP 540
+DI 10.1007/BF00943622
+PG 8
+WC Engineering, Electrical & Electronic; Optics
+SC Engineering; Optics
+GA UK118
+UT WOS:A1996UK11800012
+ER
+
+PT J
+AU Liu, HF
+   Arahira, S
+   Kunii, T
+   Ogawa, Y
+AF Liu, HF
+   Arahira, S
+   Kunii, T
+   Ogawa, Y
+TI Frequency-tunable millimetre-wave signal generation using a monolithic
+   passively mode-locked semiconductor laser
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE microwave generation; laser mode locking; pulse generators
+AB Repetition frequency tuning characteristics of a monolithic passively mode-locked distributed Bragg reflector semiconductor laser are investigated. By injecting current at a passive phase control section, a tuning range of 400MHz is achieved while keeping the pulse characteristics nearly unchanged. Varying the absorber reverse bias offers an alternative to tune the frequency. By combining these techniques, a total tuning range of 1GHz is realised.
+C1 OKI ELECT IND CO LTD,SEMICOND TECHNOL LABS,HACHIOJI,TOKYO 193,JAPAN.
+RP Liu, HF (reprint author), UNIV MELBOURNE,DEPT ELECT ENGN,PHOTON RES LAB,PARKVILLE,VIC 3052,AUSTRALIA.
+CR ARAHIRA S, 1993, IEEE PHOTONIC TECH L, V5, P1362, DOI 10.1109/68.262541
+   DERICKSON DJ, 1992, IEEE J QUANTUM ELECT, V28, P2186, DOI 10.1109/3.159527
+   HAUS HA, 1975, IEEE J QUANTUM ELECT, V11, P736, DOI 10.1109/JQE.1975.1068922
+   KIM DY, 1995, ELECTRON LETT, V31, P733, DOI 10.1049/el:19950475
+   MORTON PA, 1993, IEEE PHOTONIC TECH L, V5, P28, DOI 10.1109/68.185050
+   SPIRIT DM, 1994, IEEE COMMUN MAG, V32, P56, DOI 10.1109/35.336012
+NR 6
+TC 6
+Z9 6
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD APR 11
+PY 1996
+VL 32
+IS 8
+BP 740
+EP 741
+DI 10.1049/el:19960493
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA UL774
+UT WOS:A1996UL77400028
+ER
+
+PT J
+AU MURAI, H
+   MATSUI, Y
+   OGAWA, Y
+   KUNII, T
+AF MURAI, H
+   MATSUI, Y
+   OGAWA, Y
+   KUNII, T
+TI LASING CHARACTERISTICS UNDER HIGH-TEMPERATURE OPERATION OF 1.55-MU-M
+   STRAINED INGAASP/INGAALAS MQW LASER WITH INALAS ELECTRON STOPPER LAYER
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE SEMICONDUCTOR JUNCTION LASERS; OPTICAL COMMUNICATION
+AB The authors have developed a 1.55 mu m strained InGaAsP/ InGaAlAs MQW laser with an InAlAs electron stopper layer. The device showed low threshold current and high maximum temperature. Superior lasing characteristics have been demonstrated through comparison with conventional strained MQW lasers.
+RP MURAI, H (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HAGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR BORCHERT B, 1994, JPN J APPL PHYS 1, V33, P1034, DOI 10.1143/JJAP.33.1034
+   Kasukawa A., 1994, CLEO '94. Summaries of Papers Presented at the Conference on  Lasers and Electro-Optics. Vol.8. 1994 Technical Digest Series.  Conference Edition (Cat. No.94CH3463-7)
+   KAZARINOV RF, 1995, IEEE J QUANTUM ELECT, V31, P423, DOI 10.1109/3.364396
+   ZAH CE, 1995, SEVENTH INTERNATIONAL CONFERENCE ON INDIUM PHOSPHIDE AND RELATED MATERIALS, CONFERENCE PROCEEDINGS, P14, DOI 10.1109/ICIPRM.1995.522064
+NR 4
+TC 11
+Z9 11
+PU IEE-INST ELEC ENG
+PI HERTS
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTS, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD NOV 23
+PY 1995
+VL 31
+IS 24
+BP 2105
+EP 2107
+DI 10.1049/el:19951458
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA TJ614
+UT WOS:A1995TJ61400034
+ER
+
+PT J
+AU LIU, HF
+   ARAHIRA, S
+   KUNII, T
+   OGAWA, Y
+AF LIU, HF
+   ARAHIRA, S
+   KUNII, T
+   OGAWA, Y
+TI GENERATION OF WAVELENGTH-TUNABLE TRANSFORM-LIMITED PULSES FROM A
+   MONOLITHIC PASSIVELY MODE-LOCKED DISTRIBUTED-BRAGG-REFLECTOR
+   SEMICONDUCTOR-LASER
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+LA English
+DT Article
+ID QUANTUM-WELL LASERS; DBR LASER; PICOSECOND
+AB Generation of wavelength tunable transform-limited picosecond pulses from a monolithic passively mode-locked distributed Bragg reflector (DBR) laser is demonstrated for the first time. A wide tuning range of 12 nm is realized by changing the refractive index of the passive DBR region through a thin-film heater embedded on the DBR section without causing significant changes in pulse characteristics.
+C1 OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,HACHIOJI,TOKYO 193,JAPAN.
+RP LIU, HF (reprint author), UNIV MELBOURNE,DEPT ELECT ENGN,PHOTON RES LAB,PARKVILLE,VIC 3052,AUSTRALIA.
+CR ARAHIRA S, 1994, OPTICS, V23, P268
+   ARAHIRA S, 1993, IEEE PHOTONIC TECH L, V5, P1362, DOI 10.1109/68.262541
+   BIRD DM, 1990, ELECTRON LETT, V26, P2086, DOI 10.1049/el:19901344
+   CAVELIER M, 1992, ELECTRON LETT, V28, P224, DOI 10.1049/el:19920139
+   HOFMANN M, 1994, IEEE PHOTONIC TECH L, V6, P1306, DOI 10.1109/68.334821
+   KAMEDA T, 1993, IEEE PHOTONIC TECH L, V5, P608, DOI 10.1109/68.219684
+   KOTAKI Y, 1989, IEEE J QUANTUM ELECT, V25, P1340, DOI 10.1109/3.29266
+   MOGROCAMPERO A, 1982, J APPL PHYS, V53, P1224, DOI 10.1063/1.330531
+   SAKANO S, 1992, IEEE PHOTONIC TECH L, V4, P321, DOI 10.1109/68.127200
+   SCHELL M, 1993, IEEE PHOTONIC TECH L, V5, P1267, DOI 10.1109/68.250040
+   SCHRANS T, 1992, IEEE PHOTONIC TECH L, V4, P323, DOI 10.1109/68.127201
+   WIESENFELD JM, 1990, IEEE PHOTONIC TECH L, V2, P319, DOI 10.1109/68.54692
+   WU MC, 1991, IEEE PHOTONIC TECH L, V3, P874, DOI 10.1109/68.93246
+NR 13
+TC 17
+Z9 17
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1041-1135
+J9 IEEE PHOTONIC TECH L
+JI IEEE Photonics Technol. Lett.
+PD OCT
+PY 1995
+VL 7
+IS 10
+BP 1139
+EP 1141
+DI 10.1109/68.466570
+PG 3
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA RZ222
+UT WOS:A1995RZ22200014
+ER
+
+PT J
+AU YAMADA, K
+   NAKAMURA, K
+   MATSUI, Y
+   KUNII, T
+   OGAWA, Y
+AF YAMADA, K
+   NAKAMURA, K
+   MATSUI, Y
+   KUNII, T
+   OGAWA, Y
+TI NEGATIVE-CHIRP ELECTROABSORPTION MODULATOR USING LOW-WAVELENGTH DETUNING
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+LA English
+DT Article
+AB The negative chirp of an electroabsorption modulator having an alpha-parameter value of 0 to -0,5, at an input light wavelength of 1.55-1.56 mu m, has been developed by optimizing the bandgap energy of an InGaAsP bulk absorption layer, We have demonstrated successful transmission with 10 Gb/s NRZ modulation over a 100-km span of standard fiber without resort to dispersion compensation.
+RP YAMADA, K (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR Agrawal G.P., 1989, NONLINEAR FIBER OPTI
+   CHEN CD, 1994, ELECTRON LETT, V30, P1159, DOI 10.1049/el:19940760
+   Devaux F., 1993, J LIGHTWAVE TECHNOL, V11, P1937
+   DEVAUX F, 1993, IEEE PHOTONIC TECH L, V5, P1288, DOI 10.1109/68.250046
+   DORGEUILLE F, 1994, IEEE J QUANTUM ELECT, V30, P2565, DOI 10.1109/3.333708
+   FELLS JAJ, 1994, ELECTRON LETT, V30, P1168, DOI 10.1049/el:19940778
+   GNAUCK AH, 1991, IEEE PHOTONIC TECH L, V3, P916, DOI 10.1109/68.93261
+   KUINDERSMA PI, 1993, ELECTRON LETT, V29, P1876, DOI 10.1049/el:19931249
+   MARCEL S, 1994, 20TH P EUR C OPT COM
+   WHALEN MS, 1991, IEEE PHOTONIC TECH L, V3, P451, DOI 10.1109/68.93875
+   YAMADA K, 1995, ELECTRON LETT, V31, P237, DOI 10.1049/el:19950115
+   YAMADA K, 1995, P OPT FIBER C SAN DI
+NR 12
+TC 20
+Z9 20
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1041-1135
+J9 IEEE PHOTONIC TECH L
+JI IEEE Photonics Technol. Lett.
+PD OCT
+PY 1995
+VL 7
+IS 10
+BP 1157
+EP 1158
+DI 10.1109/68.466575
+PG 2
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA RZ222
+UT WOS:A1995RZ22200020
+ER
+
+PT J
+AU KUNII, T
+   MATSUI, Y
+   KATOH, Y
+   KAMIJOH, T
+AF KUNII, T
+   MATSUI, Y
+   KATOH, Y
+   KAMIJOH, T
+TI LOW-THRESHOLD CURRENT AND HIGH-OUTPUT POWER OPERATION FOR 1.5-MU-M
+   GRINSCH STRAINED MQW LASER-DIODE
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE SEMICONDUCTOR JUNCTION LASERS; SEMICONDUCTOR QUANTUM WELLS; GRADIENT
+   INDEX OPTICS
+ID QUANTUM-WELL LASERS
+AB A low threshold current of 1.8mA and large slope efficiency of 0.30mW/mA were obtained using 1.5 mu m GRINSCH strained MQW laser diodes. High-temperature operation was confirmed, and the threshold current at 80 degrees C was 5.0mA with a slope efficiency of 0.18 mW/mA. The device had a short carrier lifetime of less than 1.55ns.
+RP KUNII, T (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR KASUKAWA A, 1994, CLEO 94
+   NOBUHARA H, 1993, ELECTRON LETT, V29, P138, DOI 10.1049/el:19930093
+   TEMKIN H, 1990, APPL PHYS LETT, V57, P1610, DOI 10.1063/1.104085
+   UOMI K, 1994, OEC 94
+   ZAH CE, 1991, IEEE J QUANTUM ELECT, V27, P1440, DOI 10.1109/3.89961
+NR 5
+TC 1
+Z9 1
+PU IEE-INST ELEC ENG
+PI HERTS
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTS, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD FEB 16
+PY 1995
+VL 31
+IS 4
+BP 282
+EP 284
+DI 10.1049/el:19950174
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA QL564
+UT WOS:A1995QL56400029
+ER
+
+PT J
+AU KUNII, TL
+   HERDER, J
+   MYSZKOWSKI, K
+   OKUNEV, O
+   OKUNEVA, GG
+   IBUSUKI, M
+AF KUNII, TL
+   HERDER, J
+   MYSZKOWSKI, K
+   OKUNEV, O
+   OKUNEVA, GG
+   IBUSUKI, M
+TI ARTICULATION SIMULATION FOR AN INTELLIGENT DENTAL-CARE SYSTEM
+SO DISPLAYS
+LA English
+DT Article
+DE ARTICULATION; OCCLUSION; DENTAL SYSTEMS
+AB CAD/CAM techniques are used increasingly in dentistry for design and fabrication of teeth restorations.  An important issue is preserving occlusal contacts of teeth after restoration.  Traditional techniques based on the use of casts with mechanical articulators require manual adjustment of the occlusal surface, which becomes impractical when hard restoration materials like porcelain are used; they are also time- and labour-consuming.  Most existing computer systems ignore completely such an articulation check, or perform the check at the level of a tooth and its immediate neighbours.  We present a new mathematical model and a related user interface for global articulation simulation, developed for the Intelligent Dental Care System project.  The aim of the simulation is elimination of the use of mechanical articulators and manual adjustment in the process of designing dental restorations and articulation diagnostics.  The mathematical model is based upon differential topological modelling of the jaws considered as a mechanical system.  The user interface exploits metaphors that are familiar to dentists from everyday practice.  A new input device designed specifically for use with articulation simulation is proposed.
+RP KUNII, TL (reprint author), UNIV AIZU,IKKI MACHI,AIZU WAKAMATSU,FUKUSHIMA 96580,JAPAN.
+CR CONNER DB, 1992, COMPUT GRAPH, V25, P183
+   DURET F, 1988, J AM DENT ASSOC, V117, P715
+   HOFMANN N, 1990, DTSCH ZAHNARZTEBLATT, V7, P530
+   Okeson JP, 1989, MANAGEMENT TEMPOROMA
+   RATEITSCHAK KH, 1989, COLOR ATLAS DENTAL M, V1
+   REKOW DE, 1991, COMPUTERS CLIN DENT, P172
+   SUZUKI A, 1987, J JAPANESE PROSTHODO, V31, P712
+   van der Zel J M, 1993, Quintessence Int, V24, P769
+NR 8
+TC 2
+Z9 2
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0141-9382
+J9 DISPLAYS
+JI Displays
+PD JUL
+PY 1994
+VL 15
+IS 3
+BP 181
+EP 188
+DI 10.1016/0141-9382(94)90007-8
+PG 8
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Instruments & Instrumentation; Optics
+SC Computer Science; Engineering; Instruments & Instrumentation; Optics
+GA PP963
+UT WOS:A1994PP96300007
+ER
+
+PT J
+AU KATOH, Y
+   KUNII, T
+   MATSUI, Y
+   WADA, H
+   KAMIJOH, T
+   KAWAI, Y
+AF KATOH, Y
+   KUNII, T
+   MATSUI, Y
+   WADA, H
+   KAMIJOH, T
+   KAWAI, Y
+TI 4-WAVELENGTH DBR LASER ARRAY USING SELECTIVE MOCVD GROWTH
+SO ELECTRONICS AND COMMUNICATIONS IN JAPAN PART II-ELECTRONICS
+LA English
+DT Article
+DE SEMICONDUCTOR LASER; LASER ARRAY; SELECTIVE GROWTH
+AB A four-wavelength DBR laser array, fabricated using selective metalorganic vapor-phase epitaxy (MOCVD) growth, has been developed as a light source for a wavelength division multiplexing (WDM) system. Four different lasing wavelengths were obtained by varying the thickness of the waveguide. This enabled fabrication of lasers having different wavelengths but gratings with the same pitch.
+   First, the InGaAsP layer grown on an InP substrate which was patterned with stripes of different widths by using an SiO2 mask is evaluated. The growth rate of the InGaAsP layer between SiO2 masks could be varied to twice as fast as in a flat area while maintaining good quality of the crystal. Next, a four-wavelength DBR laser array is fabricated by using selective MOCVD growth and a grating with the same pitch. The lasing wavelength was controlled at 5-nm intervals over a 15-nm range.
+RP KATOH, Y (reprint author), OKI ELECT IND CO LTD,RES & DEV GRP,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR AMAGUCHI M, 1992 P IEICE, pC155
+   AOKI M, 1991, ELECTRON LETT, V27, P2138, DOI 10.1049/el:19911324
+   GALEUCHET YD, 1991, J CRYST GROWTH, V107, P147, DOI 10.1016/0022-0248(91)90447-D
+   NAKAO M, 1989, IOOC 89, V4, P98
+   Nakao M., 1990, Transactions of the Institute of Electronics, Information and  Communication Engineers C-I, VJ73C-I
+   OKUDA H, 1987, IEEE J QUANTUM ELECT, V23, P843, DOI 10.1109/JQE.1987.1073442
+   OUNG MG, 1993, IEEE PHOTONIC TECH L, V5, P908
+   SASAKI T, 1993, IOOC 93, V4, P211
+   YAMAGUCHI M, 1990, 12TH IEEE INT SEM LA, P160, DOI 10.1109/ISLC.1990.764471
+   ZAH CE, 1992, ELECTRON LETT, V28, P2361
+NR 10
+TC 0
+Z9 0
+PU SCRIPTA TECHNICA PUBL
+PI SILVER SPRING
+PA 7961 EASTERN AVE, SILVER SPRING, MD 20910
+SN 8756-663X
+J9 ELECTRON COMM JPN 2
+JI Electron. Commun. Jpn. Pt. II-Electron.
+PD JUL
+PY 1994
+VL 77
+IS 7
+BP 21
+EP 27
+DI 10.1002/ecjb.4420770703
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA QV393
+UT WOS:A1994QV39300003
+ER
+
+PT J
+AU ARAHIRA, S
+   OSHIBA, S
+   MATSUI, Y
+   KUNII, T
+   OGAWA, Y
+AF ARAHIRA, S
+   OSHIBA, S
+   MATSUI, Y
+   KUNII, T
+   OGAWA, Y
+TI TERAHERTZ-RATE OPTICAL PULSE GENERATION FROM A PASSIVELY MODE-LOCKED
+   SEMICONDUCTOR-LASER DIODE
+SO OPTICS LETTERS
+LA English
+DT Article
+ID GHZ; LOCKING
+AB We report what is to our knowledge the first demonstration of terahertz-rate optical pulse generation by harmonic passive mode locking in a distributed-Bragg-reflector laser diode. Along with the fundamental repetition rate of 38.8 GHz, we observed 400-GHz, 800-GHz, and 1.54-THz harmonics, depending on the bias condition of gain section. The pulse envelope for 1.54-THz pulses was in good agreement with a calculation from the Fourier transformation of the optical spectrum, indicating that the output pulses are transform limited.
+RP ARAHIRA, S (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR AHMED KA, 1993, ELECTRON LETT, V29, P54, DOI 10.1049/el:19930036
+   ARAHIRA S, IN PRESS APPL PHYS L
+   ARAHIRA S, 1993, ELECTRON LETT, V29, P1013, DOI 10.1049/el:19930676
+   ARAHIRA S, 1993, IEEE PHOTONIC TECH L, V5, P1362, DOI 10.1109/68.262541
+   CHEN YK, 1991, APPL PHYS LETT, V58, P1253, DOI 10.1063/1.104327
+   DERICKSON DJ, 1992, IEEE J QUANTUM ELECT, V28, P2186, DOI 10.1109/3.159527
+   HANSEN PB, 1993, ELECTRON LETT, V29, P739, DOI 10.1049/el:19930496
+   HIRANO J, 1969, IEEE J QUANTUM ELECT, VQE 5, P219, DOI 10.1109/JQE.1969.1075763
+   KUZNETSOV M, 1987, APPL PHYS LETT, V51, P895, DOI 10.1063/1.98847
+   OSHIBA S, 1993, ELECTRON LETT, V29, P1528, DOI 10.1049/el:19931018
+   SANDERS S, 1991, APPL PHYS LETT, V58, P681, DOI 10.1063/1.104567
+   TAKADA A, 1990, ELECTRON LETT, V26, P216, DOI 10.1049/el:19900145
+NR 12
+TC 63
+Z9 63
+PU OPTICAL SOC AMER
+PI WASHINGTON
+PA 2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036
+SN 0146-9592
+J9 OPT LETT
+JI Opt. Lett.
+PD JUN 1
+PY 1994
+VL 19
+IS 11
+BP 834
+EP 836
+DI 10.1364/OL.19.000834
+PG 3
+WC Optics
+SC Optics
+GA NN294
+UT WOS:A1994NN29400023
+ER
+
+PT J
+AU ARAHIRA, S
+   OSHIBA, S
+   MATSUI, Y
+   KUNII, T
+   OGAWA, Y
+AF ARAHIRA, S
+   OSHIBA, S
+   MATSUI, Y
+   KUNII, T
+   OGAWA, Y
+TI 500 GHZ OPTICAL SHORT-PULSE GENERATION FROM A MONOLITHIC PASSIVELY
+   MODE-LOCKED DISTRIBUTED-BRAGG-REFLECTOR LASER-DIODE
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID SEMICONDUCTOR-LASERS; LOCKING
+AB A 500 GHz optical short pulse train was generated from a passively mode-locked distributed Bragg reflector laser diode (DBR-LD). The repetition frequency was thirteen times the fundamental round trip frequency in the LD, and harmonic mode-locking occurred. The pulse duration was 700 fs and the time-bandwidth product was 0.51, very close to the transform-limited value of a Gaussian waveform, 0.44. To our knowledge, this is the first report on the harmonic mode locking of a monolithic passively mode-locked laser diode.
+RP ARAHIRA, S (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR AHMED KA, 1993, ELECTRON LETT, V29, P54, DOI 10.1049/el:19930036
+   ARAHIRA S, IN PRESS IEEE PHOTON
+   ARAHIRA S, 1993, ELECTRON LETT, V29, P1013, DOI 10.1049/el:19930676
+   CHEN YK, 1991, APPL PHYS LETT, V58, P1253, DOI 10.1063/1.104327
+   DERICKSON DJ, 1992, IEEE J QUANTUM ELECT, V28, P2186, DOI 10.1109/3.159527
+   HANSEN PB, 1993, ELECTRON LETT, V29, P739, DOI 10.1049/el:19930496
+   HIRANO J, 1969, IEEE J QUANTUM ELECT, VQE 5, P219, DOI 10.1109/JQE.1969.1075763
+   KOYAMA F, 1983, IEEE J QUANTUM ELECT, V19, P1042, DOI 10.1109/JQE.1983.1071967
+   KUZNETSOV M, 1987, APPL PHYS LETT, V51, P895, DOI 10.1063/1.98847
+   OSHIBA S, 1993, ELECTRON LETT, V29, P1528, DOI 10.1049/el:19931018
+   SANDERS S, 1991, APPL PHYS LETT, V58, P681, DOI 10.1063/1.104567
+   TAKADA A, 1990, ELECTRON LETT, V26, P216, DOI 10.1049/el:19900145
+   TUCKER RS, 1989, ELECTRON LETT, V25, P621, DOI 10.1049/el:19890421
+NR 13
+TC 38
+Z9 39
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0003-6951
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD APR 11
+PY 1994
+VL 64
+IS 15
+BP 1917
+EP 1919
+DI 10.1063/1.111741
+PG 3
+WC Physics, Applied
+SC Physics
+GA NE709
+UT WOS:A1994NE70900009
+ER
+
+PT J
+AU KATOH, Y
+   KUNII, T
+   MATSUI, Y
+   WADA, H
+   KAMIJOH, T
+   KAWAI, Y
+AF KATOH, Y
+   KUNII, T
+   MATSUI, Y
+   WADA, H
+   KAMIJOH, T
+   KAWAI, Y
+TI DBR LASER ARRAY FOR WDM SYSTEM
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE SEMICONDUCTOR LASERS; LASER ARRAYS; WDM
+AB A four-channel DBR laser array with different lasing wavelengths has been developed for a light source in WDM systems by using a simple selective MOC VD growth technique. Four different lasing wavelengths with a 5nm spacing were achieved by varying the waveguide thickness. The fabrication techniques and lasing characteristics of the device are demonstrated.
+RP KATOH, Y (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA CHO,HACHIOJI,TOKYO 193,JAPAN.
+CR AOKI M, 1991, ELECTRON LETT, V27, P2138, DOI 10.1049/el:19911324
+   GALEUCHET YD, 1991, J CRYST GROWTH, V107, P147, DOI 10.1016/0022-0248(91)90447-D
+   NAKAO M, 1989, IOOC 89, V4, P98
+   OKUDA H, 1987, IEEE J QUANTUM ELECT, V23, P843, DOI 10.1109/JQE.1987.1073442
+   SASAKI T, 1993, IOOC 93, V4, P211
+   YAMAGUCHI M, 1990, 12TH IEEE INT SEM LA, P160, DOI 10.1109/ISLC.1990.764471
+   ZAH CE, 1992, ELECTRON LETT, V28, P2361
+NR 7
+TC 23
+Z9 23
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD DEC 9
+PY 1993
+VL 29
+IS 25
+BP 2195
+EP 2197
+DI 10.1049/el:19931475
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA MP751
+UT WOS:A1993MP75100029
+ER
+
+PT J
+AU ARAHIRA, S
+   MATSUI, Y
+   KUNII, T
+   OSHIBA, S
+   OGAWA, Y
+AF ARAHIRA, S
+   MATSUI, Y
+   KUNII, T
+   OSHIBA, S
+   OGAWA, Y
+TI TRANSFORM-LIMITED OPTICAL SHORT-PULSE GENERATION AT HIGH-REPETITION-RATE
+   OVER 40 GHZ FROM A MONOLITHIC PASSIVE MODE-LOCKED DBR LASER-DIODE
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+LA English
+DT Article
+ID SOLITON DATA-TRANSMISSION; LOCKING; FIBERS; GBIT/S
+AB We fabricated a monolithic passive mode-locked distributed Bragg reflector laser diode for the first time. An optical short-pulse train with a duration of 3.5 ps was successfully generated from the laser at a high repetition rate of over 40 GHz. The time-bandwidth product was 0.43, and it was very close to the transform-limited value of a Gaussian waveform. The highest peak power of 60 mW in an InP-based passive mode-locked laser has been achieved. This laser is promising as an optical source for a high bit rate soliton transmission system.
+RP ARAHIRA, S (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,TOKYO,TOKYO 193,JAPAN.
+CR ANDREKSON PA, 1992, IEEE PHOTONIC TECH L, V4, P76, DOI 10.1109/68.124882
+   ARAHIRA S, IN PRESS ELECTRON LE
+   CHEN YK, 1991, APPL PHYS LETT, V58, P1253, DOI 10.1063/1.104327
+   CORZINE SW, 1988, APPL PHYS LETT, V52, P348, DOI 10.1063/1.99460
+   HANSEN PB, 1992, IEEE PHOTONIC TECH L, V4, P215, DOI 10.1109/68.122370
+   HASEGAWA A, 1990, OPT LETT, V15, P1443, DOI 10.1364/OL.15.001443
+   KUHL J, 1987, OPT LETT, V12, P334, DOI 10.1364/OL.12.000334
+   MOLLENAUER LF, 1991, ELECTRON LETT, V27, P2055, DOI 10.1049/el:19911275
+   MOLLENAUER LF, 1992, OPT LETT, V17, P1575, DOI 10.1364/OL.17.001575
+   MOLLENAUER LF, 1986, IEEE J QUANTUM ELECT, V22, P157, DOI 10.1109/JQE.1986.1072858
+   NAKAZAWA M, 1992, ELECTRON LETT, V28, P1046, DOI 10.1049/el:19920663
+   NAKAZAWA M, 1991, ELECTRON LETT, V27, P1279
+   SILBERBERG Y, 1986, IEEE J QUANTUM ELECT, V22, P759, DOI 10.1109/JQE.1986.1073067
+   YOKOYAMA H, 1982, APPL PHYS LETT, V40, P105, DOI 10.1063/1.93023
+NR 14
+TC 48
+Z9 48
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1041-1135
+J9 IEEE PHOTONIC TECH L
+JI IEEE Photonics Technol. Lett.
+PD DEC
+PY 1993
+VL 5
+IS 12
+BP 1362
+EP 1365
+DI 10.1109/68.262541
+PG 4
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA MW666
+UT WOS:A1993MW66600004
+ER
+
+PT J
+AU ARAHIRA, S
+   MATSUI, Y
+   KUNII, T
+   OSHIBA, S
+   OGAWA, Y
+AF ARAHIRA, S
+   MATSUI, Y
+   KUNII, T
+   OSHIBA, S
+   OGAWA, Y
+TI OPTICAL SHORT-PULSE GENERATION AT HIGH-REPETITION-RATE OVER 80 GHZ FROM
+   A MONOLITHIC PASSIVELY MODELOCKED DBR LASER-DIODE
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE SEMICONDUCTOR LASERS; PULSE GENERATION; OPTICAL COMMUNICATION
+ID SOLITON DATA-TRANSMISSION; DOPED FIBER AMPLIFIERS; 10 GBIT/S
+AB Optical short pulses at high repetition rate over 80 GHz were successfully generated using a monolithically fabricated passively modelocked distributed Bragg reflector laser diode for the first time. By using linear fibre compression, a transform-limited optical pulse train with a duration of 2.7 ps was obtained. The pulse envelope closley matched a sech2 waveform.
+RP ARAHIRA, S (reprint author), OKI ELECT IND CO LTD,SEMICOND TECHNOL LAB,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR CHEN YK, 1991, APPL PHYS LETT, V58, P1253, DOI 10.1063/1.104327
+   HANSEN PB, 1992, IEEE PHOTONIC TECH L, V4, P215, DOI 10.1109/68.122370
+   NAKAZAWA M, 1992, ELECTRON LETT, V28, P1046, DOI 10.1049/el:19920663
+   NAKAZAWA M, 1991, ELECTRON LETT, V27, P1270, DOI 10.1049/el:19910796
+   NAKAZAWA M, 1992, ELECTRON LETT, V28, P817, DOI 10.1049/el:19920517
+   VASILEV PP, 1989, ELECTRON LETT, V25, P1049, DOI 10.1049/el:19890701
+NR 6
+TC 11
+Z9 11
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD MAY 27
+PY 1993
+VL 29
+IS 11
+BP 1013
+EP 1015
+DI 10.1049/el:19930676
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA LN439
+UT WOS:A1993LN43900053
+ER
+
+PT J
+AU KUNII, T
+   MATSUI, Y
+   OGAWA, Y
+   KAMIJOH, T
+AF KUNII, T
+   MATSUI, Y
+   OGAWA, Y
+   KAMIJOH, T
+TI LASING CHARACTERISTICS FOR 4-SECTION MQW-DBR LASER
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+LA English
+DT Article
+ID LINEWIDTH ENHANCEMENT FACTOR; KHZ OPERATION
+AB We developed a MQW-DBR laser with two active sections and low tuning efficiency. The device showed excellent lasing characteristics; a low threshold current of 10 mA, a high slope efficiency of 0.26 mW/mA, and a narrow linewidth of 280 kHz at P(out) = 15 mW. A red-shift carrier-induced FM response was obtained by nonuniform current injection to two active sections. A flat FM response with wide bandwidth (> 2 GHz) was confirmed. The linewidth broadening due to wavelength tuning was suppressed through the reduction of tuning efficiency. A continuous tuning range of 0.8 nm was observed while maintaining the linewidth below 4 MHz.
+C1 OKI ELECT IND CO LTD,HACHIOJI,TOKYO 193,JAPAN.
+CR AMANN MC, 1990, ELECTRON LETT, V26, P279, DOI 10.1049/el:19900185
+   KIKUCHI K, 1991, IEEE PHOTONIC TECH L, V3, P314, DOI 10.1109/68.82097
+   KOBAYASHI S, 1982, IEEE J QUANTUM ELECT, V18, P582, DOI 10.1109/JQE.1982.1071603
+   KOTAKI Y, 1989, IEEE J QUANTUM ELECT, V25, P1340, DOI 10.1109/3.29266
+   KUNII T, 1991, ELECTRON LETT, V27, P691, DOI 10.1049/el:19910430
+   MATSUI Y, 1991, IEEE PHOTONIC TECH L, V3, P424, DOI 10.1109/68.93866
+   NILSSON O, 1985, APPL PHYS LETT, V46, P223, DOI 10.1063/1.95920
+NR 7
+TC 6
+Z9 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1041-1135
+J9 IEEE PHOTONIC TECH L
+JI IEEE Photonics Technol. Lett.
+PD OCT
+PY 1992
+VL 4
+IS 10
+BP 1096
+EP 1098
+DI 10.1109/68.163744
+PG 3
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA JU730
+UT WOS:A1992JU73000006
+ER
+
+PT J
+AU KUNII, T
+   MATSUI, Y
+   HORIKAWA, H
+   OGAWA, Y
+   KAMIJOH, T
+AF KUNII, T
+   MATSUI, Y
+   HORIKAWA, H
+   OGAWA, Y
+   KAMIJOH, T
+TI FM EFFICIENCY AND SPECTRAL LINEWIDTH IN 2-ACTIVE-SECTION MQW DBR LASER
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE SEMICONDUCTOR LASERS; LASERS
+ID ENHANCEMENT FACTOR
+AB A large and red-shifted FM response and a spectral linewidth of a few megahertz were obtained in a two-active-section MQW DBR laser. It was found that the FM efficiency can be enhanced by using the inhomogeneity in alpha-parameters with a high threshold current density device and that there is a tradeoff in the relationship between spectral linewidth and FM efficiency.
+RP KUNII, T (reprint author), OKI ELECT IND CO LTD,RES & DEV GRP,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR HARDER C, 1983, APPL PHYS LETT, V42, P328, DOI 10.1063/1.93921
+   KIKUCHI K, 1991, IEEE PHOTONIC TECH L, V3, P314, DOI 10.1109/68.82097
+   KOTAKI Y, 1989, IEEE J QUANTUM ELECT, V25, P1340, DOI 10.1109/3.29266
+   KUO CY, 1990, ELECTRON LETT, V26, P270, DOI 10.1049/el:19900180
+   LAU KY, 1990, APPL PHYS LETT, V27, P2068
+   MATSUI Y, 1991, IEEE PHOTONIC TECH L, V3, P424, DOI 10.1109/68.93866
+   NILSSON O, 1985, APPL PHYS LETT, V46, P223, DOI 10.1063/1.95920
+NR 7
+TC 2
+Z9 2
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD MAY 7
+PY 1992
+VL 28
+IS 10
+BP 963
+EP 965
+DI 10.1049/el:19920611
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA HU156
+UT WOS:A1992HU15600043
+ER
+
+PT J
+AU KUNII, T
+   OGAWA, Y
+   WADA, H
+   NONAKA, T
+   KAWAI, Y
+AF KUNII, T
+   OGAWA, Y
+   WADA, H
+   NONAKA, T
+   KAWAI, Y
+TI NARROW-SPECTRAL-LINEWIDTH, HIGH-OUTPUT-POWER OPERATION, AND FM RESPONSE
+   CHARACTERISTICS IN 1.5 MU-M BUTT-JOINTED DBR LASERS
+SO IEEE JOURNAL OF QUANTUM ELECTRONICS
+LA English
+DT Article
+ID DISTRIBUTED-BRAGG-REFLECTOR; INTEGRATED LASER; REDUCTION; DIODE; MODEL
+AB High output power (> 20 mW) and a narrow spectral linewidth (600 kHz) were obtained in newly fabricated 1.5-mu-m butt-jointed DBR lasers.  Spectral linewidth dependences on cavity length and facet reflectivity are investigated.  The spectral linewidth was reduced by long-cavity and high-reflectivity coating.
+   In two-active-section DBR lasers, a large and flat FM response with a several gigahertz bandwidth was observed.  Their characteristics were not distorted by wavelength tuning.
+RP KUNII, T (reprint author), OKI ELECT IND CO LTD,RES LAB,HACHIOJI,TOKYO 193,JAPAN.
+CR DIXON RW, 1979, IEEE J QUANTUM ELECT, V15, P470, DOI 10.1109/JQE.1979.1070024
+   GOOBAR E, 1989, ELECTRON LETT, V25, P703
+   GOOBAR E, 1989, ELECTRON LETT, V25, P304, DOI 10.1049/el:19890212
+   IKEGAMI T, 1988, 11TH INT SEM LAS C B, P100
+   ISHIDA O, 1989, ELECTRON LETT, V25, P703, DOI 10.1049/el:19890476
+   KANO F, 1989, ELECTRON LETT, V25, P709, DOI 10.1049/el:19890480
+   KITAMURA M, 1990, CLEO 90, P342
+   KOCH TL, 1988, ELECTRON LETT, V24, P1431, DOI 10.1049/el:19880978
+   KOTAKI Y, 1988, ELECTRON LETT, V24, P503, DOI 10.1049/el:19880342
+   KOTAKI Y, 1989, IEEE J QUANTUM ELECT, V25, P1340, DOI 10.1109/3.29266
+   KOYAMA F, 1983, IEEE J QUANTUM ELECT, V19, P1042, DOI 10.1109/JQE.1983.1071967
+   LAU KY, 1990, 12TH IEEE INT SEM LA, P126, DOI 10.1109/ISLC.1990.764456
+   MURATA S, 1988, ELECTRON LETT, V24, P577, DOI 10.1049/el:19880392
+   MURATA S, 1987, IEEE J QUANTUM ELECT, V23, P835, DOI 10.1109/JQE.1987.1073440
+   NILSSON O, 1985, APPL PHYS LETT, V46, P223, DOI 10.1063/1.95920
+   OGITA S, 1987, ELECTRON LETT, V23, P393, DOI 10.1049/el:19870287
+   PAN X, 1988, IEEE J QUANTUM ELECT, V24, P2423, DOI 10.1109/3.14372
+   Suematsu Y., 1983, Journal of Lightwave Technology, VLT-1, DOI 10.1109/JLT.1983.1072072
+   TAKAHASHI M, 1989, IEEE J QUANTUM ELECT, V25, P1280, DOI 10.1109/3.29258
+   TOHMORI Y, 1983, ELECTRON LETT, V19, P656, DOI 10.1049/el:19830446
+   UTAKA K, 1981, IEEE J QUANTUM ELECT, V17, P651, DOI 10.1109/JQE.1981.1071156
+   WELFORD D, 1982, APPL PHYS LETT, V40, P865, DOI 10.1063/1.92945
+   YOSHIKUNI Y, 1986, ELECTRON LETT, V22, P1153, DOI 10.1049/el:19860789
+NR 23
+TC 7
+Z9 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9197
+J9 IEEE J QUANTUM ELECT
+JI IEEE J. Quantum Electron.
+PD JUN
+PY 1991
+VL 27
+IS 6
+BP 1773
+EP 1781
+DI 10.1109/3.90003
+PG 9
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA GA573
+UT WOS:A1991GA57300067
+ER
+
+PT J
+AU MATSUI, Y
+   KUNII, T
+   HORIKAWA, H
+   KAMIJOH, T
+AF MATSUI, Y
+   KUNII, T
+   HORIKAWA, H
+   KAMIJOH, T
+TI NARROW-LINEWIDTH (LESS-THAN 200 KHZ) OPERATION OF 1.5-MU-M BUTT-JOINTED
+   MULTIPLE-QUANTUM-WELL DISTRIBUTED BRAGG REFLECTOR LASER
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+LA English
+DT Article
+AB A linewidth as narrow as 200 kHz was achieved with a 1.5-mu-m butt-jointed multiquantum-well (MQW) distributed Bragg reflector (DBR) laser.  A low threshold current of 8 mA and a high output power of 28 mW were also realized, as well as narrow-linewidth operation.  The device was fabricated by a five-step metalorganic vapor-phase epitaxy process.  These results were realized by introducing a high-quality MQW active layer, a long DBR region with a very small coupling coefficient, and a butt-jointed region with high coupling efficiency.
+RP MATSUI, Y (reprint author), OKI ELECT IND CO LTD,RES & DEV GRP,550-5 HIGASHIASAKAWA,TOKYO 193,JAPAN.
+CR KOMORI K, 1989, IEEE J QUANTUM ELECT, V25, P1235, DOI 10.1109/3.29254
+   KOTAKI Y, 1990, TECH DIG OFC90
+   KUNII T, 1990, 12TH C DIG IEEE INT
+   OKAI M, 1990, 12TH C DIG IEEE INT
+   TAKAHASHI M, 1989, IEEE J QUANTUM ELECT, V25, P1280, DOI 10.1109/3.29258
+   TEMKIN H, 1990, APPL PHYS LETT, V56, P1222, DOI 10.1063/1.102521
+   UTAKA K, 1981, IEEE J QUANTUM ELECT, V17, P651, DOI 10.1109/JQE.1981.1071156
+   WADA H, 1989, ELECTRON LETT, V25, P133, DOI 10.1049/el:19890097
+   YAMAZAKI H, 1990, P OFC90
+   YARIV A, 1977, IEEE J QUANTUM ELECT, V13, P233, DOI 10.1109/JQE.1977.1069323
+   ZAH CE, 1990, 12TH C DIG IEEE INT
+NR 11
+TC 14
+Z9 14
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 1041-1135
+J9 IEEE PHOTONIC TECH L
+JI IEEE Photonics Technol. Lett.
+PD MAY
+PY 1991
+VL 3
+IS 5
+BP 424
+EP 426
+DI 10.1109/68.93866
+PG 3
+WC Engineering, Electrical & Electronic; Optics; Physics, Applied
+SC Engineering; Optics; Physics
+GA FY339
+UT WOS:A1991FY33900010
+ER
+
+PT J
+AU KUNII, T
+   MATSUI, Y
+   HORIKAWA, H
+   KAMIJOH, T
+   NONAKA, T
+AF KUNII, T
+   MATSUI, Y
+   HORIKAWA, H
+   KAMIJOH, T
+   NONAKA, T
+TI NARROW LINEWIDTH (85 KHZ) OPERATION IN LONG CAVITY 1.5-MU-M-MQW DBR
+   LASER
+SO ELECTRONICS LETTERS
+LA English
+DT Article
+DE SEMICONDUCTOR LASERS; DIODES
+AB An extremely narrow linewidth of 85 kHz operation was obtained at 10 mM output power in a 2.16 mm long, 1.5-mu-m (MQW) DBR laser.  This is the narrowest linewidth ever reported in a semiconductor laser diode without an external cavity.
+RP KUNII, T (reprint author), OKI ELECT IND CO LTD,RES & DEV GRP,550-5 HIGASHIASAKAWA,HACHIOJI,TOKYO 193,JAPAN.
+CR IKEGAMI T, 1988, 11TH INT SEM LAS C B, P100
+   KOTAKI Y, OFC 90 SAN FRANCISCO, P159
+   KOTAKI Y, 1989, IEEE J QUANTUM ELECT, V25, P1340, DOI 10.1109/3.29266
+   OGITA S, 1987, ELECTRON LETT, V23, P393, DOI 10.1049/el:19870287
+   OKAI M, 1990, IEEE PHOTONIC TECH L, V2, P529, DOI 10.1109/68.58038
+   UTAKA K, 1981, IEEE J QUANTUM ELECT, V17, P651, DOI 10.1109/JQE.1981.1071156
+   YAMAZAKI H, OFC 90 SAN FRANCISCO, V2, pPD33
+NR 7
+TC 15
+Z9 15
+PU IEE-INST ELEC ENG
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND SG1 2AY
+SN 0013-5194
+J9 ELECTRON LETT
+JI Electron. Lett.
+PD APR 25
+PY 1991
+VL 27
+IS 9
+BP 691
+EP 692
+DI 10.1049/el:19910430
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA FK612
+UT WOS:A1991FK61200002
+ER
+
+PT J
+AU KODAMA, S
+   HORIUCHI, M
+   KUNII, T
+   KURODA, K
+AF KODAMA, S
+   HORIUCHI, M
+   KUNII, T
+   KURODA, K
+TI ULTRA-BLACK NICKEL-PHOSPHORUS ALLOY OPTICAL ABSORBER
+SO IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+LA English
+DT Article; Proceedings Paper
+CT INSTRUMENTATION AND MEASUREMENTS TECHNICAL CONF : INSTRUMENTATION
+   EVERYWHERE ( IMTC 89 )
+CY APR 25-27, 1989
+CL WASHINGTON, DC
+RP KODAMA, S (reprint author), ANRITSU CORP,ATSUGI,KANAGAWA 243,JAPAN.
+CR Johnson C. E., 1980, MET FINISH, V78, P21
+NR 1
+TC 28
+Z9 29
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9456
+J9 IEEE T INSTRUM MEAS
+JI IEEE Trans. Instrum. Meas.
+PD FEB
+PY 1990
+VL 39
+IS 1
+BP 230
+EP 232
+DI 10.1109/19.50450
+PG 3
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA CM654
+UT WOS:A1990CM65400048
+ER
+
+PT J
+AU SAITO, S
+   YOSHIDA, H
+   KUNII, TL
+AF SAITO, S
+   YOSHIDA, H
+   KUNII, TL
+TI THE CROSSOVERNET LAN SYSTEM USING AN INTELLIGENT HEAD-END
+SO IEEE TRANSACTIONS ON COMPUTERS
+LA English
+DT Article
+C1 TOKYO INST POLYTECH,DEPT INFORMAT & COMP SCI,TOKYO,JAPAN.
+   UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,BUNKYO KU,TOKYO 113,JAPAN.
+RP SAITO, S (reprint author), UNIV ELECTROCOMMUN,CTR INFORMAT PROC,CHOFU,TOKYO 182,JAPAN.
+CR AKGUN MB, 1985, IEEE J SEL AREA COMM, V3, P237
+   COUTAZ J, 1985, IEEE COMPUT, V18, P1
+   KUNII TL, 1986, VISUAL COMPUT, V2, P15, DOI 10.1007/BF01890984
+   KUNII TL, 1985, COMPUTER GRAPHICS VI, P189
+   Kunii T.L., 1986, Visual Computer, V2, DOI 10.1007/BF01900315
+   SATO T, 1976, J I TELEVISION ENG J, V30, P36
+   STALLINGS W, 1987, HDB COMPUTER COMMUNI
+   STALLINGS W, 1985, INTEGRATED SERVICE D
+   TAYLOR AS, 1985, IEEE J SEL AREA COMM, V3, P255, DOI 10.1109/JSAC.1985.1146199
+   YOSHIDA H, 1989, THESIS U TOKYO
+   ZIMMERMANN H, 1980, IEEE T COMMUN, V28, P425, DOI 10.1109/TCOM.1980.1094702
+   1985, MANUFACTURING ENG DE
+   1986, IEEE J SELECT AREAS, V4
+NR 13
+TC 0
+Z9 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264
+SN 0018-9340
+J9 IEEE T COMPUT
+JI IEEE Trans. Comput.
+PD AUG
+PY 1989
+VL 38
+IS 8
+BP 1076
+EP 1085
+DI 10.1109/12.30863
+PG 10
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA AH334
+UT WOS:A1989AH33400003
+ER
+
+PT J
+AU KAWAKAMI, Y
+   NAGAI, Y
+   NEZU, Y
+   SATO, T
+   KUNII, T
+   KAGEI, K
+AF KAWAKAMI, Y
+   NAGAI, Y
+   NEZU, Y
+   SATO, T
+   KUNII, T
+   KAGEI, K
+TI INDONESIAN MEDICINAL-PLANTS .1. NEW FURANODITERPENES FROM
+   ARCANGELISIA-FLAVA MERR .2. STEREOSTRUCTURE OF FURANODITERPENES
+   DETERMINED BY NUCLEAR MAGNETIC-RESONANCE ANALYSIS
+SO CHEMICAL & PHARMACEUTICAL BULLETIN
+LA English
+DT Article
+RP KAWAKAMI, Y (reprint author), EISAI CO LTD,TSUKUBA RES LABS,1-3 TOKODAI 5-CHOME,TOYOSATO,IBARAKI 30026,JAPAN.
+CR AGUILARS.G, 1965, CHEM IND-LONDON, P1074
+   BARTON DHR, 1956, J CHEM SOC, P2085, DOI 10.1039/jr9560002085
+   BARTON DHR, 1962, J CHEM SOC C, P4816
+   BARTON DHR, 1962, J CHEM SOC, P4809, DOI 10.1039/jr9620004809
+   BAX A, 1982, 2 DIMENSIONAL NUCLEA
+   BREHM L, 1971, J CHEM SOC C, P2529, DOI 10.1039/j39710002529
+   CAVE MP, 1956, J AM CHEM SOC, V78, P5317
+   FERGUSON G, 1969, J CHEM SOC B, P162, DOI 10.1039/j29690000162
+   FERGUSON G, 1969, J CHEM SOC B, P620
+   HORI T, 1967, TETRAHEDRON, V23, P2649, DOI 10.1016/0040-4020(67)85129-9
+   ISLAM KMS, 1967, CHEM COMMUN, P167, DOI 10.1039/c19670000167
+   ITO K, 1969, J CHEM SOC CHEM COMM, P654
+   KUNII T, 1985, CHEM PHARM BULL, V33, P479
+   OVERTON KH, 1961, P CHEM SOC LONDON, P211
+   OVERTON KH, 1966, J CHEM SOC C, P1482, DOI 10.1039/j39660001482
+NR 15
+TC 2
+Z9 2
+PU PHARMACEUTICAL SOC JAPAN
+PI TOKYO
+PA 2-12-15-201 SHIBUYA, SHIBUYA-KU, TOKYO 150, JAPAN
+SN 0009-2363
+J9 CHEM PHARM BULL
+JI Chem. Pharm. Bull.
+PD DEC
+PY 1987
+VL 35
+IS 12
+BP 4839
+EP 4845
+PG 7
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA L8899
+UT WOS:A1987L889900020
+ER
+
+PT J
+AU KUNII, T
+   KAGEI, K
+   KAWAKAMI, Y
+   NAGAI, Y
+   NEZU, Y
+   SATO, T
+AF KUNII, T
+   KAGEI, K
+   KAWAKAMI, Y
+   NAGAI, Y
+   NEZU, Y
+   SATO, T
+TI INDONESIAN MEDICINAL-PLANTS .1. NEW FURANODITERPENES FROM
+   ARCANGELISIA-FLAVA MERR
+SO CHEMICAL & PHARMACEUTICAL BULLETIN
+LA English
+DT Article
+C1 EISAI CO LTD,TSUKUBA RES LABS,1-3 TOKODAI 5-CHOME,TOYOSATO,IBARAKI 30026,JAPAN.
+CR AGUILARS.G, 1965, CHEM IND-LONDON, P1074
+   BARON DHR, 1962, J CHEM SOC, P4816
+   BARTON DHR, 1956, J CHEM SOC, P2085, DOI 10.1039/jr9560002085
+   BARTON DHR, 1962, J CHEM SOC, P4809, DOI 10.1039/jr9620004809
+   CAVE MP, 1956, J AM CHEM SOC, V78, P5317
+   DEALVARENGA MA, 1978, PHYTOCHEMISTRY, P1773
+   FERGUSON G, 1969, J CHEM SOC B, P620
+   HORI T, 1967, TETRAHEDRON, V23, P2649, DOI 10.1016/0040-4020(67)85129-9
+   ITO K, 1969, J CHEM SOC CHEM COMM, P654
+   OVERTON KH, 1966, J CHEM SOC C, P1482, DOI 10.1039/j39660001482
+   SAVONA G, 1978, J CHEM SOC PERK T 1, P643, DOI 10.1039/p19780000643
+NR 11
+TC 14
+Z9 14
+PU PHARMACEUTICAL SOC JAPAN
+PI TOKYO
+PA 2-12-15-201 SHIBUYA, SHIBUYA-KU, TOKYO 150, JAPAN
+SN 0009-2363
+J9 CHEM PHARM BULL
+JI Chem. Pharm. Bull.
+PY 1985
+VL 33
+IS 2
+BP 479
+EP 487
+PG 9
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Pharmacology &
+   Pharmacy
+SC Pharmacology & Pharmacy; Chemistry
+GA ADK02
+UT WOS:A1985ADK0200003
+ER
+
+PT J
+AU SUSA, M
+   TERAKAWA, S
+   FUJIMOTO, M
+   KOZONO, T
+   HIROSHIMA, Y
+   KUNII, T
+AF SUSA, M
+   TERAKAWA, S
+   FUJIMOTO, M
+   KOZONO, T
+   HIROSHIMA, Y
+   KUNII, T
+TI A NEW ACCELERATED TRANSFER METHOD FOR THE CPD IMAGE SENSOR
+SO IEEE ELECTRON DEVICE LETTERS
+LA English
+DT Article
+C1 MATSUSHITA ELECT IND CO LTD,CENT RES LAB,MORIGUCHI,OSAKA 570,JAPAN.
+RP SUSA, M (reprint author), MATSUSHITA ELECTR CORP,SEMICOND LAB,TAKATSUKI,OSAKA 569,JAPAN.
+CR AOKI M, 1982, IEEE T ELECTRON DEV, V29, P745, DOI 10.1109/T-ED.1982.20772
+   HORII K, 1983, 15TH P C SOL STAT DE
+   JESPERS PGA, 1977, IEEE J SOLID-ST CIRC, V12, P232, DOI 10.1109/JSSC.1977.1050883
+   OHBA S, 1984, ISSCC, P26
+   SENDA K, 1984, IEEE T ELECTRON DEV, V31, P1324, DOI 10.1109/T-ED.1984.21707
+   TERAKAWA S, UNPUB IEEE T ELECTRO
+   Terakawa S., 1980, IEEE Electron Device Letters, VEDL-1, DOI 10.1109/EDL.1980.25240
+NR 7
+TC 1
+Z9 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0741-3106
+J9 IEEE ELECTR DEVICE L
+JI IEEE Electron Device Lett.
+PY 1985
+VL 6
+IS 4
+BP 164
+EP 165
+DI 10.1109/EDL.1985.26083
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA AEQ29
+UT WOS:A1985AEQ2900002
+ER
+
+PT J
+AU HORII, K
+   KURODA, T
+   MATSUDA, Y
+   KURIYAMA, T
+   MATSUMOTO, S
+   MINO, N
+   HIROSHIMA, Y
+   KUNII, T
+   MIZUNO, H
+AF HORII, K
+   KURODA, T
+   MATSUDA, Y
+   KURIYAMA, T
+   MATSUMOTO, S
+   MINO, N
+   HIROSHIMA, Y
+   KUNII, T
+   MIZUNO, H
+TI A VERY SMALL SUPER-8 FORMAT CCD IMAGER FOR SINGLE-CHIP COLOR CAMERA
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+RP HORII, K (reprint author), MATSUSHITA ELECTR CORP,SEMICOND LAB,TAKATSUKI,OSAKA,JAPAN.
+CR AOKI M, 1982, IEEE T ELECTRON DEV, V29, P745, DOI 10.1109/T-ED.1982.20772
+   CARNES JE, 1972, RCA REV, V33, P607
+   ISHIHARA Y, 1982, ISSCC DIG TECH PAPER, P168
+   KURODA T, 1982, NAT TECH REP JAPAN, V28, P287
+   MATSUMOTO S, 1983, P C TV SOC JAPAN, P41
+   Sone Y., 1983, Journal of the Institute of Television Engineers of Japan, V37
+   SQUIN CH, 1972, BELL SYST TECH J, V51, P1923
+   TERAKAWA S, 1982, NAT TECH REP JAPAN, V28, P276
+   TOMPSETT MF, 1972, J VAC SCI TECHNOL, V9, P1166, DOI 10.1116/1.1317008
+NR 9
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PY 1985
+VL 32
+IS 8
+BP 1446
+EP 1450
+DI 10.1109/T-ED.1985.22143
+PG 5
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA AQS44
+UT WOS:A1985AQS4400012
+ER
+
+PT J
+AU TERAKAWA, S
+   KOZONO, T
+   MATSUDA, Y
+   SENDA, K
+   YAMADA, T
+   MUROZONO, I
+   HIROSHIMA, Y
+   HORII, K
+   TAKAMURA, T
+   KUNII, T
+   MIZUNO, H
+AF TERAKAWA, S
+   KOZONO, T
+   MATSUDA, Y
+   SENDA, K
+   YAMADA, T
+   MUROZONO, I
+   HIROSHIMA, Y
+   HORII, K
+   TAKAMURA, T
+   KUNII, T
+   MIZUNO, H
+TI A CPD IMAGE SENSOR WITH BURIED-CHANNEL PRIMING COUPLERS
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+RP TERAKAWA, S (reprint author), MATSUSHITA ELECTR CORP,SEMICOND LAB,TAKASUKI,OSAKA 569,JAPAN.
+CR AOKI M, 1982, IEEE T ELECTRON DEV, V29, P745, DOI 10.1109/T-ED.1982.20772
+   BERGER JL, 1984, INT SOL STAT CIRC C, P28
+   BERGLUND CN, 1972, IEEE T ELECTRON DEV, VED19, P852, DOI 10.1109/T-ED.1972.17509
+   BERGLUND CN, 1973, AT&T TECH J, V52, P147
+   BRODERSEN RW, 1976, IEEE T ELECTRON DEV, V23, P215, DOI 10.1109/T-ED.1976.18377
+   HORII K, 1983, 15TH P C SOL STAT DE
+   ISHIHARA Y, 1982, ISSCC DIG TECH PAPER, P168
+   KOIKE N, 1979, FEB ISSCC, P192
+   OHBA S, 1984, ISSCC, P26
+   SENDA K, 1984, IEEE T ELECTRON DEV, V31, P1324, DOI 10.1109/T-ED.1984.21707
+   TERAKAWA S, 1982, NAT TECH REP JAPAN, V28, P276
+   Terakawa S., 1980, IEEE Electron Device Letters, VEDL-1, DOI 10.1109/EDL.1980.25240
+   WHITE MH, 1980, IEEE T ELECTRON DEV, V27, P899, DOI 10.1109/T-ED.1980.19954
+NR 13
+TC 2
+Z9 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PY 1985
+VL 32
+IS 8
+BP 1490
+EP 1494
+DI 10.1109/T-ED.1985.22151
+PG 5
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA AQS44
+UT WOS:A1985AQS4400020
+ER
+
+PT J
+AU SENDA, K
+   HIROSHIMA, Y
+   MATSUMOTO, S
+   KURIYAMA, T
+   SUSA, M
+   TERAKAWA, S
+   KUNII, T
+AF SENDA, K
+   HIROSHIMA, Y
+   MATSUMOTO, S
+   KURIYAMA, T
+   SUSA, M
+   TERAKAWA, S
+   KUNII, T
+TI FIXED PATTERN NOISE IN THE SOLID-STATE IMAGERS DUE TO THE STRIATIONS IN
+   CZOCHRALSKI SILICON-CRYSTALS
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+RP SENDA, K (reprint author), MATSUSHITA ELECTR CORP,SEMICOND LAB,TAKATSUKI,OSAKA 569,JAPAN.
+CR ABE T, 1977, SEMICONDUCTOR SILICO, P95
+   ABE T, 1973, SEMICONDUCTOR SILICO, P95
+   FORMAN RA, 1984, J APPL PHYS, V55, P547, DOI 10.1063/1.333061
+   Hiroshima Y., 1983, Transactions of the Institute of Electronics and Communication  Engineers of Japan, Part C, VJ66C
+   JASTRZEBSKI L, 1982, IEEE T ELECTRON DEV, V29, P475, DOI 10.1109/T-ED.1982.20729
+   KOIKE N, 1980, IEEE T ELECTRON DEV, V27, P1676, DOI 10.1109/T-ED.1980.20087
+   KOLBESEN BO, 1982, SOLID STATE ELECTRON, V25, P759, DOI 10.1016/0038-1101(82)90206-4
+   KOSONOKY WF, 1983, INT ELECTRON DEVICES, V83, P1
+   OGDEN R, 1977, J APPL PHYS, V48, P412, DOI 10.1063/1.323343
+   SENDA K, 1983, 15TH P C SOL STAT DE, P213
+   SENDA K, 1984, IEEE T ELECTRON DEV, V31, P1324, DOI 10.1109/T-ED.1984.21707
+   Terakawa S., 1980, IEEE Electron Device Letters, VEDL-1, DOI 10.1109/EDL.1980.25240
+NR 12
+TC 2
+Z9 2
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PY 1985
+VL 57
+IS 4
+BP 1369
+EP 1372
+DI 10.1063/1.334488
+PG 4
+WC Physics, Applied
+SC Physics
+GA ABV18
+UT WOS:A1985ABV1800057
+ER
+
+PT J
+AU HORII, K
+   KURUDA, T
+   MATSUDA, Y
+   KURIYAMA, T
+   MINO, N
+   HOROSHIMA, Y
+   KUNII, T
+   MIZUNO, H
+AF HORII, K
+   KURUDA, T
+   MATSUDA, Y
+   KURIYAMA, T
+   MINO, N
+   HOROSHIMA, Y
+   KUNII, T
+   MIZUNO, H
+TI A 490 X 404 ELEMENT IMAGER FOR A SINGLE-CHIP COLOR CAMERA
+SO ISSCC DIGEST OF TECHNICAL PAPERS
+LA English
+DT Article
+RP HORII, K (reprint author), MATSUSHITA ELECTR CORP,OSAKA,JAPAN.
+CR ISHIHARA Y, 1982, FEB ISSCC, P168
+   SONE T, 1983, J I TELEV ENG JAPAN, V37, P855
+NR 2
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0193-6530
+J9 ISSCC DIG TECH PAP I
+PY 1985
+VL 28
+BP 96
+EP 97
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA AKG09
+UT WOS:A1985AKG0900036
+ER
+
+PT J
+AU SENDA, K
+   TERAKAWA, S
+   HIROSHIMA, Y
+   KUNII, T
+AF SENDA, K
+   TERAKAWA, S
+   HIROSHIMA, Y
+   KUNII, T
+TI ANALYSIS OF CHARGE-PRIMING TRANSFER EFFICIENCY IN CPD IMAGE SENSORS
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+RP SENDA, K (reprint author), MATSUSHITA ELECTR CORP,SEMICOND LAB,TAKATSUKI,OSAKA 569,JAPAN.
+CR AOKI M, 1982, IEEE T ELECTRON DEV, V29, P745, DOI 10.1109/T-ED.1982.20772
+   BERGLUND CN, 1972, IEEE T ELECTRON DEV, VED19, P852, DOI 10.1109/T-ED.1972.17509
+   BERGLUND CN, 1973, AT&T TECH J, V52, P147
+   CHIKAMURA T, 1982, IEEE T ELECTRON DEV, V29, P1857, DOI 10.1109/T-ED.1982.21042
+   HORII K, 1983, 15TH P C SOL STAT DE
+   ISHIHARA Y, 1982, ISSCC DIG TECH PAPER, P168
+   KOIKE N, 1979, FEB ISSCC, P192
+   SENDA K, 1983, 15TH P C SOL STAT DE, P213
+   TERAKAWA S, 1982, NAT TECH REP JAPAN, V28, P276
+   Terakawa S., 1980, IEEE Electron Device Letters, VEDL-1, DOI 10.1109/EDL.1980.25240
+NR 10
+TC 11
+Z9 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PY 1984
+VL 31
+IS 9
+BP 1324
+EP 1328
+DI 10.1109/T-ED.1984.21707
+PG 5
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA TC545
+UT WOS:A1984TC54500035
+ER
+
+PT J
+AU SENDA, K
+   TERAKAWA, S
+   HIROSHIMA, Y
+   SUSA, M
+   KUNII, T
+AF SENDA, K
+   TERAKAWA, S
+   HIROSHIMA, Y
+   SUSA, M
+   KUNII, T
+TI ANALYSIS OF N-P-N PHOTODIODE IN P-WELL CPD IMAGE SENSORS
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+LA English
+DT Article
+RP SENDA, K (reprint author), MATSUSHITA ELECTR CORP,SEMICONDUCTOR LAB,TAKATSUKI,OSAKA,JAPAN.
+CR AOKI M, 1982, IEEE T ELECTRON DEV, V29, P745, DOI 10.1109/T-ED.1982.20772
+   ISHIHARA Y, 1982, ISSCC DIG TECH PAPER, P168
+   KOIKE N, 1979, ISSCC, P192
+   Kosonocky W.F., 1983, International Electron Devices Meeting 1983. Technical Digest
+   KOSONOCK.WF, 1974, RCA REV, V35, P3
+   ODA E, 1983, IEDM TECH DIG, P502
+   SENDA K, 1983, 15TH P C SOL STAT DE, P213
+   SENDA K, 1984, IEEE T ELECTRON DEV, V31, P1324, DOI 10.1109/T-ED.1984.21707
+   Terakawa S., 1980, IEEE Electron Device Letters, VEDL-1, DOI 10.1109/EDL.1980.25240
+NR 9
+TC 0
+Z9 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9383
+J9 IEEE T ELECTRON DEV
+JI IEEE Trans. Electron Devices
+PY 1984
+VL 31
+IS 12
+BP 1873
+EP 1877
+DI 10.1109/T-ED.1984.21804
+PG 5
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA TV471
+UT WOS:A1984TV47100034
+ER
+
+PT J
+AU YAMAGUCHI, K
+   KUNII, TL
+AF YAMAGUCHI, K
+   KUNII, TL
+TI PICCOLO LOGIC FOR A PICTURE DATABASE COMPUTER AND ITS IMPLEMENTATION
+SO IEEE TRANSACTIONS ON COMPUTERS
+LA English
+DT Article
+RP YAMAGUCHI, K (reprint author), UNIV TOKYO,FAC SCI,DEPT INFORMAT SCI,TOKYO 113,JAPAN.
+CR ALEXANDRIDIS N, 1978, COMPUT VISION GRAPH, V8, P43, DOI 10.1016/S0146-664X(78)80030-6
+   ANDREW M, 1980, PRINCIPLE FIRMWARE E
+   Hansen P.B., 1975, IEEE Transactions on Software Engineering, VSE-1
+   CARLSON E, IBM RES LABORATORY T
+   CHANG NS, 1979, NOV P COMPSAC 79 CHI, P325
+   CHANG SK, 1977, P IEEE WORKSHOP PICT, P49
+   Codd E. F., 1972, DATA BASE SYSTEMS, P65
+   CODD EF, 1970, COMMUN ACM, V13, P377, DOI 10.1145/362384.362685
+   GUZMAN A, 1981, P IEEE WORKSH COMP A, P309
+   Hopcroft J. E., 1979, INTRO AUTOMATA THEOR
+   JENSEN K, 1975, PASCAL USER MANUAL R
+   Kruskal J. B., 1956, P AM MATH SOC, V7, P48, DOI 10.2307/2033241
+   KUNII TL, 1974, P C COMPUT GRAPHICS
+   KUNII TL, 1975, 2ND P INT JOINT C PA, P310
+   OHBO N, 1979, 3RD P IEEE COMP SOC, P751
+   RAMAMOORTHY CV, 1977, REQUIREMENTS ENG RES
+   YAMAGUCHI K, 1980, AUG P IEEE WORKSH PI, P95
+   YAMAGUCHI K, 1981, NOV P IEEE WORKSH CO, P284
+   ZLOOF M, 1975, P NCC AFIPS, V44, P431
+NR 19
+TC 2
+Z9 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314
+SN 0018-9340
+J9 IEEE T COMPUT
+JI IEEE Trans. Comput.
+PY 1982
+VL 31
+IS 10
+BP 983
+EP 996
+PG 14
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA PP941
+UT WOS:A1982PP94100008
+ER
+
+PT J
+AU HORII, K
+   KURODA, T
+   KUNII, T
+AF HORII, K
+   KURODA, T
+   KUNII, T
+TI A NEW CONFIGURATION OF CCD IMAGER WITH A VERY LOW SMEAR LEVEL
+SO ELECTRON DEVICE LETTERS
+LA English
+DT Article
+RP HORII, K (reprint author), MATSUSHITA ELECTR CORP,SEMICOND RES LAB,TAKATSUKI,OSAKA,JAPAN.
+CR HORII K, 1980, TECH PAPERS S ED, V525, P13
+   ISHIHARA Y, 1980, IEEE INT SOLID STATE, P24
+NR 2
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0193-8576
+J9 ELECTRON DEVIC LETT
+PY 1981
+VL 2
+IS 12
+BP 319
+EP 320
+PG 2
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA NE295
+UT WOS:A1981NE29500005
+ER
+
+EF

@@ -1,0 +1,4238 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Ichikawa, S
+   Miyazoe, S
+   Matsuoka, O
+AF Ichikawa, Shinichiro
+   Miyazoe, Satoru
+   Matsuoka, Osamu
+TI A Highly Efficient Cu/Al(OH)(3) Catalyst for the Hydration of
+   Acrylonitrile to Acrylamide
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID HYDROTALCITE-LIKE PRECURSORS; METAL-OXIDE CATALYSTS; CU-AL HYDROTALCITE;
+   COPPER-CATALYSTS; NITRILE HYDRATASE; MIXED OXIDES; LIQUID-PHASE;
+   HYDROGENATION; HYDROLYSIS; AMIDES
+AB A highly efficient, easily filterable Cu/Al(OH)(3) catalyst for the hydration of acrylonitrile to acrylamide has been synthesized by reducing a particle-size-controlled malachite phase-free Cu/Al hydrotalcite. The stability of the Cu/Al(OH)(3) catalyst under aqueous reaction conditions was further improved by treatment with H3PO4.
+C1 Mitsui Chem Inc, R&D Ctr, Chiba 2990265, Japan.
+RP Ichikawa, S (reprint author), Mitsui Chem Inc, R&D Ctr, 580-32 Nagaura, Chiba 2990265, Japan.
+EM Shinichiro.Ichikawa@mitsui-chem.co.jp
+CR Alejandre A, 1999, J CATAL, V188, P311, DOI 10.1006/jcat.1999.2625
+   Alejandre A, 1999, CHEM MATER, V11, P939, DOI 10.1021/cm980500f
+   BARBER WA, 1972, Patent No. 1353302
+   BRANCO D, 2009, J MOL CATAL A-CHEM, V307, P37
+   Breno KL, 2003, ORGANOMETALLICS, V22, P1203, DOI 10.1021/om020845e
+   Bridier B, 2010, J CATAL, V269, P80, DOI 10.1016/j.jcat.2009.10.019
+   Cavani F, 1991, CATAL TODAY, V11, P173, DOI 10.1016/0920-5861(91)80068-K
+   Centi G, 2007, APPL CATAL B-ENVIRON, V70, P172, DOI 10.1016/j.apcatb.2005.12.034
+   Chen LF, 2008, J CATAL, V257, P172, DOI 10.1016/j.jcat.2008.04.021
+   HABERMANN CE, 1991, KIRKOTHMER ENCY CHEM, V1, P251
+   HABERMANN CE, 1971, Patent No. 1351949
+   HAYASHI H, 1981, J CATAL, V69, P44, DOI 10.1016/0021-9517(81)90126-3
+   Kantam ML, 2005, J MOL CATAL A-CHEM, V241, P162, DOI 10.1016/j.molcata.2005.07.015
+   KOHLER MA, 1987, APPL CATAL, V35, P237, DOI 10.1016/S0166-9834(00)82863-8
+   KURATA T, 1972, Patent No. 3939205
+   LEE JC, 1990, APPL CATAL, V60, P173, DOI 10.1016/S0166-9834(00)82180-6
+   Likhar PR, 2007, TETRAHEDRON LETT, V48, P3911, DOI 10.1016/j.tetlet.2007.03.136
+   LIPP D, 1991, KIRKOTHMER ENCY CHEM, V1, P266
+   Lwin Y, 2000, REACT KINET CATAL L, V70, P303, DOI 10.1023/A:1010345017627
+   Mascharak PK, 2002, COORDIN CHEM REV, V225, P201, DOI 10.1016/S0010-8545(01)00413-1
+   MATSUDA F, 1977, CHEMTECH, V7, P306
+   MATSUDA F, 1970, Patent No. 4056565
+   Mitsudome T, 2009, CHEM COMMUN, P3258, DOI 10.1039/b902469g
+   MIURA H, 1982, CHEM LETT, P183, DOI 10.1246/cl.1982.183
+   MURANAKA M, 2010, CATAL TODAY IN PRESS
+   Onuoha NI, 1984, CHEM ENG COMMUN, V29, P1, DOI 10.1080/00986448408940145
+   Rao KN, 2009, CATAL COMMUN, V11, P142, DOI 10.1016/j.catcom.2009.09.013
+   REICHLE WT, 1986, SOLID STATE IONICS, V22, P135, DOI 10.1016/0167-2738(86)90067-6
+   Saadi A, 2000, J MOL CATAL A-CHEM, V164, P205, DOI 10.1016/S1381-1169(00)00199-0
+   SUGIYAMA K, 1986, B CHEM SOC JPN, V59, P2983, DOI 10.1246/bcsj.59.2983
+   Velu S, 1996, APPL CATAL A-GEN, V145, P141, DOI 10.1016/0926-860X(96)00133-0
+   Yamada H, 1996, BIOSCI BIOTECH BIOCH, V60, P1391
+   Yamaguchi K, 2004, ANGEW CHEM INT EDIT, V43, P1576, DOI 10.1002/anie.200353461
+   Yurieva TM, 1996, J MOL CATAL A-CHEM, V113, P455, DOI 10.1016/S1381-1169(96)00272-5
+   Zhu BC, 2007, APPL ORGANOMET CHEM, V21, P345, DOI 10.1002/aoc.1212
+NR 35
+TC 1
+Z9 1
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101-8307, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD MAY 5
+PY 2011
+VL 40
+IS 5
+BP 512
+EP 514
+DI 10.1246/cl.2011.512
+PG 3
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 778OW
+UT WOS:000291715000031
+ER
+
+PT J
+AU Watanabe, Y
+   Tatewaki, H
+   Koga, T
+   Matsuoka, O
+AF Watanabe, Y
+   Tatewaki, H
+   Koga, T
+   Matsuoka, O
+TI Relativistic Gaussian basis sets for molecular calculations: Fully
+   optimized single-family exponent basis sets for H-Hg
+SO JOURNAL OF COMPUTATIONAL CHEMISTRY
+LA English
+DT Article
+DE relativistic Gaussian basis set; single-family exponent; relativistic
+   molecular calculation; four-component wave function; Dirac-Fock-Roothaan
+   method
+ID NUCLEAR-CHARGE DISTRIBUTIONS; HARTREE-FOCK CALCULATIONS; ZETA
+   BASIS-SETS; ELECTRONIC-STRUCTURE; ROOTHAAN EQUATION; 6P ELEMENTS;
+   PROLAPSE; 5P; 4P
+AB Relativistic single-family exponent Gaussian basis sets for molecular calculations are presented for the 80 atoms H-1 through Hg-80. The exponent parameters shared by Gaussian basis functions of all symmetry species are fully optimized. Two nucleus models of uniformly charged sphere and Gaussian charge distribution are considered and two kinds of basis sets are generated accordingly. The total energy errors are less than 2 mhartree in any atoms. Some of the present basis sets include small variational collapse (or prolapse), but test calculations show that they could be reliably applied to molecular calculations.
+C1 Kyushu Univ, Dept Chem, Fukuoka 8128581, Japan.
+   Nagoya City Univ, Inst Nat Sci, Nagoya, Aichi 4678501, Japan.
+   Nagoya City Univ, Lib & Informat Proc Ctr, Nagoya, Aichi 4678501, Japan.
+   Muroran Inst Technol, Dept Appl Chem, Muroran, Hokkaido 0408585, Japan.
+   Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Watanabe, Y (reprint author), Kyushu Univ, Dept Chem, Fukuoka 8128581, Japan.
+EM yoshi@ccl.scc.kyushu-u.ac.jp
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   Dyall KG, 2002, THEOR CHEM ACC, V108, P335, DOI 10.1007/s00214-002-0388-0
+   Dyall KG, 1998, THEOR CHEM ACC, V99, P366, DOI 10.1007/s002140050349
+   Dyall KG, 1996, THEOR CHIM ACTA, V94, P39, DOI 10.1007/s002140050162
+   Faegri K, 2001, THEOR CHEM ACC, V105, P252, DOI 10.1007/s002140000209
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   HUZINAGA S, 1986, J MOL STRUC-THEOCHEM, V135, P403, DOI 10.1016/0166-1280(86)80072-0
+   Koga T, 2001, J CHEM PHYS, V115, P3561, DOI 10.1063/1.1373426
+   Koga T, 2003, J CHEM PHYS, V119, P1279, DOI 10.1063/1.1570814
+   Koga T, 2002, J CHEM PHYS, V117, P7813, DOI 10.1063/1.1508772
+   LEE YS, 1982, J CHEM PHYS, V76, P735, DOI 10.1063/1.442680
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   Matsuoka O, 2001, COMPUT PHYS COMMUN, V139, P218, DOI 10.1016/S0010-4655(01)00198-9
+   MATSUOKA O, 2004, RECENT ADV COMPUTATI, V5
+   OBARA S, 1986, J CHEM PHYS, V84, P3963, DOI 10.1063/1.450106
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   POWELL MJD, 1964, J COMPUT PHYS, V7, P155
+   Raffenetti R. C., 1973, EVEN TEMPERED REPRES
+   RAFFENET.RC, 1973, J CHEM PHYS, V58, P4452, DOI 10.1063/1.1679007
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   Tatewaki H, 1997, J CHEM PHYS, V106, P4558, DOI 10.1063/1.473480
+   Tatewaki H, 2003, J COMPUT CHEM, V24, P1823, DOI 10.1002/jcc.10330
+   Tatewaki H, 2003, THEOR CHEM ACC, V109, P40, DOI 10.1007/s00214-002-0412-4
+   Tatewaki H, 2004, J CHEM PHYS, V121, P4528, DOI 10.1063/1.1779213
+   Tatewaki H, 2003, CHEM PHYS LETT, V375, P399, DOI 10.1016/S0009-2614(03)00873-X
+   Visscher L, 1997, ATOM DATA NUCL DATA, V67, P207, DOI 10.1006/adnd.1997.0751
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+NR 29
+TC 12
+Z9 12
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0192-8651
+J9 J COMPUT CHEM
+JI J. Comput. Chem.
+PD JAN 15
+PY 2006
+VL 27
+IS 1
+BP 48
+EP 52
+DI 10.1002/jcc.20313
+PG 5
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 993IN
+UT WOS:000233947900005
+ER
+
+PT J
+AU Namai, Y
+   Matsuoka, O
+AF Namai, Y
+   Matsuoka, O
+TI Chain structures of surface hydroxyl groups formed via line oxygen
+   vacancies on TiO2(110) surfaces studied using noncontact atomic force
+   microscopy
+SO JOURNAL OF PHYSICAL CHEMISTRY B
+LA English
+DT Article
+ID SCANNING-TUNNELING-MICROSCOPY; VACUUM-ANNEALED TIO2(110); CEO2(111)
+   SURFACES; INTRINSIC DEFECTS; STM; WATER; ADSORPTION; HYDROGEN; BEHAVIOR;
+   PHASE
+AB Structures of surface hydroxyl groups arranged on a reduced TiO2(110) surface that had line oxygen vacancies were studied using noncontact atomic force microscopy (NC-AFM). NC-AFM results revealed that by increasing the density of oxygen vacancies on the TiO2(110) surface, line oxygen vacancies were formed by removal of oxygen atoms in a bridge oxygen row on the TiO2(110) surface. After the TiO2(110) surface with the line oxygen vacancies was exposed to water, the surface showed hydroxyl chain structures that were composed of hydroxyl groups linearly arranged in a form of two rows on the line oxygen vacancies and on a neighboring bridge oxygen row. In-situ NC-AFM measurements of these surfaces exposed to water at room temperature revealed that hydroxyl chain structures were formed at the line oxygen vacancy. Annealing above 500 K was sufficient to remove the hydroxyl chain structures on the TiO2(110) surface and allowed line oxygen vacancies to reappear on the surface. The line oxygen vacancies are active sites for water dissociation. In conclusion, the formation of the hydroxyl chain structure suggests that the surface hydroxyl groups on a TiO2(110) surface can be controlled by preparing oxygen vacancy structures on the surface.
+C1 Mitsiu Chem Inc, Catalysis Sci Lab, Polymerizat Catalysis Grp, Sodegaura, Chiba 2990265, Japan.
+RP Namai, Y (reprint author), Mitsiu Chem Inc, Catalysis Sci Lab, Polymerizat Catalysis Grp, Sodegaura, Chiba 2990265, Japan.
+EM Yoshimichi.Namai@mitsui-chem.co.jp
+CR ALBERECHT TR, 1991, J APPL PHYS, V69, P668
+   BANNETT RA, 1999, PHYS REV LETT, V82, P3831
+   BANNETT RA, 1999, FARADAY DISCUSS, V114, P267
+   Brookes IM, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.266103
+   Diebold U, 2003, SURF SCI REP, V48, P53, DOI 10.1016/S0167-5729(02)00100-0
+   Diebold U, 2003, APPL PHYS A-MATER, V76, P681, DOI 10.1007/s00339-002-2004-5
+   Fischer S, 1997, VACUUM, V48, P601, DOI 10.1016/S0042-207X(97)00045-6
+   FISCHER S, 1995, SURF SCI, V337, P17, DOI 10.1016/0039-6028(95)00572-2
+   Fischer S, 1996, J VAC SCI TECHNOL B, V14, P961, DOI 10.1116/1.589184
+   Fujino T, 2001, APPL PHYS LETT, V79, P2716, DOI 10.1063/1.1412427
+   Fukui K, 1997, PHYS REV LETT, V79, P4202, DOI 10.1103/PhysRevLett.79.4202
+   FUKUI K, 2002, NANOSCI TECHNOL, P167
+   Fukui K, 2002, APPL SURF SCI, V188, P252, DOI 10.1016/S0169-4332(01)00917-5
+   Henderson MA, 2003, J PHYS CHEM B, V107, P534, DOI 10.1021/jp0262113
+   Henderson MA, 2002, SURF SCI REP, V46, P1, DOI 10.1016/S0167-5729(01)00020-6
+   Henderson MA, 1996, SURF SCI, V355, P151, DOI 10.1016/0039-6028(95)01357-1
+   Henderson MA, 1996, LANGMUIR, V12, P5093, DOI 10.1021/la960360t
+   Henderson MA, 1998, SURF SCI, V400, P203, DOI 10.1016/S0039-6028(97)00863-7
+   Henderson MA, 1999, FARADAY DISCUSS, V114, P313, DOI 10.1039/a902070e
+   Henrich V. E., 1994, SURFACE SCI METAL OX
+   HOWALD L, 1995, PHYS REV B, V51, P5484, DOI 10.1103/PhysRevB.51.5484
+   Kung H. H., 1989, TRANSITION METAL OXI
+   KURTZ RL, 1989, SURF SCI, V218, P178, DOI 10.1016/0039-6028(89)90626-2
+   Lindan PJD, 1997, PHYS REV B, V55, P15919, DOI 10.1103/PhysRevB.55.15919
+   Maksymovych P, 2003, CHEM PHYS LETT, V382, P270, DOI 10.1016/j.cplett.2003.09.159
+   MEYER E, 1994, J VAC SCI TECHNOL B, V12, P2060, DOI 10.1116/1.587704
+   Mezhenny S, 2003, CHEM PHYS LETT, V369, P152, DOI 10.1016/S0009-2614(02)01997-8
+   Morita S., 2002, NONCONTACT ATOMIC FO
+   Namai Y, 2003, CATAL TODAY, V85, P79, DOI 10.1016/S0920-5861(03)00377-8
+   Namai Y, 2003, J PHYS CHEM B, V107, P11666, DOI 10.1021/jp030142q
+   Ng KO, 1997, PHYS REV B, V56, P10544, DOI 10.1103/PhysRevB.56.10544
+   ONISHI H, 1995, B CHEM SOC JPN, V68, P2447, DOI 10.1246/bcsj.68.2447
+   Onishi H., 1994, SURF SCI LETT, V313, P783
+   Onishi H, 1996, PHYS REV LETT, V76, P791, DOI 10.1103/PhysRevLett.76.791
+   PAN JM, 1992, J VAC SCI TECHNOL A, V10, P2470, DOI 10.1116/1.577986
+   Pang CL, 1998, PHYS REV B, V58, P1586, DOI 10.1103/PhysRevB.58.1586
+   Schaub R, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.266104
+   Suzuki S, 2000, PHYS REV LETT, V84, P2156, DOI 10.1103/PhysRevLett.84.2156
+   Suzuki S., 2001, STUD SURF SCI CATAL, V132, P753
+   Takakusagi S, 2003, SURF SCI, V523, pL41, DOI 10.1016/S0039-6028(02)02353-1
+   White JM, 2003, J PHYS CHEM B, V107, P9029, DOI 10.1021/jp0345046
+NR 41
+TC 8
+Z9 8
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1520-6106
+J9 J PHYS CHEM B
+JI J. Phys. Chem. B
+PD DEC 22
+PY 2005
+VL 109
+IS 50
+BP 23948
+EP 23954
+DI 10.1021/jp058210r
+PG 7
+WC Chemistry, Physical
+SC Chemistry
+GA 995QO
+UT WOS:000234119100026
+ER
+
+PT J
+AU Shindo, N
+   Sakai, A
+   Arai, D
+   Matsuoka, O
+   Yamasaki, Y
+   Higashinakagawa, T
+AF Shindo, N
+   Sakai, A
+   Arai, D
+   Matsuoka, O
+   Yamasaki, Y
+   Higashinakagawa, T
+TI The ESC-E(Z) complex participates in the hedgehog signaling pathway
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE cellular memory; epigenetics; polycomb group; enhancer of zeste; extra
+   sex combs; knock-down; cyclopia; hedgehog signaling; histone
+   methylation; medaka
+ID POLYCOMB-GROUP GENE; HISTONE METHYLTRANSFERASE ACTIVITY;
+   DROSOPHILA-ENHANCER; HUMAN HOMOLOG; PROTEIN; ZESTE; EED; METHYLATION;
+   DEACETYLASE; EXPRESSION
+AB Polycomb group (PcG) genes are required for stable inheritance of epigenetic states throughout development, a phenomenon termed cellular memory. In Drosophila and mice, the product of the E(z) gene, one of the PcG genes, constitutes the ESC-E(Z) complex and specifically methylates historic H3. It has been argued that this methylation sets the stage for appropriate repression of certain genes. Here, we report the isolation of a well-conserved homolog of E(z), olezh2, in medaka. Hypomorphic knock-down of olezh2 resulted in a cyclopia phenotype and markedly perturbed hedgehog signaling, consistent with our previous report on oleed, a medaka esc. We also found cyclopia in embryos treated with trichostatin A, an inhibitor of historic deacetylase, which is a transient component of the ESC-E(Z) complex. The level of tri-methylation at lysine 27 of historic H3 was substantially decreased in both olezh2 and oleed knock-down embryos, and in embryos with hedgehog signaling perturbed by forskolin. We conclude that the ESC-E(Z) complex per se participates in hedgehog signaling. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Waseda Univ, Grad Sch Sci & Engn, Dept Biol, Fac Educ & Integrated Arts & Sci,Shinjuku Ku, Tokyo 1698050, Japan.
+RP Higashinakagawa, T (reprint author), Waseda Univ, Grad Sch Sci & Engn, Dept Biol, Fac Educ & Integrated Arts & Sci,Shinjuku Ku, 1-6-1 Nishi Waseda, Tokyo 1698050, Japan.
+EM toru@waseda.jp
+CR Abel KJ, 1996, GENOMICS, V37, P161, DOI 10.1006/geno.1996.0537
+   Barresi MJF, 2000, DEVELOPMENT, V127, P2189
+   Cao R, 2002, SCIENCE, V298, P1039, DOI 10.1126/science.1076997
+   Chen HM, 1996, GENOMICS, V38, P30, DOI 10.1006/geno.1996.0588
+   Czermin B, 2002, CELL, V111, P185, DOI 10.1016/S0092-8674(02)00975-3
+   FAUST C, 1995, DEVELOPMENT, V121, P273
+   Fischle W, 2003, GENE DEV, V17, P1870, DOI 10.1101/gad.110503
+   Francis NJ, 2001, NAT REV MOL CELL BIO, V2, P409, DOI 10.1038/35073039
+   Hammerschmidt M, 1996, GENE DEV, V10, P647, DOI 10.1101/gad.10.6.647
+   Hobert O, 1996, MECH DEVELOP, V55, P171, DOI 10.1016/0925-4773(96)00499-6
+   Iwamatsu T, 2004, MECH DEVELOP, V121, P605, DOI 10.1016/j.mod.2004.03.012
+   Jones CA, 1998, MOL CELL BIOL, V18, P2825
+   Koster R, 1997, DEVELOPMENT, V124, P3147
+   Kuzmichev A, 2002, GENE DEV, V16, P2893, DOI 10.1101/gad.1035902
+   Laible G, 1997, EMBO J, V16, P3219, DOI 10.1093/emboj/16.11.3219
+   Levine SS, 2002, MOL CELL BIOL, V22, P6070, DOI 10.1128/MCB.22.17.6070-6078.2002
+   Min JR, 2003, GENE DEV, V17, P1823, DOI 10.1101/gad.269603
+   Muller J, 2002, CELL, V111, P197, DOI 10.1016/S0092-8674(02)00976-5
+   Nasevicius A, 2000, NAT GENET, V26, P216, DOI 10.1038/79951
+   O'Carroll D, 2001, MOL CELL BIOL, V21, P4330, DOI 10.1128/MCB.21.13.4330-4336.2001
+   Ogawa M, 1998, BBA-GENE STRUCT EXPR, V1395, P151, DOI 10.1016/S0167-4781(97)00156-5
+   Orlando V, 2003, CELL, V112, P599, DOI 10.1016/S0092-8674(03)00157-0
+   Peters AHFM, 2003, MOL CELL, V12, P1577, DOI 10.1016/S1097-2765(03)00477-5
+   Sewalt RGAB, 1998, MOL CELL BIOL, V18, P3586
+   Shao ZH, 1999, CELL, V98, P37, DOI 10.1016/S0092-8674(00)80604-2
+   Shindo N, 2004, BIOCHEM BIOPH RES CO, V323, P523, DOI 10.1016/j.bbrc.2004.08.125
+   Tie F, 2001, DEVELOPMENT, V128, P275
+   van der Vlag J, 1999, NAT GENET, V23, P474
+   van Lohuizen M, 1998, MOL CELL BIOL, V18, P3572
+   Yamamoto TO, 1975, MEDAKA KILLIFISH BIO
+   YOSHIDA M, 1990, J BIOL CHEM, V265, P17174
+NR 31
+TC 9
+Z9 9
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD FEB 25
+PY 2005
+VL 327
+IS 4
+BP 1179
+EP 1187
+DI 10.1016/j.bbrc.2004.12.125
+PG 9
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 892RN
+UT WOS:000226667800031
+ER
+
+PT J
+AU Ono, SS
+   Matsugi, T
+   Matsuoka, O
+   Kojoh, S
+   Fujita, T
+   Kashiwa, N
+   Yamamoto, S
+AF Ono, SS
+   Matsugi, T
+   Matsuoka, O
+   Kojoh, S
+   Fujita, T
+   Kashiwa, N
+   Yamamoto, S
+TI Morphological studies on well-defined
+   polyethylene-b-poly(ethylene-co-propylene) by AFM
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID ATOMIC-FORCE MICROSCOPY; MOLECULAR-WEIGHT; POLYMERIZATION; VISUALIZATION
+AB Morphology of a well-defined polyethylene-b-poly (ethylene-co-propylene) (PE-b-EPR) on a mica surface was analyzed by atomic force microscopy (AFM). The analyses suggested that the block copolymer, in which the PE lamella is covered with the amorphous EPR segment, can exist without aggregation and possesses a tendency to assemble to one another to form a needle-like structure.
+C1 Mitsui Chem Inc, R&D Ctr, Sodegaura, Chiba 2990265, Japan.
+RP Ono, SS (reprint author), Mitsui Chem Inc, R&D Ctr, 580-32 Nagaura, Sodegaura, Chiba 2990265, Japan.
+CR Borner HG, 2002, MACROMOLECULES, V35, P3387, DOI 10.1021/ma012100a
+   Busico V, 2003, MACROMOLECULES, V36, P3806, DOI 10.1021/ma0342527
+   Dekmezian AH, 2002, MACROMOLECULES, V35, P9586, DOI 10.1021/ma0209343
+   Ebenstein Y, 2002, NANO LETT, V2, P945, DOI 10.1021/nl025673p
+   Kumaki J, 1996, J AM CHEM SOC, V118, P3321, DOI 10.1021/ja9538593
+   Magonov S. N., 2001, HDB SURFACES INTERFA, V2, P393, DOI 10.1016/B978-012513910-6/50029-3
+   MAGONOV SN, 2000, ATOMIC FORCE MICROSC, P7432
+   Mitani Makoto, 2003, Chemistry, V9, P2396, DOI 10.1002/chem.200304661
+   Mori H, 1999, MACROMOLECULES, V32, P6008, DOI 10.1021/ma981862b
+   NITTA K, 2000, POLYM PREPR JPN, V49, P3808
+   Ono SS, 2001, MICROPOR MESOPOR MAT, V48, P103, DOI 10.1016/S1387-1811(01)00365-1
+   Ono SS, 2001, APPL SURF SCI, V177, P189, DOI 10.1016/S0169-4332(01)00234-3
+   Sheiko SS, 2000, ADV POLYM SCI, V151, P61
+   Sheiko SS, 2003, J AM CHEM SOC, V125, P6725, DOI 10.1021/ja0346779
+   Sheiko SS, 2001, CHEM REV, V101, P4099, DOI 10.1021/cr990129v
+   SUN L, 2002, LANGMUIR, V18, P8321
+   Suzuki Y, 2003, B CHEM SOC JPN, V76, P1493, DOI 10.1246/bcsj.76.1493
+NR 17
+TC 10
+Z9 10
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD DEC 5
+PY 2003
+VL 32
+IS 12
+BP 1182
+EP 1183
+DI 10.1246/cl.2003.1182
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 756GV
+UT WOS:000187458200046
+ER
+
+PT J
+AU Matsuoka, O
+   Ono, SS
+   Nozoye, H
+   Yamamoto, S
+AF Matsuoka, O
+   Ono, SS
+   Nozoye, H
+   Yamamoto, S
+TI Structure and dynamics of oxy-overlayer on Cu(111) electrode surfaces in
+   alkaline aqueous solution revealed by electrochemical STM and quartz
+   crystal microbalance measurement
+SO SURFACE SCIENCE
+LA English
+DT Article
+DE scanning tunneling microscopy; catalysis; surface structure, morphology,
+   roughness and topography; copper; aldehydes; single crystal surfaces
+ID IN-SITU STM; COPPER ELECTRODE; INITIAL-STAGES; OXIDATION; ADSORPTION;
+   ADSORBATE; MICROSCOPY; BEHAVIOR; BASE; IONS
+AB The redox reactivity of copper in aqueous solution has attracted much attention due to practical applications such as catalysis, electrodeposition, microelectronic device fabrication. In this work, the structure and dynamic behavior of Cu(1 1 1) electrodes were investigated in 0.01 M NaOH aqueous solution in the potential range where copper electrode shows redox reactivity for aldehyde oxidation by using electrochemical scanning tunneling microscopy (EC-STM), cyclic voltammetry, and electrochemical quartz crystal microbalance (EQCM). EC-STM observations revealed that the Cu(1 1 1) electrode surface was covered with an oxy-overlayer (layer of adsorbates containing oxygen), which formed a terrace-step structure with a monoatomic step height. Two kinds of ordered structures on the terrace were observed at the potential negative-side of the cathodic peak at -0.85 V vs. Ag/AgCl: hexagonal lattice with a unit vector of 0.70+/-0.03 nm (structure A), and rhombic lattice with a unit vector of 1.40+/-0.03 nm (structure B). Species with these structures seem responsible for aldehyde oxidation, based on the good agreement between the cyclic voltammogram (CV) for these species and that previously reported for Cu electrodes active for aldehyde oxidation. EC-STM revealed the deposition and dissolution of the oxy-overlayer on Cu(1 1 1) electrode surfaces. Combining the EQCM measurement with EC-STM images suggests that a cluster of water molecules had adsorbed on a species that had ordered structure A at the potential of -0.65 V in an anodic scan. This hydration probably transforms the species into a soluble species, such as Cu(OH)(2)(-), which induces the partial dissolution of a terrace from a step edge. In addition, dependence of the position of the anodic peak at -0.65 V on a cathode limit was observed for the first time. EC-STM observation revealed that this electrochemical behavior of the anodic peak correlated with the surface structure of the oxy-overlayer, namely, correlated with the ratio of the surface areas covered by ordered structure A and B. (C) 2003 Published by Elsevier B.V.
+C1 Mitsui Chem Inc, Catalysis Sci Lab, Chiba 2990265, Japan.
+   Natl Inst AIST, Nanotechnol Res Inst, Single Mol & Interfacial Engn Grp, Tsukuba, Ibaraki 3058565, Japan.
+RP Yamamoto, S (reprint author), Mitsui Chem Inc, Catalysis Sci Lab, 580-32 Nagaura,Sodegaura, Chiba 2990265, Japan.
+CR BURKE LD, 1990, J ELECTROCHEM SOC, V137, P553, DOI 10.1149/1.2086496
+   Burke LD, 1998, ELECTROCHIM ACTA, V44, P1467, DOI 10.1016/S0013-4686(98)00270-9
+   BURKE LD, 1990, J ELECTROCHEM SOC, V137, P1358, DOI 10.1149/1.2086674
+   Daikhin L, 2000, ELECTROCHIM ACTA, V45, P3615, DOI 10.1016/S0013-4686(00)00444-8
+   Gewirth AA, 1997, CHEM REV, V97, P1129, DOI 10.1021/cr960067y
+   GORDON JS, 1994, J ELECTROANAL CHEM, V365, P267, DOI 10.1016/0022-0728(94)02965-2
+   GRUICKSHANK BJ, 1993, SURF SCI, V291, pL308
+   Hara M., 1998, CHEM COMMUN, P357
+   HARTINGER S, 1995, J ELECTROANAL CHEM, V397, P335, DOI 10.1016/0022-0728(95)04297-5
+   HORI Y, 1987, J AM CHEM SOC, V109, P5022, DOI 10.1021/ja00250a044
+   Hori Y., 1985, CHEM LETT, V1695
+   IKEMIYA N, 1995, SURF SCI, V323, P81, DOI 10.1016/0039-6028(94)00671-7
+   Kolb DM, 2001, ANGEW CHEM INT EDIT, V40, P1162, DOI 10.1002/1521-3773(20010401)40:7<1162::AID-ANIE1162>3.3.CO;2-6
+   Kunze J, 2001, J PHYS CHEM B, V105, P4263, DOI 10.1021/jp004012i
+   Li WH, 1998, J ELECTROANAL CHEM, V456, P153, DOI 10.1016/S0022-0728(98)00205-8
+   Marichev VA, 1998, ELECTROCHIM ACTA, V43, P2203, DOI 10.1016/S0013-4686(97)10121-9
+   MATERLIK G, 1995, BER EUNSENGES PHYS C, V91, P292
+   MATSUDA F, 1977, CHEMTECH, V7, P306
+   MATSUOKA O, 1998, CHEM LETT, V947
+   Maurice V, 2000, SURF SCI, V458, P185, DOI 10.1016/S0039-6028(00)00442-8
+   MODESTOV AD, 1994, J ELECTROANAL CHEM, V375, P293, DOI 10.1016/0022-0728(94)03397-8
+   Murarka SP, 1997, MAT SCI ENG R, V19, P87, DOI 10.1016/S0927-796X(97)00002-8
+   Niaura G, 2000, ELECTROCHIM ACTA, V45, P3507, DOI 10.1016/S0013-4686(00)00434-5
+   PARSONS R, 1988, J ELECTROANAL CHEM, V257, P9, DOI 10.1016/0022-0728(88)87028-1
+   Richard KM, 1996, J PHYS CHEM-US, V100, P7204, DOI 10.1021/jp953709e
+   SHUSTOROVICH E, 1992, SURF SCI, V268, P397, DOI 10.1016/0039-6028(92)90979-G
+   SPENCER MS, 1992, CATAL TODAY, V12, P453, DOI 10.1016/0920-5861(92)80062-R
+   Sugimasa M, 2003, J ELECTROCHEM SOC, V150, pE110, DOI 10.1149/1.1533042
+   Vogt MR, 1998, SURF SCI, V399, P49, DOI 10.1016/S0039-6028(97)00811-X
+   WANG J, 1991, J ELECTROANAL CHEM, V313, P129, DOI 10.1016/0022-0728(91)85176-P
+   WEAST RC, 1986, CRC HDB CHEM PHYSICS
+   Wilms M, 1998, SURF SCI, V416, P121, DOI 10.1016/S0039-6028(98)00550-0
+   WONG EKL, 1992, J VAC SCI TECHNOL A, V10, P2985, DOI 10.1116/1.577897
+NR 33
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0039-6028
+J9 SURF SCI
+JI Surf. Sci.
+PD NOV 1
+PY 2003
+VL 545
+IS 1-2
+BP 8
+EP 18
+DI 10.1016/j.susc.2003.08.023
+PG 11
+WC Chemistry, Physical; Physics, Condensed Matter
+SC Chemistry; Physics
+GA 737RN
+UT WOS:000186245700009
+ER
+
+PT J
+AU Koga, T
+   Tatewaki, H
+   Matsuoka, O
+AF Koga, T
+   Tatewaki, H
+   Matsuoka, O
+TI Relativistic Gaussian basis sets for molecular calculations: Tl-Lr
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID ELEMENTS
+C1 Nagoya City Univ, Computat Ctr, Nagoya, Aichi 4678501, Japan.
+   Muroran Inst Technol, Dept Appl Chem, Muroran, Hokkaido 0508585, Japan.
+   Nagoya City Univ, Inst Nat Sci, Nagoya, Aichi 4678501, Japan.
+   Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Tatewaki, H (reprint author), Nagoya City Univ, Computat Ctr, Nagoya, Aichi 4678501, Japan.
+CR Dyall KG, 1998, THEOR CHEM ACC, V99, P366, DOI 10.1007/s002140050349
+   Faegri K, 2001, THEOR CHEM ACC, V105, P252, DOI 10.1007/s002140000209
+   Koga T, 2001, J CHEM PHYS, V115, P3561, DOI 10.1063/1.1373426
+   Koga T, 2002, J CHEM PHYS, V117, P7813, DOI 10.1063/1.1508772
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   Tatewaki H, 2003, THEOR CHEM ACC, V109, P40, DOI 10.1007/s00214-002-0412-4
+   TATEWAKI H, UNPUB
+   Visscher L, 1997, ATOM DATA NUCL DATA, V67, P207, DOI 10.1006/adnd.1997.0751
+NR 8
+TC 23
+Z9 23
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JUL 8
+PY 2003
+VL 119
+IS 2
+BP 1279
+EP 1280
+DI 10.1063/1.1570814
+PG 2
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 695QV
+UT WOS:000183842500069
+ER
+
+PT J
+AU Matsuoka, O
+AF Matsuoka, O
+TI A simple calculation of Talmi coefficients of Laguerre Gaussians
+SO MOLECULAR PHYSICS
+LA English
+DT Article
+ID MOLECULAR INTEGRALS; ELECTRON; ORBITALS
+AB A simple method is presented for calculating Talmi coefficients of Laguerre Gaussians by using those of Hermite Gaussians as intermediates. This method does not require the angular momentum algebra of 3 j and 9 j symbols needed in the usual methods.
+C1 Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+CR ARAKANE F, 1998, INT J QUANTUM CHEM, V66, P237
+   BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   Chiu LYC, 1998, J CHEM PHYS, V108, P5230, DOI 10.1063/1.475960
+   Condon E.U., 1951, THEORY ATOMIC SPECTR
+   Dunlap BI, 2001, INT J QUANTUM CHEM, V81, P373, DOI 10.1002/1097-461X(2001)81:6<373::AID-QUA1007>3.3.CO;2-V
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   FUJIMURA N, 1992, INT J QUANTUM CHEM, V42, P751, DOI 10.1002/qua.560420415
+   Ishida K, 1998, J CHEM PHYS, V109, P881, DOI 10.1063/1.476628
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1992, CAN J CHEM, V70, P388, DOI 10.1139/v92-055
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4364, DOI 10.1063/1.457744
+   Matsuoka O, 1998, J CHEM PHYS, V108, P1063, DOI 10.1063/1.475468
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P544, DOI 10.1016/0009-2614(89)87470-6
+   MCMURCHIE LE, 1978, J COMPUT PHYS, V26, P218, DOI 10.1016/0021-9991(78)90092-X
+   MOSHINSKY M, 1959, NUCL PHYS, V13, P104, DOI 10.1016/0029-5582(59)90143-9
+   NIUKKANEN AW, 1980, CHEM PHYS LETT, V69, P174, DOI 10.1016/0009-2614(80)80038-8
+   O-Ohata K., 1966, Journal of Mathematical Physics, V7, DOI 10.1063/1.1704965
+   SMIRNOV YF, 1961, NUCL PHYS, V27, P177, DOI 10.1016/0029-5582(61)90343-1
+   TAKETA H, 1966, J PHYS SOC JPN, V21, P2313, DOI 10.1143/JPSJ.21.2313
+   TALMI I, 1952, HELV PHYS ACTA, V25, P185
+   ZIVKOVIC T, 1968, J CHEM PHYS, V49, P3083
+NR 21
+TC 2
+Z9 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0026-8976
+J9 MOL PHYS
+JI Mol. Phys.
+PY 2003
+VL 101
+IS 1-2
+BP 33
+EP 36
+DI 10.1080/00268970210158704
+PG 4
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 633QC
+UT WOS:000180293100003
+ER
+
+PT J
+AU Watanabe, Y
+   Matsuoka, O
+AF Watanabe, Y
+   Matsuoka, O
+TI Four-component relativistic configuration-interaction calculation using
+   the reduced frozen-core approximation
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MODEL POTENTIAL METHOD; MOLECULAR CALCULATIONS; ELEMENTS; MATRIX; SETS;
+   AUH
+AB The reduced frozen-core approximation (RFCA) is a kind of frozen-core approximation (FCA). In our previous study [J. Chem. Phys. 109, 8182 (1998)], we found that Dirac-Fock-Roothaan calculations using RFCA had some desirable features compared to the all-electron and usual FCA calculations. In this study, in addition to these features, we found that they also describe well unoccupied as well as occupied orbitals. We developed a fully relativistic multireference configuration-interaction (CI) program that incorporates these features of RFCA, and report CI calculations for ThO and AuH. The calculated spectroscopic constants agree well with experimental values. (C) 2002 American Institute of Physics.
+C1 Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Watanabe, Y (reprint author), Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+CR BONIFACI.V, 1974, J CHEM PHYS, V60, P2779, DOI 10.1063/1.1681443
+   Condon EU, 1930, PHYS REV, V36, P1121, DOI 10.1103/PhysRev.36.1121
+   DAVIDSON ER, 1975, J COMPUT PHYS, V17, P87, DOI 10.1016/0021-9991(75)90065-0
+   DYALL KG, 1994, J CHEM PHYS, V100, P2118, DOI 10.1063/1.466508
+   ESSER M, 1984, INT J QUANTUM CHEM, V26, P313, DOI 10.1002/qua.560260303
+   Huber K. P., 1979, CONSTANTS DIATOMIC M
+   HUZINAGA S, 1987, J CHEM PHYS, V86, P2132, DOI 10.1063/1.452111
+   KOSUGI N, 1984, J COMPUT PHYS, V55, P426, DOI 10.1016/0021-9991(84)90031-7
+   KUCHLE W, 1994, J CHEM PHYS, V100, P7535
+   LIU B, 1981, J CHEM PHYS, V74, P612, DOI 10.1063/1.440817
+   MATSUOKA O, 1992, J CHEM PHYS, V96, P6773, DOI 10.1063/1.462565
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   PYYKKO P, 1986, RELATIVISTIC THEORY, V1
+   PYYKKO P, 1993, RELATIVISTIC THEORY, V2
+   Pyykko P., 2000, RELATIVISTIC THEORY, VIII
+   ROOS B, 1972, CHEM PHYS LETT, V15, P153, DOI 10.1016/0009-2614(72)80140-4
+   SAKAI Y, 1982, J CHEM PHYS, V76, P2537, DOI 10.1063/1.443285
+   Schwerdtfeger P, 2000, J CHEM PHYS, V113, P7110, DOI 10.1063/1.1313556
+   SHAVITT I, 1978, INT J QUANTUM CHEM, V12, P5
+   Slater JC, 1929, PHYS REV, V34, P1293, DOI 10.1103/PhysRev.34.1293
+   Szabo A, 1989, MODERN QUANTUM CHEM
+   VISSCHER L, 1994, COMPUT PHYS COMMUN, V81, P120, DOI 10.1016/0010-4655(94)90115-5
+   WATANABE Y, 2002, THESIS KYUSHU U
+   Watanabe Y, 1998, J CHEM PHYS, V109, P8182, DOI 10.1063/1.477480
+   Witek HA, 2000, J CHEM PHYS, V113, P8015, DOI 10.1063/1.1308554
+   YOSHIMINE M, RJ555 IBM RES LAB
+NR 26
+TC 15
+Z9 15
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JUN 8
+PY 2002
+VL 116
+IS 22
+BP 9585
+EP 9590
+DI 10.1063/1.1476694
+PG 6
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 554PL
+UT WOS:000175744600005
+ER
+
+PT J
+AU Miyamae, T
+   Tsukagoshi, K
+   Matsuoka, O
+   Yamamoto, S
+   Nozoye, H
+AF Miyamae, T
+   Tsukagoshi, K
+   Matsuoka, O
+   Yamamoto, S
+   Nozoye, H
+TI Preparation of polyimide-polyamide random copolymer thin film by
+   sequential vapor deposition polymerization
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE thin film; vapor deposition polymerization; polyimide; polyamide; random
+   copolymer
+ID IMIDES); ACID
+AB A new method for preparing aromatic polyamide-polyimide random copolymer films has been developed. Oxydianiline, pyromellitic dianhydride, and terephthaloyl chloride were evaporated separately from thermostatically controlled pulse molecular evaporation sources, which were actuated by solenoid valves, producing a polyimide-polyamide film after curing treatment. By selecting the appropriate combination of monomers, other copolymer films could be obtained through the sequential vacuum deposition polymerization process.
+C1 Natl Inst Adv Ind Sci & Technol, AIST, Nanotechnol Res Inst, Tsukuba, Ibaraki 3058565, Japan.
+   Mitsui Chem Inc, Sodegaura, Chiba 2990265, Japan.
+RP Nozoye, H (reprint author), Natl Inst Adv Ind Sci & Technol, AIST, Nanotechnol Res Inst, 1-1-1 Higashi, Tsukuba, Ibaraki 3058565, Japan.
+RI Miyamae, Takayuki/A-7811-2012
+OI Miyamae, Takayuki/0000-0001-6543-5820
+CR KRICHELDORF HR, 1988, MACROMOLECULES, V21, P551, DOI 10.1021/ma00181a002
+   Kubono A, 1996, THIN SOLID FILMS, V289, P107, DOI 10.1016/S0040-6090(96)08913-4
+   Langsam M, 2000, J POLYM SCI POL CHEM, V38, P1951, DOI 10.1002/(SICI)1099-0518(20000601)38:11<1951::AID-POLA40>3.0.CO;2-C
+   LI CH, 1995, J APPL POLYM SCI, V56, P1661, DOI 10.1002/app.1995.070561217
+   SALEM JR, 1986, J VAC SCI TECHNOL A, V4, P369, DOI 10.1116/1.573930
+   SUN SJ, 1994, J POLYM SCI POL CHEM, V32, P3039, DOI 10.1002/pola.1994.080321605
+   TAKAHASHI Y, 1991, MACROMOLECULES, V24, P3543, DOI 10.1021/ma00012a013
+   TAKAHASHI Y, 1989, JPN J APPL PHYS 2, V28, pL2245
+   Yang CP, 1999, POLYMER, V40, P1025, DOI 10.1016/S0032-3861(98)00314-0
+NR 9
+TC 7
+Z9 8
+PU INST PURE APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG, 4-24-8 SHINBASHI, MINATO-KU TOKYO, 105-004, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD FEB
+PY 2002
+VL 41
+IS 2A
+BP 746
+EP 748
+DI 10.1143/JJAP.41.746
+PG 3
+WC Physics, Applied
+SC Physics
+GA 566WL
+UT WOS:000176451200058
+ER
+
+PT J
+AU Miyamae, T
+   Tsukagoshi, K
+   Matsuoka, O
+   Yamamoto, S
+   Nozoye, H
+AF Miyamae, T
+   Tsukagoshi, K
+   Matsuoka, O
+   Yamamoto, S
+   Nozoye, H
+TI Surface characterization of polyamic acid and polyimide films prepared
+   by vapor deposition polymerization by using sum-frequency generation
+SO LANGMUIR
+LA English
+DT Article
+ID VIBRATIONAL SPECTROSCOPY; PYROMELLITIC DIANHYDRIDE;
+   MOLECULAR-ORIENTATION; OXYDIANILINE; INTERFACE; SILVER; POLYPROPYLENE;
+   PT(111)
+AB The surface structures of polyamic acid and polyimide films made by vapor deposition polymerization (VDP) technique were investigated using infrared-visible sum-frequency generation (SFG). From the SFG spectra of VDP-made polyamic acid films, the polymer chains have a broad orientational distribution, and residual monomers are observed even for a sample that was kept in air for more than 3 months. The amidization reaction of surface residual monomers is quite slow at room temperature, and the reaction proceeds preferentially in the bulk film. In the early stage of curing, surface species become parallel to the surface plane. After the surface reorientation, the imidization reaction proceeds.
+C1 Natl Inst Adv Ind Sci & Technol, Nanotechnol Res Inst, Tsukuba, Ibaraki 3058565, Japan.
+   Mitsui Chem Inc, Sodegaura, Chiba 2990265, Japan.
+RP Nozoye, H (reprint author), Natl Inst Adv Ind Sci & Technol, Nanotechnol Res Inst, 1-1-1 Higashi, Tsukuba, Ibaraki 3058565, Japan.
+RI Miyamae, Takayuki/A-7811-2012
+OI Miyamae, Takayuki/0000-0001-6543-5820
+CR ASHTON MR, 1990, J ELECTRON SPECTROSC, V54, P1133, DOI 10.1016/0368-2048(90)80303-R
+   Domen K, 1997, APPL CATAL A-GEN, V160, P153, DOI 10.1016/S0926-860X(97)00133-6
+   Gracias DH, 1999, CHEM PHYS, V245, P277, DOI 10.1016/S0301-0104(99)00043-9
+   Grossman E, 1999, J SPACECRAFT ROCKETS, V36, P75, DOI 10.2514/2.3435
+   GRUNZE M, 1994, J ADHESION, V45, P227, DOI 10.1080/00218469408026640
+   GRUNZE M, 1988, SURF SCI, V204, P183, DOI 10.1016/0039-6028(88)90276-2
+   HAHN C, 1994, J PHYS CHEM-US, V98, P3851, DOI 10.1021/j100065a048
+   HAHN C, 1990, J ELECTRON SPECTROSC, V54, P1123, DOI 10.1016/0368-2048(90)80302-Q
+   IIDA K, 1989, JPN J APPL PHYS 1, V28, P2552, DOI 10.1143/JJAP.28.2552
+   IIJIMA M, 1991, J PHOTOPOLYM SCI TEC, V5, P351
+   IMAI F, 1995, J VAC SCI TECHNOL A, V13, P2508, DOI 10.1116/1.579495
+   ITO Y, 1990, JPN J APPL PHYS 1, V29, P1128, DOI 10.1143/JJAP.29.1128
+   JOHNSON C, 1993, J POLYM SCI POL PHYS, V31, P677, DOI 10.1002/polb.1993.090310608
+   JORDANSWEET JL, 1988, J CHEM PHYS, V89, P2482, DOI 10.1063/1.455042
+   KAZARYAN LG, 1972, VYSOKOMOL SOEDIN A, V14, P1199
+   Kim D, 1999, APPL PHYS LETT, V74, P3314, DOI 10.1063/1.123329
+   MACK RG, 1989, J POLYM SCI POL LETT, V27, P25, DOI 10.1002/pol.1989.140270105
+   MACK RG, 1990, J VAC SCI TECHNOL A, V8, P3827, DOI 10.1116/1.576456
+   MATIJASEVIC V, 1990, REV SCI INSTRUM, V61, P1747, DOI 10.1063/1.1141145
+   NAKAMURA Y, 1996, THIN SOLID FILMS, V291, P367
+   Oh-e M, 2000, J PHYS CHEM B, V104, P7455, DOI 10.1021/jp0011138
+   Plank RV, 1996, J VAC SCI TECHNOL A, V14, P3174, DOI 10.1116/1.580209
+   SAKAKIBARA Y, 1993, JPN J APPL PHYS 2, V32, pL332, DOI 10.1143/JJAP.32.L332
+   SAKAKIBARA Y, 1993, JPN J APPL PHYS 2, V32, pL1688
+   Sakamoto K, 1996, J APPL PHYS, V80, P431, DOI 10.1063/1.362744
+   SALEM JR, 1986, J VAC SCI TECHNOL A, V4, P369, DOI 10.1116/1.573930
+   SHEN YR, 1989, ANNU REV PHYS CHEM, V40, P327, DOI 10.1146/annurev.physchem.40.1.327
+   Shen Y.R., 1984, PRINCIPLE NONLINEAR
+   SUPERFINE R, 1991, PHYS REV LETT, V66, P1066, DOI 10.1103/PhysRevLett.66.1066
+   TAKAHASHI Y, 1987, J VAC SCI TECHNOL A, V5, P2253, DOI 10.1116/1.574429
+   TOBIN MC, 1957, J PHYS CHEM-US, V61, P1392, DOI 10.1021/j150556a030
+   WEI X, 2000, THESIS U CALIFORNIA
+   Wei X, 1999, PHYS REV LETT, V82, P4256, DOI 10.1103/PhysRevLett.82.4256
+   YOUNG JT, 1992, MACROMOLECULES, V25, P887, DOI 10.1021/ma00028a059
+   Zhang D, 1997, J PHYS CHEM B, V101, P9060, DOI 10.1021/jp9718358
+   Zhang D, 1997, CHEM PHYS LETT, V281, P394, DOI 10.1016/S0009-2614(97)01311-0
+NR 36
+TC 18
+Z9 18
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0743-7463
+J9 LANGMUIR
+JI Langmuir
+PD DEC 25
+PY 2001
+VL 17
+IS 26
+BP 8125
+EP 8130
+DI 10.1021/la0106135
+PG 6
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Materials Science,
+   Multidisciplinary
+SC Chemistry; Materials Science
+GA 506EE
+UT WOS:000172956200028
+ER
+
+PT J
+AU Ono, SS
+   Matsuoka, O
+   Yamamoto, S
+AF Ono, SS
+   Matsuoka, O
+   Yamamoto, S
+TI Surface structures of zeolites studied by atomic force microscopy
+SO MICROPOROUS AND MESOPOROUS MATERIALS
+LA English
+DT Article; Proceedings Paper
+CT International Symposium on Zeolite and Microporous Crystals 2000 (ZMPC
+   2000)
+CY AUG 06-09, 2000
+CL SENDAI, JAPAN
+SP Japanese Zeolite Assoc
+DE atomic force microscopy; zeolite; pore; dissolution; crystal growth
+ID DISSOLUTION; CRYSTALS; FAU; EMT
+AB Surface structures of three zeolites, mordenite (MOR), heulandite (HEU), and Linde Type A (LTA), were investigated by using atomic force microscopy (AFM). The arrangement of 12-membered rings on the (0 0 1) surface of MOR was observed for the first time. Direct imaging of the morphological changes in the dissolving surface of HEU in an acidic or alkaline aqueous solution revealed that the aluminosilicate layers of HEU dissolved from terraces by a layer-by-layer process. This unique dissolution process is due to the characteristic pore structure of HEU. The AFM imaging of the (1 0 0) surface of LTA revealed that double four-rings (D4Rs) are stable units in the crystal growth of LTA and that each terrace has different structure depending on where the bulk structure terminates. This study demonstrates the potential use of AFM to provide information at the atomic level about the zeolite's surface structure vital to the further development of this important class of materials in the field of catalysis. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Mitsubishi Chem Inc, Mat Sci Lab, Synthet Control Grp, Sodegaura, Chiba 2990265, Japan.
+RP Ono, SS (reprint author), Mitsubishi Chem Inc, Mat Sci Lab, Synthet Control Grp, 580-32 Nagaura, Sodegaura, Chiba 2990265, Japan.
+CR Agger JR, 1998, J AM CHEM SOC, V120, P10754, DOI 10.1021/ja981665s
+   ALFREDSSON V, 1993, ANGEW CHEM INT EDIT, V32, P1210, DOI 10.1002/anie.199312101
+   ANDERSON MW, 1998, P 12 INT ZEOL C MAT, V3, P1487
+   Anderson MW, 1996, ANGEW CHEM INT EDIT, V35, P1210, DOI 10.1002/anie.199612101
+   CASY WH, 1988, GEOCHEM COSMOCHEM AC, V53, P2785
+   CSICSERY SM, 1984, ZEOLITES, V4, P202, DOI 10.1016/0144-2449(84)90024-1
+   DELANNAY F, 1985, ZEOLITES, V5, P69, DOI 10.1016/0144-2449(85)90075-2
+   GRATZ AJ, 1991, SCIENCE, V251, P1343, DOI 10.1126/science.251.4999.1343
+   MARTENS JA, 1995, ANGEW CHEM INT EDIT, V34, P2528, DOI 10.1002/anie.199525281
+   MERKLE AB, 1968, AM MINERAL, V53, P1120
+   OCCELLI ML, 1994, CHEMTECH         MAY
+   OHSUNA T, 1994, CHEM MATER, V6, P2201, DOI 10.1021/cm00048a001
+   RAGNARSDOTTIR KV, 1993, GEOCHIM COSMOCHIM AC, V57, P2439, DOI 10.1016/0016-7037(93)90408-O
+   SCANDELLA L, 1993, SURF SCI, V281, pL331, DOI 10.1016/0039-6028(93)90631-S
+   SHARP TG, 1993, SURF SCI, V284, pL405, DOI 10.1016/0039-6028(93)90516-M
+   Sugiyama S, 1997, SURF SCI, V377, P140, DOI 10.1016/S0039-6028(96)01346-5
+   Sugiyama S, 1999, MICROPOR MESOPOR MAT, V28, P1, DOI 10.1016/S1387-1811(98)00271-6
+   SUN Y, 1995, ZEOLITES, V15, P745, DOI 10.1016/0144-2449(95)00075-H
+   WEISENHORN AL, 1989, APPL PHYS LETT, V54, P2651, DOI 10.1063/1.101024
+   Yamamoto S, 1996, J PHYS CHEM-US, V100, P18474, DOI 10.1021/jp961583v
+NR 20
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1387-1811
+J9 MICROPOR MESOPOR MAT
+JI Microporous Mesoporous Mat.
+PD NOV 1
+PY 2001
+VL 48
+IS 1-3
+SI SI
+BP 103
+EP 110
+DI 10.1016/S1387-1811(01)00365-1
+PG 8
+WC Chemistry, Applied; Chemistry, Physical; Nanoscience & Nanotechnology;
+   Materials Science, Multidisciplinary
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA 487ZC
+UT WOS:000171908700014
+ER
+
+PT J
+AU Matsuoka, O
+   Watanabe, Y
+AF Matsuoka, O
+   Watanabe, Y
+TI An atomic Dirac-Fock-Roothaan program
+SO COMPUTER PHYSICS COMMUNICATIONS
+LA English
+DT Article
+DE atomic; Dirac-Fock-Roothaan method; Gaussian-type functions; average
+   energy of configurations; relativistic effect
+ID GAUSSIAN-BASIS SETS; INTEGRALS; PACKAGE
+AB An atomic Dirac-Fock-Roothaan program is described for generalized average energy of configurations using Gaussian-type basis functions. It can treat three kinds of atomic nuclear models of point charge, uniformly charged sphere, and Gaussian proton-charge distribution. It runs within first memories or uses disk file for intermediate storage of two-electron integrals so that any calculations using basis sets of very large sizes can be performed. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   HUZINAGA S, 1965, J CHEM PHYS, V42, P1293, DOI 10.1063/1.1696113
+   Huzinaga S., 1984, GAUSSIAN BASIS SETS
+   Huzinaga S, 1988, J MOL STRUCT THEOCHE, V167, P1, DOI 10.1016/0166-1280(88)87042-8
+   HUZINAGA S, 1983, COMPUT PHYS COMMUN, V30, P311, DOI 10.1016/0010-4655(83)90098-X
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, UNPUB
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P362, DOI 10.1016/0009-2614(87)80747-9
+   MATSUOKA O, UNPUB THEOR CHEM ACC
+   MCMURCHIE LE, 1978, J COMPUT PHYS, V26, P218, DOI 10.1016/0021-9991(78)90092-X
+   MINAMI T, 1995, THEOR CHIM ACTA, V90, P27, DOI 10.1007/BF01119780
+   Mohr PJ, 2000, REV MOD PHYS, V72, P351, DOI 10.1103/RevModPhys.72.351
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   Parpia FA, 1996, COMPUT PHYS COMMUN, V94, P249, DOI 10.1016/0010-4655(95)00136-0
+   Slater J. C., 1960, QUANTUM THEORY ATOMI
+   Slater J. C., 1960, QUANTUM THEORY ATOMI, VI
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   VISSCHER L, 1994, COMPUT PHYS COMMUN, V81, P120, DOI 10.1016/0010-4655(94)90115-5
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+   WATANABE Y, 1995, B CHEM SOC JPN, V68, P1915, DOI 10.1246/bcsj.68.1915
+NR 23
+TC 20
+Z9 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0010-4655
+J9 COMPUT PHYS COMMUN
+JI Comput. Phys. Commun.
+PD SEP 15
+PY 2001
+VL 139
+IS 2
+BP 218
+EP 234
+DI 10.1016/S0010-4655(01)00198-9
+PG 17
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA 471ZH
+UT WOS:000170958200005
+ER
+
+PT J
+AU Koga, T
+   Tatewaki, H
+   Matsuoka, O
+AF Koga, T
+   Tatewaki, H
+   Matsuoka, O
+TI Relativistic Gaussian basis sets for molecular calculations: H-Xe
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID QUANTUM-CHEMISTRY; FOCK CALCULATIONS; WAVE-FUNCTIONS; ATOMS; VALENCE;
+   HELIUM; SCF; 4P
+AB Relativistic Gaussian basis sets suitable for molecular calculations are presented for the 54 atoms H through Xe. The basis sizes are rather compact and the same as the corresponding nonrelativistic basis sets reported by Koga The exponent parameters of the Gaussian basis functions have been fully optimized separately for the l(-) and l(+) symmetry species. The maximum truncation error in the total energies is 2.9 mhartree, and the virial deviation from -1 is less than 2.1x10(-7). Test calculations are carried out on the Cu-2 molecule. (C) 2001 American Institute of Physics.
+C1 Muroran Inst Technol, Dept Appl Chem, Muroran, Hokkaido 0508585, Japan.
+   Nagoya City Univ, Computat Ctr, Nagoya, Aichi 4678501, Japan.
+   Nagoya City Univ, Inst Nat Sci, Nagoya, Aichi 4678501, Japan.
+   Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Koga, T (reprint author), Muroran Inst Technol, Dept Appl Chem, Muroran, Hokkaido 0508585, Japan.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   DYALL KG, 1994, CHEM PHYS LETT, V224, P186, DOI 10.1016/0009-2614(94)00488-9
+   Dyall KG, 1998, THEOR CHEM ACC, V99, P366, DOI 10.1007/s002140050349
+   DYALL KG, 1991, J CHEM PHYS, V95, P2583, DOI 10.1063/1.460911
+   Grant IP, 2000, INT J QUANTUM CHEM, V80, P283, DOI 10.1002/1097-461X(2000)80:3<283::AID-QUA2>3.3.CO;2-C
+   HUBER KP, 1979, MOL SPECTRA MOL STRU, V4, P198
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   Huzinaga S, 1988, J MOL STRUCT THEOCHE, V167, P1, DOI 10.1016/0166-1280(88)87042-8
+   JOHNSON WR, 1985, ATOM DATA NUCL DATA, V33, P405, DOI 10.1016/0092-640X(85)90010-5
+   Jorge FE, 1996, J CHEM PHYS, V105, P5503, DOI 10.1063/1.472390
+   Jorge FE, 1996, J CHEM PHYS, V104, P6278, DOI 10.1063/1.471288
+   Jorge F.E., 1997, THEOCHEM, V394
+   Koga T, 1999, THEOR CHEM ACC, V102, P105, DOI 10.1007/s002140050479
+   Koga T, 2000, CHEM PHYS LETT, V328, P473, DOI 10.1016/S0009-2614(00)00948-9
+   Kuester J. L., 1973, OPTIMIZATION TECHNIQ, P331
+   LANGHOFF SR, 1986, J CHEM PHYS, V85, P7211, DOI 10.1063/1.451357
+   LIDE DR, 1999, HDB CHEM PHYSICS
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, IN PRESS COMPUT PHYS
+   MATSUOKA O, IN PRESS THEOR CHEM
+   MCLEAN AD, 1991, MOTECC
+   MINAMI T, 1995, THEOR CHIM ACTA, V90, P27, DOI 10.1007/BF01119780
+   MOHANTY AK, 1990, J CHEM PHYS, V93, P1829, DOI 10.1063/1.459110
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   PISANI L, 1994, J COMPUT CHEM, V15, P466, DOI 10.1002/jcc.540150410
+   POWELL MJD, 1964, COMPUT J, V7, P155, DOI 10.1093/comjnl/7.2.155
+   Quiney HM, 1999, ADV QUANTUM CHEM, V32, P1
+   RAFFENET.RC, 1973, J CHEM PHYS, V58, P4452, DOI 10.1063/1.1679007
+   Saue T, 1997, MOL PHYS, V91, P937, DOI 10.1080/002689797171058
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   TATEWAKI H, 1986, J CHEM PHYS, V85, P5895, DOI 10.1063/1.451552
+   Tatewaki H, 2000, THEOR CHEM ACC, V105, P55, DOI 10.1007/s002140000182
+   VISSCHER L, 1994, COMPUT PHYS COMMUN, V81, P120, DOI 10.1016/0010-4655(94)90115-5
+   Visscher L, 1997, ATOM DATA NUCL DATA, V67, P207, DOI 10.1006/adnd.1997.0751
+   VISSER O, 1992, J CHEM PHYS, V96, P2910, DOI 10.1063/1.461987
+   WACHTERS AJ, 1970, J CHEM PHYS, V52, P1033, DOI 10.1063/1.1673095
+   WATANABE Y, 1999, C MOL STRUCT OS
+   YANAI T, 2000, C THEOR CHEM TOK
+   *EPAPS, EJCPSA6114302124 EPA
+NR 41
+TC 41
+Z9 41
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD AUG 22
+PY 2001
+VL 115
+IS 8
+BP 3561
+EP 3565
+DI 10.1063/1.1373426
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 462AP
+UT WOS:000170396300015
+ER
+
+PT J
+AU Ono, SS
+   Yamamoto, S
+   Yao, H
+   Matsuoka, O
+   Kitamura, N
+AF Ono, SS
+   Yamamoto, S
+   Yao, H
+   Matsuoka, O
+   Kitamura, N
+TI Morphological control of the supramolecular pseudoisocyanine
+   J-aggregates by the functions of a mica/solution interface
+SO APPLIED SURFACE SCIENCE
+LA English
+DT Article
+DE atomic force microscopy; surface structure; adsorption; solid-fluid
+   interfaces; epitaxy; growth; self-assembly
+ID DYE; AFM; MICROSCOPY; FIBERS; WATER
+AB The effect of a mica/solution interface on the formation of supramolecular pseudoisocyanine chloride (PIC-Cl) J-aggregates was investigated by AFM observing the morphology and alignment of the J-aggregates relative to a mica surface upon applying a PIC-Cl solution onto a mica surface. When a PIC-Cl solution was placed directly on freshly cleaved mica (Method 1), the resulting J-aggregates formed leaf-like islands that are anisotropically oriented with respect to the lattice of a mica substrate. These anisotropic alignment might results from the epitaxial interaction between the positively charged N atoms of the molecules and the regularly aligned negative holes left by the dissociating K+ ions during the nucleation process. Based on their epitaxial interactions, the supramolecular structure of the J-aggregate has been proposed that the long axis of PIC-Cl molecules is parallel to the long axis of the island. In contrast, when a PIC-Cl solution was poured onto an aliquot of pure water already present on the mica surface (Method 2), the J-aggregates formed streaks of needle-like islands that were oriented in only one direction which corresponded well to the stream of the poured PIC-Cl solution. Based on these results, possible aggregation mechanisms were proposed where the stream of the solution is participating. It is revealed for the first time that both the morphology and alignment of the J-aggregate islands relative to a mica surface can be controlled by how the PIC-Cl solution is applied onto the mica surface. (C) 2001 Published by Elsevier Science B.V.
+C1 Mitsui Chem Inc, Mat Sci Lab, Sodegaura, Chiba 2990265, Japan.
+   Himeji Inst Technol, Dept Mat Sci, Fac Sci, Kamigori, Hyogo 6781297, Japan.
+   Hokkaido Univ, Div Chem, Grad Sch Sci, Kita Ku, Sapporo, Hokkaido 0600810, Japan.
+RP Ono, SS (reprint author), Mitsui Chem Inc, Mat Sci Lab, 580-32 Nagaura, Sodegaura, Chiba 2990265, Japan.
+RI Kitamura, Noboru/A-3400-2012
+CR Czikkely V., 1970, Chemical Physics Letters, V6, DOI 10.1016/0009-2614(70)80062-8
+   Daehne L, 1998, LANGMUIR, V14, P565, DOI 10.1021/la9707989
+   DALTROZZ.E, 1974, PHOTOGR SCI ENG, V18, P441
+   DAMMEIER V, 1971, ACTA CRYSTALLOGR B, V27, P2365
+   DEBOER S, 1987, CHEM PHYS LETT, V137, P99, DOI 10.1016/0009-2614(87)80312-3
+   DRAKE B, 1989, SCIENCE, V243, P1586, DOI 10.1126/science.2928794
+   Higgins DA, 1996, J AM CHEM SOC, V118, P4049, DOI 10.1021/ja960105v
+   Itaya K, 1998, PROG SURF SCI, V58, P121, DOI 10.1016/S0079-6816(98)00022-7
+   Jelley E. E., 1937, NATURE, V139, P631, DOI 10.1038/139631b0
+   Jelley EE, 1936, NATURE, V138, P1009, DOI 10.1038/1381009a0
+   KOBAYASHI T, 1996, H AGGREGATES
+   MARCHETTI AP, 1976, J CHEM PHYS, V64, P4693, DOI 10.1063/1.432055
+   Ono SS, 1999, J PHYS CHEM B, V103, P6909, DOI 10.1021/jp990735u
+   Renge I, 1997, J PHYS CHEM A, V101, P7977, DOI 10.1021/jp971371d
+   Roberts G. G., 1990, LANGMUIR BLODGETT FI
+   SAGIV J, 1980, J AM CHEM SOC, V102, P92, DOI 10.1021/ja00521a016
+   Saijo H, 1996, J CRYST GROWTH, V166, P930, DOI 10.1016/0022-0248(95)00502-1
+   Scheibe G., 1936, ANGEW CHEM, V49, P563
+   Scheibe G, 1937, ANGEW CHEM-GER EDIT, V50, P0212, DOI 10.1002/ange.19370501103
+   Scheibe G, 1939, ANGEW CHEM-GER EDIT, V52, P631, DOI 10.1002/ange.19390524202
+   SCHEIBE G, 1937, NATURWISSENSCHAFTEN, V25, P795
+   Scheibe G, 1938, NATURWISSENSCHAFTEN, V26, P412
+   SCHEIBE G, 1939, NATURWISSENSCHAFTEN, V29, P499
+   Scheibe G., 1966, OPTISCHE ANREGUNGEN, P109
+   SCHERER POJ, 1984, CHEM PHYS, V86, P269, DOI 10.1016/0301-0104(84)80015-4
+   Schmid G, 2000, ANGEW CHEM INT EDIT, V39, P181, DOI 10.1002/(SICI)1521-3773(20000103)39:1<181::AID-ANIE181>3.0.CO;2-J
+   SCHMIDT H, 1990, J VAC SCI TECHNOL A, V8, P388, DOI 10.1116/1.576402
+   SPANO FC, 1989, PHYS REV A, V40, P5783, DOI 10.1103/PhysRevA.40.5783
+   Sugiyama S, 1999, CHEM LETT, P37
+   Ulman A., 1991, INTRO ULTRATHIN ORGA
+   von Berlepsch H, 2000, J PHYS CHEM B, V104, P5255, DOI 10.1021/jp000220z
+   WOLTHAUS L, 1994, CHEM PHYS LETT, V225, P322, DOI 10.1016/0009-2614(94)87088-8
+   Yao H, 1998, J PHYS CHEM B, V102, P7691, DOI 10.1021/jp982830t
+   Yao H, 1999, J PHYS CHEM B, V103, P4452, DOI 10.1021/jp990127e
+NR 34
+TC 6
+Z9 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-4332
+J9 APPL SURF SCI
+JI Appl. Surf. Sci.
+PD JUN 8
+PY 2001
+VL 177
+IS 3
+BP 189
+EP 196
+DI 10.1016/S0169-4332(01)00234-3
+PG 8
+WC Chemistry, Physical; Materials Science, Coatings & Films; Physics,
+   Applied; Physics, Condensed Matter
+SC Chemistry; Materials Science; Physics
+GA 439DR
+UT WOS:000169096000007
+ER
+
+PT J
+AU Matsuoka, O
+   Koga, T
+AF Matsuoka, O
+   Koga, T
+TI Relativistic virial theorem for atoms
+SO THEORETICAL CHEMISTRY ACCOUNTS
+LA English
+DT Article
+DE virial theorem; relativistic; atom; nucleus model
+ID NUCLEAR-CHARGE DISTRIBUTIONS
+AB A relativistic virial theorem is derived for atoms in a general manner. The virial ratio consists of the usual V/T term and a correction term W/T, where T, V and W are the kinetic energy, the potential energy. and correction terms, respectively. Explicit forms of W are presented for four specific nuclear potential models. Numerical calculations for a uniform nuclear charge model show that the magnitude of the correction term W/T increases with the increasing atomic numbers and that it modifies the ratio V/T considerably for atoms with large atomic numbers in particular.
+C1 Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+   Muroran Inst Technol, Dept Appl Chem, Muroran, Hokkaido 0508585, Japan.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Ropponmatsu, Fukuoka 8108560, Japan.
+CR Grant I.P., 1970, Advances in Physics, V19, DOI 10.1080/00018737000101191
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   Koga T, 2000, CHEM PHYS LETT, V328, P473, DOI 10.1016/S0009-2614(00)00948-9
+   KORN GA, 1968, MATH HDB SCI ENG, P99
+   Levine I. N., 1991, QUANTUM CHEM
+   LOWDIN PO, 1959, ADV CHEM PHYS, V2, P207
+   MOHANTY A, 1990, MODERN TECHNIQUES CO, P178
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   ROSE ME, 1952, PHYS REV, V86, P432, DOI 10.1103/PhysRev.86.432.2
+   Visscher L, 1997, ATOM DATA NUCL DATA, V67, P207, DOI 10.1006/adnd.1997.0751
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+NR 11
+TC 2
+Z9 2
+PU SPRINGER-VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010 USA
+SN 1432-881X
+J9 THEOR CHEM ACC
+JI Theor. Chem. Acc.
+PD MAY
+PY 2001
+VL 105
+IS 6
+BP 473
+EP 476
+DI 10.1007/s002140000257
+PG 4
+WC Chemistry, Physical
+SC Chemistry
+GA 433ZA
+UT WOS:000168789600010
+ER
+
+PT J
+AU Matsuoka, O
+   Matsufuji, T
+   Sano, T
+AF Matsuoka, O
+   Matsufuji, T
+   Sano, T
+TI Direct calculation of the one-electron density matrix for closed-shell
+   systems
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID SELF-CONSISTENT-FIELD; MINIMIZATION; PRINCIPLES; ALGORITHM; ORBITALS;
+   SOLIDS
+AB It has been found that independent parameters in the variation of a one-electron density matrix (DM) for closed-shell systems are elements of its unitary transformed matrix and, in a special case, reduce to the rotation parameters that connect the occupied and virtual orbital spaces in the exponential transformed self-consistent field method. To obtain the unitary matrix of transformation, a simpler method of orthogonalizing the column vectors of the DM has been proposed instead of its diagonalization. An iterative method has been formulated to determine these independent parameters. Several test calculations using this method reproduced the results using the Hartree-Fock-Roothaan method. (C) 2000 American Institute of Physics. [S0021- 9606(00)31437-4].
+C1 Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+   Univ Electrocommun, Dept Phys, Tokyo 1828585, Japan.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+CR Challacombe M, 1999, J CHEM PHYS, V110, P2332, DOI 10.1063/1.477969
+   Cho S., 1962, SCI REP GUMMA U, V11, P1
+   CLAXTON T, 1971, THEOR CHIM ACTA, V22, P339
+   CLINTON WL, 1969, PHYS REV, V177, P7, DOI 10.1103/PhysRev.177.7
+   COHEN L, 1976, J CHEM PHYS, V65, P4234, DOI 10.1063/1.432831
+   DAW MS, 1993, PHYS REV B, V47, P10895, DOI 10.1103/PhysRevB.47.10895
+   DOUADY J, 1980, J CHEM PHYS, V72, P1452, DOI 10.1063/1.439369
+   FLETCHER R, 1970, MOL PHYS, V19, P55, DOI 10.1080/00268977000101001
+   FURUYA S, 1959, MATRICES DETERMINANT, P81
+   Hernandez E, 1996, PHYS REV B, V53, P7147, DOI 10.1103/PhysRevB.53.7147
+   IGAWA A, 1975, PROG THEOR PHYS, V54, P1266, DOI 10.1143/PTP.54.1266
+   Kari R., 1970, Chemical Physics Letters, V7, DOI 10.1016/0009-2614(70)80271-8
+   KIRTMAN B, 1981, J CHEM PHYS, V75, P4592, DOI 10.1063/1.442573
+   LENGSFIELD BH, 1980, J CHEM PHYS, V73, P382, DOI 10.1063/1.439885
+   LI XP, 1993, PHYS REV B, V47, P10891, DOI 10.1103/PhysRevB.47.10891
+   Liang WZ, 1999, J CHEM PHYS, V110, P1844, DOI 10.1063/1.477872
+   LOWDIN PO, 1950, J CHEM PHYS, V18, P365
+   MASSA L, 1995, INT J QUANTUM CHEM Q, V29, P371
+   MCWEENY R, 1956, PROC R SOC LON SER-A, V235, P496, DOI 10.1098/rspa.1956.0100
+   MCWEENY R, 1960, REV MOD PHYS, V32, P335, DOI 10.1103/RevModPhys.32.335
+   MESTECHKIN MM, 1980, INT J QUANTUM CHEM, V18, P19, DOI 10.1002/qua.560180105
+   Millam JM, 1997, J CHEM PHYS, V106, P5569, DOI 10.1063/1.473579
+   Mitin AV, 1996, CHEM PHYS LETT, V259, P151, DOI 10.1016/0009-2614(96)00713-0
+   NAKATSUJI H, 1976, PHYS REV A, V14, P41, DOI 10.1103/PhysRevA.14.41
+   PENG CY, 1993, J CHEM PHYS, V99, P7825, DOI 10.1063/1.465661
+   PIPEK J, 1985, INT J QUANTUM CHEM, V27, P527, DOI 10.1002/qua.560270503
+   POLEZZO S, 1975, THEOR CHIM ACTA, V38, P211, DOI 10.1007/BF01125899
+   Press W. H., 1994, NUMERICAL RECIPES FO
+   REDONDO A, 1989, J CHEM PHYS, V91, P5492, DOI 10.1063/1.457551
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   Scuseria GE, 1999, J PHYS CHEM A, V103, P4782, DOI 10.1021/jp990629s
+   SHEPARD R, 1982, J CHEM PHYS, V76, P543, DOI 10.1063/1.442701
+   Snyder L. C., 1972, MOL WAVE FUNCTIONS P
+   SUTCLIFF.BT, 1974, THEOR CHIM ACTA, V33, P201, DOI 10.1007/BF00551255
+   WAGGONER CA, 1993, J OPTIMIZ THEORY APP, V76, P225, DOI 10.1007/BF00939606
+   Yang WT, 1997, PHYS REV B, V56, P9294, DOI 10.1103/PhysRevB.56.9294
+NR 36
+TC 0
+Z9 0
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD OCT 1
+PY 2000
+VL 113
+IS 13
+BP 5179
+EP 5184
+DI 10.1063/1.1290015
+PG 6
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 354TC
+UT WOS:000089344900013
+ER
+
+PT J
+AU Ono, SS
+   Yao, H
+   Matsuoka, O
+   Kawabata, R
+   Kitamura, N
+   Yamamoto, S
+AF Ono, SS
+   Yao, H
+   Matsuoka, O
+   Kawabata, R
+   Kitamura, N
+   Yamamoto, S
+TI Anisotropic growth of J aggregates of pseudoisocyanine dye at a
+   mica/solution interface revealed by AFM and polarization absorption
+   measurements
+SO JOURNAL OF PHYSICAL CHEMISTRY B
+LA English
+DT Article
+ID ATOMIC FORCE MICROSCOPE; SURFACES; FIBERS
+AB We investigated the J-aggregation process of pseudoisocyanine chloride at a mica/solution interface by using tapping mode atomic force microscopy (TM-AFM) and polarization absorption measurements. At a mica/solution interface, pseudoisocyanine chlorides form J aggregates that have three-dimensional leaf-like island structures. The islands are anisotropically oriented with respect to the lattice of a mica substrate. This anisotropic alignment may result from the epitaxial interaction between the positively charged N atoms of the molecules and the regularly aligned negative holes left by the dissociating K+ ions. On the basis of both the orientation of islands to the lattice of a mica and the epitaxial interaction, we proposed that in the internal structure of the J aggregate, the long axis of the dye molecules is parallel to the long axis of the islands.
+C1 Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Kamakura, Kanagawa 2478567, Japan.
+   Hokkaido Univ, Grad Sch Sci, Div Chem, Sapporo, Hokkaido 0600810, Japan.
+RP Ono, SS (reprint author), Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, 1190 Kasama Cho, Kamakura, Kanagawa 2478567, Japan.
+RI Kitamura, Noboru/A-3400-2012
+CR Czikkely V., 1970, Chemical Physics Letters, V6, DOI 10.1016/0009-2614(70)80062-8
+   Daehne L, 1998, LANGMUIR, V14, P565, DOI 10.1021/la9707989
+   DAEHNE L, 1995, CHEM PHYS, V196, P307
+   DALTROZZ.E, 1974, PHOTOGR SCI ENG, V18, P441
+   DAMMEIER V, 1971, ACTA CRYSTALLOGR B, V27, P2365
+   DEBOER S, 1987, CHEM PHYS LETT, V137, P99, DOI 10.1016/0009-2614(87)80312-3
+   DRAKE B, 1989, SCIENCE, V243, P1586, DOI 10.1126/science.2928794
+   HARTMAN H, 1990, CLAY CLAY MINER, V38, P337, DOI 10.1346/CCMN.1990.0380401
+   Higgins DA, 1996, J AM CHEM SOC, V118, P4049, DOI 10.1021/ja960105v
+   Jelley E. E., 1937, NATURE, V139, P631, DOI 10.1038/139631b0
+   Jelley EE, 1936, NATURE, V138, P1009, DOI 10.1038/1381009a0
+   Kobayashi T, 1998, SUPRAMOL SCI, V5, P343, DOI 10.1016/S0968-5677(98)00029-7
+   Kobayashi T, 1997, J LUMIN, V72-4, P38, DOI 10.1016/S0022-2313(97)00088-4
+   MARCHETTI AP, 1976, J CHEM PHYS, V64, P4693, DOI 10.1063/1.432055
+   MISAWA K, 1994, CHEM PHYS LETT, V220, P251, DOI 10.1016/0009-2614(94)00180-4
+   Saijo H, 1996, J CRYST GROWTH, V166, P930, DOI 10.1016/0022-0248(95)00502-1
+   Scheibe G., 1936, ANGEW CHEM, V49, P563
+   Scheibe G, 1937, ANGEW CHEM-GER EDIT, V50, P0212, DOI 10.1002/ange.19370501103
+   Scheibe G, 1939, ANGEW CHEM-GER EDIT, V52, P631, DOI 10.1002/ange.19390524202
+   SCHERER POJ, 1984, CHEM PHYS, V86, P269, DOI 10.1016/0301-0104(84)80015-4
+   SCHMIDT H, 1990, J VAC SCI TECHNOL A, V8, P388, DOI 10.1116/1.576402
+   SPANO FC, 1989, PHYS REV A, V40, P5783, DOI 10.1103/PhysRevA.40.5783
+   Sugiyama S, 1999, CHEM LETT, P37
+   WOLTHAUS L, 1994, CHEM PHYS LETT, V225, P322, DOI 10.1016/0009-2614(94)87088-8
+   Yao H, 1998, J PHYS CHEM B, V102, P7691, DOI 10.1021/jp982830t
+   Yao H, 1999, J PHYS CHEM B, V103, P4452, DOI 10.1021/jp990127e
+NR 26
+TC 32
+Z9 33
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1089-5647
+J9 J PHYS CHEM B
+JI J. Phys. Chem. B
+PD AUG 19
+PY 1999
+VL 103
+IS 33
+BP 6909
+EP 6912
+DI 10.1021/jp990735u
+PG 4
+WC Chemistry, Physical
+SC Chemistry
+GA 231XA
+UT WOS:000082335600012
+ER
+
+PT J
+AU Yao, H
+   Sugiyama, S
+   Kawabata, R
+   Ikeda, H
+   Matsuoka, O
+   Yamamoto, S
+   Kitamura, N
+AF Yao, H
+   Sugiyama, S
+   Kawabata, R
+   Ikeda, H
+   Matsuoka, O
+   Yamamoto, S
+   Kitamura, N
+TI Spectroscopic and AFM studies on the structures of pseudoisocyanine J
+   aggregates at a mica water interface
+SO JOURNAL OF PHYSICAL CHEMISTRY B
+LA English
+DT Article
+ID DYE; DYNAMICS; SIZE
+AB J aggregates of a pseudoisocyanine dye (PIC) at a mica/solution interface were in situ observed in solution for the first time by atomic force microscopy (AFM), confirming formation of the aggregates showing a narrow J absorption band (peak, similar to 580 nm; line width (HWHM), similar to 120-125 cm(-1)) at room temperature. The J aggregates possessed the three-dimensional island structure with the height of about 3-6 nm, consisting of at least similar to 10(6) PIC molecules, but not a two-dimensional monolayer structure. The growth processes of the J aggregates were discussed on the basis of the morphological changes of the islands with a dye concentration (i.e., Volmer-Weber type growth process), while the optical properties such as the absorption peak position, line width, or fluorescence lifetime (similar to 50 ps) were unchanged. These results indicated that the physical aggregation size observed was much larger than the coherence size of the J aggregate.
+C1 Hokkaido Univ, Grad Sch Sci, Div Chem, Kita Ku, Sapporo, Hokkaido 0600810, Japan.
+   Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+RP Kitamura, N (reprint author), Hokkaido Univ, Grad Sch Sci, Div Chem, Kita Ku, Nishi 8,Kita 10, Sapporo, Hokkaido 0600810, Japan.
+RI Kitamura, Noboru/A-3400-2012
+CR BAUER RK, 1982, J PHYS CHEM-US, V86, P3781, DOI 10.1021/j100216a016
+   Czikkely V., 1970, Chemical Physics Letters, V6, DOI 10.1016/0009-2614(70)80062-8
+   Daehne L, 1998, LANGMUIR, V14, P565, DOI 10.1021/la9707989
+   DALTROZZ.E, 1974, PHOTOGR SCI ENG, V18, P441
+   DEBOER S, 1987, CHEM PHYS LETT, V137, P99, DOI 10.1016/0009-2614(87)80312-3
+   DEBOER S, 1990, CHEM PHYS LETT, V165, P45, DOI 10.1016/0009-2614(90)87010-O
+   FIDDER H, 1991, J CHEM PHYS, V94, P6895, DOI 10.1063/1.460220
+   GADONAS R, 1983, B ACAD SCI USSR PHYS, V47, P151
+   Higgins DA, 1996, J AM CHEM SOC, V118, P4049, DOI 10.1021/ja960105v
+   Hirth J. P., 1963, CONDENSATION EVAPORA
+   Jelley EE, 1936, NATURE, V138, P1009, DOI 10.1038/1381009a0
+   KASHA M, 1964, PHYSICAL PROCESSES R
+   KNAPP EW, 1984, CHEM PHYS, V85, P73, DOI 10.1016/S0301-0104(84)85174-5
+   KOBAYASHI T, J AGGREGATES
+   KOPAINSKY B, 1981, CHEM PHYS LETT, V83, P498, DOI 10.1016/0009-2614(81)85509-1
+   KOPAINSKY B, 1982, CHEM PHYS LETT, V87, P7, DOI 10.1016/0009-2614(82)83541-0
+   MUENTER AA, 1992, J PHYS CHEM-US, V96, P2783, DOI 10.1021/j100186a002
+   Saijo H, 1996, J CRYST GROWTH, V166, P930, DOI 10.1016/0022-0248(95)00502-1
+   SASAKI F, 1995, JAPANESE J APPL PH S, V34, P188
+   Scheibe G., 1936, ANGEW CHEM, V49, P563
+   Scheibe G, 1937, ANGEW CHEM-GER EDIT, V50, P0212, DOI 10.1002/ange.19370501103
+   Scheibe G, 1939, ANGEW CHEM-GER EDIT, V52, P631, DOI 10.1002/ange.19390524202
+   SCHERER POJ, 1984, CHEM PHYS, V86, P269, DOI 10.1016/0301-0104(84)80015-4
+   SMITH DL, 1974, PHOTOGR SCI ENG, V18, P309
+   SPANO FC, 1989, PHYS REV A, V40, P5783, DOI 10.1103/PhysRevA.40.5783
+   SUGIYAMA S, UNPUB J PHYS CHEM
+   Volmer M, 1926, Z PHYS CHEM-STOCH VE, V119, P277
+   WEST W, 1969, PHOTOGR SCI ENG, V13, P221
+   WOLTHAUS L, 1994, CHEM PHYS LETT, V225, P322, DOI 10.1016/0009-2614(94)87088-8
+   Yao H, 1998, J PHYS CHEM B, V102, P7691, DOI 10.1021/jp982830t
+   YAO H, IN PRESS J PHOTOCH A
+NR 31
+TC 46
+Z9 48
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1089-5647
+J9 J PHYS CHEM B
+JI J. Phys. Chem. B
+PD MAY 27
+PY 1999
+VL 103
+IS 21
+BP 4452
+EP 4456
+DI 10.1021/jp990127e
+PG 5
+WC Chemistry, Physical
+SC Chemistry
+GA 202HR
+UT WOS:000080646700035
+ER
+
+PT J
+AU Sugiyama, S
+   Yamamoto, S
+   Matsuoka, O
+   Nozoye, H
+   Yu, J
+   Zhu, G
+   Qiu, S
+   Terasaki I
+AF Sugiyama, S
+   Yamamoto, S
+   Matsuoka, O
+   Nozoye, H
+   Yu, J
+   Zhu, G
+   Qiu, S
+   Terasaki, I
+TI AFM observation of double 4-rings on zeolite LTA crystals surface
+SO MICROPOROUS AND MESOPOROUS MATERIALS
+LA English
+DT Article
+DE atomic force microscopy; crystal growth; double 4-rings; Linde type A;
+   morphology; surface structure; zeolite
+ID ATOMIC-FORCE MICROSCOPY; RESOLUTION; MORDENITE
+AB Atomic force microscopy (AFM) revealed two features of the surface structure of Linde type A (LTA) crystals for the first time. The first is that LTA crystals contained fine pyramidal structures lying side-by-side. All of the pyramidal edges were parallel to the edges of the cubic single crystals. The second feature is that the sloped sides of each pyramid had fine steps of different heights (0.7, 0.5 and 1.2 nm). These three different heights correspond well to the sizes of a double 4-ring (D4R) and combinations of D4R, suggesting that D4R is the key building unit for crystal growth of LTA. These results demonstrate the potential of using AFM to reveal the fine surface structure. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+   Natl Inst Mat & Chem Res, Tsukuba, Ibaraki 3058565, Japan.
+   Tohoku Univ, Dept Phys, Sendai, Miyagi 9808578, Japan.
+   Tohoku Univ, Japan Sci & Technol Corp, CREST, Sendai, Miyagi 9808578, Japan.
+   Jilin Univ, Key Lab Inorgan Synth & Preparat Chem, Changchun 130023, Peoples R China.
+   Tohoku Univ, Interdisciplinary Res Ctr, Sendai, Miyagi 9808578, Japan.
+RP Sugiyama, S (reprint author), Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, 1190 Kasama Cho, Yokohama, Kanagawa 2478567, Japan.
+EM shoko.sugiyama@mitsui-chem.co.jp
+RI yu, jihong/C-1381-2011; Zhu, Guangshan/E-2024-2013
+OI yu, jihong/0000-0003-1991-2942; 
+CR ALFREDSSON V, 1993, ANGEW CHEM INT EDIT, V32, P1210, DOI 10.1002/anie.199312101
+   Anderson MW, 1996, ANGEW CHEM INT EDIT, V35, P1210, DOI 10.1002/anie.199612101
+   Breck D. W., 1974, ZEOLITE MOL SIEVES
+   Holderich WF, 1997, CATAL TODAY, V37, P353, DOI 10.1016/S0920-5861(97)81094-2
+   KOMIYAMA M, 1994, JPN J APPL PHYS 1, V33, P3761, DOI 10.1143/JJAP.33.3761
+   MACDOUGALL JE, 1991, ZEOLITES, V11, P429, DOI 10.1016/S0144-2449(05)80112-5
+   MARTENS JA, 1995, ANGEW CHEM INT EDIT, V34, P2528, DOI 10.1002/anie.199525281
+   Moor P.P.E.A.D., 1998, MICROPOR MESOPOR MAT, V21, P263
+   NOZUE Y, 1993, PHYS REV B, V48, P12253, DOI 10.1103/PhysRevB.48.12253
+   Ohsuna T, 1996, P ROY SOC LOND A MAT, V452, P715, DOI 10.1098/rspa.1996.0036
+   SCANDELLA L, 1993, SURF SCI LETT, V281, P331, DOI 10.1016/0167-2584(93)91197-V
+   Schoeman BJ, 1997, ZEOLITES, V18, P97, DOI 10.1016/S0144-2449(96)00134-0
+   Sugiyama S, 1997, SURF SCI, V377, P140, DOI 10.1016/S0039-6028(96)01346-5
+   VAUGHAN DEW, 1993, NATO ADV SCI INST SE, V400, P137
+   WEISENHORN AL, 1990, SCIENCE, V247, P1330, DOI 10.1126/science.247.4948.1330
+   Weitkamp J, 1991, STUDIES SURFACE SCI
+   Yamamoto S, 1996, CHEM PHYS LETT, V260, P208, DOI 10.1016/0009-2614(96)00833-0
+   Yamamoto S, 1996, J PHYS CHEM-US, V100, P18474, DOI 10.1021/jp961583v
+NR 18
+TC 52
+Z9 53
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1387-1811
+J9 MICROPOR MESOPOR MAT
+JI Microporous Mesoporous Mat.
+PD MAR
+PY 1999
+VL 28
+IS 1
+BP 1
+EP 7
+DI 10.1016/S1387-1811(98)00271-6
+PG 7
+WC Chemistry, Applied; Chemistry, Physical; Nanoscience & Nanotechnology;
+   Materials Science, Multidisciplinary
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA 185QX
+UT WOS:000079682000001
+ER
+
+PT J
+AU Sugiyama, S
+   Yao, H
+   Matsuoka, O
+   Kawabata, R
+   Kitamura, N
+   Yamamoto, S
+AF Sugiyama, S
+   Yao, H
+   Matsuoka, O
+   Kawabata, R
+   Kitamura, N
+   Yamamoto, S
+TI Three-dimensional structure of J aggregates of pseudoisocyanine chloride
+   dyes at a Mica/Solution interface revealed by AFM
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+AB By using tapping-mode atomic force microscopy (AFM), we revealed for the first time the structure of J aggregates of pseudoisocyanine chloride(PIC-Cl) dyes at a mica/solution interface in an aqueous PIC-Cl solution. The J aggregates were leaf-like islands in multilayers of PIC-Cl molecules. The minimal size of the aggregate necessary for the J band was also revealed. Dye molecules grow into the J aggregates at a mica/solution interface by a Volmer-Weber type growth process.
+C1 Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+   Hokkaido Univ, Grad Sch Sci, Div Chem, Kita Ku, Sapporo, Hokkaido 0600810, Japan.
+RP Sugiyama, S (reprint author), Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, 1190 Kasama Cho, Yokohama, Kanagawa 2478567, Japan.
+RI Kitamura, Noboru/A-3400-2012
+CR Czikkely V., 1970, Chemical Physics Letters, V6, DOI 10.1016/0009-2614(70)80062-8
+   Daehne L, 1998, LANGMUIR, V14, P565, DOI 10.1021/la9707989
+   DALTROZZ.E, 1974, PHOTOGR SCI ENG, V18, P441
+   DEBOER S, 1987, CHEM PHYS LETT, V137, P99, DOI 10.1016/0009-2614(87)80312-3
+   Higgins DA, 1996, J AM CHEM SOC, V118, P4049, DOI 10.1021/ja960105v
+   Jelley EE, 1936, NATURE, V138, P1009, DOI 10.1038/1381009a0
+   Saijo H, 1996, J CRYST GROWTH, V166, P930, DOI 10.1016/0022-0248(95)00502-1
+   Saijo H, 1996, J IMAGING SCI TECHN, V40, P111
+   Scheibe G., 1936, ANGEW CHEM, V49, P563
+   Scheibe G, 1939, ANGEW CHEM-GER EDIT, V52, P631, DOI 10.1002/ange.19390524202
+   SCHERER POJ, 1984, CHEM PHYS, V86, P269, DOI 10.1016/0301-0104(84)80015-4
+   SPANO FC, 1989, PHYS REV A, V40, P5783, DOI 10.1103/PhysRevA.40.5783
+   Volmer M, 1926, Z PHYS CHEM-STOCH VE, V119, P277
+   WOLTHAUS L, 1994, CHEM PHYS LETT, V225, P322, DOI 10.1016/0009-2614(94)87088-8
+   YAO H, IN PRESS J PHYS CHEM
+NR 15
+TC 12
+Z9 12
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PY 1999
+IS 1
+BP 37
+EP 38
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 162RW
+UT WOS:000078361400019
+ER
+
+PT J
+AU Watanabe, Y
+   Matsuoka, O
+AF Watanabe, Y
+   Matsuoka, O
+TI Dirac-Fock-Roothaan calculations using a relativistic reduced
+   frozen-core approximation
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID GAUSSIAN-BASIS SETS; MOLECULES
+AB The reduced frozen-core approximation (RFCA) that has been previously used for nonrelativistic calculations is extended to relativistic calculations. The RFCA adopts a new method for the orthogonalization of valence basis functions to core orbitals. Orthogonalization is performed using corelike basis functions consisting of fewer primitive basis functions than core orbitals. Dirac-Fock-Roothaan calculations on HI and ThO show that the relativistic RFCA can reduce computing time and closely reproduce the total and valence orbital energies and spectroscopic constants obtained by all-electron calculations. (C) 1998 American Institute of Physics. [S0021-9606(98)30443-2].
+C1 Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+RP Watanabe, Y (reprint author), Kyushu Univ, Dept Chem, Fukuoka 8108560, Japan.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DYALL KG, 1992, CHEM PHYS LETT, V196, P178, DOI 10.1016/0009-2614(92)85950-F
+   DYALL KG, 1992, J CHEM PHYS, V96, P1210, DOI 10.1063/1.462208
+   DYALL KG, 1991, J CHEM PHYS, V95, P2583, DOI 10.1063/1.460911
+   GROPEN O, 1987, METHODS COMPUTATIONA, V2
+   Huber K. P., 1979, CONSTANTS DIATOMIC M
+   Huzinaga S, 1988, J MOL STRUCT THEOCHE, V167, P1, DOI 10.1016/0166-1280(88)87042-8
+   KATSUKI S, 1995, CAN J CHEM, V73, P696, DOI 10.1139/v95-088
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   LEE YS, 1986, B KOR CHEM SOC, V7, P480
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1992, J CHEM PHYS, V96, P6773, DOI 10.1063/1.462565
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   PISANI L, 1994, J COMPUT CHEM, V15, P466, DOI 10.1002/jcc.540150410
+   Saue T, 1997, MOL PHYS, V91, P937, DOI 10.1080/002689797171058
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   VISSCHER L, 1994, COMPUT PHYS COMMUN, V81, P120, DOI 10.1016/0010-4655(94)90115-5
+   Visscher L, 1997, THEOR CHEM ACC, V98, P68, DOI 10.1007/s002140050280
+   Watanabe Y, 1997, J CHEM PHYS, V107, P3738, DOI 10.1063/1.474487
+   WATANABE Y, 1995, B CHEM SOC JPN, V68, P1915, DOI 10.1246/bcsj.68.1915
+   Yamamoto H., 1992, Bulletin of the University of Electro-Communications, V5
+NR 21
+TC 14
+Z9 15
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+   USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD NOV 15
+PY 1998
+VL 109
+IS 19
+BP 8182
+EP 8187
+DI 10.1063/1.477480
+PG 6
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 139AJ
+UT WOS:000077005000006
+ER
+
+PT J
+AU Matsuoka, O
+AF Matsuoka, O
+TI Simple derivations of Talmi coefficients for solid spherical
+   Gaussian-type functions
+SO THEOCHEM-JOURNAL OF MOLECULAR STRUCTURE
+LA English
+DT Article
+DE Talmi transformation; Talmi coefficient; Moshinsky-Smirnov coefficient;
+   spherical Gaussian-type function
+ID MULTI-CENTRE INTEGRALS; MOLECULAR INTEGRALS; TRANSFORMATION
+AB The Talmi coefficient for complex solid spherical Gaussian-type functions (SSGTF) is derived using the addition theorem of homogeneous solid spherical harmonics. The corresponding coefficient for real SSGTFs is derived by unitary transformations of those for complex SSGTFs. (C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+   Univ Alberta, Edmonton, AB, Canada.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+CR BAKRI MM, 1967, NUCL PHYS A, VA 96, P115, DOI 10.1016/0375-9474(67)90698-7
+   BARANGER M, 1966, NUCL PHYS, V79, P403, DOI 10.1016/0029-5582(66)90153-2
+   BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   Condon E.U., 1951, THEORY ATOMIC SPECTR
+   Edmonds A R, 1957, ANGULAR MOMENTUM QUA
+   FIECK G, 1979, J PHYS B-AT MOL OPT, V12, P1063, DOI 10.1088/0022-3700/12/7/010
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   FUJIMURA N, 1992, INT J QUANTUM CHEM, V42, P751, DOI 10.1002/qua.560420415
+   GAL A, 1968, ANN PHYS-NEW YORK, V49, P341, DOI 10.1016/0003-4916(68)90033-X
+   KAY KG, 1969, J CHEM PHYS, V51, P2359, DOI 10.1063/1.1672352
+   KUMAR K, 1966, J MATH PHYS, V7, P671, DOI 10.1063/1.1704980
+   MARETIS DK, 1979, J CHEM PHYS, V71, P917, DOI 10.1063/1.438381
+   MATSUOKA O, 1992, CAN J CHEM, V70, P388, DOI 10.1139/v92-055
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4364, DOI 10.1063/1.457744
+   Matsuoka O, 1998, J CHEM PHYS, V108, P1063, DOI 10.1063/1.475468
+   Messiah A., 1962, QUANTUM MECH
+   MOSHINSKY M, 1959, NUCL PHYS, V13, P104, DOI 10.1016/0029-5582(59)90143-9
+   NIUKKANEN AW, 1980, CHEM PHYS LETT, V69, P174, DOI 10.1016/0009-2614(80)80038-8
+   O-Ohata K., 1966, Journal of Mathematical Physics, V7, DOI 10.1063/1.1704965
+   SMIRNOV YF, 1961, NUCL PHYS, V27, P177, DOI 10.1016/0029-5582(61)90343-1
+   TALMAN JD, 1970, NUCL PHYS A, VA141, P273, DOI 10.1016/0375-9474(70)90847-X
+   TRLIFAJ L, 1972, PHYS REV C, V5, P1534, DOI 10.1103/PhysRevC.5.1534
+NR 22
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-1280
+J9 THEOCHEM-J MOL STRUC
+JI Theochem-J. Mol. Struct.
+PD SEP 28
+PY 1998
+VL 451
+IS 1-2
+SI SI
+BP 35
+EP 39
+PG 5
+WC Chemistry, Physical
+SC Chemistry
+GA 121AX
+UT WOS:000075990900005
+ER
+
+PT J
+AU Matsuoka, O
+   Yamamoto, S
+   Sugiyama, S
+   Miyazoye, S
+   Nozoye, H
+AF Matsuoka, O
+   Yamamoto, S
+   Sugiyama, S
+   Miyazoye, S
+   Nozoye, H
+TI Electrochemical STM observation of well-ordered adsorbate on Cu(111)
+   electrode surfaces in an alkaline electrolyte
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID OXYGEN-ADSORPTION; MICROSCOPY; OXIDES
+AB Electrochemical scanning tunneling microscopy revealed two kinds of periodical structure of bright spot on Cu(111) electrode surfaces in NaOH aqueous solutions. These structures show the arrangement of the CuOH surface species formed by the reduction of subsurface oxygens.
+C1 Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+   Natl Inst Mat & Chem Res, Tsukuba, Ibaraki 3058565, Japan.
+RP Matsuoka, O (reprint author), Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+CR BACKER HJ, 1953, B SOC CHIM BELG, V62, P3
+   BAO X, 1993, SURF SCI, V284, P14, DOI 10.1016/0039-6028(93)90522-L
+   BLOCH J, 1993, J CHEM PHYS, V98, P9167, DOI 10.1063/1.464424
+   BURKE LD, 1989, J ELECTROCHEM SOC, V136, P1015, DOI 10.1149/1.2096776
+   BURKE LD, 1990, J ELECTROCHEM SOC, V137, P553, DOI 10.1149/1.2086496
+   CARELY AF, 1994, TOPICS CATALYSYS, V1, P35
+   CRUICKSHANK BJ, 1993, SURF SCI, V281, pL308, DOI 10.1016/0039-6028(93)90845-B
+   DAVIES PR, 1995, SURF SCI, V325, P50, DOI 10.1016/0039-6028(94)00788-8
+   Gewirth AA, 1997, CHEM REV, V97, P1129, DOI 10.1021/cr960067y
+   HAETINGER S, 1995, J ELECTROANAL CHEM, V380, P185
+   IKEMIYA N, 1995, SURF SCI, V323, P81, DOI 10.1016/0039-6028(94)00671-7
+   MATERLIK G, 1987, BER BUNSEN PHYS CHEM, V91, P292
+   MOSKOVITS M, 1983, CHEM PHYS LETT, V98, P498, DOI 10.1016/0009-2614(83)80096-7
+   NIEHUS H, 1983, SURF SCI, V130, P41, DOI 10.1016/0039-6028(83)90258-3
+   WONG EKL, 1995, J VACSCI TECHNL A, V397, P335
+NR 15
+TC 1
+Z9 1
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD SEP
+PY 1998
+IS 9
+BP 947
+EP 948
+DI 10.1246/cl.1998.947
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 125LZ
+UT WOS:000076240200044
+ER
+
+PT J
+AU Yamamoto, S
+   Matsuoka, O
+   Sugiyama, S
+AF Yamamoto, S
+   Matsuoka, O
+   Sugiyama, S
+TI Micro-rings of manganese dioxide nanocrystals on mica
+SO CHEMISTRY LETTERS
+LA English
+DT Article
+ID OXIDE CATALYSTS
+AB Circularly ordered self-assembly (micro-ring) of manganese dioxide nanocrystals were formed simply by dewetting a manganese dioxide colloidal aqueous solution on mica The balance between the repulsive force of the nanocrystals and the compressive force of shrinking droplets plays an important role in forming this peculiar nanosize assembly.
+C1 Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+RP Yamamoto, S (reprint author), Mitsui Chem Inc, Performance Mat R&D Ctr, Sakae Ku, 1190 Kasama Cho, Yokohama, Kanagawa 2478567, Japan.
+CR COOK MJ, 1966, CHEM COMMUN, P121, DOI 10.1039/c19660000121
+   HAEFEL LR, 1972, IND ENG CHEM PROD RD, V11, P365
+   KAPTEIJN F, 1994, J CATAL, V150, P94, DOI 10.1006/jcat.1994.1325
+   Karthaus O, 1996, CHEM LETT, P821, DOI 10.1246/cl.1996.821
+   LIU TT, 1988, J CHEM SOC CHEM COMM, P715
+   LUMEPEREIRA C, 1985, J PHYS CHEM-US, V89, P5772, DOI 10.1021/j100272a040
+   Roberts G. G., 1990, LANGMUIR BLODGETT FI
+   SAGIV J, 1980, J AM CHEM SOC, V102, P92, DOI 10.1021/ja00521a016
+   Sano M, 1998, CHEM LETT, P21
+   Shao-Horn Y, 1998, J ELECTROCHEM SOC, V145, P582, DOI 10.1149/1.1838307
+   SUGIYAMA K, 1986, B CHEM SOC JPN, V59, P2983, DOI 10.1246/bcsj.59.2983
+   THACKERAY MM, 1993, J POWER SOURCES, V43, P289, DOI 10.1016/0378-7753(93)80126-A
+   Ulman A., 1991, INTRO ULTRATHIN ORGA
+   Yamamoto S, 1996, J CATAL, V159, P401, DOI 10.1006/jcat.1996.0103
+NR 14
+TC 1
+Z9 1
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101, JAPAN
+SN 0366-7022
+J9 CHEM LETT
+JI Chem. Lett.
+PD AUG
+PY 1998
+IS 8
+BP 809
+EP 810
+DI 10.1246/cl.1998.809
+PG 2
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 117NC
+UT WOS:000075787100052
+ER
+
+PT J
+AU Yamamoto, S
+   Sugiyama, S
+   Matsuoka, O
+   Honda, T
+   Banno, Y
+   Nozoye, H
+AF Yamamoto, S
+   Sugiyama, S
+   Matsuoka, O
+   Honda, T
+   Banno, Y
+   Nozoye, H
+TI AFM imaging of the surface of natural heulandite
+SO MICROPOROUS AND MESOPOROUS MATERIALS
+LA English
+DT Article
+DE atomic force microscopy; bunching; heulandite; micropore; mordenite;
+   shape-selective catalysis; surface hydroxyl; zeolite
+ID ATOMIC-FORCE MICROSCOPY; ZEOLITE SURFACES; CRYSTALS
+AB The factors that determine the resolution of the atomic force microscope (AFM) images of zeolite surfaces were determined by examining the surface of natural heulandite crystals either in deionized water or in a 0.1 N NaOH aqueous solution. Wide-scan imaging of the (100) surface revealed for the first time a crystal growth-induced step structure that corresponds to aluminosilicate layers. Also revealed was what is called bunching (macro-steps composed of several aluminosilicate layers). For the (100) surface, the atomic-scale image revealed the framework composed of TO4 polyhedrons (where T is either Si or Al), whereas for the (010) surface the image resolved the hydroxyl groups. This dependence of the image on the surfaces implies that the magnitude of the periodic corrugation on the zeolite surface is a critical factor in the resolution of AFM imaging of zeolites. (C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Mitsui Chem Inc, Performance Mat R&D, Sakae Ku, Yokohama, Kanagawa 2478567, Japan.
+   Geol Survey Japan, Tsukuba, Ibaraki 350, Japan.
+   Natl Inst Mat & Chem Res, Tsukuba, Ibaraki 305, Japan.
+RP Yamamoto, S (reprint author), Mitsui Chem Inc, Performance Mat R&D, Sakae Ku, 1190 Kasama Cho, Yokohama, Kanagawa 2478567, Japan.
+EM sadaaki.yamamoto@mitsui-chem.co.jp
+CR Anderson MW, 1996, ANGEW CHEM INT EDIT, V35, P1210, DOI 10.1002/anie.199612101
+   Binder G, 1996, ZEOLITES, V16, P2, DOI 10.1016/0144-2449(95)00085-2
+   CSICSERY SM, 1984, ZEOLITES, V4, P202, DOI 10.1016/0144-2449(84)90024-1
+   KOMIYAMA M, 1994, JPN J APPL PHYS 1, V33, P3761, DOI 10.1143/JJAP.33.3761
+   Komiyama M, 1996, J PHYS CHEM-US, V100, P15198, DOI 10.1021/jp960537s
+   MACDOUGALL JE, 1991, ZEOLITES, V11, P429, DOI 10.1016/S0144-2449(05)80112-5
+   MARTENS JA, 1995, ANGEW CHEM INT EDIT, V34, P2528, DOI 10.1002/anie.199525281
+   MEIER W.M, 1996, ATLAS ZEOLITE STRUCT
+   MERKEL B, 1968, AM MINERAL, V5, P1120
+   SCANDELLA J, 1990, SURF SCI, V281, pL331
+   WEISENHORN AL, 1990, SCIENCE, V247, P1330, DOI 10.1126/science.247.4948.1330
+   WHITTINGAM MS, 1982, INTERCALATIO CHEM
+   Yamamoto S, 1996, CHEM PHYS LETT, V260, P208, DOI 10.1016/0009-2614(96)00833-0
+NR 13
+TC 31
+Z9 32
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1387-1811
+J9 MICROPOR MESOPOR MAT
+JI Microporous Mesoporous Mat.
+PD APR
+PY 1998
+VL 21
+IS 1-3
+BP 1
+EP 6
+DI 10.1016/S1387-1811(97)00012-7
+PG 6
+WC Chemistry, Applied; Chemistry, Physical; Nanoscience & Nanotechnology;
+   Materials Science, Multidisciplinary
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA 115RK
+UT WOS:000075678800001
+ER
+
+PT J
+AU Tatewaki, H
+   Matsuoka, O
+AF Tatewaki, H
+   Matsuoka, O
+TI All-electron Dirac-Fock-Roothaan calculations for the electronic
+   structures of the GdF2 molecule
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID LANTHANIDES; CLUSTER; STATES
+AB The linear GdF2 molecule is studied using all-electron Dirac-Fock-Roothaan calculations. The molecule is ionic, having electronic configuration close to F-(2s(2.0)2p(5.8))Gd2+(4f(7.0)5d(0.6)6s(0.8))F-(2s(2.0)2p(5.8)). Excited states and positively and negatively ionized states are also calculated. All are described in terms of excitations or ionizations of the Gd2+ ion. (C) 1998 Elsevier Science B.V.
+C1 Nagoya City Univ, Ctr Nat Sci, Nagoya, Aichi 467, Japan.
+   Nagoya City Univ, Computat Ctr, Nagoya, Aichi 467, Japan.
+   Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+RP Tatewaki, H (reprint author), Nagoya City Univ, Ctr Nat Sci, Nagoya, Aichi 467, Japan.
+CR CUNDARI TR, 1993, J CHEM PHYS, V98, P5555, DOI 10.1063/1.464902
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DOLG M, 1989, THEOR CHIM ACTA, V75, P369, DOI 10.1007/BF00526695
+   DOLG M, 1989, THEOR CHIM ACTA, V75, P173, DOI 10.1007/BF00528565
+   ELIAV E, 1995, PHYS REV A, V52, P291, DOI 10.1103/PhysRevA.52.291
+   Huber KP, 1978, MOL SPECTRA MOL STRU, V4
+   Kaledin LA, 1996, J MOL SPECTROSC, V176, P148, DOI 10.1006/jmsp.1996.0072
+   Martin W.C., 1974, Journal of Physical and Chemical Reference Data, V3
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MCLEAN AD, 1968, IBM J RES DEV
+   Sekiya M, 1997, PHYS REV A, V56, P2731, DOI 10.1103/PhysRevA.56.2731
+   Tatewaki H, 1997, J CHEM PHYS, V106, P4558, DOI 10.1063/1.473480
+   TATEWAKI H, 1995, PHYS REV A, V51, P197, DOI 10.1103/PhysRevA.51.197
+   VISSER O, 1992, J CHEM PHYS, V96, P2910, DOI 10.1063/1.461987
+   VOSKO SH, 1993, J PHYS B-AT MOL OPT, V26, P873
+   1989, HDB CHEM PHYSICS, pC67
+NR 16
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD FEB 6
+PY 1998
+VL 283
+IS 3-4
+BP 161
+EP 166
+DI 10.1016/S0009-2614(97)01354-7
+PG 6
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA ZC930
+UT WOS:000072633300004
+ER
+
+PT J
+AU Arakane, F
+   Matsuoka, O
+AF Arakane, F
+   Matsuoka, O
+TI Recurrence formulas for molecular integrals over Laguerre Gaussian-type
+   functions
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article
+DE molecular integral; recurrence formula; Gaussian-type function;
+   Laguerre-Sonine polynomial
+ID ELECTRON-REPULSION INTEGRALS; MULTI-CENTRE INTEGRALS;
+   SPHERICAL-HARMONICS; FOURIER-TRANSFORMS; ORBITALS; COMPUTATION;
+   DERIVATIVES
+AB Recurrence formulas for overlap, nuclear attraction, and electron-repulsion integrals over Laguerre Gaussian-type functions are presented. They have been derived using compact recurrence relations for homogeneous solid spherical harmonic operators but are rather lengthy as compared to those over Cartesian Gaussian-type functions. (C) 1998 John Wiley & Sons, Inc.
+C1 Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+   Univ Electrocommun, Dept Phys, Tokyo 182, Japan.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+CR BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   Condon E.U., 1951, THEORY ATOMIC SPECTR
+   DUNLAP BI, 1990, PHYS REV A, V42, P1127, DOI 10.1103/PhysRevA.42.1127
+   FIECK G, 1979, J PHYS B-AT MOL OPT, V12, P1063, DOI 10.1088/0022-3700/12/7/010
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   FORTUNELLI A, 1993, INT J QUANTUM CHEM, V48, P257, DOI 10.1002/qua.560480407
+   HONDA M, 1991, J CHEM PHYS, V94, P3790, DOI 10.1063/1.459751
+   ISHIDA K, 1993, J CHEM PHYS, V98, P2176, DOI 10.1063/1.464196
+   ISHIDA K, 1991, J CHEM PHYS, V95, P5198, DOI 10.1063/1.461688
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1992, CAN J CHEM, V70, P388, DOI 10.1139/v92-055
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4364, DOI 10.1063/1.457744
+   MATSUOKA O, 1993, CHEM PHYS LETT, V202, P13, DOI 10.1016/0009-2614(93)85343-M
+   OBARA S, 1986, J CHEM PHYS, V84, P3963, DOI 10.1063/1.450106
+   OBARA S, 1988, J CHEM PHYS, V89, P1540, DOI 10.1063/1.455717
+   POPLE JA, 1978, J COMPUT PHYS, V27, P161, DOI 10.1016/0021-9991(78)90001-3
+   Tatewaki H, 1997, J CHEM PHYS, V106, P4558, DOI 10.1063/1.473480
+   WENIGER EJ, 1983, J CHEM PHYS, V78, P6121, DOI 10.1063/1.444574
+NR 18
+TC 6
+Z9 6
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012 USA
+SN 0020-7608
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PD FEB 5
+PY 1998
+VL 66
+IS 4
+BP 273
+EP 279
+DI 10.1002/(SICI)1097-461X(1998)66:4<273::AID-QUA2>3.0.CO;2-S
+PG 7
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Physics, Atomic, Molecular & Chemical
+SC Chemistry; Mathematics; Physics
+GA YR705
+UT WOS:000071522000002
+ER
+
+PT J
+AU Matsuoka, O
+AF Matsuoka, O
+TI Molecular integrals over real solid spherical Gaussian-type functions
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MULTI-CENTRE INTEGRALS; TRANSFORMATION
+AB Compact formulas are derived of molecular energy integrals over real solid spherical Gaussian-type functions using the Talmi transformation. A new method for calculating the Talmi coefficients is presented, which does not require angular-momentum algebra of 3j and 9j symbols. (C) 1998 American Institute of Physics. [S0021-9606(98)01103-9].
+C1 Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+RP Matsuoka, O (reprint author), Kyushu Univ, Dept Chem, Fukuoka 810, Japan.
+CR BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   Condon E.U., 1951, THEORY ATOMIC SPECTR
+   Edmonds A R, 1957, ANGULAR MOMENTUM QUA
+   FIECK G, 1979, J PHYS B-AT MOL OPT, V12, P1063, DOI 10.1088/0022-3700/12/7/010
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   FUJIMURA N, 1992, INT J QUANTUM CHEM, V42, P751, DOI 10.1002/qua.560420415
+   HARRIS FE, 1963, REV MOD PHYS, V35, P558, DOI 10.1103/RevModPhys.35.558
+   ISHIDA K, 1981, J CHEM PHYS, V95, P5198
+   KRAUSS M, 1964, J RES NBS B MATH SCI, VB 68, P35, DOI 10.6028/jres.068B.007
+   MARETIS DK, 1979, J CHEM PHYS, V71, P917, DOI 10.1063/1.438381
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1992, CAN J CHEM, V70, P388, DOI 10.1139/v92-055
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4364, DOI 10.1063/1.457744
+   Moharerrzadeh M, 1996, J CHEM PHYS, V104, P616, DOI 10.1063/1.470857
+   MOSHINSKY M, 1959, NUCL PHYS, V13, P104, DOI 10.1016/0029-5582(59)90143-9
+   NIUKKANEN AW, 1980, CHEM PHYS LETT, V69, P174, DOI 10.1016/0009-2614(80)80038-8
+   O-Ohata K., 1966, Journal of Mathematical Physics, V7, DOI 10.1063/1.1704965
+   OOHATA K, 1974, MEM FAC SC KYUSUH B, V5, P7
+   PRATHER JL, 1961, NBS MONOG, V19, P1
+   SALMON LS, 1968, J CHEM PHYS, V49, P4293, DOI 10.1063/1.1669873
+   SMIRNOV YF, 1961, NUCL PHYS, V27, P177, DOI 10.1016/0029-5582(61)90343-1
+   TAKETA H, 1966, J PHYS SOC JPN, V21, P2313, DOI 10.1143/JPSJ.21.2313
+   TALMI I, 1952, HELV PHYS ACTA, V25, P185
+   Wolfram S., 1988, MATHEMATICA
+NR 24
+TC 6
+Z9 6
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+   USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JAN 15
+PY 1998
+VL 108
+IS 3
+BP 1063
+EP 1067
+DI 10.1063/1.475468
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA YR359
+UT WOS:000071487500029
+ER
+
+PT J
+AU Sumi, T
+   Miyoshi, E
+   Sakai, Y
+   Matsuoka, O
+AF Sumi, T
+   Miyoshi, E
+   Sakai, Y
+   Matsuoka, O
+TI Molecular-orbital and molecular-dynamics study of mercury
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID EXPANDED LIQUID MERCURY; FLUID MERCURY; CONFIGURATION-INTERACTION;
+   TRANSITION; DENSITY; SIMULATION; ELEMENTS; VAPOR; MODEL; BAND
+AB A potential curve and spectroscopic constants of Hg-2 were calculated using multireference single- and double-excitations configuration interaction calculations, where 5d and 6s electrons were correlated. The calculated constants were consistent with experimental data. Using the potential curves of Hg-2, we performed molecular-dynamics (MD) calculations to identify the melting point of mercury. A characteristic feature of liquid metal, cooperative motion, was observed in the MD calculations. On the other hand, MD calculations using a Lennard-Jones potential gave the cooperative motion only in very short time intervals (t<0.5 ps). [S0163-1829(98)02402-3].
+C1 Kyushu Univ, Fac Engn, Dept Appl Phys, Fukuoka 810, Japan.
+   Kyushu Univ, Fac Sci, Dept Chem, Fukuoka 810, Japan.
+RP Sumi, T (reprint author), Kyushu Univ, Fac Engn, Dept Appl Phys, Fukuoka 810, Japan.
+CR BALASUBRAMANIAN K, 1992, CHEM PHYS LETT, V195, P487, DOI 10.1016/0009-2614(92)85549-P
+   BALLONE P, 1990, PHYS REV B, V42, P1112, DOI 10.1103/PhysRevB.42.1112
+   BALUCANI U, 1984, PHYS LETT A, V102, P109, DOI 10.1016/0375-9601(84)90791-6
+   BALUCANI U, 1983, J PHYS C SOLID STATE, V16, P5605, DOI 10.1088/0022-3719/16/29/014
+   BALUCANI U, 1982, J CHEM PHYS, V77, P3233, DOI 10.1063/1.444199
+   COHEN MH, 1973, PHYS REV LETT, V30, P699, DOI 10.1103/PhysRevLett.30.699
+   COHEN MH, 1974, PHYS REV A, V10, P978, DOI 10.1103/PhysRevA.10.978
+   Czuchaj E, 1997, CHEM PHYS, V214, P277, DOI 10.1016/S0301-0104(96)00305-9
+   DEVELYN MP, 1983, J CHEM PHYS, V78, P5081, DOI 10.1063/1.445376
+   Dolg M, 1996, J PHYS CHEM-US, V100, P6147, DOI 10.1021/jp952807x
+   El-Hanany U., 1975, Physical Review Letters, V34, DOI 10.1103/PhysRevLett.34.1276
+   EVEN U, 1973, PHYS REV B, V8, P2536, DOI 10.1103/PhysRevB.8.2536
+   FRITZSON P, 1976, SOLID STATE COMMUN, V19, P385, DOI 10.1016/0038-1098(76)91358-2
+   IKEZI H, 1978, PHYS REV B, V18, P2494, DOI 10.1103/PhysRevB.18.2494
+   JANK W, 1990, PHYS REV B, V42, P6926, DOI 10.1103/PhysRevB.42.6926
+   KEETON SC, 1966, PHYS REV, V152, P548, DOI 10.1103/PhysRev.152.548
+   LENGSFIELD BH, 1980, J CHEM PHYS, V73, P382, DOI 10.1063/1.439885
+   LENGSFIELD BH, 1981, J CHEM PHYS, V75, P478, DOI 10.1063/1.441840
+   LINKE R, 1983, PHYS REV B, V27, P7348, DOI 10.1103/PhysRevB.27.7348
+   LIU B, 1981, J CHEM PHYS, V74, P612, DOI 10.1063/1.440817
+   MATTHEISS LF, 1977, PHYS REV B, V16, P624, DOI 10.1103/PhysRevB.16.624
+   MORIARTY JA, 1988, PHYS LETT A, V131, P41, DOI 10.1016/0375-9601(88)90631-7
+   MOTT NF, 1970, PHILOS MAG, V22, P7, DOI 10.1080/14786437008228147
+   NJO SL, 1995, J CHEM PHYS, V102, P6199, DOI 10.1063/1.469065
+   PYPER NC, 1977, CHEM PHYS LETT, V49, P479, DOI 10.1016/0009-2614(77)87019-X
+   Reid R.C., 1987, PROPERTIES GASES LIQ
+   SAKAI Y, 1987, J COMPUT CHEM, V8, P256, DOI 10.1002/jcc.540080305
+   SCHWERDTFEGER P, 1994, THEOR CHIM ACTA, V87, P313, DOI 10.1007/BF01113387
+   SINGH PP, 1994, PHYS REV B, V49, P4954, DOI 10.1103/PhysRevB.49.4954
+   TAMURA K, 1993, J NON-CRYST SOLIDS, V156, P646, DOI 10.1016/0022-3093(93)90038-Y
+   TAMURA K, 1994, J PHYS-CONDENS MAT, V6, pA241, DOI 10.1088/0953-8984/6/23A/037
+   UCHTMANN H, 1975, PHYS LETT A, VA 53, P239, DOI 10.1016/0375-9601(75)90422-3
+   VANZEE RD, 1988, J CHEM PHYS, V88, P4650, DOI 10.1063/1.453777
+   WARREN WW, 1982, PHYS REV B, V26, P5980, DOI 10.1103/PhysRevB.26.5980
+   YAO M, 1982, J PHYS SOC JPN, V51, P966, DOI 10.1143/JPSJ.51.966
+   YAO M, 1982, J PHYS SOC JPN, V51, P1504, DOI 10.1143/JPSJ.51.1504
+   YONEZAWA F, 1976, SOLID STATE COMMUN, V18, P1471, DOI 10.1016/0038-1098(76)90372-0
+   ZEHNACKER A, 1987, J CHEM PHYS, V86, P6565, DOI 10.1063/1.452401
+NR 38
+TC 9
+Z9 9
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0163-1829
+J9 PHYS REV B
+JI Phys. Rev. B
+PD JAN 1
+PY 1998
+VL 57
+IS 2
+BP 914
+EP 918
+DI 10.1103/PhysRevB.57.914
+PG 5
+WC Physics, Condensed Matter
+SC Physics
+GA YR357
+UT WOS:000071487300042
+ER
+
+PT J
+AU Watanabe, Y
+   Matsuoka, O
+AF Watanabe, Y
+   Matsuoka, O
+TI All-electron Dirac-Fock-Roothaan calculations for the ThO molecule
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID RELATIVISTIC QUANTUM-CHEMISTRY; GAUSSIAN-BASIS SETS; ACTINIDES
+RP Watanabe, Y (reprint author), KYUSHU UNIV,DEPT CHEM,FUKUOKA 810,JAPAN.
+CR Andzelm J., 1984, GAUSSIAN BASIS SETS
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   Huber K. P., 1979, CONSTANTS DIATOMIC M
+   KUCHLE W, 1994, J CHEM PHYS, V100, P7535
+   MALLI GL, 1989, ACS SYM SER, V394, P291
+   Marian C.M., 1988, J MOL STRUC-THEOCHEM, V169, P339, DOI 10.1016/0166-1280(88)80268-9
+   MINAMI T, 1995, THEOR CHIM ACTA, V90, P27, DOI 10.1007/BF01119780
+   VISSCHER L, 1994, COMPUT PHYS COMMUN, V81, P120, DOI 10.1016/0010-4655(94)90115-5
+   WATANABE Y, 1995, B CHEM SOC JPN, V68, P1915, DOI 10.1246/bcsj.68.1915
+NR 9
+TC 10
+Z9 10
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD SEP 1
+PY 1997
+VL 107
+IS 9
+BP 3738
+EP 3739
+DI 10.1063/1.474487
+PG 2
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA XU115
+UT WOS:A1997XU11500044
+ER
+
+PT J
+AU Sugiyama, S
+   Yamamoto, S
+   Matsuoka, O
+   Honda, T
+   Nozoye, H
+   Qiu, S
+   Yu, J
+   Terasaki, O
+AF Sugiyama, S
+   Yamamoto, S
+   Matsuoka, O
+   Honda, T
+   Nozoye, H
+   Qiu, S
+   Yu, J
+   Terasaki, O
+TI Surface structure of synthesized mordenite crystal studied by atomic
+   force microscopy
+SO SURFACE SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 16th European Conference on Surface Science
+CY SEP 09-13, 1996
+CL GENOA, ITALY
+SP European Phys Soc, Condensed Matter Div, Surface & Interface Sect, Int Union Vacuum Sci Technol & Applicat
+DE atomic force microscopy; low index single crystal surfaces; porous
+   solids; surface structure, morphology, roughness, and topography;
+   zeolites
+ID ZEOLITE SURFACE
+AB Atomic force microscopy (AFM) was used to examine the surface structure of synthesized mordenite (MOR) crystals, which are zeolites. Ir is the first time that atomic-scale imaging resolved the ordered Fore structure of the (001) surface of MOR, revealing 12-membered rings that play an important role in shape-selective catalysis. We also confirmed a previous hypothesis that the resolution of an AFM image of zeolite is significantly affected by the magnitude of periodical corrugation on the crystal surface. This work demonstrates that AFM is able to resolve directly the pore structure that governs the performance of shape-selective catalysis.
+C1 NATL INST MAT & CHEM RES,TSUKUBA,IBARAKI 305,JAPAN.
+   TOHOKU UNIV,DEPT PHYS,AOBA KU,SENDAI,MIYAGI 98077,JAPAN.
+   TOHOKU UNIV,INTERDISCIPLINARY RES CTR,AOBA KU,SENDAI,MIYAGI 98077,JAPAN.
+RP Sugiyama, S (reprint author), MITSUI TOATSU CHEM CO LTD,CENT RES INST,SAKAE KU,1190 KASAMA CHO,YOKOHAMA,KANAGAWA 247,JAPAN.
+RI yu, jihong/C-1381-2011
+OI yu, jihong/0000-0003-1991-2942
+CR ALFREDSSON V, 1993, ANGEW CHEM INT EDIT, V32, P1210, DOI 10.1002/anie.199312101
+   Breck D. W., 1974, ZEOLITE MOL SIEVES
+   KOMIYAMA M, 1994, JPN J APPL PHYS 1, V33, P3761, DOI 10.1143/JJAP.33.3761
+   MACDOUGALL JE, 1991, ZEOLITES, V11, P429, DOI 10.1016/S0144-2449(05)80112-5
+   MARTENS JA, 1995, ANGEW CHEM INT EDIT, V34, P2528, DOI 10.1002/anie.199525281
+   MCCUSKER LB, 1991, ACTA CRYSTALLOGR A, V47, P297, DOI 10.1107/S0108767391001964
+   Ohsuna T, 1996, P ROY SOC LOND A MAT, V452, P715, DOI 10.1098/rspa.1996.0036
+   SCANDELLA L, 1993, SURF SCI, V281, pL331, DOI 10.1016/0039-6028(93)90631-S
+   SUN Y, 1995, ZEOLITES, V15, P745, DOI 10.1016/0144-2449(95)00075-H
+   THOMAS JM, 1989, ZEOLITES FACTS FIGUR, P3
+   WEISENHORN AL, 1990, SCIENCE, V247, P1330, DOI 10.1126/science.247.4948.1330
+   WEISZ PB, 1960, J PHYS CHEM-US, V64, P382, DOI 10.1021/j100832a513
+   WEITKAMP J, 1991, CATALYSIS ADSORPTION
+   Whittingham M. S., 1982, INTERCALATION CHEM
+   Yamamoto S, 1996, CHEM PHYS LETT, V260, P208, DOI 10.1016/0009-2614(96)00833-0
+   Yamamoto S, 1996, J PHYS CHEM-US, V100, P18474, DOI 10.1021/jp961583v
+NR 16
+TC 21
+Z9 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0039-6028
+J9 SURF SCI
+JI Surf. Sci.
+PD APR 20
+PY 1997
+VL 377
+IS 1-3
+BP 140
+EP 144
+DI 10.1016/S0039-6028(96)01346-5
+PG 5
+WC Chemistry, Physical; Physics, Condensed Matter
+SC Chemistry; Physics
+GA WZ496
+UT WOS:A1997WZ49600031
+ER
+
+PT J
+AU Tatewaki, H
+   Matsuoka, O
+AF Tatewaki, H
+   Matsuoka, O
+TI All-electron Dirac-Fock-Roothaan calculations on the electronic
+   structure of the GdF molecule
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID GAUSSIAN-BASIS SETS; CONFIGURATIONS; CONTRACTIONS; LANTHANIDES;
+   DIATOMICS; ENERGIES
+AB The electronic structure of the GdF molecule is investigated using all-electron Dirac-Fock-Roothaan calculations. It is found that, in the ground state, the Gd atom transfers a 5d electron to the 2p spinors of the F atom, so that the molecule is ionic, having the configuration of Gd+F-. However, the molecule is not purely ionic, since the electrostatic field produced by Gd+ and F- causes the spinor energies of F 2s and one of the Gd 5p to be almost energetically degenerate so that these spinors strongly mix with each other and form covalent bonds. The electrostatic field also causes a large energy lowering for one of the 4f spinors, giving further stability to GdF. The 4f electrons of Gd should be regarded as valence electrons. The lower excited states and positively and negatively ionized states are found to be roughly described by Gd atomlike excitations, ionization, and electron attachments. (C) 1997 American Institute of Physics.
+C1 NAGOYA CITY UNIV,COMPUTAT CTR,NAGOYA,AICHI 467,JAPAN.
+   KYUSHU UNIV,DEPT CHEM,FUKUOKA 810,JAPAN.
+RP Tatewaki, H (reprint author), NAGOYA CITY UNIV,INST NAT SCI,NAGOYA,AICHI 467,JAPAN.
+CR BREWER L, 1971, J OPT SOC AM, V61, P1101, DOI 10.1364/JOSA.61.001101
+   BREWER L, 1971, J OPT SOC AM, V61, P1666, DOI 10.1364/JOSA.61.001666
+   DESCLAUX JP, 1975, COMPUT PHYS COMMUN, V9, P31, DOI 10.1016/0010-4655(75)90054-5
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DOLG M, HDB PHYSICS CHEM RAR, V20
+   DOLG M, 1989, THEOR CHIM ACTA, V75, P369, DOI 10.1007/BF00526695
+   Huber KP, 1978, MOL SPECTRA MOL STRU, V4
+   Huzinaga S., 1984, GAUSSIAN BASIS SETS
+   HUZINAGA S, 1993, CHEM PHYS LETT, V212, P260, DOI 10.1016/0009-2614(93)89323-A
+   JESKE G, 1985, J AM CHEM SOC, V107, P8111, DOI 10.1021/ja00312a052
+   Kaledin LA, 1996, J MOL SPECTROSC, V176, P148, DOI 10.1006/jmsp.1996.0072
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MINAMI T, 1995, THEOR CHIM ACTA, V90, P197
+   RAO CNR, 1989, ACCOUNTS CHEM RES, V22, P106, DOI 10.1021/ar00159a004
+   TATEWAKI H, 1995, PHYS REV A, V51, P197, DOI 10.1103/PhysRevA.51.197
+   WANG SG, 1995, J PHYS CHEM-US, V99, P11687, DOI 10.1021/j100030a011
+   WATANABE Y, 1995, B CHEM SOC JPN, V68, P1915, DOI 10.1246/bcsj.68.1915
+NR 17
+TC 28
+Z9 28
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD MAR 15
+PY 1997
+VL 106
+IS 11
+BP 4558
+EP 4565
+DI 10.1063/1.473480
+PG 8
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA WM910
+UT WOS:A1997WM91000020
+ER
+
+PT J
+AU Yamamoto, S
+   Sugiyama, S
+   Matsuoka, O
+   Kohmura, K
+   Honda, T
+   Banno, Y
+   Nozoye, H
+AF Yamamoto, S
+   Sugiyama, S
+   Matsuoka, O
+   Kohmura, K
+   Honda, T
+   Banno, Y
+   Nozoye, H
+TI Dissolution of zeolite in acidic and alkaline aqueous solutions as
+   revealed by AFM imaging
+SO JOURNAL OF PHYSICAL CHEMISTRY
+LA English
+DT Article
+ID ATOMIC-FORCE MICROSCOPY; CALCITE GROWTH; KINETICS; SURFACES; RESOLUTION;
+   QUARTZ; FAU; EMT
+AB Atomic force microscopy (AFM) makes it possible to directly detect morphological changes on the surface of a zeolite that are due to dissolution when the crystal is immersed in either an alkaline (0.1 N NaOH) or acidic (0.2 N H2SO4) aqueous solution at room temperature. The AFM images revealed for the first time that for heulandite (a natural zeolite crystal) (i) NaOH attacked the uppermost layer of aluminosilicate of the (100) surface, leaving isolated or agglomerated islands, (ii) similarly, H2SO4 attacked the (010) surface, forming pits, and (iii) step retreat did not occur for either solution. This unique dissolution pattern, in which the aluminosilicate layers of heulandite dissolve from terraces layer-by-layer, results from the characteristic pore structure of heulandite. This microscopic-level analysis should prove vital in the further development of new zeolite structures, which are critical to the activity of this important class of materials.
+C1 GEOL SURVEY JAPAN,TSUKUBA,IBARAKI 305,JAPAN.
+   NATL INST MAT & CHEM RES,TSUKUBA,IBARAKI 305,JAPAN.
+RP Yamamoto, S (reprint author), MITSUI TOATSU CHEM CO LTD,CENT RES INST,SAKAE KU,1190 KASAMA CHO,YOKOHAMA,KANAGAWA 247,JAPAN.
+CR ALFREDSSON V, 1993, ANGEW CHEM INT EDIT, V32, P1210, DOI 10.1002/anie.199312101
+   BARRER RM, 1968, MOL SIEVES, P141
+   Binder G, 1996, ZEOLITES, V16, P2, DOI 10.1016/0144-2449(95)00085-2
+   BOSHACH D, 1994, GEOCHIM ACTA, V58, P843
+   Breck D. W., 1974, ZEOLITE MOL SIEVES
+   CASY WH, 1988, GEOCHIM COSMOCHIM AC, V52, P2785
+   DELANNAY F, 1985, ZEOLITES, V5, P69, DOI 10.1016/0144-2449(85)90075-2
+   DURBIN SO, 1992, J CRYST GROWTH, V22, P71
+   GRATZ AJ, 1993, J CRYST GROWTH, V129, P789, DOI 10.1016/0022-0248(93)90515-X
+   GRATZ AJ, 1991, SCIENCE, V251, P1343, DOI 10.1126/science.251.4999.1343
+   GRATZ AJ, 1990, GEOCHIM COSMOCHIM AC, V54, P2911, DOI 10.1016/0016-7037(90)90109-X
+   HILLNER PE, 1992, GEOLOGY, V20, P359, DOI 10.1130/0091-7613(1992)020<0359:ASIOCG>2.3.CO;2
+   HILLNER PE, 1992, ULTRAMICROSCOPY, V42, P1387, DOI 10.1016/0304-3991(92)90454-R
+   HILLNER PE, 1994, J CRYST GROWTH, V141, P291
+   JOHNSSON PA, 1991, AM MINERAL, V76, P1442
+   MANNE S, 1993, J CRYST GROWTH, V130, P333, DOI 10.1016/0022-0248(93)90874-V
+   MERKLE AB, 1968, AM MINERAL, V53, P1120
+   OHSUNA T, 1994, CHEM MATER, V6, P2201, DOI 10.1021/cm00048a001
+   RAGNARSDOTTIR KV, 1993, GEOCHIM COSMOCHIM AC, V57, P2439, DOI 10.1016/0016-7037(93)90408-O
+   SCANDELLA L, 1993, SURF SCI, V281, pL331, DOI 10.1016/0039-6028(93)90631-S
+   SCHMIDT WU, 1994, J ELECTROCHEM SOC, V141, pL85, DOI 10.1149/1.2055046
+   SHINDO H, 1993, SURF SCI, V287, P1030, DOI 10.1016/0039-6028(93)91121-5
+   UNWIN PR, 1995, CHEM SOC REV, V24, P109, DOI 10.1039/cs9952400109
+   Weitkamp J, 1991, STUDIES SURFACE SCI
+   Whittingham M. S., 1982, INTERCALATION CHEM
+NR 25
+TC 48
+Z9 48
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0022-3654
+J9 J PHYS CHEM-US
+JI J. Phys. Chem.
+PD NOV 21
+PY 1996
+VL 100
+IS 47
+BP 18474
+EP 18482
+DI 10.1021/jp961583v
+PG 9
+WC Chemistry, Physical
+SC Chemistry
+GA VU825
+UT WOS:A1996VU82500027
+ER
+
+PT J
+AU Yamamoto, S
+   Matsuoka, O
+   Sugiyama, S
+   Honda, T
+   Banno, Y
+   Nozoye, H
+AF Yamamoto, S
+   Matsuoka, O
+   Sugiyama, S
+   Honda, T
+   Banno, Y
+   Nozoye, H
+TI Surface structure of natural crystals of mordenite as imaged by atomic
+   force microscopy
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID ZEOLITE
+AB Atomic force microscopy (AFM) has been applied to examine the surface of natural mordenite crystals in an 0.1 M NaOH aqueous solution, Wide-scan AFM images revealed that the crystals have a surface partially covered with aggregates of mordenite fine particles. Atomic-scale images showed surface structure that agreed well with the models of the (100) and (010) surface. The hydroxyl groups on the (100) surface could be resolved. The images also revealed that an important factor that determines the resolution of an AFM image of mordenite is the magnitude of the periodic corrugation on the crystal surface.
+C1 GEOL SURVEY JAPAN,TSUKUBA,IBARAKI 305,JAPAN.
+   NATL INST MAT & CHEM RES,TSUKUBA,IBARAKI 305,JAPAN.
+RP Yamamoto, S (reprint author), MITSUI TOATSU CHEM CO LTD,CENT RES INST,SAKAE KU,1190 KASAMA CHO,YOKOHAMA,KANAGAWA 247,JAPAN.
+CR ALBERTI A, 1986, Z KRISTALLOGR, V175, P249, DOI 10.1524/zkri.1986.175.3-4.249
+   ALFREDSSON V, 1993, ANGEW CHEM INT EDIT, V32, P1210, DOI 10.1002/anie.199312101
+   Breck D. W., 1974, ZEOLITE MOL SIEVES
+   GALLI E, 1971, ACTA CRYSTALL B-STRU, VB 27, P833, DOI 10.1107/S056774087100298X
+   KOMIYAMA M, 1994, JPN J APPL PHYS 1, V33, P3761, DOI 10.1143/JJAP.33.3761
+   MACDOUGALL JE, 1990, ZEOLITES, V11, P429
+   Meier W. M., 1992, ATLAS ZEOLITE STRUCT
+   SCANDELLA L, 1993, SURF SCI, V281, pL331, DOI 10.1016/0039-6028(93)90631-S
+   WEISENHORN AL, 1990, SCIENCE, V247, P1330, DOI 10.1126/science.247.4948.1330
+   WEITKAMP J, 1991, STUDIES SURF SCI CAT, V65
+   Whittingham M. S., 1982, INTERCALATION CHEM
+NR 11
+TC 14
+Z9 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD SEP 20
+PY 1996
+VL 260
+IS 1-2
+BP 208
+EP 214
+DI 10.1016/0009-2614(96)00833-0
+PG 7
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA VH100
+UT WOS:A1996VH10000035
+ER
+
+PT J
+AU Sano, T
+   Matsuoka, O
+AF Sano, T
+   Matsuoka, O
+TI Towards a calculation of the electronic structures of macromolecules .1.
+   quadratically convergent method for a direct calculation of localized
+   molecular orbitals
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+AB A super configuration-interaction method is applied to a direct calculation of orthogonal localized molecular orbitals (LMO). Its iterative procedure converges quadratically, retaining the initial forms of the LMOs. When the basis sets of large sizes are employed for the calculation, Davidson's diagonalization method can be adopted beneficially, where the time-consuming four-index transformation of LMO integrals is replaced by simpler two-index transformations. Test calculations using double-zeta basis sets are reported in detail for H2CO (formaldehyde). B2H6 (diborane), C3H4 (1-propyne [metylacetylene]), and cytosine. The implication of the method concerning macromolecular calculations is discussed.
+C1 KYUSHU UNIV, DEPT CHEM, FUKUOKA 810, JAPAN.
+   UNIV ELECTROCOMMUN, DEPT APPL PHYS & CHEM, CHOFU, TOKYO 182, JAPAN.
+CR ADAMS WH, 1961, J CHEM PHYS, V34, P89, DOI 10.1063/1.1731622
+   Andzelm J., 1984, GAUSSIAN BASIS SETS
+   BACSKAY GB, 1981, CHEM PHYS, V61, P385, DOI 10.1016/0301-0104(81)85156-7
+   DAUDEY JP, 1974, CHEM PHYS LETT, V24, P574, DOI 10.1016/0009-2614(74)80185-5
+   DAVIDSON ER, 1975, J COMPUT PHYS, V17, P87, DOI 10.1016/0021-9991(75)90065-0
+   EDMISTON C, 1963, REV MOD PHYS, V35, P457, DOI 10.1103/RevModPhys.35.457
+   FOSTER JM, 1960, REV MOD PHYS, V32, P300, DOI 10.1103/RevModPhys.32.300
+   GILBERT TL, 1964, MOL ORBITALS CHEM PH
+   GREIN F, 1971, CHEM PHYS LETT, V12, P44, DOI 10.1016/0009-2614(71)80612-7
+   GROPEN O, PROGRAM MOMPOS
+   HUZINAGA S, 1965, J CHEM PHYS, V42, P12932
+   KUNZ AB, 1971, PHYS STATUS SOLIDI, V44, P83
+   LEONARD JM, 1982, THEOR CHIM ACTA, V62, P107, DOI 10.1007/BF00581477
+   LOWDIN PO, 1950, J CHEM PHYS, V18, P365
+   MAGNASCO V, 1967, J CHEM PHYS, V47, P971, DOI 10.1063/1.1712065
+   MATSUOKA O, 1977, J CHEM PHYS, V66, P1245, DOI 10.1063/1.434017
+   PETERS D, 1969, J CHEM PHYS, V51, P1559, DOI 10.1063/1.1672211
+   PIPEK J, 1989, J CHEM PHYS, V90, P4916, DOI 10.1063/1.456588
+   Read A. E., 1985, J CHEM PHYS, V83, P1736
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   STOLL H, 1980, THEOR CHIM ACTA, V57, P169, DOI 10.1007/BF00574903
+   von Niessen W., 1972, Journal of Chemical Physics, V56, DOI 10.1063/1.1677859
+   WILHITE DL, 1973, J CHEM PHYS, V58, P948, DOI 10.1063/1.1679350
+NR 23
+TC 8
+Z9 8
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PD AUG
+PY 1996
+VL 69
+IS 8
+BP 2195
+EP 2199
+DI 10.1246/bcsj.69.2195
+PG 5
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA VF681
+UT WOS:A1996VF68100011
+ER
+
+PT J
+AU Yamamoto, S
+   Matsuoka, O
+   Fukada, I
+   Ashida, Y
+   Honda, T
+   Yamamoto, N
+AF Yamamoto, S
+   Matsuoka, O
+   Fukada, I
+   Ashida, Y
+   Honda, T
+   Yamamoto, N
+TI Using atomic force microscopy to image the surface of the powdered
+   catalyst KMn8O16
+SO JOURNAL OF CATALYSIS
+LA English
+DT Article
+AB Atomic force microscopy (AFM) was used to determine the atomic configuration and topography of the surface of KMn8O16, a powdered form of alpha-manganese dioxide (alpha-MnO2) containing K ions, By depositing the powder on mica, we were able for the first time to use AFM to image the surface of the powder. We took three types of images: low-resolution, wide-scan (5 x 5 mu m(2) region); high-resolution (500 x 500 nm(2) region); and atomic-scale (10 x 10 and 2 x 2 nm(2) regions). The low-resolution imaging showed that the powder has needle-like crystallites. The high-resolution imaging showed that the surface of the powder has a ''faceted'' structure, The atomic-scale imaging revealed that the facet plane has a hill-and-valley structure with a height difference of 0.2-0.3 nm along the crystal C axis, Furthermore, the surfaces of the hills were (110) surfaces, and those of the valleys were surfaces formed by the removal of O-Mn-O units from these (110) surfaces, Atomic-scale imaging of a hill shows a periodic structure that corresponds to the configuration of surface hydroxyl species and bridging oxygen atoms of the (110) plane, The close agreement that we found when we superimposed the atomic-scale images and the bulk structure projection indicates that there is no reconstruction on the (110) surface of powdered KMn8O16. (C) 1996 Academic Press, Inc.
+C1 KYOTO UNIV,GRAD SCH HUMAN & ENVIRONM STUDIES,SAKYO KU,KYOTO 60601,JAPAN.
+RP Yamamoto, S (reprint author), MITSUI TOATSU CHEM CO LTD,CENT RES INST,SAKAE KU,KASAMA CHO,YOKOHAMA,KANAGAWA 247,JAPAN.
+CR BINNIG G, 1986, PHYS REV LETT, V56, P930, DOI 10.1103/PhysRevLett.56.930
+   COOK MJ, 1966, J CHEM SOC CHEM COMM, P121
+   FANCHON VJ, 1986, ACTA CRYSTALLOGR S B, P162
+   FRIEDBACHER G, 1991, SCIENCE, V253, P1261, DOI 10.1126/science.253.5025.1261
+   GOODMAN P, 1974, ACTA CRYSTALLOGR A, VA 30, P280, DOI 10.1107/S056773947400057X
+   GOULD SAC, 1990, J VAC SCI TECHNOL A, V8, P369, DOI 10.1116/1.576398
+   HAEFEL LR, 1972, IND ENG CHEM PROD RD, V11, P365
+   HENRICH VE, 1994, SURFACE SCI METAL OX, P43
+   HOCHELLA MF, 1990, AM MINERAL, V75, P723
+   KAPTEIJN F, 1994, J CATAL, V150, P94, DOI 10.1006/jcat.1994.1325
+   LINDGREEN H, 1992, CLAY MINER, V27, P331, DOI 10.1180/claymin.1992.027.3.06
+   LIU TT, 1988, J CHEM SOC CHEM COMM, P715
+   MATSUOKA O, UNPUB
+   Merrill DR, 1921, J AM CHEM SOC, V43, P1982, DOI 10.1021/ja01442a002
+   MIURA H, 1982, CHEM LETT, P183, DOI 10.1246/cl.1982.183
+   NAKANO Y, 1993, J SURF SCI SOC JPN, V14, P342
+   OCCELLI ML, 1993, J CATAL, V142, P337, DOI 10.1006/jcat.1993.1212
+   OCCELLI ML, 1994, CHEMTECH         MAY, P24
+   ONISHI H, 1994, SURF SCI, V313, pL783, DOI 10.1016/0039-6028(94)91146-0
+   POST JE, 1982, ACTA CRYSTALLOGR B, V38, P1056, DOI 10.1107/S0567740882004968
+   SIPERKO LM, 1994, ANALYST, V119, P1935, DOI 10.1039/an9941901935
+   SUGIYAMA K, 1986, B CHEM SOC JPN, V59, P2983, DOI 10.1246/bcsj.59.2983
+   YAMAMOTO N, 1974, JPN J APPL PHYS, V13, P723, DOI 10.1143/JJAP.13.723
+NR 23
+TC 16
+Z9 16
+PU ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495
+SN 0021-9517
+J9 J CATAL
+JI J. Catal.
+PD APR 1
+PY 1996
+VL 159
+IS 2
+BP 401
+EP 409
+DI 10.1006/jcat.1996.0103
+PG 9
+WC Chemistry, Physical; Engineering, Chemical
+SC Chemistry; Engineering
+GA UK197
+UT WOS:A1996UK19700018
+ER
+
+PT J
+AU WATANABE, Y
+   MATSUOKA, O
+AF WATANABE, Y
+   MATSUOKA, O
+TI SEGMENTED CONTRACTIONS OF GAUSSIAN-BASIS SETS FOR RELATIVISTIC MOLECULAR
+   CALCULATIONS
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+AB A method for segmented contractions of relativistic Gaussian basis sets is proposed, in which the large- and the small-component coefficients of the contracted basis sets are taken directly from the uncontracted relativistic basis sets and their kinetic balance is disregarded. The energy increases by this contraction scheme are found to be very small and the variational collapse does not occur. This method also reproduces very well the orbital energies and the radial expectation values of uncontracted basis sets. Examples of calculations on iodine (Z=53), gold (Z=79), and thorium (Z=90) are reported in detail.
+C1 UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR CLEMENTI E, 1966, J CHEM PHYS, V45, P2593, DOI 10.1063/1.1727979
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DYALL KG, 1991, J CHEM PHYS, V95, P2583, DOI 10.1063/1.460911
+   GROPEN O, 1987, J COMPUT CHEM, V8, P982, DOI 10.1002/jcc.540080708
+   HUZINAGA S, 1979, J CHEM PHYS, V71, P1980, DOI 10.1063/1.438515
+   ISHIKAWA Y, 1993, CHEM PHYS LETT, V212, P547, DOI 10.1016/0009-2614(93)87243-V
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, 1992, CHEM PHYS LETT, V195, P184, DOI 10.1016/0009-2614(92)86133-3
+   MCLEAN AD, 1980, J CHEM PHYS, V72, P5639, DOI 10.1063/1.438980
+   MINAMI T, 1995, THEOR CHIM ACTA, V90, P27, DOI 10.1007/BF01119780
+   RAFFENET.RC, 1973, J CHEM PHYS, V58, P4452, DOI 10.1063/1.1679007
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   STROMBERG A, 1913, J COMPUT CHEM, V4, P181
+   VISSER O, 1992, J CHEM PHYS, V96, P2910, DOI 10.1063/1.461987
+NR 14
+TC 5
+Z9 5
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO 101, JAPAN
+SN 0009-2673
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PD JUL
+PY 1995
+VL 68
+IS 7
+BP 1915
+EP 1919
+DI 10.1246/bcsj.68.1915
+PG 5
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA RR753
+UT WOS:A1995RR75300019
+ER
+
+PT J
+AU TATEWAKI, H
+   SEKIYA, M
+   SASAKI, F
+   MATSUOKA, O
+   KOGA, T
+AF TATEWAKI, H
+   SEKIYA, M
+   SASAKI, F
+   MATSUOKA, O
+   KOGA, T
+TI 6S AND 4F IONIZED STATES OF THE LANTHANIDES CALCULATED BY NUMERICAL AND
+   ANALYTICAL HARTREE-FOCK METHODS
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID GAUSSIAN-BASIS SETS; ELECTRONIC CONFIGURATIONS; ENERGIES; ATOMS
+C1 HOKKAIDO UNIV,FAC SCI,DEPT CHEM,SAPPORO,HOKKAIDO 060,JAPAN.
+   UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+   MURORAN INST TECHNOL,DEPT APPL CHEM,MURORAN,HOKKAIDO 050,JAPAN.
+RP TATEWAKI, H (reprint author), NAGOYA CITY UNIV,CTR COMPUTAT,NAGOYA,AICHI 467,JAPAN.
+CR BREWER L, 1971, J OPT SOC AM, V61, P1101, DOI 10.1364/JOSA.61.001101
+   BREWER L, 1971, J OPT SOC AM, V61, P1666, DOI 10.1364/JOSA.61.001666
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   Fraga S, 1976, HDB ATOMIC DATA
+   FROESEFISCHER C, 1977, HARTREEFOCK METHOD A
+   Froese Fischer C., 1973, Atomic Data and Nuclear Data Tables, V12, DOI 10.1016/0092-640X(73)90014-4
+   Froese Fischer C., 1972, Computer Physics Communications, V4, DOI 10.1016/0010-4655(72)90039-2
+   Froese-Fischer C., 1972, ATOM DATA, V4, P301
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   HUZINAGA S, 1993, CHEM PHYS LETT, V212, P260, DOI 10.1016/0009-2614(93)89323-A
+   JESKE G, 1985, J AM CHEM SOC, V107, P8111, DOI 10.1021/ja00312a052
+   KOGA T, 1994, J CHEM PHYS, V100, P8140, DOI 10.1063/1.466808
+   Mann J.B., 1973, Atomic Data and Nuclear Data Tables, V12, DOI 10.1016/0092-640X(73)90013-2
+   Martin W.C., 1974, Journal of Physical and Chemical Reference Data, V3
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   RAO CNR, 1989, ACCOUNTS CHEM RES, V22, P106, DOI 10.1021/ar00159a004
+   SASAKI F, 1991, MOTECC 91, P115
+   TATEWAKI H, 1994, CHEM PHYS LETT, V228, P562, DOI 10.1016/0009-2614(94)00993-7
+   TATEWAKI H, 1994, J CHEM PHYS, V101, P4945, DOI 10.1063/1.467417
+NR 20
+TC 25
+Z9 25
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JAN
+PY 1995
+VL 51
+IS 1
+BP 197
+EP 203
+DI 10.1103/PhysRevA.51.197
+PG 7
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA QD219
+UT WOS:A1995QD21900033
+ER
+
+PT J
+AU MINAMI, T
+   MATSUOKA, O
+AF MINAMI, T
+   MATSUOKA, O
+TI RELATIVISTIC GAUSSIAN-BASIS SETS FOR RADON THROUGH PLUTONIUM
+SO THEORETICA CHIMICA ACTA
+LA English
+DT Article
+DE RELATIVISTIC GAUSSIAN BASIS SETS; RADON; ACTINIDES; DIRAC; COULOMB
+   HAMILTONIAN; BREIT INTERACTION
+ID FOCK-ROOTHAAN CALCULATIONS; ATOMS; MERCURY; HELIUM; RN
+AB Relativistic Gaussian basis sets of neutral atoms Rn-Pu and ions Th+4, U+3 and Pu+3 in the configurations of average energies are presented.  The exponent parameters of the basis sets are determined by least-squares fitting to the numerical Dirac-Fock wave functions.  The total energies obtained are within 0.155 a.u. of the Dirac-Fock limits and the qualities of the basis sets are between double-zeta and triple-zeta in the valence parts.  Using the exponent parameters the Breit interaction energies have been calculated by perturbation theory and the self-consistent field treatment.
+RP MINAMI, T (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR CHANDLER JP, 1969, QUANTUM CHEM PROGRAM
+   DASILVA ABF, 1993, PHYS REV A, V47, P143
+   DASILVA ABF, 1993, CAN J CHEM, V71, P1713
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1977, COMP PHYS COMMUN, V9, P31
+   DESCLAUX JP, 1977, COMPUT PHYS COMMUN, V13, P71
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   FAEGRI K, 1987, THEOR CHIM ACTA, V72, P297, DOI 10.1007/BF00529034
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   HUZINAGA S, 1986, J MOL STRUC-THEOCHEM, V135, P403, DOI 10.1016/0166-1280(86)80072-0
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   Marian C.M., 1988, J MOL STRUC-THEOCHEM, V169, P339, DOI 10.1016/0166-1280(88)80268-9
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   MATSUOKA O, 1993, CHEM PHYS LETT, V202, P13, DOI 10.1016/0009-2614(93)85343-M
+   MATSUOKA O, 1989, B U ELECTROCOMM, V2, P13
+   MOHANTY AK, 1990, J CHEM PHYS, V93, P1829, DOI 10.1063/1.459110
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   OKADA S, 1990, J CHEM PHYS, V93, P5013, DOI 10.1063/1.458638
+   RUEDENBERG K, 1972, 197I P BOULD C THEOR, V164
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   Yamamoto H., 1992, Bulletin of the University of Electro-Communications, V5
+NR 21
+TC 51
+Z9 51
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0040-5744
+J9 THEOR CHIM ACTA
+JI Theor. Chim. Acta
+PD JAN
+PY 1995
+VL 90
+IS 1
+BP 27
+EP 39
+DI 10.1007/BF01119780
+PG 13
+WC Chemistry, Physical
+SC Chemistry
+GA PZ692
+UT WOS:A1995PZ69200002
+ER
+
+PT J
+AU MATSUOKA, O
+   KUMAZAWA, S
+   AOKI, Y
+   NAKAMURA, Y
+   TAKEDA, A
+   KUSAMA, T
+   INBA, J
+   TANAKA, Y
+AF MATSUOKA, O
+   KUMAZAWA, S
+   AOKI, Y
+   NAKAMURA, Y
+   TAKEDA, A
+   KUSAMA, T
+   INBA, J
+   TANAKA, Y
+TI RISKS ASSOCIATED WITH UTILIZATION OF RADIATION
+SO JOURNAL OF THE ATOMIC ENERGY SOCIETY OF JAPAN
+LA Japanese
+DT Article
+NR 0
+TC 0
+Z9 0
+PU ATOMIC ENERGY SOC JAPAN
+PI TOKYO
+PA 1-1-13 SHIMBASHI MINATO-KU, TOKYO 105, JAPAN
+SN 0004-7120
+J9 J ATOM ENERG SOC JPN
+JI J. At. Energy Soc. Jpn.
+PD JUL
+PY 1993
+VL 35
+IS 7
+BP 595
+EP 615
+PG 21
+WC Nuclear Science & Technology
+SC Nuclear Science & Technology
+GA LR134
+UT WOS:A1993LR13400002
+ER
+
+PT J
+AU MATSUOKA, O
+   PISANI, L
+   CLEMENTI, E
+AF MATSUOKA, O
+   PISANI, L
+   CLEMENTI, E
+TI ALL-ELECTRON DIRAC-FOCK-ROOTHAAN CALCULATIONS ON LEAD-OXIDE
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID ENERGY; PBO
+AB All-electron (relativistic) Dirac-Fock-Roothaan calculations on the ground state of PbO have been performed. The spectroscopic constants r(e) (equilibrium bond length), omega(e) (harmonic frequency) and D(e) (dissociation energy) have been evaluated and compared to the (nonrelativistic) Hartree-Fock calculations and the experimental data. An extended basis set has been used in almost uncontracted form and the quality of the wavefunction is expected to be near to the Dirac-Fock and the Hartree-Fock limits. We find a 1% relativistic contraction of r(e) and a 10% variation in the relativistic computation of omega(e). The calculated r(e) and omega(e) are comparable to the experimental data. The computed D(e) is about one third of the experimental value; use of density functionals yields the remaining two thirds, thus confirming a large correlation effect.
+C1 CRS4,I-09100 CAGLIARI,ITALY.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR BALASUBRAMANIAN K, 1983, J PHYS CHEM-US, V87, P4857, DOI 10.1021/j150642a019
+   BASCH H, 1981, J CHEM PHYS, V74, P2416, DOI 10.1063/1.441363
+   BECKE AD, 1988, J CHEM PHYS, V88, P1053, DOI 10.1063/1.454274
+   CLEMENTI E, 1990, J CHEM PHYS, V93, P2591, DOI 10.1063/1.458899
+   CLEMENTI E, 1991, MOTECC91 ESCOM, pCH8
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   FAEGRI K, 1987, THEOR CHIM ACTA, V72, P297, DOI 10.1007/BF00529034
+   Froese-Fischer C., 1977, HARTREE FOCK METHOD
+   GRANT IP, 1980, COMPUT PHYS COMMUN, V21, P207, DOI 10.1016/0010-4655(80)90041-7
+   Huzinaga S., 1984, GAUSSIAN BASIS SETS
+   LEE CT, 1988, PHYS REV B, V37, P785, DOI 10.1103/PhysRevB.37.785
+   MATSUOKA O, 1992, J CHEM PHYS, V97, P2271, DOI 10.1063/1.463118
+   MATSUOKA O, IN PRESS MOTECC 93
+   MATSUOKA O, 1992, CHEM PHYS LETT, V195, P184, DOI 10.1016/0009-2614(92)86133-3
+   MOHANY AK, 1991, MOTECC 91
+   MULLIKEN RS, 1955, J CHEM PHYS, V23, P2343, DOI 10.1063/1.1741877
+   MULLIKEN RS, 1955, J CHEM PHYS, V23, P1833, DOI 10.1063/1.1740588
+   PERDEW JP, 1981, PHYS REV B, V23, P5048, DOI 10.1103/PhysRevB.23.5048
+   SCHWENZE.GM, 1973, J CHEM PHYS, V58, P3181, DOI 10.1063/1.1679639
+   STANTON RE, 1984, J CHEM PHYS, V81, P207
+   [Anonymous], 1979, MOL SPECTRA MOL STRU, V4
+NR 21
+TC 17
+Z9 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD JAN 15
+PY 1993
+VL 202
+IS 1-2
+BP 13
+EP 17
+DI 10.1016/0009-2614(93)85343-M
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA KH008
+UT WOS:A1993KH00800003
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI RELATIVISTIC SELF-CONSISTENT-FIELD METHODS FOR MOLECULES .3.
+   ALL-ELECTRON CALCULATIONS ON DIATOMICS HI, HI+, ATH, AND ATH+
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID GAUSSIAN-BASIS SETS; HARTREE-FOCK CALCULATIONS; DIRAC-EQUATION;
+   ALGEBRAIC-APPROXIMATION; ROOTHAAN CALCULATIONS; BREIT INTERACTION;
+   KINETIC BALANCE; ATOMS; ELEMENTS; ENERGY
+AB All-electron relativistic and nonrelativistic self-consistent-field programs have been developed and calculations on diatomics HI, HI+, AtH, and AtH+ have been performed to get the spectroscopic constants. The results of HI, HI+, and AtH agree fairly well with those by the effective-core potential methods. The relativistic contractions of bond lengths of AtH and AtH+ are found to be about 2%. Contrary to the common belief, the harmonic frequencies found from the relativistic calculations are smaller than those of the nonrelativistic calculations.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR AERTS PJC, 1986, INT J QUANTUM CHEM S, V19, P267
+   AOYAMA T, 1980, J CHEM PHYS, V73, P1329, DOI 10.1063/1.440246
+   BAECK KK, 1988, CHEM PHYS LETT, V147, P367, DOI 10.1016/0009-2614(88)80250-1
+   BAECK KK, 1990, J CHEM PHYS, V93, P5775, DOI 10.1063/1.459572
+   DATTA SN, 1982, CHEM PHYS LETT, V85, P443, DOI 10.1016/0009-2614(82)83490-8
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   DOLG M, 1991, MOL PHYS, V74, P1265, DOI 10.1080/00268979100102951
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P1201, DOI 10.1088/0022-3700/17/7/009
+   DYALL KG, 1992, J CHEM PHYS, V96, P1210, DOI 10.1063/1.462208
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   DYALL KG, 1991, J CHEM PHYS, V95, P2583, DOI 10.1063/1.460911
+   Edmonds A R, 1957, ANGULAR MOMENTUM QUA
+   FAEGRI K, 1987, THEOR CHIM ACTA, V72, P297, DOI 10.1007/BF00529034
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   FROESEFISCHER C, 1977, HARTREEFOCK METHOD A
+   GROVER JR, 1982, J CHEM PHYS, V76, P362, DOI 10.1063/1.442731
+   Huzinaga S., 1984, GAUSSIAN BASIS SETS
+   ISHIKAWA Y, 1989, INT J QUANTUM CHEM S, V23, P339
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   ISHIKAWA Y, 1988, INT J QUANTUM CHEM S, V22, P457
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   LAAKSONEN L, 1988, J PHYS B-AT MOL OPT, V21, P1969, DOI 10.1088/0953-4075/21/11/013
+   LEE YS, 1982, J CHEM PHYS, V76, P735, DOI 10.1063/1.442680
+   LEE YS, 1989, J COMPUT CHEM, V10, P112, DOI 10.1002/jcc.540100112
+   MARK F, 1980, CHEM PHYS LETT, V71, P507, DOI 10.1016/0009-2614(80)80214-4
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, UNPUB
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4362
+   MATSUOKA O, 1989, B U ELECTROCOMM, V2, P2
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P567, DOI 10.1016/0009-2614(87)80488-8
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P362, DOI 10.1016/0009-2614(87)80747-9
+   MATSUOKA O, 1985, CHEM PHYS LETT, V113, P395, DOI 10.1016/0009-2614(85)80389-4
+   MATSUOKA O, 1992, J CHEM PHYS, V96, P6773, DOI 10.1063/1.462565
+   MATSUOKA O, 1980, J CHEM PHYS, V73, P1320, DOI 10.1063/1.440245
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P544, DOI 10.1016/0009-2614(89)87470-6
+   MOHANTY A, 1991, INT J QUANTUM CHEM, V39, P487, DOI 10.1002/qua.560390322
+   MOHANTY AK, 1990, J CHEM PHYS, V93, P1829, DOI 10.1063/1.459110
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   OKADA S, 1990, J CHEM PHYS, V93, P5013, DOI 10.1063/1.458638
+   PYYKKO P, 1981, INORG CHEM, V20, P1950, DOI 10.1021/ic50221a002
+   PYYKKO P, 1988, CHEM REV, V88, P563, DOI 10.1021/cr00085a006
+   QUINEY HM, 1989, J PHYS B-AT MOL OPT, V22, pL15, DOI 10.1088/0953-4075/22/2/001
+   QUINEY HM, 1987, J PHYS B-AT MOL OPT, V20, P1413, DOI 10.1088/0022-3700/20/7/010
+   QUINEY HM, 1990, J PHYS B-AT MOL OPT, V23, pL271, DOI 10.1088/0953-4075/23/13/002
+   ROSEN A, 1978, INT J QUANTUM CHEM, V13, P509, DOI 10.1002/qua.560130406
+   SCHWERDTFEGER P, 1986, THESIS U STUTTGART
+   SCHWERDTFEGER P, 1987, J CHEM PHYS, V87, P510, DOI 10.1063/1.453597
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   STROMBERG A, 1983, J COMPUT CHEM, V4, P181, DOI 10.1002/jcc.540040210
+   [Anonymous], 1979, MOL SPECTRA MOL STRU, V4
+NR 52
+TC 46
+Z9 47
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD AUG 15
+PY 1992
+VL 97
+IS 4
+BP 2271
+EP 2275
+DI 10.1063/1.463118
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA JJ411
+UT WOS:A1992JJ41100009
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI SEGMENTED CONTRACTIONS OF RELATIVISTIC GAUSSIAN-BASIS SETS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID KINETIC BALANCE; ELEMENTS; RN
+AB Dirac-Fock-Roothaan calculations have been performed using various sizes of contractions of Gaussian basis sets for iodine (Z = 53) and gold (Z = 79).  The results show that contractions of large exponent bases of s and p symmetry species have large effects on the total energies and the orbital energies.  A procedure for forming contracted basis sets for use in relativistic calculations is suggested.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DYALL KG, 1992, J CHEM PHYS, V96, P1210, DOI 10.1063/1.462208
+   DYALL KG, 1991, J CHEM PHYS, V95, P2583, DOI 10.1063/1.460911
+   DYALL KG, 1990, CHEM PHYS LETT, V174, P25, DOI 10.1016/0009-2614(90)85321-3
+   GROPEN O, 1987, J COMPUT CHEM, V8, P982, DOI 10.1002/jcc.540080708
+   ISHIKAWA Y, 1990, CHEM PHYS LETT, V165, P237, DOI 10.1016/0009-2614(90)85436-G
+   ISHIKAWA Y, 1991, CHEM PHYS LETT, V179, P291, DOI 10.1016/0009-2614(91)87040-I
+   ISHIKAWA Y, 1991, INT J QUANT CHEM S, V25, P113
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   RAFFENET.RC, 1973, J CHEM PHYS, V58, P4452, DOI 10.1063/1.1679007
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   STROMBERG A, 1983, J COMPUT CHEM, V4, P181, DOI 10.1002/jcc.540040210
+   VISSCHER L, 1991, EFFECTS RELATIVITY A
+   VISSCHER L, 1991, INT J QUANTUM CHEM S, V25, P131
+NR 16
+TC 8
+Z9 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD JUL 17
+PY 1992
+VL 195
+IS 2-3
+BP 184
+EP 188
+DI 10.1016/0009-2614(92)86133-3
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA JE926
+UT WOS:A1992JE92600013
+ER
+
+PT J
+AU FUJIMURA, N
+   MATSUOKA, O
+AF FUJIMURA, N
+   MATSUOKA, O
+TI MOLECULAR INTEGRALS OF BREIT INTERACTION OVER LAGUERRE GAUSSIAN-TYPE
+   FUNCTIONS
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article
+AB The Breit interaction consists of two interactions of the magnetic and the retardation terms.  The molecular integrals involving the former interaction are shown to be reduced to the familiar integrals of the Coulomb repulsion.  The intergrals involving the latter interaction are formulated over the Laguerre Gaussian-type functions and some advantages of the formulation are discussed.  Bayman's gradient formula of the solid spherical harmonic is generalized to include the gradient of the homogeneous solid spherical harmonic.
+RP FUJIMURA, N (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR ABRAMONITZ M, 1965, HDB MATH FUNCTIONS
+   BAYMAN BF, 1978, J MATH PHYS, V19, P2558, DOI 10.1063/1.523640
+   Bethe H. A., 1957, QUANTUM MECHANICS ON, P181
+   BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   Condon E.U., 1951, THEORY ATOMIC SPECTR
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   KAY KG, 1969, J CHEM PHYS, V51, P2363, DOI 10.1063/1.1672353
+   KAY KG, 1969, J CHEM PHYS, V51, P2359, DOI 10.1063/1.1672352
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4364, DOI 10.1063/1.457744
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P544, DOI 10.1016/0009-2614(89)87470-6
+   MESSIAH A, 1961, QUANTUM MECHANICS, P580
+   OKADA S, 1990, J CHEM PHYS, V93, P5013, DOI 10.1063/1.458638
+   O-Ohata K., 1966, Journal of Mathematical Physics, V7, DOI 10.1063/1.1704965
+   POPLE JA, 1978, J COMPUT PHYS, V27, P161, DOI 10.1016/0021-9991(78)90001-3
+   PYYKKO P, 1988, CHEM REV, V88, P563, DOI 10.1021/cr00085a006
+   QUINEY HM, 1987, J PHYS B-AT MOL OPT, V20, P1413, DOI 10.1088/0022-3700/20/7/010
+   ROSICKY F, 1982, CHEM PHYS LETT, V85, P195, DOI 10.1016/0009-2614(82)80331-X
+   SAKURAI JJ, 1967, ADV QUANTUM MECHANIC, P87
+   Shavitt I., 1963, METHODS COMPUTATIONA, V2, P1
+NR 20
+TC 6
+Z9 6
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0020-7608
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PD MAY 20
+PY 1992
+VL 42
+IS 4
+BP 751
+EP 759
+DI 10.1002/qua.560420415
+PG 9
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Physics, Atomic, Molecular & Chemical
+SC Chemistry; Mathematics; Physics
+GA HL977
+UT WOS:A1992HL97700012
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI A FROZEN-CORE APPROXIMATION USING REDUCED CORE-BASIS FUNCTIONS
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MODEL POTENTIAL METHOD; MAIN GROUP ELEMENTS; MOLECULAR CALCULATIONS;
+   TRANSITION-METALS; ORBITALS; SYSTEMS
+AB A frozen-core approximation (FCA) is proposed using a new orthogonalization method of the valence basis functions to the core orbitals.  The orthogonalization is done through corelike basis functions in contrast to the usual Schmidt process in which the valence basis functions are directly orthogonalized to the core orbitals.  The FCA using the new orthogonalization is mathematically rigorous and attains saving of the computation using the reduced corelike basis functions.  Numerical calculations on diatomic molecules HCl, N2, P2, and Cl2 reproduced well the results of all-electron calculations.  Discussion on the proposed FCA is given especially in connection with the model-potential methods of Huzinaga and co-workers.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR Andzelm J., 1984, GAUSSIAN BASIS SETS
+   BANERJEE A, 1991, INT J QUANTUM CHEM, V39, P747, DOI 10.1002/qua.560390510
+   BONIFACI.V, 1974, J CHEM PHYS, V60, P2779, DOI 10.1063/1.1681443
+   CHRISTIANSEN PA, 1985, ANNU REV PHYS CHEM, V36, P407, DOI 10.1146/annurev.physchem.36.1.407
+   COLLE R, 1986, MOL PHYS, V57, P1305, DOI 10.1080/00268978600100931
+   DIXON RN, 1979, MOL PHYS, V37, P1223, DOI 10.1080/00268977900100891
+   FANTUCCI P, 1987, GAZZ CHIM ITAL, V117, P109
+   FANTUCCI P, 1988, THEOR CHIM ACTA, V73, P393
+   FINK WH, 1972, J CHEM PHYS, V57, P1822, DOI 10.1063/1.1678496
+   FRAGA S, 1961, J CHEM PHYS, V35, P669, DOI 10.1063/1.1731987
+   HERZBERG G, 1950, SPECTRA DIATOMIC MOL, P90
+   Hinze J., 1974, ADV CHEM PHYS, V26, P213, DOI 10.1002/9780470143780.ch5
+   Huzinaga S, 1988, J MOL STRUCT THEOCHE, V167, P1, DOI 10.1016/0166-1280(88)87042-8
+   HUZINAGA S, 1987, J CHEM PHYS, V86, P2132, DOI 10.1063/1.452111
+   KATSUKI S, 1988, CHEM PHYS LETT, V152, P203, DOI 10.1016/0009-2614(88)87355-X
+   KRAUSS M, 1984, ANNU REV PHYS CHEM, V35, P357, DOI 10.1146/annurev.physchem.35.1.357
+   LEASURE SC, 1983, J CHEM PHYS, V80, P1186
+   Matsuoka O., 1989, Bulletin of the University of Electro-Communications, V2
+   PELISSIER M, 1988, J COMPUT CHEM, V9, P298, DOI 10.1002/jcc.540090404
+   PETTERSSON L, 1982, CHEM PHYS, V69, P185, DOI 10.1016/0301-0104(82)88145-7
+   PETTERSSON LGM, 1983, CHEM PHYS, V80, P7, DOI 10.1016/0301-0104(83)85164-7
+   SACHS ES, 1975, J CHEM PHYS, V62, P3393, DOI 10.1063/1.430993
+   SAKAI Y, 1982, J CHEM PHYS, V76, P2537, DOI 10.1063/1.443285
+   SAKAI Y, 1982, J CHEM PHYS, V76, P2552, DOI 10.1063/1.443286
+   SAKAI Y, 1981, J CHEM PHYS, V75, P1303, DOI 10.1063/1.442133
+   SEIJO L, 1989, J CHEM PHYS, V91, P7011, DOI 10.1063/1.457317
+   STROMBERG A, 1984, J CHEM PHYS, V80, P1593
+   YOSHIMIN.M, 1973, J COMPUT PHYS, V11, P449, DOI 10.1016/0021-9991(73)90085-5
+NR 28
+TC 9
+Z9 9
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD MAY 1
+PY 1992
+VL 96
+IS 9
+BP 6773
+EP 6777
+DI 10.1063/1.462565
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA HR467
+UT WOS:A1992HR46700045
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI MOLECULAR INTEGRALS OVER LAGUERRE GAUSSIAN-TYPE FUNCTIONS OF REAL
+   SPHERICAL-HARMONICS
+SO CANADIAN JOURNAL OF CHEMISTRY-REVUE CANADIENNE DE CHIMIE
+LA English
+DT Article
+DE MOLECULAR INTEGRAL; GAUSSIAN-TYPE FUNCTION; SPHERICAL HARMONIC; SOLID
+   HARMONIC; SONINE POLYNOMIAL
+AB Molecular integrals are formulated over the Laguerre Gaussian-type functions (LGTF) of real spherical harmonics. They include the overlap integrals and the energy integrals of kinetic, nuclear attraction, and electron repulsion. For the nuclear-attraction integrals the formulations based on the point as well as the Gaussian nuclear charge distribution models are presented. Integral formulas over the LGTFs of real spherical harmonics are found a little more complicated than those of the LGTFs of complex spherical harmonics due to the summations over magnetic quantum numbers.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,CHOFU,TOKYO 182,JAPAN.
+CR BAYMAN BF, 1978, J MATH PHYS, V19, P2558, DOI 10.1063/1.523640
+   BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   FUJIMURA N, IN PRESS INT J QUANT
+   MATSUOKA O, 1990, J CHEM PHYS, V92, P4364, DOI 10.1063/1.457744
+   MOSHINSKY M, 1959, NUCL PHYS, V13, P104, DOI 10.1016/0029-5582(59)90143-9
+   NIUKKANEN AW, 1980, CHEM PHYS LETT, V69, P174, DOI 10.1016/0009-2614(80)80038-8
+   O-Ohata K., 1966, Journal of Mathematical Physics, V7, DOI 10.1063/1.1704965
+   OOHATA K, 1974, MEM FAC SC KYUSUH B, V5, P7
+   SMIRNOV YF, 1962, NUCL PHYS, V39, P346, DOI 10.1016/0029-5582(62)90398-X
+   SMIRNOV YF, 1961, NUCL PHYS, V27, P177, DOI 10.1016/0029-5582(61)90343-1
+   TALMI I, 1952, HELV PHYS ACTA, V25, P185
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+NR 13
+TC 7
+Z9 7
+PU NATL RESEARCH COUNCIL CANADA
+PI OTTAWA
+PA RESEARCH JOURNALS, MONTREAL RD, OTTAWA ON K1A 0R6, CANADA
+SN 0008-4042
+J9 CAN J CHEM
+JI Can. J. Chem.-Rev. Can. Chim.
+PD FEB
+PY 1992
+VL 70
+IS 2
+BP 388
+EP 392
+DI 10.1139/v92-055
+PG 5
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA JD653
+UT WOS:A1992JD65300017
+ER
+
+PT J
+AU HUZINAGA, S
+   KATSUKI, S
+   MATSUOKA, O
+AF HUZINAGA, S
+   KATSUKI, S
+   MATSUOKA, O
+TI EFFECTIVE HAMILTONIAN METHOD FOR ENVIRONMENTAL-EFFECTS
+SO JOURNAL OF MATHEMATICAL CHEMISTRY
+LA English
+DT Article
+ID GENERAL METHODOLOGY; ATOMIC POTENTIALS; MOLECULES; SERIES
+AB Some novel physical ideas and mathematical techniques are described, useful in the development of effective Hamiltonian methods for studying molecular environmental effects.
+C1 KYUSHU UNIV,COLL GEN EDUC,DEPT PHYS,FUKUOKA 812,JAPAN.
+   UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+RP HUZINAGA, S (reprint author), UNIV ALBERTA,DEPT CHEM,EDMONTON T6G 2G2,ALBERTA,CANADA.
+CR BARANDIARAN Z, 1988, J CHEM PHYS, V89, P5739
+   BARANDIARAN Z, IN PRESS STRUCTURE I, V3
+   BARANDIARAN Z, 1990, J CHEM PHYS, V93, P5834
+   Huzinaga S, 1991, J MOL STRUC-THEOCHEM, V234, P51, DOI 10.1016/0166-1280(91)89006-M
+   KATSUKI S, 1988, CHEM PHYS LETT, V152, P203, DOI 10.1016/0009-2614(88)87355-X
+   KATSUKI S, 1988, CHEM PHYS LETT, V147, P587
+   MAYER I, 1983, INT J QUANTUM CHEM, V23, P341, DOI 10.1002/qua.560230203
+   NICOLAS G, 1979, J CHEM PHYS, V70, P2020, DOI 10.1063/1.437630
+   NICOLAS G, 1980, J CHEM PHYS, V72, P453, DOI 10.1063/1.438872
+   Ruedenberg K., 1951, J CHEM PHYS, V19, P1433
+   SEIJO L, 1989, J CHEM PHYS, V91, P7011, DOI 10.1063/1.457317
+   WOOD JH, 1978, PHYS REV B, V18, P2710
+NR 12
+TC 3
+Z9 3
+PU BALTZER SCI PUBL BV
+PI AMSTERDAM
+PA ASTERWEG 1A, 1031 HL AMSTERDAM, NETHERLANDS
+SN 0259-9791
+J9 J MATH CHEM
+JI J. Math. Chem.
+PY 1992
+VL 10
+IS 1-4
+BP 25
+EP 39
+DI 10.1007/BF01169169
+PG 15
+WC Chemistry, Multidisciplinary; Mathematics, Interdisciplinary
+   Applications
+SC Chemistry; Mathematics
+GA JG976
+UT WOS:A1992JG97600003
+ER
+
+PT J
+AU HASEGAWA, T
+   FUJIMURA, N
+   MATSUOKA, O
+AF HASEGAWA, T
+   FUJIMURA, N
+   MATSUOKA, O
+TI HYDROGENLIKE ATOMS IN UNIFORMLY CHARGED SPHERE MODEL OF ATOMIC NUCLEUS
+   .1. REFERENCE CALCULATIONS OF ENERGY-LEVELS
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article
+ID GAUSSIAN-BASIS SETS; DIRAC-EQUATION
+AB We have adopted the uniformly charged sphere model of atomic nucleus for one-electron atoms H, Ar17+, Xe53+, Hg79+, and U91+ and calculated several energy levels by solving the matching equations of the inward and the outward radial wave functions for the Schrodinger as well as for the Dirac equations.  The finite-size effect (FSE) of the atomic nucleus on the energy levels of nonrelativistic atoms has been found one order of magnitude smaller than the effect on the relativistic atoms.  The FSE works mainly on s states for nonrelativistic atoms, whereas for relativistic atoms, it works on s and p1/2 states.  The energy levels of p states have been calculated lower than the energies of the corresponding s states when we have included the FSE.
+RP HASEGAWA, T (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR Abramowitz M., 1965, HDB MATH FUNCTIONS
+   ACHESON LK, 1951, PHYS REV, V82, P488, DOI 10.1103/PhysRev.82.488
+   BOHR A, 1950, PHYS REV, V77, P94, DOI 10.1103/PhysRev.77.94
+   CONTE SD, 1980, ELEMENTARY NUMERICAL, P75
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   FRIAR JL, 1979, ANN PHYS-NEW YORK, V122, P151, DOI 10.1016/0003-4916(79)90300-2
+   Grant I.P., 1970, Advances in Physics, V19, DOI 10.1080/00018737000101191
+   GREEN TA, 1951, PHYS REV, V110, P105
+   HEGARTY D, 1987, PHYS SCRIPTA, V36, P432, DOI 10.1088/0031-8949/36/3/008
+   ISHIKAWA Y, 1985, CHEM PHYS LETT, V121, P130, DOI 10.1016/0009-2614(85)87169-4
+   LARSON AC, 1968, J CHEM PHYS, V48, P5021, DOI 10.1063/1.1668172
+   MATSUOKA O, 1991, INT J QUANTUM CHEM, V39, P813, DOI 10.1002/qua.560390606
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P567, DOI 10.1016/0009-2614(87)80488-8
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   MOHR PJ, 1983, ATOM DATA NUCL DATA, V29, P453, DOI 10.1016/S0092-640X(83)80002-3
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   QUINEY HM, 1987, PHYS SCRIPTA, V36, P460, DOI 10.1088/0031-8949/36/3/013
+   ROSE ME, 1961, RELATIVISTIC ELECTRO, pCH6
+   ROSE ME, 1951, PHYS REV, V82, P470, DOI 10.1103/PhysRev.82.470
+   ROSE ME, 1951, PHYS REV, V82, P389, DOI 10.1103/PhysRev.82.389
+   ROSE ME, 1951, PHYS REV, V83, P190, DOI 10.1103/PhysRev.83.190.2
+   TUCKER TC, 1968, PHYS REV, V174, P118, DOI 10.1103/PhysRev.174.118
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+   WERNER FG, 1958, PHYS REV, V109, P126, DOI 10.1103/PhysRev.109.126
+   YANO AF, 1972, AM J PHYS, V40, P969, DOI 10.1119/1.1986723
+NR 25
+TC 3
+Z9 3
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0020-7608
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PD JUN
+PY 1991
+VL 39
+IS 6
+BP 805
+EP 812
+DI 10.1002/qua.560390605
+PG 8
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Physics, Atomic, Molecular & Chemical
+SC Chemistry; Mathematics; Physics
+GA FM251
+UT WOS:A1991FM25100004
+ER
+
+PT J
+AU MATSUOKA, O
+   FUJIMURA, N
+   HASEGAWA, T
+AF MATSUOKA, O
+   FUJIMURA, N
+   HASEGAWA, T
+TI HYDROGENLIKE ATOMS IN UNIFORMLY CHARGED SPHERE MODEL OF ATOMIC NUCLEUS
+   .2. APPLICATION OF BASIS-SET EXPANSION METHOD
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article
+ID GAUSSIAN-BASIS SETS; DIRAC-EQUATION; OPERATOR
+AB The basis-set expansion method has been applied to the nonrelativistic and relativistic ground states of one-electron atoms H, Ar17+, Xe53+, Hg79+, and U91+ in the uniformly charged sphere (UCS) and the point-change (PC) models of atomic nucleus, using the Gaussian-type basis functions.  The energies and the radial expectation values, especially <1/r2>, converges faster in the UCS model than in the PC model.  In the PC model, larger values of the exponent parameters of the basis functions are required both in the nonrelativistic and the relativistic calculations.  Even in the UCS model, the larger values of the exponent parameters are needed in the relativistic calculations.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR BLOEMER WL, 1973, J CHEM PHYS, V58, P3735, DOI 10.1063/1.1679726
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   Grant I.P., 1970, Advances in Physics, V19, DOI 10.1080/00018737000101191
+   HASEGAWA T, 1990, INT J QUANTUM CHEM, V38
+   HEGARTY D, 1987, PHYS SCRIPTA, V36, P432, DOI 10.1088/0031-8949/36/3/008
+   ISHIKAWA Y, 1985, CHEM PHYS LETT, V121, P130, DOI 10.1016/0009-2614(85)87169-4
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P567, DOI 10.1016/0009-2614(87)80488-8
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P362, DOI 10.1016/0009-2614(87)80747-9
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   QUINEY HM, 1987, PHYS SCRIPTA, V36, P460, DOI 10.1088/0031-8949/36/3/013
+   Roothaan C. C. J., 1963, METHODS COMPUTATIONA, V2, P47
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+NR 15
+TC 4
+Z9 4
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0020-7608
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PD JUN
+PY 1991
+VL 39
+IS 6
+BP 813
+EP 821
+DI 10.1002/qua.560390606
+PG 9
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Physics, Atomic, Molecular & Chemical
+SC Chemistry; Mathematics; Physics
+GA FM251
+UT WOS:A1991FM25100005
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI CONFIGURATION-INTERACTION METHOD USING BOND LOCALIZED ORBITALS AS
+   BUILDING-BLOCKS FOR MACROMOLECULES
+SO THEOCHEM-JOURNAL OF MOLECULAR STRUCTURE
+LA English
+DT Article
+ID NON-ORTHOGONAL ORBITALS; DETERMINANTAL WAVEFUNCTIONS; MATRIX-ELEMENTS
+AB A configuration-interaction (CI) method is proposed for calculating the properties of macromolecules such as proteins and nucleic acids.  In the proposed CI method the configuration state functions are constructed from the bond localized orbitals and only the singly excited configurations are considered to give results of Hartree-Fock level accuracy.  Preliminary test calculations on the rotation and the inversion barriers of small molecules were done using the CNDO/2 approximation.  The results obtained are, for most cases, comparable to those obtained with full self-consistent field (SCF) calculations.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR AHLRICHS R, 1974, THEOR CHIM ACTA, V33, P157, DOI 10.1007/BF00526621
+   BOYS SF, 1960, REV MOD PHYS, V32, P296, DOI 10.1103/RevModPhys.32.296
+   Brillouin L., 1934, ACTUAL SCI IND, V71, P159
+   DAVIDSON ER, 1975, J COMPUT PHYS, V17, P87, DOI 10.1016/0021-9991(75)90065-0
+   DOUADY J, 1980, INT J QUANTUM CHEM, V17, P211, DOI 10.1002/qua.560170206
+   EDMISTON C, 1963, REV MOD PHYS, V35, P457, DOI 10.1103/RevModPhys.35.457
+   FIGARI G, 1985, MOL PHYS, V55, P319, DOI 10.1080/00268978500101351
+   HAYES IC, 1984, MOL PHYS, V53, P69, DOI 10.1080/00268978400102141
+   HUAI S, 1986, INT J QUANTUM CHEM, V29, P1303, DOI 10.1002/qua.560290527
+   LOWDIN PO, 1950, J CHEM PHYS, V18, P365
+   MALRIEU JP, 1977, MODERN THEORETICAL C, V7
+   MUSSO GF, 1984, MOL PHYS, V53, P615, DOI 10.1080/00268978400102551
+   PAYNE PW, 1977, MODERN THEORETICAL C, V3
+   Pople J. A., 1970, APPROXIMATE MOL ORBI
+   ROOS B, 1972, CHEM PHYS LETT, V15, P153, DOI 10.1016/0009-2614(72)80140-4
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   SURJAN PR, 1990, THEORETICAL CHEM, V2
+   SURJAN PR, 1981, THEOR CHIM ACTA, V59, P603, DOI 10.1007/BF00552853
+   YOSHIMIN.M, 1973, J COMPUT PHYS, V11, P449, DOI 10.1016/0021-9991(73)90085-5
+NR 19
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-1280
+J9 THEOCHEM-J MOL STRUC
+JI Theochem-J. Mol. Struct.
+PD MAY 24
+PY 1991
+VL 76
+BP 67
+EP 71
+PG 5
+WC Chemistry, Physical
+SC Chemistry
+GA FR977
+UT WOS:A1991FR97700007
+ER
+
+PT J
+AU OKADA, S
+   SHINADA, M
+   MATSUOKA, O
+AF OKADA, S
+   SHINADA, M
+   MATSUOKA, O
+TI RELATIVISTIC WELL-TEMPERED GAUSSIAN-BASIS SETS FOR HELIUM THROUGH
+   MERCURY - BREIT INTERACTION INCLUDED
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+C1 UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR ARMSTRONG L, 1983, AT PHYS, V8, P129
+   BETHE HA, 1957, QUANTUM MECHANICS ON, P173
+   Breit G, 1932, PHYS REV, V39, P616, DOI 10.1103/PhysRev.39.616
+   Breit G, 1930, PHYS REV, V36, P0383, DOI 10.1103/PhysRev.36.383
+   Breit G, 1929, PHYS REV, V34, P0553, DOI 10.1103/PhysRev.34.553
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   GARCEIX O, 1987, J PHYS B ATOM MOL PH, V20, P639
+   GRANT IP, 1986, J PHYS B-AT MOL OPT, V19, P3187, DOI 10.1088/0022-3700/19/20/003
+   GRANT IP, 1976, J PHYS B-AT MOL OPT, V9, P761, DOI 10.1088/0022-3700/9/5/019
+   Huzinaga S, 1988, J MOL STRUCT THEOCHE, V167, P1, DOI 10.1016/0166-1280(88)87042-8
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   ISHIKAWA Y, 1990, CHEM PHYS LETT, V166, P321, DOI 10.1016/0009-2614(90)80037-E
+   JOHNSON WR, 1983, ATOMIC PHYSICS, V8, P149
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   LINDROTH E, 1989, J PHYS B-AT MOL OPT, V22, P2447, DOI 10.1088/0953-4075/22/16/004
+   MANN JB, 1971, PHYS REV A, V4, P41, DOI 10.1103/PhysRevA.4.41
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P567, DOI 10.1016/0009-2614(87)80488-8
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   Mohanty A., 1989, MODERN TECHNIQUES CO, V89, P169
+   MOHANTY AK, 1989, CHEM PHYS LETT, V157, P348, DOI 10.1016/0009-2614(89)87260-4
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   QUINEY HM, 1987, J PHYS B-AT MOL OPT, V20, P1413, DOI 10.1088/0022-3700/20/7/010
+   Slater J. C., 1960, QUANTUM THEORY ATOMI
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 27
+TC 38
+Z9 38
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD OCT 1
+PY 1990
+VL 93
+IS 7
+BP 5013
+EP 5019
+DI 10.1063/1.458638
+PG 7
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA EB234
+UT WOS:A1990EB23400054
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI BASIS-SET EXPANSION METHOD FOR RELATIVISTIC ATOMS IN THE ATOMIC-NUCLEUS
+   MODEL OF A FINITE SPHERE OF CONSTANT ELECTRIC-FIELD
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR AERTS PJC, 1985, INT J QUANTUM CHEM Q, V19, P267
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   Grant IP, 1988, ADV ATOM MOL PHYS, V23, P37, DOI 10.1016/S0065-2199(08)60105-0
+   ISHIKAWA Y, 1987, INT J QUANTUM CHEM S, V21, P523
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   LEE YS, 1982, J CHEM PHYS, V76, P735, DOI 10.1063/1.442680
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P567, DOI 10.1016/0009-2614(87)80488-8
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   MATSUOKA O, 1980, J CHEM PHYS, V73, P1320, DOI 10.1063/1.440245
+   Mohanty A., 1989, MODERN TECHNIQUES CO, V89, P169
+   MOHANTY AK, 1989, CHEM PHYS LETT, V157, P348, DOI 10.1016/0009-2614(89)87260-4
+   OKADA S, 1989, J CHEM PHYS, V91, P4193, DOI 10.1063/1.456797
+   OKADA S, UNPUB J CHEM PHYS
+   QUINEY HM, 1989, J PHYS B-AT MOL OPT, V22, pL15, DOI 10.1088/0953-4075/22/2/001
+   RAFFENET.RC, 1973, J CHEM PHYS, V59, P5978, DOI 10.1063/1.1679966
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 16
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD AUG 31
+PY 1990
+VL 172
+IS 2
+BP 175
+EP 179
+DI 10.1016/0009-2614(90)87293-Z
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA DX695
+UT WOS:A1990DX69500014
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI MOLECULAR INTEGRALS OVER SPHERICAL LAGUERRE GAUSSIAN-TYPE FUNCTIONS
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR BAYMAN BF, 1978, J MATH PHYS, V19, P2558, DOI 10.1063/1.523640
+   Bethe H.A, 1957, QUANTUM MECH ONE 2 E, P170
+   BOYS SF, 1950, PROC R SOC LON SER-A, V200, P542, DOI 10.1098/rspa.1950.0036
+   CLEMENTI E, 1966, J CHEM PHYS, V45, P2593, DOI 10.1063/1.1727979
+   Condon E.U., 1951, THEORY ATOMIC SPECTR
+   DUPUIS M, 1976, J COMPUT PHYS, V21, P144
+   Edmonds A R, 1957, ANGULAR MOMENTUM QUA
+   FIECK G, 1979, J PHYS B-AT MOL OPT, V12, P1063, DOI 10.1088/0022-3700/12/7/010
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   HARRIS FE, 1963, REV MOD PHYS, V35, P558, DOI 10.1103/RevModPhys.35.558
+   KAY KG, 1969, J CHEM PHYS, V51, P2359, DOI 10.1063/1.1672352
+   KRAUSS M, 1964, J RES NBS B MATH SCI, VB 68, P35, DOI 10.6028/jres.068B.007
+   KUMAR K, 1966, J MATH PHYS, V7, P671, DOI 10.1063/1.1704980
+   MARETIS DK, 1979, J CHEM PHYS, V71, P917, DOI 10.1063/1.438381
+   MATSUOKA O, 1973, INT J QUANTUM CHEM, V8, P365
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P544, DOI 10.1016/0009-2614(89)87470-6
+   MCMURCHIE LE, 1978, J COMPUT PHYS, V26, P218, DOI 10.1016/0021-9991(78)90092-X
+   MOSHINSKY M, 1959, NUCL PHYS, V13, P104, DOI 10.1016/0029-5582(59)90143-9
+   NIUKKANEN AW, 1980, CHEM PHYS LETT, V69, P174, DOI 10.1016/0009-2614(80)80038-8
+   OBARA S, 1986, J CHEM PHYS, V84, P3963, DOI 10.1063/1.450106
+   OOHATA K, 1974, MEM FAC SC KYUSUH B, V5, P7
+   POPLE JA, 1978, J COMPUT PHYS, V27, P161, DOI 10.1016/0021-9991(78)90001-3
+   SALMON LS, 1968, J CHEM PHYS, V49, P4293, DOI 10.1063/1.1669873
+   SMIRNOV YF, 1962, NUCL PHYS, V39, P346, DOI 10.1016/0029-5582(62)90398-X
+   SMIRNOV YF, 1961, NUCL PHYS, V27, P177, DOI 10.1016/0029-5582(61)90343-1
+   TAKETA H, 1966, J PHYS SOC JPN, V21, P2313, DOI 10.1143/JPSJ.21.2313
+   TALMI I, 1952, HELV PHYS ACTA, V25, P185
+   ZIVKOVIC T, 1968, J CHEM PHYS, V49, P3083
+NR 28
+TC 11
+Z9 11
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD APR 1
+PY 1990
+VL 92
+IS 7
+BP 4364
+EP 4371
+DI 10.1063/1.457744
+PG 8
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA DC483
+UT WOS:A1990DC48300038
+ER
+
+PT J
+AU OKADA, S
+   MATSUOKA, O
+AF OKADA, S
+   MATSUOKA, O
+TI RELATIVISTIC WELL-TEMPERED GAUSSIAN-BASIS SETS FOR HELIUM THROUGH
+   MERCURY
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP OKADA, S (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   HUZINAGA S, 1985, CHEM PHYS LETT, V120, P509, DOI 10.1016/0009-2614(85)80543-1
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   HUZINAGA S, 1986, J MOL STRUC-THEOCHEM, V135, P403, DOI 10.1016/0166-1280(86)80072-0
+   Huzinaga S, 1988, J MOL STRUCT THEOCHE, V167, P1, DOI 10.1016/0166-1280(88)87042-8
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P567, DOI 10.1016/0009-2614(87)80488-8
+   MATSUOKA O, 1989, CHEM PHYS LETT, V155, P547, DOI 10.1016/0009-2614(89)87471-8
+   PYYKKO P, 1986, RELATIVISTIC THEORY
+   RAFFENET.RC, 1973, J CHEM PHYS, V58, P4452, DOI 10.1063/1.1679007
+   Slater J. C., 1960, QUANTUM THEORY ATOMI
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 16
+TC 71
+Z9 71
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD OCT 1
+PY 1989
+VL 91
+IS 7
+BP 4193
+EP 4196
+DI 10.1063/1.456797
+PG 4
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA AR313
+UT WOS:A1989AR31300041
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI COMMENTS ON THE BASIS SPINORS IN DIRAC-FOCK-ROOTHAAN CALCULATIONS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR AERTS PJC, 1986, INT J QUANTUM CHEM S, V19, P267
+   AOYAMA T, 1980, J CHEM PHYS, V73, P1329, DOI 10.1063/1.440246
+   BAECK KK, 1988, CHEM PHYS LETT, V147, P367, DOI 10.1016/0009-2614(88)80250-1
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   FIECK G, 1980, THEOR CHIM ACTA, V54, P323, DOI 10.1007/BF00552466
+   Grant I.P., 1970, Advances in Physics, V19, DOI 10.1080/00018737000101191
+   Grant IP, 1988, ADV ATOM MOL PHYS, V23, P37, DOI 10.1016/S0065-2199(08)60105-0
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   KUTZELNIGG W, 1984, INT J QUANTUM CHEM, V25, P107, DOI 10.1002/qua.560250112
+   LAAKSONEN L, 1988, J PHYS B-AT MOL OPT, V21, P1969, DOI 10.1088/0953-4075/21/11/013
+   LEE YS, 1982, J CHEM PHYS, V76, P735, DOI 10.1063/1.442680
+   MARK F, 1980, CHEM PHYS LETT, V74, P562, DOI 10.1016/0009-2614(80)85274-2
+   MATSUOKA O, 1980, J CHEM PHYS, V73, P1320, DOI 10.1063/1.440245
+   QUINEY HM, 1987, PHYS SCRIPTA, V36, P460, DOI 10.1088/0031-8949/36/3/013
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 15
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD MAR 17
+PY 1989
+VL 155
+IS 6
+BP 544
+EP 546
+DI 10.1016/0009-2614(89)87470-6
+PG 3
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA T8750
+UT WOS:A1989T875000007
+ER
+
+PT J
+AU MATSUOKA, O
+   OKADA, S
+AF MATSUOKA, O
+   OKADA, S
+TI DIRAC-FOCK-ROOTHAAN CALCULATIONS ON THE 6TH-ROW ELEMENTS TI-RN
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   FAEGRI K, 1987, THEOR CHIM ACTA, V72, P297, DOI 10.1007/BF00529034
+   HUZINAGA S, 1985, CHEM PHYS LETT, V120, P509, DOI 10.1016/0009-2614(85)80543-1
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   HUZINAGA S, 1986, J MOL STRUC-THEOCHEM, V135, P403, DOI 10.1016/0166-1280(86)80072-0
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P569
+   MATSUOKA O, 1985, CHEM PHYS LETT, V113, P395, DOI 10.1016/0009-2614(85)80389-4
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 12
+TC 23
+Z9 23
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD MAR 17
+PY 1989
+VL 155
+IS 6
+BP 547
+EP 549
+DI 10.1016/0009-2614(89)87471-8
+PG 3
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA T8750
+UT WOS:A1989T875000008
+ER
+
+PT J
+AU ISHIGURE, N
+   MATSUOKA, O
+AF ISHIGURE, N
+   MATSUOKA, O
+TI FACTORS AFFECTING ETCHING PROPERTIES OF CR-39 DETECTOR FOR
+   ALPHA-PARTICLES
+SO JOURNAL OF NUCLEAR SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+RP ISHIGURE, N (reprint author), NATL INST RADIOL SCI,DIV COMPARAT RADIOTOXICOL,CHIBA 260,JAPAN.
+CR FRANK AL, 1986, NUCL TRACKS RAD MEAS, V12, P83
+   GRUHN TA, 1982, SOLID STATE NUCLEAR, P291
+   HOMER JB, 1986, NUCL TRACKS RAD MEAS, V12, P133
+   ISHIGURE N, 1984, HOKEN BUTSURI, V19, P219
+   KHAN HA, 1980, NUCL INSTRUM METHODS, V173, P55, DOI 10.1016/0029-554X(80)90567-4
+   KUMAR S, 1986, NUCL TRACKS RAD MEAS, V12, P129
+   OSULLIVAN D, 1984, SOLID STATE NUCLEAR, P143
+   TAWARA H, 1985, HOSHASEN, V12, P106
+   TSURUTA T, 1984, HOKEN BUTSURI, V19, P133
+NR 9
+TC 0
+Z9 0
+PU ATOMIC ENERGY SOC JAPAN
+PI TOKYO
+PA 1-1-13 SHIMBASHI MINATO-KU, TOKYO 105, JAPAN
+SN 0022-3131
+J9 J NUCL SCI TECHNOL
+JI J. Nucl. Sci. Technol.
+PD APR
+PY 1988
+VL 25
+IS 4
+BP 404
+EP 409
+PG 6
+WC Nuclear Science & Technology
+SC Nuclear Science & Technology
+GA N5789
+UT WOS:A1988N578900010
+ER
+
+PT J
+AU MATSUOKA, O
+   HUZINAGA, S
+AF MATSUOKA, O
+   HUZINAGA, S
+TI RELATIVISTIC WELL-TEMPERED GAUSSIAN-BASIS SETS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+C1 UNIV ALBERTA,DEPT CHEM,EDMONTON T6G 2G2,ALBERTA,CANADA.
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   HUZINAGA S, 1985, CHEM PHYS LETT, V120, P509, DOI 10.1016/0009-2614(85)80543-1
+   HUZINAGA S, 1985, CAN J CHEM, V63, P1812, DOI 10.1139/v85-302
+   HUZINAGA S, 1986, J MOL STRUC-THEOCHEM, V135, P403, DOI 10.1016/0166-1280(86)80072-0
+   HUZINAGA S, 1986, J CHEM PHYS, V84, P6315, DOI 10.1063/1.450776
+   ISHIKAWA Y, 1985, CHEM PHYS LETT, V121, P130, DOI 10.1016/0009-2614(85)87169-4
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   MARK F, 1986, THEOR CHIM ACTA, V70, P165, DOI 10.1007/BF00531161
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, 1987, CHEM PHYS LETT, V140, P362, DOI 10.1016/0009-2614(87)80747-9
+   MATSUOKA O, 1985, CHEM PHYS LETT, V113, P395, DOI 10.1016/0009-2614(85)80389-4
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 14
+TC 56
+Z9 56
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD OCT 23
+PY 1987
+VL 140
+IS 6
+BP 567
+EP 571
+DI 10.1016/0009-2614(87)80488-8
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA K6822
+UT WOS:A1987K682200006
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI NUCLEAR ATTRACTION INTEGRALS IN THE HOMOGENEOUSLY CHARGED SPHERE MODEL
+   OF THE ATOMIC NUCLEUS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   ISHIKAWA Y, 1985, CHEM PHYS LETT, V121, P130, DOI 10.1016/0009-2614(85)87169-4
+   Lowdin P.O., 1956, ADV PHYS, V5, P96
+   MATSUOKA O, IN PRESS
+   SAUNDERS VR, 1982, NATO ASI SERIES C, V113, P1
+   SUZUKI N, 1984, J MATH PHYS, V25, P1133, DOI 10.1063/1.526256
+   SUZUKI N, 1985, J MATH PHYS, V26, P3193, DOI 10.1063/1.526648
+   VISSER O, 1987, CHEM PHYS LETT, V134, P34, DOI 10.1016/0009-2614(87)80008-8
+NR 8
+TC 11
+Z9 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD OCT 9
+PY 1987
+VL 140
+IS 4
+BP 362
+EP 366
+DI 10.1016/0009-2614(87)80747-9
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA K4111
+UT WOS:A1987K411100006
+ER
+
+PT J
+AU MATSUOKA, O
+   KLOBUKOWSKI, M
+   HUZINAGA, S
+AF MATSUOKA, O
+   KLOBUKOWSKI, M
+   HUZINAGA, S
+TI KINETICALLY BALANCED CALCULATIONS ON RELATIVISTIC MANY-ELECTRON ATOMS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+C1 UNIV ALBERTA,DEPT CHEM,EDMONTON T6G 2G2,ALBERTA,CANADA.
+CR COULTHAR.MA, 1967, P PHYS SOC LOND, V91, P44, DOI 10.1088/0370-1328/91/1/309
+   DESCLAUX JP, 1975, COMPUT PHYS COMMUN, V9, P31, DOI 10.1016/0010-4655(75)90054-5
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, pL45, DOI 10.1088/0022-3700/17/2/001
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P1201, DOI 10.1088/0022-3700/17/7/009
+   DYALL KG, 1984, J PHYS B-AT MOL OPT, V17, P493, DOI 10.1088/0022-3700/17/4/006
+   ISHIKAWA Y, 1983, CHEM PHYS LETT, V101, P111, DOI 10.1016/0009-2614(83)80314-5
+   KUTZELNIGG W, 1984, UNPUB INT J QUANTUM, V25
+   LEE YS, 1982, J CHEM PHYS, V76, P735, DOI 10.1063/1.442680
+   MATSUOKA O, 1982, J PHYS SOC JPN, V51, P2263, DOI 10.1143/JPSJ.51.2263
+   MATSUOKA O, 1981, CHEM PHYS LETT, V77, P287
+   MCLEAN AD, 1981, IBM803 RES REP
+   MCLEAN AD, 1982, CURRENT ASPECTS QUAN, P219
+   STANTON RE, 1984, J CHEM PHYS, V81, P1910, DOI 10.1063/1.447865
+NR 14
+TC 17
+Z9 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1985
+VL 113
+IS 4
+BP 395
+EP 398
+DI 10.1016/0009-2614(85)80389-4
+PG 4
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA ABT01
+UT WOS:A1985ABT0100016
+ER
+
+PT J
+AU TASAKA, S
+   MATSUOKA, O
+AF TASAKA, S
+   MATSUOKA, O
+TI FINITE-ELEMENT ANALYSIS OF NONSTATIONARY ONE-DIMENSIONAL RANDOM
+   DIFFUSION-PROBLEMS
+SO INTERNATIONAL JOURNAL FOR NUMERICAL METHODS IN ENGINEERING
+LA English
+DT Article
+RP TASAKA, S (reprint author), NAGOYA UNIV,FAC ENGN,DEPT ARCHITECTURE,NAGOYA,AICHI 464,JAPAN.
+CR ABDELMALEK RA, 1976, 2ND INT S FIN EL MET, P395
+   BUSBY HR, 1973, J ENG MECH DIV P ASC, V1, P55
+   CAMBOU B, 1975, 2ND P INT C APPL STA, P67
+   HART GC, 1973, J ENG MECH DIV P ASC, V3, P481
+   HASSELMAN TK, 1972, J ENG MECH DIV P ASC, V3, P561
+   WEN YK, 1975, J ENG MECH DIV, V4, P389
+NR 6
+TC 4
+Z9 4
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD
+SN 0029-5981
+J9 INT J NUMER METH ENG
+JI Int. J. Numer. Methods Eng.
+PY 1982
+VL 18
+IS 7
+BP 1045
+EP 1054
+DI 10.1002/nme.1620180708
+PG 10
+WC Engineering, Multidisciplinary; Mathematics, Interdisciplinary
+   Applications
+SC Engineering; Mathematics
+GA PA478
+UT WOS:A1982PA47800007
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI ANALYTICAL DIRAC-FOCK SCF METHOD FOR GENERALIZED AVERAGE ENERGY OF
+   CONFIGURATIONS
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTRO-COMMUN,DEPT PHYS,CHOFU,TOKYO 182,JAPAN.
+CR ABRAMOWITZ M, 1964, HDB MATH FUNCTIONS, P916
+   AOYAMA T, 1980, J CHEM PHYS, V73, P1329, DOI 10.1063/1.440246
+   CLEMENTI E, 1965, IBM J RES DEV, V9, P2
+   COOK DB, 1974, AB INITIO VALENCE CA, P136
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1972, INT J QUANTUM CHEM, V6, P25
+   DESCLAUX JP, 1971, J PHYS PT B ATOM M P, V4, P296, DOI 10.1088/0022-3700/4/3/003
+   HIRAO K, 1974, J CHEM PHYS, V60, P3215, DOI 10.1063/1.1681510
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   KOSUGI N, 1980, CHEM PHYS LETT, V74, P490, DOI 10.1016/0009-2614(80)85259-6
+   LARKINS FP, 1976, J PHYS B-AT MOL OPT, V9, P37, DOI 10.1088/0022-3700/9/1/005
+   LARKINS FP, 1976, J PHYS B-AT MOL OPT, V9, P47, DOI 10.1088/0022-3700/9/1/006
+   LOWDIN PO, 1980, ADV QUANTUM CHEM, V12, P264
+   MATSUOKA O, 1981, CHEM PHYS LETT, V77, P387, DOI 10.1016/0009-2614(81)80170-4
+   MATSUOKA O, 1976, REPTS COMPUTER CTR U, V5, P17
+   MATSUOKA O, 1980, J CHEM PHYS, V73, P1320, DOI 10.1063/1.440245
+   MCWEENY R, 1974, MOL PHYS, V28, P1273, DOI 10.1080/00268977400102581
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   Slater J. C., 1960, QUANTUM THEORY ATOMI
+   Slater J. C., 1960, QUANTUM THEORY ATOMI, VI
+NR 20
+TC 13
+Z9 13
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1982
+VL 51
+IS 7
+BP 2263
+EP 2266
+DI 10.1143/JPSJ.51.2263
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA PF239
+UT WOS:A1982PF23900041
+ER
+
+PT J
+AU KIHARA, T
+   MATSUOKA, O
+   AOYAMA, T
+AF KIHARA, T
+   MATSUOKA, O
+   AOYAMA, T
+TI MOLECULAR SHAPES AND CRYSTAL-STRUCTURES OF CYANOGEN AND BENZENE
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP KIHARA, T (reprint author), UNIV ELECTRO COMMUNICAT,TOKYO 182,JAPAN.
+CR HEHRE WJ, 1972, J CHEM PHYS, V56, P2257, DOI 10.1063/1.1677527
+   HEHRE WJ, 236 IND U QUANT CHEM
+   KIHARA T, 1975, ACTA CRYSTALLOGR A, V31, P718, DOI 10.1107/S0567739475001556
+   KIHARA T, 1966, ACTA CRYST, V21, P871
+   KIHARA T, 1981, ACTA CRYSTALLOGR A, V37, P46, DOI 10.1107/S0567739481000090
+   KIHARA T, 1963, ACTA CRYSTALLOGR, V16, P1119, DOI 10.1107/S0365110X63002966
+   KIHARA T, 1970, ACTA CRYSTALL A-CRYS, VA 26, P315, DOI 10.1107/S0567739470000773
+   KIHARA T, 1978, ACTA CRYSTALLOGR A, V34, P326, DOI 10.1107/S0567739478000583
+NR 8
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1981
+VL 84
+IS 1
+BP 68
+EP 70
+DI 10.1016/0009-2614(81)85371-7
+PG 3
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA MS639
+UT WOS:A1981MS63900016
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI GRID POINTS OF GAUSS-LEGENDRE QUADRATURE AS EXPONENT PARAMETERS OF BASIS
+   FUNCTIONS OF ATOMIC HARTREE-FOCK WAVEFUNCTIONS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELETROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR ABRAMOWITZ M, 1964, HDB MATH FUNCTIONS, P916
+   CLEMENTI E, 1965, IBM J RES DEV, V9, P2
+   FELLER DF, 1979, THEOR CHIM ACTA, V52, P231, DOI 10.1007/BF00547681
+   Fischer C. F., 1977, HARTREE FOCK METHOD
+   MCLEAN AD, 1965, IBM J RES DEV, V9, P203
+   MEZEY PG, 1979, THEOR CHIM ACTA, V53, P183, DOI 10.1007/BF00548831
+   RAFFENET.RC, 1973, J CHEM PHYS, V59, P5936, DOI 10.1063/1.1679962
+   RAFFENETTI RC, 1975, INT J QUANTUM CHEM S, V9, P289
+   Roothaan C. C. J., 1963, METHODS COMPUTATIONA, V2, P47
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   RUEDENBERG K, 1973, ENERGY STRUCTURE REA, P164
+   SCHMIDT MW, 1979, J CHEM PHYS, V71, P3951, DOI 10.1063/1.438165
+   SILVER DM, 1978, CHEM PHYS LETT, V57, P421, DOI 10.1016/0009-2614(78)85539-0
+NR 13
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1981
+VL 77
+IS 2
+BP 387
+EP 389
+DI 10.1016/0009-2614(81)80170-4
+PG 3
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA LA637
+UT WOS:A1981LA63700035
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI METHODS OF COMPOSITE MOLECULAR WAVE-FUNCTIONS .1. VARIATIONAL PRINCIPLE
+   AND MULTICONFIGURATION SCF THEORY
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELECTROCOMMUN,DEPT PHYS,CHOFU,TOKYO,JAPAN.
+CR ANDERSON PW, 1968, PHYS REV LETT, V20, P413, DOI 10.1103/PhysRevLett.20.413
+   ANTOCI S, 1975, J CHEM PHYS, V63, P697, DOI 10.1063/1.431392
+   ANTOCI S, 1977, SOLID STATE COMMUN, V22, P783, DOI 10.1016/0038-1098(77)90068-0
+   ANTOCI S, 1976, J CHEM PHYS, V65, P257, DOI 10.1063/1.432818
+   ANTOCI S, 1974, THEOR CHIM ACTA, V35, P89, DOI 10.1007/BF02394561
+   ANTOCI S, 1974, J CHEM PHYS, V61, P1245, DOI 10.1063/1.1682003
+   ANTOCI S, 1976, J CHEM PHYS, V64, P1442, DOI 10.1063/1.432413
+   BRESCANSIN LM, 1979, J CHEM PHYS, V71, P4923, DOI 10.1063/1.438305
+   FERREIRA LG, 1979, PHYS REV A, V20, P689, DOI 10.1103/PhysRevA.20.689
+   FERREIRA LG, 1978, PHYS REV A, V18, P335, DOI 10.1103/PhysRevA.18.335
+   FERREIRA LG, 1978, PHYS REV LETT, V40, P49, DOI 10.1103/PhysRevLett.40.49
+   FRICKER HS, 1971, J CHEM PHYS, V55, P5034, DOI 10.1063/1.1675618
+   FRICKER HS, 1971, J CHEM PHYS, V55, P5028, DOI 10.1063/1.1675617
+   HINZE J, 1975, ADV CHEM PHYS, V26, P213
+   HINZE J, 1973, J CHEM PHYS, V59, P6424, DOI 10.1063/1.1680022
+   INGLESFIELD JE, 1979, MOL PHYS, V37, P889, DOI 10.1080/00268977900103261
+   INGLESFIELD JE, 1977, J CHEM PHYS, V67, P505, DOI 10.1063/1.434905
+   Johnson K. H., 1973, ADV QUANTUM CHEM, V7, P143, DOI 10.1016/S0065-3276(08)60561-4
+   JOHNSON KH, 1966, J CHEM PHYS, V45, P3085, DOI 10.1063/1.1728065
+   KOHN W, 1954, PHYS REV, V94, P1111, DOI 10.1103/PhysRev.94.1111
+   LOWDIN PO, 1955, PHYS REV, V97, P1474, DOI 10.1103/PhysRev.97.1474
+   LUDENA EV, 1975, INT J QUANTUM CHEM, V9, P1069, DOI 10.1002/qua.560090613
+   MCCAVERT P, 1972, PROC R SOC LON SER-A, V328, P429, DOI 10.1098/rspa.1972.0087
+   Ritz W., 1908, J REINE ANGEWANDTE M, V135, P1
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   SCHLOSSER H, 1963, PHYS REV, V131, P2529, DOI 10.1103/PhysRev.131.2529
+   SILVERST.HJ, 1972, PHYS REV A-GEN PHYS, V5, P1092, DOI 10.1103/PhysRevA.5.1092
+   Slater JC, 1934, PHYS REV, V45, P0794, DOI 10.1103/PhysRev.45.794
+   STUEBING EW, 1977, INT J QUANTUM CHEM, V11, P21
+   Weare JH, 1967, CHEM PHYS LETT, V1, P349, DOI 10.1016/0009-2614(67)80030-7
+   Wigner E, 1933, PHYS REV, V43, P0804, DOI 10.1103/PhysRev.43.804
+NR 31
+TC 0
+Z9 0
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0020-7608
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PY 1981
+VL 20
+IS 4
+BP 897
+EP 908
+DI 10.1002/qua.560200413
+PG 12
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Physics, Atomic, Molecular & Chemical
+SC Chemistry; Mathematics; Physics
+GA MK589
+UT WOS:A1981MK58900012
+ER
+
+PT J
+AU MATSUOKA, O
+   SUZUKI, N
+   AOYAMA, T
+   MALLI, G
+AF MATSUOKA, O
+   SUZUKI, N
+   AOYAMA, T
+   MALLI, G
+TI RELATIVISTIC SELF-CONSISTENT-FIELD METHODS FOR MOLECULES .1. DIRAC-FOCK
+   MULTICONFIGURATION SELF-CONSISTENT-FIELD THEORY FOR MOLECULES AND A
+   SINGLE-DETERMINANT DIRAC-FOCK SELF-CONSISTENT-FIELD METHOD FOR
+   CLOSED-SHELL LINEAR-MOLECULES
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+C1 UNIV ELETROCOMMUN,DEPT MAT SCI,TOKYO 182,JAPAN.
+   SIMON FRASER UNIV,DEPT CHEM,BURNABY V5A 1S6,BC,CANADA.
+RP MATSUOKA, O (reprint author), UNIV ELETROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR AOYAMA T, 1980, J CHEM PHYS, V73, P1328
+   BETHE HA, 1957, QUANTUM MECHANICS ON
+   DAS TP, 1973, RELATIVISTIC QUANTUM
+   DESCLAUX JP, 1975, COMPUT PHYS COMMUN, V9, P31, DOI 10.1016/0010-4655(75)90054-5
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   DESCLAUX JP, 1977, CHEM PHYS LETT, V50, P502
+   DESCLAUX JP, 1978, CHEM PHYS, V34, P261
+   DESCLAUX JP, 1977, COMPUT PHYS COMMUN, V13, P71
+   DESCLAUX JP, 1976, CHEMICAL PHYS LETT, V42, P545
+   DESCLAUX JP, 1976, CHEM PHYS LETT, V39, P300, DOI 10.1016/0009-2614(76)80080-2
+   DESCLAUX JP, 1974, CHEM PHYS LETT, V29, P234
+   Dirac PAM, 1928, P R SOC LOND A-CONTA, V117, P610, DOI 10.1098/rspa.1928.0023
+   Edmonds A R, 1957, ANGULAR MOMENTUM QUA
+   FRAGA S, 1968, MANY ELECTRON SYSTEM
+   Grant I.P., 1970, Advances in Physics, V19, DOI 10.1080/00018737000101191
+   GRANT IP, 1961, PROC R SOC LON SER-A, V262, P555, DOI 10.1098/rspa.1961.0139
+   GRANT IP, 1976, J PHYS B-AT MOL OPT, V9, P761, DOI 10.1088/0022-3700/9/5/019
+   GRANT IP, 1976, J PHYS B-AT MOL OPT, V9, P2777, DOI 10.1088/0022-3700/9/16/013
+   HINZE J, 1975, ADV CHEM PHYS, V26, P213
+   HINZE J, 1973, J CHEM PHYS, V59, P6424, DOI 10.1063/1.1680022
+   HIRAO K, 1974, J CHEM PHYS, V60, P3215, DOI 10.1063/1.1681510
+   ISHIKAWA Y, 1979, HAMILTONIAN MOL SPIN
+   KAGAWA T, 1975, PHYS REV A, V12, P2245, DOI 10.1103/PhysRevA.12.2245
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   KIM YK, 1967, PHYS REV, V159, P190, DOI 10.1103/PhysRev.159.190
+   LECLERCQ JM, 1970, PHYS REV A, V1, P1358, DOI 10.1103/PhysRevA.1.1358
+   LOWDIN PO, 1955, PHYS REV, V97, P1474, DOI 10.1103/PhysRev.97.1474
+   MACKRODT WC, 1970, MOL PHYS, V18, P697, DOI 10.1080/00268977000100741
+   MALLI G, 1975, J CHEM PHYS, V63, P830, DOI 10.1063/1.431364
+   MALLI G, 1980, CHEM PHYS LETT, V69, P313, DOI 10.1016/0009-2614(80)85069-X
+   MALLI G, UNPUBLISHED
+   MALY J, 1973, THEOR CHIM ACTA, V28, P363, DOI 10.1007/BF00529017
+   MATSUOKA O, UNPUBLISHED
+   OREG J, 1979, MOL PHYS, V37, P265, DOI 10.1080/00268977900100211
+   PYYKKO P, 1978, ADV QUANTUM CHEM, V11, P252
+   SUZUKI N, UNPUBLISHED
+   SYNEK M, 1964, PHYS REV A-GEN PHYS, V136, P1552
+   WAHL AC, 1964, J CHEM PHYS, V41, P2578, DOI 10.1063/1.1726326
+NR 38
+TC 66
+Z9 66
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1980
+VL 73
+IS 3
+BP 1320
+EP 1328
+DI 10.1063/1.440245
+PG 9
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA KD656
+UT WOS:A1980KD65600043
+ER
+
+PT J
+AU AOYAMA, T
+   YAMAKAWA, H
+   MATSUOKA, O
+AF AOYAMA, T
+   YAMAKAWA, H
+   MATSUOKA, O
+TI RELATIVISTIC SELF-CONSISTENT-FIELD METHODS FOR MOLECULES .2. A
+   SINGLE-DETERMINANT DIRAC-FOCK SELF-CONSISTENT-FIELD METHOD FOR
+   CLOSED-SHELL POLYATOMIC-MOLECULES
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP AOYAMA, T (reprint author), UNIV ELETROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR BETHE HA, 1957, QUANTUM MECHANICS ON
+   Condon E. U., 1935, THEORY ATOMIC SPECTR
+   DESCLAUX JP, 1975, COMPUT PHYS COMMUN, V9, P31, DOI 10.1016/0010-4655(75)90054-5
+   Desclaux J. P., 1973, ATOM DATA NUCL DATA, V12, P311, DOI 10.1016/0092-640X(73)90020-X
+   FIECK G, 1979, J PHYS B-AT MOL OPT, V12, P1063, DOI 10.1088/0022-3700/12/7/010
+   HARRIS FE, 1963, REV MOD PHYS, V35, P558, DOI 10.1103/RevModPhys.35.558
+   Herzberg G., 1950, MOL SPECTRA MOL STRU, VI
+   Herzberg G., 1966, MOL SPECTRA MOL STRU, V3
+   KIM YK, 1967, PHYS REV, V154, P17, DOI 10.1103/PhysRev.154.17
+   KRAUSS M, 1964, J RES NBS B MATH SCI, VB 68, P35, DOI 10.6028/jres.068B.007
+   MATSUOKA O, 1980, J CHEM PHYS, V73, P1320, DOI 10.1063/1.440245
+   OOHATA K, 1974, MEM FAC SC KYUSUH B, V5, P7
+   TAKETA H, 1966, J PHYS SOC JPN, V21, P2313, DOI 10.1143/JPSJ.21.2313
+NR 13
+TC 39
+Z9 39
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1980
+VL 73
+IS 3
+BP 1329
+EP 1333
+DI 10.1063/1.440246
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA KD656
+UT WOS:A1980KD65600044
+ER
+
+PT J
+AU MATSUOKA, O
+   AOYAMA, T
+AF MATSUOKA, O
+   AOYAMA, T
+TI MOLECULAR INTEGRAL OF DIAMAGNETIC CONTRIBUTION TO NUCLEAR SPIN-SPIN
+   COUPLING-CONSTANT
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+RP MATSUOKA, O (reprint author), UNIV ELETROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR ABRAMOWITZ M, 1964, HDB MATH FUNCTIONS, P916
+   LEE WS, 1979, J CHEM PHYS, V70, P1530, DOI 10.1063/1.437563
+   Matsuoka O., 1971, International Journal of Quantum Chemistry, V5, DOI 10.1002/qua.560050102
+   MATSUOKA O, 1977, J CHEM PHYS, V66, P1245, DOI 10.1063/1.434017
+   MCLEAN AD, 1965, IBM J RES DEV, V9, P203
+   RAMSEY NF, 1953, PHYS REV, V91, P303, DOI 10.1103/PhysRev.91.303
+   SNYDER LC, 1972, MOL WAVEFUNCTIONS
+   TAKETA H, 1966, J PHYS SOC JPN, V21, P2313, DOI 10.1143/JPSJ.21.2313
+NR 8
+TC 17
+Z9 17
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PY 1980
+VL 73
+IS 11
+BP 5718
+EP 5720
+DI 10.1063/1.440051
+PG 3
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA KX295
+UT WOS:A1980KX29500038
+ER
+
+PT J
+AU AOYAMA, T
+   MATSUOKA, O
+   NAKAGAWA, N
+AF AOYAMA, T
+   MATSUOKA, O
+   NAKAGAWA, N
+TI ABINITIO HARTREE-FOCK CALCULATIONS ON ACETYLENE DIMER
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+C1 UNIV ELETROCOMMUN,DEPT CHEM,TOKYO 182,JAPAN.
+RP AOYAMA, T (reprint author), UNIV ELETROCOMMUN,DEPT PHYS,TOKYO 182,JAPAN.
+CR AOYAMA T, 1979, CHEM PHYS LETT, V60, P326, DOI 10.1016/0009-2614(79)80045-7
+   AOYAMA T, UNPUBLISHED
+   BONCHEV D, 1974, GAZZ CHIM ITAL, V104, P1195
+   HEHRE WJ, 1972, J CHEM PHYS, V56, P2257, DOI 10.1063/1.1677527
+   HEHRE WJ, 236 IND U QUANT CHEM
+   KOLLMAN P, 1975, J AM CHEM SOC, V97, P955, DOI 10.1021/ja00838a001
+   KOSKI HK, 1975, ACTA CRYSTALLOGR B, V31, P350, DOI 10.1107/S0567740875002786
+   LAFFERTY WJ, 1964, J MOL SPECTROSC, V14, P79, DOI 10.1016/0022-2852(64)90101-8
+   LEVINA OV, 1978, ZH FIZ KHIM+, V52, P153
+   LOWDIN PO, 1959, ADV CHEM PHYS, V2, P207
+   MULLIKEN RS, 1955, J CHEM PHYS, V23, P1833, DOI 10.1063/1.1740588
+   MURTHY ASN, 1975, ADV MOL RELAX INT PR, V7, P255, DOI 10.1016/0001-8716(75)80029-0
+   NAKAGAWA N, 1960, B CHEM SOC JPN, V33, P1634, DOI 10.1246/bcsj.33.1634
+   SAKAI K, 1977, CHEM PHYS LETT, V47, P416, DOI 10.1016/0009-2614(77)85005-7
+   SCHNEIDER WG, 1958, J CHEM PHYS, V28, P601, DOI 10.1063/1.1744199
+   WEST R, 1961, J AM CHEM SOC, V83, P765, DOI 10.1021/ja01465a002
+NR 16
+TC 35
+Z9 41
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1979
+VL 67
+IS 2-3
+BP 508
+EP 510
+DI 10.1016/0009-2614(79)85215-X
+PG 3
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA HW240
+UT WOS:A1979HW24000067
+ER
+
+PT J
+AU MATSUOKA, O
+AF MATSUOKA, O
+TI CONSTRUCTION OF NEW BIOLOGICAL-RESEARCH FACILITY FOR INTERNAL EMITTER
+   AND PROSPECT
+SO JOURNAL OF THE ATOMIC ENERGY SOCIETY OF JAPAN
+LA Japanese
+DT Article
+NR 0
+TC 0
+Z9 0
+PU ATOMIC ENERGY SOC JAPAN
+PI TOKYO
+PA 1-1-13 SHIMBASHI MINATO-KU, TOKYO 105, JAPAN
+SN 0004-7120
+J9 J ATOM ENERG SOC JPN
+JI J. At. Energy Soc. Jpn.
+PY 1979
+VL 21
+IS 10
+BP 768
+EP 772
+PG 5
+WC Nuclear Science & Technology
+SC Nuclear Science & Technology
+GA HU738
+UT WOS:A1979HU73800003
+ER
+
+EF

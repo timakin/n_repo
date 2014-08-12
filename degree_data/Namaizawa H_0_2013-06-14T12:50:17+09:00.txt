@@ -1,0 +1,772 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Wada, N
+   Yano, H
+   Ogura, M
+   Namaizawa, H
+   Karaki, Y
+AF Wada, N
+   Yano, H
+   Ogura, M
+   Namaizawa, H
+   Karaki, Y
+TI Influence of spin fluctuations upon heat capacity of 2D Fermi liquid
+   formed on hectorite
+SO JOURNAL OF LOW TEMPERATURE PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT Symposium on Quantum Fluids and Solids (QFS 97)
+CY JUL 21-26, 1997
+CL PARIS, FRANCE
+ID HE-3; GRAPHITE
+AB We measured low-temperature heat capacities of two-dimensional Fermi liquid (2D FL) formed on Hectorite down to 15mK. At a coverage where mean atomic distance is comparable to that of bulk He-3 liquid, we found that the temperature dependence deviates considerably from the expected linearity. To account for the deviation we carried through integrals including RPA spin susceptibility for the Stoner-Hubbard(SH) or the Landau's Fermi liquid (LFL) models over the effectively entire energy-momentum space without imposing the paramagnon approximation or the like. We found numerically that the spin fluctuation develops a T-2 correction at T<T* which, at T>T*, is taken over by a Tlog T term where T* is some hundredths of T-F. With these corrections we are able to interprete the data and have determined the parameters for each model consistently at the densities observed.
+C1 Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Meguro Ku, Tokyo 153, Japan.
+   Univ Tokyo, Inst Solid State Phys, Minato Ku, Tokyo 176, Japan.
+RP Wada, N (reprint author), Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Meguro Ku, Komaba 3-8-1, Tokyo 153, Japan.
+CR DONIACH S, 1966, PHYS REV LETT, V17, P450
+   GABAY M, 1978, PHYS REV B, V18, P5033, DOI 10.1103/PhysRevB.18.5033
+   GREYWALL DS, 1990, PHYS REV B, V41, P1842, DOI 10.1103/PhysRevB.41.1842
+   Morhard KD, 1996, PHYS REV B, V53, P2658, DOI 10.1103/PhysRevB.53.2658
+   OGURA M, UNPUB J PHYS SOC JAP
+   VOLLHARDT D, 1990, REV MOD PHYS B, V41, P1842
+   Wada N, 1996, CZECH J PHYS, V46, P395
+   WADA N, 1995, PHYS REV B, V52, P1167, DOI 10.1103/PhysRevB.52.1167
+NR 8
+TC 8
+Z9 8
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0022-2291
+J9 J LOW TEMP PHYS
+JI J. Low Temp. Phys.
+PD JAN
+PY 1998
+VL 110
+IS 1-2
+BP 357
+EP 362
+DI 10.1023/A:1022549103524
+PG 6
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA YT742
+UT WOS:000071640500052
+ER
+
+PT J
+AU Namaizawa, H
+AF Namaizawa, H
+TI Rotonology on neutron scattering from He-II at low temperatures
+SO CZECHOSLOVAK JOURNAL OF PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 21st International Conference on Low Temperature Physics (LT 21)
+CY AUG 08-14, 1996
+CL PRAGUE, CZECH REPUBLIC
+SP Int Union Pure & Appl Phys
+ID 2-ROTON THRESHOLD; RAMAN-SCATTERING
+AB By applying the roton-roton interaction with energy-dependent form-factor, which is proposed [1] to explain anomalous behavior of roton-roton cross section near the two-roton threshold [2] and is also successfully applied [3] to the Raman scattering: experiment close to the threshold, we shall study the dynamical structure factor in the region where rotons play vital role to obtain the results which naturally explain neuton experiments, thereby constructing a unified picture for the dynamical feature of He-II, a rotonology.
+RP Namaizawa, H (reprint author), UNIV TOKYO, GRAD SCH ARTS & SCI, MEGURO KU, TOKYO 153, JAPAN.
+CR FORBES AC, 1990, PHYS REV LETT, V64, P1393, DOI 10.1103/PhysRevLett.64.1393
+   NAKAJIMA M, 1994, J LOW TEMP PHYS, V95, P441, DOI 10.1007/BF00751783
+   NAMAIZAWA H, 1990, PHYS LETT A, V151, P339, DOI 10.1016/0375-9601(90)90294-X
+   NAMAIZAWA H, 1994, J LOW TEMP PHYS, V95, P413, DOI 10.1007/BF00751782
+   OGITA N, 1990, PHYSICA B, V165, P503, DOI 10.1016/0921-4526(90)90643-9
+NR 5
+TC 0
+Z9 0
+PU CZECHOSLOVAK JNL OF PHYSICS
+PI PRAGUE
+PA FYZIKALNI USTAV AV NA SLOVANCE 2, PRAGUE, CZECH REPUBLIC 180 40
+SN 0011-4626
+J9 CZECH J PHYS
+JI Czech. J. Phys.
+PY 1996
+VL 46
+SU 1
+BP 289
+EP 290
+PG 2
+WC Physics, Multidisciplinary
+SC Physics
+GA VL438
+UT WOS:A1996VL43800146
+ER
+
+PT J
+AU KISHINE, J
+   NAMAIZAWA, H
+AF KISHINE, J
+   NAMAIZAWA, H
+TI SUPERCONDUCTIVITY OF CARRIERS DOPED INTO THE STATIC CHARGE-DENSITY-WAVE
+   STATE IN 2-DIMENSIONAL SQUARE LATTICE
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+AB On the purpose of studying the effect of long-range Coulomb-interaction in Strongly correlated electronic systems we bring in as its representative the nearest-neighbor repulsion (v) in addition to the on-site repulsion (u) and shall investigate the possibility of the superconducting transition of carriers doped into the charge-density wave (CDW) state expected for v > u/4 in 2-dimensional square lattice. We shall see that strongly correlated hopping processes of doped carriers make the systems superconducting. The favored superconducting phase is of extended s-wave symmetry, and T-c similar to 100 K is shown to easily be attained near the half-filling.
+RP KISHINE, J (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR ANDERSON PW, 1958, PHYS REV, V112, P1900, DOI 10.1103/PhysRev.112.1900
+   CALLAWAY J, 1990, PHYS REV B, V42, P465, DOI 10.1103/PhysRevB.42.465
+   KAWANA T, UNPUB
+   MIZUNO Y, 1988, PROG THEOR PHYS, V80, P353, DOI 10.1143/PTP.80.353
+   OHTA Y, 1994, PHYS REV B, V50, P13594, DOI 10.1103/PhysRevB.50.13594
+   RICE TM, 1981, PHYS REV LETT, V47, P689, DOI 10.1103/PhysRevLett.47.689
+   SIGRIST M, 1987, Z PHYS B CON MAT, V68, P9, DOI 10.1007/BF01307857
+   ZHANG Y, 1989, PHYS REV B, V39, P9397, DOI 10.1103/PhysRevB.39.9397
+NR 8
+TC 3
+Z9 3
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD MAR
+PY 1995
+VL 93
+IS 3
+BP 519
+EP 540
+DI 10.1143/PTP.93.519
+PG 22
+WC Physics, Multidisciplinary
+SC Physics
+GA QQ707
+UT WOS:A1995QQ70700003
+ER
+
+PT J
+AU NAMAIZAWA, H
+AF NAMAIZAWA, H
+TI RAMAN-SCATTERING FROM HE-II NEAR THE 2-ROTON THRESHOLD .1. A NEW
+   FORMULATION
+SO JOURNAL OF LOW TEMPERATURE PHYSICS
+LA English
+DT Article
+ID ROTON-ROTON SCATTERING; LIQUID HELIUM; SUPERFLUID-HELIUM; TOTAL
+   MOMENTUM; BOUND-STATE; SPECTRUM
+AB A new formalism will be proposed for the Raman scattering from He II near the two-roton threshold. By showing that the processes including long wavelength photons in the intermediate states are enhanced it is found that the Raman intensity is proportional to the multi-phonon part of the structure factor. To study the structure factor the atomic density fluctuation is expanded in terms of the phonon-roton operators. Based on it the Hamiltonian for the elementary excitations is constructed. Then the structure factor is shown proportional to the generalized density of states of interacting rotons (GDOSIR): It contains the form-factor of a roton-pair creation from the atomic density at every vertex of ladder processes as well as at the places where the pair is created and annihilated by light quanta. Thanks to the commitment of long wave-length photons the proposed formalism is automatically free from the hard-core problem, with which the conventional ones should inevitably confront but were unable to cope.
+RP NAMAIZAWA, H (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR BORN M, 1964, PRINCIPLES OPTICS, pCH2
+   COWLEY RA, 1971, CAN J PHYS, V49, P177
+   FEYNMAN RP, 1956, PHYS REV, V102, P1189, DOI 10.1103/PhysRev.102.1189
+   FORBES AC, 1990, PHYS REV LETT, V64, P1393, DOI 10.1103/PhysRevLett.64.1393
+   GREYTAK TJ, 1969, PHYS REV LETT, V22, P987, DOI 10.1103/PhysRevLett.22.987
+   GREYTAK TJ, 1970, PHYS REV LETT, V25, P1547, DOI 10.1103/PhysRevLett.25.1547
+   Halley J.W., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   HALLEY JW, 1969, PHYS REV, V181, P338, DOI 10.1103/PhysRev.181.338
+   IWAMOTO F, 1970, PROG THEOR PHYS, V44, P1135, DOI 10.1143/PTP.44.1135
+   JACKSON HW, 1969, PHYS REV, V85, P186
+   KLEBAN P, 1975, PHYS REV B, V11, P3520, DOI 10.1103/PhysRevB.11.3520
+   KLEBAN P, 1975, PHYS REV B, V11, P1878, DOI 10.1103/PhysRevB.11.1878
+   KLEBAN P, 1979, PHYS REV B, V19, P3511, DOI 10.1103/PhysRevB.19.3511
+   KLEBAN P, 1974, PHYS LETT A, VA 49, P19, DOI 10.1016/0375-9601(74)90650-1
+   MURRAY CA, 1975, J PHYS C SOLID STATE, V8, pL90, DOI 10.1088/0022-3719/8/6/003
+   NAGAI K, 1991, PROG THEOR PHYS, V85, P169, DOI 10.1143/PTP.85.169
+   NAKAJIMA M, 1992, RAMAN SCATTERING HE
+   NAKAJIMA S, 1971, PROG THEOR PHYS, V45, P353, DOI 10.1143/PTP.45.353
+   NAMAIZAWA H, 1990, PHYS LETT A, V151, P339, DOI 10.1016/0375-9601(90)90294-X
+   OGITA N, 1990, PHYSICA B, V165, P503, DOI 10.1016/0921-4526(90)90643-9
+   OHBAYASHI K, 1991, EXCITATIONS 2 DIMENS, P17
+   OHBAYASHI K, 1985, PHYS REV B, V31, P1324, DOI 10.1103/PhysRevB.31.1324
+   Ohbayashi K., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   PITAEVSKII LP, 1991, PHYS LETT A, V153, P478, DOI 10.1016/0375-9601(91)90700-I
+   RUWALDS J, 1970, PHYS REV LETT, V25, P333
+   SODA T, 1970, PROG THEOR PHYS, V44, P860, DOI 10.1143/PTP.44.860
+   STEPHEN MJ, 1969, PHYS REV, V187, P279, DOI 10.1103/PhysRev.187.279
+   STIRLING WG, 1985, 2ND P INT C PHON PHY, P829
+   WOERNER RL, 1973, J LOW TEMP PHYS, V13, P149, DOI 10.1007/BF00654402
+   WYATT AFG, 1991, EXCITATIONS 2 DIMENS, P137
+   ZAWADOWS.A, 1972, PHYS REV A, V5, P399, DOI 10.1103/PhysRevA.5.399
+NR 31
+TC 1
+Z9 1
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0022-2291
+J9 J LOW TEMP PHYS
+JI J. Low Temp. Phys.
+PD MAY
+PY 1994
+VL 95
+IS 3-4
+BP 413
+EP 439
+DI 10.1007/BF00751782
+PG 27
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA NL791
+UT WOS:A1994NL79100002
+ER
+
+PT J
+AU NAKAJIMA, M
+   NAMAIZAWA, H
+AF NAKAJIMA, M
+   NAMAIZAWA, H
+TI RAMAN-SCATTERING FROM HE-II NEAR THE 2-ROTON THRESHOLD .2. COMPARISON
+   WITH EXPERIMENTS
+SO JOURNAL OF LOW TEMPERATURE PHYSICS
+LA English
+DT Article
+ID NEUTRON-SCATTERING; SUPERFLUID-HELIUM; ROTON PAIRS
+AB Based on the new formalism which is developed in the preceding paper and is free from the difficulty with which the conventional theories could not cope, we shall examine experimental Raman spectra of He II near the two-roton threshold. The intensity spectrum is determined by the generalized density of states of interacting rotons (GDOSIR). For the form factor of a roton-pair creation from the atomic density fluctuation which appears in GDOSIR, a power law in total energy is assumed. After investigating what types of characteristic structures and how they appear in GDOSIR as alpha, the power of the form factor, and g, the coupling constant, change, we shall perform line shape analysis between theory and experiment by varying g and DELTA(R) the roton-minimum energy, by including the instrumental width. It is found that alpha in the margin 0 less-than-or-equal-to alpha less than or similar 1/2 well reproduces experiments at SVP, 5, 10, 15 and 20 kg/cm2, the margin including that set by the direct roton-roton scattering experiment, namely alpha almost-equal-to 1/2. Further it also includes the conventional theories as a special case (alpha = 0), thereby solving the puzzle that the theories in error could have predicted the Raman feature so successfully. In addition the values of the coupling constant obtained by the Raman data here are in remarkable correspondence with those determined by the roton-roton scattering, thereby suggesting a possibility for the form of the interaction with alpha almost-equal-to 1/2 to lead to a unified understanding of roton dynamics. Further the results for DELTA(R) are not only in close agreement with each other for alpha in the Raman margin but also with the neutron results, from SVP to 20 kg/CM2. Therefore the Raman data alone can afford reliable information on the fundamental parameter of elementary excitations in He II. The results will also be presented for the bound-state energy and the relative peak intensity as functions of pressure and suggestions for experiment are given both for Raman and direct roton-roton scattering which may help narrowing the margin for a further.
+RP NAKAJIMA, M (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR BEDELL K, 1984, PHYS REV B, V29, P102, DOI 10.1103/PhysRevB.29.102
+   DIETRICH OW, 1972, PHYS REV A-GEN PHYS, V5, P1377, DOI 10.1103/PhysRevA.5.1377
+   FORBES AC, 1990, PHYS REV LETT, V64, P1393, DOI 10.1103/PhysRevLett.64.1393
+   GRAF EH, 1974, PHYS REV A, V10, P1748, DOI 10.1103/PhysRevA.10.1748
+   IWAMOTO F, 1970, PROG THEOR PHYS, V44, P1135, DOI 10.1143/PTP.44.1135
+   KLEBAN P, 1975, PHYS REV B, V11, P1878, DOI 10.1103/PhysRevB.11.1878
+   KLEBAN P, 1979, PHYS REV B, V19, P3511, DOI 10.1103/PhysRevB.19.3511
+   KLEBAN P, 1974, PHYS LETT A, VA 49, P19, DOI 10.1016/0375-9601(74)90650-1
+   MURRAY CA, 1975, J PHYS C SOLID STATE, V8, pL90, DOI 10.1088/0022-3719/8/6/003
+   NAMAIZAWA H, 1990, PHYS LETT A, V151, P339, DOI 10.1016/0375-9601(90)90294-X
+   NAMAIZAWA H, RAMAN SCATTERING HE
+   OGITA N, 1990, PHYSICA B, V165, P503, DOI 10.1016/0921-4526(90)90643-9
+   OHBAYASHI K, 1991, EXCITATIONS 2 DIMENS, P77
+   Ohbayashi K., 1989, Elementary Excitations in Quantum Fluids. Proceedings of the  Hiroshima Symposium
+   OHBAYASHI K, COMMUNICATION
+   RUWALDS J, 1970, PHYS REV LETT, V25, P333
+   STIRLING WG, 1985, 2ND P INT C PHON PHY, P829
+   TABLOT EF, 1988, PHYS REV B, V38, P11229
+   WOERNER RL, 1975, J PHYS C SOLID STATE, V8, pL464, DOI 10.1088/0022-3719/8/21/011
+   WYATT AFG, 1991, EXCITATIONS 2 DIMENS, P137
+   ZAWADOWS.A, 1972, PHYS REV A, V5, P399, DOI 10.1103/PhysRevA.5.399
+NR 21
+TC 2
+Z9 2
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0022-2291
+J9 J LOW TEMP PHYS
+JI J. Low Temp. Phys.
+PD MAY
+PY 1994
+VL 95
+IS 3-4
+BP 441
+EP 480
+DI 10.1007/BF00751783
+PG 40
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA NL791
+UT WOS:A1994NL79100003
+ER
+
+PT J
+AU NAMAIZAWA, H
+AF NAMAIZAWA, H
+TI RAMAN-SCATTERING FROM HE-II NEAR THE 2-ROTON THRESHOLD
+SO PHYSICA B
+LA English
+DT Article; Proceedings Paper
+CT 20th International Conference on Low Temperature Physics
+CY AUG 04-11, 1993
+CL EUGENE, OR
+SP INT UNION PURE & APPL PHYS, AMER PHYS SOC, CITY EUGENE, INT INST REFRIGERAT, INT SCI FDN, JET PROPULS LABS, NATL SCI FDN, USN, OFF NAVAL RES, OXFORD INSTRUMENTS INC, TEKTRONIX INC, UNIV OREGON
+AB A new formalism will be proposed for the Raman scattering from He-II near the two-roton threshold by noting that the processes including long wave-length photons dominate the intermediate states, thus being automatically free from the difficulty of the hard-core problem with which the conventional theories were unable to cope.  The resulted expression for the intensity is propotional to the multi-phonon part of the structure factor.  By expanding the atomic density fluctuation in terms of phonon-roton operators, Hamiltonian for the elementary excitations is constructed and the structure factor is shown to be proportional to the generalized density of states of interacting rotons:  It contains the form-factor of a roton-pair creation from the atomic density at every vertex of the ladder processes as well as at the places where the pair is created and annihilated by light quanta.  Assuming a power-law in energy for the form-factor the Raman spectra at various pressures are analysed by taking the coupling constant, g, and the roton minimum energy, DELTA, as fitting parameters.  The allowed margin for the power of the form-factor, alpha, is found to be 0 less-than-or-equal-to alpha less-than-or-similar-to 9/16, including both the conventional case (alpha = 0) and the margin set by the direct roton-roton scattering (alpha almost-equal-to 1/2), thereby solving the long withstanding puzzle why the theories in error are so successful in explaining the Raman feature.  The present theory revived the robust concept of roton bound states at low pressures as well as opened the way to determine DELTA, the fundamental quantity of the elementary excitations by Raman data alone.  PACS number:  67.
+RP NAMAIZAWA, H (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,MEGURO KU,TOKYO 153,JAPAN.
+CR GREYTAK TJ, 1970, PHYS REV LETT, V25, P1547, DOI 10.1103/PhysRevLett.25.1547
+   IWAMOTO F, 1970, PROG THEOR PHYS, V44, P1135, DOI 10.1143/PTP.44.1135
+   KLEBAN P, 1979, PHYS REV B, V19, P3511, DOI 10.1103/PhysRevB.19.3511
+   KLEBAN P, 1974, PHYS LETT A, VA 49, P19, DOI 10.1016/0375-9601(74)90650-1
+   NAMAIZAWA H, 1990, PHYS LETT A, V151, P339, DOI 10.1016/0375-9601(90)90294-X
+   OGITA N, 1990, PHYSICA B, V165, P503, DOI 10.1016/0921-4526(90)90643-9
+   OHBAYASHI K, 1991, EXCITATIONS 2 DIMENS, P17
+   RUVALDS J, 1970, PHYS REV LETT, V25, P333, DOI 10.1103/PhysRevLett.25.333
+   WOERNER RL, 1973, J LOW TEMP PHYS, V13, P149, DOI 10.1007/BF00654402
+NR 9
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4526
+J9 PHYSICA B
+JI Physica B
+PD FEB
+PY 1994
+VL 194
+BP 541
+EP 542
+DI 10.1016/0921-4526(94)90600-9
+PN Part 1
+PG 2
+WC Physics, Condensed Matter
+SC Physics
+GA NB789
+UT WOS:A1994NB78900274
+ER
+
+PT J
+AU NAMAIZAWA, H
+AF NAMAIZAWA, H
+TI ON THE ROTON ROTON INTERACTION AT FINITE TOTAL MOMENTUM
+SO PHYSICS LETTERS A
+LA English
+DT Article
+ID SUPERFLUID-HELIUM; PAIRS
+AB To explain the strong momentum dependence of the roton-roton scattering cross-section observed by Forbes and Wyatt we propose, for the roton-roton interaction at finite total momentum, a simple power law expression in the energy.  To match the experiment the allowed values for the power and the coupling constant are found rather limited.
+RP NAMAIZAWA, H (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,MEGURO KU,TOKYO 153,JAPAN.
+CR BEDELL K, 1984, PHYS REV B, V29, P102, DOI 10.1103/PhysRevB.29.102
+   FOMIN IA, 1971, ZH EKSP TEOR FIZ+, V33, P637
+   FORBES AC, 1990, PHYS REV LETT, V64, P1393, DOI 10.1103/PhysRevLett.64.1393
+   FORBES AC, 1989, 3RD P INT C PHON PHY, V2, P1047
+   IWAMOTO F, 1970, PROG THEOR PHYS, V44, P1135, DOI 10.1143/PTP.44.1135
+   RUVALDS J, 1970, PHYS REV LETT, V25, P333, DOI 10.1103/PhysRevLett.25.333
+   ZAWADOWS.A, 1972, PHYS REV A, V5, P399, DOI 10.1103/PhysRevA.5.399
+NR 7
+TC 5
+Z9 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD DEC 17
+PY 1990
+VL 151
+IS 6-7
+BP 339
+EP 344
+DI 10.1016/0375-9601(90)90294-X
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA ET214
+UT WOS:A1990ET21400016
+ER
+
+PT J
+AU HIRASHIMA, DS
+   NAMAIZAWA, H
+AF HIRASHIMA, DS
+   NAMAIZAWA, H
+TI COLLECTIVE MODES AND A THEORY OF RESPONSE OF D-WAVE SUPERCONDUCTORS
+SO JOURNAL OF LOW TEMPERATURE PHYSICS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+RP HIRASHIMA, DS (reprint author), NAGOYA UNIV,DEPT PHYS,CHIKUSA KU,NAGOYA 46401,JAPAN.
+CR ANDERSON PW, 1961, PHYS REV, V123, P1911, DOI 10.1103/PhysRev.123.1911
+   ANDERSON PW, 1984, PHYS REV B, V30, P1549, DOI 10.1103/PhysRevB.30.1549
+   ANDERSON PW, 1958, PHYS REV, V112, P1900, DOI 10.1103/PhysRev.112.1900
+   ANDERSON PW, 1984, PHYS REV B, V30, P4000, DOI 10.1103/PhysRevB.30.4000
+   AUERBACH A, 1986, PHYS REV LETT, V57, P877, DOI 10.1103/PhysRevLett.57.877
+   BATLOGG B, 1986, PHYS REV B, V33, P5906, DOI 10.1103/PhysRevB.33.5906
+   BISHOP DJ, 1984, PHYS REV LETT, V53, P1009, DOI 10.1103/PhysRevLett.53.1009
+   BLOUNT EI, 1985, PHYS REV B, V32, P2935, DOI 10.1103/PhysRevB.32.2935
+   CYROT M, 1986, SOLID STATE COMMUN, V60, P253, DOI 10.1016/0038-1098(86)90458-8
+   EINZEL D, 1986, PHYS REV LETT, V56, P2513, DOI 10.1103/PhysRevLett.56.2513
+   GOLDING B, 1985, PHYS REV LETT, V55, P2479, DOI 10.1103/PhysRevLett.55.2479
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P1004
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P585, DOI 10.1143/PTP.77.585
+   HIRASHIMA DS, 1985, PROG THEOR PHYS, V74, P400, DOI 10.1143/PTP.74.400
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P563, DOI 10.1143/PTP.77.563
+   HIRSCH JE, 1985, PHYS REV LETT, V54, P1317, DOI 10.1103/PhysRevLett.54.1317
+   HIRSCHFELD P, 1986, SOLID STATE COMMUN, V59, P111, DOI 10.1016/0038-1098(86)90190-0
+   HIRSCHFELD PJ, 1988, PHYS REV B, V37, P83, DOI 10.1103/PhysRevB.37.83
+   KUMAR P, 1987, PHYS REV LETT, V59, P1954, DOI 10.1103/PhysRevLett.59.1954
+   LAVAGNA M, 1987, PHYS REV LETT, V58, P266, DOI 10.1103/PhysRevLett.58.266
+   MACLAUGHLIN DE, 1984, PHYS REV LETT, V53, P1833, DOI 10.1103/PhysRevLett.53.1833
+   MERMIN ND, 1974, PHYS REV A, V9, P868, DOI 10.1103/PhysRevA.9.868
+   MIYAKE K, 1986, PHYS REV LETT, V57, P1627, DOI 10.1103/PhysRevLett.57.1627
+   MIYAKE K, 1984, PROG THEOR PHYS, V72, P1063, DOI 10.1143/PTP.72.1063
+   MIYAKE K, 1986, PHYS REV B, V34, P6554, DOI 10.1103/PhysRevB.34.6554
+   MONIEN H, 1987, SOLID STATE COMMUN, V63, P1027, DOI 10.1016/0038-1098(87)90654-5
+   MONIEN H, 1986, J LOW TEMP PHYS, V65, P13, DOI 10.1007/BF00685400
+   MONIEN H, 1986, PHYS REV B, V34, P3478
+   MONIEN H, 1987, SOLID STATE COMMUN, V61, P581, DOI 10.1016/0038-1098(87)90175-X
+   MONIEN H, 1987, SOLID STATE COMMUN, V63, P263, DOI 10.1016/0038-1098(87)90905-7
+   MULLER V, 1986, SOLID STATE COMMUN, V57, P319, DOI 10.1016/0038-1098(86)90099-2
+   OHKAWA FJ, 1984, J PHYS SOC JPN, V53, P4344, DOI 10.1143/JPSJ.53.4344
+   OTT HR, 1984, PHYS REV LETT, V52, P1915, DOI 10.1103/PhysRevLett.52.1915
+   SCALAPINO DJ, 1987, PHYS REV B, V35, P6694, DOI 10.1103/PhysRevB.35.6694
+   SCHARNBERG K, COMMUNICATION
+   SCHMITTRINK S, 1986, PHYS REV LETT, V57, P2575, DOI 10.1103/PhysRevLett.57.2575
+   SHIVARAM BS, 1986, PHYS REV LETT, V56, P1078, DOI 10.1103/PhysRevLett.56.1078
+   STEWART GR, 1984, REV MOD PHYS, V56, P755, DOI 10.1103/RevModPhys.56.755
+   UEDA K, 1985, PHYS REV B, V31, P7114, DOI 10.1103/PhysRevB.31.7114
+   VARMA CM, 1984, B AM PHYS SOC, V29, P404
+   VOLOVIK GE, 1985, SOV PHYS JETP, V61, P843
+   VOLOVIK GE, 1984, JETP LETT+, V39, P674
+   WOLFLE P, 1986, PHYS LETT A, V119, P40, DOI 10.1016/0375-9601(86)90642-0
+   WOLKHAUSEN T, 1987, THESIS U HAMBURG
+NR 44
+TC 22
+Z9 22
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0022-2291
+J9 J LOW TEMP PHYS
+JI J. Low Temp. Phys.
+PD OCT
+PY 1988
+VL 73
+IS 1-2
+BP 137
+EP 160
+DI 10.1007/BF00681747
+PG 24
+WC Physics, Applied; Physics, Condensed Matter
+SC Physics
+GA Q7322
+UT WOS:A1988Q732200007
+ER
+
+PT J
+AU MIZUNO, Y
+   NAMAIZAWA, H
+AF MIZUNO, Y
+   NAMAIZAWA, H
+TI PAIRING MECHANISM FOR CURRENT HIGH-TC SUPERCONDUCTING OXIDES
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP MIZUNO, Y (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR BEDNORZ JG, 1986, Z PHYS B CON MAT, V64, P189, DOI 10.1007/BF01303701
+   LYONS KB, 1988, PHYS REV B, V37, P2353, DOI 10.1103/PhysRevB.37.2353
+   LYONS KB, 1988, PHYS REV LETT, V60, P732, DOI 10.1103/PhysRevLett.60.732
+   WOLF SA, 1987, NOVEL SUPERCONDUCTIV
+NR 4
+TC 4
+Z9 4
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD SEP
+PY 1988
+VL 80
+IS 3
+BP 353
+EP 358
+DI 10.1143/PTP.80.353
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA Q3571
+UT WOS:A1988Q357100001
+ER
+
+PT J
+AU HIRASHIMA, DS
+   NAMAIZAWA, H
+AF HIRASHIMA, DS
+   NAMAIZAWA, H
+TI A P-WAVE SUPERCONDUCTOR UNDER EXTERNALLY APPLIED WEAK FIELDS .1. MOTION
+   OF THE ORDER-PARAMETERS AND THE CURRENT
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP HIRASHIMA, DS (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR ANDERSON PW, 1958, PHYS REV, V112, P1900, DOI 10.1103/PhysRev.112.1900
+   ANDERSON PW, 1984, PHYS REV B, V30, P4000, DOI 10.1103/PhysRevB.30.4000
+   BISHOP DJ, 1984, PHYS REV LETT, V53, P1009, DOI 10.1103/PhysRevLett.53.1009
+   BLOUNT EI, 1985, PHYS REV B, V32, P2935, DOI 10.1103/PhysRevB.32.2935
+   COPPERSMITH SN, 1986, PHYS REV LETT, V56, P1870, DOI 10.1103/PhysRevLett.56.1870
+   EINZEL D, 1986, PHYS REV LETT, V56, P2513, DOI 10.1103/PhysRevLett.56.2513
+   GOLDING B, 1985, PHYS REV LETT, V55, P2479, DOI 10.1103/PhysRevLett.55.2479
+   GROSS F, 1986, Z PHYS B CON MAT, V64, P175, DOI 10.1007/BF01303700
+   HASEGAWA Y, 1982, PROG THEOR PHYS, V68, P345, DOI 10.1143/PTP.68.345
+   HASEGAWA Y, 1982, PROG THEOR PHYS, V67, P389, DOI 10.1143/PTP.67.389
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P585, DOI 10.1143/PTP.77.585
+   HIRASHIMA DS, 1985, PROG THEOR PHYS, V74, P400, DOI 10.1143/PTP.74.400
+   LEGGETT AJ, 1975, REV MOD PHYS, V47, P331, DOI 10.1103/RevModPhys.47.331
+   MACLAUGHLIN DE, 1984, PHYS REV LETT, V53, P1833, DOI 10.1103/PhysRevLett.53.1833
+   MILLIS AJ, 1987, PHYS REV B, V35, P151, DOI 10.1103/PhysRevB.35.151
+   MONIEN H, 1986, PHYS REV B, V34, P3487, DOI 10.1103/PhysRevB.34.3487
+   MONIEN H, 1986, J LOW TEMP PHYS, V65, P13, DOI 10.1007/BF00685400
+   MULLER V, 1986, SOLID STATE COMMUN, V57, P319, DOI 10.1016/0038-1098(86)90099-2
+   OTT HR, 1984, PHYS REV LETT, V52, P1915, DOI 10.1103/PhysRevLett.52.1915
+   RICKAYZEN G, 1959, PHYS REV, V115, P795, DOI 10.1103/PhysRev.115.795
+   RODRIGUEZ JP, 1985, PHYS REV LETT, V55, P250, DOI 10.1103/PhysRevLett.55.250
+   SHIVARAM BS, 1986, PHYS REV LETT, V56, P1078, DOI 10.1103/PhysRevLett.56.1078
+   STEWART GR, 1984, REV MOD PHYS, V56, P755, DOI 10.1103/RevModPhys.56.755
+   UEDA K, 1985, PHYS REV B, V31, P7114, DOI 10.1103/PhysRevB.31.7114
+   VARMA CM, 1985, J APPL PHYS, V57, P3064, DOI 10.1063/1.335214
+   VOLOVIK GE, 1985, SOV PHYS JETP, V61, P843
+   VOLOVIK GE, 1984, JETP LETT+, V39, P674
+   WHEATLEY JC, 1975, REV MOD PHYS, V47, P415, DOI 10.1103/RevModPhys.47.415
+NR 28
+TC 19
+Z9 19
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD MAR
+PY 1987
+VL 77
+IS 3
+BP 563
+EP 584
+DI 10.1143/PTP.77.563
+PG 22
+WC Physics, Multidisciplinary
+SC Physics
+GA G6529
+UT WOS:A1987G652900007
+ER
+
+PT J
+AU HIRASHIMA, DS
+   NAMAIZAWA, H
+AF HIRASHIMA, DS
+   NAMAIZAWA, H
+TI A P-WAVE SUPERCONDUCTOR UNDER EXTERNALLY APPLIED WEAK FIELDS .2.
+   RESPONSE FUNCTIONS AND COLLECTIVE MODES
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP HIRASHIMA, DS (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 153,JAPAN.
+CR ANDERSON PW, 1984, PHYS REV B, V30, P1549, DOI 10.1103/PhysRevB.30.1549
+   ANDERSON PW, 1958, PHYS REV, V112, P1900, DOI 10.1103/PhysRev.112.1900
+   BALIAN R, 1963, PHYS REV, V131, P1553, DOI 10.1103/PhysRev.131.1553
+   COPPERSMITH SN, 1986, PHYS REV LETT, V56, P1870, DOI 10.1103/PhysRevLett.56.1870
+   EINZEL D, 1986, PHYS REV LETT, V56, P2513, DOI 10.1103/PhysRevLett.56.2513
+   GOLDING B, 1985, PHYS REV LETT, V55, P2479, DOI 10.1103/PhysRevLett.55.2479
+   GROLLE J, 1985, PREPRINT
+   GROSS F, 1986, Z PHYS B CON MAT, V64, P175, DOI 10.1007/BF01303700
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P491, DOI 10.1143/PTP.77.491
+   HIRASHIMA DS, 1985, PROG THEOR PHYS, V74, P400, DOI 10.1143/PTP.74.400
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P563, DOI 10.1143/PTP.77.563
+   HIRSCHFELD P, 1986, SOLID STATE COMMUN, V59, P111, DOI 10.1016/0038-1098(86)90190-0
+   IMADA M, 1986, J PHYS SOC JPN, V55, P3539, DOI 10.1143/JPSJ.55.3539
+   MATTIS DC, 1958, PHYS REV, V111, P412, DOI 10.1103/PhysRev.111.412
+   MILLIS AJ, 1987, PHYS REV B, V35, P151, DOI 10.1103/PhysRevB.35.151
+   MIYAKE K, 1986, PHYS REV LETT, V57, P1627, DOI 10.1103/PhysRevLett.57.1627
+   MONIEN H, 1986, PHYS REV B, V34, P3487, DOI 10.1103/PhysRevB.34.3487
+   MONIEN H, 1986, J LOW TEMP PHYS, V65, P13, DOI 10.1007/BF00685400
+   MULLER V, 1986, SOLID STATE COMMUN, V57, P319, DOI 10.1016/0038-1098(86)90099-2
+   PIPPARD AB, 1955, PHILOS MAG, V46, P1104
+   RODRIGUEZ JP, 1986, PREPRINT
+   SCHMITTRINK S, 1986, PHYS REV LETT, V57, P2575, DOI 10.1103/PhysRevLett.57.2575
+   STEWART GR, 1984, REV MOD PHYS, V56, P755, DOI 10.1103/RevModPhys.56.755
+   TSUNETO T, 1961, PHYS REV, V121, P402, DOI 10.1103/PhysRev.121.402
+   VARMA CM, 1984, B AM PHYS SOC, V29, P404
+NR 25
+TC 12
+Z9 12
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD MAR
+PY 1987
+VL 77
+IS 3
+BP 585
+EP 601
+DI 10.1143/PTP.77.585
+PG 17
+WC Physics, Multidisciplinary
+SC Physics
+GA G6529
+UT WOS:A1987G652900008
+ER
+
+PT J
+AU NAMAIZAWA, H
+AF NAMAIZAWA, H
+TI A MICROSCOPIC APPROACH TO NONLINEAR SOUND-PROPAGATION IN SUPERFLUID
+   HE-3-B
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR MAST DB, 1980, PHYS REV LETT, V45, P266, DOI 10.1103/PhysRevLett.45.266
+   MCCALL SL, 1969, PHYS REV, V183, P457, DOI 10.1103/PhysRev.183.457
+   POLTURAK E, 1981, PHYS REV LETT, V46, P1588, DOI 10.1103/PhysRevLett.46.1588
+   ROUFF M, 1983, PHYS REV LETT, V51, P1107, DOI 10.1103/PhysRevLett.51.1107
+   SAULS JA, 1981, PHYS REV LETT, V47, P530, DOI 10.1103/PhysRevLett.47.530
+NR 5
+TC 1
+Z9 1
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PY 1987
+VL 26
+SU 26-3
+BP 165
+EP 166
+PN Part 1
+PG 2
+WC Physics, Applied
+SC Physics
+GA N6091
+UT WOS:A1987N609100080
+ER
+
+PT J
+AU HIRASHIMA, DS
+   NAMAIZAWA, H
+AF HIRASHIMA, DS
+   NAMAIZAWA, H
+TI COLLECTIVE EXCITATIONS IN P-WAVE AND D-WAVE SUPERCONDUCTORS
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P585, DOI 10.1143/PTP.77.585
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P491, DOI 10.1143/PTP.77.491
+   HIRASHIMA DS, 1985, PROG THEOR PHYS, V74, P400, DOI 10.1143/PTP.74.400
+   HIRASHIMA DS, 1987, PROG THEOR PHYS, V77, P563, DOI 10.1143/PTP.77.563
+   STEWART GR, 1984, REV MOD PHYS, V56, P755, DOI 10.1103/RevModPhys.56.755
+NR 5
+TC 0
+Z9 0
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PY 1987
+VL 26
+SU 26-3
+BP 167
+EP 168
+PN Part 1
+PG 2
+WC Physics, Applied
+SC Physics
+GA N6091
+UT WOS:A1987N609100081
+ER
+
+PT J
+AU HASEGAWA, Y
+   NAMAIZAWA, H
+AF HASEGAWA, Y
+   NAMAIZAWA, H
+TI FERMI-LIQUID CORRECTIONS TO THE COLLECTIVE MODES IN HE-3-B UNDER A WEAK
+   MAGNETIC-FIELD
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+RP HASEGAWA, Y (reprint author), UNIV TOKYO,COLL GEN EDUC,INST PHYS,TOKYO 153,JAPAN.
+CR ALVESALO TA, 1980, PHYS REV LETT, V44, P1076, DOI 10.1103/PhysRevLett.44.1076
+   AVENEL O, 1980, PHYS REV LETT, V45, P1952, DOI 10.1103/PhysRevLett.45.1952
+   CALDER ID, 1980, PHYS REV LETT, V45, P1866, DOI 10.1103/PhysRevLett.45.1866
+   GIANNETTA RW, 1980, PHYS REV LETT, V45, P262, DOI 10.1103/PhysRevLett.45.262
+   HASEGAWA Y, 1979, PROG THEOR PHYS, V62, P1458, DOI 10.1143/PTP.62.1458
+   KOCH VE, 1981, PHYS REV LETT, V46, P486, DOI 10.1103/PhysRevLett.46.486
+   MAKI K, 1976, J LOW TEMP PHYS, V24, P755, DOI 10.1007/BF00657178
+   MAST DB, 1980, PHYS REV LETT, V45, P266, DOI 10.1103/PhysRevLett.45.266
+   MAST DB, 1981, PHYSICA B & C, V107, P685, DOI 10.1016/0378-4363(81)90645-8
+   NAGAI K, 1977, J LOW TEMP PHYS, V28, P139, DOI 10.1007/BF00658963
+   NAGAI K, 1975, PROG THEOR PHYS, V54, P1, DOI 10.1143/PTP.54.1
+   NARA K, 1981, PHYSICA B & C, V108, P1203, DOI 10.1016/0378-4363(81)90902-5
+   RAINER D, 1976, PHYS REV B, V13, P4745, DOI 10.1103/PhysRevB.13.4745
+   SAULS JA, 1981, PHYS REV B, V23, P4798, DOI 10.1103/PhysRevB.23.4798
+   SCHOPOHL N, 1981, PHYSICA B & C, V107, P691, DOI 10.1016/0378-4363(81)90648-3
+   TEWORDT L, 1979, J LOW TEMP PHYS, V37, P421, DOI 10.1007/BF00119199
+   PAULSON DN, 1973, PHYS REV LETT, V30, P829, DOI 10.1103/PhysRevLett.30.829
+   WHEATLEY JC, 1975, REV MOD PHYS, V47, P415, DOI 10.1103/RevModPhys.47.415
+   WOLFLE P, 1978, PROGR LOW TEMPERAT A, V7, pCH3
+   WOLFLE P, 1977, PHYSICA B & C, V90, P96, DOI 10.1016/0378-4363(77)90015-8
+NR 20
+TC 8
+Z9 8
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PY 1982
+VL 67
+IS 2
+BP 389
+EP 402
+DI 10.1143/PTP.67.389
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA NE485
+UT WOS:A1982NE48500003
+ER
+
+PT J
+AU NAMAIZAWA, H
+AF NAMAIZAWA, H
+TI SELF-CONSISTENT DEBYE-WALLER FACTORS OF THE ELECTRON SOLID ON
+   LIQUID-HELIUM
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+RP NAMAIZAWA, H (reprint author), UNIV SAARLAND,D-6600 SAARBRUCKEN,FED REP GER.
+CR BONSALL L, 1977, PHYS REV B, V15, P1959, DOI 10.1103/PhysRevB.15.1959
+   BRENIG W, 1963, Z PHYS, V171, P60, DOI 10.1007/BF01379337
+   Chaplik A. V., 1972, SOV PHYS JETP, V35, P395
+   Cole MW, 1970, PHYS REV B-SOLID ST, V2, P4239, DOI 10.1103/PhysRevB.2.4239
+   FISHER DS, 1979, PHYS REV LETT, V42, P798, DOI 10.1103/PhysRevLett.42.798
+   FREDKIN DR, 1965, PHYS REV, V138, P1527
+   GRIMES CC, 1979, PHYS REV LETT, V42, P795, DOI 10.1103/PhysRevLett.42.795
+   GRIMES CC, 1978, SURF SCI, V73, P379, DOI 10.1016/0039-6028(78)90517-4
+   GRIMES CC, 1976, SURF SCI, V58, P292, DOI 10.1016/0039-6028(76)90153-9
+   HALPERIN BI, 1978, PHYS REV LETT, V41, P519, DOI 10.1103/PhysRevLett.41.519
+   HALPERIN BI, 1978, PHYS REV LETT, V41, P121, DOI 10.1103/PhysRevLett.41.121
+   MEHROTRA RN, COMMUNICATION
+   MEISSNER G, 1978, SURF SCI, V73, P411, DOI 10.1016/0039-6028(78)90519-8
+   MEISSNER G, 1967, Z PHYS, V205, P249, DOI 10.1007/BF01326249
+   NAMAIZAWA H, 1978, J LOW TEMP PHYS, V31, P719, DOI 10.1007/BF00116048
+   NAMAIZAW.H, 1972, PROG THEOR PHYS, V48, P709, DOI 10.1143/PTP.48.709
+   NAMAIZAWA H, 1978, J LOW TEMP PHYS, V31, P747, DOI 10.1007/BF00116049
+   MEISSNER G, 1976, PHYS REV B, V13, P1370, DOI 10.1103/PhysRevB.13.1370
+   NELSON DR, 1979, PHYS REV B, V19, P2457, DOI 10.1103/PhysRevB.19.2457
+   PIETRASS B, 1967, PHYS LETT A, VA 24, P555, DOI 10.1016/0375-9601(67)90836-5
+   PIETRASS B, 1967, PHYS STATUS SOLIDI, V24, P571, DOI 10.1002/pssb.19670240220
+   SHIKIN VB, 1973, SOV PHYS JETP, V38, P373
+   SHIKIN VB, 1974, J LOW TEMP PHYS, V16, P193, DOI 10.1007/BF00655867
+   SHIKIN VB, 1974, JETP LETT+, V19, P335
+   SHIKIN VB, 1971, SOV PHYS JETP-USSR, V33, P387
+   THOULESS DJ, 1978, J PHYS C SOLID STATE, V11, pL189, DOI 10.1088/0022-3719/11/6/001
+   Wigner E, 1934, PHYS REV, V46, P1002, DOI 10.1103/PhysRev.46.1002
+   YOUNG AP, 1979, PHYS REV B, V19, P1855, DOI 10.1103/PhysRevB.19.1855
+NR 28
+TC 18
+Z9 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PY 1980
+VL 34
+IS 7
+BP 607
+EP 610
+DI 10.1016/0038-1098(80)90161-1
+PG 4
+WC Physics, Condensed Matter
+SC Physics
+GA JU764
+UT WOS:A1980JU76400024
+ER
+
+EF

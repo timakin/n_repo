@@ -1,0 +1,54 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Saitou, M
+   Hashiguchi, R
+AF Saitou, M
+   Hashiguchi, R
+TI Kinetics of electrode reactions on (110) single-crystalline nickel
+   electrodes in nickel sulfamate using a multipulse current measurement
+SO JOURNAL OF PHYSICAL CHEMISTRY B
+LA English
+DT Article
+ID ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY; RELAXATION; SURFACES
+AB A method is described for the study of the kinetics of electrode reactions on the basis of analytical solutions of three transient electrochemical processes comprising the diffusion of ions in electrolyte, charge-transfer reactions, and a charging process of an electrochemical double layer. Multipulse currents are applied to a working electrode of (110) single-crystal line nickel in nickel sulfamate, and the potentials between the working and counter electrodes are recorded. The measured potential-time curves well agree with those predicted by the analytical solution. The kinetic constant, exchange current density, and double-layer capacitance characterizing the kinetics of the electrode reactions are determined from the measured potential-time curves using the analytical solution.
+C1 Univ Ryukyus, Dept Mech Syst Engn, Okinawa 9030213, Japan.
+RP Saitou, M (reprint author), Univ Ryukyus, Dept Mech Syst Engn, 1 Senbaru Nishihara Cho, Okinawa 9030213, Japan.
+CR BERZINS T, 1955, J AM CHEM SOC, V77, P6448, DOI 10.1021/ja01629a006
+   Bisquert J, 2000, PHYS CHEM CHEM PHYS, V2, P4185, DOI 10.1039/b001708f
+   BOCKRIS J, 2000, MODERN ELECTROCHEM A, V2, P1409
+   Crank J, 1975, MATH DIFFUSION
+   Holm M, 2000, J APPL ELECTROCHEM, V30, P1125, DOI 10.1023/A:1004002303181
+   LACHENWITZER A, 2000, J PHYS CHEM B, V104, P7414
+   LARSEN AE, 1995, PHYS REV E, V52, pR2161
+   MATSUDA H, 1959, J AM CHEM SOC, V81, P5077, DOI 10.1021/ja01528a016
+   Mohanty US, 2001, J APPL ELECTROCHEM, V31, P969, DOI 10.1023/A:1017957328122
+   Nagy Z, 1997, J ELECTROANAL CHEM, V421, P33, DOI 10.1016/S0022-0728(96)04877-2
+   PANDEY PK, 1996, HDB SEMICONDUCTOR EL, P10
+   Saitou M, 2002, J PHYS CHEM B, V106, P12253, DOI 10.1021/jp021769w
+   Saitou M, 2003, J ELECTROCHEM SOC, V150, pC99, DOI 10.1149/1.1539499
+   VETTER KJ, 1967, ELECTROCHEMICAL KINE, P413
+NR 14
+TC 6
+Z9 6
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1520-6106
+J9 J PHYS CHEM B
+JI J. Phys. Chem. B
+PD SEP 4
+PY 2003
+VL 107
+IS 35
+BP 9404
+EP 9408
+DI 10.1021/jp0348326
+PG 5
+WC Chemistry, Physical
+SC Chemistry
+GA 716NG
+UT WOS:000185034700037
+ER
+
+EF

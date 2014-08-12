@@ -1,0 +1,2959 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Egawa, H
+   Furukawa, K
+   Preston, D
+   Funamoto, S
+   Yonehara, S
+   Matsuo, T
+   Tokuoka, S
+   Suyama, A
+   Ozasa, K
+   Kodama, K
+   Mabuchi, K
+AF Egawa, Hiromi
+   Furukawa, Kyoji
+   Preston, Dale
+   Funamoto, Sachiyo
+   Yonehara, Shuji
+   Matsuo, Takeshi
+   Tokuoka, Shoji
+   Suyama, Akihiko
+   Ozasa, Kotaro
+   Kodama, Kazunori
+   Mabuchi, Kiyohiko
+TI Radiation and Smoking Effects on Lung Cancer Incidence by Histological
+   Types Among Atomic Bomb Survivors
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID CIGARETTE-SMOKING; RESIDENTIAL RADON; HODGKINS-DISEASE; NEVER-SMOKERS;
+   JAPANESE MEN; RISK; EXPOSURE; TRENDS; WOMEN; AGE
+AB While the risk of lung cancer associated separately with smoking and radiation exposure has been widely reported, it is not clear how smoking and radiation together contribute to the risk of specific lung cancer histological types. With individual smoking histories and radiation dose estimates, we characterized the joint effects of radiation and smoking on type-specific lung cancer rates among the Life Span Study cohort of Japanese atomic bomb survivors. Among 105,404 cohort subjects followed between 1958 and 1999, 1,803 first primary lung cancer incident cases were diagnosed and classified by histological type. Poisson regression methods were used to estimate excess relative risks under several interaction models.
+   Adenocarcinoma (636 cases), squamous-cell carcinoma (330) and small-cell carcinoma (194) made up 90% of the cases with known histology. Both smoking and radiation exposure significantly increased the risk of each major lung cancer histological type. Smoking-associated excess relative risks were significantly larger for small-cell and squamous-cell carcinomas than for adenocarcinoma. The gender-averaged excess relative risks per 1 Gy of radiation (for never-smokers at age 70 after radiation exposure at age 30) were estimated as 1.49 (95% confidence interval 0.1-4.6) for small-cell carcinoma, 0.75 (0.3-1.3) for adenocarcinoma, and 0.27 (0-1.5) for squamous-cell carcinoma. Under a model allowing radiation effects to vary with levels of smoking, the nature of the joint effect of smoking and radiation showed a similar pattern for different histological types in which the radiation-associated excess relative risk tended to be larger for moderate smokers than for heavy smokers. However, in contrast to analyses of all lung cancers as a group, such complicated interactions did not describe the data significantly better than either simple additive or multiplicative interaction models for any of the type-specific analyses. (C) 2012 by Radiation Research Society
+C1 Hiroshima City Asa Hosp, Hiroshima, Japan.
+   Radiat Effects Res Fdn, Hiroshima, Japan.
+   Radiat Effects Res Fdn, Nagasaki, Japan.
+   Hirosoft Int, Eureka, CA USA.
+   Welf Assoc Onomichi Gen Hosp, Tokyo, Japan.
+   Nagasaki Hlth Promot Corp, Nagasaki, Japan.
+   NCI, Div Canc Epidemiol & Genet, Bethesda, MD 20892 USA.
+RP Furukawa, K (reprint author), 5-2 Hijiyama Pk,Minami Ku, Hiroshima, Japan.
+EM furukawa@rerf.or.jp
+FU Radiation Effects Research Foundation [RP1-94]; Hiroshima and Nagasaki,
+   Japan; U.S. National Cancer Institute intramural research program
+   [NO2CP-2009-00005]; Japanese Ministry of Health, Labour and Welfare;
+   U.S. Department of Energy; National Academy of Sciences
+FX This work was supported by the Radiation Effects Research Foundation
+   (RP1-94), Hiroshima and Nagasaki, Japan, and the U.S. National Cancer
+   Institute intramural research program (NO2CP-2009-00005). The Radiation
+   Effects Research Foundation is a private nonprofit foundation funded by
+   the Japanese Ministry of Health, Labour and Welfare and the U.S.
+   Department of Energy, the latter in part through the National Academy of
+   Sciences.
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Burns DM, 2011, CANCER CAUSE CONTROL, V22, P13, DOI 10.1007/s10552-010-9660-0
+   Crispo A, 2004, BRIT J CANCER, V91, P1280, DOI 10.1038/sj.bjc.6602078
+   Cullings HM, 2006, RADIAT RES, V166, P219, DOI 10.1667/RR3546.1
+   Darby S, 2005, BRIT MED J, V330, P223, DOI 10.1136/bmj.38308.477650.63
+   Devesa SS, 2005, INT J CANCER, V117, P294, DOI 10.1002/ijc.21183
+   Furukawa K, 2010, RADIAT RES, V174, P72, DOI 10.1667/RR2083.1
+   Gilbert ES, 2003, RADIAT RES, V159, P161, DOI 10.1667/0033-7587(2003)159[0161:LCATFH]2.0.CO;2
+   Haiman CA, 2006, NEW ENGL J MED, V354, P333, DOI 10.1056/NEJMoa033250
+   Ito H, 2011, INT J CANCER, V128, P1918, DOI 10.1002/ijc.25531
+   Janssen-Heijnen MLG, 2001, LUNG CANCER-J IASLC, V31, P123, DOI 10.1016/S0169-5002(00)00197-5
+   Krewski D, 2005, EPIDEMIOLOGY, V16, P137, DOI 10.1097/01.ede.0000152522.80261.e3
+   LAND CE, 1993, RADIAT RES, V134, P234, DOI 10.2307/3578464
+   Little MP, 2009, RADIAT ENVIRON BIOPH, V48, P253, DOI 10.1007/s00411-009-0228-x
+   Lubin JH, 2008, AM J EPIDEMIOL, V167, P970, DOI 10.1093/aje/kwm392
+   National Research Council Committee on the Biological Effects of Radiation, 1998, HLTH EFF EXP IND RAD, VVI
+   PERSHAGEN G, 1994, NEW ENGL J MED, V330, P159, DOI 10.1056/NEJM199401203300302
+   PIERCE DA, 1990, RADIAT RES, V123, P275, DOI 10.2307/3577733
+   Pierce DA, 2003, RADIAT RES, V159, P511, DOI 10.1667/0033-7587(2003)159[0511:JEORAS]2.0.CO;2
+   Preston DL, 1993, EPICURE USERS GUIDE
+   Preston DL, 2007, RADIAT RES, V168, P1, DOI 10.1667/RR0763.1
+   Prochazka M, 2005, J CLIN ONCOL, V23, P7467, DOI 10.1200/JCO.2005.01.7335
+   Radzikowska E, 2002, ANN ONCOL, V13, P1087, DOI 10.1093/annonc/mdf187
+   Samet JM, 2009, CLIN CANCER RES, V15, P5626, DOI 10.1158/1078-0432.CCR-09-0376
+   Shuryak I, 2010, J NATL CANCER I, V102, P1628, DOI 10.1093/jnci/djq346
+   Shuryak I, 2009, RADIAT ENVIRON BIOPH, V48, P263, DOI 10.1007/s00411-009-0230-3
+   Sobue T, 1999, JPN J CANCER RES, V90, P6
+   Sobue T, 2002, INT J CANCER, V99, P245, DOI 10.1002/ijc.10308
+   Sokolnikov ME, 2008, INT J CANCER, V123, P905, DOI 10.1002/ijc.23581
+   Stellman SD, 2001, CANCER EPIDEM BIOMAR, V10, P1193
+   THOMPSON DE, 1994, RADIAT RES, V137, pS17, DOI 10.2307/3578892
+   Thun MJ, 1997, J NATL CANCER I, V89, P1580, DOI 10.1093/jnci/89.21.1580
+   Travis LB, 2002, J NATL CANCER I, V94, P182
+   Travis WD, 1999, HISTOLOGICAL TYPING
+   Walsh L, 2007, RADIAT ENVIRON BIOPH, V46, P205, DOI 10.1007/s00411-007-0109-0
+   YAMAMOTO T, 1987, J RADIAT RES, V28, P156, DOI 10.1269/jrr.28.156
+   Yun YH, 2005, CANCER EPIDEM BIOMAR, V14, P2125, DOI 10.1158/1055-9965.EPI-05-0236
+NR 37
+TC 1
+Z9 1
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD SEP
+PY 2012
+VL 178
+IS 3
+BP 191
+EP 201
+DI 10.1667/RR2819.1
+PG 11
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 005UN
+UT WOS:000308775700010
+ER
+
+PT J
+AU Preston, DL
+   Shimizu, Y
+   Pierce, DA
+   Suyama, A
+   Mabuchi, K
+AF Preston, Dale L.
+   Shimizu, Yukiko
+   Pierce, Donald A.
+   Suyama, Akihiko
+   Mabuchi, Kiyohiko
+TI Studies of Mortality of Atomic Bomb Survivors. Report 13: Solid Cancer
+   and Noncancer Disease Mortality: 1950-1997
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID NUCLEAR INDUSTRY WORKERS; B SURFACE-ANTIGEN; BREAST-CANCER;
+   IONIZING-RADIATION; MYOCARDIAL-INFARCTION; TUBERCULOSIS PATIENTS;
+   FLUOROSCOPY COHORT; GENERAL MUTAGENS; HODGKINS-DISEASE; POOLED ANALYSIS
+AB Preston, D. L., Shimizu, Y., Pierce, D. A., Suyama, A. and Mabuchi, K. Studies of Mortality of Atomic Bomb Survivors. Report 13: Solid Cancer and Noncancer Disease Mortality: 1950-1997. Radiat. Res. 160, 381-407 (2003).
+   This continues the series of general reports on mortality in the cohort of atomic bomb survivors followed up by the Radiation Effects Research Foundation. This cohort includes 86,572 people with individual dose estimates, 60% of whom have doses of at least 5 mSv. We consider mortality for solid cancer and for noncancer diseases with 7 additional years of follow-up. There have been 9,335 deaths from solid cancer and 31,881 deaths from noncancer diseases during the 47-year follow-up. Of these, 19% of the solid cancer and 15% of the noncancer deaths occurred during the latest 7 years. We estimate that about 440 (5%) of the solid cancer deaths and 250 (0.8%) of the noncancer deaths were associated with the radiation exposure. The excess solid cancer risks appear to be linear in dose even for doses in the 0 to 150-mSv range. While excess rates for radiation-related cancers increase throughout the study period, a new finding is that relative risks decline with increasing attained age, as well as being highest for those exposed as children as noted previously. A useful representative value is that for those exposed at age 30 the solid cancer risk is elevated by 47% per sievert at age 70. There is no significant city difference in either the relative or absolute excess solid cancer risk. Site-specific analyses highlight the difficulties, and need for caution, in distinguishing between site-specific relative risks. These analyses also provide insight into the difficulties in interpretation and generalization of LSS estimates of age-at-exposure effects. The evidence for radiation effects on noncancer mortality remains strong, with risks elevated by about 14% per sievert during the last 30 years of follow-up. Statistically significant increases are seen for heart disease, stroke, digestive diseases, and respiratory diseases. The noncancer data are consistent with some non-linearity in the dose response owing to the substantial uncertainties in the data. There is no direct evidence of radiation effects for doses less than about 0.5 Sv. While there are no statistically significant variations in noncancer relative risks with age, age at exposure, or sex, the estimated effects are comparable to those seen for cancer. Lifetime risk summaries are used to examine uncertainties of the LSS noncancer disease findings. (C) 2003 by Radiation Research Society
+C1 Radiat Effects Res Fdn, Dept Stat, Minami Ku, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Epidemiol, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Epidemiol, Nagasaki, Japan.
+   NCI, Radiat Epidemiol Branch, Div Canc Epidemiol & Genet, Bethesda, MD 20892 USA.
+RP Preston, DL (reprint author), Radiat Effects Res Fdn, Dept Stat, Minami Ku, 5-2 Hijiyama Koen, Hiroshima 7320815, Japan.
+EM preston@ref.or.jp
+FU Japanese Ministry of Health, Labour and Welfare; U.S. Department of
+   Energy through the National Academy of Sciences
+FX The authors would like to thank H. Moriwaki, M. Hayashi, M. Konda and S.
+   Funamoto for help with data preparation, E. Grant for development of
+   data access tools that greatly facilitated this work, and the members of
+   the RERF Master File section for their diligent efforts to provide
+   accurate and timely data on mortality in the LSS and other RERF cohorts.
+   This publication is based on research performed at the Radiation Effects
+   Research Foundation (RERF), Hiroshima and Nagasaki, Japan. RERF is a
+   private nonprofit foundation funded equally by the Japanese Ministry of
+   Health, Labour and Welfare and the U.S. Department of Energy through the
+   National Academy of Sciences.
+CR ALDERSON MR, 1971, BRIT J RADIOL, V44, P295
+   Beebe G., 1968, 1268 TR AT BOMB CAS
+   Berrington A, 2001, BRIT J RADIOL, V74, P507
+   BOICE JD, 1991, RADIAT RES, V125, P214, DOI 10.2307/3577890
+   BOIVIN JF, 1992, CANCER, V69, P1241
+   Breslow NE, 1988, IARC SCI PUBLICATION, V83
+   Byhardt R. W., 1994, MOSS RAD ONCOLOGY RA, P307
+   CARDIS E, 1995, RADIAT RES, V142, P117, DOI 10.2307/3579020
+   Carr ZA, 2002, RADIAT RES, V157, P668, DOI 10.1667/0033-7587(2002)157[0668:MNARTF]2.0.CO;2
+   CHOI BCK, 1992, J OCCUP ENVIRON MED, V34, P979
+   Clayton D, 1993, STAT METHODS EPIDEMI
+   Coleman M. P., 1993, IARC SCI PUBLICATION
+   Cologne JE, 1999, RADIAT RES, V152, P364, DOI 10.2307/3580221
+   CUZICK J, 1994, J CLIN ONCOL, V12, P447
+   DARBY SC, 1987, BRIT J CANCER, V55, P179, DOI 10.1038/bjc.1987.35
+   DAVIS FG, 1989, CANCER RES, V49, P6130
+   DAVIS FG, 1987, J NATL CANCER I, V78, P645
+   Dupre S. J., 1988, 3 IDSP
+   Early Breast Cancer Trialists' Collaborative Group, 2000, LANCET, V355, P1757
+   Feinberg S. E., 1998, ENCY BIOSTATISTICS
+   Francis T. J., 1959, 3359 AT BOMB CAS COM
+   Fujiwara S, 2000, RADIAT RES, V154, P12, DOI 10.1667/0033-7587(2000)154[0012:POAHCV]2.0.CO;2
+   Fujiwara S., 2002, 1002 MS RAD EFF RES
+   Fujiwara S, 2003, RADIAT RES, V159, P780, DOI 10.1667/0033-7587(2003)159[0780:POHBVI]2.0.CO;2
+   GRIEM ML, 1994, J NATL CANCER I, V86, P842, DOI 10.1093/jnci/86.11.842
+   HANCOCK SL, 1993, JAMA-J AM MED ASSOC, V270, P1949, DOI 10.1001/jama.270.16.1949
+   Hauptmann M, 2003, AM J EPIDEMIOL, V157, P239, DOI 10.1093/aje/kwf189
+   Hayashi T, 2003, INT J RADIAT BIOL, V79, P129, DOI 10.1080/0955300021000038662
+   HAYBITTLE JL, 1989, BRIT MED J, V298, P1611
+   Heidenreich WF, 1997, RADIAT ENVIRON BIOPH, V36, P45, DOI 10.1007/s004110050054
+   Howe GR, 1996, RADIAT RES, V145, P694, DOI 10.2307/3579360
+   Ivanov VK, 2001, HEALTH PHYS, V81, P514, DOI 10.1097/00004032-200111000-00005
+   Iwasaki T, 2003, RADIAT RES, V159, P228, DOI 10.1667/0033-7587(2003)159[0228:SAOMON]2.0.CO;2
+   Kai M, 1997, RADIAT RES, V148, P348, DOI 10.2307/3579520
+   Kasagi F., 1992, NAGASAKI MED J, V67, P479
+   KATO H, 1983, AM J EPIDEMIOL, V117, P610
+   Kawamura S., 1992, NAGASAKI MED J, V67, P474
+   Kusunoki Y, 2001, RADIAT RES, V155, P81, DOI 10.1667/0033-7587(2001)155[0081:TCRTMI]2.0.CO;2
+   LAND CE, 1980, J NATL CANCER I, V65, P353
+   Little MP, 1999, RADIAT RES, V151, P218, DOI 10.2307/3579773
+   MATANOSKI GM, 1975, AM J EPIDEMIOL, V101, P199
+   Moolgavkar S. H., 2000, RADIAT RES, V154, P730
+   Moolgavkar SH, 2000, RADIAT RES, V154, P728
+   Muirhead C. R., 1999, Journal of Radiological Protection, V19, P3, DOI 10.1088/0952-4746/19/1/002
+   NAGATAKI S, 1994, JAMA-J AM MED ASSOC, V272, P364, DOI 10.1001/jama.272.5.364
+   National Research Council Committee on the Biological Effects of Radiation, 1990, EFF POP EXP LOW LEV
+   National Research Council Committee on the Biological Effects of Radiation, 1998, HLTH EFF EXP IND RAD
+   Neriishi K, 2001, INT J RADIAT BIOL, V77, P475
+   NERIISHI K, 1995, RADIAT RES, V144, P215, DOI 10.2307/3579261
+   Paszat LF, 1999, INT J RADIAT ONCOL, V43, P755, DOI 10.1016/S0360-3016(98)00412-X
+   Paszat LF, 1998, J CLIN ONCOL, V16, P2625
+   Pierce Donald A., 2002, Journal of Radiological Protection, V22, pA147, DOI 10.1088/0952-4746/22/3A/326
+   PIERCE DA, 1990, RADIAT RES, V123, P275, DOI 10.2307/3577733
+   Pierce DA, 2000, RADIAT RES, V154, P178, DOI 10.1667/0033-7587(2000)154[0178:RRCRAL]2.0.CO;2
+   Pierce DA, 1996, RADIAT RES, V146, P1, DOI 10.2307/3579391
+   Pierce DA, 2000, RADIAT RES, V154, P727
+   Pierce DA, 2003, BIOSTATISTICS, V4, P231, DOI 10.1093/biostatistics/4.2.231
+   Pierce DA, 2000, RADIAT RES, V154, P730
+   Pierce DA, 2003, RADIAT RES, V159, P511, DOI 10.1667/0033-7587(2003)159[0511:JEORAS]2.0.CO;2
+   PIERCE DA, 1993, RADIAT RES, V134, P134, DOI 10.2307/3578452
+   Preston DL, 1993, EPICURE USERS GUIDE
+   Preston DL, 2002, RADIAT RES, V158, P220, DOI 10.1667/0033-7587(2002)158[0220:REOBCR]2.0.CO;2
+   PRESTON DL, 1994, RADIAT RES, V137, pS68, DOI 10.2307/3578893
+   Richardson DB, 2001, OCCUP MED-STATE ART, V16, P191
+   RON E, 1995, RADIAT RES, V141, P259, DOI 10.2307/3579003
+   RUTQVIST LE, 1990, BRIT J CANCER, V61, P866, DOI 10.1038/bjc.1990.193
+   Sasaki H, 2002, J CLIN EPIDEMIOL, V55, P974, DOI 10.1016/S0895-4356(02)00439-0
+   Shimizu Y, 1999, RADIAT RES, V152, P374, DOI 10.2307/3580222
+   Shimizu Yukiko, 1996, World Health Statistics Quarterly, V49, P35
+   SHIZUMA K, 1993, HEALTH PHYS, V65, P272, DOI 10.1097/00004032-199309000-00004
+   Sinclair W. K., 2001, STATUS DOSIMETRY RAD
+   SMITH PG, 1976, BRIT J RADIOL, V49, P224
+   Sposto R, 1992, CORRECTING CATCHMENT
+   Stewart A, 1997, ENVIRON HEALTH PERSP, V105, P1519, DOI 10.2307/3433663
+   Stewart AM, 2000, INT J EPIDEMIOL, V29, P708, DOI 10.1093/ije/29.4.708
+   STEWART AM, 1990, AM J IND MED, V17, P151, DOI 10.1002/ajim.4700170201
+   STEWART JR, 1989, FRONT RADIAT THER ON, V23, P302
+   STEWART JR, 1971, RADIOL CLIN N AM, V9, P511
+   STRAUME T, 1992, HEALTH PHYS, V63, P421, DOI 10.1097/00004032-199210000-00006
+   THOMAS D, 1992, HEALTH PHYS, V63, P259, DOI 10.1097/00004032-199209000-00001
+   THOMPSON DE, 1994, RADIAT RES, V137, pS17, DOI 10.2307/3578892
+   TOKUNAGA M, 1994, RADIAT RES, V138, P209, DOI 10.2307/3578591
+   UNSCEAR, 2000, SOURC EFF ION RAD UN, VII
+   UNSCEAR United Nations, 1994, SOURC EFF ION RAD UN, VE.94.IX.11.
+   Wong FL, 1999, RADIAT RES, V151, P736, DOI 10.2307/3580213
+   WONG FL, 1993, RADIAT RES, V135, P418, DOI 10.2307/3578884
+   [Anonymous], 1977, INT CLASS DIS MAN ST, V1
+NR 87
+TC 0
+Z9 0
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD AUG
+PY 2012
+VL 178
+IS 2
+BP AV146
+EP AV172
+DI 10.1667/RRAV12.1
+PG 27
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 981PZ
+UT WOS:000306983000013
+ER
+
+PT J
+AU Yamaguchi, I
+   Suyama, A
+   Goto, K
+   Sato, M
+AF Yamaguchi, Isao
+   Suyama, Ami
+   Goto, Kazuyuki
+   Sato, Moriyuki
+TI Synthesis and chemical properties of polyphenols with oligoaniline
+   pendant groups
+SO HIGH PERFORMANCE POLYMERS
+LA English
+DT Article
+DE polyphenol; oligoaniline pendant group; enzymatic polymerization;
+   iron-complex-catalyzed polymerization
+ID ENZYMATIC POLYMERIZATION; POLYMERS; PHENOL; WATER
+AB Horseradish peroxidaze (HRP)- or N,N'-bis(salicylidene)ethylenediamineiron(III)-catalyzed polymerizations of 4-(4-phenylaminophenylamino)phenol (monomer-1) and 4-[4-(4-phenylaminophenylamino)phenylamino]phenol (monomer-2) caused oxidative coupling at the hydroxyphenyl group to yield polyphenols (PPs) with pendant oligoaniline (OAN) groups. UV-vis measurements suggested that the OAN pendant groups of the polymers were oxidized in air, resulting in the formation of quinoid structures, which were converted into benzonoid structures by treatment with hydrazine monohydrate. The polymers were electrochemically oxidized in solution.
+C1 Shimane Univ, Dept Mat Sci, Fac Sci & Engn, Matsue, Shimane 6908504, Japan.
+RP Yamaguchi, I (reprint author), Shimane Univ, Dept Mat Sci, Fac Sci & Engn, 1060 Nishikawatsu, Matsue, Shimane 6908504, Japan.
+EM iyamaguchi@riko.shimane-u.ac.jp
+CR Albuquerquea JE, 2004, SYNTHETIC MET, V146, P1
+   Buga K, 2004, MACROMOLECULES, V37, P769, DOI 10.1021/ma034997c
+   Cui YS, 2010, POLYM INT, V59, P676, DOI 10.1002/pi.2753
+   Cui YS, 2010, POLYM BULL, V64, P647, DOI 10.1007/s00289-009-0163-7
+   Eker B, 2009, J MOL CATAL B-ENZYM, V59, P177, DOI 10.1016/j.molcatb.2009.02.018
+   Fukuoka T, 2004, MACROMOLECULES, V37, P8481, DOI 10.1021/ma048897y
+   Ikeda R, 2000, MACROMOL RAPID COMM, V21, P496, DOI 10.1002/(SICI)1521-3927(20000501)21:8<496::AID-MARC496>3.0.CO;2-G
+   Kobayashi S, 2009, CHEM REV, V109, P5288, DOI 10.1021/cr900165z
+   Kobayashi S, 2001, CHEM REV, V101, P3793, DOI 10.1021/cr990121l
+   Li Z, 2010, CELLULOSE, V17, P57, DOI 10.1007/s10570-009-9363-4
+   Peng Y, 2009, J POLYM SCI POL CHEM, V47, P1627, DOI 10.1002/pola.23271
+   Ranger M, 1998, CAN J CHEM, V76, P1571, DOI 10.1139/cjc-76-11-1571
+   Reihmann M, 2006, ADV POLYM SCI, V194, P1, DOI 10.1007/12_034
+   Tanaka T, 2010, CHEM ENG SCI, V65, P569, DOI 10.1016/j.ces.2009.05.041
+   Tawaki S, 2005, CARBOHYD POLYM, V59, P71, DOI 10.1016/j.carbpol.2004.08.024
+   Turac E, 2010, SYNTHETIC MET, V160, P169, DOI 10.1016/j.synthmet.2009.10.026
+   Uyama H, 2003, CURR ORG CHEM, V7, P1387, DOI 10.2174/1385272033486459
+   Wei ZX, 2008, MACROMOL RAPID COMM, V29, P280, DOI 10.1002/marc.200700741
+   Yamaguchi I, 2001, J POLYM SCI POL CHEM, V39, P3137, DOI 10.1002/pola.1295
+   Yamaguchi I, 2003, INORG CHIM ACTA, V348, P249, DOI 10.1016/S0020-1693(02)01470-6
+   Yamaguchi I, 2009, MACROMOLECULES, V42, P7836, DOI 10.1021/ma9008884
+   Yamamoto T, 2003, POLYM BULL, V50, P55
+NR 22
+TC 0
+Z9 0
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0954-0083
+J9 HIGH PERFORM POLYM
+JI High Perform. Polym.
+PD AUG
+PY 2012
+VL 24
+IS 5
+BP 366
+EP 372
+DI 10.1177/0954008312439081
+PG 7
+WC Polymer Science
+SC Polymer Science
+GA 975QN
+UT WOS:000306526100003
+ER
+
+PT J
+AU Grant, EJ
+   Ozasa, K
+   Preston, DL
+   Suyama, A
+   Shimizu, Y
+   Sakata, R
+   Sugiyama, H
+   Pham, TM
+   Cologne, J
+   Yamada, M
+   De Roos, AJ
+   Kopecky, KJ
+   Porter, MP
+   Seixas, N
+   Davis, S
+AF Grant, E. J.
+   Ozasa, K.
+   Preston, D. L.
+   Suyama, A.
+   Shimizu, Y.
+   Sakata, R.
+   Sugiyama, H.
+   Pham, T-M.
+   Cologne, J.
+   Yamada, M.
+   De Roos, A. J.
+   Kopecky, K. J.
+   Porter, M. P.
+   Seixas, N.
+   Davis, S.
+TI Effects of Radiation and Lifestyle Factors on Risks of Urothelial
+   Carcinoma in the Life Span Study of Atomic Bomb Survivors
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID BLADDER-CANCER RISK; CIGARETTE-SMOKING; ALCOHOL-CONSUMPTION;
+   URINARY-BLADDER; POOLED ANALYSIS; SOLID CANCER; MORTALITY; COHORT;
+   EPIDEMIOLOGY; EXPOSURE
+AB Grant, E. J., Ozasa, K., Preston, D. L., Suyama, A., Shimizu, Y., Sakata, R., Sugiyama, H., Pham, T-M., Cologne, J., Yamada, M., De Roos, A. J., Kopecky, K. J., Porter, M. P., Seixas, N. and Davis, S. Effects of Radiation and Lifestyle Factors on Risks of Urothelial Carcinoma in the Life Span Study of Atomic Bomb Survivors. Radiat. Res. 177, 86-98 (2012).
+   Among the Life Span Study (LSS) of Atomic-bomb survivors, recent estimates showed that unspecified bladder cancer had high radiation sensitivity with a notably high female-to-male excess relative risk (ERR) per radiation dose ratio and were the only sites for which the ERR did not decrease with attained age. These findings, however, did not consider lifestyle factors, which could potentially confound or modify the risk estimates. This study estimated the radiation risks of the most prevalent subtype of urinary tract cancer, urothelial carcinoma, while accounting for smoking, consumption of fruit, vegetables, alcohol and level of education (a surrogate for socioeconomic status). Eligible study subjects included 105,402 (males = 42,890) LSS members who were cancer-free in 1958 and had estimated radiation doses. Members were censored due to loss of follow-up, incident cancer of another type, death, or the end of calendar year 2001. Surveys (by mail or clinical interview) gathered lifestyle data periodically for 1963-1991. There were 63,827 participants in one or more survey. Five hundred seventy-three incident urothelial carcinoma cases occurred, of which 364 occurred after lifestyle information was available. Analyses were performed using Poisson regression methods. The excess relative risk per weighted gray unit (the gamma component plus 10 times the neutron component, Gy(w)) was 1.00 (95% CI: 0.43-1.78) but the risks were not dependent upon age at exposure or attained age. Lifestyle factors other than smoking were not associated with urothelial carcinoma risk. Neither the magnitude of the radiation ERR estimate (1.00 compared to 0.96), nor the female-to-male (F:M) ERR/Gy(w) ratio (3.2 compared to 3.4) were greatly changed after accounting for all lifestyle factors. A multiplicative model of gender-specific radiation and smoking effects was the most revealing though there was no evidence of significant departures from either the additive or multiplicative joint effect models. Among the LSS cohort members with doses greater than 0.005 Gy(w) (average dose 0.21 Gy(w)), the attributable fraction of urothelial carcinoma due to radiation was 7.1% in males and 19.7% in females. Among current smokers, the attributable fraction of urothelial carcinoma due to smoking was 61% in males and 52% in females. Relative risk estimates of smoking risk were approximately two for smokers compared to nonsmokers. After adjustment for lifestyle factors, gender-specific radiation risks and the F:M ERR/Gy(w), the ratios of excess urothelial carcinoma risk were similar to the estimates without adjusting for lifestyle factors. Smoking was the primary factor responsible for excess urothelial carcinoma in this cohort. These findings led us to conclude that the radiation risk estimates of urothelial carcinoma do not appear to be strongly confounded or modified by smoking, consumption of alcohol, fruits, or vegetables, or level of education. (C) 2012 by Radiation Research Society
+C1 Radiat Effects Res Fdn, Dept Epidemiol, Minami Ku, Tokyo, Japan.
+   Radiat Effects Res Fdn, Dept Stat, Minami Ku, Tokyo, Japan.
+   Radiat Effects Res Fdn, Dept Clin Studies, Minami Ku, Tokyo, Japan.
+   Hirosoft Int, Eureka, CA USA.
+   Univ Washington, Sch Publ Hlth, Dept Epidemiol, Seattle, WA 98195 USA.
+   Fred Hutchinson Canc Res Ctr, Div Publ Hlth Sci, Seattle, WA 98104 USA.
+   Univ Washington, Sch Publ Hlth, Dept Environm & Occupat Hlth Sci, Seattle, WA 98195 USA.
+RP Grant, EJ (reprint author), Radiat Effects Res Fdn, Dept Epidemiol, Minami Ku, 5-2 Hijiyama Pk, Tokyo, Japan.
+EM egrant@rerf.or.jp
+FU Japanese Ministry of Health, Labour and Welfare (MHLW); U.S. Department
+   of Energy (DOE); DOE [DE-HS0000031]; RERF [RP A7-08]
+FX We thank the members of the LSS for their participation. The Radiation
+   Effects Research Foundation (RERF), Hiroshima and Nagasaki, Japan is a
+   private, nonprofit foundation funded by the Japanese Ministry of Health,
+   Labour and Welfare (MHLW) and the U.S. Department of Energy (DOE), the
+   latter in part through DOE Award DE-HS0000031 to the National Academy of
+   Sciences. This publication was supported by RERF Research Protocol RP
+   A7-08. The views of the authors do not necessarily reflect those of the
+   two govemments.
+CR ADLER NE, 1993, JAMA-J AM MED ASSOC, V269, P3140, DOI 10.1001/jama.269.24.3140
+   AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Alberg AJ, 2007, AM J EPIDEMIOL, V165, P660, DOI 10.1093/aje/kwk047
+   Baris D, 2009, J NATL CANCER I, V101, P1553, DOI 10.1093/jnci/djp361
+   Boice JD, RAD RES, V116, P3
+   Brennan P, 2000, INT J CANCER, V86, P289, DOI 10.1002/(SICI)1097-0215(20000415)86:2<289::AID-IJC21>3.0.CO;2-M
+   Breslow NE, 1987, STAT METHODS CANC RE, VII
+   BROWNSON RC, 1987, AM J PUBLIC HEALTH, V77, P1298, DOI 10.2105/AJPH.77.10.1298
+   Castelao JE, 2000, BRIT J CANCER, V82, P1364
+   Castelao JE, 2001, J NATL CANCER I, V93, P538, DOI 10.1093/jnci/93.7.538
+   Clayton D, 1993, STAT MODELS EPIDEMIO
+   DARBY SC, 1994, INT J CANCER, V56, P793, DOI 10.1002/ijc.2910560606
+   Djousse L, 2004, J NATL CANCER I, V96, P1397, DOI 10.1093/jnc/djh263
+   Donato F, 1997, EUR J EPIDEMIOL, V13, P795, DOI 10.1023/A:1007453322899
+   Eble JN, 2004, WHO CLASSIFICATION T
+   Friesen MC, 2007, OCCUP ENVIRON MED, V64, P273, DOI 10.1136/oem.2006.028928
+   Furukawa K, 2010, RADIAT RES, V174, P72, DOI 10.1667/RR2083.1
+   Hall P, 2008, SCAND J UROL NEPHROL, V42, P85, DOI 10.1080/03008880802401423
+   ICRP, 2007, ANN ICRP, V37, P1, DOI 10.1016/j.icrp.2007.09.001
+   INSKIP PD, 1990, RADIAT RES, V123, P331, DOI 10.2307/3577741
+   Kakehi Y, 2010, JPN J CLIN ONCOL, V40, pi57, DOI 10.1093/jjco/hyq128
+   Kirkali Z, 2005, UROLOGY, V66, P4, DOI 10.1016/j.urology.2005.07.062
+   Korkes Fernando, 2006, Int Braz J Urol, V32, P648
+   Kurahashi Norie, 2009, Cancer Sci, V100, P294, DOI 10.1111/j.1349-7006.2008.01027.x
+   Lubin JH, 2007, AM J EPIDEMIOL, V166, P479, DOI 10.1093/aje/kwm089
+   MABUCHI K, 1994, RADIAT RES, V137, pS1, DOI 10.2307/3578891
+   Marugame T, 2006, JPN J CLIN ONCOL, V36, P668, DOI 10.1093/jjco/hyl084
+   McLaughlin J, 1996, CANC EPIDEMIOLOGY PR, P1142
+   Nagano J, 2000, INT J CANCER, V86, P132, DOI 10.1002/(SICI)1097-0215(20000401)86:1<132::AID-IJC21>3.0.CO;2-M
+   Pashos CL, 2002, CANCER PRACT, V10, P311, DOI 10.1046/j.1523-5394.2002.106011.x
+   Pelucchi C, 2002, J CLIN EPIDEMIOL, V55, P637, DOI 10.1016/S0895-4356(02)00397-9
+   PIERCE DA, 1990, RADIAT RES, V123, P275, DOI 10.2307/3577733
+   Pierce DA, 2003, RADIAT RES, V159, P511, DOI 10.1667/0033-7587(2003)159[0511:JEORAS]2.0.CO;2
+   Preston DL, 1993, EPICURE USERS GUIDE
+   Preston DL, 2003, RADIAT RES, V160, P381, DOI 10.1667/RR3049
+   Preston DL, 2007, RADIAT RES, V168, P1, DOI 10.1667/RR0763.1
+   Puente D, 2006, CANCER CAUSE CONTROL, V17, P71, DOI 10.1007/s10552-005-0389-0
+   Reulen RC, 2007, AM J IND MED, V50, P449, DOI 10.1002/ajim.20469
+   Roesch W. C., 1987, US JAPAN JOINT REASS
+   Silberstein JL, 2010, UROLOGY, V75, P340, DOI 10.1016/j.urology.2009.07.1260
+   Silverman DT, 1996, CANC EPIDEMIOLOGY PR, P1156
+   Sposto R., 1992, 192 CR RAD EFF RES F
+   StataCorp, 2009, STAT STAT SOFTW REL
+   THOMPSON DE, 1994, RADIAT RES, V137, pS17, DOI 10.2307/3578892
+   United Nations Scientific Committee on the Effects of Atomic Radiation, 2008, EFF ION RAD UNSCEAR, V1
+   WEISS HA, 1994, INT J CANCER, V59, P327, DOI 10.1002/ijc.2910590307
+   Wilbourn JD, 1999, IARC SCI PUBL, P191
+   Young RK, 2005, REASSESSMENT ATOMIC
+   Zeegers MP, 2003, WORLD J UROLO, V21, P392
+   Zeegers MPA, 2001, AM J EPIDEMIOL, V153, P38, DOI 10.1093/aje/153.1.38
+   [Anonymous], 1965, STUD CARD DIS HIR NA
+   [Anonymous], 1978, MAIL QUEST SURV EP D
+   [Anonymous], 1963, EP SURV AD HLTH STUD
+   [Anonymous], 1969, MAIL QUEST SURV EP D
+   [Anonymous], 1991, MAIL SURV EP FACT EX
+NR 55
+TC 1
+Z9 1
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD JUL
+PY 2012
+VL 178
+IS 1
+BP 86
+EP 98
+DI 10.1667/RR2841.1
+PG 13
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 981BN
+UT WOS:000306940600010
+ER
+
+PT J
+AU Ozasa, K
+   Shimizu, Y
+   Suyama, A
+   Kasagi, F
+   Soda, M
+   Grant, EJ
+   Sakata, R
+   Sugiyama, H
+   Kodama, K
+AF Ozasa, Kotaro
+   Shimizu, Yukiko
+   Suyama, Akihiko
+   Kasagi, Fumiyoshi
+   Soda, Midori
+   Grant, Eric J.
+   Sakata, Ritsu
+   Sugiyama, Hiromi
+   Kodama, Kazunori
+TI Studies of the Mortality of Atomic Bomb Survivors, Report 14, 1950-2003:
+   An Overview of Cancer and Noncancer Diseases
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID IONIZING-RADIATION; SOLID CANCER; RISK; LEUKEMIA; LYMPHOMA; EXPOSURE
+AB Ozasa, K., Shimizu, Y., Suyama, A., Kasagi, F., Soda, M., Grant, E. J., Sakata, R., Sugiyama, H. and Kodama, K. Studies of the Mortality of Atomic Bomb Survivors, Report 14, 1950-2003: An Overview of Cancer and Noncancer Diseases. Radiat. Res. 177, 229-243 (2012).
+   This is the 14th report in a series of periodic general reports on mortality in the Life Span Study (LSS) cohort of atomic bomb survivors followed by the Radiation Effects Research Foundation to investigate the late health effects of the radiation from the atomic bombs. During the period 1950-2003, 58% of the 86,611 LSS cohort members with DS02 dose estimates have died. The 6 years of additional follow-up since the previous report provide substantially more information at longer periods after radiation exposure (17% more cancer deaths), especially among those under age 10 at exposure (58% more deaths). Poisson regression methods were used to investigate the magnitude of the radiation-associated risks, the shape of the dose response, and effect modification by gender, age at exposure, and attained age. The risk of all causes of death was positively associated with radiation dose. Importantly, for solid cancers the additive radiation risk (i.e., excess cancer cases per 104 person-years per Gy) continues to increase throughout life with a linear dose-response relationship. The sex-averaged excess relative risk per Gy was 0.42 [95% confidence interval (CI): 0.32, 0.53] for all solid cancer at age 70 years after exposure at age 30 based on a linear model. The risk increased by about 29% per decade decrease in age at exposure (95% CI: 17%, 41%). The estimated lowest dose range with a significant ERR for all solid cancer was 0 to 0.20 Gy, and a formal dose-threshold analysis indicated no threshold; i.e., zero dose was the best estimate of the threshold. The risk of cancer mortality increased significantly for most major sites, including stomach, lung, liver, colon, breast, gallbladder, esophagus, bladder and ovary, whereas rectum, pancreas, uterus, prostate and kidney parenchyma did not have significantly increased risks. An increased risk of non-neoplastic diseases including the circulatory, respiratory and digestive systems was observed, but whether these are causal relationships requires further investigation. There was no evidence of a radiation effect for infectious or external causes of death. (C) 2012 by Radiation Research Society
+C1 Radiat Effects Res Fdn, Dept Epidemiol, Minami Ku, Hiroshima 7320815, Japan.
+   Radiat Effects Assoc, Inst Radiat Epidemiol, Chiyoda Ku, Tokyo 1010044, Japan.
+RP Ozasa, K (reprint author), Radiat Effects Res Fdn, Dept Epidemiol, Minami Ku, 5-2 Hijiyama Pk, Hiroshima 7320815, Japan.
+EM ozasa@rerf.or.jp
+FU Japanese Ministry of Health, Labour and Welfare (MHLW); U.S. Department
+   of Energy (DOE); DOE [DE-HS00000031]; RERF [RP 1-75]
+FX The Radiation Effects Research Foundation (RERF), Hiroshima and
+   Nagasaki, Japan is a private, non-profit foundation funded by the
+   Japanese Ministry of Health, Labour and Welfare (MHLW) and the U.S.
+   Department of Energy (DOE), the latter in part through DOE Award
+   DE-HS00000031 to the National Academy of Sciences. This publication was
+   supported by RERF Research Protocol RP 1-75. The views of the authors do
+   not necessarily reflect those of the two governments.
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   BEEBE GW, 1962, RADIAT RES, V16, P253, DOI 10.2307/3571157
+   BEEBE GW, 1978, RADIAT RES, V75, P138, DOI 10.2307/3574875
+   Breslow NE, 1988, IARC SCI PUBLICATION, V83
+   Cologne JB, 2000, LANCET, V356, P303, DOI 10.1016/S0140-6736(00)02506-X
+   Cologne JB, 2001, HEALTH PHYS, V80, P491, DOI 10.1097/00004032-200105000-00010
+   Committee to Assess Health Risks from Exposure to Low Levels of Ionizing Radiation National Research Council, 2006, HLTH RISKS EXP LOW L
+   Cullings HM, 2006, RADIAT RES, V166, P219, DOI 10.1667/RR3546.1
+   FOLLEY JH, 1952, AM J MED, V13, P311, DOI 10.1016/0002-9343(52)90285-4
+   Furukawa K, 2010, RADIAT RES, V174, P72, DOI 10.1667/RR2083.1
+   Jacob P, 2009, OCCUP ENVIRON MED, V66, P789, DOI 10.1136/oem.2008.043265
+   Kato H, 1966, 1966 ABCC TR
+   Little MP, 2009, RADIAT ENVIRON BIOPH, V48, P253, DOI 10.1007/s00411-009-0228-x
+   Ohishi W, 2011, HEPATOLOGY, V53, P1237, DOI 10.1002/hep.24207
+   PIERCE DA, 1990, RADIAT RES, V123, P275, DOI 10.2307/3577733
+   Pierce DA, 1996, RADIAT RES, V146, P1, DOI 10.2307/3579391
+   PRESTON DL, 1987, RADIAT RES, V111, P151, DOI 10.2307/3577030
+   Preston DL, 1993, EPICURE USERS GUIDE
+   Preston DL, 2004, RADIAT RES, V162, P377, DOI 10.1667/RR3232
+   Preston DL, 2003, RADIAT RES, V160, P381, DOI 10.1667/RR3049
+   PRESTON DL, 1994, RADIAT RES, V137, pS68, DOI 10.2307/3578893
+   Preston DL, 2007, RADIAT RES, V168, P1, DOI 10.1667/RR0763.1
+   Richardson D, 2009, RADIAT RES, V172, P368, DOI 10.1667/RR1801.1
+   Richardson DB, 2009, AM J EPIDEMIOL, V169, P969, DOI 10.1093/aje/kwp018
+   Sharp GB, 2003, INT J CANCER, V103, P531, DOI 10.1002/ijc.10862
+   Shimizu Y, 2010, BRIT MED J, V340, DOI 10.1136/bmj.b5349
+   Shimizu Y, 1999, RADIAT RES, V152, P374, DOI 10.2307/3580222
+   United Nations Scientific Committee on the Effects of Atomic Radiation, 2008, UNSCEAR 2006 REP, VI
+   Walsh L, 2009, RADIAT ENVIRON BIOPH, V48, P345, DOI 10.1007/s00411-009-0229-9
+   World Health Organization, 1977, INT CLASS DIS
+   World Health Organization, 1957, MAN INT STAT CLASS D
+   World Health Organization, 1993, INT CLASS DIS
+   World Health Organization, 1967, INT CLASS DIS
+   Yamamoto O, 1986, 1686 TR RAD EFF RES
+   Young R, 2006, DS02 REVISED SYSTEM
+   [Anonymous], 2007, ANN ICRP, V37, P137
+NR 36
+TC 22
+Z9 22
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD MAR
+PY 2012
+VL 177
+IS 3
+BP 229
+EP 243
+DI 10.1667/RR2629.1
+PG 15
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 907EA
+UT WOS:000301399400001
+ER
+
+PT J
+AU Adams, MJ
+   Grant, EJ
+   Kodama, K
+   Shimizu, Y
+   Kasagi, F
+   Suyama, A
+   Sakata, R
+   Akahoshi, M
+AF Adams, Michael Jacob
+   Grant, Eric J.
+   Kodama, Kazunori
+   Shimizu, Yukiko
+   Kasagi, Fumiyoshi
+   Suyama, Akihiko
+   Sakata, Ritsu
+   Akahoshi, Masazumi
+TI Radiation Dose Associated with Renal Failure Mortality: A Potential
+   Pathway to Partially Explain Increased Cardiovascular Disease Mortality
+   Observed after Whole-Body Irradiation
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID ATOMIC-BOMB SURVIVORS; AMERICAN-HEART-ASSOCIATION;
+   MYOCARDIAL-INFARCTION; BREAST-CANCER; NONCANCER MORTALITY;
+   HODGKINS-DISEASE; SOLID CANCER; RADIOTHERAPY; EXPOSURE; RISK
+AB Whole-body and thoracic ionizing radiation exposure are associated with increased cardiovascular disease (CVD) risk. In atomic bomb survivors, radiation dose is also associated with increased hypertension incidence, suggesting that radiation dose may be associated with chronic renal failure (CRF), thus explaining part of the mechanism for increased CVD. Multivariate Poisson regression was used to evaluate the association of radiation dose with various definitions of chronic kidney disease (CKD) mortality in the Life Span Study (LSS) of atomic bomb survivors. A secondary analysis was performed using a subsample for whom self-reported information on hypertension and diabetes, the two biggest risk factors for CRF, had been collected. We found a significant association between radiation dose and only our broadest definition of CRF among the full cohort. A quadratic dose excess relative risk model [ERR/Gy(2) = 0.091 (95% CI: 0.05, 0.198)] fit minimally better than a linear model. Within the subsample, association was also observed only with the broadest CRF definition [ERR/Gy(2) = 0.15 (95% CI: 0.02, 0.32)]. Adjustment for hypertension and diabetes improved model lit but did not substantially change the ERR/Gy(2) Gy(2) estimate, which was 0.17 (95% CI: 0.04, 0.35). We found a significant quadratic dose relationship between radiation dose and possible chronic renal disease mortality that is similar in shape to that observed between radiation and incidence of hypertension in this population. Our results suggest that renal dysfunction could be part of the mechanism causing increased CVD risk after whole-body irradiation, a hypothesis that deserves further study. (C) 2012 by Radiation Research Society
+C1 Univ Rochester, Dept Community & Prevent Med, Sch Med & Dent, Rochester, NY 14642 USA.
+RP Adams, MJ (reprint author), Univ Rochester, Dept Community & Prevent Med, Sch Med & Dent, 265 Crittenden Blvd,CU 420644, Rochester, NY 14642 USA.
+EM Jacob_Adams@URMC.Rochester.edu
+FU Radiation Effects Research Foundation; U.S. National Heart Lung and
+   Blood Institute (NHLBI) [K-23 HL070930]; Radiation Effects Research
+   Foundation (RERF); Hiroshima and Nagasaki, Japan; Japanese Ministry of
+   Health, Labour and Welfare (MHLW); U.S. Department of Energy (DOE);
+   National Academy of Sciences (DOE) [DE-HS0000031]; RERF Research
+   Protocol(s) RP [AI1-08]
+FX We acknowledge the assistance of James Dolan, M.D., in preparing Fig. 1.
+   Dr. Adams greatly acknowledges the assistance and support of Evan Douple
+   and Roy Shore in encouraging his research fellowship at the Radiation
+   Effects Research Foundation. The corresponding author also thanks his
+   chair, Susan Fisher, for supporting his pursuit of this research
+   fellowship. Finally, Dr. Adams thanks the RERF for its direct financial
+   support and the career development financial support of the U.S.
+   National Heart Lung and Blood Institute (NHLBI Grant K-23 HL070930). The
+   Radiation Effects Research Foundation (RERF), Hiroshima and Nagasaki,
+   Japan, is a private, non-profit foundation funded by the Japanese
+   Ministry of Health, Labour and Welfare (MHLW) and the U.S. Department of
+   Energy (DOE), the latter in part through the National Academy of
+   Sciences (DOE Award DE-HS0000031). This publication was supported by
+   RERF Research Protocol(s) RP no. AI1-08.
+CR Adams MJ, 2003, CRIT REV ONCOL HEMAT, V45, P55, DOI 10.1016/S1040-8428(01)00227-X
+   AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Azizova TV, 2010, RADIAT RES, V174, P155, DOI 10.1667/RR1789.1
+   Breslow N, 1987, SCI PUBLICATION INT
+   Carr ZA, 2005, INT J RADIAT ONCOL, V61, P842, DOI 10.1016/j.ijrobp.2004.07.708
+   Cuttings HM, 2006, RADIAT RES, V166, P219
+   Gillen DL, 2005, KIDNEY INT, V67, P685, DOI 10.1111/j.1523-1755.2005.67128.x
+   HANCOCK SL, 1993, JAMA-J AM MED ASSOC, V270, P1949, DOI 10.1001/jama.270.16.1949
+   Kal HB, 2009, ANTICANCER RES, V29, P3305
+   Kodama Kazunori, 1996, World Health Statistics Quarterly, V49, P7
+   Kusunoki Y, 2008, INT J RADIAT BIOL, V84, P1, DOI 10.1080/09553000701616106
+   Lee CKK, 2000, INT J RADIAT ONCOL, V48, P169, DOI 10.1016/S0360-3016(00)00647-7
+   Little MP, 2010, RADIAT ENVIRON BIOPH, V49, P139, DOI 10.1007/s00411-009-0250-z
+   Marks LB, 2011, UPTODATE
+   Mauch P M, 1995, Cancer J Sci Am, V1, P33
+   Muirhead CR, 2009, BRIT J CANCER, V100, P206, DOI 10.1038/sj.bjc.6604825
+   National Kidney Foundation, 2002, AM J KIDNEY DIS S, V39, pS1
+   Paszat LF, 1999, INT J RADIAT ONCOL, V43, P755, DOI 10.1016/S0360-3016(98)00412-X
+   Paszat LF, 1998, J CLIN ONCOL, V16, P2625
+   Paszat LF, 2007, RADIOTHER ONCOL, V82, P294, DOI 10.1016/j.radonc.2007.01.004
+   Pearson TA, 2003, CIRCULATION, V107, P499, DOI 10.1161/01.CIR.0000052939.59093.45
+   Preston DL, 1991, EPICURE USERS GUIDE
+   Preston DL, 2003, RADIAT RES, V160, P381, DOI 10.1667/RR3049
+   Preston DL, 2003, HEALTH PHYS, V85, P43, DOI 10.1097/00004032-200307000-00010
+   S Akiba, 1992, 491 RERF, P1
+   Sarnak MJ, 2003, CIRCULATION, V108, P2154, DOI 10.1161/01.CIR.0000095676.90936.80
+   Sasaki H, 2002, J CLIN EPIDEMIOL, V55, P974, DOI 10.1016/S0895-4356(02)00439-0
+   Shimizu Y, 2010, BRIT MED J, V340, DOI 10.1136/bmj.b5349
+   SHIMIZU Y, 1992, RADIAT RES, V130, P249, DOI 10.2307/3578283
+   Shimizu Y, 1999, RADIAT RES, V152, P374, DOI 10.2307/3580222
+   WONG FL, 1993, RADIAT RES, V135, P418, DOI 10.2307/3578884
+   Yamada M, 2004, RADIAT RES, V161, P622, DOI 10.1667/RR3183
+   [Anonymous], 1980, 1478 RERF
+   [Anonymous], 2001, JAMA, V285, P2486
+NR 34
+TC 1
+Z9 1
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD FEB
+PY 2012
+VL 177
+IS 2
+BP 220
+EP 228
+DI 10.1667/RR2746.1
+PG 9
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 896AR
+UT WOS:000300538300009
+ER
+
+PT J
+AU Ozasa, K
+   Shimizu, Y
+   Sakata, R
+   Sugiyama, H
+   Grant, EJ
+   Soda, M
+   Kasagi, F
+   Suyama, A
+AF Ozasa, Kotaro
+   Shimizu, Yukiko
+   Sakata, Ritsu
+   Sugiyama, Hiromi
+   Grant, Eric J.
+   Soda, Midori
+   Kasagi, Fumiyoshi
+   Suyama, Akihiko
+TI RISK OF CANCER AND NON-CANCER DISEASES IN THE ATOMIC BOMB SURVIVORS
+SO RADIATION PROTECTION DOSIMETRY
+LA English
+DT Article
+ID IONIZING-RADIATION; SOLID CANCER; MORTALITY
+AB Late health effects of exposure to atomic bomb radiation have been evaluated in survivors. A cohort of 120 321 people has been followed since 1950 for mortality, including the cause of death using the Japanese population registry system (Life Span Study), and for cancer incidence using population-based cancer registries. Findings have included a markedly increased risk of leukaemia several years after the exposure, increased risk of various malignant tumours several decades after the exposure and, more recently, findings of increased rates of non-cancer diseases such as cardiovascular diseases.
+C1 Radiat Effects Res Fdn, Hiroshima Labs, Dept Epidemiol, Hiroshima Lab,Minami Ku, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Nagasaki Labs, Dept Epidemiol, Nagasaki Lab, Nagasaki 8507279, Japan.
+RP Ozasa, K (reprint author), Radiat Effects Res Fdn, Hiroshima Labs, Dept Epidemiol, Hiroshima Lab,Minami Ku, 5-2 Hijiyama Pk, Hiroshima 7320815, Japan.
+EM ozasa@rerf.or.jp
+FU RERF [RP 1-75, RP 18-61]
+FX This publication was supported by RERF Research Protocols RP 1-75 (Life
+   Span Study) and RP 18-61 (Hiroshima and Nagasaki Tumor registries).
+CR Preston DL, 2004, RADIAT RES, V162, P377, DOI 10.1667/RR3232
+   Preston DL, 2003, RADIAT RES, V160, P381, DOI 10.1667/RR3049
+   Preston DL, 2007, RADIAT RES, V168, P1, DOI 10.1667/RR0763.1
+   Richardson D, 2009, RADIAT RES, V172, P368, DOI 10.1667/RR1801.1
+   Richardson DB, 2009, AM J EPIDEMIOL, V169, P969, DOI 10.1093/aje/kwp018
+   SHIMIZU Y, 2010, BRIT MED J, V340, DOI DOI 10.1136/BMJB5349
+NR 6
+TC 3
+Z9 3
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0144-8420
+J9 RADIAT PROT DOSIM
+JI Radiat. Prot. Dosim.
+PD JUL
+PY 2011
+VL 146
+IS 1-3
+BP 272
+EP 275
+DI 10.1093/rpd/ncr168
+PG 4
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA 790DH
+UT WOS:000292568200073
+ER
+
+PT J
+AU Matsuda, N
+   Brahmanandhan, GM
+   Yoshida, M
+   Takamura, N
+   Suyama, A
+   Koguchi, Y
+   Juto, N
+   Raj, YL
+   Winsley, G
+   Selvasekarapandian, S
+AF Matsuda, Naoki
+   Brahmanandhan, G. M.
+   Yoshida, Masahiro
+   Takamura, Noboru
+   Suyama, Akihiko
+   Koguchi, Yasuhiro
+   Juto, Norimichi
+   Raj, Y. Lenin
+   Winsley, Godwin
+   Selvasekarapandian, S.
+TI BACKGROUND RADIATION AND INDIVIDUAL DOSIMETRY IN THE COSTAL AREA OF
+   TAMIL NADU, INDIA
+SO RADIATION PROTECTION DOSIMETRY
+LA English
+DT Article
+ID POWER-PLANT SITE; NATURAL RADIOACTIVITY; AGASTHEESWARAM-TALUK;
+   KANYAKUMARI DISTRICT; KERALA
+AB South coast of India is known as the high-level background radiation area (HBRA) mainly due to beach sands that contain natural radionuclides as components of the mineral monazite. The rich deposit of monazite is unevenly distributed along the coastal belt of Tamil Nadu and Kerala. An HBRA site that laid in 2x7 m along the sea was found in the beach of Chinnavillai, Tamil Nadu, where the maximum ambient dose equivalent reached as high as 162.7 mSv y(-1). From the sands collected at the HBRA spot, the high-purity germanium semi-conductor detector identified six nuclides of thorium series, four nuclides of uranium series and two nuclides belonging to actinium series. The highest radioactivity observed was 43.7 Bq g(-1) of Th-228. The individual dose of five inhabitants in Chinnavillai, as measured by the radiophotoluminescence glass dosimetry system, demonstrated the average dose of 7.17 mSv y(-1) ranging from 2.79 to 14.17 mSv y(-1).
+C1 Nagasaki Univ, Ctr Frontier Life Sci, Nagasaki 8528523, Japan.
+   Nagasaki Univ, Grad Sch Biomed Sci, Nagasaki 8528523, Japan.
+   RERF, Dept Epidemiol, Nagasaki 8500013, Japan.
+   Chiyoda Technol Corp, Oarai Res Ctr, Oarai, Ibaraki 3111313, Japan.
+   Scott Christian Coll, Dept Zool, Nagercoil 629003, India.
+   Kalasalingam Univ, Dept Phys, Krishnankoil 626190, Srivilliputtur, India.
+RP Matsuda, N (reprint author), Nagasaki Univ, Ctr Frontier Life Sci, 1-12-4 Sakamoto, Nagasaki 8528523, Japan.
+EM nuric@nagasaki-u.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+   through the Nagasaki University
+FX This work was supported by the Ministry of Education, Culture, Sports,
+   Science and Technology of Japan through the Nagasaki University Global
+   COE Program.
+CR BRAHMANANDHAN GM, 2010, ENDOCR J, V54, P87
+   Brahmanandhan GM, 2007, J RADIOANAL NUCL CH, V274, P361, DOI 10.1007/s10967-007-1123-z
+   Brahmanandhan GM, 2007, J RADIOANAL NUCL CH, V274, P373, DOI 10.1007/s10967-007-1125-x
+   Das B, 2009, INT J RADIAT BIOL, V85, P272, DOI 10.1080/09553000902751462
+   Malathi J, 2005, RADIAT PROT DOSIM, V113, P415, DOI 10.1093/rpd/nch472
+   Malathi J, 2008, ENVIRON MONIT ASSESS, V137, P163, DOI 10.1007/s10661-007-9736-9
+   Nair RRK, 2009, HEALTH PHYS, V96, P55, DOI 10.1097/01.HP.0000327646.54923.11
+   NAMBI KSV, 1987, RADIAT PROT DOSIM, V18, P31
+   Shetty PK, 2006, J ENVIRON RADIOACTIV, V86, P132, DOI 10.1016/j.jenvrad.2005.08.002
+   Singh HN, 2007, J HAZARD MATER, V141, P264, DOI 10.1016/j.jhazmat.2006.06.118
+   *UNSCEAR 2000, 2000, REP GEN ASS SCI ANN, V1
+   *WHO, 2009, WORLD HLTH STAT TABL
+NR 12
+TC 0
+Z9 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0144-8420
+J9 RADIAT PROT DOSIM
+JI Radiat. Prot. Dosim.
+PD JUL
+PY 2011
+VL 146
+IS 1-3
+BP 314
+EP 317
+DI 10.1093/rpd/ncr179
+PG 4
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA 790DH
+UT WOS:000292568200084
+ER
+
+PT J
+AU Tagawa, M
+   Shohda, K
+   Fujimoto, K
+   Suyama, A
+AF Tagawa, Miho
+   Shohda, Koh-ichiroh
+   Fujimoto, Kenzo
+   Suyama, Akira
+TI Stabilization of DNA nanostructures by photo-cross-linking
+SO SOFT MATTER
+LA English
+DT Article
+ID PHOTOLIGATION; PREDICTION; LATTICES; SHAPES
+AB Developing methods for stabilizing DNA nanostructures is a major challenge for next-generation nanofabrication, because stable DNA nanostructures are expected to work as building materials in the bottom-up assembly of functional biomolecules and nano-electronic components. Here we show the availability of cross-linking-type photoreaction with 3-cyanovinylcarbazole nucleosides ((CNV)Ks) on DNA nanostructures. DNA double-crossover AB-staggered (DXAB) tiles including cross-linking molecules, CNVKs, self-assembled into two-dimensional (2D) periodic DNA arrays and were covalently connected by photo-cross-linking. The self-assembled DNA arrays before and after photo-cross-linking have been visualized by high-resolution, tapping mode atomic force microscopy (AFM) in buffer. The improvement of the heat tolerance of photo-cross-linked DNA arrays was confirmed by heating and visualizing the DNA nanostructures. The heat-resistant DNA arrays may expand the potential of DNA as a functional material in biotechnology and nanotechnology.
+C1 Univ Tokyo, Dept Life Sci, Grad Sch Arts & Sci, Komaba 1538902, Japan.
+   Univ Tokyo, Inst Phys, Grad Sch Arts & Sci, Komaba 1538902, Japan.
+   Japan Sci & Technol Agcy JST PRESTO, Kawaguchi, Saitama, Japan.
+   Japan Adv Inst Sci & Technol, Sch Mat Sci, Nomi, Ishikawa 9231292, Japan.
+RP Tagawa, M (reprint author), Univ Tokyo, Dept Life Sci, Grad Sch Arts & Sci, Komaba 1538902, Japan.
+EM suyama@dna.c.u-tokyo.ac.jp
+FU PRESTO-JST; Ministry of Education, Culture, Sports, Science, and
+   Technology, Japan [20241029]
+FX This work was partly supported by PRESTO-JST, Grants-in-Aid for
+   Scientific Research in Priority Areas 'Search of Nanosystems and
+   Function Emergence' to MT and for Scientific Research (A) 20241029 to AS
+   from the Ministry of Education, Culture, Sports, Science, and
+   Technology, Japan. The authors gratefully acknowledge Avril Woodhead
+   (BNL) for the manuscript editing.
+CR Douglas SM, 2009, NATURE, V459, P414, DOI 10.1038/nature08016
+   Feng LP, 2003, ANGEW CHEM INT EDIT, V42, P4342, DOI 10.1002/anie.200351818
+   FU TJ, 1993, BIOCHEMISTRY-US, V32, P3211, DOI 10.1021/bi00064a003
+   Goodman RP, 2008, NAT NANOTECHNOL, V3, P93, DOI 10.1038/nnano.2008.3
+   He Y, 2008, NATURE, V452, P198, DOI 10.1038/nature06597
+   He Y, 2007, MICROSC RES TECHNIQ, V70, P522, DOI 10.1002/jemt.20475
+   Mathews DH, 1999, J MOL BIOL, V288, P911, DOI 10.1006/jmbi.1999.2700
+   Park SH, 2006, ANGEW CHEM INT EDIT, V45, P735, DOI 10.1002/anie.200503797
+   Rothemund PWK, 2006, NATURE, V440, P297, DOI 10.1038/nature04586
+   Seeman NC, 2003, NATURE, V421, P427, DOI 10.1038/nature01406
+   Simmel FC, 2008, ANGEW CHEM INT EDIT, V47, P5884, DOI 10.1002/anie.200801982
+   SIMMEL FC, 2008, ANGEW CHEM, V120, P5968, DOI 10.1002/ange.200801982
+   SPIELMANN HP, 1995, BIOCHEMISTRY-US, V34, P12937, DOI 10.1021/bi00040a004
+   Steinhauer C, 2009, ANGEW CHEM INT EDIT, V48, P8870, DOI 10.1002/anie.200903308
+   Tagawa M, 2007, NUCLEIC ACIDS RES, V35, DOI 10.1093/nar/gkm872
+   TURBERFIELD AJ, 2005, PHYS WORLD, V16, P43
+   Winfree E, 1998, NATURE, V394, P539, DOI 10.1038/28998
+   Yan H, 2002, NATURE, V415, P62, DOI 10.1038/415062a
+   Yan H, 2003, P NATL ACAD SCI USA, V100, P8103, DOI 10.1073/pnas.1032954100
+   Yan H, 2004, SCIENCE, V306, P2048, DOI 10.1126/science.1106754
+   Yoshimura Y, 2008, ORG LETT, V10, P3227, DOI 10.1021/ol801112j
+   Yoshimura Y, 2006, CHEMBIOCHEM, V7, P598, DOI 10.1002/cbic.200500534
+   Zuker M, 2003, NUCLEIC ACIDS RES, V31, P3406, DOI 10.1093/nar/gkg595
+NR 23
+TC 3
+Z9 3
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1744-683X
+J9 SOFT MATTER
+JI Soft Matter
+PY 2011
+VL 7
+IS 22
+BP 10931
+EP 10934
+DI 10.1039/c1sm06303k
+PG 4
+WC Chemistry, Physical; Materials Science, Multidisciplinary; Physics,
+   Multidisciplinary; Polymer Science
+SC Chemistry; Materials Science; Physics; Polymer Science
+GA 839SA
+UT WOS:000296388300055
+ER
+
+PT J
+AU Shohda, K
+   Tamura, M
+   Kageyama, Y
+   Suzuki, K
+   Suyama, A
+   Sugawara, T
+AF Shohda, Koh-ichiroh
+   Tamura, Mieko
+   Kageyama, Yoshiyuki
+   Suzuki, Kentaro
+   Suyama, Akira
+   Sugawara, Tadashi
+TI Compartment size dependence of performance of polymerase chain reaction
+   inside giant vesicles
+SO SOFT MATTER
+LA English
+DT Article
+ID HYDROTHERMAL VENTS; HOT SPRINGS; LIPOSOMES; LIFE; ORIGIN; SURFACE;
+   GROWTH; SYSTEM; MODEL
+AB The amplification of a 1229 bp template DNA that encoded the green fluorescent protein (GFP) was conducted in cell-sized giant vesicles (GVs, phi > 1 mu m) using a real-time polymerase chain reaction (PCR) technique. The proportion of PCR-proceeded GV reached up to 16% of all GVs. The dependence of PCR on GV size was elucidated by flow cytometry analysis.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Res Ctr Life Sci Complex Syst, Meguro Ku, Tokyo 1538902, Japan.
+RP Shohda, K (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Res Ctr Life Sci Complex Syst, Meguro Ku, 3-8-1 Komaba, Tokyo 1538902, Japan.
+EM suga@pentacle.c.u-tokyo.ac.jp
+FU KAKENHI [463, 20200007]
+FX This work was partly supported by KAKENHI (Grant-in-Aid for Scientific
+   Research) on Priority Area "Soft Matter Physics" (Area No. 463), and on
+   Innovative Areas (No. 20200007).
+CR CHILDERS NK, 1989, J IMMUNOL METHODS, V119, P135, DOI 10.1016/0022-1759(89)90390-6
+   Hanczyc MM, 2004, CURR OPIN CHEM BIOL, V8, P660, DOI 10.1016/j.cbpa.2004.10.002
+   Hosoda K, 2008, LANGMUIR, V24, P13540, DOI 10.1021/la802432f
+   JANNASCH HW, 1985, SCIENCE, V229, P717, DOI 10.1126/science.229.4715.717
+   Luisi PL, 2006, EMERGENCE OF LIFE: FROM CHEMICAL ORIGINS TO SYNTHETIC BIOLOGY, P1
+   Luisi PL, 2010, CHEMBIOCHEM, V11, P1989, DOI 10.1002/cbic.201000381
+   Mansy SS, 2008, NATURE, V454, P122, DOI 10.1038/nature07018
+   Martin W, 2008, NAT REV MICROBIOL, V6, P805, DOI 10.1038/nrmicro1991
+   MILLER SL, 1988, NATURE, V334, P609, DOI 10.1038/334609a0
+   Nisbet EG, 2001, NATURE, V409, P1083, DOI 10.1038/35059210
+   OBERHOLZER T, 1995, CHEM BIOL, V2, P677, DOI 10.1016/1074-5521(95)90031-4
+   Segre D, 2001, ORIGINS LIFE EVOL B, V31, P119, DOI 10.1023/A:1006746807104
+   Shohda K, 2006, SOFT MATTER, V2, P402, DOI 10.1039/b516834a
+   SPIESS FN, 1980, SCIENCE, V207, P1421, DOI 10.1126/science.207.4438.1421
+   Szostak JW, 2001, NATURE, V409, P387, DOI 10.1038/35053176
+   Takakura K, 2003, J AM CHEM SOC, V125, P8134, DOI 10.1021/ja029379a
+   Takakura K, 2004, LANGMUIR, V20, P3832, DOI 10.1021/la049738a
+   Wachtershauser G, 2000, SCIENCE, V289, P1307, DOI 10.1126/science.289.5483.1307
+   WALDE P, 1994, J AM CHEM SOC, V116, P11649, DOI 10.1021/ja00105a004
+   Yachi K, 1996, BIOPHARM DRUG DISPOS, V17, P589, DOI 10.1002/(SICI)1099-081X(199610)17:7<589::AID-BDD976>3.3.CO;2-4
+   Yamashita Y, 2002, BBA-BIOMEMBRANES, V1561, P129, DOI 10.1016/S0005-2736(02)00338-3
+   Zipper H, 2004, NUCLEIC ACIDS RES, V32, DOI 10.1093/nar/gnh101
+NR 22
+TC 3
+Z9 3
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1744-683X
+J9 SOFT MATTER
+JI Soft Matter
+PY 2011
+VL 7
+IS 8
+BP 3750
+EP 3753
+DI 10.1039/c0sm01463j
+PG 4
+WC Chemistry, Physical; Materials Science, Multidisciplinary; Physics,
+   Multidisciplinary; Polymer Science
+SC Chemistry; Materials Science; Physics; Polymer Science
+GA 745NZ
+UT WOS:000289173500013
+ER
+
+PT J
+AU Richardson, D
+   Sugiyama, H
+   Nishi, N
+   Sakata, R
+   Shimizu, Y
+   Grant, EJ
+   Soda, M
+   Hsu, WL
+   Suyama, A
+   Kodama, K
+   Kasagi, F
+AF Richardson, David
+   Sugiyama, Hiromi
+   Nishi, Nobuo
+   Sakata, Ritsu
+   Shimizu, Yukiko
+   Grant, Eric J.
+   Soda, Midori
+   Hsu, Wan-Ling
+   Suyama, Akihiko
+   Kodama, Kazunori
+   Kasagi, Fumiyoshi
+TI Ionizing Radiation and Leukemia Mortality among Japanese Atomic Bomb
+   Survivors, 1950-2000
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID CANCER-MORTALITY; LIFE-SPAN; RISK; NAGASAKI; BIAS
+AB This paper provides the first comprehensive report on mortality by type of leukemia among the Japanese atomic bomb survivors in the Life Span Study (LSS). Analyses include 310 deaths due to leukemia during the period 1950-2000 among 86,611 people in the LSS. Poisson regression methods were used to evaluate associations between estimated bone marrow dose and leukemia mortality. Attention was given to variation in the radiation dose-leukemia mortality association by time since exposure, age at exposure, city and sex. The excess relative rate per gray of acute myeloid leukemia was best described by a quadratic dose-response function that peaked approximately 10 years after exposure. Acute lymphatic leukemia and chronic myeloid leukemia mortality were best described by a linear dose-response function that did not vary with time since exposure. Adult T-cell leukemia was not associated with estimated bone marrow dose. Overall, 103 of the 310 observed leukemia deaths were estimated to be excess deaths due to radiation exposure. In the most recent decade of observation (1991-2000), the estimated attributable fraction of leukemia deaths among those survivors exposed to >0.005 Gy was 0.34, suggesting that the effect of the atomic bombings on leukemia mortality has persisted in this cohort for more than five decades. (C) 2009 by Radiation Research Society
+C1 Univ N Carolina, Dept Epidemiol, Sch Publ Hlth, Chapel Hill, NC 27599 USA.
+RP Richardson, D (reprint author), Univ N Carolina, Dept Epidemiol, Sch Publ Hlth, Chapel Hill, NC 27599 USA.
+EM david.richardson@unc.edu
+FU Japan Ministry of Health, Labour and Welfare (MHLW); U.S. Department of
+   Energy (DOE); U.S. National Academy of Sciences
+FX Support was provided by the Radiation Effects Research Foundation
+   (RERF), Hiroshima and Nagasaki, Japan, funded by the Japan Ministry of
+   Health, Labour and Welfare (MHLW) and the U.S. Department of Energy
+   (DOE), the latter partly through the U.S. National Academy of Sciences.
+CR Arisawa K, 2006, CANCER SCI, V97, P535, DOI 10.1111/j.1349-7006.2006.00212.x
+   BEEBE GW, 1961, 1 ABCC
+   BRILL AB, 1959, LEUKEMIA HUMANS FOLL
+   Committee for the Compilation of Materials on Damage Caused by the Atomic Bombs in Hiroshima and Nagasaki, 1981, HIR NAG PHYS MED SOC
+   de Boor C., 1978, PRACTICAL GUIDE SPLI
+   FOLLEY JH, 1952, AM J MED, V13, P311, DOI 10.1016/0002-9343(52)90285-4
+   FRANCIS T, 1955, COMMUNICATION   1106
+   Greenland S, 1999, AM J PUBLIC HEALTH, V89, P1166, DOI 10.2105/AJPH.89.8.1166
+   HARRELL FE, 1988, J NATL CANCER I, V80, P1198, DOI 10.1093/jnci/80.15.1198
+   ISHIDA M, 1959, TR3359 AT BOMB CAS C
+   LIEBOW AA, 1949, AM J PATHOL, V25, P853
+   MABUCHI K, 1994, RADIAT RES, V137, pS1, DOI 10.2307/3578891
+   Nakamura N, 2005, RADIAT RES, V163, P258, DOI 10.1667/RR3311
+   Nishi N, 2008, ANN EPIDEMIOL, V18, P584, DOI 10.1016/j.annepidem.2008.02.003
+   PIERCE DA, 1990, RADIAT RES, V123, P275, DOI 10.2307/3577733
+   Pierce DA, 2007, RADIAT RES, V167, P735, DOI 10.1667/RR0349.1
+   PRESTON DL, 1987, RADIAT RES, V111, P151, DOI 10.2307/3577030
+   Preston DL, 1993, EPICURE USERS GUIDE
+   Preston DL, 2004, RADIAT RES, V162, P377, DOI 10.1667/RR3232
+   PRESTON DL, 1994, RADIAT RES, V139, P129
+   SHIMIZU Y, 1990, JAMA-J AM MED ASSOC, V264, P601, DOI 10.1001/jama.264.5.601
+   Stewart A, 1997, ENVIRON HEALTH PERSP, V105, P1519, DOI 10.2307/3433663
+   TOMONAGA M, 1991, DIFFERENTIAL EFFECTS
+   United Nations Scientific Committee on the Effects of Atomic Radiation, 2000, SOURC EFF ION RAD
+   Young RK, 2005, REASSESSMENT ATOMIC
+   *NAT RES COUNC COM, 2006, HLTH EXP LOW LEV ION
+NR 26
+TC 24
+Z9 24
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD SEP
+PY 2009
+VL 172
+IS 3
+BP 368
+EP 382
+DI 10.1667/RR1801.1
+PG 15
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 495QE
+UT WOS:000269908100011
+ER
+
+PT J
+AU Takinoue, M
+   Kiga, D
+   Shohda, KI
+   Suyama, A
+AF Takinoue, Masahiro
+   Kiga, Daisuke
+   Shohda, Koh-ichiroh
+   Suyama, Akira
+TI Experiments and simulation models of a basic computation element of an
+   autonomous molecular computing system
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID REVERSE-TRANSCRIPTASE; DNA PROBES; HYBRIDIZATION; RNA; MACHINE; VIRUS
+AB Autonomous DNA computers have been attracting much attention because of their ability to integrate into living cells. Autonomous DNA computers can process information through DNA molecules and their molecular reactions. We have already proposed an idea of an autonomous molecular computer with high computational ability, which is now named Reverse-transcription-and-TRanscription-based Autonomous Computing System (RTRACS). In this study, we first report an experimental demonstration of a basic computation element of RTRACS and a mathematical modeling method for RTRACS. We focus on an AND gate, which produces an output RNA molecule only when two input RNA molecules exist, because it is one of the most basic computation elements in RTRACS. Experimental results demonstrated that the basic computation element worked as designed. In addition, its behaviors were analyzed using a mathematical model describing the molecular reactions of the RTRACS computation elements. A comparison between experiments and simulations confirmed the validity of the mathematical modeling method. This study will accelerate construction of various kinds of computation elements and computational circuits of RTRACS, and thus advance the research on autonomous DNA computers.
+C1 Univ Tokyo, Dept Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Inst Phys, Meguro Ku, Tokyo 1538902, Japan.
+   Tokyo Inst Technol, Deprt Computat Intelligence & Syst Sci, Midori Ku, Kanagawa 2268503, Japan.
+RP Takinoue, M (reprint author), Kyoto Univ, Dept Phys, Kyoto 6068502, Japan.
+EM takinoue@chem.scphys.kyoto-u.ac.jp; kiga@dis.titech.ac.jp;
+   suyama@dna.c.u-tokyo.ac.jp; suyama@dna.c.u-tokyo.ac.jp
+CR Benenson Y, 2003, P NATL ACAD SCI USA, V100, P2191, DOI 10.1073/pnas.0535624100
+   Benenson Y, 2001, NATURE, V414, P430, DOI 10.1038/35106533
+   Benenson Y, 2004, NATURE, V429, P423, DOI 10.1038/nature02551
+   BROWN TA, 1998, MOL BIOL LABFAX, V1, P123
+   Didenko VV, 2001, BIOTECHNIQUES, V31, P1106
+   Hirano N, 2000, BIOCHEMISTRY-US, V39, P13285, DOI 10.1021/bi0015008
+   Kitajima T, 2008, LECT NOTES COMPUT SC, V4848, P119
+   Komiya K, 2006, BIOSYSTEMS, V83, P18, DOI 10.1016/j.biosystems.2005.07.005
+   KRUG MS, 1991, BIOCHEMISTRY-US, V30, P10614, DOI 10.1021/bi00108a003
+   Majlessi M, 1998, NUCLEIC ACIDS RES, V26, P2224, DOI 10.1093/nar/26.9.2224
+   MARTIN CT, 1987, BIOCHEMISTRY-US, V26, P2690, DOI 10.1021/bi00384a006
+   Nishida N, 2005, ANAL BIOCHEM, V346, P281, DOI 10.1016/j.ab.2005.08.007
+   Nitta N, 2004, LECT NOTES COMPUT SC, V2943, P203
+   Rose JA, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.021910
+   Sakamoto K, 1999, BIOSYSTEMS, V52, P81, DOI 10.1016/S0303-2647(99)00035-0
+   Seelig G, 2006, SCIENCE, V314, P1585, DOI 10.1126/science.1132493
+   Tsourkas A, 2002, NUCLEIC ACIDS RES, V30, P5168, DOI 10.1093/nar/gkf635
+   WETMUR JG, 1991, CRIT REV BIOCHEM MOL, V26, P227, DOI 10.3109/10409239109114069
+   YOSHIDA H, 2000, DIMACS SERIES DISCRE, V54, P9
+   YU H, 1992, J BIOL CHEM, V267, P10888
+   Zhang DY, 2007, SCIENCE, V318, P1121, DOI 10.1126/science.1148532
+NR 21
+TC 11
+Z9 11
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+J9 PHYS REV E
+JI Phys. Rev. E
+PD OCT
+PY 2008
+VL 78
+IS 4
+AR 041921
+DI 10.1103/PhysRevE.78.041921
+PN 1
+PG 13
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 367SV
+UT WOS:000260573800107
+ER
+
+PT J
+AU Fujiwara, S
+   Suyama, A
+   Cologne, JB
+   Akahoshi, M
+   Yamada, M
+   Suzuki, G
+   Koyama, K
+   Takahashi, N
+   Kasagi, E
+   Grant, EJ
+   Lagarde, F
+   Hsu, WL
+   Furukawa, K
+   Ohishi, W
+   Tatsukawa, Y
+   Neriishi, K
+   Takahashi, I
+   Ashizawa, K
+   Hida, A
+   Imaizumi, M
+   Nauano, J
+   Cullings, HM
+   Katayama, H
+   Ross, NP
+   Kodama, K
+   Shore, RE
+AF Fujiwara, S.
+   Suyama, A.
+   Cologne, J. B.
+   Akahoshi, M.
+   Yamada, M.
+   Suzuki, G.
+   Koyama, K.
+   Takahashi, N.
+   Kasagi, E.
+   Grant, E. J.
+   Lagarde, F.
+   Hsu, W. L.
+   Furukawa, K.
+   Ohishi, W.
+   Tatsukawa, Y.
+   Neriishi, K.
+   Takahashi, I.
+   Ashizawa, K.
+   Hida, A.
+   Imaizumi, M.
+   Nauano, J.
+   Cullings, H. M.
+   Katayama, H.
+   Ross, N. P.
+   Kodama, K.
+   Shore, R. E.
+TI Prevalence of adult-onset multifactorial disease among offspring of
+   atomic bomb survivors
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID NON-HODGKINS-LYMPHOMA; CHILDHOOD-CANCER; YOUNG-PEOPLE; RADIATION;
+   CHILDREN; LEUKEMIA; ACCIDENT; INCREASE; EXPOSURE
+AB The first study to examine whether parental radiation exposure leads to increased heritable risk of common adult-onset multifactorial diseases (i.e., hypertension, diabetes mellitus, hypercholesterolemia, ischemic heart disease, and stroke) was conducted among 11,951 participants in the clinical examination program out of a potential of 24,673 mail survey subjects who were offspring of survivors born from May 1946 through December 1984. Logistic regression analyses demonstrated no evidence of an association between the prevalence of multifactorial diseases in the offspring and parental radiation exposure, after adjusting for age, city, gender and various risk factors. The odds ratio (OR) for a paternal dose of 1 Gy was 0.91 [95% confidence interval (CI) 0.81-1.01, P = 0.08]. and that for a maternal dose of 1 Gy was 0.98 (95% CI 0.86-1.10, P = 0.71). There was no apparent effect of parental age at exposure or of elapsed time between parental exposure and birth, but male offspring had a low odds ratio (OR = 0.76 at 1 Gy) for paternal exposure, but cautious interpretation is needed for this finding. The clinical assessment of nearly 12,000 offspring of A-bomb survivors who have reached a median age of about 50 years provided no evidence for an increased prevalence of adult-onset multifactorial diseases in relation to parental radiation exposure. (C) 2008 by Radiation Research Society.
+C1 Radiat Effects Res Fdn, Dept Clin Studies, Minami Ku, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Clin Studies, Nagasaki, Japan.
+   Radiat Effects Res Fdn, Dept Epidemiol, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Epidemiol, Nagasaki, Japan.
+   Radiat Effects Res Fdn, Dept Stat, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Stat, Nagasaki, Japan.
+   Radiat Effects Res Fdn, Dept Genet, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Genet, Nagasaki, Japan.
+   Radiat Effects Res Fdn, Dept Informat Technol, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Informat Technol, Nagasaki, Japan.
+RP Fujiwara, S (reprint author), Radiat Effects Res Fdn, Dept Clin Studies, Minami Ku, 5-2 Hijiyama Pk, Hiroshima 7320815, Japan.
+EM fujiwara@rerf.or.jp
+FU Radiation Effects Research Foundation (RERF); Japanese Ministry of
+   Health, Labour and Welfare (MHLW); U.S. Department of Energy (DOE);
+   National Academy of Sciences (NAS); RERF Research Protocols [4-00, 1-02,
+   3-02]
+FX The Radiation Effects Research Foundation (RERF), Hiroshima and
+   Nagasaki, Japan, is a private, non-profit foundation funded by the
+   Japanese Ministry of Health, Labour and Welfare (MHLW) and the U.S.
+   Department of Energy (DOE), with the latter funding provided through the
+   National Academy of Sciences (NAS). We express sincere appreciation to
+   the members of the outside Scientific and Ethics Committees and Analysis
+   Sub-committee, who reviewed and commented on this study through-out its
+   conduct and analysis. We thank Dr. Non Nakamura, RERF Chief Scientist.
+   Mr. Takanobu Teramoto. RERF Permanent Director. Dr. Senjun Taira. former
+   RERF Permanent Director and Vice Chairman. Dr. Kiyohiko Mabuchi, former
+   of the RERF Epidemiology Department. Drs. Dale Preston and Donald
+   Pierce. formerly of the RERF Statistics Department, and Mr. Tadaaki
+   Watanabe, RERF Department of Epidemiology, for their contribution, to
+   this study. This publication was supported by RERF Research Protocols
+   no. 4-00. no. 1-02, and no. 3-02.
+CR Boice JD, 2003, HEALTH PHYS, V85, P65, DOI 10.1097/00004032-200307000-00013
+   Burkart W, 1997, RADIAT RES, V147, P321, DOI 10.2307/3579339
+   Dickinson HO, 2002, INT J CANCER, V99, P437, DOI 10.1002/ijc.10385
+   GARDNER MJ, 1990, BRIT MED J, V300, P423
+   ICRP, 1999, ANN ICRP, V29
+   Izumi S, 2003, INT J CANCER, V107, P292, DOI 10.1002/ijc.11400
+   Izumi S, 2003, BRIT J CANCER, V89, P1709, DOI 10.1038/sj.bjc.6601322
+   KINLEN LJ, 1993, BRIT MED J, V306, P1153
+   KODAIRA M, 1995, AM J HUM GENET, V57, P1275
+   MULVIHILL JJ, 1987, LANCET, V2, P813
+   NEEL JV, 1988, AM J HUM GENET, V42, P663
+   Neel JV, 1998, P NATL ACAD SCI USA, V95, P5432, DOI 10.1073/pnas.95.10.5432
+   PETRUSHKINA NP, 2006, INT J LOW RAD, V14, P243
+   Petrushkina N.P., 1996, Meditsinskaya Radiologiya i Radiatsionnaya Bezolasnost', V41
+   Petrushkina N.P., 1997, Meditsinskaya Radiologiya i Radiatsionnaya Bezolasnost', V42
+   RUSSELL WL, 1977, P NATL ACAD SCI USA, V74, P3523, DOI 10.1073/pnas.74.8.3523
+   RUSSELL WL, 1958, SCIENCE, V128, P1546, DOI 10.1126/science.128.3338.1546
+   Sankila R, 1998, NEW ENGL J MED, V338, P1339, DOI 10.1056/NEJM199805073381902
+   SATOH C, 1988, GANN MONOGRAPH CANCE, V35, P191
+   SCHULL WJ, 1981, SCIENCE, V213, P1220, DOI 10.1126/science.7268429
+   SCHULL WJ, 1958, SCIENCE, V128, P343, DOI 10.1126/science.128.3320.343
+   Searle AG, 1974, ADV RADIAT BIOL, V4, P131
+   Signorello LB, 2006, J NATL CANCER I, V98, P1453, DOI 10.1093/jnci/djj394
+   SMITHWARNER SA, 2006, AM J EPIDEMIOL, V63, P1053
+   SPERLING K, 1994, BRIT MED J, V309, P158
+   Valentin J, 2007, ANN ICRP, V37
+   *NAT RES COUNC COM, 2006, HLTH RISKS EXP LOW L, P406
+   *RAD EFF RES FDN, 2003, REASS AT BOMB RAD DO, V1
+   *RAD EFF RES FDN, 2003, REASS AT BOMB RAD DO, V2
+   *RAD EFF RES FDN, 1987, US JAP JOINT REASS A, V1
+   *RAD EFF RES FDN, 1987, US JAP JOINT REASS A, V2
+   *UN SCI COMM EFF A, 2001, HER EFF RAD 2001 REP
+NR 32
+TC 7
+Z9 8
+PU RADIATION RESEARCH SOC
+PI LAWRENCE
+PA 810 E TENTH STREET, LAWRENCE, KS 66044 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD OCT
+PY 2008
+VL 170
+IS 4
+BP 451
+EP 457
+DI 10.1667/RR1392.1
+PG 7
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 355CJ
+UT WOS:000259686300006
+ER
+
+PT J
+AU Rose, JA
+   Deaton, RJ
+   Hagiya, M
+   Suyama, A
+AF Rose, John A.
+   Deaton, Russell J.
+   Hagiya, Masami
+   Suyama, Akira
+TI Coupled equilibrium model of hybridization error for the DNA microarray
+   and tag-antitag systems
+SO IEEE TRANSACTIONS ON NANOBIOSCIENCE
+LA English
+DT Article
+DE DNA computing; DNA microarray; hybridization error; nearest-neighbor
+   model; signal to noise ratio; tag-antitag system; universal DNA chip
+ID THERMAL-DENATURATION; COMPUTATION; DESIGN; THERMODYNAMICS; STABILITY;
+   FRAGMENTS; SEQUENCE
+AB In this work, a detailed coupled equilibrium model is presented for predicting the ensemble average probability of hybridization error per chip-hybridized input strand, providing the first ensemble average method for estimating postannealing microarray/TAT system error rates. Following a detailed presentation of the model and implementation via the software package NucleicPark, under a mismatched statistical zipper model of duplex formation, error response is simulated for both mean-energy and randomly encoded TAT systems versus temperature and input concentration. Limiting expressions and simulated model behavior indicate the occurrence of a transition in hybridization error response, from a logarithmically convex function of temperature for excess inputs (high-error behavior), to a monotonic, log-linear function of temperature for dilute inputs (low-error behavior), a novel result unpredicted by uncoupled equilibrium models. Model scaling behavior for random encodings is investigated versus system size and strand-length. Application of the model to TAT system design is also undertaken, via the in silico evolution of a high-fidelity 100-strand TAT system, with an error response improved by nine standard deviations over the performance of the mean random encoding.
+C1 Ritsumeikan Asia Pacific Univ, Inst Informat Commun Technol, Beppu, Oita 8748577, Japan.
+   Japan Sci & Technol Agcy, CREST, Saitama 3320012, Japan.
+   Univ Arkansas, Dept Comp Sci & Comp Engn, Fayetteville, AR 72701 USA.
+   Univ Tokyo, Dept Comp Sci, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1528902, Japan.
+   Univ Tokyo, Dept Life Sci, Tokyo 1528902, Japan.
+RP Rose, JA (reprint author), Ritsumeikan Asia Pacific Univ, Inst Informat Commun Technol, Beppu, Oita 8748577, Japan.
+EM jarose@apu.ac.jp; rdeaton@uark.edu; hagiya@is.s.u-tokyo.ac.jp;
+   suyama@dna.c.u-tokyo.ac.jp
+CR Ben-Dor A, 2000, J COMPUT BIOL, V7, P503, DOI 10.1089/106652700750050916
+   BENIGHT AS, 1981, NATURE, V289, P203, DOI 10.1038/289203a0
+   BENIGHT AS, 1988, J MOL BIOL, V200, P377, DOI 10.1016/0022-2836(88)90248-3
+   Deaton R, 1998, PHYS REV LETT, V80, P417, DOI 10.1103/PhysRevLett.80.417
+   EATON B, 1995, CHEM BIOL, V2, P635
+   Fotin AV, 1998, NUCLEIC ACIDS RES, V26, P1515, DOI 10.1093/nar/26.6.1515
+   Hartemink AJ, 1999, BIOSYSTEMS, V52, P227, DOI 10.1016/S0303-2647(99)00050-7
+   Ke SH, 1996, NUCLEIC ACIDS RES, V24, P707, DOI 10.1093/nar/24.4.707
+   KOZYAVKIN SA, 1987, J BIOMOL STRUCT DYN, V5, P119
+   Liu QH, 2000, NATURE, V403, P175
+   Lockhart DJ, 2000, NATURE, V405, P827, DOI 10.1038/35015701
+   Marathe A, 2001, J COMPUT BIOL, V8, P201, DOI 10.1089/10665270152530818
+   Michalewicz Z., 1996, GENETIC ALGORITHMS D
+   Penchovsky R, 2003, J COMPUT BIOL, V10, P215, DOI 10.1089/106652703321825973
+   PEYRET N, 2004, HYTHER VERSION 1 0 N
+   Press W.H., 1992, NUMERICAL RECIPES C
+   ROSE JA, 2006, NUCL PARK WEB RITSUM
+   Rose John A., 2004, Natural Computing, V3, P443, DOI 10.1007/s11047-004-2641-z
+   ROSE JA, 2005, KES J, V9, P285
+   ROSE JA, P C EV COMP CEC 03, P2740
+   ROSE JA, 2002, P DNA COMPUTING, P302
+   SantaLucia J, 1998, P NATL ACAD SCI USA, V95, P1460, DOI 10.1073/pnas.95.4.1460
+   SantaLucia J, 2004, ANNU REV BIOPH BIOM, V33, P415, DOI 10.1146/annurev.biophys.32.110601.141800
+   Stekel D., 2003, MICROARRAY BIOINFORM
+   SUYAMA A, 2000, CURRENTS COMPUTATION, P12
+   Tulpan D, 2005, NUCLEIC ACIDS RES, V33, P4951, DOI 10.1093/nar/gki773
+   VONHIPPEL PH, 1986, P NATL ACAD SCI USA, V83, P1608
+   WARTELL RM, 1985, PHYS REP, V126, P67, DOI 10.1016/0370-1573(85)90060-2
+   Zhu J, 1999, BIOCHEMISTRY-US, V38, P15986, DOI 10.1021/bi9916372
+   ZUKER M, 1989, MATH METHODS DNA SEQ, P159
+NR 30
+TC 7
+Z9 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 1536-1241
+J9 IEEE T NANOBIOSCI
+JI IEEE Trans. Nanobiosci.
+PD MAR
+PY 2007
+VL 6
+IS 1
+BP 18
+EP 27
+DI 10.1109/TNB.2007.891896
+PG 10
+WC Biochemical Research Methods; Nanoscience & Nanotechnology
+SC Biochemistry & Molecular Biology; Science & Technology - Other Topics
+GA 146OT
+UT WOS:000244944600004
+ER
+
+PT J
+AU Takinoue, M
+   Suyama, A
+AF Takinoue, Masahiro
+   Suyama, Akira
+TI Hairpin-DNA memory using molecular addressing
+SO SMALL
+LA English
+DT Article
+DE DNA; hairpin loops; molecular devices; molecular memory; nanotechnology
+ID GOLD NANOPARTICLE ARRAYS; HYBRIDIZATION; NANOSTRUCTURES; ORGANIZATION;
+   PREDICTION; NANOSCALE; CRYSTALS
+C1 Univ Tokyo, Dept Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Inst Phys, Meguro Ku, Tokyo 1538902, Japan.
+RP Suyama, A (reprint author), Univ Tokyo, Dept Life Sci, Meguro Ku, 3-8-1 Komaba, Tokyo 1538902, Japan.
+EM suyama@dna.c.u-tokyo.ac.jp
+CR Alivisatos AP, 1996, NATURE, V382, P609, DOI 10.1038/382609a0
+   Chen Y, 2004, J AM CHEM SOC, V126, P8626, DOI 10.1021/ja047991r
+   Ding BQ, 2004, J AM CHEM SOC, V126, P10230, DOI 10.1021/ja047486u
+   Keren K, 2003, SCIENCE, V302, P1380, DOI 10.1126/science.1091022
+   Mao CD, 2000, NATURE, V407, P493
+   Mao CD, 1999, NATURE, V397, P144
+   Mathews DH, 1999, J MOL BIOL, V288, P911, DOI 10.1006/jmbi.1999.2700
+   Mirkin CA, 1996, NATURE, V382, P607, DOI 10.1038/382607a0
+   Park SH, 2005, NANO LETT, V5, P729, DOI 10.1021/nl050175c
+   Rosi NL, 2005, CHEM REV, V105, P1547, DOI 10.1021/cr030067f
+   SantaLucia J, 1998, P NATL ACAD SCI USA, V95, P1460, DOI 10.1073/pnas.95.4.1460
+   Seeman NC, 2003, NATURE, V421, P427, DOI 10.1038/nature01406
+   Seeman NC, 2005, REP PROG PHYS, V68, P237, DOI 10.1088/0034-4885/68/1/R05
+   Sharma J., 2006, ANGEW CHEM, V118, P744, DOI 10.1002/ange.200503208
+   Sharma J, 2006, ANGEW CHEM INT EDIT, V45, P730, DOI 10.1002/anie.200503208
+   Shin JS, 2004, J AM CHEM SOC, V126, P10834, DOI 10.1021/ja047543j
+   Shin JS, 2004, NANO LETT, V4, P905, DOI 10.1021/nl049658r
+   Simmel FC, 2005, SMALL, V1, P284, DOI 10.1002/smll.200400111
+   Tyagi S, 1996, NAT BIOTECHNOL, V14, P303, DOI 10.1038/nbt0396-303
+   Williams KA, 2002, NATURE, V420, P761, DOI 10.1038/420761a
+   Winfree E, 1998, NATURE, V394, P539, DOI 10.1038/28998
+   Yan H, 2002, NATURE, V415, P62, DOI 10.1038/415062a
+   Yan H, 2003, P NATL ACAD SCI USA, V100, P8103, DOI 10.1073/pnas.1032954100
+   Yurke B, 2000, NATURE, V406, P605
+   Zhang JP, 2006, NANO LETT, V6, P248, DOI 10.1021/nl052210l
+   Zuker M, 2003, NUCLEIC ACIDS RES, V31, P3406, DOI 10.1093/nar/gkg595
+NR 26
+TC 13
+Z9 13
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA PO BOX 10 11 61, D-69451 WEINHEIM, GERMANY
+SN 1613-6810
+J9 SMALL
+JI Small
+PD NOV
+PY 2006
+VL 2
+IS 11
+BP 1244
+EP 1247
+DI 10.1002/smll.200600237
+PG 4
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 095KW
+UT WOS:000241307600001
+ER
+
+PT J
+AU Murakami, H
+   Mizubayashi, W
+   Yokoi, H
+   Suyama, A
+   Miyazaki, S
+AF Murakami, H
+   Mizubayashi, W
+   Yokoi, H
+   Suyama, A
+   Miyazaki, S
+TI Electrical characterization of aluminum-oxynitride stacked gate
+   dielectrics prepared by a layer-by-layer process of chemical vapor
+   deposition and rapid thermal nitridation
+SO IEICE TRANSACTIONS ON ELECTRONICS
+LA English
+DT Article
+DE high-k dielectrics; aluminum oxide; reliability; MISFET
+ID NONCRYSTALLINE AL2O3; CAPACITANCE; SI(100)
+AB We investigated the use of AlOx:N/SiNy stacked gate dielectric as an alternate gate dielectric, which were prepared by alternately repeating sub-nanometer deposition of Al2O3 from an alkylamine-stabilized AlH3 + N2O gas mixture and rapid thermal nitridation in NH3. The negative fix charges, being characteristics of almina, were as many as 3.9 x 10(12) cm(-2) in the effective net charge density. The effective dielectric constant and the breakdown field were 8.9 and 8 MV/cm, respectively, being almost the same as pure Al2O3. And we have demonstrated that the leakage current through the AlOx:N/SiNy stacked gate dielectric with a capacitance equivalent thickness (CET) of 1.9 nm is about two orders of magnitude less than that of thermally-grown SiO2. Also, we have confirmed the dielectric degradation similar to the stress-induced leakage current (SILC) mode and subsequent soft breakdown (SBD) reported in ultrathin SiO2 under constant current stress and a good dielectric reliability comparable to thermally-grown ultrahin SiO2. From the analysis of n(+)poly-Si gate metal-insulator-semiconductor field effect transistor (MISFET) performance, remote coulomb scattering due to changes in the gate dielectric plays an important role on the mobility degradation of MISFET with AlON/SiON gate stack.
+C1 Hiroshima Univ, Grad Sch Adv Sci & Matters, Higashihiroshima 7398530, Japan.
+RP Murakami, H (reprint author), Hiroshima Univ, Grad Sch Adv Sci & Matters, Higashihiroshima 7398530, Japan.
+EM hideki@hiroshima-u.ac.jp
+CR Buchanan DA, 2000, INTERNATIONAL ELECTRON DEVICES MEETING 2000, TECHNICAL DIGEST, P223, DOI 10.1109/IEDM.2000.904297
+   CARTER RJ, 2001, P INT WORKSH GAT INS, P94
+   Cho HJ, 2002, APPL PHYS LETT, V80, P3177, DOI 10.1063/1.1474603
+   Fukuda M, 1998, JPN J APPL PHYS 2, V37, pL1534, DOI 10.1143/JJAP.37.L1534
+   Hiratani M, 2002, JPN J APPL PHYS 1, V41, P4521, DOI 10.1143/JJAP.41.4521
+   Johnson RS, 2001, J VAC SCI TECHNOL B, V19, P1606, DOI 10.1116/1.1388606
+   Johnson RS, 2001, J VAC SCI TECHNOL A, V19, P1353, DOI 10.1116/1.1379316
+   Lee JH, 2000, INTERNATIONAL ELECTRON DEVICES MEETING 2000, TECHNICAL DIGEST, P645, DOI 10.1109/IEDM.2000.904402
+   Manchanda L, 1998, INTERNATIONAL ELECTRON DEVICES MEETING 1998 - TECHNICAL DIGEST, P605, DOI 10.1109/IEDM.1998.746431
+   Miyazaki S, 2003, APPL SURF SCI, V216, P252, DOI 10.1016/S0169-4332(03)00377-5
+   MIZUBAYASHI W, 2001, S VLSI TECH PAP KYOT, P95
+   Saito S, 2002, IEEE ELECTR DEVICE L, V23, P348, DOI 10.1109/LED.2002.1004231
+   SUYAMA A, 2002, EXT ABST 2002 INT C, P760
+   TORI K, 2001, P INT WORKSH GAT INS, P230
+   Wu EY, 2000, SEMICOND SCI TECH, V15, P425, DOI 10.1088/0268-1242/15/5/301
+   Yang KJ, 1999, IEEE T ELECTRON DEV, V46, P1500, DOI 10.1109/16.772500
+NR 16
+TC 3
+Z9 4
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG MINATO-KU SHIBAKOEN 3 CHOME, TOKYO, 105, JAPAN
+SN 0916-8524
+J9 IEICE T ELECTRON
+JI IEICE Trans. Electron.
+PD APR
+PY 2005
+VL E88C
+IS 4
+BP 640
+EP 645
+DI 10.1093/ietele/c88-c.640
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 916UY
+UT WOS:000228413000026
+ER
+
+PT J
+AU Suyama, A
+   Fukasawa, A
+   Haba, J
+   Iijima, T
+   Iwata, S
+   Sakuda, M
+   Sumiyoshi, T
+   Takasaki, E
+   Tanaka, M
+   Tsuboyama, T
+   Yamada, Y
+AF Suyama, A
+   Fukasawa, A
+   Haba, J
+   Iijima, T
+   Iwata, S
+   Sakuda, M
+   Sumiyoshi, T
+   Takasaki, E
+   Tanaka, M
+   Tsuboyama, T
+   Yamada, Y
+TI Development of a multipixel hybrid photodetector with high quantum
+   efficiency and gain
+SO IEEE TRANSACTIONS ON NUCLEAR SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT Nuclear Science Symposium/Medical Imaging Conference/13th International
+   Workshop on Room-Temperature Semiconductor X-and Gamma-Ray
+   Dectectors/Symposium on Nuclear Power Systems
+CY OCT 19-25, 2003
+CL Portland, OR
+SP IEEE
+DE hybrid photodetetor; HPD; multipixel; photon sensor; single photon
+AB A hybrid photodetector (HPD) consisting of a photocathode and a multipixel avalanche diode (MP-AD) was developed a few years ago. Our previous studies showed that its inherent potential for high resolution photon counting could be further enhanced by reducing fluctuations in charge loss in the dead layer at the entrance of the MP-AD. In this paper, we report on the improvement with the newly developed HPD whose encapsulated MP-AD has a thinner dead layer than before. It is demonstrated that the new HPD has much better energy resolution, which enables clearer counting up to nine photoelectrons. Further enhancement of the photocathode sensitivity of the HPD is also discussed.
+C1 Hamamatsu Photon KK, Elect Tube Ctr, Iwata, Japan.
+   KEK, High Energy Accelerator Res Org, Inst Part & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Nagoya Univ, Dept Phys, Nagoya, Aichi 4648602, Japan.
+   Tokyo Metropolitan Univ, Dept Phys, Tokyo 1920364, Japan.
+RP Suyama, A (reprint author), Hamamatsu Photon KK, Elect Tube Ctr, Iwata, Japan.
+EM suyama@etd.hpk.co-jp; fukasawa@etd.hpk.co.jp; junji.haba@kek.jp;
+   iijima@hepl.phys.nagoya-u.ac.jp; seigi.iwata@kek.jp;
+   makoto.sakuda@kek.jp; sumiyoshi@phys.metro-u.ac.jp;
+   fumihiko.takasaki@kek.jp; manobu.tanaka@kek.jp; toru.tsuboyama@kek.jp;
+   yoshikazu.yamada@kek.jp
+CR Akatsu M, 2000, NUCL INSTRUM METH A, V440, P124, DOI 10.1016/S0168-9002(99)00819-0
+   Albrecht E, 2002, NUCL INSTRUM METH A, V488, P110, DOI 10.1016/S0168-9002(02)00481-3
+   Cushman P, 1997, NUCL INSTRUM METH A, V387, P107, DOI 10.1016/S0168-9002(96)00972-2
+   Damiani C, 2000, NUCL INSTRUM METH A, V442, P136, DOI 10.1016/S0168-9002(99)01211-5
+   Gys T, 2001, NUCL INSTRUM METH A, V465, P240, DOI 10.1016/S0168-9002(01)00400-4
+   Rielage K, 2001, NUCL INSTRUM METH A, V463, P149, DOI 10.1016/S0168-9002(01)00448-X
+   SALVAT F, 2001, NEA NSC DOC, V19, P1
+   SUYAMA M, IN PRESS NUCL INSTRU
+   SUYAMA M, 2003, 200216 KEK, P1
+NR 9
+TC 6
+Z9 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9499
+J9 IEEE T NUCL SCI
+JI IEEE Trans. Nucl. Sci.
+PD JUN
+PY 2004
+VL 51
+IS 3
+BP 1056
+EP 1059
+DI 10.1109/TNS.2004.829657
+PN Part 3
+PG 4
+WC Engineering, Electrical & Electronic; Nuclear Science & Technology
+SC Engineering; Nuclear Science & Technology
+GA 837OI
+UT WOS:000222644400045
+ER
+
+PT J
+AU Omagari, K
+   Yoshimura, H
+   Takano, M
+   Hao, DY
+   Ohmori, M
+   Sarai, A
+   Suyama, A
+AF Omagari, K
+   Yoshimura, H
+   Takano, M
+   Hao, DY
+   Ohmori, M
+   Sarai, A
+   Suyama, A
+TI Systematic single base-pair substitution analysis of DNA binding by the
+   cAMP receptor protein in cyanobacterium Synechocystis sp PCC 6803
+SO FEBS LETTERS
+LA English
+DT Article
+DE protein-DNA interaction; regulatory protein; binding free energy change;
+   systematic base-pair substitution; cAMP receptor protein; cyanobacterium
+ID GENE ACTIVATOR PROTEIN; CYCLIC-AMP; SEQUENCE; RECOGNITION; DETERMINANTS;
+   SPECIFICITY; RESOLUTION; REPRESSOR; COMPLEX; DOMAIN
+AB The cAMP receptor protein SYCRP1 in cyanobacterium Synechoeystis sp. PCC 6803 is a regulatory protein that binds to the consensus DNA sequence (5'-AAATGTGATCTAGATCACATTT-3') for the cAMP receptor protein CRP in Escherichia coli. Here we examined the effects of systematic single base-pair substitutions at positions 4-8 (TGTGA) of the consensus sequence on the specific binding of SYCRP1. The consensus sequence exhibited the highest affinity, and the effects of base-pair substitutions at positions 5 and 7 were the most deleterious. The result is similar to that previously reported for CRP, whereas there were differences between SYCRP1 and CRP in the rank order of affinity for each substitution. (C) 2004 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Life Sci, Tokyo 1538902, Japan.
+   Jilin Univ, Key Lab Mol Enzymol & Engn, Minist Educ, Changchun 130021, Peoples R China.
+   Kyushu Inst Technol, Dept Biochem Engn & Sci, Fukuoka 8208502, Japan.
+RP Suyama, A (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Life Sci, Tokyo 1538902, Japan.
+EM suyama@dna.c.u-tokyo.ac.jp
+CR BERG OG, 1988, J MOL BIOL, V200, P709, DOI 10.1016/0022-2836(88)90482-2
+   BOTSFORD JL, 1992, MICROBIOL REV, V56, P100
+   DONG QP, 1992, J BACTERIOL, V174, P5457
+   EBRIGHT RH, 1989, NUCLEIC ACIDS RES, V17, P10295, DOI 10.1093/nar/17.24.10295
+   GILL SC, 1989, ANAL BIOCHEM, V182, P319, DOI 10.1016/0003-2697(89)90602-7
+   GUNASEKERA A, 1992, J BIOL CHEM, V267, P14713
+   Hao DY, 2002, BIOCHEMISTRY-US, V41, P4202, DOI 10.1021/bi015979v
+   Hao DY, 1998, J BIOL CHEM, V273, P26857, DOI 10.1074/jbc.273.41.26857
+   JANSEN C, 1987, BIOCHEM J, V246, P227
+   Leu SF, 1999, BIOCHEMISTRY-US, V38, P6222, DOI 10.1021/bi982938z
+   Lin SH, 2002, BIOCHEMISTRY-US, V41, P2946, DOI 10.1021/bi0119215
+   Ogata K, 2000, J MOL GRAPH MODEL, V18, P258, DOI 10.1016/S1093-3263(00)00037-1
+   Parkinson G, 1996, J MOL BIOL, V260, P395, DOI 10.1006/jmbi.1996.0409
+   SARAI A, 1989, P NATL ACAD SCI USA, V86, P6513, DOI 10.1073/pnas.86.17.6513
+   TAKEDA Y, 1989, P NATL ACAD SCI USA, V86, P439, DOI 10.1073/pnas.86.2.439
+   TANIKAWA J, 1993, P NATL ACAD SCI USA, V90, P9320, DOI 10.1073/pnas.90.20.9320
+   WEBER IT, 1987, J MOL BIOL, V198, P311, DOI 10.1016/0022-2836(87)90315-9
+   Yoshimura H, 2000, J BIOL CHEM, V275, P6241, DOI 10.1074/jbc.275.9.6241
+   Yoshimura H, 2002, MOL MICROBIOL, V43, P843, DOI 10.1046/j.1365-2958.2002.02790.x
+NR 19
+TC 7
+Z9 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD APR 9
+PY 2004
+VL 563
+IS 1-3
+BP 55
+EP 58
+DI 10.1016/S0014-5793(04)00248-0
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA 811LK
+UT WOS:000220773200011
+ER
+
+PT J
+AU Preston, DL
+   Shimizu, Y
+   Pierce, DA
+   Suyama, A
+   Mabuchi, K
+AF Preston, DL
+   Shimizu, Y
+   Pierce, DA
+   Suyama, A
+   Mabuchi, K
+TI Studies of mortality of atomic bomb survivors. Report 13: Solid cancer
+   and noncancer disease mortality: 1950-1997
+SO RADIATION RESEARCH
+LA English
+DT Article
+ID NUCLEAR INDUSTRY WORKERS; B SURFACE-ANTIGEN; BREAST-CANCER;
+   IONIZING-RADIATION; MYOCARDIAL-INFARCTION; TUBERCULOSIS PATIENTS;
+   FLUOROSCOPY COHORT; HODGKINS-DISEASE; GENERAL MUTAGENS; POOLED ANALYSIS
+AB This continues the series of general reports on mortality in the cohort of atomic bomb survivors followed up by the Radiation Effects Research Foundation. This cohort includes 86,572 people with individual dose estimates, 60% of whom have doses of at least 5 mSv. We consider mortality for solid cancer and for noncancer diseases with 7 additional years of follow-up. There have been 9,335 deaths from solid cancer and 31,881 deaths from noncancer diseases during the 47-year follow-up. Of these, 19% of the solid cancer and 15% of the noncancer deaths occurred during the latest 7 years. We estimate that about 440 (5%) of the solid cancer deaths and 250 (0.8%) of the noncancer deaths were associated with the radiation exposure. The excess solid cancer risks appear to be linear in dose even for doses in the 0 to 150-mSv range. While excess rates for radiation-related cancers increase throughout the study period, a new finding is that relative risks decline with increasing attained age, as well as being highest for those exposed as children as noted previously. A useful representative value is that for those exposed at age 30 the solid cancer risk is elevated by 47% per sievert at age 70. There is no significant city difference in either the relative or absolute excess solid cancer risk. Site-specific analyses highlight the difficulties, and need for caution, in distinguishing between site-specific relative risks. These analyses also provide insight into the difficulties in interpretation and generalization of LSS estimates of age-at-exposure effects. The evidence for radiation effects on noncancer mortality remains strong, with risks elevated by about 14% per sievert during the last 30 years of follow-up. Statistically significant increases are seen for heart disease, stroke, digestive diseases, and respiratory diseases. The noncancer data are consistent with some non-linearity in the dose response owing to the substantial uncertainties in the data. There is no direct evidence of radiation effects for doses less than about 0.5 Sv. While there are no statistically significant variations in noncancer relative risks with age, age at exposure, or sex, the estimated effects are comparable to those seen for cancer. Lifetime risk summaries are used to examine uncertainties of the LSS noncancer disease findings. (C) 2003 by Radiation Research Society.
+C1 Radiat Effects Res Fdn, Dept Stat, Minami Ku, Hiroshima 7320815, Japan.
+   Radiat Effects Res Fdn, Dept Epidemiol, Hiroshima, Japan.
+   Radiat Effects Res Fdn, Dept Epidemiol, Nagasaki, Japan.
+   NCI, Radiat Epidemiol Branch, Div Canc Epidemiol & Genet, Bethesda, MD USA.
+RP Preston, DL (reprint author), Radiat Effects Res Fdn, Dept Stat, Minami Ku, 5-2 Hijiyama Koen, Hiroshima 7320815, Japan.
+CR ALDERSON MR, 1971, BRIT J RADIOL, V44, P295
+   BEEBE GW, 1968, 1268 AT BOMB CAS COM
+   Berrington A, 2001, BRIT J RADIOL, V74, P507
+   BOICE JD, 1991, RADIAT RES, V125, P214, DOI 10.2307/3577890
+   BOIVIN JF, 1992, CANCER, V69, P1241
+   Breslow NE, 1988, IARC SCI PUBLICATION, V83
+   Byhardt R. W., 1994, MOSS RAD ONCOLOGY RA, P307
+   CARDIS E, 1995, RADIAT RES, V142, P117, DOI 10.2307/3579020
+   Carr ZA, 2002, RADIAT RES, V157, P668, DOI 10.1667/0033-7587(2002)157[0668:MNARTF]2.0.CO;2
+   CHOI BCK, 1992, J OCCUP ENVIRON MED, V34, P979
+   Clayton D, 1993, STAT METHODS EPIDEMI
+   Cologne JE, 1999, RADIAT RES, V152, P364, DOI 10.2307/3580221
+   CUZICK J, 1994, J CLIN ONCOL, V12, P447
+   DARBY SC, 1987, BRIT J CANCER, V55, P179, DOI 10.1038/bjc.1987.35
+   DAVIS FG, 1989, CANCER RES, V49, P6130
+   DAVIS FG, 1987, J NATL CANCER I, V78, P645
+   Dupre S. J., 1988, 3 IDSP
+   Early Breast Cancer Trialists' Collaborative Group, 2000, LANCET, V355, P1757
+   Feinberg S. E., 1998, ENCY BIOSTATISTICS
+   FRANCIS TJ, 1959, 3359 AT BOMB CAS COM
+   Fujiwara S, 2000, RADIAT RES, V154, P12, DOI 10.1667/0033-7587(2000)154[0012:POAHCV]2.0.CO;2
+   FUJIWARA S, 2002, 1002 MS RAD RES FDN
+   Fujiwara S, 2003, RADIAT RES, V159, P780, DOI 10.1667/0033-7587(2003)159[0780:POHBVI]2.0.CO;2
+   GRIEM ML, 1994, J NATL CANCER I, V86, P842, DOI 10.1093/jnci/86.11.842
+   HANCOCK SL, 1993, JAMA-J AM MED ASSOC, V270, P1949, DOI 10.1001/jama.270.16.1949
+   Hauptmann M, 2003, AM J EPIDEMIOL, V157, P239, DOI 10.1093/aje/kwf189
+   Hayashi T, 2003, INT J RADIAT BIOL, V79, P129, DOI 10.1080/0955300021000038662
+   HAYBITTLE JL, 1989, BRIT MED J, V298, P1611
+   Heidenreich WF, 1997, RADIAT ENVIRON BIOPH, V36, P45, DOI 10.1007/s004110050054
+   Howe GR, 1996, RADIAT RES, V145, P694, DOI 10.2307/3579360
+   Ivanov VK, 2001, HEALTH PHYS, V81, P514, DOI 10.1097/00004032-200111000-00005
+   Iwasaki T, 2003, RADIAT RES, V159, P228, DOI 10.1667/0033-7587(2003)159[0228:SAOMON]2.0.CO;2
+   Kai M, 1997, RADIAT RES, V148, P348, DOI 10.2307/3579520
+   Kasagi F., 1992, NAGASAKI MED J, V67, P479
+   KATO H, 1983, AM J EPIDEMIOL, V117, P610
+   Kawamura S., 1992, NAGASAKI MED J, V67, P474
+   Kusumi Shizuyo, 1994, RADIAT RES, V137, P68
+   Kusunoki Y, 2001, RADIAT RES, V155, P81, DOI 10.1667/0033-7587(2001)155[0081:TCRTMI]2.0.CO;2
+   LAND CE, 1980, J NATL CANCER I, V65, P353
+   Little MP, 1999, RADIAT RES, V151, P218, DOI 10.2307/3579773
+   MATANOSKI GM, 1975, AM J EPIDEMIOL, V101, P199
+   Moolgavkar S. H., 2000, RADIAT RES, V154, P730
+   Moolgavkar SH, 2000, RADIAT RES, V154, P728
+   Muirhead C. R., 1999, Journal of Radiological Protection, V19, P3, DOI 10.1088/0952-4746/19/1/002
+   NAGATAKI S, 1994, JAMA-J AM MED ASSOC, V272, P364, DOI 10.1001/jama.272.5.364
+   National Research Council Committee on the Biological Effects of Radiation, 1990, EFF POP EXP LOW LEV
+   Neriishi K, 2001, INT J RADIAT BIOL, V77, P475
+   NERIISHI K, 1995, RADIAT RES, V144, P215, DOI 10.2307/3579261
+   Paszat LF, 1999, INT J RADIAT ONCOL, V43, P755, DOI 10.1016/S0360-3016(98)00412-X
+   Paszat LF, 1998, J CLIN ONCOL, V16, P2625
+   Pierce Donald A., 2002, Journal of Radiological Protection, V22, pA147, DOI 10.1088/0952-4746/22/3A/326
+   PIERCE DA, 1990, RADIAT RES, V123, P275, DOI 10.2307/3577733
+   Pierce DA, 2000, RADIAT RES, V154, P178, DOI 10.1667/0033-7587(2000)154[0178:RRCRAL]2.0.CO;2
+   Pierce DA, 1996, RADIAT RES, V146, P1, DOI 10.2307/3579391
+   Pierce DA, 2000, RADIAT RES, V154, P727
+   Pierce DA, 2003, BIOSTATISTICS, V4, P231, DOI 10.1093/biostatistics/4.2.231
+   Pierce DA, 2000, RADIAT RES, V154, P730
+   Pierce DA, 2003, RADIAT RES, V159, P511, DOI 10.1667/0033-7587(2003)159[0511:JEORAS]2.0.CO;2
+   PIERCE DA, 1993, RADIAT RES, V134, P134, DOI 10.2307/3578452
+   Preston DL, 1993, EPICURE USERS GUIDE
+   Preston DL, 2002, RADIAT RES, V158, P220, DOI 10.1667/0033-7587(2002)158[0220:REOBCR]2.0.CO;2
+   Richardson DB, 2001, OCCUP MED-STATE ART, V16, P191
+   RON E, 1995, RADIAT RES, V141, P259, DOI 10.2307/3579003
+   RUTQVIST LE, 1990, BRIT J CANCER, V61, P866, DOI 10.1038/bjc.1990.193
+   Sasaki H, 2002, J CLIN EPIDEMIOL, V55, P974, DOI 10.1016/S0895-4356(02)00439-0
+   Shimizu Y, 1999, RADIAT RES, V152, P374, DOI 10.2307/3580222
+   Shimizu Yukiko, 1996, World Health Statistics Quarterly, V49, P35
+   SHIZUMA K, 1993, HEALTH PHYS, V65, P272, DOI 10.1097/00004032-199309000-00004
+   Sinclair W. K., 2001, STATUS DOSIMETRY RAD
+   SMITH PG, 1976, BRIT J RADIOL, V49, P224
+   Sposto R., 1992, 192 CR RAD EFF RES F
+   Stewart A, 1997, ENVIRON HEALTH PERSP, V105, P1519, DOI 10.2307/3433663
+   Stewart AM, 2000, INT J EPIDEMIOL, V29, P708, DOI 10.1093/ije/29.4.708
+   STEWART AM, 1990, AM J IND MED, V17, P151, DOI 10.1002/ajim.4700170201
+   STEWART JR, 1989, FRONT RADIAT THER ON, V23, P302
+   STEWART JR, 1971, RADIOL CLIN N AM, V9, P511
+   STRANDBERG TE, 1992, CIRCULATION, V86, P63
+   THOMAS D, 1992, HEALTH PHYS, V63, P259, DOI 10.1097/00004032-199209000-00001
+   Thompson D., 1994, RAD RES S, V137, P17
+   TOKUNAGA M, 1994, RADIAT RES, V138, P209, DOI 10.2307/3578591
+   UNSCEAR, 2000, SOURC EFF ION RAD, VII
+   UNSCEAR, 1994, SOURC EFF ION RAD
+   Wong FL, 1999, RADIAT RES, V151, P736, DOI 10.2307/3580213
+   WONG FL, 1993, RADIAT RES, V135, P418, DOI 10.2307/3578884
+   [Anonymous], 1977, INT CLASS DIS MAN ST, V1
+   *INT UN CANC INT A, 1993, IARC SCI PUBL, V121
+   *NAT RES COUNC COM, 1998, HLTH EFF EXP IND RAN
+NR 87
+TC 487
+Z9 507
+PU RADIATION RESEARCH SOC
+PI OAK BROOK
+PA 820 JORIE BOULEVARD, OAK BROOK, IL 60523 USA
+SN 0033-7587
+J9 RADIAT RES
+JI Radiat. Res.
+PD OCT
+PY 2003
+VL 160
+IS 4
+BP 381
+EP 407
+DI 10.1667/RR3049
+PG 27
+WC Biology; Biophysics; Radiology, Nuclear Medicine & Medical Imaging
+SC Life Sciences & Biomedicine - Other Topics; Biophysics; Radiology,
+   Nuclear Medicine & Medical Imaging
+GA 723GL
+UT WOS:000185424300001
+ER
+
+PT J
+AU Miyazaki, S
+   Narasaki, M
+   Suyama, A
+   Yamaoka, M
+   Murakami, H
+AF Miyazaki, S
+   Narasaki, M
+   Suyama, A
+   Yamaoka, M
+   Murakami, H
+TI Electronic structure and energy band offsets for ultrathin silicon
+   nitride on Si(100)
+SO APPLIED SURFACE SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 4th International Symposium on the Control of Semiconductor Interfaces
+CY OCT 21-25, 2002
+CL KARUIZAWA, JAPAN
+DE silicon nitride; band offset; energy band gap; photoelectron
+   spectroscopy; defect density
+ID PHOTOELECTRON YIELD SPECTROSCOPY; SIO2/SI INTERFACES; PHOTOEMISSION;
+   STATES; FILMS
+AB For the interfaces of CVD Si3N4 on Si(1 0 0) and directly-nitrided Si(I 0 0), chemical bonding features, energy band offsets and defect state density distributions have been studied using high-resolution X-ray photoelectron spectroscopy and total photoelectron yield spectroscopy. At nitride-Si(I 0 0) interfaces, Si-N bonding states in which each Si atom is bonded with one or three N atoms are formed predominantly, being presumably related to the structural strain induced by Si-N bonding at the interface. For nearly stoichiometric SiNx (x greater than or equal to 1.3) in the thickness range of 1.0-17 nm which was prepared by 750 degreesC CVD or 700 degreesC direct-nitridation, the energy band gap was determined to be 5.4 +/- 0.1 eV from the energy loss spectra of N Is photoelectrons. By analyzing the valence band spectra of thin SiNx/Si(1 0 0) heterostructures, the valence band offset between such SiNx and Si(1 0 0) was obtained to be 1.9 +/- 0.1 eV. For the direct-nitridation of Si(1 0 0) at 600 or 700 degreesC, an interface state density as low as similar to 10(10) eV(-1) cm(-2) near Si midgap was confirmed by total photoelectron yield measurements. (C) 2003 Elsevier Science B.V. All rights reserved.
+C1 Hiroshima Univ, Grad Sch Adv Sci Matter, Higashihiroshima 7398530, Japan.
+RP Miyazaki, S (reprint author), Hiroshima Univ, Grad Sch Adv Sci Matter, Kagamiyama 1-3-1, Higashihiroshima 7398530, Japan.
+CR Choi R, 2001, 2001 SYMPOSIUM ON VLSI TECHNOLOGY, DIGEST OF TECHNICAL PAPERS, P15
+   DIMARIA DJ, 1975, APPL PHYS LETT, V26, P711, DOI 10.1063/1.88046
+   GOODMAN AM, 1968, APPL PHYS LETT, V13, P275, DOI 10.1063/1.1652607
+   GRITSENKO VA, 1988, SILICON NITRIDE ELEC, pCH6
+   Keister JW, 1999, J VAC SCI TECHNOL B, V17, P1831, DOI 10.1116/1.590834
+   Miyazaki S, 2001, J VAC SCI TECHNOL B, V19, P2212, DOI 10.1116/1.1418405
+   Miyazaki S, 1999, MAT SCI SEMICON PROC, V2, P185, DOI 10.1016/S1369-8001(99)00013-X
+   Miyazaki S, 2001, MICROELECTRON ENG, V59, P373, DOI 10.1016/S0167-9317(01)00671-2
+   Miyazaki S, 2002, APPL SURF SCI, V190, P66, DOI 10.1016/S0169-4332(01)00841-8
+   Miyazaki S, 1997, APPL SURF SCI, V113, P585, DOI 10.1016/S0169-4332(96)00805-7
+   Miyazaki S, 1999, MICROELECTRON ENG, V48, P63, DOI 10.1016/S0167-9317(99)00339-1
+   Robertson J, 2000, J VAC SCI TECHNOL B, V18, P1785, DOI 10.1116/1.591472
+   YAMAOKA M, 2002, IN PRESS P 2 ECS INT
+NR 13
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-4332
+J9 APPL SURF SCI
+JI Appl. Surf. Sci.
+PD JUN 30
+PY 2003
+VL 216
+IS 1-4
+BP 252
+EP 257
+DI 10.1016/S0169-4332(03)00377-5
+PG 6
+WC Chemistry, Physical; Materials Science, Coatings & Films; Physics,
+   Applied; Physics, Condensed Matter
+SC Chemistry; Materials Science; Physics
+GA 699XJ
+UT WOS:000184081800043
+ER
+
+PT J
+AU Takano, M
+   Nakamura, HK
+   Nagayama, K
+   Suyama, A
+AF Takano, M
+   Nakamura, HK
+   Nagayama, K
+   Suyama, A
+TI Investigating a link between all-atom model simulation and the
+   Ising-based theory on the helix-coil transition. II. Nonstationary
+   properties
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MOLECULAR-DYNAMICS SIMULATIONS; MINIMALIST PROTEIN LANDSCAPES;
+   ALANINE-BASED PEPTIDES; ENERGY LANDSCAPES; ALPHA-HELIX; FOLDING
+   MECHANISMS; STRANGE KINETICS; RELAXATION; WATER; POLYALANINE
+AB The all-atom and the Ising-based models have both played their own roles to help our understanding of helix-coil transition. In this study, we address to what degree these two theoretical models can be consistent with each other in the nonstationary regime, complementing the preceding equilibrium study. We conducted molecular dynamics simulations of an all-atom model polyalanine chain and Monte Carlo simulations of a corresponding kinetic Ising chain. Nonstationary properties of each model were characterized through power spectrum, Allan variance, and autocorrelation analyses regarding the time course of a system order parameter. A clear difference was indicated between the two models: the Ising-based model showed a Lorentzian spectrum in the frequency domain and a single exponential form in the time domain, whereas the all-atom model showed a 1/f spectrum and a stretched exponential form. The observed stretched exponential form is in agreement with a very recent T-jump experiment. The effect of viscous damping on helix-coil dynamics was also studied. A possible source of the observed difference between the two models is discussed by considering the potential energy landscape, and the idea of dynamical disorder was introduced into the original Glauber model in the hope of bridging the gap between the two models. Other possible sources, e. g., the limitations of the Ising framework and the validity of the Markovian dynamics assumption, are also discussed. (C) 2003 American Institute of Physics.
+C1 Univ Tokyo, Dept Life Sci, Inst Phys, Grad Sch Arts & Sci,Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, ACT JST, JST, Meguro Ku, Tokyo 1538902, Japan.
+   Okazaki Natl Res Inst, Ctr Integrat Biosci, Natl Inst Physiol Sci, Okazaki, Aichi 4448585, Japan.
+RP Takano, M (reprint author), Univ Tokyo, Dept Life Sci, Inst Phys, Grad Sch Arts & Sci,Meguro Ku, Tokyo 1538902, Japan.
+CR ALLAN DW, 1966, PR INST ELECTR ELECT, V54, P221, DOI 10.1109/PROC.1966.4634
+   BAHAR I, 1994, MACROMOLECULES, V27, P5200, DOI 10.1021/ma00096a051
+   Bertsch RA, 1998, PROTEINS, V33, P343, DOI 10.1002/(SICI)1097-0134(19981115)33:3<343::AID-PROT4>3.0.CO;2-B
+   Brey JJ, 1996, PHYS REV E, V53, P458, DOI 10.1103/PhysRevE.53.458
+   BRYNGELSON JD, 1989, J PHYS CHEM-US, V93, P6902, DOI 10.1021/j100356a007
+   BUDIMIR J, 1985, J CHEM PHYS, V82, P5232, DOI 10.1063/1.448647
+   Cantor C. R., 1980, BIOPHYSICAL CHEM 3
+   Carlini P, 2002, PHYSICA D, V165, P242, DOI 10.1016/S0167-2789(02)00426-8
+   CRAIG ME, 1968, BIOPOLYMERS, V6, P385, DOI 10.1002/bip.1968.360060310
+   DAGGETT V, 1992, J MOL BIOL, V223, P1121, DOI 10.1016/0022-2836(92)90264-K
+   DAGGETT V, 1991, BIOPOLYMERS, V31, P1115, DOI 10.1002/bip.360310911
+   DICAPUA FM, 1991, J AM CHEM SOC, V113, P6145, DOI 10.1021/ja00016a034
+   Doruker P, 1997, BIOPHYS J, V72, P2445
+   Eaton WA, 1999, P NATL ACAD SCI USA, V96, P5897, DOI 10.1073/pnas.96.11.5897
+   Ferrara P, 2000, J PHYS CHEM B, V104, P5000, DOI 10.1021/jp994157t
+   Frauenfelder H, 1999, REV MOD PHYS, V71, pS419, DOI 10.1103/RevModPhys.71.S419
+   FRAUENFELDER H, 1991, SCIENCE, V254, P1598, DOI 10.1126/science.1749933
+   FREDRICKSON GH, 1985, J CHEM PHYS, V83, P5822, DOI 10.1063/1.449662
+   GLAUBER RJ, 1963, J MATH PHYS, V4, P294, DOI 10.1063/1.1703954
+   GO N, 1967, J PHYS SOC JPN, V22, P416
+   GRUENEWALD B, 1979, BIOPHYS CHEM, V9, P137, DOI 10.1016/0301-4622(79)87008-8
+   Hagen SJ, 1996, J CHEM PHYS, V104, P3395, DOI 10.1063/1.471044
+   Hiltpold A, 2000, J PHYS CHEM B, V104, P10080, DOI 10.1021/jp002207k
+   Huang CY, 2002, P NATL ACAD SCI USA, V99, P2788, DOI 10.1073/pnas.052700099
+   Hummer G, 2000, PHYS REV LETT, V85, P2637, DOI 10.1103/PhysRevLett.85.2637
+   Huo SH, 1999, PROTEINS, V36, P249, DOI 10.1002/(SICI)1097-0134(19990801)36:2<249::AID-PROT10>3.0.CO;2-1
+   Kawasaki K, 1998, J NON-CRYST SOLIDS, V235, P57, DOI 10.1016/S0022-3093(98)00499-2
+   Klimov DK, 1997, PHYS REV LETT, V79, P317, DOI 10.1103/PhysRevLett.79.317
+   Komatsuzaki T, 2001, P NATL ACAD SCI USA, V98, P7666, DOI 10.1073/pnas.131627698
+   Kramers HA, 1940, PHYSICA, V7, P284, DOI 10.1016/S0031-8914(40)90098-2
+   LACOMBE RH, 1974, J CHEM PHYS, V61, P1899, DOI 10.1063/1.1682190
+   Lednev IK, 2001, J AM CHEM SOC, V123, P2388, DOI 10.1021/ja003381p
+   Lednev IK, 1999, J AM CHEM SOC, V121, P8074, DOI 10.1021/ja991382f
+   Leeson DT, 2000, P NATL ACAD SCI USA, V97, P2527, DOI 10.1073/pnas.040580397
+   Levy Y, 2001, P NATL ACAD SCI USA, V98, P2188, DOI 10.1073/pnas.041611998
+   MARQUSEE S, 1989, P NATL ACAD SCI USA, V86, P5286, DOI 10.1073/pnas.86.14.5286
+   Matsunaga Y, 2002, J PHYS CHEM A, V106, P10898, DOI 10.1021/jp025773j
+   MORIKAMI K, 1992, COMPUT CHEM, V16, P243, DOI 10.1016/0097-8485(92)80010-W
+   Mortenson PN, 2002, J CHEM PHYS, V117, P1363, DOI 10.1063/1.1484389
+   Munoz V, 2001, CURR OPIN STRUC BIOL, V11, P212, DOI 10.1016/S0959-440X(00)00192-5
+   Nakamura HK, 2001, CHEM PHYS LETT, V347, P247, DOI 10.1016/S0009-2614(01)01015-6
+   Nymeyer H, 1998, P NATL ACAD SCI USA, V95, P5921, DOI 10.1073/pnas.95.11.5921
+   Okabe T, 1998, CHAOS SOLITON FRACT, V9, P1755, DOI 10.1016/S0960-0779(98)00003-4
+   PALMER RG, 1984, PHYS REV LETT, V53, P958, DOI 10.1103/PhysRevLett.53.958
+   Plotkin SS, 1998, PHYS REV LETT, V80, P5015, DOI 10.1103/PhysRevLett.80.5015
+   Poland D., 1970, THEORY HELIX COIL TR
+   POLAND D, 1966, J CHEM PHYS, V45, P2071, DOI 10.1063/1.1727893
+   POLAND D, 1990, J STAT PHYS, V59, P935, DOI 10.1007/BF01025857
+   Press W. H., 1999, NUMERICAL RECIPES FO
+   Sabelko J, 1999, P NATL ACAD SCI USA, V96, P6031, DOI 10.1073/pnas.96.11.6031
+   SASAI M, 1992, J CHEM PHYS, V96, P3045, DOI 10.1063/1.461950
+   SCHWARZ G, 1965, J MOL BIOL, V11, P64
+   SCHWARZ G, 1972, J THEOR BIOL, V36, P569, DOI 10.1016/0022-5193(72)90009-4
+   SCHWARZ M, 1976, J CHEM PHYS, V65, P2620, DOI 10.1063/1.433460
+   Shirley WA, 1997, PROTEINS, V28, P59, DOI 10.1002/(SICI)1097-0134(199705)28:1<59::AID-PROT6>3.0.CO;2-E
+   SHLESINGER MF, 1984, P NATL ACAD SCI USA, V81, P1280, DOI 10.1073/pnas.81.4.1280
+   SILBERBE.A, 1972, MACROMOLECULES, V5, P332, DOI 10.1021/ma60027a023
+   Skorobogatiy M, 1998, J CHEM PHYS, V109, P2528, DOI 10.1063/1.476825
+   Socci ND, 1998, PROTEINS, V32, P136, DOI 10.1002/(SICI)1097-0134(19980801)32:2<136::AID-PROT2>3.0.CO;2-J
+   STEITZ TA, 1990, Q REV BIOPHYS, V23, P203
+   STILLINGER FH, 1983, PHYS REV A, V28, P2408, DOI 10.1103/PhysRevA.28.2408
+   Sung SS, 1996, PROTEINS, V25, P202, DOI 10.1002/(SICI)1097-0134(199606)25:2<202::AID-PROT6>3.0.CO;2-J
+   Takada S, 1999, P NATL ACAD SCI USA, V96, P11698, DOI 10.1073/pnas.96.21.11698
+   Takano M, 1999, J AM CHEM SOC, V121, P605, DOI 10.1021/ja982919c
+   Takano M, 1998, PHYS REV LETT, V80, P5691, DOI 10.1103/PhysRevLett.80.5691
+   Takano M, 2002, J CHEM PHYS, V116, P2219, DOI 10.1063/1.1431580
+   Takano M, 2002, J BIOL PHYS, V28, P155, DOI 10.1023/A:1019938505594
+   TANAKA K, 1993, PROG THEOR PHYS, V90, P547, DOI 10.1143/PTP.90.547
+   TANAKA T, 1973, J CHEM PHYS, V59, P3799, DOI 10.1063/1.1680553
+   Thompson PA, 2000, J PHYS CHEM B, V104, P378, DOI 10.1021/jp990292u
+   Thompson PA, 1997, BIOCHEMISTRY-US, V36, P9200, DOI 10.1021/bi9704764
+   TURQ P, 1977, J CHEM PHYS, V66, P3039, DOI 10.1063/1.434317
+   WEINER SJ, 1986, J COMPUT CHEM, V7, P230, DOI 10.1002/jcc.540070216
+   Williams S, 1996, BIOCHEMISTRY-US, V35, P691, DOI 10.1021/bi952217p
+   Witt TJ, 2001, IEEE T INSTRUM MEAS, V50, P445, DOI 10.1109/19.918162
+   WOLYNES PG, 1988, P INT S FRONT SCI, P39
+   Yang WY, 2000, J AM CHEM SOC, V122, P3248, DOI 10.1021/ja993343+
+   ZANA R, 1975, BIOPOLYMERS, V14, P2425, DOI 10.1002/bip.1975.360141116
+   ZWANZIG R, 1992, J CHEM PHYS, V97, P3587, DOI 10.1063/1.462993
+NR 79
+TC 7
+Z9 7
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JUN 8
+PY 2003
+VL 118
+IS 22
+BP 10312
+EP 10322
+DI 10.1063/1.1571816
+PG 11
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 680TC
+UT WOS:000182993800043
+ER
+
+PT J
+AU Takano, M
+   Nagayama, K
+   Suyama, A
+AF Takano, M
+   Nagayama, K
+   Suyama, A
+TI Investigating a link between all-atom model simulation and the
+   Ising-based theory on the helix-coil transition: Equilibrium statistical
+   mechanics
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MOLECULAR-DYNAMICS SIMULATIONS; PEPTIDE; KINETICS; POLYPEPTIDE;
+   PROTEINS; THERMODYNAMICS; FLUCTUATION; ALGORITHMS; CHAINS
+AB To describe the polypeptide helix-coil transition, while the Ising-based theory has been playing the principal role for 40 years, we can now make use of computer simulation using the so-called "all-atom model" that is far more precise than the Ising-based model. In this study, by conducting molecular dynamics (MD) simulations of helix-coil transition exhibited by a short polyalanine chain, we investigated how the MD simulation results and the Ising-based theoretical values coincide with each other, placing a focus on their equilibrium statistical mechanical properties. Several important physical properties, such as temperature-dependent helix ratio, distribution of the helix-residue number, position-dependent helix ratio, and pair-correlation between residue states were taken up as the proving grounds on which we made a comparison between the all-atom model simulation and the Ising-based theory. As an overall trend, we realized that the Ising-based theoretical results agreed with the all-atom simulation results at least qualitatively, suggesting that the Ising-based model, though very simple, extracts the essence of the phenomenon with respect to the equilibrium properties. On the other hand we found some quantitative disagreements between them. The origins of the observed disagreements are discussed by going into details of the all-atom model. (C) 2002 American Institute of Physics.
+C1 Univ Tokyo, Dept Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Meguro Ku, Tokyo 1538902, Japan.
+   Natl Inst Physiol Sci, Okazaki, Aichi 4448585, Japan.
+RP Takano, M (reprint author), Univ Tokyo, Dept Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+CR Alves NA, 2000, PHYS REV LETT, V84, P1836, DOI 10.1103/PhysRevLett.84.1836
+   APPLEQUIST J, 1963, J CHEM PHYS, V38, P934, DOI 10.1063/1.1733787
+   BROOKS BR, 1989, CHEM SCRIPTA, V29A, P165
+   DAGGETT V, 1991, BIOPOLYMERS, V31, P1115, DOI 10.1002/bip.360310911
+   Daura X, 1998, J MOL BIOL, V280, P925, DOI 10.1006/jmbi.1998.1885
+   DOTY P, 1956, J AM CHEM SOC, V78, P498, DOI 10.1021/ja01583a070
+   DOTY P, 1957, J POLYM SCI, V23, P851, DOI 10.1002/pol.1957.1202310429
+   DOTY P, 1954, J AM CHEM SOC, V76, P4493, DOI 10.1021/ja01646a079
+   Ferrara P, 2000, J PHYS CHEM B, V104, P5000, DOI 10.1021/jp994157t
+   GIBBS JH, 1959, J CHEM PHYS, V30, P271, DOI 10.1063/1.1729886
+   GLAUBER RJ, 1963, J MATH PHYS, V4, P294, DOI 10.1063/1.1703954
+   Go M, 1970, J Chem Phys, V52, P2060
+   GO N, 1968, P NATL ACAD SCI USA, V59, P1030, DOI 10.1073/pnas.59.4.1030
+   Hansmann UHE, 1999, J CHEM PHYS, V110, P1267, DOI 10.1063/1.478169
+   Hardin C, 1999, PROTEINS, V34, P281, DOI 10.1002/(SICI)1097-0134(19990215)34:3<281::AID-PROT2>3.3.CO;2-U
+   HILL TL, 1957, J POLYM SCI, V23, P549, DOI 10.1002/pol.1957.1202310403
+   Ising E, 1925, Z PHYS, V31, P253, DOI 10.1007/BF02980577
+   Jang S, 1997, J CHEM PHYS, V107, P9514, DOI 10.1063/1.475247
+   Kemp JP, 1998, PHYS REV LETT, V81, P3880, DOI 10.1103/PhysRevLett.81.3880
+   Kemp JP, 2000, EUR PHYS J B, V15, P371, DOI 10.1007/s100510051138
+   Klimov DK, 1997, PHYS REV LETT, V79, P317, DOI 10.1103/PhysRevLett.79.317
+   Kramers HA, 1941, PHYS REV, V60, P252, DOI 10.1103/PhysRev.60.252
+   Lednev IK, 2001, J AM CHEM SOC, V123, P2388, DOI 10.1021/ja003381p
+   Lednev IK, 1999, J AM CHEM SOC, V121, P8074, DOI 10.1021/ja991382f
+   LIFSON S, 1961, J CHEM PHYS, V34, P37
+   MARQUSEE S, 1989, P NATL ACAD SCI USA, V86, P5286, DOI 10.1073/pnas.86.14.5286
+   MARTYNA GJ, 1992, J CHEM PHYS, V97, P2635, DOI 10.1063/1.463940
+   MCCAMMON JA, 1980, BIOPOLYMERS, V19, P2033, DOI 10.1002/bip.1980.360191108
+   MIYAKE A, 1960, J POLYM SCI, V46, P169, DOI 10.1002/pol.1960.1204614715
+   MORIKAMI K, 1992, COMPUT CHEM, V16, P243, DOI 10.1016/0097-8485(92)80010-W
+   Nagai K., 1960, Journal of the Physical Society of Japan, V15, DOI 10.1143/JPSJ.15.407
+   OKAMOTO Y, 1995, J PHYS CHEM-US, V99, P11276, DOI 10.1021/j100028a031
+   PAULING L, 1951, P NATL ACAD SCI USA, V37, P205, DOI 10.1073/pnas.37.4.205
+   PELLER L, 1959, J PHYS CHEM-US, V63, P1194, DOI 10.1021/j150577a044
+   Poland D, 1996, J CHEM PHYS, V105, P1242, DOI 10.1063/1.471965
+   Poland D., 1970, THEORY HELIX COIL TR
+   POLAND D, 1966, J CHEM PHYS, V45, P1456, DOI 10.1063/1.1727785
+   Press W. H., 1999, NUMERICAL RECIPES FO
+   QIAN H, 1992, J PHYS CHEM-US, V96, P3987, DOI 10.1021/j100189a015
+   RICE SA, 1958, DISCUSS FARADAY SOC, P130
+   Schellman J. A., 1958, J PHYS CHEM-US, V62, P1485, DOI 10.1021/j150570a005
+   Schulz G. E., 1979, PRINCIPLES PROTEIN S
+   SCHWARZ G, 1968, BIOPOLYMERS, V6, P873, DOI 10.1002/bip.1968.360060610
+   Smith AV, 2001, PROTEINS, V44, P344
+   Stanley H.E., 1971, INTRO PHASE TRANSITI
+   Sung SS, 1996, PROTEINS, V25, P202, DOI 10.1002/(SICI)1097-0134(199606)25:2<202::AID-PROT6>3.0.CO;2-J
+   Takada S, 1999, J CHEM PHYS, V110, P11616, DOI 10.1063/1.479101
+   TAKANO M, UNPUB J BIOL PHYS
+   Takano M, 1999, J AM CHEM SOC, V121, P605, DOI 10.1021/ja982919c
+   Takano M, 1998, PHYS REV LETT, V80, P5691, DOI 10.1103/PhysRevLett.80.5691
+   TAKANO M, UNPUB
+   TANAKA T, 1973, J CHEM PHYS, V59, P3799, DOI 10.1063/1.1680553
+   Thompson PA, 2000, J PHYS CHEM B, V104, P378, DOI 10.1021/jp990292u
+   Thompson PA, 1997, BIOCHEMISTRY-US, V36, P9200, DOI 10.1021/bi9704764
+   van Gunsteren WF, 2001, ANGEW CHEM INT EDIT, V40, P351, DOI 10.1002/1521-3773(20010119)40:2<351::AID-ANIE351>3.3.CO;2-Y
+   WEINER SJ, 1986, J COMPUT CHEM, V7, P230, DOI 10.1002/jcc.540070216
+   Williams S, 1996, BIOCHEMISTRY-US, V35, P691, DOI 10.1021/bi952217p
+   Young WS, 1996, J MOL BIOL, V259, P560, DOI 10.1006/jmbi.1996.0339
+   ZIMM BH, 1959, P NATL ACAD SCI USA, V45, P1601, DOI 10.1073/pnas.45.11.1601
+   ZIMM BH, 1959, J CHEM PHYS, V31, P526, DOI 10.1063/1.1730390
+NR 60
+TC 19
+Z9 19
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD FEB 1
+PY 2002
+VL 116
+IS 5
+BP 2219
+EP 2228
+DI 10.1063/1.1431580
+PG 10
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 514CG
+UT WOS:000173418600051
+ER
+
+PT J
+AU Rose, JA
+   Deaton, RJ
+   Hagiya, M
+   Suyama, A
+AF Rose, JA
+   Deaton, RJ
+   Hagiya, M
+   Suyama, A
+TI Equilibrium analysis of the efficiency of an autonomous molecular
+   computer
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID PEPTIDE NUCLEIC-ACIDS; DOUBLE-STRANDED DNA; KINETICS; BINDING;
+   POLYAMIDE; PNAS
+AB In the whiplash polymerase chain reaction (WPCR), autonomous molecular computation is implemented in vitro by the recursive. self-directed polymerase extension of a mixture of DNA hairpins. Although computational efficiency is known to be reduced by a tendency for DNAs to self-inhibit by backhybridization, both the magnitude of this effect and its dependence on the reaction conditions have remained open questions. In this paper, the impact of backhybridization on WPCR efficiency is addressed by modeling the recursive extension of each strand as a Markov chain. The extension efficiency per effective polymerase-DNA encounter is then estimated within the framework of a statistical thermodynamic model. Model predictions are shown to provide close agreement with the premature halting of computation reported in a recent in vitro WPCR implementation, a particularly significant result. given that backhybridization had been discounted as the dominant error process. The scaling behavior further indicates completion times to be sufficiently long to render WPCR-based massive parallelism infeasible. A modified architecture. PNA-mediated WPCR (PWPCR) is then proposed in which the occupancy of backhybridized hairpins is reduced by targeted PNA(2)/DNA triplex formation. The efficiency of PWPCR is discussed using a modified form of the model developed for WPCR. Predictions indicate the PWPCR efficiency is sufficient to allow the implementation of autonomous molecular computation on a massive scale.
+C1 Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   Univ Arkansas, Dept Comp Sci & Comp Engn, Fayetteville, AR 72701 USA.
+   Univ Tokyo, Dept Comp Sci, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+RP Rose, JA (reprint author), Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+EM johnrose@genta.c.u-tokyo.ac.jp; rdeaton@uark.edu;
+   hagiya@is.s.u-tokyo.ac.jp; suyama@dna.c.u-tokyo.ac.jp
+CR Abramowitz M., 1972, HDB MATH FUNCTIONS, P16
+   ADLEMAN LM, 1994, SCIENCE, V266, P1021, DOI 10.1126/science.7973651
+   ALMARSSON O, 1993, P NATL ACAD SCI USA, V90, P7518, DOI 10.1073/pnas.90.16.7518
+   BENIGHT AS, 1988, J MOL BIOL, V200, P377, DOI 10.1016/0022-2836(88)90248-3
+   BETTS L, 1995, SCIENCE, V270, P1838, DOI 10.1126/science.270.5243.1838
+   Bonnet G, 1998, P NATL ACAD SCI USA, V95, P8602, DOI 10.1073/pnas.95.15.8602
+   Bovet D., 1994, INTRO THEORY COMPLEX
+   CHERNY DY, 1993, P NATL ACAD SCI USA, V90, P1667, DOI 10.1073/pnas.90.5.1667
+   CONDON A, 2001, DNA COMPUTING
+   DEMIDOV VV, 1995, P NATL ACAD SCI USA, V92, P2637, DOI 10.1073/pnas.92.7.2637
+   FIXMAN M, 1977, BIOPOLYMERS, V16, P2693, DOI 10.1002/bip.1977.360161209
+   GRIFFITH MC, 1995, J AM CHEM SOC, V117, P831, DOI 10.1021/ja00107a033
+   HAGIYA M, 1999, DNA BASED COMPUTERS, V3, P57
+   INNIS MA, 1988, P NATL ACAD SCI USA, V85, P9436, DOI 10.1073/pnas.85.24.9436
+   KIM SK, 1993, J AM CHEM SOC, V115, P6477, DOI 10.1021/ja00068a001
+   KOMIYA K, 2001, DNA COMPUTING, P19
+   Kosaganov YN, 2000, BIOCHEMISTRY-US, V39, P11742, DOI 10.1021/bi0006417
+   Kuhn H, 1998, NUCLEIC ACIDS RES, V26, P582, DOI 10.1093/nar/26.2.582
+   LIPTON RJ, 1995, SCIENCE, V268, P542, DOI 10.1126/science.7725098
+   Lomakin A, 1998, J MOL BIOL, V276, P57, DOI 10.1006/jmbi.1997.1497
+   Rose J.A., 2001, DNA Computing. 6th International Workshop on DNA-Based  Computers, DNA 2000. Revised Papers (Lecture Notes in Computer Science  Vol.2054)
+   Ross S, 2000, INTRO PROBABILITY MO
+   Sakamoto K, 1999, BIOSYSTEMS, V52, P81, DOI 10.1016/S0303-2647(99)00035-0
+   Sambrook J., 1989, MOL CLONING LAB MANU, V2, P1989
+   SantaLucia J, 1998, P NATL ACAD SCI USA, V95, P1460, DOI 10.1073/pnas.95.4.1460
+   WARTELL RM, 1985, PHYS REP, V126, P67, DOI 10.1016/0370-1573(85)90060-2
+   WETMUR JG, 1999, DNA BASED COMPUTERS, V3, P1
+NR 27
+TC 8
+Z9 8
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+J9 PHYS REV E
+JI Phys. Rev. E
+PD FEB
+PY 2002
+VL 65
+IS 2
+AR 021910
+DI 10.1103/PhysRevE.65.021910
+PN Part 1
+PG 13
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 524XK
+UT WOS:000174038000075
+ER
+
+PT J
+AU Takano, M
+   Nagayama, K
+   Suyama, A
+AF Takano, M
+   Nagayama, K
+   Suyama, A
+TI How the all-atom simulation and the Ising-based theory reconcile with
+   each other on the helix-coil transition
+SO JOURNAL OF BIOLOGICAL PHYSICS
+LA English
+DT Article
+DE Glauber dynamics; Helix-coil transition; Ising model; kinetics;
+   molecular dynamics simulation; relaxation; statistical mechanics;
+   stretched exponential
+ID PROTEINS
+AB In this report, we addressed a somewhat basic question about how the two extreme models, the all-atom model and the Ising-based model, can be consistent with each other regarding the polypeptide helix-coil transition. Comparisons of several physical properties were made between the results of the all-atom simulations and those of the Ising-based theories. From the equilibrium point of view, the two models were found to exhibit a qualitatively similar trend, which is significant considering the extreme difference in precision between the two models. On the other hand, from the kinetic viewpoint, there appeared a difference in relaxation behavior between the two models; i.e., so-called stretched exponential relaxation was observed in the all-atom simulation whereas the kinetic Ising model showed simple exponential relaxation. A plausible source of the observed difference is briefly discussed.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Inst Phys, Meguro Ku, Tokyo 1538902, Japan.
+   Univ Tokyo, Dept Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Natl Inst Physiol Sci, Okazaki, Aichi 4448585, Japan.
+CR FRAUENFELDER H, 1991, SCIENCE, V254, P1598, DOI 10.1126/science.1749933
+   GLAUBER RJ, 1963, J MATH PHYS, V4, P294, DOI 10.1063/1.1703954
+   GO N, 1967, J PHYS SOC JPN, V22, P416
+   Poland D., 1970, THEORY HELIX COIL TR
+   SCHWARZ G, 1965, J MOL BIOL, V11, P64
+   SCHWARZ M, 1976, J CHEM PHYS, V65, P2620, DOI 10.1063/1.433460
+   SILBERBE.A, 1972, MACROMOLECULES, V5, P332, DOI 10.1021/ma60027a023
+   Takano M, 1999, J AM CHEM SOC, V121, P605, DOI 10.1021/ja982919c
+   Takano M, 1998, PHYS REV LETT, V80, P5691, DOI 10.1103/PhysRevLett.80.5691
+   Takano M, 2002, J CHEM PHYS, V116, P2219, DOI 10.1063/1.1431580
+   TAKANO M, UNPUB
+   TANAKA T, 1973, J CHEM PHYS, V59, P3799, DOI 10.1063/1.1680553
+   WEINER SJ, 1986, J COMPUT CHEM, V7, P230, DOI 10.1002/jcc.540070216
+   ZIMM BH, 1959, J CHEM PHYS, V31, P526, DOI 10.1063/1.1730390
+NR 14
+TC 3
+Z9 3
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0092-0606
+J9 J BIOL PHYS
+JI J. Biol. Phys.
+PY 2002
+VL 28
+IS 2
+BP 155
+EP 161
+DI 10.1023/A:1019938505594
+PG 7
+WC Biophysics
+SC Biophysics
+GA 588JB
+UT WOS:000177697400007
+ER
+
+PT J
+AU Rose, JA
+   Hagiya, M
+   Deaton, RJ
+   Suyama, A
+AF Rose, JA
+   Hagiya, M
+   Deaton, RJ
+   Suyama, A
+TI A DNA-based in vitro genetic program
+SO JOURNAL OF BIOLOGICAL PHYSICS
+LA English
+DT Article
+DE DNA computing; genetic program; Hamiltonian path; in vitro evolution;
+   PNA; Whiplash PCR
+AB In PNA-mediated Whiplash PCR (PWPCR), autonomous molecular computation is implemented by the recursive polymerase extension of a mixture of DNA hairpins. Like other methods based on exhaustive search, however, application to problem instances of realistic size is prevented by the exponential scaling of the solution space. The tendency of evolving populations to minimize the sampling of large, low fitness basins suggests that a DNA-based evolutionary approach might be an effective alternative to exhaustive search. In this work, PWPCR is modified to support the evolution of a population of finite state machines. A practical, in vitro algorithm for applying this architecture to evolve approximate solutions to instances of the NP-complete problem, Hamiltonian Pat h is described in detail.
+C1 Univ Tokyo, Dept Comp Sci, Tokyo, Japan.
+   Univ Arkansas, Dept Comp Sci & Comp Engn, Fayetteville, AR 72701 USA.
+   Univ Tokyo, Inst Phys, Tokyo 153, Japan.
+CR ADLEMAN LM, 1994, SCIENCE, V266, P1021, DOI 10.1126/science.7973651
+   Back T., 1999, Proceedings of the 1999 Congress on Evolutionary  Computation-CEC99 (Cat. No. 99TH8406), DOI 10.1109/CEC.1999.782529
+   Chen JH, 2000, P NATL ACAD SCI USA, V97, P1328, DOI 10.1073/pnas.97.4.1328
+   JONASKA N, 2001, PREL P 7 INT M DNA B
+   MICHALEWICZ Z, 1996, GENETIC ALGORITHMS P
+   ROSE J, 2002, PHYSICAL REV E, V65, DOI ARTN 021010
+   Sakamoto K, 1999, BIOSYSTEMS, V52, P81, DOI 10.1016/S0303-2647(99)00035-0
+   Sambrook J, 1992, MOL CLONING LAB MANU
+   Deaton R, 1997, PROCEEDINGS OF 1997 IEEE INTERNATIONAL CONFERENCE ON EVOLUTIONARY COMPUTATION (ICEC '97), P267, DOI 10.1109/ICEC.1997.592311
+   VANNOORT D, 2001, PREL P 7 INT M DNA B, P128
+   WOOD D, 2001, PREL P 7 INT M DNA B, P23
+NR 11
+TC 22
+Z9 24
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0092-0606
+J9 J BIOL PHYS
+JI J. Biol. Phys.
+PY 2002
+VL 28
+IS 3
+BP 493
+EP 498
+DI 10.1023/A:1020353731036
+PG 6
+WC Biophysics
+SC Biophysics
+GA 598AC
+UT WOS:000178252100015
+ER
+
+PT J
+AU Takano, M
+   Yamato, T
+   Higo, J
+   Suyama, A
+   Nagayama, K
+AF Takano, M
+   Yamato, T
+   Higo, J
+   Suyama, A
+   Nagayama, K
+TI Molecular dynamics of a 15-residue poly(L-alanine) in water: Helix
+   formation and energetics
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID ALANINE-BASED PEPTIDES; SPECIAL-PURPOSE COMPUTER; ALPHA-HELIX;
+   AMINO-ACIDS; FORMING TENDENCIES; FAST EVENTS; RELAXATION DYNAMICS;
+   FOLDING DYNAMICS; COIL TRANSITIONS; SIMULATIONS
+AB We present a molecular dynamics study of the alpha-helix formation in a system consisting of a 15-residue poly(L-alanine) and surrounding water molecules. By applying a relatively high temperature, we observed the alpha-helix formation several times during a 17-ns run, and reversible helix-coil transitions were also observed. The alpha-helix formations were usually initiated by the beta-tum structures. A crank-shaft-like motion of the peptide was included in the folding process. In the formed alpha-helical domains, substantial 3(10)-helix formations were found especially at the termini, as observed by the NMR study. The folding time scale at room temperature estimated from our simulation was found to lie in the range of 100ns, which is in accord with the time scale of the T-jump experiments. The total energy of the whole system was lower in the alpha-helix state than in the random-coil state by 20.4 +/- 4.8 kcal/mol, which is consistent with the experimental value obtained by calorimetry. This energy decrease in forming the alpha-helix was mainly caused by the Coulombic energy and the torsional energy.
+C1 Univ Tokyo, Grad Sch Arts & Sci, Dept Life Sci, Meguro Ku, Tokyo 1538902, Japan.
+   Nagoya Univ, Grad Sch Sci, Dept Phys, Chikusa Ku, Nagoya, Aichi 4648602, Japan.
+   Biomol Engn Res Inst, Suita, Osaka 5650874, Japan.
+   Natl Inst Physiol Sci, Okazaki, Aichi 4448585, Japan.
+RP Takano, M (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Life Sci, Meguro Ku, 3-8-1 Komaba, Tokyo 1538902, Japan.
+EM takano@santa.c.u-tokyo.ac.jp
+RI de Sousa, Miguel/A-3877-2009
+CR OOI T, 1988, J BIOCHEM-TOKYO, V103, P114
+   ALBERTY RA, 1987, PHYSICAL CHEM
+   Avbelj F, 1998, J MOL BIOL, V279, P665, DOI 10.1006/jmbi.1998.1792
+   Ballew RM, 1996, P NATL ACAD SCI USA, V93, P5759, DOI 10.1073/pnas.93.12.5759
+   Bashford D, 1997, J AM CHEM SOC, V119, P4964, DOI 10.1021/ja963516k
+   Berendsen H. J. C., 1981, INTERMOLECULAR FORCE, P331
+   BERENDSEN HJC, 1984, J CHEM PHYS, V81, P3684, DOI 10.1063/1.448118
+   BRAXENTHALER M, 1995, J MOL BIOL, V250, P239, DOI 10.1006/jmbi.1995.0374
+   Brooks CL, 1996, J PHYS CHEM-US, V100, P2546, DOI 10.1021/jp952674f
+   BRYNGELSON JD, 1995, PROTEINS, V21, P167, DOI 10.1002/prot.340210302
+   CHAKRABARTTY A, 1994, PROTEIN SCI, V3, P843
+   DAGGETT V, 1992, J MOL BIOL, V223, P1121, DOI 10.1016/0022-2836(92)90264-K
+   Daura X, 1998, J MOL BIOL, V280, P925, DOI 10.1006/jmbi.1998.1885
+   DELOOF H, 1992, J AM CHEM SOC, V114, P4028, DOI 10.1021/ja00037a002
+   DICAPUA FM, 1991, J AM CHEM SOC, V113, P6145, DOI 10.1021/ja00016a034
+   Dill KA, 1997, NAT STRUCT BIOL, V4, P10, DOI 10.1038/nsb0197-10
+   Duan Y, 1998, SCIENCE, V282, P740, DOI 10.1126/science.282.5389.740
+   Duan Y, 1998, P NATL ACAD SCI USA, V95, P9897, DOI 10.1073/pnas.95.17.9897
+   FERSHT AR, 1995, P NATL ACAD SCI USA, V92, P10869, DOI 10.1073/pnas.92.24.10869
+   Gilmanshin R, 1998, NAT STRUCT BIOL, V5, P363, DOI 10.1038/nsb0598-363
+   Gilmanshin R, 1997, BIOCHEMISTRY-US, V36, P15006, DOI 10.1021/bi970634r
+   Gilmanshin R, 1997, P NATL ACAD SCI USA, V94, P3709, DOI 10.1073/pnas.94.8.3709
+   Haar L., 1984, NBS NRC STEAM TABLES
+   HELFAND E, 1984, SCIENCE, V226, P647, DOI 10.1126/science.226.4675.647
+   HIGO J, 1994, J COMPUT CHEM, V15, P1372, DOI 10.1002/jcc.540151207
+   HIRST JD, 1995, BIOCHEMISTRY-US, V34, P7614, DOI 10.1021/bi00023a007
+   Hockney R. W., 1970, METHODS COMPUTATIONA, V9, P135
+   Karplus M, 1997, FOLD DES, V2, pS69, DOI 10.1016/S1359-0278(97)00067-9
+   Klein CT, 1996, THEOCHEM-J MOL STRUC, V370, P33
+   Komeiji Y, 1997, J COMPUT CHEM, V18, P1546, DOI 10.1002/(SICI)1096-987X(199709)18:12<1546::AID-JCC11>3.0.CO;2-I
+   KOVACS H, 1995, J MOL BIOL, V247, P808, DOI 10.1016/S0022-2836(05)80156-1
+   Kramers HA, 1940, PHYSICA, V7, P284, DOI 10.1016/S0031-8914(40)90098-2
+   Krynicki K., 1978, Faraday Discussions of the Chemical Society
+   Lazaridis T, 1997, SCIENCE, V278, P1928, DOI 10.1126/science.278.5345.1928
+   LYU PC, 1990, SCIENCE, V250, P669, DOI 10.1126/science.2237416
+   MARQUSEE S, 1989, P NATL ACAD SCI USA, V86, P5286, DOI 10.1073/pnas.86.14.5286
+   Millhauser GL, 1997, J MOL BIOL, V267, P963, DOI 10.1006/jmbi.1997.0923
+   MORIKAMI K, 1992, COMPUT CHEM, V16, P243, DOI 10.1016/0097-8485(92)80010-W
+   Munoz V, 1997, NATURE, V390, P196, DOI 10.1038/36626
+   OKAMOTO Y, 1995, J PHYS CHEM-US, V99, P11276, DOI 10.1021/j100028a031
+   OKAMOTO Y, 1994, PROTEINS, V19, P14, DOI 10.1002/prot.340190104
+   ONEIL KT, 1990, SCIENCE, V250, P646, DOI 10.1126/science.2237415
+   PADMANABHAN S, 1994, BIOCHEMISTRY-US, V33, P8604, DOI 10.1021/bi00194a027
+   PEAR MR, 1981, BIOPOLYMERS, V20, P629, DOI 10.1002/bip.1981.360200314
+   PRESS WH, 1996, NUMERICAL RECIPES FO, P655
+   RIPOLL DR, 1988, BIOPOLYMERS, V27, P1283, DOI 10.1002/bip.360270808
+   ROSE GD, 1985, ADV PROTEIN CHEM, V37, P1, DOI 10.1016/S0065-3233(08)60063-7
+   RYCKAERT JP, 1977, J COMPUT PHYS, V23, P327, DOI 10.1016/0021-9991(77)90098-5
+   SCHOLTZ JM, 1991, P NATL ACAD SCI USA, V88, P2854, DOI 10.1073/pnas.88.7.2854
+   SHEINERMAN FB, 1995, J AM CHEM SOC, V117, P10098, DOI 10.1021/ja00145a022
+   Shirley WA, 1997, PROTEINS, V28, P59, DOI 10.1002/(SICI)1097-0134(199705)28:1<59::AID-PROT6>3.0.CO;2-E
+   SOMAN KV, 1991, BIOPOLYMERS, V31, P1351, DOI 10.1002/bip.360311202
+   STEINFELD JI, 1989, CHEM KINETICS DYNAMI, P410
+   SUNG SS, 1995, BIOPHYS J, V68, P826
+   Sung SS, 1996, PROTEINS, V25, P202, DOI 10.1002/(SICI)1097-0134(199606)25:2<202::AID-PROT6>3.0.CO;2-J
+   Takano M, 1998, PHYS REV LETT, V80, P5691, DOI 10.1103/PhysRevLett.80.5691
+   Thompson PA, 1997, BIOCHEMISTRY-US, V36, P9200, DOI 10.1021/bi9704764
+   TIRADORIVES J, 1991, BIOCHEMISTRY-US, V30, P3864, DOI 10.1021/bi00230a009
+   TOBIAS DJ, 1991, BIOCHEMISTRY-US, V30, P6054, DOI 10.1021/bi00238a032
+   VANBUUREN AR, 1993, BIOPOLYMERS, V33, P1159, DOI 10.1002/bip.360330802
+   Wang L, 1996, BIOPOLYMERS, V39, P479, DOI 10.1002/(SICI)1097-0282(199610)39:4<479::AID-BIP1>3.0.CO;2-U
+   WEINER SJ, 1986, J COMPUT CHEM, V7, P230, DOI 10.1002/jcc.540070216
+   Williams S, 1996, BIOCHEMISTRY-US, V35, P691, DOI 10.1021/bi952217p
+   YANG AS, 1995, J MOL BIOL, V252, P351, DOI 10.1006/jmbi.1995.0502
+   Young WS, 1996, J MOL BIOL, V259, P560, DOI 10.1006/jmbi.1996.0339
+NR 65
+TC 71
+Z9 71
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD FEB 3
+PY 1999
+VL 121
+IS 4
+BP 605
+EP 612
+DI 10.1021/ja982919c
+PG 8
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 164PB
+UT WOS:000078471800002
+ER
+
+PT J
+AU Tonami, J
+   Kiyofuji, T
+   Suyama, A
+AF Tonami, J
+   Kiyofuji, T
+   Suyama, A
+TI A study of Digital Auto Equalizer and PLL System using maximum
+   likelihood error for digital VCRs
+SO IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+LA English
+DT Article
+AB A newly developed compact Digital Auto Equalizer and Phase Locked Loop (PLL) System with original algorithms has solved problems on digital auto equalizer systems using maximum likelihood error (MLE). It realizes experimentally fully automatic and practical size systems. An instance of corresponding Digital VCRs is discussed.
+RP Tonami, J (reprint author), VICTOR CO JAPAN LTD,TECHNOL DEPT DIV,VIDEO SYST DEV LABS,YOKOSUKA,KANAGAWA,JAPAN.
+CR FURGUSON MJ, 1972, BELL SYST TECH J, V51, P493
+   SEIICHI MMIT, 1992, IEICE T C2, V75, P611
+NR 2
+TC 3
+Z9 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0098-3063
+J9 IEEE T CONSUM ELECTR
+JI IEEE Trans. Consum. Electron.
+PD AUG
+PY 1997
+VL 43
+IS 3
+BP 934
+EP 944
+DI 10.1109/30.628769
+PG 11
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA XX983
+UT WOS:A1997XX98300096
+ER
+
+PT J
+AU NAKAMURA, T
+   SUYAMA, A
+   WADA, A
+AF NAKAMURA, T
+   SUYAMA, A
+   WADA, A
+TI 2 TYPES OF LINKAGE BETWEEN CODON USAGE AND GENE-EXPRESSION LEVELS
+SO FEBS LETTERS
+LA English
+DT Article
+DE CODON USAGE; GENE EXPRESSION; 3RD LETTER USAGE; (G+C)-CONTENT; TRANSFER
+   RNA CONTENT; NEUTRAL THEORY
+ID ORGANISMS
+AB The relation between codon usage and gene-expression levels is an intensively investigated and discussed topic in the field of molecular evolution.  We statistically analyzed 25 Escherichia coli gene sequences by a new classification of synonymous codons and found that (i) there are two distinct types of linkage between codon usage and gene-expression levels in E. coli, and (ii) one of the two kinds of codon preferences (the codon preference concerned with interaction of GC/AT choice at three codon positions) is observed significantly in weakly expressed genes.
+C1 UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+   TECH UNIV NAGAOKA,NIIGATA 94021,JAPAN.
+CR ANDERSSON SGE, 1990, MICROBIOL REV, V54, P198
+   BERNARDI G, 1985, J MOL EVOL, V22, P363, DOI 10.1007/BF02115693
+   BULMER M, 1987, NATURE, V325, P728, DOI 10.1038/325728a0
+   GROSJEAN H, 1982, GENE, V18, P199, DOI 10.1016/0378-1119(82)90157-3
+   IKEMURA T, 1985, MOL BIOL EVOL, V2, P13
+   KIMURA M, 1981, P NATL ACAD SCI-BIOL, V78, P5773, DOI 10.1073/pnas.78.9.5773
+   KURLAND CG, 1987, TRENDS BIOCHEM SCI, V12, P126, DOI 10.1016/0968-0004(87)90060-0
+   SHARP PM, 1986, J MOL EVOL, V24, P28, DOI 10.1007/BF02099948
+   WADA A, 1986, PROG BIOPHYS MOL BIO, V47, P113, DOI 10.1016/0079-6107(86)90012-X
+   WADA A, 1985, FEBS LETT, V188, P291, DOI 10.1016/0014-5793(85)80389-6
+   WADA A, IN PRESS MOL EVOL
+   YARUS M, 1985, J MOL BIOL, V182, P529, DOI 10.1016/0022-2836(85)90239-6
+NR 12
+TC 15
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD SEP 2
+PY 1991
+VL 289
+IS 1
+BP 123
+EP 125
+DI 10.1016/0014-5793(91)80923-Q
+PG 3
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA GE523
+UT WOS:A1991GE52300030
+ER
+
+PT J
+AU HANAI, R
+   SUYAMA, A
+   WADA, A
+AF HANAI, R
+   SUYAMA, A
+   WADA, A
+TI CHARACTERISTIC FEATURES OF THERMAL-STABILITY MAP OF DNA IN
+   ESCHERICIA-COLI AND EUKARYOTIC GENES
+SO JOURNAL OF BIOMOLECULAR STRUCTURE & DYNAMICS
+LA English
+DT Article
+C1 TECHNOL UNIV NAGAOKA,DEPT MECH ENGN,NAGAOKA,NIIGATA 94021,JAPAN.
+RP HANAI, R (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BLAKE RD, 1986, J BIOMOL STRUCT DYN, V4, P291
+   FIERS W, 1975, NATURE, V256, P273, DOI 10.1038/256273a0
+   FIERS W, 1976, NATURE, V260, P500, DOI 10.1038/260500a0
+   FIXMAN M, 1977, BIOPOLYMERS, V16, P2693, DOI 10.1002/bip.1977.360161209
+   GOTOH O, 1983, ADV BIOPHYS, V16, P1
+   GUTTMAN I, 1982, INTRO ENG STATISTICS
+   HANAI R, 1988, FEBS LETT, V226, P247, DOI 10.1016/0014-5793(88)81432-7
+   HASEGAWA M, 1979, NUCLEIC ACIDS RES, V7, P2073, DOI 10.1093/nar/7.7.2073
+   ISERENTANT D, 1980, GENE, V9, P1, DOI 10.1016/0378-1119(80)90163-8
+   MAITRA U, 1982, ANNU REV BIOCHEM, V51, P869, DOI 10.1146/annurev.bi.51.070182.004253
+   MOUNT SM, 1982, NUCLEIC ACIDS RES, V10, P459, DOI 10.1093/nar/10.2.459
+   NUSSINOV R, 1984, J MOL EVOL, V20, P111, DOI 10.1007/BF02257371
+   POLAND D, 1974, BIOPOLYMERS, V13, P1859, DOI 10.1002/bip.1974.360130916
+   RUSSELL GJ, 1973, J MOL EVOL, V2, P277, DOI 10.1007/BF01654096
+   SHINE J, 1974, Proceedings of the National Academy of Sciences of the United States of America, V71, P1342, DOI 10.1073/pnas.71.4.1342
+   STEITZ JA, 1975, P NATL ACAD SCI USA, V72, P4734, DOI 10.1073/pnas.72.12.4734
+   STEIZ JA, 1977, NUCLEIC ACID PROTEIN, P491
+   SUYAMA A, 1983, J THEOR BIOL, V105, P133, DOI 10.1016/0022-5193(83)90429-0
+   SUYAMA A, UNPUB
+   TACHIBANA H, 1982, BIOPOLYMERS, V21, P1873, DOI 10.1002/bip.360210914
+   TONG BY, 1979, NUCLEIC ACIDS RES, V6, P1073, DOI 10.1093/nar/6.3.1073
+   TONG BY, 1979, BIOPOLYMERS, V18, P1917, DOI 10.1002/bip.1979.360180808
+   WADA A, 1986, PROG BIOPHYS MOL BIO, V47, P113, DOI 10.1016/0079-6107(86)90012-X
+   WADA A, 1985, FEBS LETT, V188, P291, DOI 10.1016/0014-5793(85)80389-6
+   WADA A, 1983, J PHYS SOC JPN, V52, P4417, DOI 10.1143/JPSJ.52.4417
+   WADA A, 1984, J BIOMOL STRUCT DYN, V2, P573
+   WADA A, 1985, MOL BASIS CANCER A, P37
+   WADA A, 1986, COMPUTER ANAL LIFE S, P140
+   WADA A, 1986, BIOMOLECULAR STEREOD, V4, P255
+   YARUS M, 1985, J MOL BIOL, V182, P529, DOI 10.1016/0022-2836(85)90239-6
+NR 30
+TC 2
+Z9 2
+PU ADENINE PRESS INC
+PI GUILDERLAND
+PA PO BOX 355/340, GUILDERLAND, NY 12084
+SN 0739-1102
+J9 J BIOMOL STRUCT DYN
+JI J. Biomol. Struct. Dyn.
+PD AUG
+PY 1988
+VL 6
+IS 1
+BP 51
+EP 62
+PG 12
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA P7822
+UT WOS:A1988P782200004
+ER
+
+PT J
+AU HANAI, R
+   SUYAMA, A
+   WADA, A
+AF HANAI, R
+   SUYAMA, A
+   WADA, A
+TI VESTIGES OF LOST INTRONS IN THE THERMAL-STABILITY MAP OF DNA
+SO FEBS LETTERS
+LA English
+DT Article
+RP HANAI, R (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BERNARDI G, 1985, SCIENCE, V228, P953, DOI 10.1126/science.4001930
+   FIXMAN M, 1977, BIOPOLYMERS, V16, P2693, DOI 10.1002/bip.1977.360161209
+   GO M, 1983, P NATL ACAD SCI-BIOL, V80, P1964, DOI 10.1073/pnas.80.7.1964
+   MOUNT SM, 1982, NUCLEIC ACIDS RES, V10, P459, DOI 10.1093/nar/10.2.459
+   POLAND D, 1974, BIOPOLYMERS, V13, P1859, DOI 10.1002/bip.1974.360130916
+   WADA A, 1986, PROG BIOPHYS MOL BIO, V47, P113, DOI 10.1016/0079-6107(86)90012-X
+   WADA A, 1985, FEBS LETT, V188, P291, DOI 10.1016/0014-5793(85)80389-6
+   WADA A, 1983, J PHYS SOC JPN, V52, P4417, DOI 10.1143/JPSJ.52.4417
+   WADA A, 1984, J BIOMOL STRUCT DYN, V2, P573
+NR 9
+TC 3
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PD JAN 4
+PY 1988
+VL 226
+IS 2
+BP 247
+EP 249
+DI 10.1016/0014-5793(88)81432-7
+PG 3
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA L8535
+UT WOS:A1988L853500009
+ER
+
+PT J
+AU WADA, A
+   SUYAMA, A
+AF WADA, A
+   SUYAMA, A
+TI 3RD LETTERS IN CODONS COUNTERBALANCE THE (G+C)-CONTENT OF THEIR 1ST AND
+   2ND LETTERS
+SO FEBS LETTERS
+LA English
+DT Article
+RP WADA, A (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR FREESE E, 1962, J THEOR BIOL, V3, P82, DOI 10.1016/S0022-5193(62)80005-8
+   GRANTHAM R, 1980, TRENDS BIOCHEM SCI, V5, P327, DOI 10.1016/0968-0004(80)90143-7
+   GROSJEAN H, 1982, GENE, V18, P199, DOI 10.1016/0378-1119(82)90157-3
+   GROSJEAN H, 1978, J MOL EVOL, V12, P113, DOI 10.1007/BF01733262
+   IKEMURA T, 1981, J MOL BIOL, V151, P389, DOI 10.1016/0022-2836(81)90003-6
+   IKEMURA T, 1982, J MOL BIOL, V158, P573, DOI 10.1016/0022-2836(82)90250-9
+   IKEMURA T, 1981, J MOL BIOL, V146, P1, DOI 10.1016/0022-2836(81)90363-6
+   NOMURA M, 1980, RNA POLYMERASE TRNA, P315
+   POST LE, 1979, P NATL ACAD SCI USA, V76, P1697, DOI 10.1073/pnas.76.4.1697
+   SUEOKA N, 1962, P NATL ACAD SCI USA, V48, P582, DOI 10.1073/pnas.48.4.582
+   SUYAMA A, 1983, J THEOR BIOL, V105, P133, DOI 10.1016/0022-5193(83)90429-0
+   WADA A, 1980, CRC CR REV BIOCH MOL, V9, P87, DOI 10.3109/10409238009105432
+   WADA A, 1976, NATURE, V263, P439, DOI 10.1038/263439a0
+   WADA A, 1985, MOL BASES CANCER INT
+   WADA A, 1983, J PHYS SOC JPN, V52, P4417, DOI 10.1143/JPSJ.52.4417
+   WADA A, 1984, J BIOMOL STRUCT DYN, V2, P573
+NR 16
+TC 26
+Z9 27
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1985
+VL 188
+IS 2
+BP 291
+EP 294
+DI 10.1016/0014-5793(85)80389-6
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA ARB22
+UT WOS:A1985ARB2200023
+ER
+
+PT J
+AU YAMAMOTO, T
+   SUYAMA, A
+   MORI, N
+   YOKOTA, T
+   WADA, A
+AF YAMAMOTO, T
+   SUYAMA, A
+   MORI, N
+   YOKOTA, T
+   WADA, A
+TI GENE-EXPRESSION IN THE POLYCISTRONIC OPERONS OF ESCHERICHIA-COLI
+   HEAT-LABILE TOXIN AND CHOLERA-TOXIN - A NEW MODEL OF TRANSLATIONAL
+   CONTROL
+SO FEBS LETTERS
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+   TOHO UNIV,SCH PHARMACEUT SCI,DEPT BIOCHEM,FUNABASHI,CHIBA 274,JAPAN.
+RP YAMAMOTO, T (reprint author), JUNTENDO UNIV,SCH MED,DEPT BACTERIOL,2-1-1 HONGO,BUNKYO KU,TOKYO 113,JAPAN.
+CR ELZEN PJM, 1983, NUCLEIC ACIDS RES, V11, P2465
+   GENNARO ML, 1983, NUCLEIC ACIDS RES, V11, P3855, DOI 10.1093/nar/11.12.3855
+   GILL DM, 1976, BIOCHEMISTRY-US, V15, P1242, DOI 10.1021/bi00651a011
+   GILL DM, 1981, INFECT IMMUN, V33, P677
+   GOLD L, 1981, ANNU REV MICROBIOL, V35, P365, DOI 10.1146/annurev.mi.35.100181.002053
+   HAMKALO BA, 1973, ANNU REV BIOCHEM, V42, P379, DOI 10.1146/annurev.bi.42.070173.002115
+   IKEMURA T, 1981, J MOL BIOL, V151, P389, DOI 10.1016/0022-2836(81)90003-6
+   Ikemura T, 1983, Cold Spring Harb Symp Quant Biol, V47 Pt 2, P1087
+   KLAPPER DG, 1976, IMMUNOCHEMISTRY, V13, P605, DOI 10.1016/0019-2791(76)90173-7
+   KOLTER R, 1982, ANNU REV GENET, V16, P113, DOI 10.1146/annurev.ge.16.120182.000553
+   KOOL AJ, 1975, ANTIMICROB AGENTS CH, V8, P67
+   LOCKMAN H, 1983, J BIOL CHEM, V258, P3722
+   MEKALANOS JJ, 1983, NATURE, V306, P551, DOI 10.1038/306551a0
+   MIZUNO T, 1984, P NATL ACAD SCI-BIOL, V81, P1966, DOI 10.1073/pnas.81.7.1966
+   QUEEN C, 1981, CELL, V25, P241, DOI 10.1016/0092-8674(81)90249-X
+   SALSER W, 1977, COLD SPRING HARB SYM, V42, P985
+   SHINE J, 1974, Proceedings of the National Academy of Sciences of the United States of America, V71, P1342, DOI 10.1073/pnas.71.4.1342
+   SIMONS RW, 1983, CELL, V34, P683, DOI 10.1016/0092-8674(83)90401-4
+   Steitz JA, 1979, BIOL REGUL DEV, P349
+   YAMAMOTO T, 1984, J BIOL CHEM, V259, P5037
+   YAMAMOTO T, 1982, MOL GEN GENET, V188, P356, DOI 10.1007/BF00332701
+   YAMAMOTO T, 1984, FEBS LETT, V169, P241, DOI 10.1016/0014-5793(84)80326-9
+   YAMAMOTO T, 1981, J BACTERIOL, V145, P850
+   YAMAMOTO T, 1983, J BACTERIOL, V155, P728
+   ZUKER M, 1981, NUCLEIC ACIDS RES, V9, P133, DOI 10.1093/nar/9.1.133
+NR 25
+TC 21
+Z9 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-5793
+J9 FEBS LETT
+JI FEBS Lett.
+PY 1985
+VL 181
+IS 2
+BP 377
+EP 380
+DI 10.1016/0014-5793(85)80296-9
+PG 4
+WC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+SC Biochemistry & Molecular Biology; Biophysics; Cell Biology
+GA ACH73
+UT WOS:A1985ACH7300039
+ER
+
+PT J
+AU SUYAMA, A
+   WADA, A
+AF SUYAMA, A
+   WADA, A
+TI UNWINDING KINETICS OF COOPERATIVELY MELTING REGIONS IN DNA
+SO BIOPOLYMERS
+LA English
+DT Article
+RP SUYAMA, A (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR AGENO M, 1969, BIOPHYS J, V9, P1281
+   BALDWIN RL, 1968, MOL ASS BIOL, P145
+   BLAKE RD, 1968, J AM CHEM SOC, V90, P3556, DOI 10.1021/ja01015a047
+   BOROVIK AS, 1980, NUCLEIC ACIDS RES, V8, P4165, DOI 10.1093/nar/8.18.4165
+   COHEN RJ, 1971, J MOL BIOL, V61, P525, DOI 10.1016/0022-2836(71)90063-5
+   CROTHERS DM, 1964, J MOL BIOL, V9, P712
+   CROTHERS DM, 1971, BIOPOLYMERS, V10, P1949, DOI 10.1002/bip.360101013
+   DAVISON PF, 1967, BIOPOLYMERS, V5, P715, DOI 10.1002/bip.1967.360050805
+   DAVISON PF, 1966, J MOL BIOL, V22, P97, DOI 10.1016/0022-2836(66)90182-3
+   FELSENFELD GARY, 1965, J MOL BIOL, V13, P407
+   FIXMAN M, 1963, J MOL BIOL, V6, P39
+   FIXMAN M, 1977, BIOPOLYMERS, V16, P2693, DOI 10.1002/bip.1977.360161209
+   FONG P, 1964, P NATL ACAD SCI USA, V52, P239, DOI 10.1073/pnas.52.2.239
+   HOFF AJ, 1970, BIOPOLYMERS, V9, P1349, DOI 10.1002/bip.1970.360091105
+   KUHN W, 1957, EXPERIENTIA, V13, P301, DOI 10.1007/BF02296807
+   KUHN W, 1961, J MOL BIOL, V3, P473
+   LAZURKIN YS, 1970, BIOPOLYMERS, V9, P1253, DOI 10.1002/bip.1970.360091102
+   LEVINTHAL C, 1956, P NATL ACAD SCI USA, V42, P436, DOI 10.1073/pnas.42.7.436
+   LONGUETHIGGINS HC, 1960, J MOL BIOL, V2, P1
+   LONGU.HC, 1961, J MOL BIOL, V3, P475
+   MASSIE HR, 1969, BIOPOLYMERS, V7, P475, DOI 10.1002/bip.1969.360070406
+   OKA A, 1979, MOL GEN GENET, V172, P151, DOI 10.1007/BF00268276
+   POLAND D, 1974, BIOPOLYMERS, V13, P1859, DOI 10.1002/bip.1974.360130916
+   POLUKHINA NN, 1979, MOL BIOL+, V13, P992
+   PORSCHKE D, 1977, CHEM RELAXATION MOL
+   RECORD MT, 1972, BIOPOLYMERS, V11, P1435, DOI 10.1002/bip.1972.360110711
+   Riesner D., 1973, PHYSICOCHEMICAL PROP, V2
+   SAKAKIBA.Y, 1974, P NATL ACAD SCI USA, V71, P802, DOI 10.1073/pnas.71.3.802
+   SPATZ HC, 1969, J MOL BIOL, V42, P191, DOI 10.1016/0022-2836(69)90038-2
+   SUYAMA A, 1982, THESIS U TOKYO TOKYO
+   WADA A, 1980, CRC CR REV BIOCH MOL, V9, P87, DOI 10.3109/10409238009105432
+   YAMADA M, 1982, P NATL ACAD SCI-BIOL, V79, P2827, DOI 10.1073/pnas.79.9.2827
+NR 32
+TC 17
+Z9 17
+PU JOHN WILEY & SONS INC
+PI NEW YORK
+PA 605 THIRD AVE, NEW YORK, NY 10158-0012
+SN 0006-3525
+J9 BIOPOLYMERS
+JI Biopolymers
+PY 1984
+VL 23
+IS 3
+BP 409
+EP 433
+DI 10.1002/bip.360230304
+PG 25
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA SG638
+UT WOS:A1984SG63800003
+ER
+
+PT J
+AU TAKEDA, Y
+   YAGISAWA, T
+   SUYAMA, A
+   YAMAMOTO, M
+AF TAKEDA, Y
+   YAGISAWA, T
+   SUYAMA, A
+   YAMAMOTO, M
+TI APPLICATION OF MAGNETIC WEDGES TO LARGE MOTORS
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+C1 TOSHIBA CORP,YOKOHAMA,JAPAN.
+RP TAKEDA, Y (reprint author), SAITAMA UNIV,URAWA,SAITAMA 338,JAPAN.
+CR CHALMERS BJ, 1967, P I ELECTR ENG, V114, P258
+   KEUTH H, 1970, SIEMENS Z, V44, P736
+   KUBRYCHT J, 1971, ACTA TECHNICA CSAV, P693
+   REICHE H, 1968, ELEKTRIE, P412
+   WADA S, 1977, EUROPEAN PHYS SOC C, P2
+   YAGISAWA T, 1983, T IEE JAPAN B, V103, P343
+   YAGISAWA T, 1971, IEE MAG712 JAP PAP
+NR 7
+TC 6
+Z9 8
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PY 1984
+VL 20
+IS 5
+BP 1780
+EP 1782
+DI 10.1109/TMAG.1984.1063161
+PG 3
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA TP446
+UT WOS:A1984TP44600128
+ER
+
+PT J
+AU WADA, A
+   SUYAMA, A
+AF WADA, A
+   SUYAMA, A
+TI STABILITY DISTRIBUTION IN THE PHAGE LAMBDA-DNA DOUBLE HELIX - A
+   CORRELATION BETWEEN PHYSICAL AND GENETIC-STRUCTURE
+SO JOURNAL OF BIOMOLECULAR STRUCTURE & DYNAMICS
+LA English
+DT Article
+RP WADA, A (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR AKIYAMA C, 1977, BIOPOLYMERS, V16, P427, DOI 10.1002/bip.1977.360160215
+   CHAMPOUX JJ, 1978, ANNU REV BIOCHEM, V47, P449, DOI 10.1146/annurev.bi.47.070178.002313
+   DAYHOFF MO, 1972, ATLAS PROTEIN SEQUEN, V5, P41
+   FISHER LM, 1982, NATURE, V299, P105, DOI 10.1038/299105a0
+   FIXMAN M, 1977, BIOPOLYMERS, V16, P2693, DOI 10.1002/bip.1977.360161209
+   FREESE E, 1962, J THEOR BIOL, V3, P82, DOI 10.1016/S0022-5193(62)80005-8
+   FUNNELL BE, 1979, J MOL BIOL, V131, P331, DOI 10.1016/0022-2836(79)90079-2
+   GO M, 1980, INT J PEPT PROT RES, V15, P211
+   GOTOH O, 1981, BIOPOLYMERS, V20, P1033, DOI 10.1002/bip.1981.360200513
+   GOTOH O, 1983, ADV BIOPHYS, V16, P1
+   GOTOH O, 1981, BIOPOLYMERS, V20, P1043, DOI 10.1002/bip.1981.360200514
+   LUKASHIN AV, 1976, J MOL BIOL, V108, P665, DOI 10.1016/S0022-2836(76)80111-8
+   LYUBCHENKO YL, 1978, NATURE, V271, P28, DOI 10.1038/271028a0
+   OTSUKA J, 1982, J THEOR BIOL, V97, P415, DOI 10.1016/0022-5193(82)90374-5
+   SANGER F, 1982, J MOL BIOL, V162, P729, DOI 10.1016/0022-2836(82)90546-0
+   SUEOKA N, 1961, J MOL BIOL, V3, P31
+   SUYAMA A, 1983, J THEOR BIOL, V105, P133, DOI 10.1016/0022-5193(83)90429-0
+   SZYBALSKI EH, 1979, GENE, V7, P217, DOI 10.1016/0378-1119(79)90047-7
+   TACHIBANA H, 1982, BIOPOLYMERS, V21, P1873, DOI 10.1002/bip.360210914
+   THORNTON JM, 1982, NATURE, V298, P296, DOI 10.1038/298296a0
+   TONG BY, 1979, NUCLEIC ACIDS RES, V6, P1073, DOI 10.1093/nar/6.3.1073
+   TONG BY, 1979, BIOPOLYMERS, V18, P1917, DOI 10.1002/bip.1979.360180808
+   UENO S, 1978, J BIOCHEM-TOKYO, V84, P917
+   VONHIPPE.PH, 1972, ANNU REV BIOCHEM, V41, P231, DOI 10.1146/annurev.bi.41.070172.001311
+   WADA A, 1979, J BIOCHEM-TOKYO, V85, P827
+   WADA A, 1980, CRC CR REV BIOCH MOL, V9, P87, DOI 10.3109/10409238009105432
+   WADA A, 1983, J PHYS SOC JPN, V52, P4417, DOI 10.1143/JPSJ.52.4417
+   WADA A, 1984, MOL BASIS CANCER INT
+   Wells R D, 1980, Prog Nucleic Acid Res Mol Biol, V24, P167
+NR 29
+TC 15
+Z9 15
+PU ADENINE PRESS INC
+PI GUILDERLAND
+PA PO BOX 355/340, GUILDERLAND, NY 12084
+SN 0739-1102
+J9 J BIOMOL STRUCT DYN
+JI J. Biomol. Struct. Dyn.
+PY 1984
+VL 2
+IS 3
+BP 573
+EP 591
+PG 19
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA TX049
+UT WOS:A1984TX04900007
+ER
+
+PT J
+AU OOHARA, I
+   SUYAMA, A
+   WADA, A
+AF OOHARA, I
+   SUYAMA, A
+   WADA, A
+TI RECONSTITUTION MECHANISM OF NUCLEOSOME CORE PARTICLES MEDIATED BY
+   POLY(L-GLUTAMIC ACID)
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+LA English
+DT Article
+RP OOHARA, I (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR Bradbury E M, 1978, Cold Spring Harb Symp Quant Biol, V42 Pt 1, P277
+   CHUNG SY, 1978, P NATL ACAD SCI USA, V75, P1680, DOI 10.1073/pnas.75.4.1680
+   DABAN JR, 1982, J MOL BIOL, V156, P749, DOI 10.1016/0022-2836(82)90140-1
+   DINGWALL C, 1982, CELL, V30, P449, DOI 10.1016/0092-8674(82)90242-2
+   EARNSHAW WC, 1980, CELL, V21, P373, DOI 10.1016/0092-8674(80)90474-2
+   ERARD M, 1982, FEBS LETT, V149, P55, DOI 10.1016/0014-5793(82)81070-3
+   FRIED M, 1981, NUCLEIC ACIDS RES, V9, P6505, DOI 10.1093/nar/9.23.6505
+   HEWISH DR, 1973, BIOCHEM BIOPH RES CO, V52, P504, DOI 10.1016/0006-291X(73)90740-7
+   KLEINSCHMIDT JA, 1982, CELL, V29, P799, DOI 10.1016/0092-8674(82)90442-1
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LASKEY RA, 1980, NATURE, V286, P763, DOI 10.1038/286763a0
+   LASKEY RA, 1978, NATURE, V275, P416, DOI 10.1038/275416a0
+   LEPECQ JB, 1967, J MOL BIOL, V27, P87, DOI 10.1016/0022-2836(67)90353-1
+   LIBERTINI LJ, 1980, NUCLEIC ACIDS RES, V8, P3517, DOI 10.1093/nar/8.16.3517
+   LUTTER LC, 1978, J MOL BIOL, V124, P391, DOI 10.1016/0022-2836(78)90306-6
+   MANIATIS T, 1975, BIOCHEMISTRY-US, V14, P3787, DOI 10.1021/bi00688a010
+   NELSON T, 1981, BIOCHEMISTRY-US, V20, P2594, DOI 10.1021/bi00512a035
+   OKA A, 1976, NATURE, V264, P193, DOI 10.1038/264193a0
+   RUIZCARRILLO A, 1979, P NATL ACAD SCI USA, V76, P3284, DOI 10.1073/pnas.76.7.3284
+   SHAW BR, 1976, P NATL ACAD SCI USA, V73, P505, DOI 10.1073/pnas.73.2.505
+   STEIN A, 1979, J MOL BIOL, V130, P103, DOI 10.1016/0022-2836(79)90421-2
+   STEIN A, 1979, P NATL ACAD SCI USA, V76, P5000, DOI 10.1073/pnas.76.10.5000
+   TATCHELL K, 1977, BIOCHEMISTRY-US, V16, P5295, DOI 10.1021/bi00643a021
+   THOMAS JO, 1975, P NATL ACAD SCI USA, V72, P2626, DOI 10.1073/pnas.72.7.2626
+   THOMAS JO, 1977, J MOL BIOL, V116, P769, DOI 10.1016/0022-2836(77)90270-4
+NR 25
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-3002
+J9 BIOCHIM BIOPHYS ACTA
+PY 1983
+VL 741
+IS 3
+BP 322
+EP 332
+DI 10.1016/0167-4781(83)90152-5
+PG 11
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA RY484
+UT WOS:A1983RY48400008
+ER
+
+PT J
+AU WADA, A
+   SUYAMA, A
+AF WADA, A
+   SUYAMA, A
+TI CORRELATION BETWEEN PHYSICAL STABILITY MAP AND GENETIC-MAP OF DNA DOUBLE
+   STRAND
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP WADA, A (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,TOKYO 113,JAPAN.
+CR BLAKE CCF, 1979, NATURE, V277, P598, DOI 10.1038/277598a0
+   FIXMAN M, 1977, BIOPOLYMERS, V16, P2693, DOI 10.1002/bip.1977.360161209
+   GILBERT W, 1978, NATURE, V271, P501, DOI 10.1038/271501a0
+   GOTOH O, 1983, ADV BIOPHYS, V16, P1
+   HARDIES SC, 1979, J BIOL CHEM, V254
+   KONKEL DA, 1979, CELL, V18, P865, DOI 10.1016/0092-8674(79)90138-7
+   POLAND D, 1974, BIOPOLYMERS, V13, P1859, DOI 10.1002/bip.1974.360130916
+   SCHON EA, 1981, CELL, V27, P359, DOI 10.1016/0092-8674(81)90419-0
+   SUYAMA A, J THEO BIOL
+   SUYAMA A, 1982, S SERIES, V11, P165
+   TACHIBANA H, 1982, J BIOCHEM-TOKYO, V92, P623
+   TACHIBANA H, 1982, BIOPOLYMERS, V21, P1873, DOI 10.1002/bip.360210914
+   TONG BY, 1979, NUCLEIC ACIDS RES, V6, P1073, DOI 10.1093/nar/6.3.1073
+   WADA A, 1980, CRC CR REV BIOCH MOL, V9, P87, DOI 10.3109/10409238009105432
+   WADA A, 1976, NATURE, V263, P439, DOI 10.1038/263439a0
+   WADA A, 1979, J BIOCH TOKYO, V85, P829
+   Wells R D, 1980, Prog Nucleic Acid Res Mol Biol, V24, P167
+NR 17
+TC 8
+Z9 8
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1983
+VL 52
+IS 12
+BP 4417
+EP 4422
+DI 10.1143/JPSJ.52.4417
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA SE005
+UT WOS:A1983SE00500055
+ER
+
+EF

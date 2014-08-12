@@ -1,0 +1,3038 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Saito, Y
+   Fujii, H
+   Itakura, K
+   Morimatsu, O
+AF Saito, Yohei
+   Fujii, Hirotsugu
+   Itakura, Kazunori
+   Morimatsu, Osamu
+TI Critical exponents from the two-particle irreducible 1/N expansion
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID DYNAMIC CRITICAL PHENOMENA; RENORMALIZATION-GROUP; 1-N EXPANSION; FIELD
+   THEORY; ORDER 1-N2; BEHAVIOR; D=3
+AB We calculate the critical exponent nu of the O(N) symmetric phi(4) model within the 1/N expansion of the two-particle-irreducible effective action, which provides us with a self-consistent approximation scheme for the correlation function. The exponent nu controls the behavior of a two-point function <phi phi > near the critical point T not equal T-c through the correlation length xi similar to vertical bar T - Tc vertical bar(-nu), but we notice that it appears also in the scaling form of the three-point vertex function Gamma (2,1) similar to <phi phi phi(2)> at the critical point T Tc; in the momentum space, Gamma((2,1)) -kappa(2-eta-1/nu). We derive a self-consistent equation for Gamma((2,1)) from the two-particle-irreducible effective action including the skeleton diagrams up to the next-leading-order in the 1/N expansion, and solve it to the leading-log accuracy (i.e., keeping the leading lnk terms) to obtain nu. Our results turn out to improve those obtained in the standard one-particle-irreducible calculation at the next-leading-order.
+C1 Univ Tokyo, Dept Phys, Fac Sci, Bunkyo Ku, Tokyo 1130033, Japan.
+   Univ Tokyo, Inst Phys, Tokyo 1538902, Japan.
+   High Energy Accelerator Res Org KEK, KEK Theory Ctr, IPNS, Tsukuba, Ibaraki 3050801, Japan.
+   Grad Univ Adv Studies SOKENDAI, Dept Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Saito, Y (reprint author), Univ Tokyo, Dept Phys, Fac Sci, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM yoheis@post.kek.jp
+CR Alford M, 2004, PHYS REV D, V70, DOI 10.1103/PhysRevD.70.125002
+   Amit D. J., 2005, FIELD THEORY RENORMA
+   BAYM G, 1962, PHYS REV, V127, P1391, DOI 10.1103/PhysRev.127.1391
+   BAYM G, 1961, PHYS REV, V124, P287, DOI 10.1103/PhysRev.124.287
+   Berges J, 2004, AIP CONF PROC, V739, P3
+   Berges J, 2010, NUCL PHYS B, V832, P228, DOI 10.1016/j.nuclphysb.2010.02.007
+   Boyanovsky D, 2006, ANNU REV NUCL PART S, V56, P441, DOI 10.1146/annurev.nucl.56.080805.140539
+   BRAATEN E, 1995, PHYS REV D, V51, P6990, DOI 10.1103/PhysRevD.51.6990
+   Calzetta E., 2008, CAMBRIDGE MONOGRAPHS
+   Campostrini M, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.144506
+   CORNWALL JM, 1974, PHYS REV D, V10, P2428, DOI 10.1103/PhysRevD.10.2428
+   Erdelyi A, 1954, TABLES INTEGRAL TRAN
+   WILSON KG, 1972, PHYS REV LETT, V28, P240, DOI 10.1103/PhysRevLett.28.240
+   HOHENBERG PC, 1977, REV MOD PHYS, V49, P435, DOI 10.1103/RevModPhys.49.435
+   Kadanoff L.P., 1989, QUANTUM STAT MECH
+   Kondor I., 1978, Journal de Physique Lettres, V39, DOI 10.1051/jphyslet:0197800390809900
+   KONDOR I, 1980, PHYS REV B, V22, P1451, DOI 10.1103/PhysRevB.22.1451
+   Luttinger L. M., 1960, PHYS REV, V118, P1417
+   Ma S., 2000, MODERN THEORY CRITIC
+   MA S, 1973, PHYS REV A, V7, P2172, DOI 10.1103/PhysRevA.7.2172
+   MA SK, 1973, REV MOD PHYS, V45, P589, DOI 10.1103/RevModPhys.45.589
+   Mazenko G. F., 2006, NONEQUILIBRIUM STAT
+   OKABE Y, 1978, PROG THEOR PHYS, V59, P1825, DOI 10.1143/PTP.59.1825
+   Okabe Y., 1979, PROG THEOR PHYS, V61, P1049
+   OKABE Y, 1978, PROG THEOR PHYS, V60, P1277, DOI 10.1143/PTP.60.1277
+   OKABE Y, 1978, PROG THEOR PHYS, V60, P1287, DOI 10.1143/PTP.60.1287
+   Pelissetto A, 2002, PHYS REP, V368, P549, DOI 10.1016/S0370-1573(02)00219-3
+   POLYAKOV AM, 1970, JETP LETT-USSR, V12, P381
+   van Hees H, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.025028
+   Vasil'ev A. N., 1982, TEOR MAT FIZ, V50, P195
+   Vasil'ev A. N., 2004, FIELD THEORETIC RENO
+   Vasil'ev A.N., 1981, THEOR MATH PHYS, V46, P157
+   VASILEV AN, 1983, THEOR MATH PHYS+, V55, P529, DOI 10.1007/BF01015163
+   WILSON KG, 1971, PHYS REV B, V4, P3184, DOI 10.1103/PhysRevB.4.3184
+   WILSON KG, 1971, PHYS REV B, V4, P3174, DOI 10.1103/PhysRevB.4.3174
+   Zinn-Justin J., 2002, QUANTUM FIELD THEORY
+NR 36
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD MAR 23
+PY 2012
+VL 85
+IS 6
+AR 065019
+DI 10.1103/PhysRevD.85.065019
+PG 16
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 913AL
+UT WOS:000301843600007
+ER
+
+PT J
+AU Itakura, K
+   Morimatsu, O
+   Otomo, H
+AF Itakura, K.
+   Morimatsu, O.
+   Otomo, H.
+TI Shear viscosity of hadronic gas mixtures
+SO JOURNAL OF PHYSICS G-NUCLEAR AND PARTICLE PHYSICS
+LA English
+DT Article
+AB We investigate the effects of the baryon chemical potential mu on the shear viscosity coefficient eta and the viscosity to entropy density ratio eta/s of a pion nucleon gas mixture. We find that eta is an increasing function of T and mu, while the ratio eta/s turns to a decreasing function in a wide region of the T-mu plane. In the kinematical region we studied, the smallest value of eta/s is about 0.3.
+C1 High Energy Accelerator Res Org KEK, Tsukuba, Ibaraki, Japan.
+   Univ Tokyo, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+RP Itakura, K (reprint author), High Energy Accelerator Res Org KEK, Oho 1-1, Tsukuba, Ibaraki, Japan.
+CR Chen JW, 2007, PHYS REV D, V76, DOI 10.1103/PhysRevD.76.114011
+   Csernai LP, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.152303
+   Hirano T, 2006, NUCL PHYS A, V769, P71, DOI 10.1016/j.nuclphysa.2006.02.005
+   Itakura K, 2008, PHYS REV D, V77, DOI 10.1103/PhysRevD.77.014014
+   Kovtun PK, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.111601
+NR 5
+TC 0
+Z9 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0954-3899
+J9 J PHYS G NUCL PARTIC
+JI J. Phys. G-Nucl. Part. Phys.
+PD OCT
+PY 2008
+VL 35
+IS 10
+AR 104149
+DI 10.1088/0954-3899/35/10/104149
+PG 4
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 350NB
+UT WOS:000259358200149
+ER
+
+PT J
+AU Itakura, K
+   Morimatsu, O
+   Otomo, H
+AF Itakura, Kazunori
+   Morimatsu, Osamu
+   Otomo, Hiroshi
+TI Shear viscosity of a hadronic gas mixture
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID QUARK-GLUON PLASMA; PION GAS; TRANSPORT-COEFFICIENTS; ENTROPY DENSITY;
+   SCATTERING; RATIO; QCD
+AB We discuss in detail the shear viscosity coefficient eta and the viscosity to entropy density ratio eta/s of a hadronic gas comprised of pions and nucleons. In particular, we study the effects of baryon chemical potential on eta and eta/s. We solve the relativistic quantum Boltzmann equations with binary collisions (pi pi, pi N, and NN) for a state slightly deviated from thermal equilibrium at temperature T and baryon chemical potential mu. The use of phenomenological amplitudes in the collision terms, which are constructed to reproduce experimental data, greatly helps to extend the validity region in the T-mu plane. The total viscosity coefficient eta(T,mu)=eta(pi)+eta(N) increases as a function of T and mu, indirectly reflecting energy dependences of binary cross sections. The increase in mu direction is due to enhancement of the nucleon contribution eta(N) while the pion contribution eta(pi) diminishes with increasing mu. On the other hand, due to rapid growth of entropy density, the ratio eta/s becomes a decreasing function of T and mu in a wide region of the T-mu plane. In the kinematical region we investigated T < 180 MeV, mu < 1 GeV, the smallest value of eta/s is about 0.3. Thus, it never violates the conjectured lower bound eta/s=1/4 pi similar to 0.1. The smallness of eta/s in the hadronic phase and its continuity at T similar or equal to T(c) (at least for crossover at small mu) implies that the ratio will be small enough in the deconfined phase T greater than or similar to T(c). There is a nontrivial structure at low temperature and at around normal nuclear density. We examine its possible interpretation as the liquid-gas phase transition.
+C1 High Energy Accelerator Res Org, Tsukuba, Ibaraki 3050801, Japan.
+   Univ Tokyo, Dept Phys, Bunkyo Ku, Tokyo 1130033, Japan.
+RP Itakura, K (reprint author), High Energy Accelerator Res Org, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+CR Arsene I, 2005, NUCL PHYS A, V757, P1, DOI 10.1016/j.nuclphysa.2005.02.130
+   BAREYRE P, 1968, PHYS REV, V165, P1730, DOI 10.1103/PhysRev.165.1730
+   Chapman S, 1970, MATH THEORY NONUNIFO
+   Chen JW, 2007, PHYS REV D, V76, DOI 10.1103/PhysRevD.76.114011
+   Chen JW, 2007, PHYS LETT B, V647, P371, DOI 10.1016/j.physletb.2007.02.026
+   Colangelo G, 2001, NUCL PHYS B, V603, P125, DOI 10.1016/S0550-3213(01)00147-X
+   Csernai LP, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.152303
+   DANIELEWICZ P, 1985, PHYS REV D, V31, P53, DOI 10.1103/PhysRevD.31.53
+   Davesne D, 1996, PHYS REV C, V53, P3069, DOI 10.1103/PhysRevC.53.3069
+   DEGROOT SR, 1980, RELATIVISTIC KINETIC, P417
+   Dobado A, 2004, PHYS REV D, V69, DOI 10.1103/PhysRevD.69.116004
+   Dobado A, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.096011
+   Dobado A, 2007, EUR PHYS J C, V49, P1011, DOI 10.1140/epjc/s10052-006-0176-4
+   Elliott JB, 2003, PHYS REV C, V67, DOI 10.1103/PhysRevC.67.024609
+   Ericson T., 1988, PIONS NUCL
+   Fettes N, 1998, NUCL PHYS A, V640, P199, DOI 10.1016/S0375-9474(98)00452-7
+   Gavin S, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.162302
+   GAVIN S, 1985, NUCL PHYS A, V435, P826, DOI 10.1016/0375-9474(85)90190-3
+   GERBER P, 1990, PHYS LETT B, V246, P513, DOI 10.1016/0370-2693(90)90640-R
+   Hirano T, 2006, NUCL PHYS A, V769, P71, DOI 10.1016/j.nuclphysa.2006.02.005
+   Kennard E.H., 1938, KINETIC THEORY GASES
+   KOCH R, 1980, NUCL PHYS A, V336, P331, DOI 10.1016/0375-9474(80)90214-6
+   Kovtun PK, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.111601
+   Lacey RA, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.092301
+   Meyer HB, 2007, PHYS REV D, V76, DOI 10.1103/PhysRevD.76.101701
+   Moretto LG, 2005, PHYS REV C, V72, DOI 10.1103/PhysRevC.72.064605
+   Muronga A, 2007, PHYS REV C, V76, DOI 10.1103/PhysRevC.76.014909
+   Muronga A, 2007, PHYS REV C, V76, DOI 10.1103/PhysRevC.76.014910
+   Muronga A, 2004, PHYS REV C, V69, DOI 10.1103/PhysRevC.69.044901
+   Muroya S, 2005, PROG THEOR PHYS, V113, P457, DOI 10.1143/PTP.113.457
+   Nakamura A, 2006, NUCL PHYS A, V774, P775, DOI 10.1016/j.nuclphysa.2006.06.134
+   NAKAMURA A, 2006, P SCI LAT, P186
+   Nakamura A, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.072305
+   Natowitz JB, 2002, PHYS REV C, V65, DOI 10.1103/PhysRevC.65.034618
+   PRAKASH M, 1993, PHYS REP, V227, P321, DOI 10.1016/0370-1573(93)90092-R
+   SITENKO A, 1997, THEORY NUCL
+   WEINBERG S, 1979, PHYSICA A, V96, P327, DOI 10.1016/0378-4371(79)90223-1
+NR 37
+TC 29
+Z9 29
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD JAN
+PY 2008
+VL 77
+IS 1
+AR 014014
+DI 10.1103/PhysRevD.77.014014
+PG 19
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 258JH
+UT WOS:000252863700036
+ER
+
+PT J
+AU Iwazaki, A
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+AF Iwazaki, Aiichi
+   Morimatsu, Osamu
+   Nishikawa, Tetsuo
+   Ohtani, Munehisa
+TI Color ferromagnetic quark matter in neutron stars
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS A
+LA English
+DT Article
+DE quark matter; color superconductivity; quantum Hall states; neutron
+   stars
+ID FINITE-TEMPERATURE; VACUUM STATE; GAUGE-THEORY
+AB Color superconducting state has been known as a possible phase of quark matter with sufficiently large baryon number density so as for perturbative analysis to be valid. We point out that a color ferromagnetic state is another possible phase of such a sufficiently dense quark matter. Furthermore, we show under reasonable choices of parameters that the color ferromagnetic phase is energetically more favored than the color superconducting phase in the quark matter with smaller baryon number density. Supposing that increasing baryon density in neutron stars transforms nuclear matter into the quark matter of the color ferromagnetic phase, not color superconducting phase, we find that a critical mass of the neutron star with such an internal structure is about 106M(circle dot).
+C1 Univ Nis, Dept Phys, Kashiwa, Chiba 2778585, Japan.
+   Inst Particle & Nucl Studies, High Energy Accelerat Res Org, Tsukuba, Ibaraki 3050801, Japan.
+   Tokyo Inst Technol, Dept Phys, Tokyo, Japan.
+   Inst Particle & Nucl Studies, High Energy Accelerat Res Org, Tsukuba, Ibaraki 3050801, Japan.
+   RIKEN, Radiat Lab, Wako, Saitama 3510198, Japan.
+RP Iwazaki, A (reprint author), Univ Nis, Dept Phys, Kashiwa, Chiba 2778585, Japan.
+EM iwazaki@yukawa.kyoto-u.ac.jp; osamu.morimatsu@kek.jp;
+   nishi@th.phys.titech.ac.jp; ohtani@post.kek.jp
+CR Akmal A, 1998, PHYS REV C, V58, P1804, DOI 10.1103/PhysRevC.58.1804
+   Alford M, 2005, ASTROPHYS J, V629, P969, DOI 10.1086/430902
+   Alford M., 2002, JHEP, V0206, P031
+   Das Sarma S., 1997, PERSPECTIVES QUANTUM
+   Huang M, 2004, PHYS REV D, V70, DOI 10.1103/PhysRevD.70.094030
+   Iwazaki A, 2004, PHYS LETT B, V579, P347, DOI 10.1016/j.physletb.2003.10.116
+   Iwazaki A, 2003, PHYS LETT B, V571, P61, DOI 10.1016/j.physletb.2003.07.061
+   Iwazaki A, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.034014
+   IWAZAKI A, 2005, PHYS REV, V72
+   LATTIMER JM, ASTROPH0405262
+   NIELSEN NK, 1978, NUCL PHYS B, V144, P376, DOI 10.1016/0550-3213(78)90377-2
+   NIELSEN NK, 1978, PHYS LETT B, V79, P304, DOI 10.1016/0370-2693(78)90249-6
+   PAGELS H, 1978, LECT CORAL GABLES
+   RAJAGOPAL K, 2002, FRONTIER PARTICLE PH
+   SAVVIDY GK, 1977, PHYS LETT B, V71, P133, DOI 10.1016/0370-2693(77)90759-6
+   SHAPIRO SL, 1983, BALCK HOLES WHITE DW
+   Skalozub V, 2000, NUCL PHYS B, V576, P430, DOI 10.1016/S0550-3213(00)00101-2
+   STARINETS AO, 1994, PHYS LETT B, V322, P403, DOI 10.1016/0370-2693(94)91172-X
+NR 18
+TC 1
+Z9 1
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0217-751X
+J9 INT J MOD PHYS A
+JI Int. J. Mod. Phys. A
+PD FEB 10
+PY 2007
+VL 22
+IS 4
+BP 721
+EP 730
+DI 10.1142/S0217751X07035161
+PG 10
+WC Physics, Nuclear; Physics, Particles & Fields
+SC Physics
+GA 234JD
+UT WOS:000251156500003
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+   Nishikawa, T
+   Kanada-En'yo, Y
+AF Kondo, Yoshihiko
+   Morimatsu, Osamu
+   Nishikawa, Tetsuo
+   Kanada-En'yo, Yoshiko
+TI Positive and negative-parity flavor-octet baryons in coupled QCD sum
+   rules
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID CHIRAL SYMMETRY-BREAKING; QUANTUM CHROMODYNAMICS; RESONANCE PHYSICS;
+   MASSES
+AB We apply the method of the QCD sum rule, in which positive- and negative-parity baryons couple with each other, to the flavor-octet hyperons and investigate the parity splittings. We also reexamine the nucleon in the method, which was studied in our previous paper, by carefully choosing the Borel weight. Both in the nucleon and hyperon channels the obtained sum rules turn out to have a very good Borel stability and also have a Borel window, an energy region in which the OPE converges and the pole contribution dominates over the continuum contribution. The predicted masses of the positive- and negative-parity baryons reproduce the experimental ones fairly well in the Lambda and Sigma channels, if we assign the Lambda(1670) and the Sigma(1620) to the parity partners of the Lambda and the Sigma, respectively. This implies that the Lambda(1405) is not the parity partner of the Lambda and may be a flavor-singlet or exotic state. In the Xi channel, the sum rule predicts the mass of the negative-parity state to be about 1.8 GeV, which leads to two possibilities; one is that the observed state with the closest mass, Xi(1690), is the parity partner and the other is that the parity partner is not yet found but exists around 1.8 GeV.
+C1 Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Tokyo Inst Technol, Dept Phys, Tokyo 1528551, Japan.
+   Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Tokyo 1508440, Japan.
+EM kondo@kokugakuin.ac.jp; osamu.morimatsu@kek.jp;
+   nishi@th.phys.titech.ac.jp; yenyo@yukawa.kyoto-u.ac.jp
+CR BELYAEV VM, 1982, SOV PHYS JETP, V56, P4936
+   BELYAEV VM, 1982, ZH EKSP TEOR FIZ+, V83, P876
+   Belyaev V.M., 1982, SOV PHYS JETP, V57, P716
+   Choe S, 1998, EUR PHYS J A, V3, P65, DOI 10.1007/s100500050148
+   CHUNG Y, 1982, NUCL PHYS B, V197, P55, DOI 10.1016/0550-3213(82)90154-7
+   ESPRIU D, 1983, NUCL PHYS B, V214, P285, DOI 10.1016/0550-3213(83)90663-6
+   Furuichi M, 2003, PHYS REV C, V68, DOI 10.1103/PhysRevC.68.034001
+   Glozman LY, 1998, PHYS REV D, V58, DOI 10.1103/PhysRevD.58.094030
+   IOFFE BL, 1981, NUCL PHYS B, V191, P591
+   IOFFE BL, 1984, NUCL PHYS B, V232, P109, DOI 10.1016/0550-3213(84)90364-X
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   IOFFE BL, 1983, Z PHYS C PART FIELDS, V18, P67, DOI 10.1007/BF01571709
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   JIDO D, HEPPH9611322
+   Jido D, 1996, PHYS REV D, V54, P4532, DOI 10.1103/PhysRevD.54.4532
+   Jido D, 1998, NUCL PHYS A, V629, p156C
+   Kondo Y, 2006, NUCL PHYS A, V764, P303, DOI 10.1016/j.nuclphysa.2005.09.003
+   Lee FX, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.014014
+   Leinweber DB, 2005, LECT NOTES PHYS, V663, P71, DOI 10.1007/11356462_4
+   LIU JP, 1984, Z PHYS C PART FIELDS, V22, P171, DOI 10.1007/BF01572167
+   Nemoto Y, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.094505
+   OVCHINNIKOV AA, 1988, SOV J NUCL PHYS+, V48, P721
+   REINDERS LJ, 1983, PHYS LETT B, V120, P209, DOI 10.1016/0370-2693(83)90656-1
+   REINDERS LJ, 1983, PHYS LETT B, V122, P487
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1978, PHYS LETT B, V77, P80, DOI 10.1016/0370-2693(78)90206-X
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   YANG KC, 1993, PHYS REV D, V47, P3001, DOI 10.1103/PhysRevD.47.3001
+   Yao WM, 2006, J PHYS G NUCL PARTIC, V33, P1, DOI 10.1088/0954-3899/33/1/001
+NR 30
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD FEB
+PY 2007
+VL 75
+IS 3
+AR 034010
+DI 10.1103/PhysRevD.75.034010
+PG 7
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 140VM
+UT WOS:000244534800029
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+   Nishikawa, T
+   Kanada-En'Yo, Y
+AF Kondo, Yoshihiko
+   Morimatsu, Osamu
+   Nishikawa, Tetsuo
+   Kanada-En'Yo, Yoshiko
+TI Positive and negative-parity baryons in coupled QCD sum rules
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT Yukawa International Seminar on New Frontiers in QCD - Exotic Hadrons
+   and Hadronic Matter
+CY NOV 20-DEC 08, 2006
+CL Kyoto, JAPAN
+HO Kyoto Univ, Yukawa Inst Theoret Phys
+ID CHIRAL SYMMETRY-BREAKING; RESONANCE; PHYSICS; MASSES
+AB We apply the method of the QCD sum rule, in which positive- and negative-parity baryons couple with each other, to the flavor-octet baryons and investigate the parity splittings. The obtained sum rules turn out to have a very good Borel stability and also have a Borel window. The predicted masses of the positive- and negative-parity baryons reproduce the experimental ones fairly well in the Lambda and Sigma channels, if we assign the Lambda(1670) and the Sigma(1620) to the parity partners of the Lambda and the Sigma, respectively. This implies that the Lambda(1405) is not the party partner of the Lambda and may be a flavor-singlet or exotic state. In the Xi channel. the sum rule predicts the mass of the negative-parity state to be about 1.8 GeV, which leads to two possibilities; one is that the observed state, Xi(1690), is the parity partner and the other is that the parity partner is not yet found but exists around 1.8 GeV.
+C1 Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Tokyo Inst Technol, Dept Phys, Tokyo 1528551, Japan.
+   Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Tokyo 1508440, Japan.
+EM kondo@kokugakuin.ac.jp
+CR CHUNG Y, 1982, NUCL PHYS B, V197, P55, DOI 10.1016/0550-3213(82)90154-7
+   ESPRIU D, 1983, NUCL PHYS B, V214, P285, DOI 10.1016/0550-3213(83)90663-6
+   IOFFE BL, 1981, NUCL PHYS B, V191, P591
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   Jido D, 1996, PHYS REV D, V54, P4532, DOI 10.1103/PhysRevD.54.4532
+   Kondo Y, 2007, PHYS REV D, V75, DOI 10.1103/PhysRevD.75.034010
+   Kondo Y, 2006, NUCL PHYS A, V764, P303, DOI 10.1016/j.nuclphysa.2005.09.003
+   Lee FX, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.014014
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   Yao WM, 2006, J PHYS G NUCL PARTIC, V33, P1, DOI 10.1088/0954-3899/33/1/001
+NR 10
+TC 0
+Z9 0
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2007
+IS 168
+BP 50
+EP 53
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 232JM
+UT WOS:000251015200010
+ER
+
+PT J
+AU Nishikawa, T
+   Kondo, Y
+   Morimatsu, O
+   Kanada-En'Yo, Y
+AF Nishikawa, Tetsuo
+   Kondo, Yoshihiko
+   Morimatsu, Osamu
+   Kanada-En'Yo, Yoshiko
+TI Pentaquarks in QCD sum rules
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT Yukawa International Seminar on New Frontiers in QCD - Exotic Hadrons
+   and Hadronic Matter
+CY NOV 20-DEC 08, 2006
+CL Kyoto, JAPAN
+HO Kyoto Univ, Yukawa Inst Theoret Phys
+ID RESONANCE; BARYON
+AB QCD sum rules for pentaquarks are studied. We point out that naive pentaquark correlations function include two-hadron-reducible contributions, which are given by convolution of baryon and meson correlation functions and have nothing to do with the pentaquark. We show that the two-hadron-reducible contributions are large in the operator product expansion of the correlation functions. Instead, we propose to use the two-hadron-irreducible correlation function, which is obtained by subtracting the two-hadron-reducible contribution from the naive correlation function. How large the two-hadron-reducible contributions are in the OPE is demonstrated through the application to spin-1/2 and 3/2 states of the pentaquark.
+C1 Tokyo Inst Technol, Dept Phys, Tokyo 1528550, Japan.
+   Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+RP Nishikawa, T (reprint author), Tokyo Inst Technol, Dept Phys, Tokyo 1528550, Japan.
+EM nishi@th.phys.titech.ac.jp; kondo@kokugakuin.ac.jp;
+   osamu.morimatsu@kek.jp; yenyo@yukawa.kyoto-u.ac.jp
+CR Jido D, 1996, PHYS REV D, V54, P4532, DOI 10.1103/PhysRevD.54.4532
+   Kondo Y, 2005, PHYS LETT B, V611, P93, DOI 10.1016/j.physletb.2005.01.070
+   KONDO Y, IN PRESS
+   Matheus RD, 2006, NUCL PHYS B-PROC SUP, V152, P236, DOI 10.1016/j.nuclphysbps.2005.08.045
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   Nishikawa T, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.076004
+   Nishikawa T, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.016001
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   Sugiyama J, 2004, PHYS LETT B, V581, P167, DOI 10.1016/j.physletb.2003.12.018
+NR 9
+TC 0
+Z9 0
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2007
+IS 168
+BP 54
+EP 57
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 232JM
+UT WOS:000251015200011
+ER
+
+PT J
+AU Kanada-En'yo, Y
+   Morimatsu, O
+   Nishikawa, T
+AF Kanada-En'yo, Yoshiko
+   Morimatsu, Osamu
+   Nishikawa, Tetsuo
+TI Axial vector tetraquark with two s-quarks
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT Yukawa International Seminar on New Frontiers in QCD - Exotic Hadrons
+   and Hadronic Matter
+CY NOV 20-DEC 08, 2006
+CL Kyoto, JAPAN
+HO Kyoto Univ, Yukawa Inst Theoret Phys
+ID ANTISYMMETRIZED MOLECULAR-DYNAMICS; MODEL; PENTAQUARK; HADRONS; BARYONS;
+   MESONS
+AB Possibility of an axial vector isoscalar tetraquark ud (s) over bar(s) over bar is discussed. If a f(1) meson in the mass region 1.4 - 1.5 GeV consists of four quarks n (s) over barn (s) over bar, the mass of the isoscalar ud (s) over bar(s) over bar(upsilon(+)_ meson) state with J(P) = 1(+) is expected to be lower than that of the f, meson. Within a flux-tube quark model, a possible resonant state of ud (s) over bar(s) over bar (J(P) = 1(+)) is suggested to appear at similar to 1.4 GeV with the width phi(20 similar to 50) MeV. We propose that the upsilon(+)-meson is the aood candidate for the tetraquark search. which would be observed in the K+K+pi(-) decay channel.
+C1 Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Tokyo Inst Technol, Dept Phys, Tokyo 1528551, Japan.
+RP Kanada-En'yo, Y (reprint author), Kyoto Univ, Yukawa Inst Theoret Phys, Kyoto 6068502, Japan.
+CR Aubert B, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.242001
+   Barnes T, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.054006
+   Burns TJ, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.014017
+   CARLSON J, 1991, PHYS REV D, V43, P1652, DOI 10.1103/PhysRevD.43.1652
+   Close FE, 1997, Z PHYS C PART FIELDS, V76, P469, DOI 10.1007/s002880050569
+   CLOSE FE, 1987, PHYS LETT B, V196, P245, DOI 10.1016/0370-2693(87)90613-7
+   Close F.E., 2002, J PHYS G, V28, pR249
+   Diakonov D, 1997, Z PHYS A-HADRON NUCL, V359, P305, DOI 10.1007/s002180050406
+   Eidelman S, 2004, PHYS LETT B, V592, P1, DOI 10.1016/j.physletb.2004.06.001
+   Godfrey S, 1999, REV MOD PHYS, V71, P1411, DOI 10.1103/RevModPhys.71.1411
+   GODFREY S, 1985, PHYS REV D, V32, P189, DOI 10.1103/PhysRevD.32.189
+   Jaffe R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232003
+   JAFFE RJ, 1977, PHYS REV D, V15, P267, DOI 10.1103/PhysRevD.15.267
+   JAFFE RL, 1979, PHYS REV D, V19, P2105, DOI 10.1103/PhysRevD.19.2105
+   JAFFE RL, 1977, PHYS REV LETT, V38, P195, DOI 10.1103/PhysRevLett.38.195
+   Kanada-En'yo Y, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.094005
+   Kanada-En'yo Y, 2005, PHYS REV C, V71, DOI 10.1103/PhysRevC.71.045202
+   KANADAENYO Y, 1995, PHYS REV C, V52, P647, DOI 10.1103/PhysRevC.52.647
+   KANADAENYO Y, 2004, P PENTAQARK04 SPRING
+   KANADAENYO Y, HEPPH0404144
+   KANADAENYO Y, HEPPH0410221
+   KANADAENYO Y, 1995, PHYS REV C, V52, P628, DOI 10.1103/PhysRevC.52.628
+   Karliner M, 2005, PHYS LETT B, V612, P197, DOI [10.1016/j.physletb.2005.03.038, 10.1016/j.physletb.2005.03.028]
+   Karliner M, 2003, PHYS LETT B, V575, P249, DOI 10.1016/j.physletb.2003.09.062
+   Lipkin HJ, 1997, NUCL PHYS A, V625, P207, DOI 10.1016/S0375-9474(97)81460-1
+   Nakano T, 2005, INT J MOD PHYS A, V20, P1543, DOI 10.1142/S0217751X05022962
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   Nishikawa T, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.076004
+   Oka M, 2004, PROG THEOR PHYS, V112, P1, DOI 10.1143/PTP.112.1
+   Sakai T, 2000, PROG THEOR PHYS SUPP, P121
+   Stancu F, 1999, FEW BODY SY, V11, P33
+   TAKEUCHI S, 2005, PHYS REV C, V71, DOI UNSP 062202(R)
+   WEINSTEIN J, 1990, PHYS REV D, V41, P2236, DOI 10.1103/PhysRevD.41.2236
+NR 33
+TC 0
+Z9 0
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2007
+IS 168
+BP 194
+EP 197
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 232JM
+UT WOS:000251015200034
+ER
+
+PT J
+AU Hidaka, Y
+   Morimatsu, O
+   Ohtani, M
+AF Hidaka, Y
+   Morimatsu, O
+   Ohtani, M
+TI Renormalization group equations in a model of generalized hidden local
+   symmetry and restoration of chiral symmetry
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID DYNAMICAL GAUGE BOSONS; NUCLEAR-MATTER; ONE-LOOP; VECTOR MANIFESTATION;
+   PERTURBATION-THEORY; RESONANCE PHYSICS; PHASE-TRANSITION; RHO-MESON;
+   QCD; REALIZATIONS
+AB We study possible restoration patterns of chiral symmetry in a generalized hidden local symmetry model, which is a low-energy effective theory of QCD including pseudoscalar, vector and axial-vector mesons. We derive Wilsonian renormalization-group equations and analyze the running couplings and their fixed points at the chiral restoration point. We find three types of the chiral restoration, which are classified as the standard, vector manifestation and intermediate scenarios, respectively. It turns out that the rho and A(1) meson become massless and their decay into pion is suppressed in all the restoration patterns. Each restoration scenario violates or fulfills the vector-meson dominance at the critical point in a different manner, which may reflect on the contributions from the pion to the dilepton spectrum.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   RIKEN, Radiat Lab, Wako, Saitama 3510198, Japan.
+RP Hidaka, Y (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+EM hidaka@post.kek.jp; osamu.morimatsu@kek.jp; ohtani@rarfaxp.riken.jp
+CR Adams J, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.092301
+   AGAKICHIEV G, 1995, PHYS REV LETT, V75, P1272, DOI 10.1103/PhysRevLett.75.1272
+   BANDO M, 1988, PROG THEOR PHYS, V79, P1140, DOI 10.1143/PTP.79.1140
+   BANDO M, 1985, PROG THEOR PHYS, V73, P1541, DOI 10.1143/PTP.73.1541
+   BANDO M, 1988, PHYS REP, V164, P217, DOI 10.1016/0370-1573(88)90019-1
+   BANDO M, 1985, PHYS REV LETT, V54, P1215, DOI 10.1103/PhysRevLett.54.1215
+   BANDO M, 1985, NUCL PHYS B, V259, P493, DOI 10.1016/0550-3213(85)90647-9
+   Bonutti F, 2000, NUCL PHYS A, V677, P213, DOI 10.1016/S0375-9474(00)00286-4
+   Bonutti F, 1996, PHYS REV LETT, V77, P603, DOI 10.1103/PhysRevLett.77.603
+   BROWN GE, NUCLTH0507073
+   BROWN GE, 1991, PHYS REV LETT, V66, P2720, DOI 10.1103/PhysRevLett.66.2720
+   Brown GE, 2002, PHYS REP, V363, P85, DOI 10.1016/S0370-1573(01)00084-9
+   Chiku S, 1998, PHYS REV D, V58, DOI 10.1103/PhysRevD.58.076001
+   ECKER G, 1989, NUCL PHYS B, V321, P311, DOI 10.1016/0550-3213(89)90346-5
+   FUJIWARA T, 1985, PROG THEOR PHYS, V73, P926, DOI 10.1143/PTP.73.926
+   GASSER J, 1984, ANN PHYS-NEW YORK, V158, P142, DOI 10.1016/0003-4916(84)90242-2
+   Gilman F.J., 1968, Physical Review, V165, DOI 10.1103/PhysRev.165.1803
+   Harada M, 1999, PHYS REV LETT, V83, P3374, DOI 10.1103/PhysRevLett.83.3374
+   Harada M, 2001, PHYS REV LETT, V86, P757, DOI 10.1103/PhysRevLett.86.757
+   Harada M, 2003, PHYS REP, V381, P1, DOI 10.1016/S0370-1573(03)00139-X
+   HARADA M, HEPPH0511312
+   HARADA M, 1992, PHYS LETT B, V297, P151, DOI 10.1016/0370-2693(92)91084-M
+   Harada M, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.016003
+   Harada M, 2001, PHYS REV D, V64, DOI 10.1103/PhysRevD.64.014023
+   Harada M, 2002, PHYS LETT B, V537, P280, DOI 10.1016/S0370-2693(02)01940-8
+   HATSUDA T, 1994, PHYS REP, V247, P221, DOI 10.1016/0370-1573(94)90022-1
+   HATSUDA T, 1985, PHYS REV LETT, V55, P158, DOI 10.1103/PhysRevLett.55.158
+   Hidaka Y, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.111901
+   NARUKI M, NUCLEX0504016
+   Ozawa K, 2001, PHYS REV LETT, V86, P5019, DOI 10.1103/PhysRevLett.86.5019
+   Rapp R, 2000, ADV NUCL PHYS, V25, P1
+   Sakurai J., 1969, CURRENTS MESONS
+   SCHWINGE.J, 1967, PHYS LETT B, VB 24, P473, DOI 10.1016/0370-2693(67)90277-8
+   SCOMPARIN E, 2005, P 18 INT C NUCL NUCL
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   TANABASHI M, 1993, PHYS LETT B, V316, P534, DOI 10.1016/0370-2693(93)91040-T
+   WEINBERG S, 1990, PHYS REV LETT, V65, P1177, DOI 10.1103/PhysRevLett.65.1177
+   WEINBERG S, 1969, PHYS REV, V177, P2604, DOI 10.1103/PhysRev.177.2604
+   WEINBERG S, 1968, PHYS REV, V166, P1568, DOI 10.1103/PhysRev.166.1568
+   WESS J, 1967, PHYS REV, V163, P1727, DOI 10.1103/PhysRev.163.1727
+   YAMAWAKI K, HEPTH9802037
+   YANG CN, 1954, PHYS REV, V96, P191, DOI 10.1103/PhysRev.96.191
+NR 43
+TC 15
+Z9 15
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD FEB
+PY 2006
+VL 73
+IS 3
+AR 036004
+DI 10.1103/PhysRevD.73.036004
+PG 24
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 017BQ
+UT WOS:000235669500069
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+   Nishikawa, T
+AF Kondo, Y
+   Morimatsu, O
+   Nishikawa, T
+TI Coupled QCD sum rules for positive and negative-parity nucleons
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+DE nucleon; parity; QCD sum rule
+ID CHIRAL SYMMETRY-BREAKING; QUANTUM CHROMODYNAMICS; BARYON MASSES;
+   RESONANCE PHYSICS; STRANGE BARYONS; INSTANTONS; CURRENTS
+AB A new approach of the QCD sum rule is proposed in which positive and negative-parity baryons couple with each other. With positive and negative-parity states explicitly taken into account, sum rules are derived by means of the dispersion relation in energy. The method is applied to the nucleon channel and the parity splitting of the nucleon resonance states is studied. It is found that the obtained SUM rules have a very good Borel stability. This suggests that the ansatz for the spectral function in the present sum rule approximates the physical spectrum better than the usual lowest pole plus continuum ansatz. The predicted masses of the positive and negative nucleons reproduce the experimental ones fairly well. Especially, the mass difference is extremely close to the experimental value. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Kokugakuin Univ, Higashi Ku, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Nucl & Particle Phys, Tsukuba, Ibaraki 3050801, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Higashi Ku, Tokyo 1508440, Japan.
+EM kondo@kokugakuin.ac.jp; osamu.morimatsu@kek.jp;
+   nishi@th.phys.titech.ac.jp
+CR Belyaev V.M., 1982, SOV PHYS JETP, V56, P493
+   BELYAEV VM, 1983, ZH EKSP TEOR FIZ+, V84, P1236
+   BELYAEV VM, 1982, ZH EKSP TEOR FIZ+, V83, P876
+   Belyaev V.M., 1982, SOV PHYS JETP, V57, P716
+   CHUNG Y, 1981, PHYS LETT B, V102, P175, DOI 10.1016/0370-2693(81)91057-1
+   CHUNG Y, 1982, NUCL PHYS B, V197, P55, DOI 10.1016/0550-3213(82)90154-7
+   DOROKHOV AE, 1990, Z PHYS C PART FIELDS, V46, P281, DOI 10.1007/BF01556005
+   ESPRIU D, 1983, NUCL PHYS B, V214, P285, DOI 10.1016/0550-3213(83)90663-6
+   FORKEL H, 1993, PHYS REV LETT, V71, P484, DOI 10.1103/PhysRevLett.71.484
+   IOFFE BL, 1981, NUCL PHYS B, V191, P591
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   IOFFE BL, 1983, Z PHYS C PART FIELDS, V18, P67, DOI 10.1007/BF01571709
+   Jido D, 1996, PHYS REV D, V54, P4532, DOI 10.1103/PhysRevD.54.4532
+   OVCHINNIKOV AA, 1988, SOV J NUCL PHYS+, V48, P721
+   REINDERS LJ, 1983, PHYS LETT B, V120, P209, DOI 10.1016/0370-2693(83)90656-1
+   REINDERS LJ, 1983, PHYS LETT B, V122, P487
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SCHWARTZ L, THEORIE DISTRIBUTION
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1978, PHYS LETT B, V77, P80, DOI 10.1016/0370-2693(78)90206-X
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+NR 21
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD JAN 9
+PY 2006
+VL 764
+BP 303
+EP 312
+DI 10.1016/j.nuclphysa.2005.09.003
+PG 10
+WC Physics, Nuclear
+SC Physics
+GA 001ZB
+UT WOS:000234580100017
+ER
+
+PT J
+AU Kanada-En'yo, Y
+   Morimatsu, O
+   Nishikawa, T
+AF Kanada-En'yo, Y
+   Morimatsu, O
+   Nishikawa, T
+TI Axial-vector tetraquark with S=+2
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID ANTISYMMETRIZED MOLECULAR-DYNAMICS; MULTI-QUARK HADRONS;
+   POSITIVE-STRANGENESS; PENTAQUARK BARYONS; MODEL; RESONANCE; MESONS;
+   PHOTOPRODUCTION; CHROMODYNAMICS; SPECTROSCOPY
+AB The possibility of an axial-vector isoscalar tetraquark with ud (s) over bar(s) over bar is discussed. If the pentaquark Theta(+)(1540) has the (qq)((3) over bar)(qq)((3) over bar)(q) over bar configuration, the isoscalar ud (s) over bar(s) over bar (theta(+)- meson) state with J(P) = 1(+) is expected to exist in the mass region lower than, or close to, the mass of Theta(+) (1540). Within a flux-tube quark model, a possible resonant state of ud (s) over bar(s) over bar (J(P) = 1(+)) is suggested to appear around 1.4 GeV with the width O(20 similar to 80) MeV. We propose that the theta(+)-meson is a good candidate for the tetraquark search, which would be observed in the K(+)K(+)pi(-) decay channel.
+C1 High Energy Accelerator Res Org, Isnt Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Kanada-En'yo, Y (reprint author), High Energy Accelerator Res Org, Isnt Particle & Nucl Studies, 1-1 Oho, Tsukuba, Ibaraki 3050801, Japan.
+CR Airapetian A, 2004, PHYS LETT B, V585, P213, DOI 10.1016/j.physletb.2004.01.079
+   ALEEV A, HEPEX0401024
+   Asratyan AE, 2004, PHYS ATOM NUCL+, V67, P682, DOI 10.1134/1.1707127
+   Aubert B, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.242001
+   Bando M, 2004, PROG THEOR PHYS, V112, P325, DOI 10.1143/PTP.112.325
+   Barmin VV, 2003, PHYS ATOM NUCL+, V66, P1715, DOI 10.1134/1.1611587
+   Barnes T, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.054006
+   Barth J, 2003, PHYS LETT B, V572, P127, DOI 10.1016/j.physletb.2003.08.019
+   Burns TJ, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.014017
+   CARLSON J, 1983, PHYS REV D, V28, P2807, DOI 10.1103/PhysRevD.28.2807
+   CARLSON J, 1983, PHYS REV D, V27, P233, DOI 10.1103/PhysRevD.27.233
+   CARLSON J, 1991, PHYS REV D, V43, P1652, DOI 10.1103/PhysRevD.43.1652
+   CHEKANOV SV, HEPEX0404007
+   Close FE, 1997, Z PHYS C PART FIELDS, V76, P469, DOI 10.1007/s002880050569
+   CLOSE FE, 1987, PHYS LETT B, V196, P245, DOI 10.1016/0370-2693(87)90613-7
+   Close FE, 2002, J PHYS G NUCL PARTIC, V28, pR249, DOI 10.1088/0954-3899/28/10/201
+   Diakonov D, 1997, Z PHYS A-HADRON NUCL, V359, P305, DOI 10.1007/s002180050406
+   Eidelman S, 2004, PHYS LETT B, V592, P1, DOI 10.1016/j.physletb.2004.06.001
+   Eidemuller M, 2004, PHYS LETT B, V597, P314, DOI 10.1016/j.physletb.2004.07.029
+   Godfrey S, 1999, REV MOD PHYS, V71, P1411, DOI 10.1103/RevModPhys.71.1411
+   GODFREY S, 1985, PHYS REV D, V32, P189, DOI 10.1103/PhysRevD.32.189
+   Hidaka Y, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.111901
+   Hosaka A, 2003, PHYS LETT B, V571, P55, DOI 10.1016/j.physletb.2003.07.067
+   Jaffe R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232003
+   JAFFE RJ, 1977, PHYS REV D, V15, P267, DOI 10.1103/PhysRevD.15.267
+   JAFFE RL, 1979, PHYS REV D, V19, P2105, DOI 10.1103/PhysRevD.19.2105
+   JAFFE RL, 1977, PHYS REV D, V15, P281, DOI 10.1103/PhysRevD.15.281
+   JAFFE RL, 1977, PHYS REV LETT, V38, P195, DOI 10.1103/PhysRevLett.38.195
+   Kanada-En'yo Y, 2003, CR PHYS, V4, P497, DOI 10.1016/S1631-0705(03)00062-8
+   Kanada-En'yo Y, 2005, PHYS REV C, V71, DOI 10.1103/PhysRevC.71.045202
+   KANADAENYO Y, 1995, PHYS REV C, V52, P647, DOI 10.1103/PhysRevC.52.647
+   KANADAENYO Y, HEPPH0410221
+   KANADAENYO Y, 1995, PHYS REV C, V52, P628, DOI 10.1103/PhysRevC.52.628
+   Karliner M, 2005, PHYS LETT B, V612, P197, DOI [10.1016/j.physletb.2005.03.038, 10.1016/j.physletb.2005.03.028]
+   Karliner M, 2003, PHYS LETT B, V575, P249, DOI 10.1016/j.physletb.2003.09.062
+   KOGUT J, 1975, PHYS REV D, V11, P395, DOI 10.1103/PhysRevD.11.395
+   Kubarovsky V, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.032001
+   Lipkin HJ, 1997, NUCL PHYS A, V625, P207, DOI 10.1016/S0375-9474(97)81460-1
+   Maiani L, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.212002
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   Nishikawa T, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.076004
+   Oka M, 2004, PROG THEOR PHYS, V112, P1, DOI 10.1143/PTP.112.1
+   OKIHARU F, HEPLAT0407001
+   OKIHARU F, HEPLAT0412012
+   Sakai T, 2000, PROG THEOR PHYS SUPP, P121
+   Song XC, 2004, MOD PHYS LETT A, V19, P2791, DOI 10.1142/S0217732304015154
+   Stancu F, 1999, FEW BODY SY, V11, P33
+   Stepanyan S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.252001
+   SUGANUMA H, HEPPH0412271
+   Takahashi TT, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.114509
+   Takahashi TT, 2001, PHYS REV LETT, V86, P18, DOI 10.1103/PhysRevLett.86.18
+   TAKEUCHI S, HEPPH0410286
+   TERASAKI K, HEPPH0405146
+   van Beveren E, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012003
+   VANBEVEREN E, 1986, Z PHYS C PART FIELDS, V30, P615
+   WEINSTEIN J, 1990, PHYS REV D, V41, P2236, DOI 10.1103/PhysRevD.41.2236
+   WEINSTEIN J, 1983, PHYS REV D, V27, P588, DOI 10.1103/PhysRevD.27.588
+NR 57
+TC 13
+Z9 13
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1550-7998
+J9 PHYS REV D
+JI Phys. Rev. D
+PD MAY
+PY 2005
+VL 71
+IS 9
+AR 094005
+DI 10.1103/PhysRevD.71.094005
+PG 9
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 930TP
+UT WOS:000229440300029
+ER
+
+PT J
+AU Kanada-En'yo, Y
+   Morimatsu, O
+   Nishikawa, T
+AF Kanada-En'yo, Y
+   Morimatsu, O
+   Nishikawa, T
+TI Narrow J(pi)=1/2(+), 3/2(+), and 3/2(-) states of Theta(+) in a quark
+   model with antisymmetrized molecular dynamics
+SO PHYSICAL REVIEW C
+LA English
+DT Article
+ID POSITIVE-STRANGENESS; PENTAQUARK; BARYON; NUCLEI; PHOTOPRODUCTION;
+   RESONANCE; MASS; QCD
+AB The exotic baryon Theta(+)(uudd(s) over bar) is studied with microscopic calculations in a quark model by using a method of antisymmetrized molecular dynamics. We predict that three narrow states, J(pi)=1/2(+)(I=0),J(pi)=3/2(+)(I=0), and J(pi)=3/2(-)(I=1) nearly degenerate with the lowest 1/2(-) state in the uudd(s) over bar system. We discuss KN decay widths and estimate them to be Gamma < 7 for the J(pi)={1/2(+),3/2(+)}, and Gamma < 1 MeV for the J(pi)=3/2(-) state. In contrast to these narrow states, the 1/2(-) states should be much broader. We assign the observed Theta(+) as the J(pi)={1/2(+),3/2(+)}.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba 3050801, Japan.
+RP Kanada-En'yo, Y (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Oho, Tsukuba 3050801, Japan.
+CR Airapetian A, 2004, PHYS LETT B, V585, P213, DOI 10.1016/j.physletb.2004.01.079
+   ALEEV A, HEPEX0401024
+   ALEXANDROU C, 1990, NUCL PHYS A, V518, P723, DOI 10.1016/0375-9474(90)90188-R
+   Asratyan AE, 2004, PHYS ATOM NUCL+, V67, P682, DOI 10.1134/1.1707127
+   Bai JZ, 2004, PHYS REV D, V70, DOI 10.1103/PhysRevD.70.012004
+   Barmin VV, 2003, PHYS ATOM NUCL+, V66, P1715, DOI 10.1134/1.1611587
+   Barth J, 2003, PHYS LETT B, V572, P127, DOI 10.1016/j.physletb.2003.08.019
+   Brink D M, 1966, P INT SCH PHYS, P247
+   Cahn RN, 2004, PHYS REV D, V69, DOI 10.1103/PhysRevD.69.011501
+   Capstick S, 2003, PHYS LETT B, V570, P185, DOI 10.1016/j.physletb.2003.08.010
+   CARLSON C, HEPPH0312325
+   Carlson CE, 2004, PHYS REV D, V70, DOI 10.1103/PhysRevD.70.037501
+   CARLSON J, 1983, PHYS REV D, V28, P2807, DOI 10.1103/PhysRevD.28.2807
+   CARLSON J, 1983, PHYS REV D, V27, P233, DOI 10.1103/PhysRevD.27.233
+   CARLSON J, 1991, PHYS REV D, V43, P1652, DOI 10.1103/PhysRevD.43.1652
+   CHEKANOV SV, HEPEX0404007
+   CSIKOR F, 2003, JHEP, V311, P70
+   Diakonov D, 1997, Z PHYS A-HADRON NUCL, V359, P305, DOI 10.1007/s002180050406
+   Dudek JJ, 2004, PHYS LETT B, V583, P278, DOI [10.1016/j.physletb.2004.01.013, 10.1016/j.physletb.2004.91.013]
+   HORIUCHI H, 1985, CLUSTER MODEL NUCL I, V4, P1
+   HORIUCHI H, 1973, PROG THEOR PHYS, V49, P1974, DOI 10.1143/PTP.49.1974
+   Hosaka A, 2003, PHYS LETT B, V571, P55, DOI 10.1016/j.physletb.2003.07.067
+   Jaffe R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232003
+   Jennings BK, 2004, PHYS REV D, V69, DOI 10.1103/PhysRevD.69.094020
+   JUENGST HG, NUCLEX0312019
+   Kanada-En'yo Y, 2003, CR PHYS, V4, P497, DOI 10.1016/S1631-0705(03)00062-8
+   KANADAENYO Y, 1995, PHYS REV C, V52, P647, DOI 10.1103/PhysRevC.52.647
+   KANADAENYO Y, 1995, PHYS REV C, V52, P628, DOI 10.1103/PhysRevC.52.628
+   Karliner M, 2003, PHYS LETT B, V575, P249, DOI 10.1016/j.physletb.2003.09.062
+   KNOPFLE KT, HEPEX0403020
+   KOGUT J, 1975, PHYS REV D, V11, P395, DOI 10.1103/PhysRevD.11.395
+   Kubarovsky V, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.032001
+   MORIMATSU O, 1989, NUCL PHYS A, V505, P655
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   OKIHARU F, HEPLAT0407001
+   Pinkenburg C, 2004, J PHYS G NUCL PARTIC, V30, pS1201, DOI 10.1088/0954-3899/30/8/090
+   SASAKI S, HEPLAT0310014
+   Sasaki S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.152001
+   Stepanyan S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.252001
+   Sugiyama J, 2004, PHYS LETT B, V581, P167, DOI 10.1016/j.physletb.2003.12.018
+   Takahashi TT, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.114509
+   Takahashi TT, 2001, PHYS REV LETT, V86, P18, DOI 10.1103/PhysRevLett.86.18
+   ZHAO Q, HEPPH0404075
+NR 43
+TC 18
+Z9 18
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2813
+J9 PHYS REV C
+JI Phys. Rev. C
+PD APR
+PY 2005
+VL 71
+IS 4
+AR 045202
+DI 10.1103/PhysRevC.71.045202
+PG 9
+WC Physics, Nuclear
+SC Physics
+GA 921KZ
+UT WOS:000228764600066
+ER
+
+PT J
+AU Nishikawa, T
+   Kanada-En'yo, Y
+   Morimatsu, O
+   Kondo, Y
+AF Nishikawa, T
+   Kanada-En'yo, Y
+   Morimatsu, O
+   Kondo, Y
+TI Spin-3/2 pentaquark in the QCD sum rule approach
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID ANTISYMMETRIZED MOLECULAR-DYNAMICS; POSITIVE-STRANGENESS; RESONANCE
+   PHYSICS; BARYON; PHOTOPRODUCTION; THETA(+); NUCLEI; STATES; MASS
+AB We study IJ(P)=03/2(+/-) and 13/2(+/-) pentaquark states with S=+1 in the QCD sum rule approach. The QCD sum rule for positive parity states and that for negative parity are independently derived. The sum rule suggests that there exist the 03/2(-) and the 13/2(-) states. These states may be observed as extremely narrow peaks since they can be much below the S-wave threshold and since the only allowed decay channels are NK in D wave, whose centrifugal barriers are so large that the widths are strongly suppressed. The 03/2(-) state may be assigned to the observed Theta(+)(1540) and the 13/2(-) state can be a candidate for Theta(++).
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Kokugakuin Univ, Tokyo 1508440, Japan.
+RP Nishikawa, T (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+EM nishi@post.kek.jp; yoshiko.enyo@kek.jp; osamu.morimatsu@kek.jp;
+   kondo@kokugakuin.ac.jp
+CR Airapetian A, 2004, PHYS LETT B, V585, P213, DOI 10.1016/j.physletb.2004.01.079
+   ALEEV A, HEPEX0401024
+   Asratyan AE, 2004, PHYS ATOM NUCL+, V67, P682, DOI 10.1134/1.1707127
+   Barmin VV, 2003, PHYS ATOM NUCL+, V66, P1715, DOI 10.1134/1.1611587
+   Barth J, 2003, PHYS LETT B, V572, P127, DOI 10.1016/j.physletb.2003.08.019
+   BORISYUK D, HEPPH0307370
+   CHEKANOV SV, HEPEX0404007
+   CHUNG Y, 1982, NUCL PHYS B, V197, P55, DOI 10.1016/0550-3213(82)90154-7
+   Csikor F, 2003, J HIGH ENERGY PHYS
+   Dudek JJ, 2004, PHYS LETT B, V583, P278, DOI [10.1016/j.physletb.2004.01.013, 10.1016/j.physletb.2004.91.013]
+   Eidemuller M, 2004, PHYS LETT B, V597, P314, DOI 10.1016/j.physletb.2004.07.029
+   HOSAKA A, HEPPH0409102
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   Jaffe R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232003
+   Jaffe RL, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.034012
+   Jido D, 1996, PHYS REV D, V54, P4532, DOI 10.1103/PhysRevD.54.4532
+   JUENGST HG, NUCLEX0312019
+   Kanada-En'yo Y, 2003, CR PHYS, V4, P497, DOI 10.1016/S1631-0705(03)00062-8
+   KANADAENYO Y, IN PRESS PHYS REV C
+   KANADAENYO Y, UNPUB P PENTAQUARK 0
+   KANADAENYO Y, 1995, PHYS REV C, V52, P647, DOI 10.1103/PhysRevC.52.647
+   KANADAENYO Y, 1995, PHYS REV C, V52, P628, DOI 10.1103/PhysRevC.52.628
+   Karliner M, 2003, PHYS LETT B, V575, P249, DOI 10.1016/j.physletb.2003.09.062
+   KONDO Y, HEPPH0503150
+   Kubarovsky V, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.032001
+   Matheus RD, 2004, PHYS LETT B, V578, P323, DOI 10.1016/j.physletb.2003.10.053
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   Nishikawa T, 2005, PHYS REV D, V71, DOI 10.1103/PhysRevD.71.016001
+   Sarkar S, 2005, NUCL PHYS A, V750, P294, DOI 10.1016/j.nuclphysa.2005.01.006
+   SARKAR S, NUCLTH0404023
+   Sasaki S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.152001
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   Stepanyan S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.252001
+   Sugiyama J, 2004, PHYS LETT B, V581, P167, DOI 10.1016/j.physletb.2003.12.018
+   TAKEUCHI S, HEPPH0410286
+   Zhu SL, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232002
+NR 37
+TC 18
+Z9 18
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD APR
+PY 2005
+VL 71
+IS 7
+AR 076004
+DI 10.1103/PhysRevD.71.076004
+PG 12
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 921LH
+UT WOS:000228765400075
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+   Nishikawa, T
+AF Kondo, Y
+   Morimatsu, O
+   Nishikawa, T
+TI Two-hadron-irreducible QCD sum rule for pentaquark baryon
+SO PHYSICS LETTERS B
+LA English
+DT Article
+DE pentaquark; QCD sum rules
+ID POSITIVE-STRANGENESS; RESONANCE PHYSICS; THETA(+); STATES
+AB We point out that naive pentaquark correlations function include two-hadron-reducible contributions, which are given by convolution of baryon and meson correlation functions and have nothing to do with pentaquark. We show that the two-hadronreducible contributions are large in the operator product expansion of the correlation functions of three existing works on the pentaquark. Therefore, it is dangerous to draw a conclusion from the sum rules using naive pentaquark correlation functions with naive ansatz for the spectral function under the dispersion integral. Instead, we propose to use the two-hadron-irreducible correlation function, which is obtained by subtracting the two-hadron-reducible contribution from the naive correlation function. Taking one of the works as an example we demonstrate how drastically the results can change if we remove the two-hadronreducible part from the naive correlation function. We obtain the result opposite to the original work for the parity of the pentaquark. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Kokugakuni Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Kondo, Y (reprint author), Kokugakuni Univ, Tokyo 1508440, Japan.
+EM kondo@kokugakuin.ac.jp; osamu.morimatsu@kek.jp; nishi@post.kek.jp
+CR AIRAPETIAN A, HEPEX0312044
+   ALEEV A, HEPEX0401024
+   ASRATYAN AE, HEPEX0309042
+   Barmin VV, 2003, PHYS ATOM NUCL+, V66, P1715, DOI 10.1134/1.1611587
+   Barth J, 2003, PHYS LETT B, V572, P127, DOI 10.1016/j.physletb.2003.08.019
+   Capstick S, 2003, PHYS LETT B, V570, P185, DOI 10.1016/j.physletb.2003.08.010
+   CHEKANOV SV, HEPEX0404007
+   Diakonov D, 1997, Z PHYS A-HADRON NUCL, V359, P305, DOI 10.1007/s002180050406
+   Jaffe R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232003
+   JUENGST HG, NUCLEX0312019
+   Karliner M, 2003, PHYS LETT B, V575, P249, DOI 10.1016/j.physletb.2003.09.062
+   KONDO Y, UNPUB
+   Kubarovsky V, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.032001
+   Matheus RD, 2004, PHYS LETT B, V578, P323, DOI 10.1016/j.physletb.2003.10.053
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   SASAKI S, HEPLAT0310014
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   Stepanyan S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.252001
+   Sugiyama J, 2004, PHYS LETT B, V581, P167, DOI 10.1016/j.physletb.2003.12.018
+   Zhu SL, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232002
+NR 21
+TC 18
+Z9 19
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD MAR 31
+PY 2005
+VL 611
+IS 1-2
+BP 93
+EP 101
+DI 10.1016/j.physletb.2005.01.070
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA 912WJ
+UT WOS:000228110300013
+ER
+
+PT J
+AU Iwazaki, A
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+AF Iwazaki, A
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+TI Quantum Hall states of gluons in dense quark matter
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID ABELIAN GAUGE-THEORIES; FIELD-THEORY; COLOR FERROMAGNETISM; CONFINEMENT;
+   QCD; STATISTICS; VACUUM; LIQUID; MODEL
+AB We have recently shown that dense quark matter possesses a color ferromagnetic phase in which a stable color-magnetic field arises spontaneously. This ferromagnetic state has been known to be Savvidy vacuum in the vacuum sector. Although the Savvidy vacuum is unstable, the state is stabilized in the quark matter. The stabilization is achieved by the formation of quantum Hall states of gluons, that is, by the condensation of the gluon's color charges transmitted from the quark matter. The phase is realized between the hadronic phase and the color superconducting phase. After a review of quantum Hall states of electrons in semiconductors, we discuss the properties of quantum Hall states of gluons in quark matter in detail. Especially, we evaluate the energy of the states as a function of the coupling constant. We also analyze solutions of vortex excitations in the states and evaluate their energies. We find that the states become unstable as the gauge coupling constant becomes large, or the chemical potential of the quarks becomes small, as expected. On the other hand, with the increase of the chemical potential, the color superconducting state arises instead of the ferromagnetic state. We show the region of the chemical potential of the quarks in which the color ferromagnetic phase is realized. We also show that the quark matter produced by heavy ion collisions generates observable strong magnetic field similar to10(14) G when it is in the ferromagnetic phase.
+C1 Nishogakusha Univ, Dept Phys, Shonan Ohi Chiba 2778585, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   RIKEN, Inst Phys & Chem Res, Radiat Lab, Wako, Saitama 3510198, Japan.
+RP Iwazaki, A (reprint author), Nishogakusha Univ, Dept Phys, Shonan Ohi Chiba 2778585, Japan.
+CR AMBJORN J, 1979, NUCL PHYS B, V152, P75, DOI 10.1016/0550-3213(79)90080-4
+   dePicciotto R, 1997, NATURE, V389, P162, DOI 10.1038/38241
+   EZAWA FZ, 1992, MOD PHYS LETT B, V6, P737
+   EZAWA ZF, 1982, PHYS REV D, V25, P2681, DOI 10.1103/PhysRevD.25.2681
+   EZAWA ZF, 1990, J PHYS SOC JPN, V61, P4133
+   EZAWA ZF, 1993, PHYS REV B, V47, P7295, DOI 10.1103/PhysRevB.47.7295
+   EZAWA ZF, 1992, PHYS REV B, V46, P7765, DOI 10.1103/PhysRevB.46.7765
+   Fogler MM, 2001, PHYS REV LETT, V86, P1833, DOI 10.1103/PhysRevLett.86.1833
+   Iwazaki A, 2004, PHYS LETT B, V579, P347, DOI 10.1016/j.physletb.2003.10.116
+   Iwazaki A, 2003, PHYS LETT B, V571, P61, DOI 10.1016/j.physletb.2003.07.061
+   LAUGHLIN RB, 1981, PHYS REV B, V23, P5632, DOI 10.1103/PhysRevB.23.5632
+   MANDELSTAM S, 1975, PHYS LETT B, VB 53, P476, DOI 10.1016/0370-2693(75)90221-X
+   Nakajima T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.140401
+   NIELSEN HB, 1979, NUCL PHYS B, V160, P330
+   NIELSEN HB, 1979, NUCL PHYS B, V160, P380, DOI 10.1016/0550-3213(79)90065-8
+   NIELSEN HB, 1979, NUCL PHYS B, V156, P1, DOI 10.1016/0550-3213(79)90490-5
+   NIELSEN NK, 1978, NUCL PHYS B, V144, P376, DOI 10.1016/0550-3213(78)90377-2
+   NIELSEN NK, 1978, PHYS LETT B, V79, P304, DOI 10.1016/0370-2693(78)90249-6
+   PAGELS H, 1978, P NEW FRONT HIGH EN
+   Prange R.E., 1990, QUANTUM HALL EFFECT
+   Rajagopal K., 2000, FRONTIER PARTICLE PH, V3, P2061
+   Saminadayar L, 1997, PHYS REV LETT, V79, P2526, DOI 10.1103/PhysRevLett.79.2526
+   SAVVIDY GK, 1977, PHYS LETT B, V71, P133, DOI 10.1016/0370-2693(77)90759-6
+   SEMENOFF GW, 1989, NUCL PHYS B, V328, P753, DOI 10.1016/0550-3213(89)90229-0
+   SEMENOFF GW, 1988, PHYS REV LETT, V61, P517, DOI 10.1103/PhysRevLett.61.517
+   Spielman IB, 2000, PHYS REV LETT, V84, P5808, DOI 10.1103/PhysRevLett.84.5808
+   TSUI DC, 1982, PHYS REV LETT, V48, P1559, DOI 10.1103/PhysRevLett.48.1559
+   von Klitzing K., 1980, PHYS REV LETT, V45, P449
+   ZHANG SC, 1989, PHYS REV LETT, V62, P82, DOI 10.1103/PhysRevLett.62.82
+   THOOFT G, 1981, NUCL PHYS B, V190, P455
+NR 30
+TC 6
+Z9 6
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD FEB
+PY 2005
+VL 71
+IS 3
+AR 034014
+DI 10.1103/PhysRevD.71.034014
+PG 12
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 901YY
+UT WOS:000227319400032
+ER
+
+PT J
+AU Nishikawa, T
+   Kanada-En'Yo, Y
+   Morimatsu, O
+   Kondo, Y
+AF Nishikawa, T
+   Kanada-En'Yo, Y
+   Morimatsu, O
+   Kondo, Y
+TI Theta(++) from the QCD sum rule
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID ANTISYMMETRIZED MOLECULAR-DYNAMICS; POSITIVE-STRANGENESS; RESONANCE
+   PHYSICS; PENTAQUARK; BARYON; PHOTOPRODUCTION; NUCLEI; STATES; MASS
+AB We study the pentaquark uudd (s) over bar with J=3/2 and I=1 (Theta(++)) in the QCD sum rule approach. We derive the QCD sum rules for positive and negative parity states of the pentaquark. The QCD sum rule predicts that there exists Theta(++) with negative parity and its mass is 1.5similar to1.6 GeV. The negative parity Theta(++) can be extremely narrow, since it lies much below the DeltaK threshold and the decay into NK state is strongly suppressed due to the D-wave centrifugal barrier. Also, the possibility of the existence of the Theta(++) with positive parity is not excluded. Although it nearly degenerates with the negative parity state, it may be broader than the negative parity state.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   Kokugakuin Univ, Tokyo 1508440, Japan.
+RP Nishikawa, T (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+EM nishi@post.kek.jp; yoshiko.enyo@kek.jp; osamu.morimatsu@kek.jp;
+   kondo@kokugakuin.ac.jp
+CR Airapetian A, 2004, PHYS LETT B, V585, P213, DOI 10.1016/j.physletb.2004.01.079
+   ALEEV A, HEPEX0401024
+   Asratyan AE, 2004, PHYS ATOM NUCL+, V67, P682, DOI 10.1134/1.1707127
+   Barmin VV, 2003, PHYS ATOM NUCL+, V66, P1715, DOI 10.1134/1.1611587
+   Barth J, 2003, PHYS LETT B, V572, P127, DOI 10.1016/j.physletb.2003.08.019
+   BORSIYUK D, HEPPH0307370
+   Capstick S, 2003, PHYS LETT B, V570, P185, DOI 10.1016/j.physletb.2003.08.010
+   CHEKANOV SV, HEPEX0404007
+   CHUNG Y, 1982, NUCL PHYS B, V197, P55, DOI 10.1016/0550-3213(82)90154-7
+   Csikor F, 2003, J HIGH ENERGY PHYS
+   Ellis J, 2004, J HIGH ENERGY PHYS
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   Jaffe R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232003
+   Jido D, 1996, PHYS REV D, V54, P4532, DOI 10.1103/PhysRevD.54.4532
+   JUENGST HG, NUCLEX0312019
+   KANADAENYO Y, P PENTAQUARK04
+   Kanada-En'yo Y, 2003, CR PHYS, V4, P497, DOI 10.1016/S1631-0705(03)00062-8
+   KANADAENYO Y, IN PRESS PHYS REV C
+   KANADAENYO Y, 1995, PHYS REV C, V52, P647, DOI 10.1103/PhysRevC.52.647
+   KANADAENYO Y, 1995, PHYS REV C, V52, P628, DOI 10.1103/PhysRevC.52.628
+   Karliner M, 2003, PHYS LETT B, V575, P249, DOI 10.1016/j.physletb.2003.09.062
+   KONDO Y, HEPPH0404285
+   KONDO Y, IN PRESS
+   Kubarovsky V, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.032001
+   Matheus RD, 2004, PHYS LETT B, V578, P323, DOI 10.1016/j.physletb.2003.10.053
+   Nakano T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.012002
+   SARKAR S, NUCLTH0407025
+   SARKAR S, NUCLTH0404023
+   SASAKI S, 2004, PHY REV LETT, V93, P52001
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   Stepanyan S, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.252001
+   Sugiyama J, 2004, PHYS LETT B, V581, P167, DOI 10.1016/j.physletb.2003.12.018
+   Zhu SL, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.232002
+NR 34
+TC 8
+Z9 8
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD JAN
+PY 2005
+VL 71
+IS 1
+AR 016001
+DI 10.1103/PhysRevD.71.016001
+PG 6
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 893EO
+UT WOS:000226702300079
+ER
+
+PT J
+AU Hidaka, Y
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+AF Hidaka, Y
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+TI Two-pion bound state in the sigma channel at finite temperature
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+AB We study how we can understand the change of the spectral function and the pole location of the correlation function for sigma at finite temperature, which were previously obtained in the linear sigma model with a resummation technique called optimized perturbation theory. There are two relevant poles in the sigma channel. One pole is the original sigma pole which shows up as a broad peak at zero temperature and becomes lighter as the temperature increases. The behavior is understood from the decreasing of the sigma condensate, which is consistent with the Brown-Rho scaling. The other pole changes from a virtual state to a bound state of pipi as the temperature increases which causes the enhancement at the pipi threshold. The behavior is understood as the emergence of the pipi bound state due to the enhancement of the pipi attraction by the induced emission in medium. The latter pole, not the former, eventually degenerates with pion above the critical temperature of the chiral transition. This means that the observable "sigma" changes from the former to the latter pole, which can be interpreted as the level crossing of sigma and pipi at finite temperature.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   RIKEN, Radiat Lab, Wako, Saitama 3518902, Japan.
+RP Hidaka, Y (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+EM hidaka@post.kek.jp; osamu.morimatsu@kek.jp; nishi@post.kek.jp;
+   ohtani@rarfaxp.riken.jp
+CR BROWN GE, 1991, PHYS REV LETT, V66, P2720, DOI 10.1103/PhysRevLett.66.2720
+   CHIKU S, 1998, PHYS REV D, V57, P6
+   Chiku S, 1998, PHYS REV D, V58, DOI 10.1103/PhysRevD.58.076001
+   Digal S., 2002, NUCL PHYS A, VA702, P159, DOI 10.1016/S0375-9474(02)00700-5
+   DOI T, 2003, P INT C COL CONF HAD, P398
+   Fukushima K, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.045004
+   HATSUDA T, 1985, PHYS REV LETT, V55, P158, DOI 10.1103/PhysRevLett.55.158
+   Hatta Y, 2004, PHYS REV D, V69, DOI 10.1103/PhysRevD.69.097502
+   Hidaka Y, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.111901
+   Hidaka Y, 2003, PHYS REV D, V67, DOI 10.1103/PhysRevD.67.056004
+   Patkos A, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.116004
+   STEVENSON PM, 1981, PHYS REV D, V23, P2916, DOI 10.1103/PhysRevD.23.2916
+NR 12
+TC 5
+Z9 5
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD OCT
+PY 2004
+VL 70
+IS 7
+AR 076001
+DI 10.1103/PhysRevD.70.076001
+PG 5
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 866UT
+UT WOS:000224799600095
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+AF Kondo, Y
+   Morimatsu, O
+TI QCD sum rules for hyperon-nucleon interactions
+SO PHYSICAL REVIEW C
+LA English
+DT Article
+ID SCATTERING LENGTHS; SPIN STRUCTURE; RESONANCE PHYSICS; LATTICE QCD;
+   MATTER; PROTON; MESON; OMEGA; RHO
+AB We investigate the hyperon-nucleon interactions in the QCD sum rule starting from the nucleon matrix element of the hyperon correlation function. Through the dispersion relation, the correlation function in the operator product expansion (OPE) is related with its integral over the physical energy region. The dispersion integral around the hyperon-nucleon (YN) threshold is identified as a measure of the interaction strength in the YN channel. The Wilson coefficients of the OPE for the hyperon correlation function are calculated. The obtained sum rules relate YN interaction strengths to the nucleon matrix elements of the quark-gluon composite operators, which include strange quark operators as well as up and down quark operators. It is found that the YN interaction strengths are smaller than the NN interaction strength since the nucleon matrix elements of strange quark operators are smaller than those of up and down quark operators. Among YN channels AN channel has stronger interaction than SigmaN and XiN channels. It is also found that the interaction strength is greater in the Sigma(+)p (Xi(0)p) channel than in the Sigma(-)p (Xi(-)p) channel since the nucleon matrix elements of up quark operators are greater than those of down quark operators. The spin-dependent part is much smaller than the spin-independent part in the YN and NN channels. The results of the sum rules are compared with those of the phenomenological meson-exchange models.
+C1 Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaragi 3050801, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Tokyo 1508440, Japan.
+CR Abe K, 1996, PHYS REV LETT, V76, P587, DOI 10.1103/PhysRevLett.76.587
+   Abe K, 1997, PHYS LETT B, V404, P377, DOI 10.1016/S0370-2693(97)00613-8
+   Akaishi Y, 2000, PHYS REV LETT, V84, P3539, DOI 10.1103/PhysRevLett.84.3539
+   Aoki S, 1997, PHYS REV D, V56, P433, DOI 10.1103/PhysRevD.56.433
+   DRUKAREV EG, 1990, NUCL PHYS A, V516, P715
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   FUKUGITA M, 1995, PHYS REV LETT, V75, P2092, DOI 10.1103/PhysRevLett.75.2092
+   GASSER J, 1991, PHYS LETT B, V253, P252, DOI 10.1016/0370-2693(91)91393-A
+   GLUCK M, 1990, Z PHYS C PART FIELDS, V48, P471, DOI 10.1007/BF01572029
+   Hatsuda T., 1992, PHYS REV C, V46, P34
+   IOFFE BL, 1981, NUCL PHYS B, V191, P591
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   JIN XM, 1993, PHYS REV C, V47, P2882, DOI 10.1103/PhysRevC.47.2882
+   KODAIRA J, 1995, PHYS LETT B, V344, P348, DOI 10.1016/0370-2693(94)01550-V
+   Koike Y, 1997, PROG THEOR PHYS, V98, P631, DOI 10.1143/PTP.98.631
+   KOIKE Y, 1995, PHYS REV C, V51, P1488, DOI 10.1103/PhysRevC.51.1488
+   Kondo Y, 1998, PROG THEOR PHYS, V100, P1, DOI 10.1143/PTP.100.1
+   KONDO Y, 1993, PHYS REV LETT, V71, P2855, DOI 10.1103/PhysRevLett.71.2855
+   Kondo Y, 1996, PHYS REV C, V53, P1927, DOI 10.1103/PhysRevC.53.1927
+   NAGELS MM, 1975, PHYS REV D, V12, P744, DOI 10.1103/PhysRevD.12.744
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   Stoks VGJ, 1999, PHYS REV C, V59, P3009, DOI 10.1103/PhysRevC.59.3009
+NR 24
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2813
+J9 PHYS REV C
+JI Phys. Rev. C
+PD MAY
+PY 2004
+VL 69
+IS 5
+AR 055201
+DI 10.1103/PhysRevC.69.055201
+PG 10
+WC Physics, Nuclear
+SC Physics
+GA 834XG
+UT WOS:000222443600054
+ER
+
+PT J
+AU Iwazaki, A
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+AF Iwazaki, A
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+TI Color ferromagnetism of quark matter and quantum Hall states of gluons
+   in SU(3) gauge theory
+SO PHYSICS LETTERS B
+LA English
+DT Article
+DE quark matter; color superconductivity; quantum Hall states
+ID ABELIAN DOMINANCE; FIELD-THEORY; CONFINEMENT; VACUUM; MODEL; QCD
+AB We show a possibility that a color ferromagnetic state exists in SU(3) gauge theory of quark matter with two flavors. Although the state involves three types of unstable modes of gluons, all of these modes are stabilized by forming a quantum Hall state of one of the modes. We also show that at large chemical potential, a color superconducting state (2SC) appears even in the ferromagnetic state. This is because Meissner effect by condensed anti-triplet quark pairs does not work on the magnetic field in the ferromagnefic state. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Nishogakusha Univ, Dept Phys, Shonan Ohi, Chiba 2778585, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   RIKEN, Inst Phys & Chem Res, Wako, Saitama 3510198, Japan.
+RP Iwazaki, A (reprint author), Nishogakusha Univ, Dept Phys, Shonan Ohi, Chiba 2778585, Japan.
+EM osamu.morimatsu@kek.jp
+CR AMBJORN J, 1979, NUCL PHYS B, V152, P75, DOI 10.1016/0550-3213(79)90080-4
+   Ebert D, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.054024
+   Ezawa Z. F., 2000, QUANTUM HALL EFFECTS
+   EZAWA ZF, 1982, PHYS REV D, V25, P2681, DOI 10.1103/PhysRevD.25.2681
+   EZAWA ZF, 1990, J PHYS SOC JPN, V61, P4133
+   EZAWA ZF, 1992, PHYS REV B, V46, P7765, DOI 10.1103/PhysRevB.46.7765
+   Iwazaki A, 2003, PHYS LETT B, V571, P61, DOI 10.1016/j.physletb.2003.07.061
+   NAKAJIMA T, COMMUNICATION
+   NIELSEN HB, 1979, NUCL PHYS B, V160, P330
+   NIELSEN HB, 1979, NUCL PHYS B, V160, P380, DOI 10.1016/0550-3213(79)90065-8
+   NIELSEN NK, 1978, NUCL PHYS B, V144, P376, DOI 10.1016/0550-3213(78)90377-2
+   PAGELS H, 1978, LECT CORAL GABLES FL
+   Prange R.E., 1990, QUANTUM HALL EFFECT
+   RAJOGOPAL K, HEPPH0011333
+   SAVVIDY GK, 1977, PHYS LETT B, V71, P133, DOI 10.1016/0370-2693(77)90759-6
+   SEMENOFF GW, 1989, NUCL PHYS B, V328, P753, DOI 10.1016/0550-3213(89)90229-0
+   SUZUKI T, 1990, PHYS REV D, V42, P4257, DOI 10.1103/PhysRevD.42.4257
+   ZHANG SC, 1989, PHYS REV LETT, V62, P82, DOI 10.1103/PhysRevLett.62.82
+NR 18
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD JAN 22
+PY 2004
+VL 579
+IS 3-4
+BP 347
+EP 354
+DI 10.1016/j.physletb.2003.10.116
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA 762ZQ
+UT WOS:000188043200016
+ER
+
+PT J
+AU Nishikawa, T
+   Iwazaki, A
+   Morimatsu, O
+   Ohtani, M
+AF Nishikawa, T
+   Iwazaki, A
+   Morimatsu, O
+   Ohtani, M
+TI Color ferromagnetic states and quantum Hall states of gluons in quark
+   matter
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT YITP Workshop on Nuclear Matter under Extreme Conditions
+CY DEC 01-03, 2003
+CL Kyoto, JAPAN
+SP YITP
+ID MODE
+AB We discuss a possibility of the presence of a stable color ferromagnetic state of quark matter in SU(2) gauge theory. Although the state has been known to have unstable modes, we show that the unstable modes form quantum Hall states, in which the instability disappears. The state arises between the hadronic state and the color superconducting state when the density of quarks is varied.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Study, Tsukuba, Ibaraki 3050801, Japan.
+   Nishogakusha Univ, Dept Phys, Shonan Ohi, Chiba 2778585, Japan.
+   RIKEN, Inst Phys & Chem Res, Wako, Saitama 3510198, Japan.
+RP Nishikawa, T (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Study, Tsukuba, Ibaraki 3050801, Japan.
+CR AMBIJORN J, 1979, NUCL PHYS B, V152, P75
+   EZAWA ZF, 1990, J PHYS SOC JPN, V61, P4133
+   Iwazaki A, 2004, PHYS LETT B, V579, P347, DOI 10.1016/j.physletb.2003.10.116
+   Iwazaki A, 2003, PHYS LETT B, V571, P61, DOI 10.1016/j.physletb.2003.07.061
+   NIELSEN HB, 1979, NUCL PHYS B, V160, P330
+   NIELSEN HB, 1979, NUCL PHYS B, V156, P1, DOI 10.1016/0550-3213(79)90490-5
+   NIELSEN NK, 1978, NUCL PHYS B, V144, P376, DOI 10.1016/0550-3213(78)90377-2
+   SAVVIDY GK, 1977, PHYS LETT B, V71, P133, DOI 10.1016/0370-2693(77)90759-6
+   ZHANG SC, 1989, PHYS REV LETT, V62, P82, DOI 10.1103/PhysRevLett.62.82
+NR 9
+TC 0
+Z9 0
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2004
+IS 156
+BP 178
+EP 179
+PG 2
+WC Physics, Multidisciplinary
+SC Physics
+GA 894QC
+UT WOS:000226805700028
+ER
+
+PT J
+AU Iwazaki, A
+   Morimatsu, O
+   Nishikawa, F
+   Ohtani, M
+AF Iwazaki, A
+   Morimatsu, O
+   Nishikawa, F
+   Ohtani, M
+TI Quantum Hall states of gluons in quark matter
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT International Workshop on Finite Density QCD
+CY JUL 10-12, 2003
+CL Nara, JAPAN
+SP Osaka Univ, Res Ctr Nucl Phys
+ID COLOR FERROMAGNETISM; FIELD-THEORY; MODE
+AB Savvidy vacuum of SU(2) gauge theory is known to be a color ferromagnetic state, but to be unstable. We show that unstable modes in the vacuum condense to form a stable quantum Hall state. As a result, the ferromagnetic state involving the quantum Hall state is realized as a stable groudstate. We discuss that such a state arises in dense quark matter.
+C1 Nishogakusha Univ, Dept Phys, Chiba 2778585, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+   RIKEN, Inst Phys & Chem Res, Wako, Saitama 3510198, Japan.
+RP Iwazaki, A (reprint author), Nishogakusha Univ, Dept Phys, Chiba 2778585, Japan.
+CR AMBIJORN J, 1979, NUCL PHYS B, V152, P75
+   EZAWA FZ, 1992, MOD PHYS LETT B, V6, P737
+   EZAWA ZF, 1990, J PHYS SOC JPN, V61, P4133
+   EZAWA ZF, 1992, PHYS REV B, V46, P7765, DOI 10.1103/PhysRevB.46.7765
+   Iwazaki A, 2004, PHYS LETT B, V579, P347, DOI 10.1016/j.physletb.2003.10.116
+   Iwazaki A, 2003, PHYS LETT B, V571, P61, DOI 10.1016/j.physletb.2003.07.061
+   LAUGHLIN RB, 1983, PHYS REV LETT, V50, P1359
+   NIELSEN HB, 1979, NUCL PHYS B, V160, P330
+   NIELSEN HB, 1979, NUCL PHYS B, V156, P1, DOI 10.1016/0550-3213(79)90490-5
+   NIELSEN NK, 1978, NUCL PHYS B, V144, P376, DOI 10.1016/0550-3213(78)90377-2
+   PAGELS H, 1978, COMMUNICATION
+   Prange R.E., 1990, QUANTUM HALL EFFECT
+   Rajagopal K., HEPPH0011333
+   SAVVIDY GK, 1977, PHYS LETT B, V71, P133, DOI 10.1016/0370-2693(77)90759-6
+   SEMENOFF GW, 1989, NUCL PHYS B, V328, P753, DOI 10.1016/0550-3213(89)90229-0
+   SEMENOFF GW, 1988, PHYS REV LETT, V61, P516
+   TSUI DC, 1982, PHYS REV LETT, V48, P1559, DOI 10.1103/PhysRevLett.48.1559
+   von Klitzing K., 1980, PHYS REV LETT, V45, P449
+   ZHANG SC, 1989, PHYS REV LETT, V62, P82, DOI 10.1103/PhysRevLett.62.82
+NR 19
+TC 0
+Z9 0
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2004
+IS 153
+BP 198
+EP 203
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 826NI
+UT WOS:000221835400020
+ER
+
+PT J
+AU Hidaka, Y
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+AF Hidaka, Y
+   Morimatsu, O
+   Nishikawa, T
+   Ohtani, M
+TI Effect of the pion thermal width on the sigma spectrum
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID MATTER
+AB We study the effect of the thermal width of pi on the spectral function of sigma applying a resummation technique called the optimized perturbation theory at finite temperature (T) to the O(4) linear sigma model. In order to take into account a finite thermal width of pi, we replace the internal pion mass in the self-energy of sigma with that of the complex pole found in a previous paper. The obtained spectral function for Tgreater than or similar to100 MeV turns out to possess two broad peaks. Although a sharp peak at sigma-->pipi threshold was observed in the one-loop calculation without the pion thermal width, the peak is shown to be smeared out. We also search for the poles of the sigma propagator and analyze the behavior of the spectral function with these poles.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Hidaka, Y (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+CR Bonutti F, 2000, NUCL PHYS A, V677, P213, DOI 10.1016/S0375-9474(00)00286-4
+   CHANFRAY G, 2003, NUCL PHYS A, V721, P76
+   CHIKU S, 1998, PHYS REV D, V57, P6
+   Chiku S, 1998, PHYS REV D, V58, DOI 10.1103/PhysRevD.58.076001
+   HATSUDA T, 1987, PHYS LETT B, V185, P304, DOI 10.1016/0370-2693(87)91004-5
+   HATSUDA T, 1985, PHYS REV LETT, V55, P158, DOI 10.1103/PhysRevLett.55.158
+   HIDAKA Y, UNPUB
+   Hidaka Y, 2003, PHYS REV D, V67, DOI 10.1103/PhysRevD.67.056004
+   Messchendorp JG, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.222302
+   Newton R. G., 1982, SCATTERING THEORY WA
+   Nishikawa T, 2003, PHYS REV D, V68, DOI 10.1103/PhysRevD.68.076002
+   STEVENSON PM, 1981, PHYS REV D, V23, P2916, DOI 10.1103/PhysRevD.23.2916
+NR 12
+TC 5
+Z9 5
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD DEC
+PY 2003
+VL 68
+IS 11
+AR 111901
+DI 10.1103/PhysRevD.68.111901
+PG 5
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 761DU
+UT WOS:000187885400003
+ER
+
+PT J
+AU Iwazaki, A
+   Morimatsu, O
+AF Iwazaki, A
+   Morimatsu, O
+TI Color ferromagnetism in quark matter
+SO PHYSICS LETTERS B
+LA English
+DT Article
+DE quark matter; color superconductivity; quantum Hall states
+ID GAUGE THEORIES; FIELD-THEORY; CONFINEMENT; MODE; QCD
+AB We show a possibility that there exists a color ferromagnetic state in quark matter, in which a color magnetic field is spontaneously generated. The state arises between the hadronic state and the color superconducting state when the density of quarks is varied. Although the state (Savvidy state) has been known to involve unstable modes of gluons, we show that the modes compose a quantum Hall state to stabilize the ferromagnetic state. We also show that the order of the phase transition between the state and the quark gluon plasma is of the first order. (C) 2003 Published by Elsevier B.V.
+C1 Nishogakusha Univ, Dept Phys, Chiba 2778585, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Iwazaki, A (reprint author), Nishogakusha Univ, Dept Phys, Chiba 2778585, Japan.
+CR Alford M, 1998, PHYS LETT B, V422, P247, DOI 10.1016/S0370-2693(98)00051-3
+   AMBIJORN J, 1979, NUCL PHYS B, V152, P75
+   EZAWA ZF, 1982, PHYS REV D, V25, P2681, DOI 10.1103/PhysRevD.25.2681
+   EZAWA ZF, 1990, J PHYS SOC JPN, V61, P4133
+   EZAWA ZF, 1992, PHYS REV B, V46, P7765, DOI 10.1103/PhysRevB.46.7765
+   EZAWA ZF, 1992, QUANTUM HALL EFFECTS
+   MANDELSTAM S, 1975, PHYS LETT B, VB 53, P476, DOI 10.1016/0370-2693(75)90221-X
+   NIELSEN HB, 1979, NUCL PHYS B, V156, P1, DOI 10.1016/0550-3213(79)90490-5
+   NIELSEN NK, 1978, NUCL PHYS B, V144, P376, DOI 10.1016/0550-3213(78)90377-2
+   PAGELS H, 1978, LECT CORAL GABLES
+   Prange R.E., 1990, QUANTUM HALL EFFECT
+   Rajagopal K., HEPPH0011333
+   SAVVIDY GK, 1977, PHYS LETT B, V71, P133, DOI 10.1016/0370-2693(77)90759-6
+   SEMENOFF GW, 1989, NUCL PHYS B, V328, P753, DOI 10.1016/0550-3213(89)90229-0
+   SEMENOFF GW, 1988, PHYS REV LETT, V61, P516
+   ZHANG SC, 1989, PHYS REV LETT, V62, P82, DOI 10.1103/PhysRevLett.62.82
+NR 16
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD OCT 2
+PY 2003
+VL 571
+IS 1-2
+BP 61
+EP 66
+DI 10.1016/j.physletb.2003.07.061
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 723CB
+UT WOS:000185413900009
+ER
+
+PT J
+AU Nishikawa, T
+   Morimatsu, O
+   Hidaka, Y
+AF Nishikawa, T
+   Morimatsu, O
+   Hidaka, Y
+TI Thermal sunset diagram for scalar field theories
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID CHIRAL PERTURBATION-THEORY; FINITE-TEMPERATURE; CONFIGURATION-SPACE;
+   SYMMETRY BEHAVIOR; DYNAMICS; GAUGE
+AB We study the so-called "sunset diagram," which is one of two-loop self-energy diagrams, for scalar field theories at finite temperature. Explicit expressions for the real and imaginary parts of the thermal sunset diagram are obtained and they are numerically evaluated. This is done separately for the temperature independent and dependent parts of the diagram. For the former, the imaginary part is first found and the finite real part is then obtained through the imaginary part using a twice-subtracted dispersion relation. For the latter, we express it as a one-dimensional integral in terms of the bubble diagram, which is the one-loop subdiagram of the sunset diagram. As an application of our result, we study the effect of the diagram on the spectral function of the sigma meson at finite temperature in the linear sigma model, which was obtained at one-loop order previously. At high temperature where the decay sigma-->pipi is forbidden, the sigma meson acquires a finite width of the order of 10 MeV by the sunset diagram while its width vanishes within the one-loop calculation. At low temperature, the spectrum does not deviate much from that at one-loop order. Possible consequences with including other two-loop diagrams are discussed.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Nishikawa, T (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+CR Andersen JO, 2001, PHYS REV D, V63, DOI 10.1103/PhysRevD.63.105008
+   Andersen JO, 2000, PHYS REV D, V62, part. no.
+   Blaizot JP, 2002, PHYS REP, V359, P355, DOI 10.1016/S0370-1573(01)00061-8
+   BRAATEN E, 1995, PHYS REV D, V51, P6990, DOI 10.1103/PhysRevD.51.6990
+   CHIKU S, 1998, PHYS REV D, V57, P6
+   Chiku S, 1998, PHYS REV D, V58, DOI 10.1103/PhysRevD.58.076001
+   CRAIG RA, 1968, J MATH PHYS, V9, P605, DOI 10.1063/1.1664616
+   DOLAN L, 1974, PHYS REV D, V9, P3320, DOI 10.1103/PhysRevD.9.3320
+   FUJIMOTO Y, 1986, PHYS REV D, V33, P590, DOI 10.1103/PhysRevD.33.590
+   Gasser J, 1999, EUR PHYS J C, V6, P297, DOI 10.1007/s100520050340
+   Groote S, 1999, EUR PHYS J C, V11, P279, DOI 10.1007/s100520050632
+   Groote S, 1998, PHYS LETT B, V443, P269, DOI 10.1016/S0370-2693(98)01324-0
+   Groote S, 1999, NUCL PHYS B, V542, P515, DOI 10.1016/S0550-3213(98)00812-8
+   HIDAKA Y, HEPPH0304204
+   JEON SY, 1995, PHYS REV D, V52, P3591, DOI 10.1103/PhysRevD.52.3591
+   KADANOFF LP, 1969, QUANTUM STAT MECH
+   KELDYSH LV, 1964, ZH EKSP TEOR FIZ, V20, P1018
+   KIRZHNITS DA, 1976, ANN PHYS-NEW YORK, V101, P195, DOI 10.1016/0003-4916(76)90279-7
+   LANGRETH DC, 1976, 1975 NATO ADI LINEAR
+   LeBellac M., 1996, THERMAL FIELD THEORY
+   Lifshitz E.M, 1981, COURSE THEORETICAL P, V10
+   Mills R., 1969, PROPAGATORS MANY PAR
+   NIEMI AJ, 1984, ANN PHYS-NEW YORK, V152, P105, DOI 10.1016/0003-4916(84)90082-4
+   NIEMI AJ, 1984, NUCL PHYS B, V230, P181, DOI 10.1016/0550-3213(84)90123-8
+   NISHIKAWA T, UNPUB
+   Peskin M. E., 1995, INTRO QUANTUM FIELD
+   Post P, 1996, MOD PHYS LETT A, V11, P2115, DOI 10.1142/S0217732396002101
+   RAMONF P, 1981, FIELD THEORY MODERN
+   SCHWINGER J, 1961, J MATH PHYS, V2, P407, DOI 10.1063/1.1703727
+   SEMENOFF GW, 1983, NUCL PHYS B, V220, P196, DOI 10.1016/0550-3213(83)90223-7
+   Takahashi Y., 1975, Collective Phenomena, V2
+   Umezawa H., 1982, THERMOFIELD DYNAMICS
+   van Hees H, 2002, PHYS REV D, V65, DOI 10.1103/PhysRevD.65.105005
+   Wang E, 1996, PHYS REV D, V53, P899, DOI 10.1103/PhysRevD.53.899
+   WEINBERG S, 1974, PHYS REV D, V9, P3357, DOI 10.1103/PhysRevD.9.3357
+   WELDON HA, 1983, PHYS REV D, V28, P2007, DOI 10.1103/PhysRevD.28.2007
+   ZHOU GZ, 1980, PHYS REV B, V22, P3385, DOI 10.1103/PhysRevB.22.3385
+NR 37
+TC 3
+Z9 3
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD OCT 1
+PY 2003
+VL 68
+IS 7
+AR 076002
+DI 10.1103/PhysRevD.68.076002
+PG 12
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 740FA
+UT WOS:000186391200050
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+AF Kondo, Y
+   Morimatsu, O
+TI A model-independent study of the QCD sum rule for the pion-nucleon
+   coupling constant and a projected correlation function approach
+SO NUCLEAR PHYSICS A
+LA English
+DT Article; Proceedings Paper
+CT 16th Particles and Nuclei International Conference (PANIC 02)
+CY SEP 30-OCT 04, 2002
+CL OSAKA, JAPAN
+ID RESONANCE PHYSICS
+AB The QCD sum rule for the pion-nucleon coupling constant, g, is investigated. The physical content of the correlation function is studied without referring to the effective theory. First, we consider the invariant correlation functions by splitting the correlation function into different Dirac structures. We show that the coefficients of the double-pole terms are proportional to g but that the coefficients of the single-pole terms are not determined by g. In the chiral limit the single-pole terms as well as the continuum terms are not well defined in the dispersion integral. Therefore, naive QCD Sum rules obtained from the invariant correlation functions are also not well defined. Secondly, we consider the projected correlation function by taking the matrix element of the correlation function with respect to the nucleon spinors. In the chiral limit the double-pole term survives but the single-pole term and the continuum term are well defined in the dispersion integral. Then, we construct a QCD sum rule for g from the projected correlation function without taking the chiral limit. The new sum rule is expected to incorporate O(m(pi)) corrections. The numerical result is in reasonable agreement with the empirical value.
+C1 Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Tokyo 1508440, Japan.
+CR Birse MC, 1996, PHYS REV C, V54, P3240, DOI 10.1103/PhysRevC.54.3240
+   Doi T, 2000, PHYS REV C, V62, DOI 10.1103/PhysRevC.62.055202
+   Kim H, 1999, PHYS REV D, V60, DOI 10.1103/PhysRevD.60.034007
+   Kim HC, 1999, PHYS LETT B, V453, P199, DOI 10.1016/S0370-2693(99)00379-2
+   Kondo Y, 1998, PROG THEOR PHYS, V100, P1, DOI 10.1143/PTP.100.1
+   Kondo Y, 2002, PHYS REV C, V66, DOI 10.1103/PhysRevC.66.028201
+   REINDERS LJ, 1983, NUCL PHYS B, V213, P109, DOI 10.1016/0550-3213(83)90177-3
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   SHIOMI H, 1995, NUCL PHYS A, V594, P294, DOI 10.1016/0375-9474(95)00359-9
+NR 11
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD JUN 30
+PY 2003
+VL 721
+BP 597C
+EP 600C
+DI 10.1016/S0375-9474(03)01131-X
+PG 4
+WC Physics, Nuclear
+SC Physics
+GA 697JH
+UT WOS:000183938800118
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+AF Kondo, Y
+   Morimatsu, O
+TI A projected correlation function approach to the pi N N coupling
+   constant in QCD sum rules
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+ID QUARK-GLUON CONDENSATE; RESONANCE PHYSICS
+AB We propose a new approach to construct QCD sum rules for the piNN coupling constant, g, starting from the vacuum-to-pion correlation function of the interpolating fields of two nucleons and taking its matrix element with respect to nucleon spinors. The new approach with the projected correlation function is advantageous because even in the chiral limit the dispersion integral can be parametrized with well-defined physical parameters. Another advantage of the new approach is that unwanted pole contribution is projected out. Calculating the Wilson coefficients of the operator product expansion of the correlation function up to O(M-B(-4)) and O(m(pi)) where M-B and m(pi) are the Borel mass and the pion mass, respectively, we construct new QCD sum rules for the pi NN coupling constant from the projected correlation function with consistently including O(m(pi)) corrections. By numerically analyzing the obtained four sum rules we identified the most prominent one. After roughly estimating errors we obtained, g = 10 +/- 3, as a result of this sum rule, which is in reasonable agreement with the empirical value. It is also found that the O (m(pi)) correction is about 5%. (C) 2003 Elsevier Science B.V. All rights reserved.
+C1 Kokugakuin Univ, Higashi Ku, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaragi 3050801, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Higashi Ku, Shibuya, Tokyo 1508440, Japan.
+CR BELYAEV VM, 1995, PHYS REV D, V51, P6177, DOI 10.1103/PhysRevD.51.6177
+   Birse MC, 1996, PHYS REV C, V54, P3240, DOI 10.1103/PhysRevC.54.3240
+   Birse MC, 1996, PHYS LETT B, V373, P9, DOI 10.1016/0370-2693(96)00133-5
+   BRAUN VM, 1990, Z PHYS C PART FIELDS, V48, P239, DOI 10.1007/BF01554472
+   Doi T, 2000, PHYS REV C, V62, DOI 10.1103/PhysRevC.62.055202
+   IOFFE BL, 1981, NUCL PHYS B, V191, P591
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   Kim H, 1999, PHYS REV D, V60, DOI 10.1103/PhysRevD.60.034007
+   Kim HC, 1999, PHYS LETT B, V453, P199, DOI 10.1016/S0370-2693(99)00379-2
+   Kondo Y, 1998, PROG THEOR PHYS, V100, P1, DOI 10.1143/PTP.100.1
+   Kondo Y, 2002, PHYS REV C, V66, DOI 10.1103/PhysRevC.66.028201
+   KREMER M, 1987, PHYS LETT B, V194, P283, DOI 10.1016/0370-2693(87)90543-0
+   Maltman K, 1998, PHYS REV C, V57, P69, DOI 10.1103/PhysRevC.57.69
+   NOVIKOV VA, 1984, NUCL PHYS B, V237, P525, DOI 10.1016/0550-3213(84)90006-3
+   OVCHINNIKOV AA, 1988, SOV J NUCL PHYS+, V48, P721
+   Polyakov MV, 1996, PHYS LETT B, V387, P841, DOI 10.1016/0370-2693(96)01098-2
+   REINDERS LJ, 1983, NUCL PHYS B, V213, P109, DOI 10.1016/0550-3213(83)90177-3
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   SHIOMI H, 1995, NUCL PHYS A, V594, P294, DOI 10.1016/0375-9474(95)00359-9
+NR 21
+TC 2
+Z9 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD APR 7
+PY 2003
+VL 717
+IS 1-2
+BP 55
+EP 72
+DI 10.1016/S0375-9474(03)00612-2
+PG 18
+WC Physics, Nuclear
+SC Physics
+GA 651HU
+UT WOS:000181315100004
+ER
+
+PT J
+AU Hidaka, Y
+   Morimatsu, O
+   Nishikawa, T
+AF Hidaka, Y
+   Morimatsu, O
+   Nishikawa, T
+TI Momentum dependence of the spectral functions in the O(4) linear sigma
+   model at finite temperature
+SO PHYSICAL REVIEW D
+LA English
+DT Article
+ID SYMMETRY BEHAVIOR; GAUGE
+AB The spatial momentum dependence of the spectral function for pi and sigma at finite temperature is studied by employing the O(4) linear sigma model and adopting a resummation technique called optimized perturbation theory (OPT). The poles of the propagators are also searched for. We analyze the spatial momentum dependence of the imaginary part of the self-energy and find that its temperature-dependent part vanishes in the large momentum limit. This is because the energy of the particles in the heat bath which participate in the process becomes large and therefore the Bose distribution function vanishes. We then calculate the spectral functions and search for the poles of the propagators. First, we discuss the temperature dependence for zero spatial momentum. We reproduce the spectral functions in both pi and sigma channels in the previous work and find that the pole, which is responsible for the threshold enhancement of the spectral functions in both pi and sigma channels, is different from the one for the peak at zero temperature. Second, we discuss the spatial-momentum dependence. When the temperature is low the spatial momentum dependence is also small. As the temperature becomes higher the spatial momentum dependence also becomes large. When the spatial momentum is smaller than the temperature, the spectral functions do not deviate much from those at zero spatial momentum. Once the spatial momentum becomes comparable with the temperature, the deviation becomes considerable. As the momentum becomes much larger than the temperature, thermal effects effectively decrease.
+C1 High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaraki 3050801, Japan.
+RP Hidaka, Y (reprint author), High Energy Accelerator Res Org, Inst Particle & Nucl Studies, 1-1 Ooho, Tsukuba, Ibaraki 3050801, Japan.
+CR CHIKU S, 1998, PHYS REV D, V57, P6
+   Chiku S, 1998, PHYS REV D, V58, DOI 10.1103/PhysRevD.58.076001
+   DOLAN L, 1974, PHYS REV D, V9, P3320, DOI 10.1103/PhysRevD.9.3320
+   KIRZHNITS DA, 1976, ANN PHYS-NEW YORK, V101, P195, DOI 10.1016/0003-4916(76)90279-7
+   MATSUBARA T, 1955, PROG THEOR PHYS, V14, P351, DOI 10.1143/PTP.14.351
+   Newton R. G., 1982, SCATTERING THEORY WA
+   NISHIKAWA T, UNPUB
+   Patkos A, 2002, PHYS REV D, V66, DOI 10.1103/PhysRevD.66.116004
+   Patkos A, 2002, PHYS LETT B, V537, P77, DOI 10.1016/S0370-2693(02)01910-X
+   WEINBERG S, 1974, PHYS REV D, V9, P3357, DOI 10.1103/PhysRevD.9.3357
+   WELDON HA, 1983, PHYS REV D, V28, P2007, DOI 10.1103/PhysRevD.28.2007
+   2002, NUCL PHYS A, V698
+NR 12
+TC 10
+Z9 10
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2821
+J9 PHYS REV D
+JI Phys. Rev. D
+PD MAR 1
+PY 2003
+VL 67
+IS 5
+AR 056004
+DI 10.1103/PhysRevD.67.056004
+PG 12
+WC Astronomy & Astrophysics; Physics, Particles & Fields
+SC Astronomy & Astrophysics; Physics
+GA 663RQ
+UT WOS:000182019700058
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+AF Kondo, Y
+   Morimatsu, O
+TI Model-independent study of the QCD sum rule for the pi NN coupling
+   constant
+SO PHYSICAL REVIEW C
+LA English
+DT Article
+ID RESONANCE PHYSICS
+AB We reinvestigate the QCD sum rule for the piNN coupling constant g starting from the vacuum-to-pion matrix element of the correlation function of the interpolating fields of two nucleons. We study in detail the physical content of the correlation function without referring to the effective theory. We consider the invariant correlation functions by splitting the correlation function into different Dirac structures. We show that the coefficients of the double-pole terms are proportional to g but that the coefficients of the single-pole terms are not determined by g. In the chiral limit the single-pole terms as well as the continuum terms are ill defined in the dispersion integral. Therefore, the use of naive QCD sum rules obtained from the invariant correlation functions is not justified. A possible procedure to avoid this difficulty is discussed.
+C1 Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tsukuba, Ibaragi 3050801, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Tokyo 1508440, Japan.
+CR Birse MC, 1996, PHYS REV C, V54, P3240, DOI 10.1103/PhysRevC.54.3240
+   Birse MC, 1996, PHYS LETT B, V373, P9, DOI 10.1016/0370-2693(96)00133-5
+   KIM H, 1999, PHYS REV D, V60
+   Kim HC, 1999, PHYS LETT B, V453, P199, DOI 10.1016/S0370-2693(99)00379-2
+   Kondo Y, 1998, PROG THEOR PHYS, V100, P1, DOI 10.1143/PTP.100.1
+   KONDO Y, UNPUB
+   Maltman K, 1998, PHYS REV C, V57, P69, DOI 10.1103/PhysRevC.57.69
+   REINDERS LJ, 1983, NUCL PHYS B, V213, P109, DOI 10.1016/0550-3213(83)90177-3
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P448, DOI 10.1016/0550-3213(79)90023-3
+   SHIOMI H, 1995, NUCL PHYS A, V594, P294, DOI 10.1016/0375-9474(95)00359-9
+NR 12
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2813
+J9 PHYS REV C
+JI Phys. Rev. C
+PD AUG
+PY 2002
+VL 66
+IS 2
+AR 028201
+DI 10.1103/PhysRevC.66.028201
+PG 4
+WC Physics, Nuclear
+SC Physics
+GA 592CV
+UT WOS:000177919900085
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+AF Kondo, Y
+   Morimatsu, O
+TI QCD sum rules for nucleon-nucleon and hyperon-nucleon interactions
+SO NUCLEAR PHYSICS A
+LA English
+DT Article; Proceedings Paper
+CT KEK-Tanashi International Symposium on Physics of Hadrons and Nuclei
+CY DEC 14-17, 1998
+CL TOKYO, JAPAN
+SP Univ Tokyo, Ctr Nucl Study, Tanashi Branch High Energy Accelerat Res Organizat, Minist Educ, Sci, Culture & Sports, Japanese Soc Promot Sci, Inst Phys & Chem Res, Univ Tcl Study
+HO UNIV TOKYO
+AB The QCD sum rules for spin-dependent nucleon-nucleon (NN) and hyperon-nucleon (YN) interactions are formulated and their physical implications are clarified. A dispersion integral around the nucleon threshold can be identified as a measure of interaction strength. Calculating the operator product expansion (OPE) of the correlation function, we have found that the spin-dependent operators are related to the axial and tensor charges. The obtained sum rules relate the interaction strengths to the nucleon matrix elements of the quark-gluon operators. The spin-dependent parts are smaller than the spin-independent parts in the NN and the YN channels. The spin-independent NN interaction strength is greater than the spin-independent YN interaction strengths. The results are consistent with the empirical result in the NN channel.
+C1 Kokugakuin Univ, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tanashi, Tokyo 1888501, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Tokyo 1508440, Japan.
+CR Kondo Y, 1998, PROG THEOR PHYS, V100, P1, DOI 10.1143/PTP.100.1
+NR 1
+TC 0
+Z9 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD MAY 8
+PY 2000
+VL 670
+BP 311C
+EP 314C
+PG 4
+WC Physics, Nuclear
+SC Physics
+GA 312ZZ
+UT WOS:000086975000055
+ER
+
+PT J
+AU Koike, Y
+   Morimatsu, O
+   Yazaki, K
+AF Koike, Y
+   Morimatsu, O
+   Yazaki, K
+TI Quark cluster model and confinement
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article
+ID FLIP-FLOP MODEL; NUCLEON-NUCLEON-INTERACTION; BARYON-BARYON INTERACTION;
+   SPIN ORBIT INTERACTION; HYPERFINE INTERACTIONS; SCATTERING; FORCES;
+   STATE
+AB How confinement of quarks is implemented for multi-hadron systems in the quark cluster model is reviewed. In order to learn the nature of the confining interaction for fermions we first study 1+1 dimensional QED and QCD, in which the gauge field can be eliminated exactly and generates linear interaction of fermions. Then, we compare the two-body potential model, the flip-flop model and the Born-Oppenheimer approach in the strong coupling lattice QCD for the meson-meson system. Having shown how the long-range attraction between hadrons, van der Waals interaction, shows up in the two-body potential model, we discuss two distinct attempts beyond the two-body potential model: one is a many-body potential model, the flip-flop model, and the other is the Born-Oppenheimer approach in the strong coupling lattice QCD. We explain how the emergence of the long-range attraction is avoided in these attempts. Finally, we present the results of the application of the flip-flop model to the baryon-baryon scattering in the quark cluster model.
+C1 Niigata Univ, Dept Phys, Niigata 9502181, Japan.
+   KEK, High Energy Accelerator Res Org, Tanashi Branch, Tanashi, Tokyo 1888501, Japan.
+   Tokyo Womans Christian Univ, Coll Human Arts & Sci, Phys Lab, Tokyo 1678585, Japan.
+RP Koike, Y (reprint author), Niigata Univ, Dept Phys, Niigata 9502181, Japan.
+CR ALEXANDROU C, 1990, NUCL PHYS A, V518, P723, DOI 10.1016/0375-9474(90)90188-R
+   Coleman S. R., 1982, POINTLIKE STRUCTURES, P0011
+   DERUJULA A, 1975, PHYS REV D, V12, P147, DOI 10.1103/PhysRevD.12.147
+   FISHBANE PM, 1978, PHYS LETT B, V74, P98
+   GREENBERG OW, 1981, NUCL PHYS A, V370, P349, DOI 10.1016/0375-9474(81)90102-0
+   ISGUR N, 1977, PHYS LETT B, V72, P109, DOI 10.1016/0370-2693(77)90074-0
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   ISGUR N, 1979, PHYS REV D, V20, P1191, DOI 10.1103/PhysRevD.20.1191
+   ISGUR N, 1979, PHYS REV D, V19, P2653, DOI 10.1103/PhysRevD.19.2653
+   KOIKE Y, 1986, NUCL PHYS A, V449, P635, DOI 10.1016/0375-9474(86)90325-8
+   KOIKE Y, 1990, NUCL PHYS A, V513, P653, DOI 10.1016/0375-9474(90)90403-9
+   KOIKE Y, 1986, PHYS LETT B, V179, P332, DOI 10.1016/0370-2693(86)90487-9
+   KOIKE Y, 1986, NUCL PHYS A, V454, P509
+   KURAMASHI Y, 1993, PHYS REV LETT, V71, P2387, DOI 10.1103/PhysRevLett.71.2387
+   LENZ F, 1986, ANN PHYS-NEW YORK, V170, P65, DOI 10.1016/0003-4916(86)90088-6
+   LIU KF, 1983, PHYS LETT B, V131, P195, DOI 10.1016/0370-2693(83)91120-6
+   MACGREGO.MH, 1969, PHYS REV, V182, P1714, DOI 10.1103/PhysRev.182.1714
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P98
+   MIYAZAWA H, 1979, PHYS REV D, V20, P2953, DOI 10.1103/PhysRevD.20.2953
+   MORIMATSU O, 1984, NUCL PHYS A, V420, P573, DOI 10.1016/0375-9474(84)90672-9
+   MORIMATSU O, 1989, NUCL PHYS A, V505, P655
+   MORIMATSU O, 1984, NUCL PHYS A, V424, P412, DOI 10.1016/0375-9474(84)90002-2
+   OHTA S, 1986, PHYS LETT B, V173, P15, DOI 10.1016/0370-2693(86)91221-9
+   OKA M, 1983, PHYS LETT B, V130, P365, DOI 10.1016/0370-2693(83)91523-X
+   OKA M, 1985, QUARKS NUCL
+   Oka M., 2000, PROG THEOR PHYS SUPP, V137, P1, DOI 10.1143/PTPS.137.1
+   OKA M, 1981, PROG THEOR PHYS, V66, P556, DOI 10.1143/PTP.66.556
+   OKA M, 1985, PHYS REV D, V31, P2773, DOI 10.1103/PhysRevD.31.2773
+   SCHIFF LI, 1968, QUANTUM MECH, P259
+   SUZUKI Y, 1984, NUCL PHYS A, V420, P525, DOI 10.1016/0375-9474(84)90670-5
+   WILLEY RS, 1978, PHYS REV D, V18, P270, DOI 10.1103/PhysRevD.18.270
+   YAZAKI K, 1984, NUCL PHYS A, V416, pC87
+NR 32
+TC 1
+Z9 1
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2000
+IS 137
+BP 21
+EP 42
+PG 22
+WC Physics, Multidisciplinary
+SC Physics
+GA 307KR
+UT WOS:000086652900003
+ER
+
+PT J
+AU Takeuchi, S
+   Morimatsu, O
+   Tani, Y
+   Oka, M
+AF Takeuchi, S
+   Morimatsu, O
+   Tani, Y
+   Oka, M
+TI Spin-orbit interactions between two baryons
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article
+ID NUCLEON-NUCLEON-INTERACTION; QUARK CLUSTER MODEL; FLIP-FLOP MODEL;
+   INSTANTON-INDUCED INTERACTION; HADRON-HADRON INTERACTION;
+   HYPERON-NUCLEON; MASS SPLITTINGS; SCATTERING DATA; NN INTERACTION;
+   CONFINEMENT
+AB The spin-orbit interactions in the quark cluster models are reviewed in this article. The observed spin-orbit force between two nucleons is strong, while that in the excited baryons or in the Lambda N interaction is small. We try to sort out whether the quark cluster model can produce a spin-orbit force which explains these features simultaneously. Various works which include the spin-orbit force with different origins such as gluons, mesons, or coupling to other channels are compared to each other. The roles of the symmetric and anti-symmetric spinorbit forces in the NN scattering phase shifts and in the YN low-energy cross sections and the phase shifts are investigated.
+C1 Japan Coll Social Work, Kiyose 2048555, Japan.
+   KEK, High Energy Accelerator Res Org, Tanashi Branch, Tanashi, Tokyo 1888501, Japan.
+   Tokyo Inst Technol, Dept Phys, Tokyo 1528551, Japan.
+RP Takeuchi, S (reprint author), Japan Coll Social Work, Kiyose 2048555, Japan.
+CR ARNDT RA, 1994, PHYS REV C, V50, P2731, DOI 10.1103/PhysRevC.50.2731
+   BRAUER K, 1990, NUCL PHYS A, V507, P599, DOI 10.1016/0375-9474(90)90172-I
+   BRUCKNER W, 1978, PHYS LETT B, V79, P157, DOI 10.1016/0370-2693(78)90458-6
+   CALLAN CG, 1978, PHYS REV D, V18, P4684, DOI 10.1103/PhysRevD.18.4684
+   CALLAN CG, 1978, PHYS REV D, V17, P2717, DOI 10.1103/PhysRevD.17.2717
+   Caso C, 1998, EUR PHYS J C, V3, P1
+   Dai LR, 1997, J PHYS G NUCL PARTIC, V23, P1663, DOI 10.1088/0954-3899/23/11/014
+   DERUJULA A, 1975, PHYS REV D, V12, P147, DOI 10.1103/PhysRevD.12.147
+   Dover C. B., 1984, PROG PART NUCL PHYS, V12, P171, DOI 10.1016/0146-6410(84)90004-8
+   DOVER CB, 1990, ANN PHYS-NEW YORK, V198, P321, DOI 10.1016/0003-4916(90)90254-L
+   FERNANDEZ F, 1993, J PHYS G NUCL PARTIC, V19, P2013, DOI 10.1088/0954-3899/19/12/007
+   Fujiwara Y, 1997, PROG THEOR PHYS, V97, P587, DOI 10.1143/PTP.97.587
+   FUJIWARA Y, 1995, PROG THEOR PHYS, V94, P215, DOI 10.1143/PTP.94.215
+   Fujiwara Y, 1996, PHYS REV C, V54, P2180, DOI 10.1103/PhysRevC.54.2180
+   HE Y, 1986, NUCL PHYS A, V451, P653
+   Hiyama E, 1996, PHYS REV C, V53, P2075, DOI 10.1103/PhysRevC.53.2075
+   HIYAMA H, 1998, P 1 SUT KEK SEM APR
+   HOLZENKAMP B, 1989, NUCL PHYS A, V500, P485, DOI 10.1016/0375-9474(89)90223-6
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   Isgur N., 1992, International Journal of Modern Physics E, V1, DOI 10.1142/S0218301392000242
+   Isgur N, 1997, NUCL PHYS A, V623, pC37
+   Karl G., 1992, International Journal of Modern Physics E, V1, DOI 10.1142/S0218301392000254
+   KOCHELEV NI, 1985, SOV J NUCL PHYS+, V41, P291
+   KOHNO M, NUCLTH9912059
+   KOIKE Y, 1986, NUCL PHYS A, V449, P635, DOI 10.1016/0375-9474(86)90325-8
+   KOIKE Y, 1990, NUCL PHYS A, V513, P653, DOI 10.1016/0375-9474(90)90403-9
+   KOIKE Y, 1986, PHYS LETT B, V179, P332, DOI 10.1016/0370-2693(86)90487-9
+   KOIKE Y, 1986, NUCL PHYS A, V454, P509
+   LENZ F, 1986, ANN PHYS-NEW YORK, V170, P65, DOI 10.1016/0003-4916(86)90088-6
+   MAESSEN PMM, 1989, PHYS REV C, V40, P2226, DOI 10.1103/PhysRevC.40.2226
+   MAY M, 1981, PHYS REV LETT, V47, P1106, DOI 10.1103/PhysRevLett.47.1106
+   MAY M, 1983, PHYS REV LETT, V51, P2085, DOI 10.1103/PhysRevLett.51.2085
+   MORIMATSU O, 1984, NUCL PHYS A, V420, P573, DOI 10.1016/0375-9474(84)90672-9
+   MORIMATSU O, 2000, PROG THEOR PHYS S, V137, P21
+   MORIMATSU O, 1984, NUCL PHYS A, V424, P412, DOI 10.1016/0375-9474(84)90002-2
+   NAGAE T, 1995, P 23 INS S NUCL PART, P175
+   NAGELS MM, 1977, PHYS REV D, V15, P2547, DOI 10.1103/PhysRevD.15.2547
+   OKA M, 1985, PHYS REV D, V31, P2274, DOI 10.1103/PhysRevD.31.2274
+   OKA M, 1995, PROG THEOR PHYS S, V120, P95, DOI 10.1143/PTPS.120.95
+   Oka M., 2000, PROG THEOR PHYS SUPP, V137, P1, DOI 10.1143/PTPS.137.1
+   Oka M, 1998, NUCL PHYS A, V629, p379C
+   OKA M, 1985, PHYS REV D, V31, P2773, DOI 10.1103/PhysRevD.31.2773
+   OKA M, 1991, NUCL PHYS A, V524, P649, DOI 10.1016/0375-9474(91)90267-A
+   PIRNER HJ, 1979, PHYS LETT B, V85, P190, DOI 10.1016/0370-2693(79)90575-6
+   QI LJ, 1995, NUCL PHYS A, V585, P693, DOI 10.1016/0375-9474(94)00801-S
+   REUBER A, 1994, NUCL PHYS A, V570, P543, DOI 10.1016/0375-9474(94)90073-6
+   Rijken TA, 1999, PHYS REV C, V59, P21, DOI 10.1103/PhysRevC.59.21
+   SHIMIZU K, 2000, PROG THEOR PHYS SUPP, V137, P43, DOI 10.1143/PTPS.137.43
+   SHIMIZU K, 1989, REP PROG PHYS, V52, P1, DOI 10.1088/0034-4885/52/1/001
+   SHURYAK EV, 1989, PHYS LETT B, V218, P72, DOI 10.1016/0370-2693(89)90477-2
+   STOKS VGJ, NUCLTH9901028
+   STOKS VGJ, 1993, PHYS REV C, V48, P792, DOI 10.1103/PhysRevC.48.792
+   STRAUB U, 1988, NUCL PHYS A, V483, P686, DOI 10.1016/0375-9474(88)90092-9
+   SUZUKI Y, 1984, NUCL PHYS A, V420, P525, DOI 10.1016/0375-9474(84)90670-5
+   TAKEUCHI S, 1989, NUCL PHYS A, V504, P777
+   TAKEUCHI S, 1991, PHYS REV LETT, V66, P1271, DOI 10.1103/PhysRevLett.66.1271
+   TAKEUCHI S, 1994, PHYS REV LETT, V73, P2173, DOI 10.1103/PhysRevLett.73.2173
+   Takeuchi S, 1998, NUCL PHYS A, V642, P543, DOI 10.1016/S0375-9474(98)00539-9
+   Takeuchi S., [No title captured]
+   Takeuchi S, 1996, PHYS REV D, V53, P6619, DOI 10.1103/PhysRevD.53.6619
+   Tamagaki R, 1967, PROG THEOR PHYS SUPP, V39, P23, DOI 10.1143/PTPS.39.23
+   Tamura H, 1998, NUCL PHYS A, V639, p83C, DOI 10.1016/S0375-9474(98)00254-1
+   TANI Y, THESIS
+   VALCARCE A, 1995, PHYS REV C, V51, P1480, DOI 10.1103/PhysRevC.51.1480
+   WANG F, 1987, NUCL PHYS A, V467, P685
+   WARKE CS, 1980, PHYS REV C, V21, P2643, DOI 10.1103/PhysRevC.21.2643
+   Yang S, 1998, COMMUN THEOR PHYS, V30, P439
+   ZHANG ZY, 1994, NUCL PHYS A, V578, P573
+   Zhang ZY, 1997, NUCL PHYS A, V625, P59, DOI 10.1016/S0375-9474(97)00033-X
+   Zhang ZY, 1998, COMMUN THEOR PHYS, V30, P213
+   ZHANG ZY, 1985, NUCL PHYS A, V443, P557, DOI 10.1016/0375-9474(85)90213-1
+   *BNL AGS, E930 BNLAGS
+   *BNL AGS, E929 BNLAGS
+   *KEK PS, E419 KEKPS
+NR 74
+TC 4
+Z9 4
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 2000
+IS 137
+BP 83
+EP 120
+PG 38
+WC Physics, Multidisciplinary
+SC Physics
+GA 307KR
+UT WOS:000086652900005
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+AF Kondo, Y
+   Morimatsu, O
+TI QCD sum rules for nucleon-nucleon interactions
+SO PROGRESS OF THEORETICAL PHYSICS
+LA English
+DT Article
+ID SCATTERING LENGTHS; SPIN STRUCTURE; PROTON
+AB The QCD sum rules for spin-dependent nucleon-nucleon interactions are formulated and their physical implications are studied. The basic object of the study is the correlation function of the nucleon interpolating field, where the matrix element is taken with respect to the one-nucleon state. By means of the dispersion relation, the correlation function in the deep Euclidean region, where it is expressed in terms of the nucleon matrix elements of the quark-gluon composite operators by using the operator product expansion (OPE), is related with its integral over the physical region. The dispersion integral of the correlation function around the nucleon threshold is investigated in detail. It turns out that the integral can be identified as a measure of the nucleon-nucleon interaction strength, which is proportional to the scattering length in the small scattering length limit and to one half of the effective range in the large scattering length limit. New operators: such as (q) over bar gamma(mu)gamma(5)q, (q) over bar gamma(5)i(sigma mu)nu q, must be taken into account in the OPE of the correlation function. These operators do not vanish when the matrix element is taken with respect to the spin-nonaveraged one-nucleon state. The Wilson coefficients of such operators are calculated. The sum rules obtained in this manner relate the spin-dependent nucleon-nucleon interaction strengths with the spin-dependent nucleon matrix elements of the quark-gluon composite operators. The sum rules imply that the interaction is stronger in the spin-triplet channel than in the spin-singlet channel, but that the spin-dependence of the nucleon-nucleon interactions is rather small. In the spin-singlet channel the calculated strength is in qualitative agreement with the empirical strength, which is estimated by the empirical low-energy scattering observables.
+C1 Kokugakuin Univ, Higashi Ku, Tokyo 1508440, Japan.
+   High Energy Accelerator Res Org, Inst Particle & Nucl Studies, Tanashi, Tokyo 1888501, Japan.
+RP Kondo, Y (reprint author), Kokugakuin Univ, Higashi Ku, Tokyo 1508440, Japan.
+EM kondo@tanashi.kek.jp; osamu.morimatsu@kek.jp
+CR Abe K, 1996, PHYS REV LETT, V76, P587, DOI 10.1103/PhysRevLett.76.587
+   ABE K, 1997, HEPEX9705017
+   ASHMAN J, 1988, PHYS LETT B, V206, P361
+   ASHMAN J, 1989, NUCL PHYS B, V328, P1, DOI 10.1016/0550-3213(89)90089-8
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   ELLIS J, 1995, PHYS LETT B, V341, P397, DOI 10.1016/0370-2693(95)80021-O
+   FUKUGITA M, 1995, PHYS REV LETT, V75, P2092, DOI 10.1103/PhysRevLett.75.2092
+   Hatsuda T., 1992, PHYS REV C, V46, P34
+   IOFFE BL, 1981, NUCL PHYS B, V188, P317, DOI 10.1016/0550-3213(81)90259-5
+   JAFFE RL, 1992, NUCL PHYS B, V375, P527, DOI 10.1016/0550-3213(92)90110-W
+   JIN XM, 1993, PHYS REV C, V47, P2882, DOI 10.1103/PhysRevC.47.2882
+   KODAIRA J, 1995, PHYS LETT B, V344, P348, DOI 10.1016/0370-2693(94)01550-V
+   Koike Y, 1997, PROG THEOR PHYS, V98, P631, DOI 10.1143/PTP.98.631
+   KOIKE Y, 1995, PHYS REV C, V51, P1488, DOI 10.1103/PhysRevC.51.1488
+   KONDO Y, 1993, PHYS REV LETT, V71, P2855, DOI 10.1103/PhysRevLett.71.2855
+   Kondo Y, 1996, PHYS REV C, V53, P1927, DOI 10.1103/PhysRevC.53.1927
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+NR 18
+TC 5
+Z9 5
+PU PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE
+PI KYOTO
+PA C/O KYOTO UNIV, YUKAWA HALL, KYOTO, 606-8502, JAPAN
+SN 0033-068X
+J9 PROG THEOR PHYS
+JI Prog. Theor. Phys.
+PD JUL
+PY 1998
+VL 100
+IS 1
+BP 1
+EP 19
+DI 10.1143/PTP.100.1
+PG 19
+WC Physics, Multidisciplinary
+SC Physics
+GA 107YT
+UT WOS:000075239100001
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+   Nishino, Y
+AF Kondo, Y
+   Morimatsu, O
+   Nishino, Y
+TI Hadron-nucleon scattering lengths from QCD sum rules
+SO AUSTRALIAN JOURNAL OF PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT Joint Japan/Australia Workshop
+CY NOV 15-24, 1995
+CL ADELAIDE, AUSTRALIA
+SP Inst Theoret Phys, Univ Adelaide
+HO UNIV ADELAIDE
+AB Hadron-nucleon scattering lengths are studied by the QCD sum rule. First we explain our motivation and present the formulation for calculating hadron-nucleon scattering lengths by the QCD sum rule, where the relation between the hadron mass in the nuclear medium and the hadron-nucleon scattering length is also clarified. Secondly we discuss two applications, the pion-nucleon scattering lengths and the nucleon-nucleon scattering lengths. In the case of the pion-nucleon scattering length we show that the results of the QCD sum rule are consistent with the low-energy theorem. In the case of the nucleon-nucleon scattering lengths we show that the results of the QCD sum rule are in qualitative agreement with experiment.
+C1 UNIV TOKYO,INST NUCL STUDY,TANASHI,TOKYO 188,JAPAN.
+   OSAKA UNIV,NUCL PHYS RES CTR,IBARAKI,OSAKA 567,JAPAN.
+RP Kondo, Y (reprint author), SUZUKA UNIV MED SCI & TECHNOL,1001-1 KISHIOKA,SUZUKA,MIE 51002,JAPAN.
+RI Nishino, Yoshinori/A-9927-2008
+OI Nishino, Yoshinori/0000-0002-7215-8013
+CR DRUKAREV EG, 1990, NUCL PHYS A, V516, P715
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   FURNSTAHL RJ, 1994, PHYS REV LETT, V72, P3128, DOI 10.1103/PhysRevLett.72.3128
+   GELLMANN M, 1968, PHYS REV, V175, P2195, DOI 10.1103/PhysRev.175.2195
+   Goldberger M. L, 1964, COLLISION THEORY
+   HATSUDA T, 1990, PHYS REV C, V42, P2212, DOI 10.1103/PhysRevC.42.2212
+   HATSUDA T, 1991, PHYS REV LETT, V66, P2851, DOI 10.1103/PhysRevLett.66.2851
+   HATSUDA T, 1993, NUCL PHYS B, V394, P221, DOI 10.1016/0550-3213(93)90107-Z
+   HATSUDA T, 1992, PHYS REV C, V46, pR34, DOI 10.1103/PhysRevC.46.R34
+   IOFFE BL, 1981, NUCL PHYS B, V188, P349
+   JIN XM, 1993, PHYS REV C, V47, P2882, DOI 10.1103/PhysRevC.47.2882
+   KONDO Y, 1994, PHYS REV LETT, V72, P3129, DOI 10.1103/PhysRevLett.72.3129
+   KONDO Y, 1993, PHYS REV LETT, V71, P2855, DOI 10.1103/PhysRevLett.71.2855
+   Kondo Y, 1996, PHYS REV C, V53, P1927, DOI 10.1103/PhysRevC.53.1927
+   LACOMBE M, 1980, PHYS REV C, V21, P861, DOI 10.1103/PhysRevC.21.861
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   TOMOZAWA Y, 1966, NUOVO CIMENT A, V46, P707, DOI 10.1007/BF02857517
+   WEINBERG S, 1966, PHYS REV LETT, V17, P616, DOI 10.1103/PhysRevLett.17.616
+   WEINBERG S, 1968, PHYS REV, V166, P1568, DOI 10.1103/PhysRev.166.1568
+NR 20
+TC 0
+Z9 0
+PU C S I R O PUBLICATIONS
+PI COLLINGWOOD
+PA 150 OXFORD ST, PO BOX 1139, COLLINGWOOD VICTORIA 3066, AUSTRALIA
+SN 0004-9506
+J9 AUST J PHYS
+JI Aust. J. Phys.
+PY 1997
+VL 50
+IS 1
+BP 221
+EP 231
+PG 11
+WC Physics, Multidisciplinary
+SC Physics
+GA WE325
+UT WOS:A1997WE32500025
+ER
+
+PT J
+AU Morimatsu, O
+AF Morimatsu, O
+TI QCD sum rule approach to hadron-hadron interactions
+SO JOURNAL OF THE KOREAN PHYSICAL SOCIETY
+LA English
+DT Article; Proceedings Paper
+CT KOSEF-JSPS Winter School on Recent Developments in Particle and Nuclear
+   Theory
+CY FEB 21-28, 1996
+CL SEOUL, SOUTH KOREA
+SP Japan Soc Promot Sci, Korea Sci & Engn Fdn
+ID NUCLEON-SCATTERING LENGTHS
+AB Recent work on the QCD sum rule approach to hadron-hadron interactions is reported. First we explain our motivation and present the formulation of calculating hadron-nucleon scattering lengths by the QCD sum rule, where the relation between the hadron mass in nuclear medium and the hadron-nucleon scattering length is also clarified, Secondly we discuss the results of two applications, the nucleon-nucleon and hyperon-nucleon scattering lengths and the pion-nucleon scattering lengths, In the case of the nucleon-nucleon and hyperon-nucleon scattering lengths we show that the results of the QCD sum rule are in qualitative agreement with the experiment. In the case of the pion-nucleon scattering lengths we show that the results of the QCD sum rule ale consistent with the low-energy theorem.
+RP Morimatsu, O (reprint author), UNIV TOKYO,INST NUCL STUDY,MIDORI CHO,TANASHI,TOKYO 188,JAPAN.
+CR ADLER S, 1968, CURRENT ALGEBRA APPL
+   DRUKAREV ED, 1992, NUCL PHYS A, V516, pE715
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   FURNSTAHL RJ, 1994, PHYS REV LETT, V72, P3128, DOI 10.1103/PhysRevLett.72.3128
+   Goldberger M. L, 1964, COLLISION THEORY
+   HATSUDA T, 1990, PHYS REV C, V42, P2212, DOI 10.1103/PhysRevC.42.2212
+   HATSUDA T, 1991, PHYS REV LETT, V66, P2851, DOI 10.1103/PhysRevLett.66.2851
+   HATSUDA T, 1993, NUCL PHYS B, V394, P221, DOI 10.1016/0550-3213(93)90107-Z
+   HATSUDA T, 1992, PHYS REV C, V46, pR34, DOI 10.1103/PhysRevC.46.R34
+   JIN XM, 1993, PHYS REV C, V47, P2882, DOI 10.1103/PhysRevC.47.2882
+   KOIKE Y, 1993, PHYS REV D, V48, P2313, DOI 10.1103/PhysRevD.48.2313
+   KONDO Y, 1994, PHYS REV LETT, V72, P3129, DOI 10.1103/PhysRevLett.72.3129
+   KONDO Y, UNPUB
+   KONDO Y, 1993, PHYS REV LETT, V71, P2855, DOI 10.1103/PhysRevLett.71.2855
+   Kondo Y, 1996, PHYS REV C, V53, P1927, DOI 10.1103/PhysRevC.53.1927
+   LACOMBE M, 1980, PHYS REV C, V21, P861, DOI 10.1103/PhysRevC.21.861
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   TOMOZAWA Y, 1966, NUOVO CIMENT A, V46, P707, DOI 10.1007/BF02857517
+   WEINBERG S, 1966, PHYS REV LETT, V17, P616, DOI 10.1103/PhysRevLett.17.616
+   WEINBERG S, 1968, PHYS REV, V166, P1568, DOI 10.1103/PhysRev.166.1568
+NR 21
+TC 0
+Z9 0
+PU KOREAN PHYSICAL SOC
+PI SEOUL
+PA 635-4, YUKSAM-DONG, KANGNAM-KU, SEOUL 135-703, SOUTH KOREA
+SN 0374-4884
+J9 J KOREAN PHYS SOC
+JI J. Korean Phys. Soc.
+PD SEP
+PY 1996
+VL 29
+SU S
+BP S320
+EP S325
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA VH145
+UT WOS:A1996VH14500023
+ER
+
+PT J
+AU Kondo, Y
+   Morimatsu, O
+   Nishino, Y
+AF Kondo, Y
+   Morimatsu, O
+   Nishino, Y
+TI Pion-nucleon and kaon-nucleon scattering lengths in QCD sum rules
+SO PHYSICAL REVIEW C
+LA English
+DT Article
+ID MATTER; CONDENSATION; PARAMETERS
+AB The pion-nucleon and kaon-nucleon scattering lengths are studied in the QCD sum rule. We show that the leading and next-to-leading order terms of the operator product expansion (OPE) give rise to the Tomozawa-Weinberg and sigma terms, respectively in the pion-nucleon and kaon-nucleon scattering lengths. We discuss phenomenological contributions which should be added to the experimental scattering lengths to be compared with the theoretical calculation by the OPE: we estimate the Lambda(1405) contribution in the kaon-nucleon channel by using the effective coupling strength determined by the analysis of the scattering data. We also estimate the continuum contribution above the threshold in the pion-nucleon channel by using the nonlinear sigma model. It turns out that the results of the QCD sum rule for the pion-nucleon scattering lengths are consistent with those of the low energy theorem and therefore with experiments and those for the kaon-nucleon scattering lengths differ from the results of naive partial conservation of axial-vector current-plus-current-algebra approach by the contribution from Lambda(1405).
+C1 UNIV TOKYO,INST NUCL STUDY,TOKYO 188,JAPAN.
+   OSAKA UNIV,NUCL PHYS RES CTR,IBARAKI,OSAKA 567,JAPAN.
+RP Kondo, Y (reprint author), SUZUKA UNIV MED SCI & TECHNOL,1001-1 KISHIOKA,SUZUKA,MIE 51002,JAPAN.
+RI Nishino, Yoshinori/A-9927-2008
+OI Nishino, Yoshinori/0000-0002-7215-8013
+CR ADLER S, 1968, CURRENT ALGEBRA APPL
+   BIRD PM, 1983, NUCL PHYS A, V404, P482, DOI 10.1016/0375-9474(83)90272-5
+   BROWN GE, 1991, NUCL PHYS A, V535, P701, DOI 10.1016/0375-9474(91)90483-M
+   CHENG TP, 1971, PHYS REV LETT, V26, P594, DOI 10.1103/PhysRevLett.26.594
+   DAVIES JD, 1979, PHYS LETT B, V83, P55, DOI 10.1016/0370-2693(79)90887-6
+   DELORME J, 1992, PHYS LETT B, V291, P379, DOI 10.1016/0370-2693(92)91391-L
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   DRUKAREV EG, 1990, NUCL PHYS A, V516, pE715
+   DUMBRAJS O, 1983, NUCL PHYS B, V216, P277, DOI 10.1016/0550-3213(83)90288-2
+   FURNSTAHL RJ, 1994, PHYS REV LETT, V72, P3128, DOI 10.1103/PhysRevLett.72.3128
+   FURNSTAHL RJ, 1994, PHYS REV C, V50, P1735, DOI 10.1103/PhysRevC.50.1735
+   GASSER J, 1991, PHYS LETT B, V253, P252, DOI 10.1016/0370-2693(91)91393-A
+   GELLMANN M, 1968, PHYS REV, V175, P2195, DOI 10.1103/PhysRev.175.2195
+   HATSUDA T, 1992, PHYS REV C, V46, pR34, DOI 10.1103/PhysRevC.46.R34
+   Hatsuda T, 1995, PHYS REV C, V52, P3364, DOI 10.1103/PhysRevC.52.3364
+   IZYCKI M, 1980, Z PHYS A-HADRON NUCL, V297, P11, DOI 10.1007/BF01414238
+   JIN XM, 1993, PHYS REV C, V47, P2882, DOI 10.1103/PhysRevC.47.2882
+   KOCH R, 1980, NUCL PHYS A, V336, P331, DOI 10.1016/0375-9474(80)90214-6
+   KOIKE Y, 1995, PHYS REV C, V51, P1488, DOI 10.1103/PhysRevC.51.1488
+   KONDO Y, 1994, PHYS REV LETT, V72, P3129, DOI 10.1103/PhysRevLett.72.3129
+   KONDO Y, UNPUB
+   KONDO Y, 1993, PHYS REV LETT, V71, P2855, DOI 10.1103/PhysRevLett.71.2855
+   MARTIN AD, 1981, NUCL PHYS B, V179, P33, DOI 10.1016/0550-3213(81)90247-9
+   NELSON AE, 1987, PHYS LETT B, V192, P193, DOI 10.1016/0370-2693(87)91166-X
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   TOMOZAWA Y, 1966, NUOVO CIMENT A, V46, P707, DOI 10.1007/BF02857517
+   WEINBERG S, 1966, PHYS REV LETT, V17, P616, DOI 10.1103/PhysRevLett.17.616
+   WEINBERG S, 1968, PHYS REV, V166, P1568, DOI 10.1103/PhysRev.166.1568
+   YABU H, 1993, PHYS LETT B, V317, P269, DOI 10.1016/0370-2693(93)90994-S
+   YABU H, 1993, PHYS LETT B, V315, P17, DOI 10.1016/0370-2693(93)90151-7
+NR 31
+TC 8
+Z9 8
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0556-2813
+J9 PHYS REV C
+JI Phys. Rev. C
+PD APR
+PY 1996
+VL 53
+IS 4
+BP 1927
+EP 1935
+DI 10.1103/PhysRevC.53.1927
+PG 9
+WC Physics, Nuclear
+SC Physics
+GA UG970
+UT WOS:A1996UG97000063
+ER
+
+PT J
+AU MORIMATSU, O
+AF MORIMATSU, O
+TI HADRON-NUCLEON SCATTERING LENGTHS FROM QCD SUM-RULES
+SO PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT
+LA English
+DT Article; Proceedings Paper
+CT From Hadronic Matter to Quark Matter - Evolving View of Hadronic Matter
+   Workshop
+CY OCT 30-NOV 01, 1994
+CL KYOTO, JAPAN
+HO KYOTO UNIV, YUKAWA INST THEORET PHYS
+ID PARAMETERS; MATTER
+AB Recent works of applying the QCD sum rule to the calculation of hadron-nucleon scattering lengths are reported. After a brief introduction to the QCD sum rule, how to obtain scattering lengths in the QCD sum rule is explained. Then it is applied first to the nucleon-nucleon and hyperon-nucleon channels and secondly to the pion-nucleon and kaon-nucleon channels.
+RP MORIMATSU, O (reprint author), UNIV TOKYO,INST NUCL STUDY,TANASHI,TOKYO 188,JAPAN.
+CR BIRD PM, 1983, NUCL PHYS A, V404, P482, DOI 10.1016/0375-9474(83)90272-5
+   CHENG TP, 1971, PHYS REV LETT, V26, P594, DOI 10.1103/PhysRevLett.26.594
+   DAVIES JD, 1979, PHYS LETT B, V83, P55, DOI 10.1016/0370-2693(79)90887-6
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   DRUKAREV EG, 1990, NUCL PHYS A, V516, pE715
+   DUMBRAJS O, 1983, NUCL PHYS B, V216, P277, DOI 10.1016/0550-3213(83)90288-2
+   FURNSTAHL RJ, 1994, PHYS REV LETT, V72, P3128, DOI 10.1103/PhysRevLett.72.3128
+   GELLMANN M, 1968, PHYS REV, V175, P2195, DOI 10.1103/PhysRev.175.2195
+   HATSUDA T, 1992, PHYS REV C, V46, pR34, DOI 10.1103/PhysRevC.46.R34
+   IOFFE BL, 1981, NUCL PHYS B, V188, P349
+   IZYCKI M, 1980, Z PHYS A-HADRON NUCL, V297, P11, DOI 10.1007/BF01414238
+   JIN XM, 1993, PHYS REV C, V47, P2882, DOI 10.1103/PhysRevC.47.2882
+   KOCH R, 1980, NUCL PHYS A, V336, P331, DOI 10.1016/0375-9474(80)90214-6
+   KONDO Y, 1982, PHYS REV LETT, V71, P2015
+   KONDO Y, 1994, PHYS REV LETT, V72, P3129, DOI 10.1103/PhysRevLett.72.3129
+   KONDO Y, INS1059 REP
+   LACOMBE M, 1980, PHYS REV C, V21, P861, DOI 10.1103/PhysRevC.21.861
+   MARTIN AD, 1981, NUCL PHYS B, V179, P33, DOI 10.1016/0550-3213(81)90247-9
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+   TOMOZAWA Y, 1966, NUOVO CIMENT A, V46, P707, DOI 10.1007/BF02857517
+   WEINBERG S, 1966, PHYS REV LETT, V17, P616, DOI 10.1103/PhysRevLett.17.616
+NR 22
+TC 0
+Z9 0
+PU KYOTO UNIV
+PI KYOTO
+PA YUKAWA HALL PROGRESS THEORETICAL PHYSICS, KYOTO 606-01, JAPAN
+SN 0375-9687
+J9 PROG THEOR PHYS SUPP
+JI Prog. Theor. Phys. Suppl.
+PY 1995
+IS 120
+BP 343
+EP 352
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA TE268
+UT WOS:A1995TE26800036
+ER
+
+PT J
+AU KONDO, Y
+   MORIMATSU, O
+AF KONDO, Y
+   MORIMATSU, O
+TI NUCLEON-NUCLEON-SCATTERING LENGTHS IN QCD SUM-RULES
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID MATTER; PHYSICS
+AB Nucleon-nucleon scattering lengths are calculated by QCD sum rules. The calculation is based on the observation that the coefficient of the second-order pole term of the nucleon correlation function in nucleon is proportional to the nucleon-nucleon scattering length at the threshold. By applying Borel sum rules, we express the scattering length in terms of the expectation values of the quark-gluon field operators with respect to the one-nucleon state. The scattering lengths calculated are in qualitative agreement with experiment. It is shown that in the linear density approximation the nucleon mass shift in nuclear matter is related to the nucleon-nucleon scattering length by deltaM(N) = - (3pi/2M(N))(a(NN)1+a(NN)3)rho.
+RP KONDO, Y (reprint author), UNIV TOKYO,INST NUCL STUDY,MIDORI CHO,TANASHI,TOKYO 188,JAPAN.
+CR COHEN TD, 1991, PHYS REV LETT, V67, P961, DOI 10.1103/PhysRevLett.67.961
+   DRUKAREV EG, 1990, NUCL PHYS A, V516, P715
+   DRUKAREV EG, 1990, NUCL PHYS A, V511, P679, DOI 10.1016/0375-9474(90)90117-5
+   DRUKAREV EG, 1991, PROG PART NUCL PHYS, V27, P77, DOI 10.1016/0146-6410(91)90003-7
+   FURNSTAHL RJ, 1992, PHYS REV C, V46, P1507, DOI 10.1103/PhysRevC.46.1507
+   Goldberger M. L, 1964, COLLISION THEORY
+   HATSUDA T, 1990, PHYS REV C, V42, P2212, DOI 10.1103/PhysRevC.42.2212
+   HATSUDA T, 1991, PHYS REV LETT, V66, P2851, DOI 10.1103/PhysRevLett.66.2851
+   HATSUDA T, 1992, PHYS REV C, V46, pR34, DOI 10.1103/PhysRevC.46.R34
+   KONDO Y, 1992, INS933 REP
+   KONDO Y, IN PRESS
+   LACOMBE M, 1980, PHYS REV C, V21, P861, DOI 10.1103/PhysRevC.21.861
+   REINDERS LJ, 1985, PHYS REP, V127, P1, DOI 10.1016/0370-1573(85)90065-1
+   SHIFMAN MA, 1979, NUCL PHYS B, V147, P385, DOI 10.1016/0550-3213(79)90022-1
+NR 14
+TC 18
+Z9 18
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD NOV 1
+PY 1993
+VL 71
+IS 18
+BP 2855
+EP 2858
+DI 10.1103/PhysRevLett.71.2855
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA MD948
+UT WOS:A1993MD94800004
+ER
+
+PT J
+AU MORIMATSU, O
+   TAKIZAWA, M
+AF MORIMATSU, O
+   TAKIZAWA, M
+TI EFFECTS OF THE UA(1) BREAKING INTERACTION ON BARYONIC SYSTEMS
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+ID JONA-LASINIO MODEL; U(1) PROBLEM; INSTANTONS; MESONS; QUARKS; MASSES
+AB The effects of the U(A)(1) breaking interaction on the baryon number one and two systems are estimated employing the six-quark flavour determinantal interaction as the effective interaction of quarks which reproduces the observed mass difference of eta and eta' mesons. This is done by calculating the matrix elements of the U(A)(1) breaking hamiltonian with respect to unperturbed states of the MIT bag model and the nonrelativistic quark model. The determinantal interaction induces not only three-body but also two-body interactions of valence quarks. The two-body interaction is attractive, which gives rise to the NDELTA mass difference with the magnitude less than one tenth of the observed one and attraction of two octet baryons at short distances whose magnitude is in the range 20 approximately 80 MeV depending on the flavour channels and the choice of parameters. The three-body interaction is repulsive, which gives about 10 approximately 20 MeV repulsion in the H-dibaryon channel and somewhat weaker repulsion in the flavour SU(3) octet and antidecuplet channels of two octet baryons at short distances. We also compare our results with those obtained by using the instanton-induced interaction.
+C1 UNIV S CAROLINA,DEPT PHYS & ASTRON,COLUMBIA,SC 29208.
+   FORSCHUNGSZENTRUM JULICH,INST KERNPHYS,W-5170 JULICH,GERMANY.
+   UNIV REGENSBURG,INST THEORET PHYS,W-8400 REGENSBURG,GERMANY.
+RP MORIMATSU, O (reprint author), UNIV TOKYO,INST NUCL STUDY,TANASHI,TOKYO 188,JAPAN.
+CR ALKOFER R, 1989, Z PHYS C PART FIELDS, V45, P275, DOI 10.1007/BF01674457
+   BERNARD V, 1988, NUCL PHYS B, V308, P753, DOI 10.1016/0550-3213(88)90127-7
+   CREWTHER RJ, 1977, PHYS LETT B, V70, P349, DOI 10.1016/0370-2693(77)90675-X
+   DEGRAND T, 1975, PHYS REV D, V12, P2060, DOI 10.1103/PhysRevD.12.2060
+   DERUJULA A, 1975, PHYS REV D, V12, P147, DOI 10.1103/PhysRevD.12.147
+   HATSUDA T, 1991, Z PHYS C PART FIELDS, V51, P49, DOI 10.1007/BF01579559
+   KLIMT S, 1990, NUCL PHYS A, V516, P429, DOI 10.1016/0375-9474(90)90123-4
+   KOBAYASH.M, 1971, PROG THEOR PHYS, V45, P1955, DOI 10.1143/PTP.45.1955
+   KOHYAMA Y, 1988, PHYS LETT B, V208, P165, DOI 10.1016/0370-2693(88)90411-X
+   KUNIHIRO T, 1988, PHYS LETT B, V206, P385, DOI 10.1016/0370-2693(88)91596-1
+   KUNIHIRO T, 1988, PROG THEOR PHYS, V80, P34, DOI 10.1143/PTP.80.34
+   Oka M., 1984, Quarks and nuclei
+   OKA M, 1989, PHYS REV LETT, V63, P1780, DOI 10.1103/PhysRevLett.63.1780
+   OKA M, 1991, NUCL PHYS A, V524, P649, DOI 10.1016/0375-9474(91)90267-A
+   REINHARDT H, 1988, PHYS LETT B, V207, P482, DOI 10.1016/0370-2693(88)90687-9
+   SHIFMAN MA, 1980, NUCL PHYS B, V163, P46, DOI 10.1016/0550-3213(80)90389-2
+   SHIMIZU K, 1989, REP PROG PHYS, V52, P1, DOI 10.1088/0034-4885/52/1/001
+   SHURYAK EV, 1989, PHYS LETT B, V218, P72, DOI 10.1016/0370-2693(89)90477-2
+   TAKEUCHI S, 1991, PHYS REV LETT, V66, P1271, DOI 10.1103/PhysRevLett.66.1271
+   TAKIZAWA M, 1989, PROG THEOR PHYS, V82, P481, DOI 10.1143/PTP.82.481
+   TAKIZAWA M, 1990, NUCL PHYS A, V507, P611
+   t'Hooft G., 1976, PHYS REV D, V14, P3432, DOI 10.1103/PhysRevD.14.3432
+   THOOFT G, 1986, PHYS REP, V142, P357, DOI 10.1016/0370-1573(86)90117-1
+   VOGL U, 1990, NUCL PHYS A, V516, P469, DOI 10.1016/0375-9474(90)90124-5
+   WEINBERG S, 1975, PHYS REV D, V11, P3583, DOI 10.1103/PhysRevD.11.3583
+   WITTEN E, 1979, NUCL PHYS B, V156, P269, DOI 10.1016/0550-3213(79)90031-2
+   WITTEN E, 1979, NUCL PHYS B, V149, P285, DOI 10.1016/0550-3213(79)90243-8
+NR 27
+TC 14
+Z9 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD MAR 29
+PY 1993
+VL 554
+IS 4
+BP 635
+EP 652
+DI 10.1016/0375-9474(93)90250-2
+PG 18
+WC Physics, Nuclear
+SC Physics
+GA KW823
+UT WOS:A1993KW82300006
+ER
+
+PT J
+AU MORIMATSU, O
+   GREEN, AM
+   PATON, J
+AF MORIMATSU, O
+   GREEN, AM
+   PATON, J
+TI GLUON OVERLAP FACTORS EXTRACTED FROM MONTE-CARLO LATTICE CALCULATIONS
+SO PHYSICS LETTERS B
+LA English
+DT Article
+AB A strategy is proposed for extracting gluon field overlap factors from Monte Carlo lattice calculations involving static (qqBAR) (qqBAR) configurations.  This is demonstrated by means of an existing lattice calculation that restricts the quarks and antiquarks to a rectangular geometry.  The results are in qualitative agreement with weak coupling at short distances, but more definite conclusions could not be made at this stage, since the appropriate Monte Carlo calculations are - as yet - not sufficiently precise.
+C1 UNIV HELSINKI,THEORET PHYS RES INST,SF-00170 HELSINKI 17,FINLAND.
+   UNIV OXFORD,DEPT THEORET PHYS,OXFORD OX1 3NP,ENGLAND.
+RP MORIMATSU, O (reprint author), UNIV TOKYO,INST NUCL STUDY,TOKYO 188,JAPAN.
+CR ALEXANDROU C, 1990, NUCL PHYS A, V518, P723, DOI 10.1016/0375-9474(90)90188-R
+   MASUD B, 1991, IN PRESS NUCL PHYS A, V527
+   MILLER GA, 1989, PHYS REV C, V39, P1563, DOI 10.1103/PhysRevC.39.1563
+   MILLER GA, 1988, PHYS REV D, V37, P2431, DOI 10.1103/PhysRevD.37.2431
+   MORIMATSU O, 1989, NUCL PHYS A, V505, P655
+   OHTA S, 1986, PHYS LETT B, V173, P15, DOI 10.1016/0370-2693(86)91221-9
+   ROBSON D, 1986, PHYS REV D, V35, P1029
+NR 7
+TC 9
+Z9 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD APR 11
+PY 1991
+VL 258
+IS 3-4
+BP 257
+EP 261
+DI 10.1016/0370-2693(91)91080-F
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA FJ115
+UT WOS:A1991FJ11500003
+ER
+
+PT J
+AU ALEXANDROU, C
+   KARAPIPERIS, T
+   MORIMATSU, O
+AF ALEXANDROU, C
+   KARAPIPERIS, T
+   MORIMATSU, O
+TI MESON-MESON SCATTERING IN THE QUARK-STRING MODEL
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+C1 UNIV ERLANGEN NURNBERG,INST THEORET PHYS 3,W-8520 ERLANGEN,GERMANY.
+CR Abramowitz M., HDB MATH FUNCTIONS
+   CASTILLEJO L, 1956, PHYS REV, V101, P453, DOI 10.1103/PhysRev.101.453
+   DERUJULA A, 1975, PHYS REV D, V12, P147, DOI 10.1103/PhysRevD.12.147
+   DIEPERINK AEL, 1988, NUCL PHYS A, V489, P627, DOI 10.1016/0375-9474(88)90113-3
+   FEINBERG G, 1979, PHYS REV D, V20, P1717, DOI 10.1103/PhysRevD.20.1717
+   FISHBANE PM, 1978, PHYS LETT B, V74, P98
+   GREEN AM, 1989, NUCL PHYS A, V500, P529, DOI 10.1016/0375-9474(89)90224-8
+   GREEN AM, 1989, NUCL PHYS A, V492, P595, DOI 10.1016/0375-9474(89)90110-3
+   GREEN AM, HUTFT8917
+   GREENBERG OW, 1981, NUCL PHYS A, V370, P349, DOI 10.1016/0375-9474(81)90102-0
+   IDA M, 1959, PROG THEOR PHYS, V21, P625, DOI 10.1143/PTP.21.625
+   ISGUR N, 1977, PHYS LETT B, V72, P109, DOI 10.1016/0370-2693(77)90074-0
+   ISGUR N, 1985, PHYS REV LETT, V54, P869, DOI 10.1103/PhysRevLett.54.869
+   ISGUR N, 1979, PHYS REV D, V20, P1191, DOI 10.1103/PhysRevD.20.1191
+   ISGUR N, 1985, PHYS REV D, V31, P2910, DOI 10.1103/PhysRevD.31.2910
+   ISGUR N, 1979, PHYS REV D, V19, P2653, DOI 10.1103/PhysRevD.19.2653
+   ISGUR N, 1989, NUCL PHYS A, V497, pC91
+   Kamimura M., 1977, PROG THEOR PHYS SUPP, V62, P236, DOI 10.1143/PTPS.62.236
+   KOGUT J, 1975, PHYS REV D, V11, P395, DOI 10.1103/PhysRevD.11.395
+   KOKOSKI R, 1987, PHYS REV D, V35, P907, DOI 10.1103/PhysRevD.35.907
+   LENZ F, 1986, ANN PHYS-NEW YORK, V170, P65, DOI 10.1016/0003-4916(86)90088-6
+   LIU KF, 1983, PHYS LETT B, V131, P195, DOI 10.1016/0370-2693(83)91120-6
+   MALTMAN K, 1984, PHYS REV D, V29, P952, DOI 10.1103/PhysRevD.29.952
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MILLER GA, 1989, NUCL PHYS A, V497, pC277
+   MILLER GA, 1988, PHYS REV D, V37, P2431, DOI 10.1103/PhysRevD.37.2431
+   MORIMATSU O, 1989, NUCL PHYS A, V505, P655
+   MULDERS PJ, 1988, NUCL PHYS A, V483, P461, DOI 10.1016/0375-9474(88)90079-6
+   OKA M, 1983, NUCL PHYS A, V402, P477
+   OKA M, 1985, QUARKS NUCLEI
+   ROBSON D, 1987, PHYS REV D, V35, P1018, DOI 10.1103/PhysRevD.35.1018
+   ROBSON D, 1987, PHYS REV D, V35, P1029, DOI 10.1103/PhysRevD.35.1029
+   TAKEUCHI S, 1986, NUCL PHYS A, V449, P617, DOI 10.1016/0375-9474(86)90324-6
+   TAKEUCHI S, 1985, NUCL PHYS A, V438, P605, DOI 10.1016/0375-9474(85)90008-9
+   TAKEUCHI S, 1988, NUCL PHYS A, V481, P693, DOI 10.1016/0375-9474(88)90722-1
+   WEINSTEIN J, 1983, PHYS REV D, V27, P588, DOI 10.1103/PhysRevD.27.588
+   WILLEY RS, 1978, PHYS REV D, V18, P270, DOI 10.1103/PhysRevD.18.270
+   WILSON K, 1975, ERICE LECTURE NOTES
+   WILSON KG, 1974, PHYS REV D, V10, P2445, DOI 10.1103/PhysRevD.10.2445
+   YAMAUCHI Y, 1985, NUCL PHYS A, V443, P628, DOI 10.1016/0375-9474(85)90217-9
+NR 40
+TC 15
+Z9 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD NOV 26
+PY 1990
+VL 518
+IS 4
+BP 723
+EP 751
+DI 10.1016/0375-9474(90)90188-R
+PG 29
+WC Physics, Nuclear
+SC Physics
+GA EM842
+UT WOS:A1990EM84200008
+ER
+
+PT J
+AU MORIMATSU, O
+AF MORIMATSU, O
+TI THE BORN-OPPENHEIMER APPROACH TO THE HEAVY Q2-Q2 SYSTEM
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+C1 UNIV ERLANGEN NURNBERG,INST THEORET PHYS,W-8520 ERLANGEN,GERMANY.
+   UNIV TOKYO,INST NUCL STUDY,TANASHI,TOKYO 188,JAPAN.
+RP MORIMATSU, O (reprint author), PSI SIN,CH-5234 VILLIGEN,SWITZERLAND.
+CR DERJULA A, 1975, PHYS REV D, V12, P147
+   FISHBANE PM, 1978, PHYS LETT B, V74, P98
+   GREENBERG OW, 1981, NUCL PHYS A, V370, P349, DOI 10.1016/0375-9474(81)90102-0
+   GREENBERG OW, 1979, PHYS LETT B, V86, P309, DOI 10.1016/0370-2693(79)90845-1
+   HELLER L, 1985, PHYS REV D, V32, P755, DOI 10.1103/PhysRevD.32.755
+   ISGUR N, 1977, PHYS LETT B, V72, P109, DOI 10.1016/0370-2693(77)90074-0
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   ISGUR N, 1979, PHYS REV D, V20, P1191, DOI 10.1103/PhysRevD.20.1191
+   ISGUR N, 1979, PHYS REV D, V19, P2653, DOI 10.1103/PhysRevD.19.2653
+   KOGUT J, 1975, PHYS REV D, V11, P395, DOI 10.1103/PhysRevD.11.395
+   LENZ F, 1986, ANN PHYS-NEW YORK, V170, P65, DOI 10.1016/0003-4916(86)90088-6
+   LIU KF, 1983, PHYS LETT B, V131, P195, DOI 10.1016/0370-2693(83)91120-6
+   MASUTANI K, 1987, NUCL PHYS A, V468, P593, DOI 10.1016/0375-9474(87)90184-9
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MILLER GA, 1988, PHYS REV D, V37, P2431, DOI 10.1103/PhysRevD.37.2431
+   MIYAZAWA H, 1979, PHYS REV D, V20, P2953, DOI 10.1103/PhysRevD.20.2953
+   MORIMATSU O, 1987, 11TH C PART NUCL KYO
+   MORIMATSU O, UNPUB
+   OHTA S, 1986, PHYS LETT B, V173, P15, DOI 10.1016/0370-2693(86)91221-9
+   OTTO SW, 1984, PHYS REV LETT, V52, P2328, DOI 10.1103/PhysRevLett.52.2328
+   WILLEY RS, 1978, PHYS REV D, V18, P270, DOI 10.1103/PhysRevD.18.270
+   WITTEN E, 1979, NUCL PHYS B, V160, P57, DOI 10.1016/0550-3213(79)90232-3
+   THOOFT G, 1974, NUCL PHYS B, VB 72, P461
+NR 23
+TC 14
+Z9 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD DEC 25
+PY 1989
+VL 505
+IS 3-4
+BP 655
+EP 669
+PG 15
+WC Physics, Nuclear
+SC Physics
+GA CG841
+UT WOS:A1989CG84100008
+ER
+
+PT J
+AU YAMAZAKI, T
+   HAYANO, RS
+   MORIMATSU, O
+   YAZAKI, K
+AF YAMAZAKI, T
+   HAYANO, RS
+   MORIMATSU, O
+   YAZAKI, K
+TI COULOMB-ASSISTED HYBRID BOUND-STATES OF SIGMA- IN MEDIUM NUCLEI
+   POPULATED BY K- ABSORPTION AT REST
+SO PHYSICS LETTERS B
+LA English
+DT Article
+C1 UNIV TOKYO,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+RP YAMAZAKI, T (reprint author), UNIV TOKYO,INST NUCL STUDY,TOKYO 188,JAPAN.
+CR BATTY CJ, 1978, PHYS LETT B, V74, P27, DOI 10.1016/0370-2693(78)90050-3
+   BATTY CJ, 1981, NUCL PHYS A, V372, P418, DOI 10.1016/0375-9474(81)90044-0
+   BERTINI R, 1985, PHYS LETT B, V158, P19, DOI 10.1016/0370-2693(85)90730-0
+   BERTINI R, 1984, PHYS LETT B, V136, P29, DOI 10.1016/0370-2693(84)92049-5
+   BERTINI R, 1980, PHYS LETT B, V90, P375, DOI 10.1016/0370-2693(80)90952-1
+   BROCKMANN R, 1982, PHYS LETT B, V118, P33, DOI 10.1016/0370-2693(82)90596-2
+   DABROWSKI J, 1981, PHYS REV C, V23, P1706
+   EMERY GT, 1976, PHYS LETT B, V60, P351, DOI 10.1016/0370-2693(76)90748-6
+   GAL A, 1980, PHYS REV LETT, V44, P379, DOI 10.1103/PhysRevLett.44.379
+   GIBBS WR, 1984, PHYS LETT B, V145, P1, DOI 10.1016/0370-2693(84)90934-1
+   HAYANO RS, 1988, NUCL PHYS A, V478, pC113
+   HUNGERFORD EV, 1986, 1986 P INS INT S HYP, P6
+   KISSLINGER LS, 1980, PHYS REV LETT, V44, P968, DOI 10.1103/PhysRevLett.44.968
+   MACKH H, 1974, Z PHYS, V269, P353, DOI 10.1007/BF01668607
+   MASUTANI K, 1985, PHYS LETT B, V156, P11, DOI 10.1016/0370-2693(85)91345-0
+   MATSUYAMA A, 1988, NUCL PHYS A, V477, P673, DOI 10.1016/0375-9474(88)90412-5
+   MATSUYAMA A, 1986, 1986 P INS S HYP PHY, P50
+   MORIMATSU O, 1986, 1986 P INS INT S HYP, P50
+   PIEKARZ H, 1982, PHYS LETT B, V110, P428, DOI 10.1016/0370-2693(82)91031-0
+   STEPIENRUDZKA W, 1981, NUCL PHYS A, V362, P349, DOI 10.1016/0375-9474(81)90498-X
+   TAMURA H, 1988, NUCL PHYS A, V479, pC161
+   YAMAZAKI T, 1985, PHYS REV LETT, V54, P102, DOI 10.1103/PhysRevLett.54.102
+   YAMAZAKI T, 1984, PHYS LETT B, V144, P177, DOI 10.1016/0370-2693(84)91798-2
+NR 23
+TC 51
+Z9 52
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD JUN 30
+PY 1988
+VL 207
+IS 4
+BP 393
+EP 396
+DI 10.1016/0370-2693(88)90671-5
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA P3618
+UT WOS:A1988P361800008
+ER
+
+PT J
+AU MORIMATSU, O
+   YAZAKI, K
+AF MORIMATSU, O
+   YAZAKI, K
+TI A STUDY ON THE FORMATION OF SIGMA-HYPERNUCLEI BY (K, PI) REACTION
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+C1 UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BACKENSTOSS G, 1975, Z PHYS A-HADRON NUCL, V273, P137, DOI 10.1007/BF01435833
+   BATTY CJ, 1978, PHYS LETT B, V74, P27, DOI 10.1016/0370-2693(78)90050-3
+   BATTY CJ, 1981, NUCL PHYS A, V372, P418, DOI 10.1016/0375-9474(81)90044-0
+   BERTINI R, 1985, PHYS LETT B, V158, P19, DOI 10.1016/0370-2693(85)90730-0
+   BERTINI R, 1984, PHYS LETT B, V136, P29, DOI 10.1016/0370-2693(84)92049-5
+   BERTINI R, 1980, PHYS LETT B, V90, P375, DOI 10.1016/0370-2693(80)90952-1
+   Bertsch G.F., 1975, Physics Reports. Physics Letters Section C, V18c, DOI 10.1016/0370-1573(75)90003-4
+   BOHR A, 1969, NUCLEAR STRUCTURE, V1
+   BROCKMANN R, 1982, PHYS LETT B, V118, P33, DOI 10.1016/0370-2693(82)90596-2
+   COHEN S, 1967, NUCL PHYS A, VA101, P1, DOI 10.1016/0375-9474(67)90285-0
+   DABROWSKI J, 1981, PHYS REV C, V23, P1706
+   DOVER CB, 1986, PHYS REV LETT, V56, P119, DOI 10.1103/PhysRevLett.56.119
+   GAL A, 1980, PHYS REV LETT, V44, P379, DOI 10.1103/PhysRevLett.44.379
+   GAL A, 1980, PHYS REV LETT, V44, pE962
+   HAUSMANN R, 1986, Z PHYS A-HADRON NUCL, V324, P355, DOI 10.1007/BF01294590
+   HAYANO RS, 1986, 1986 P INS S HYP PHY
+   HAYANO RS, 1988, 11 INT C PART NUCL
+   HUFNER J, 1974, NUCL PHYS A, V234, P42
+   KISSLINGER LS, 1980, PHYS REV LETT, V44, P968, DOI 10.1103/PhysRevLett.44.968
+   KOHNO M, 1987, NUCL PHYS A, V470, P609, DOI 10.1016/0375-9474(87)90589-6
+   MASUTANI K, 1983, NUCL PHYS A, V407, P309, DOI 10.1016/0375-9474(83)90656-5
+   MORIMATSU O, 1985, NUCL PHYS A, V435, P727, DOI 10.1016/0375-9474(85)90185-X
+   MORIMATSU O, 1986, THESIS U TOKYO
+   MORIMATSU O, 1986, 1986 P INS S HYP PHY
+   PIEKARZ H, 1982, PHYS LETT B, V110, P428, DOI 10.1016/0370-2693(82)91031-0
+   WYCECH S, 1979, NUCL PHYS A, V324, P288, DOI 10.1016/0375-9474(79)90585-2
+   YAMAMOTO Y, 1983, PROG THEOR PHYS, V69, P1312, DOI 10.1143/PTP.69.1312
+   YAMAZAKI T, 1985, NUCL PHYS A, V446, pC467
+   YAMAZAKI T, 1985, PHYS REV LETT, V54, P1237
+   YAMAZAKI T, 1984, PHYS LETT B, V144, P177, DOI 10.1016/0370-2693(84)91798-2
+NR 30
+TC 94
+Z9 94
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD JUN 27
+PY 1988
+VL 483
+IS 3-4
+BP 493
+EP 513
+DI 10.1016/0375-9474(88)90081-4
+PG 21
+WC Physics, Nuclear
+SC Physics
+GA P2484
+UT WOS:A1988P248400004
+ER
+
+PT J
+AU ODAWARA, H
+   MORIMATSU, O
+   YAZAKI, K
+AF ODAWARA, H
+   MORIMATSU, O
+   YAZAKI, K
+TI A NONSTATIC APPROACH TO SKYRMION SKYRMION INTERACTION
+SO PHYSICS LETTERS B
+LA English
+DT Article
+RP ODAWARA, H (reprint author), UNIV TOKYO,DEPT PHYS,ANAT 2,TOKYO 113,JAPAN.
+CR ADKINS GS, 1983, NUCL PHYS B, V228, P552, DOI 10.1016/0550-3213(83)90559-X
+   JACKSON A, 1985, NUCL PHYS A, V432, P567, DOI 10.1016/0375-9474(85)90002-8
+   MAU RV, 1985, PHYS LETT B, V150, P259
+   OKA M, 1986, UPR0292T PREPR
+   OTOFUJI T, 1985, DPNU8526 PREPR
+   SKYRME THR, 1962, NUCL PHYS, V31, P556, DOI 10.1016/0029-5582(62)90775-7
+   SKYRME TH, 1961, PROC R SOC LON SER-A, V260, P127, DOI 10.1098/rspa.1961.0018
+   WITTEN E, 1979, NUCL PHYS B, V160, P57, DOI 10.1016/0550-3213(79)90232-3
+   YABU H, 1985, PROG THEOR PHYS, V74, P750, DOI 10.1143/PTP.74.750
+   THOOFT G, 1974, NUCL PHYS B, VB 72, P461
+NR 10
+TC 16
+Z9 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-2693
+J9 PHYS LETT B
+JI Phys. Lett. B
+PD JUL 31
+PY 1986
+VL 175
+IS 2
+BP 115
+EP 119
+DI 10.1016/0370-2693(86)90698-2
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA D4209
+UT WOS:A1986D420900003
+ER
+
+PT J
+AU KOIKE, Y
+   MORIMATSU, O
+   YAZAKI, K
+AF KOIKE, Y
+   MORIMATSU, O
+   YAZAKI, K
+TI BARYON-BARYON INTERACTION WITH A FLIP-FLOP MODEL FOR QUARK CONFINEMENT -
+   THE CASE OF COLOR SU(2)
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+RP KOIKE, Y (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,TOKYO 113,JAPAN.
+CR FAESSLER A, 1982, PHYS LETT B, V112, P201, DOI 10.1016/0370-2693(82)90961-3
+   FAESSLER A, 1983, NUCL PHYS A, V402, P555, DOI 10.1016/0375-9474(83)90219-1
+   FISHBANE PM, 1978, PHYS LETT B, V74, P98
+   GREENBERG OW, 1981, NUCL PHYS A, V370, P349, DOI 10.1016/0375-9474(81)90102-0
+   HARVEY M, 1981, NUCL PHYS A, V352, P326, DOI 10.1016/0375-9474(81)90413-9
+   HARVEY M, 1981, NUCL PHYS A, V352, P301, DOI 10.1016/0375-9474(81)90412-7
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   Kamimura M., 1977, PROG THEOR PHYS SUPP, V62, P236, DOI 10.1143/PTPS.62.236
+   LENZ F, UNPUB
+   MALTMAN K, 1984, PHYS REV D, V29, P952, DOI 10.1103/PhysRevD.29.952
+   MASUTANI K, UNPUB
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   MIYAZAWA H, 1979, PHYS REV D, V20, P2953, DOI 10.1103/PhysRevD.20.2953
+   MORIMATSU O, 1984, NUCL PHYS A, V420, P573, DOI 10.1016/0375-9474(84)90672-9
+   MORIMATSU O, 1984, NUCL PHYS A, V424, P412, DOI 10.1016/0375-9474(84)90002-2
+   OHTA S, 1982, PHYS LETT B, V119, P35, DOI 10.1016/0370-2693(82)90237-4
+   OKA M, 1980, PHYS LETT B, V90, P41, DOI 10.1016/0370-2693(80)90046-5
+   OKA M, 1985, PHYS REV D, V31, P2274, DOI 10.1103/PhysRevD.31.2274
+   OKA M, 1983, NUCL PHYS A, V402, P477
+   OKA M, 1981, PROG THEOR PHYS, V66, P556, DOI 10.1143/PTP.66.556
+   OKA M, 1981, PROG THEOR PHYS, V66, P672
+   OKA M, 1985, PHYS REV D, V31, P2773, DOI 10.1103/PhysRevD.31.2773
+   OKAI S, 1966, PHYS REV, V145, P787, DOI 10.1103/PhysRev.145.787
+   SUZUKI Y, 1984, NUCL PHYS A, V420, P525, DOI 10.1016/0375-9474(84)90670-5
+   TAMAGAKI R, 1965, PROG THEOR PHYS, V34, P191, DOI 10.1143/PTP.34.191
+   WILLEY RS, 1978, PHYS REV D, V18, P270, DOI 10.1103/PhysRevD.18.270
+   YAZAKI K, 1984, NUCL PHYS A, V416, pC87
+NR 27
+TC 29
+Z9 29
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PD MAR 3
+PY 1986
+VL 449
+IS 4
+BP 635
+EP 659
+DI 10.1016/0375-9474(86)90325-8
+PG 25
+WC Physics, Nuclear
+SC Physics
+GA A5434
+UT WOS:A1986A543400003
+ER
+
+PT J
+AU MORIMATSU, O
+   YAZAKI, K
+AF MORIMATSU, O
+   YAZAKI, K
+TI THE FORMATION PROBABILITIES OF SIGMA-HYPERNUCLEI AND THE UNSTABLE
+   BOUND-STATE
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+RP MORIMATSU, O (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,BUNKYO KU,TOKYO 113,JAPAN.
+CR BATTY CJ, 1983, NUCL PHYS A, V402, P349, DOI 10.1016/0375-9474(83)90207-5
+   BERTINI R, 1984, PHYS LETT B, V136, P29, DOI 10.1016/0370-2693(84)92049-5
+   BERTINI R, 1980, PHYS LETT B, V90, P375, DOI 10.1016/0370-2693(80)90952-1
+   BROCKMANN R, 1982, PHYS LETT B, V118, P33, DOI 10.1016/0370-2693(82)90596-2
+   DABROWSKI J, 1981, PHYS REV C, V23, P1706
+   GAL A, 1980, PHYS REV LETT, V44, P379, DOI 10.1103/PhysRevLett.44.379
+   GAL A, 1981, ANN PHYS-NEW YORK, V137, P341, DOI 10.1016/0003-4916(81)90200-1
+   GAL A, 1980, PHYS REV LETT, V44, P962, DOI 10.1103/PhysRevLett.44.962.3
+   HUFNER J, 1974, NUCL PHYS A, VA234, P429, DOI 10.1016/0375-9474(74)90573-9
+   JOHNSTONE JA, 1983, NUCL PHYS A, V392, P409, DOI 10.1016/0375-9474(83)90136-7
+   MORIMATSU O, 1984, UNPUB MAR P INT S NU
+   WYCECH S, 1979, NUCL PHYS A, V324, P288, DOI 10.1016/0375-9474(79)90585-2
+   YAMAMOTO Y, 1983, PROG THEOR PHYS, V69, P1312, DOI 10.1143/PTP.69.1312
+   YAMAZAKI T, 1983, NOV P INT S EL PROP
+NR 14
+TC 87
+Z9 87
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PY 1985
+VL 435
+IS 3-4
+BP 727
+EP 737
+DI 10.1016/0375-9474(85)90185-X
+PG 11
+WC Physics, Nuclear
+SC Physics
+GA AEA79
+UT WOS:A1985AEA7900006
+ER
+
+PT J
+AU MORIMATSU, O
+   YAZAKI, K
+   OKA, M
+AF MORIMATSU, O
+   YAZAKI, K
+   OKA, M
+TI RGM CALCULATION OF THE NN SPIN ORBIT INTERACTION IN A QUARK-MODEL
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+C1 MIT,CTR THEORET PHYS,CAMBRIDGE,MA 02139.
+RP MORIMATSU, O (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,TOKYO 113,JAPAN.
+CR FAESSLER A, 1982, PHYS LETT B, V112, P201, DOI 10.1016/0370-2693(82)90961-3
+   FAESSLER A, 1983, NUCL PHYS A, V402, P555, DOI 10.1016/0375-9474(83)90219-1
+   HARVEY M, 1981, NUCL PHYS A, V352, P326, DOI 10.1016/0375-9474(81)90413-9
+   HARVEY M, 1981, NUCL PHYS A, V352, P301, DOI 10.1016/0375-9474(81)90412-7
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   LIBERMAN DA, 1977, PHYS REV D, V16, P1542, DOI 10.1103/PhysRevD.16.1542
+   MACGREGO.MH, 1969, PHYS REV, V182, P1714, DOI 10.1103/PhysRev.182.1714
+   MORIMATSU O, 1984, NUCL PHYS A, V420, P573, DOI 10.1016/0375-9474(84)90672-9
+   Ohta S., UNPUB
+   OKA M, 1980, PHYS LETT B, V90, P41, DOI 10.1016/0370-2693(80)90046-5
+   OKA M, 1983, NUCL PHYS A, V402, P477
+   OKA M, 1981, PROG THEOR PHYS, V66, P556, DOI 10.1143/PTP.66.556
+   OKA M, 1981, PROG THEOR PHYS, V66, P572, DOI 10.1143/PTP.66.572
+   RIBEIRO JEFT, 1980, Z PHYS C PART FIELDS, V5, P27, DOI 10.1007/BF01546954
+NR 14
+TC 53
+Z9 53
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PY 1984
+VL 424
+IS 3
+BP 412
+EP 418
+DI 10.1016/0375-9474(84)90002-2
+PG 7
+WC Physics, Nuclear
+SC Physics
+GA TG322
+UT WOS:A1984TG32200002
+ER
+
+PT J
+AU MORIMATSU, O
+   OHTA, S
+   SHIMIZU, K
+   YAZAKI, K
+AF MORIMATSU, O
+   OHTA, S
+   SHIMIZU, K
+   YAZAKI, K
+TI BARYON-BARYON SPIN ORBIT INTERACTION IN A QUARK-MODEL
+SO NUCLEAR PHYSICS A
+LA English
+DT Article
+RP MORIMATSU, O (reprint author), UNIV TOKYO,FAC SCI,DEPT PHYS,TOKYO 113,JAPAN.
+CR BOHR A, 1969, NUCLEAR STRUCTURE, V1
+   BROWN GE, 1981, PROGR PARTICLE NUCLE, V8
+   COTTINGH.WN, 1973, PHYS REV D, V8, P800, DOI 10.1103/PhysRevD.8.800
+   DERUJULA A, 1975, PHYS REV D, V12, P147, DOI 10.1103/PhysRevD.12.147
+   DETAR C, 1978, PHYS REV D, V17, P323, DOI 10.1103/PhysRevD.17.323
+   FAESSLER A, 1982, PHYS LETT B, V112, P201, DOI 10.1016/0370-2693(82)90961-3
+   HAMADA T, 1962, NUCL PHYS, V34, P382, DOI 10.1016/0029-5582(62)90228-6
+   HARVEY M, 1981, NUCL PHYS A, V352, P326, DOI 10.1016/0375-9474(81)90413-9
+   HARVEY M, 1981, NUCL PHYS A, V352, P301, DOI 10.1016/0375-9474(81)90412-7
+   ISGUR N, 1978, PHYS REV D, V18, P4187, DOI 10.1103/PhysRevD.18.4187
+   LIBERMAN DA, 1977, PHYS REV D, V16, P1542, DOI 10.1103/PhysRevD.16.1542
+   MATSUYAMA S, 1979, PROG THEOR PHYS, V61, P942, DOI 10.1143/PTP.61.942
+   NAGELS MM, 1975, PHYS REV D, V12, P744, DOI 10.1103/PhysRevD.12.744
+   NAGELS MM, 1977, PHYS REV D, V15, P2547, DOI 10.1103/PhysRevD.15.2547
+   OKA M, 1980, PHYS LETT B, V90, P41, DOI 10.1016/0370-2693(80)90046-5
+   OKA M, 1981, PROG THEOR PHYS, V66, P556, DOI 10.1143/PTP.66.556
+   OKA M, 1981, PROG THEOR PHYS, V66, P572, DOI 10.1143/PTP.66.572
+   PIRNER HJ, 1979, PHYS LETT B, V85, P190, DOI 10.1016/0370-2693(79)90575-6
+   PIRNER HJ, 1982, PHYS LETT B, V114, P308, DOI 10.1016/0370-2693(82)90350-1
+   VONREID R, 1968, ANN PHYS, V50, P411
+   Wheeler JA, 1937, PHYS REV, V52, P1083, DOI 10.1103/PhysRev.52.1083
+   Wheeler JA, 1937, PHYS REV, V52, P1107, DOI 10.1103/PhysRev.52.1107
+NR 22
+TC 90
+Z9 90
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9474
+J9 NUCL PHYS A
+JI Nucl. Phys. A
+PY 1984
+VL 420
+IS 3
+BP 573
+EP 590
+DI 10.1016/0375-9474(84)90672-9
+PG 18
+WC Physics, Nuclear
+SC Physics
+GA SV465
+UT WOS:A1984SV46500009
+ER
+
+EF

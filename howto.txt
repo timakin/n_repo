@@ -1,0 +1,8 @@
+実行手順
+1. python create_wos_list.pyでwos_listを作成する
+2. nohup python deal_paper.py 0 10 > tmp/result1.log 2> tmp/error1.log &
+	 から、
+	 nohup python deal_paper.py 270 283 > tmp/result29.log 2> tmp/error29.log &
+	 までを順番に実行する。commands.shを一気に実行すると、並行してシェルコマンドが走ってしまい、
+	 wos_list.csvとwos_result.csvが更新される際に、同ファイルが存在しない場合に処理がブッキングすると、
+	 エラーが起きてしまう。

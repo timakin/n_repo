@@ -5,14 +5,14 @@ import re
 import shutil
 import os
 from collections import OrderedDict
-import jcrlist2 as jc
+import jcrlist3 as jc
 
 
 def multiple_impact_factor(journal_name=''):
 	impact_factor = 0
 	for row in jc.jcrlist:
-		if row[1] == journal_name:
-			impact_factor = row[2]
+		if journal_name in row[1]:
+			impact_factor = row[0]
 	return impact_factor
 
 

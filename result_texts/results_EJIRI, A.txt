@@ -1,0 +1,21 @@
+
+
+==================================================
+
+
+
+RECORD_NUM   =>1
+FACULTY_NAME =>EJIRI, A
+F_ID         =>11
+FULL_MATCH   =>1
+AF_TOKYO     =>1
+AF_TOKYO_DEP =>GRAD SCH SCI
+AF_PHYS      =>0
+PY_MATCH     =>1
+PY           =>2010
+PT           =>J
+SO           =>PHYSICAL REVIEW LETTERS
+TI           =>Observation of Beat Oscillation Generation by Coupled Waves Associated with Parametric Decay during Radio Frequency Wave Heating of a Spherical Tokamak Plasma
+RP           =>NAGASHIMA, Y (REPRINT AUTHOR), UNIV TOKYO, GRAD SCH FRONTIER SCI, KASHIWA, CHIBA 2778561, JAPAN.
+FILE_NAME    =>degree_data/Ejiri A_0_2013-06-13T23:35:18+09:00.txt
+PAPER_ID     =>6

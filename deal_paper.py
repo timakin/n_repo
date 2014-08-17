@@ -5,6 +5,7 @@ import glob
 import import_author_list as im
 import check_conditions as cc
 from collections import OrderedDict
+from keys_used_for_pattern_matching import KEYS as KEYS
 
 default_params = sys.argv
 start_file_num = default_params[1]
@@ -19,60 +20,6 @@ pattern_CR = re.compile('\nCR .+?\n   ')
 pattern_WC = re.compile('\nWC .+?\n   ')
 pattern_SC = re.compile('\nSC .+?\n   ')
 
-KEYS=[
-'PT',
-'AU',
-'AF',
-'CA',
-'TI',
-'ED',
-'SO',
-'SE',
-'BS',
-'LA',
-'DT',
-'CT',
-'CY',
-'HO',
-'CL',
-'SP',
-'DE',
-'ID',
-'AB',
-'C1',
-'RP',
-'EM',
-'FU',
-'FX',
-'CR',
-'NR',
-'TC',
-'PU',
-'PI',
-'PA',
-'SC',
-'SN',
-'BN',
-'J9',
-'JI',
-'PD',
-'PY',
-'VL',
-'IS',
-'PN',
-'SU',
-'SI',
-'BP',
-'EP',
-'AR',
-'PG',
-'DI',
-'SC',
-'WC',#omitted
-'GA',
-'UT',
-'RP'
-]
 
 def return_paper_dict(textfile, author_dict={}):
 	with open(textfile, 'r') as f:
@@ -127,8 +74,6 @@ def return_paper_dict(textfile, author_dict={}):
 			print
 	return plist
 
-
-
 #faculty_nameと一致するtxtファイルの配列を返す
 #その各要素ごとにreturn_paper_dictを実行する
 def return_textfile_lists(a_name=''):
@@ -137,12 +82,7 @@ def return_textfile_lists(a_name=''):
 		matched_text_list.append(text_name)
 	return matched_text_list
 
-
-
 if __name__ == '__main__':
-# print cc.imported_dict[0]['raw_name']
-#	res = return_textfile_lists(cc.imported_dict[0]['raw_name'])
-#	print res
 	for i in range(int(start_file_num), int(end_file_num)):
 		print cc.imported_dict[i]
 	 	res = return_textfile_lists(cc.imported_dict[i]['raw_name'])

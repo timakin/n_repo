@@ -15,7 +15,7 @@ def create_wos_plain_list():
 		if row[0] == "f_id": 
 			continue
 		else:
-			for year in range(1960, 2015):
+			for year in range(1965, 2015):
 				fileWriter.writerow([row[0], year, row[4], row[1], 0, 0])
 
 if __name__ == '__main__':

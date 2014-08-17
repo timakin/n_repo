@@ -1,23 +1,28 @@
 # coding:utf-8
+# 著者のステータスが論文のものと合致しているかチェックするスクリプト
 import re
 import os
 import import_author_list as im
 import write_to_wos_result as wtwr
+from institution_list import inst_list as inst_list
+from should_excluded_institution import black_list as black_list
 from collections import OrderedDict
 
-dict_for_author = {}
-imported_dict = im.return_author_list(dict_for_author)
+
+dict_for_author  = {}
+imported_dict    = im.return_author_list(dict_for_author)
 full_match       = {}
 af_tokyo         = {}
-af_phys         = {}
+af_phys          = {}
 af_tokyo_dep     = {}
 py_match         = {}
-dep_list        = {}
-unique_dep_list  =  []
+dep_list         = {}
+unique_dep_list  = []
 record_num       = 0
-tmp_dep = {}
+tmp_dep          = {}
 
 def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
+  # 著者の名前によるマッチング==========================
   if author_dict['faculty_name'].upper() not in target['AU'].upper():
     print "イニシャルが一致しません"
     return
@@ -33,7 +38,8 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       print "イニシャルがAFと一致しました"
       full_match[paper_index] = 0
 
-    if target['C1'] == None or ((not re.search('UNIV TOKYO', target['C1'].upper())) and (not re.search('UNIV TOKYO', str(target['RP']).upper()))):
+    # 著者の所属によるマッチング==========================
+    if target['C1'] == None or ( (not re.search('UNIV TOKYO', target['C1'].upper())) and (not re.search('UNIV TOKYO', str(target['RP']).upper())) ):
       print "東京大学じゃありませんでした"
       return
     else:
@@ -50,6 +56,8 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         if not af_tokyo_dep[paper_index]:
           return
         af_phys[paper_index] = 0
+
+      # 論文執筆の時期によるマッチング==========================
       if author_dict['start_year'] is '':
         author_dict['start_year'] = author_dict['end_year']
       elif '?' in author_dict['start_year']:
@@ -57,6 +65,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       elif '?' in author_dict['end_year']:
         author_dict['end_year']=author_dict['end_year'].replace("?", "")
       time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
+      
       if int(target['PY']) not in time_span:
         print "所属期間内に論文が出ていません"
         return
@@ -103,124 +112,6 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
     else:
       for i in af_tokyo_dep[paper_index]:
         unique_dep_list.append(i)
-
-
-
-# 以下が所属学科を配列として取得する処理
-# 1.「,」でsplit。研究機関と所属学科ごとに改行する。
-# 2.「UNIV TOKYO」の後の行をdep_list[author_dict['id']]に入れる
-
-inst_list = ["DEPT",
-             "INST",
-             "FAC",
-             "DIV",
-             "COLL",
-             "GRAD",
-             "CTR"]
-black_list = ["INST SPACE & AERONAUT SCI",
-              "INST SPACE & ASTRON SCI",
-              "ADV SCI & TECHNOL RES CTR",
-              "ADV SCI TECHNOL RES CTR",
-              "CTR ISOTOPE",
-              "CTR RADIOISOTOPE",
-              "DEPT ASTRON",
-              "DEPT BASIC SCI",
-              "INST ASTRO",
-              "INST ASTRON",
-              "INST PHYS",
-              "INST PHYS & ASTRON",
-              "INST PHYS & MATH",
-              "INST PHYS & MATH UNIV",
-              "INST PHYS & MATH UNIVERSE",
-              "INST PHYS & MATH UNIVERSE IPMU",
-              "NUCL SCI & TECHNOL RES CTR",
-              "NUCL SCI & TECHNOL RES INST",
-              "BIOSCI RES INST",
-              "CTR COMP",
-              "CTR CRYOGEN",
-              "CTR CYTOGENET",
-              "CTR ENVIRONM SCI",
-              "DEPT ADV MAT",
-              "DEPT ADV MAT SCI",
-              "DEPT AGR CHEM",
-              "DEPT APPL BIOL CHEM",
-              "DEPT APPL CHEM",
-              "DEPT APPL MATH",
-              "DEPT APPL PHYS",
-              "DEPT APPL SCI",
-              "DEPT BIOCHEM & BIOTECHNOL",
-              "DEPT BIOL",
-              "DEPT BIOPHYS & LIFE SCI",
-              "DEPT BIOTECHNOL",
-              "DEPT BUNKYO KU",
-              "DEPT CHEM",
-              "DEPT CHEM ENGN",
-              "DEPT COMP SCI",
-              "DEPT EARTH & PLANETARY PHYS",
-              "DEPT EARTH & PLANETARY SCI",
-              "DEPT EARTH SCI & ASTRON",
-              "DEPT ELECT & INFORMAT",
-              "DEPT ELECT ENGN",
-              "DEPT GEOPHYS",
-              "DEPT IND & ENGN CHEM",
-              "DEPT IND CHEM",
-              "DEPT IND MANAGEMENT",
-              "DEPT INFORMAT SCI",
-              "DEPT INTERNAL MED 3",
-              "DEPT LIFE SCI",
-              "DEPT MAT ENGN",
-              "DEPT MAT SCI & TECHNOL",
-              "DEPT MATH",
-              "DEPT MATH SCI",
-              "DEPT MECH ENGN",
-              "DEPT MED & PHYS THERAPY",
-              "DEPT MED SCI",
-              "DEPT PHARMACEUT SCI",
-              "DEPT PHYSIOL CHEM & NUTR",
-              "DEPT PURE & APPL SCI",
-              "DEPT QUANTUM ENGN & SYST SCI",
-              "DEPT SYNTHET CHEM",
-              "DEPT VET PHYSIOL",
-              "DIV LASER PHYS",
-              "DIV MED",
-              "EARTHQUAKE RES INST",
-              "ENGN RES INST",
-              "FAC AGR",
-              "FAC CHEM",
-              "FAC ENGN",
-              "FAC IND SCI & TECHNOL",
-              "FAC MED",
-              "FAC PHARM SCI",
-              "FAC PHARMACEUT SCI",
-              "FAC SCI",
-              "FAC SCI & TECHNOL",
-              "FAC SURG",
-              "FAC TECHNOL",
-              "GRAD SCH ENGN",
-              "GRAD SCH FRONTIER SCI",
-              "GRAD SCH MED",
-              "INST APPL MICROBIOL",
-              "INST COLLOID & INTERFACE CHEM",
-              "INST COLLOID & INTERFACE SCI",
-              "INST ENGN INNOVAT",
-              "INST ENGN RES",
-              "INST GEN INFIRM",
-              "INST GEOL",
-              "INST GEOPHYS",
-              "INST IND SCI",
-              "INST MATH",
-              "INST MED SCI",
-              "INST MINERAL",
-              "INST MOLEC & CELLULAR BIOSCI",
-              "INST NANO QUANTUM INFORMAT ELECT",
-              "INST NANO QUANTUM INFORMAT ELECTRON",
-              "INST NUCL SAFETY",
-              "OCEAN RES INST",
-              "QPEC & DEPT APPL PHYS",
-              "RES CTR ADV SCI & TECHNOL",
-              "SCI & TECHNOL RES INST",
-              "SCI RES INST",
-              "TECHNOL RES INST"]
 
 def stock_dep(target_c1=''):
   dep_list  = []

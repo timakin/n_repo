@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 # -*- coding:utf-8 -*-
+
+# author_listから、著者のパラメータを取ってくるスクリプト
 import csv
 import re
 from collections import OrderedDict

@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 # -*- coding:utf-8 -*-
+# インパクトファクターを考慮した計算結果を出力する為のスクリプト
 import csv
 import re
 import shutil
@@ -19,15 +20,15 @@ def multiple_impact_factor(journal_name=''):
 def write_to_wos_result(f_id=0, year=0, target_SO=''):
 	if os.path.exists('wos_result.csv'):
 		os.remove('wos_result.csv')
-	wos_list = open('wos_result.csv', 'awt')
-	fileWriter = csv.writer(wos_list)
-	wos_list2   = open('wos_list.csv', 'rb')
-	result_file = csv.reader(wos_list2)
-	if_existed_list = open('if_existed_list.csv', 'awt')
-	write_to_if_existed_list = csv.writer(if_existed_list)
-	if_not_existed_list = open('if_not_existed_list.csv', 'awt')
-	write_to_if_not_existed_list = csv.writer(if_not_existed_list)	
-	impact_factor = multiple_impact_factor(target_SO)
+	wos_list 											= open('wos_result.csv', 'awt')
+	fileWriter 										= csv.writer(wos_list)
+	wos_list2   									= open('wos_list.csv', 'rb')
+	result_file 									= csv.reader(wos_list2)
+	if_existed_list 							= open('if_existed_list.csv', 'awt')
+	write_to_if_existed_list 			= csv.writer(if_existed_list)
+	if_not_existed_list 					= open('if_not_existed_list.csv', 'awt')
+	write_to_if_not_existed_list 	= csv.writer(if_not_existed_list)	
+	impact_factor 								= multiple_impact_factor(target_SO)
 
 	for row in result_file:
 		if row[0] == "f_id":

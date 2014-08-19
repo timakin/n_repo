@@ -6,9 +6,11 @@ import import_author_list as im
 import write_to_wos_result as wtwr
 from institution_list import inst_list as inst_list
 from should_excluded_institution import black_list as black_list
+from list_for_f_dep import f_dep_dict as fdep_dict
 from collections import OrderedDict
 
-
+record_num       = 0
+year_NA_flag     = {}
 dict_for_author  = {}
 imported_dict    = im.return_author_list(dict_for_author)
 full_match       = {}
@@ -16,9 +18,11 @@ af_tokyo         = {}
 af_phys          = {}
 af_tokyo_dep     = {}
 py_match         = {}
+author_dep       = {}
+dep_units        = {}
+dep_match        = {}
 dep_list         = {}
 unique_dep_list  = []
-record_num       = 0
 tmp_dep          = {}
 
 def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
@@ -58,14 +62,20 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         af_phys[paper_index] = 0
 
       # 論文執筆の時期によるマッチング==========================
-      if author_dict['start_year'] is '':
-        author_dict['start_year'] = author_dict['end_year']
-      elif '?' in author_dict['start_year']:
-        author_dict['start_year']=author_dict['start_year'].replace("?", "")
-      elif '?' in author_dict['end_year']:
-        author_dict['end_year']=author_dict['end_year'].replace("?", "")
-      time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
+      year_NA_flag[paper_index] = 0
+      if author_dict['start_year'] is '' or author_dict['end_year'] is '':
+        author_dict['start_year'] = 'NA'
+        author_dict['end_year'] = 'NA'
+        year_NA_flag[paper_index] = 1
+      elif 'LC' in author_dict['start_year']:
+        author_dict['start_year'] = '1965'
+      elif 'RC' in author_dict['end_year']:
+        author_dict['end_year']   = '2015'
       
+      if not year_NA_flag[paper_index]:
+        time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
+        
+      # 著者が研究機関に所属した間に当該論文が出稿されたかのチェック==========================
       if int(target['PY']) not in time_span:
         print "所属期間内に論文が出ていません"
         return
@@ -73,7 +83,30 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         print "所属期間内に論文がでました"
         py_match[paper_index] = 1
 
-  if af_tokyo[paper_index] and py_match[paper_index]:
+        # 執筆されたタイミングで著者の所属機関が論文の在籍者の所属期間と一致するかのチェック==========================
+        print "Author_dict['dep'] : "+author_dict['dep']
+        if author_dict['dep'] == '':
+          print "Author_dictが空です。"
+          dep_units[paper_index] = None
+          dep_match[paper_index] = 'NA' # 所属期間がマッチしたか如何ではなく、データの有無で判別する場合はNA
+        else:
+          for unit_string in author_dict['dep']:
+            for row in fdep_dict:
+              if row[0] is unit_string:
+                for unit_dep in row[1]:
+                  if af_tokyo_dep[paper_index] == unit_dep:
+                    dep_match[paper_index] = 1
+                    print "所属期間がマッチしました。"
+                  else:
+                    dep_match[paper_index] = None         
+     
+        if dep_match[paper_index] == None:
+          print "論文執筆時の所属機関が不適切です"
+          return
+        else:
+          print "論文執筆時の所属機関が適切です"
+
+  if af_tokyo[paper_index] and py_match[paper_index] and (dep_match[paper_index] != None):
     global record_num
     record_num = record_num + 1
 
@@ -92,6 +125,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
     tf.write('AF_TOKYO_DEP =>'+str(af_tokyo_dep[paper_index])+'\n')
     tf.write('AF_PHYS      =>'+str(af_phys[paper_index])+'\n')
     tf.write('PY_MATCH     =>'+str(py_match[paper_index])+'\n')
+    tf.write('DEP_MATCH    =>'+str(dep_match[paper_index])+'\n')
     tf.write('PY           =>'+target['PY']+'\n')
     tf.write('PT           =>'+target['PT']+'\n')
     tf.write('SO           =>'+target['SO']+'\n')

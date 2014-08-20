@@ -38,28 +38,39 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
     elif author_dict['full_name'].upper() in target['AF'].upper():
       print "フルネームが一致しました"
       full_match[paper_index] = 1  
-    elif author_dict['faculty_name'].upper() in target['AF'].upper():
+    elif (author_dict['faculty_name'].upper() in target['AF'].upper()) or (re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper()):
       print "イニシャルがAFと一致しました"
       full_match[paper_index] = 0
 
     # 著者の所属によるマッチング==========================
-    if target['C1'] == None or ( (not re.search('UNIV TOKYO', target['C1'].upper())) and (not re.search('UNIV TOKYO', str(target['RP']).upper())) ):
-      print "東京大学じゃありませんでした"
-      return
+    if not re.search('UNIV TOKYO', str(target['RP']).upper()):
+      if target['C1'] == None or (not re.search('UNIV TOKYO', target['C1'].upper())):
+        print "東京大学じゃありませんでした"
+        return
     else:
       print "東京大学でした"
       af_tokyo[paper_index] = 1
-      if re.search('UNIV TOKYO, DEPT PHYS', target['C1'].upper()):
+
+      if re.search('UNIV TOKYO, DEPT PHYS', target['RP'].upper()):
         print "物理学科でした"
         af_phys[paper_index] = 1
         af_tokyo_dep[paper_index] = 'DEPT PHYS'
       else:
         print "物理学科じゃありません"
         # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
-        tmp_dep[paper_index] = stock_dep(target['C1'].upper())
+        tmp_dep[paper_index] = stock_dep(target['RP'].upper())
         af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
         if not af_tokyo_dep[paper_index]:
-          return
+          if re.search('UNIV TOKYO, DEPT PHYS', target['C1'].upper()):
+            print "物理学科でした"
+            af_phys[paper_index] = 1
+            af_tokyo_dep[paper_index] = 'DEPT PHYS'
+          else:
+            print "まだまだ物理学科じゃありません"
+            tmp_dep[paper_index] = stock_dep(target['C1'].upper())
+            af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
+            if not af_tokyo_dep[paper_index]:
+              return
         af_phys[paper_index] = 0
 
       # 論文執筆の時期によるマッチング==========================

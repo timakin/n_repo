@@ -15,9 +15,7 @@ def copy_result_to_list():
 
   i = 0
   for row in read_written:
-    print str(i) + 'copy中'
     row_list = [row[0], row[1], row[2], row[3], row[4], row[5]]
-    print row_list
     copy_written.writerow([row[0], row[1], row[2], row[3], row[4], row[5]])
     i = i+1
 

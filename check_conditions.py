@@ -55,6 +55,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         af_tokyo_dep[paper_index] = 'DEPT PHYS'
       else:
         print "物理学科じゃありません"
+        # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
         tmp_dep[paper_index] = stock_dep(target['C1'].upper())
         af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
         if not af_tokyo_dep[paper_index]:
@@ -63,16 +64,22 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
       # 論文執筆の時期によるマッチング==========================
       year_NA_flag[paper_index] = 0
-      if author_dict['start_year'] is '' or author_dict['end_year'] is '':
+      print author_dict['start_year']
+      print author_dict['end_year']
+
+      if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
         author_dict['start_year'] = 'NA'
         author_dict['end_year'] = 'NA'
         year_NA_flag[paper_index] = 1
+        wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index])
+        os.system('python copy_result_to_list.py')
+        return
       elif 'LC' in author_dict['start_year']:
         author_dict['start_year'] = '1965'
       elif 'RC' in author_dict['end_year']:
         author_dict['end_year']   = '2015'
       
-      if not year_NA_flag[paper_index]:
+      if year_NA_flag[paper_index] == 0:
         time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
         
       # 著者が研究機関に所属した間に当該論文が出稿されたかのチェック==========================
@@ -85,17 +92,20 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
         # 執筆されたタイミングで著者の所属機関が論文の在籍者の所属期間と一致するかのチェック==========================
         print "Author_dict['dep'] : "+author_dict['dep']
-        if author_dict['dep'] == '':
+        if author_dict['dep'] == "" or author_dict['dep'] == "NA":
           print "Author_dictが空です。"
           dep_units[paper_index] = None
           dep_match[paper_index] = 'NA' # 所属期間がマッチしたか如何ではなく、データの有無で判別する場合はNA
+          wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index])
+          os.system('python copy_result_to_list.py')
+          return
         else:
           for unit_string in author_dict['dep']:
             for row in fdep_dict:
               if row[0] is unit_string:
                 for unit_dep in row[1]:
                   if af_tokyo_dep[paper_index] == unit_dep:
-                    dep_match[paper_index] = 1
+                    dep_match[paper_index] = "MATCHED"
                     print "所属期間がマッチしました。"
                   else:
                     dep_match[paper_index] = None         
@@ -106,7 +116,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         else:
           print "論文執筆時の所属機関が適切です"
 
-  if af_tokyo[paper_index] and py_match[paper_index] and (dep_match[paper_index] != None):
+  if af_tokyo[paper_index] and py_match[paper_index] and (dep_match[paper_index] == "MATCHED"):
     global record_num
     record_num = record_num + 1
 
@@ -137,7 +147,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
     # wos_result.csvにその年の著者の論文出稿数の単純和と、インパクトファクターを書き込む
     # その後、wos_list.csvとwos_result.csvの内容を一致させる
-    wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'])
+    wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index])
     os.system('python copy_result_to_list.py')
 
     # unique_list（学科のリスト）を作成する

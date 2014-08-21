@@ -10,6 +10,8 @@ from list_for_f_dep import f_dep_dict as fdep_dict
 from collections import OrderedDict
 
 record_num       = 0
+RP_matching_flag = {}
+C1_matching_flag = {}
 year_NA_flag     = {}
 dict_for_author  = {}
 imported_dict    = im.return_author_list(dict_for_author)
@@ -32,101 +34,93 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
     return
   else:
     print "AUが一致しました"
-    if author_dict['full_name'].upper() not in target['AF'].upper() and author_dict['faculty_name'].upper() not in target['AF']:
+    if (author_dict['full_name'].upper() not in target['AF'].upper()) and (author_dict['faculty_name'].upper() not in target['AF']) and (not re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper())):
       print "名前が正しく有りません"
       return
     elif author_dict['full_name'].upper() in target['AF'].upper():
       print "フルネームが一致しました"
-      full_match[paper_index] = 1  
-    elif (author_dict['faculty_name'].upper() in target['AF'].upper()) or (re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper()):
-      print "イニシャルがAFと一致しました"
+      if (re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper())):
+        print "RP_check1"
+        RP_check(str(target['RP']), str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
+        print "RP_matching_flag: " + str(RP_matching_flag[paper_index])
+        if (not RP_matching_flag[paper_index] == 1) and (not C1_matching_flag[paper_index] == 1):
+          return
+      else:
+        print "C1_check1"
+        C1_check(str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
+        print "C1_matching_flag: " + str(C1_matching_flag[paper_index])
+        if (not C1_matching_flag[paper_index] == 1):
+          return
+      full_match[paper_index] = 1
+    elif (author_dict['faculty_name'].upper() in target['AF'].upper()):
+      if (re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper())):
+        print "RP_check2"
+        RP_check(str(target['RP']), str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
+        print "RP_matching_flag: " + str(RP_matching_flag[paper_index])
+        if (not RP_matching_flag[paper_index] == 1) and (not C1_matching_flag[paper_index] == 1):
+          return
+      else:
+        print "C1_check2"
+        C1_check(str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
+        print "C1_matching_flag: " + str(C1_matching_flag[paper_index])
+        if (not C1_matching_flag[paper_index] == 1):
+          return
       full_match[paper_index] = 0
 
-    # 著者の所属によるマッチング==========================
-    if not re.search('UNIV TOKYO', str(target['RP']).upper()):
-      if target['C1'] == None or (not re.search('UNIV TOKYO', target['C1'].upper())):
-        print "東京大学じゃありませんでした"
-        return
+
+
+
+    # 論文執筆の時期によるマッチング==========================
+    print "きたああああああああああああああああああああああああああ"
+    year_NA_flag[paper_index] = 0
+    if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
+      author_dict['start_year'] = 'NA'
+      author_dict['end_year'] = 'NA'
+      year_NA_flag[paper_index] = 1
+      wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index])
+      os.system('python copy_result_to_list.py')
+      return
+    elif 'LC' in author_dict['start_year']:
+      author_dict['start_year'] = '1965'
+    elif 'RC' in author_dict['end_year']:
+      author_dict['end_year']   = '2015'
+    
+    if year_NA_flag[paper_index] == 0:
+      time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
+
+    # 著者が研究機関に所属した間に当該論文が出稿されたかのチェック==========================
+    if int(target['PY']) not in time_span:
+      print "所属期間内に論文が出ていません"
+      py_match[paper_index] = 0
+      return
     else:
-      print "東京大学でした"
-      af_tokyo[paper_index] = 1
-
-      if re.search('UNIV TOKYO, DEPT PHYS', target['RP'].upper()):
-        print "物理学科でした"
-        af_phys[paper_index] = 1
-        af_tokyo_dep[paper_index] = 'DEPT PHYS'
-      else:
-        print "物理学科じゃありません"
-        # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
-        tmp_dep[paper_index] = stock_dep(target['RP'].upper())
-        af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
-        if not af_tokyo_dep[paper_index]:
-          if re.search('UNIV TOKYO, DEPT PHYS', target['C1'].upper()):
-            print "物理学科でした"
-            af_phys[paper_index] = 1
-            af_tokyo_dep[paper_index] = 'DEPT PHYS'
-          else:
-            print "まだまだ物理学科じゃありません"
-            tmp_dep[paper_index] = stock_dep(target['C1'].upper())
-            af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
-            if not af_tokyo_dep[paper_index]:
-              return
-        af_phys[paper_index] = 0
-
-      # 論文執筆の時期によるマッチング==========================
-      year_NA_flag[paper_index] = 0
-      print author_dict['start_year']
-      print author_dict['end_year']
-
-      if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
-        author_dict['start_year'] = 'NA'
-        author_dict['end_year'] = 'NA'
-        year_NA_flag[paper_index] = 1
-        wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index])
+      print "所属期間内に論文がでました"
+      py_match[paper_index] = 1
+      # 執筆されたタイミングで著者の所属機関が論文の在籍者の所属期間と一致するかのチェック==========================
+      print "Author_dict['dep'] : "+author_dict['dep']
+      if author_dict['dep'] == "" or author_dict['dep'] == "NA":
+        print "Author_dictが空です。"
+        dep_units[paper_index] = None
+        dep_match[paper_index] = 'NA' # 所属期間がマッチしたか如何ではなく、データの有無で判別する場合はNA
+        wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index])
         os.system('python copy_result_to_list.py')
         return
-      elif 'LC' in author_dict['start_year']:
-        author_dict['start_year'] = '1965'
-      elif 'RC' in author_dict['end_year']:
-        author_dict['end_year']   = '2015'
-      
-      if year_NA_flag[paper_index] == 0:
-        time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
-        
-      # 著者が研究機関に所属した間に当該論文が出稿されたかのチェック==========================
-      if int(target['PY']) not in time_span:
-        print "所属期間内に論文が出ていません"
+      else:
+        for unit_string in author_dict['dep']:
+          for row in fdep_dict:
+            if row[0] is unit_string:
+              for unit_dep in row[1]:
+                if af_tokyo_dep[paper_index] == unit_dep:
+                  dep_match[paper_index] = "MATCHED"
+                  print "所属期間がマッチしました。"
+                else:
+                  dep_match[paper_index] = None         
+   
+      if dep_match[paper_index] == None:
+        print "論文執筆時の所属機関が不適切です"
         return
       else:
-        print "所属期間内に論文がでました"
-        py_match[paper_index] = 1
-
-        # 執筆されたタイミングで著者の所属機関が論文の在籍者の所属期間と一致するかのチェック==========================
-        print "Author_dict['dep'] : "+author_dict['dep']
-        if author_dict['dep'] == "" or author_dict['dep'] == "NA":
-          print "Author_dictが空です。"
-          dep_units[paper_index] = None
-          dep_match[paper_index] = 'NA' # 所属期間がマッチしたか如何ではなく、データの有無で判別する場合はNA
-          wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index])
-          os.system('python copy_result_to_list.py')
-          return
-        else:
-          for unit_string in author_dict['dep']:
-            for row in fdep_dict:
-              if row[0] is unit_string:
-                for unit_dep in row[1]:
-                  if af_tokyo_dep[paper_index] == unit_dep:
-                    dep_match[paper_index] = "MATCHED"
-                    print "所属期間がマッチしました。"
-                  else:
-                    dep_match[paper_index] = None         
-     
-        if dep_match[paper_index] == None:
-          print "論文執筆時の所属機関が不適切です"
-          return
-        else:
-          print "論文執筆時の所属機関が適切です"
-
+       print "論文執筆時の所属機関が適切です"
   if af_tokyo[paper_index] and py_match[paper_index] and (dep_match[paper_index] == "MATCHED"):
     global record_num
     record_num = record_num + 1
@@ -184,4 +178,97 @@ def delete_dep(dep_list=[]):
       if x == dep_list:
         dep_list = []
   return dep_list
+
+def rp_check(target_rp='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep={}, tmp_dep={}):
+  if not re.search('UNIV TOKYO', str(target['RP']).upper()):
+    if target['C1'] == None or (not re.search('UNIV TOKYO', str(target['C1']).upper())):
+      print "東京大学じゃありませんでした"
+      return
+    else:
+      af_tokyo[paper_index] = 1
+    #ここにC1
+  else:
+    print "東京大学でした"
+    af_tokyo[paper_index] = 1
+  if re.search('UNIV TOKYO, DEPT PHYS', str(target['RP']).upper()):
+    print "物理学科でした"
+    af_phys[paper_index] = 1
+    af_tokyo_dep[paper_index] = 'DEPT PHYS'
+  else:
+    print "物理学科じゃありません"
+    # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
+    tmp_dep[paper_index] = stock_dep(str(target['RP']).upper())
+    af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
+    if not af_tokyo_dep[paper_index]:
+      #ここにC1
+
+
+      if re.search('UNIV TOKYO, DEPT PHYS', str(target['C1']).upper()):
+        print "物理学科でした"
+        af_phys[paper_index] = 1
+        af_tokyo_dep[paper_index] = 'DEPT PHYS'
+      else:
+        print "まだまだ物理学科じゃありません"
+        tmp_dep[paper_index] = stock_dep(str(target['C1']).upper())
+        af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
+        if not af_tokyo_dep[paper_index]:
+          return
+        af_phys[paper_index] = 0
+
+
+
+def C1_check(target_c1='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep={}, tmp_dep={}):
+  print "TARGET_C1: " + target_c1
+  if target_c1 == None or (not re.search('UNIV TOKYO', target_c1.upper())):
+    print "東京大学じゃありませんでした"
+    C1_matching_flag[paper_index] = 0
+    return
+  else:
+    af_tokyo[paper_index] = 1
+    if re.search('UNIV TOKYO, DEPT PHYS', target_c1.upper()):
+      print "物理学科でした"
+      af_phys[paper_index] = 1
+      af_tokyo_dep[paper_index] = 'DEPT PHYS'
+      C1_matching_flag[paper_index] = 1
+    else:
+      print "物理学科じゃありません"
+      tmp_dep[paper_index] = stock_dep(target_c1.upper())
+      af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
+      if not af_tokyo_dep[paper_index]:
+        C1_matching_flag[paper_index] = 0
+        print "物理学科だけどC1マッチしなかった…"
+        return
+      C1_matching_flag[paper_index] = 1
+      af_phys[paper_index] = 0
         
+def RP_check(target_rp='', target_c1='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep={}, tmp_dep={}):
+  # 著者の所属によるマッチング==========================
+  print "TARGET_RP: " + target_rp
+  if not re.search('UNIV TOKYO', target_rp.upper()):
+    af_tokyo[paper_index] = 0
+    RP_matching_flag[paper_index] = 0
+    C1_check(target_c1, paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
+    return
+  else:
+    print "東京大学でした"
+    af_tokyo[paper_index] = 1
+    if re.search('UNIV TOKYO, DEPT PHYS', target_rp.upper()):
+      print "物理学科でした"
+      af_phys[paper_index] = 1
+      af_tokyo_dep[paper_index] = 'DEPT PHYS'
+      RP_matching_flag[paper_index] = 1
+    else:
+      print "物理学科じゃありません"
+      # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
+      tmp_dep[paper_index] = stock_dep(target_rp.upper())
+      af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
+      print "こことおってる1"
+      if not af_tokyo_dep[paper_index]:
+        print "こことおってる"
+        RP_matching_flag[paper_index] = 0
+        C1_check(target_c1, paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
+        return
+      print "こことおってる2"
+      af_phys[paper_index] = 0
+      RP_matching_flag[paper_index] = 1
+

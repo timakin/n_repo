@@ -58,20 +58,20 @@ def return_paper_dict(textfile, author_dict={}):
 		del plist[-1]
 		# ここから辞書全体の表示が始まる
 		for paper_index,i in enumerate(plist):#debug
-			print
-			print
-			print
-			# ここから辞書の個別要素をプリント
-			for d in i:
-				print d,'=>',i[d]
+#			print
+#			print
+#			print
+#			# ここから辞書の個別要素をプリント
+#			for d in i:
+#				print d,'=>',i[d]
 			# このタイミングで個別の辞書リストの表示が終了する
 			# ここで条件設定をして、要件を満たすメソッドを実行すれば良いのでは？
-			print '======================================='
+#			print '======================================='
 			cc.return_conditions(i, author_dict, textfile, paper_index)
-			print '======================================='
-			print
-			print
-			print
+#			print '======================================='
+#			print
+#			print
+#			print
 	return plist
 
 #faculty_nameと一致するtxtファイルの配列を返す

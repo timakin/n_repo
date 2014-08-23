@@ -68,7 +68,7 @@ def return_paper_dict(textfile, author_dict={}):
 			# ここで条件設定をして、要件を満たすメソッドを実行すれば良いのでは？
 #			print '======================================='
 			cc.return_conditions(i, author_dict, textfile, paper_index)
-#			print '======================================='
+			#print '======================================='
 #			print
 #			print
 #			print
@@ -86,7 +86,7 @@ if __name__ == '__main__':
 	for i in range(int(start_file_num), int(end_file_num)):
 		print cc.imported_dict[i]
 	 	res = return_textfile_lists(cc.imported_dict[i]['raw_name'])
-		print res
+		#print res
 		for text_file in res:
 			result = return_paper_dict(text_file, cc.imported_dict[i])
 	unique_list = cc.unique_dep_list

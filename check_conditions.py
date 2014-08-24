@@ -33,12 +33,13 @@ tmp_dep          = {}
 def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
   # 著者の名前によるマッチング==========================
   #print author_dict
+
   if author_dict['faculty_name'].upper() not in target['AU'].upper():
     #print "イニシャルが一致しません"
     return
   else:
     #print "AUが一致しました"
-    if (author_dict['full_name'].upper() not in target['AF'].upper()) and (author_dict['faculty_name'].upper() not in target['AF']):
+    if (author_dict['full_name'].upper() not in target['AF'].upper()) and (author_dict['faculty_name'].upper() not in target['AF'].upper()):
       #print "名前が正しく有りません"
       return
     elif author_dict['full_name'].upper() in target['AF'].upper():
@@ -79,13 +80,13 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
     # 論文執筆の時期によるマッチング==========================
     print "==========="
-    print "きたああああああああああああああああああああああああああ"
+    print af_tokyo_dep[paper_index]
     year_NA_flag[paper_index] = 0
     if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
       author_dict['start_year'] = 'NA'
       author_dict['end_year'] = 'NA'
       year_NA_flag[paper_index] = 1
-      print "NAでだめですた"
+    #  print "NAでだめですた"
       wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index])
       os.system('python copy_result_to_list.py')
       return
@@ -95,19 +96,19 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       author_dict['end_year']   = '2015'
     
     if year_NA_flag[paper_index] == 0:
-      print "TimeSpanはとりますた"
-      time_span = range(int(author_dict['start_year']), int(author_dict['end_year']))
+    #  print "TimeSpanはとりますた"
+      time_span = range(int(author_dict['start_year']), int(author_dict['end_year'])+1)
 
     # 著者が研究機関に所属した間に当該論文が出稿されたかのチェック==========================
     if int(target['PY']) not in time_span:
-      print "所属期間内に論文が出ていません"
+    #  print "所属期間内に論文が出ていません"
       py_match[paper_index] = 0
-      print "TARGET_PY: " + target['PY']
-      print time_span
+    #  print "TARGET_PY: " + target['PY']
+    #  print time_span
       print "TARGET_TI: " + target['TI']
       return
     else:
-      print "所属期間内に論文がでました"
+    #  print "所属期間内に論文がでました"
       py_match[paper_index] = 1
       # 執筆されたタイミングで著者の所属機関が論文の在籍者の所属期間と一致するかのチェック==========================
       #print "Author_dict['dep'] : "+author_dict['dep']
@@ -120,19 +121,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         return
       else:
         departure_matching(author_dict, af_tokyo_dep, dep_match, paper_index)
-#        for unit_string in author_dict['dep']:
-#          for row in fdep_dict:
-#            if row[0] is unit_string:
-#              for unit_dep in row[1]:
-#                #print "UNIT_DEP: " + unit_dep
-#                if dep_match[paper_index] != "MATCHED":
-#                  if af_tokyo_dep[paper_index] == unit_dep and (dep_match[paper_index] != "MATCHED"):
-#                    dep_match[paper_index] = "MATCHED"
-#                    print "所属期間がマッチしました。"
-#                  else:
-#                    dep_match[paper_index] = None
-#                    print "所属期間がマッチしなかった"
-        print "dep_match: " + str(dep_match[paper_index])
+        #print "dep_match: " + str(dep_match[paper_index])
         print "TARGET_TI: " + target['TI']
       print "==========="
       if dep_match[paper_index] == None:
@@ -188,6 +177,10 @@ def stock_dep(target_c1=''):
       for x in inst_list:
         if x in listed_c1[i+1]:
           dep_list = listed_c1[i+1].lstrip().lstrip()
+        elif listed_c1[i+1] == "FAC SCI" and "MESON SCI LAB" in listed_c1[i+2]:
+          print "FAC SCI MESONがあった"
+          dep_list = listed_c1[i+2].lstrip().lstrip()
+          print dep_list
   return dep_list
 
 def delete_dep(dep_list=[]):
@@ -265,8 +258,8 @@ def departure_matching(author_dict={}, af_tokyo_dep={}, dep_match={}, paper_inde
           #print "UNIT_DEP: " + unit_dep
           if af_tokyo_dep[paper_index] == unit_dep:
             dep_match[paper_index] = "MATCHED"
-            print "所属期間がマッチしました。"
+          #  print "所属機関がマッチしました。"
             return
           else:
             dep_match[paper_index] = None
-            print "所属期間がマッチしなかった"
+          #  print "所属機関がマッチしなかった"

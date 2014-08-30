@@ -7,6 +7,8 @@ import write_to_wos_result as wtwr
 from institution_list import inst_list as inst_list
 from should_excluded_institution import black_list as black_list
 from list_for_f_dep import f_dep_dict as fdep_dict
+from list_for_f_dep import grad_second_dep_list as grad_dep_list
+from list_for_f_dep import fac_second_dep_list as fac_dep_list
 from collections import OrderedDict
 
 record_num       = 0
@@ -177,9 +179,17 @@ def stock_dep(target_c1=''):
       for x in inst_list:
         if x in listed_c1[i+1]:
           dep_list = listed_c1[i+1].lstrip().lstrip()
-        elif listed_c1[i+1] == "FAC SCI" and "MESON SCI LAB" in listed_c1[i+2]:
-          print "FAC SCI MESONがあった"
-          dep_list = listed_c1[i+2].lstrip().lstrip()
+        elif listed_c1[i+1] == "FAC SCI":
+          print "FAC SCIがあった"
+          for sci_dep in fac_dep_list:
+            if sci_dep in listed_c1[i+2]:
+              dep_list = listed_c1[i+2].lstrip().lstrip()
+              print dep_list
+        elif listed_c1[i+1] == "GRAD SCH SCI":
+          print "GRAD SCH SCIがあった"
+          for grad_dep in grad_dep_list:
+            if grad_dep in listed_c1[i+2]:
+              dep_list = listed_c1[i+2].lstrip().lstrip()
           print dep_list
   return dep_list
 
@@ -251,6 +261,7 @@ def RP_check(target_rp='', target_c1='', paper_index=0, af_tokyo={}, af_phys={},
       RP_matching_flag[paper_index] = 1
 
 def departure_matching(author_dict={}, af_tokyo_dep={}, dep_match={}, paper_index=0):
+  # unit_strign は D,M,C,S,Pなどなど
   for unit_string in author_dict['dep']:
     for row in fdep_dict:
       if row[0] is unit_string:

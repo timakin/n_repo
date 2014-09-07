@@ -9,6 +9,7 @@ from should_excluded_institution import black_list as black_list
 from list_for_f_dep import f_dep_dict as fdep_dict
 from list_for_f_dep import grad_second_dep_list as grad_dep_list
 from list_for_f_dep import fac_second_dep_list as fac_dep_list
+from list_for_f_dep import liveral_second_dep_list as l_dep_list
 from collections import OrderedDict
 
 record_num       = 0
@@ -82,7 +83,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
     # 論文執筆の時期によるマッチング==========================
     print "==========="
-    print af_tokyo_dep[paper_index]
+    print "AF_TOKYO_DEP: " + af_tokyo_dep[paper_index]
     year_NA_flag[paper_index] = 0
     if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
       author_dict['start_year'] = 'NA'
@@ -175,24 +176,28 @@ def stock_dep(target_c1=''):
   dep_list  = []
   listed_c1 = target_c1.replace('.;', ',').split(',')
   for i,line in enumerate(listed_c1):
-    if line.find("UNIV TOKYO") >= 0:
+    if line.upper().find("UNIV TOKYO") >= 0:
       for x in inst_list:
-        if x in listed_c1[i+1]:
-          dep_list = listed_c1[i+1].lstrip().lstrip()
-        elif listed_c1[i+1] == "FAC SCI":
-          print "FAC SCIがあった"
+        if x in listed_c1[i+1].upper():
+          dep_list = listed_c1[i+1].upper().lstrip().lstrip()
+        elif listed_c1[i+1].upper() == "FAC SCI":
           for sci_dep in fac_dep_list:
-            if sci_dep in listed_c1[i+2]:
-              dep_list = listed_c1[i+2].lstrip().lstrip()
-              print dep_list
-        elif listed_c1[i+1] == "GRAD SCH SCI":
-          print "GRAD SCH SCIがあった"
+            if sci_dep in listed_c1[i+2].upper():
+              dep_list = listed_c1[i+2].upper().lstrip().lstrip()
+        #      print "FAC SCIがあった"
+        elif listed_c1[i+1].upper() == "GRAD SCH SCI":
           for grad_dep in grad_dep_list:
-            if grad_dep in listed_c1[i+2]:
-              dep_list = listed_c1[i+2].lstrip().lstrip()
-          print dep_list
+            if grad_dep in listed_c1[i+2].upper():
+              dep_list = listed_c1[i+2].upper().lstrip().lstrip()
+        #      print "GRAD SCH SCIがあった"
+        elif listed_c1[i+1].upper() == "COLL ARTS & SCI" or listed_c1[i+1].upper() == "COLL GEN EDUC":
+          for liveral_dep in l_dep_list:
+            if liveral_dep in listed_c1[i+2].upper():
+              dep_list = listed_c1[i+2].upper().lstrip().lstrip()
+              print "Lの機関があった"
   return dep_list
 
+# ブラックリストに入っている学部を除く   
 def delete_dep(dep_list=[]):
   for i,line in enumerate(dep_list):
     for x in black_list:
@@ -218,11 +223,15 @@ def C1_check(target_c1='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep=
     else:
       #print "物理学科じゃありません"
       tmp_dep[paper_index] = stock_dep(target_c1.upper())
+      print "TMP_DEPです~~~~~~~~~~~~~~~~~~"
+      print tmp_dep[paper_index]
       af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
-      if not af_tokyo_dep[paper_index]:
+      if af_tokyo_dep[paper_index] == []:
         C1_matching_flag[paper_index] = 0
-        #print "物理学科だけどC1マッチしなかった…"
+        print "物理学科だけどC1マッチしなかった…"
         return
+      print "AF_TOKYO_DEPです~~~~~~~~~~~~~~"
+      print af_tokyo_dep[paper_index]
       C1_matching_flag[paper_index] = 1
       af_phys[paper_index] = 0
         
@@ -249,20 +258,26 @@ def RP_check(target_rp='', target_c1='', paper_index=0, af_tokyo={}, af_phys={},
       #print "物理学科じゃありません"
       # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
       tmp_dep[paper_index] = stock_dep(target_rp.upper())
+      print "TMP_DEPです2~~~~~~~~~~~~~~~~~~"
+      print tmp_dep[paper_index]
       af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
+
       #print "こことおってる1"
-      if not af_tokyo_dep[paper_index]:
-        #print "こことおってる"
+      if af_tokyo_dep[paper_index] == []:
+        print "こことおってだめぽ"
         RP_matching_flag[paper_index] = 0
         C1_check(target_c1, paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
         return
-      #print "こことおってる2"
+      print "こことおってる2"
+      print "AF_TOKYO_DEPです2~~~~~~~~~~~~~~"
+      print af_tokyo_dep[paper_index]
       af_phys[paper_index] = 0
       RP_matching_flag[paper_index] = 1
 
 def departure_matching(author_dict={}, af_tokyo_dep={}, dep_match={}, paper_index=0):
   # unit_strign は D,M,C,S,Pなどなど
   for unit_string in author_dict['dep']:
+    print "UNIT_STRING: " + unit_string
     for row in fdep_dict:
       if row[0] is unit_string:
         for unit_dep in row[1]:

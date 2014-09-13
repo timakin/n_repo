@@ -4,6 +4,7 @@ import re
 import os
 import import_author_list as im
 import write_to_wos_result as wtwr
+import contribution_weight as cw
 from institution_list import inst_list as inst_list
 from should_excluded_institution import black_list as black_list
 from list_for_f_dep import f_dep_dict as fdep_dict
@@ -35,8 +36,6 @@ tmp_dep          = {}
 
 def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
   # 著者の名前によるマッチング==========================
-  #print author_dict
-
   if author_dict['faculty_name'].upper() not in target['AU'].upper():
     #print "イニシャルが一致しません"
     return
@@ -82,8 +81,8 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
 
     # 論文執筆の時期によるマッチング==========================
-    print "==========="
-    print "AF_TOKYO_DEP: " + af_tokyo_dep[paper_index]
+    #print "==========="
+    #print "AF_TOKYO_DEP: " + af_tokyo_dep[paper_index]
     year_NA_flag[paper_index] = 0
     if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
       author_dict['start_year'] = 'NA'
@@ -108,7 +107,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       py_match[paper_index] = 0
     #  print "TARGET_PY: " + target['PY']
     #  print time_span
-      print "TARGET_TI: " + target['TI']
+    #  print "TARGET_TI: " + target['TI']
       return
     else:
     #  print "所属期間内に論文がでました"
@@ -125,8 +124,8 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       else:
         departure_matching(author_dict, af_tokyo_dep, dep_match, paper_index)
         #print "dep_match: " + str(dep_match[paper_index])
-        print "TARGET_TI: " + target['TI']
-      print "==========="
+    #    print "TARGET_TI: " + target['TI']
+    #  print "==========="
       if dep_match[paper_index] == None:
         #print "論文執筆時の所属機関が不適切です"
         return
@@ -134,6 +133,26 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
   if af_tokyo[paper_index] and py_match[paper_index] and (dep_match[paper_index] == "MATCHED"):
     global record_num
     record_num = record_num + 1
+
+    # contribution_weightを測定
+    # 著者リストの配列を作る。
+    paper_AU_list = target['AU'].split(';')
+    # 著者リストを大文字にした配列を作る
+    alist1 = map(lambda x:x.upper(), paper_AU_list)
+    # alist2のために、大文字の配列をコピーする
+    # これはalist2のためにしか使われない。
+    sub_alist1 = map(lambda x:x.upper(), paper_AU_list)
+    sub_alist1.pop(0)
+    # alist2の２番目の配列（先頭を消去した配列）を作る
+    alist2_second_factor = sub_alist1
+    if alist2_second_factor is None:
+      # alist2_second_factorが空の配列[]の時、cweightの処理が止まるから、固定値を返す。
+      contribution_weight_calc_result = 1.0
+    else:
+      #print "contribution_weight not 1.0"
+      alist2 = [[alist1[0]], alist2_second_factor]
+
+      contribution_weight_calc_result = cw.cweight(cw.order_pattern(alist1), alist2, author_dict['faculty_name'].upper())
 
     tf=open('result_texts/results_'+author_dict['faculty_name']+'.txt','a')
     tf.write('\n') 
@@ -156,13 +175,14 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
     tf.write('SO           =>'+target['SO']+'\n')
     tf.write('TI           =>'+target['TI']+'\n')
     tf.write('RP           =>'+str(target['RP']).upper()+'\n')
+    tf.write('CW           =>'+str(contribution_weight_calc_result)+'\n')
     tf.write('FILE_NAME    =>'+str(text_name)+'\n')
     tf.write('PAPER_ID     =>'+str(paper_index)+'\n')
     tf.close()
 
     # wos_result.csvにその年の著者の論文出稿数の単純和と、インパクトファクターを書き込む
     # その後、wos_list.csvとwos_result.csvの内容を一致させる
-    wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index])
+    wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index], contribution_weight_calc_result)
     os.system('python copy_result_to_list.py')
 
     # unique_list（学科のリスト）を作成する
@@ -194,7 +214,7 @@ def stock_dep(target_c1=''):
           for liveral_dep in l_dep_list:
             if liveral_dep in listed_c1[i+2].upper():
               dep_list = listed_c1[i+2].upper().lstrip().lstrip()
-              print "Lの機関があった"
+              #print "Lの機関があった"
   return dep_list
 
 # ブラックリストに入っている学部を除く   
@@ -223,15 +243,15 @@ def C1_check(target_c1='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep=
     else:
       #print "物理学科じゃありません"
       tmp_dep[paper_index] = stock_dep(target_c1.upper())
-      print "TMP_DEPです~~~~~~~~~~~~~~~~~~"
-      print tmp_dep[paper_index]
+      #print "TMP_DEPです~~~~~~~~~~~~~~~~~~"
+      #print tmp_dep[paper_index]
       af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
       if af_tokyo_dep[paper_index] == []:
         C1_matching_flag[paper_index] = 0
-        print "物理学科だけどC1マッチしなかった…"
+        #print "物理学科だけどC1マッチしなかった…"
         return
-      print "AF_TOKYO_DEPです~~~~~~~~~~~~~~"
-      print af_tokyo_dep[paper_index]
+      #print "AF_TOKYO_DEPです~~~~~~~~~~~~~~"
+      #print af_tokyo_dep[paper_index]
       C1_matching_flag[paper_index] = 1
       af_phys[paper_index] = 0
         
@@ -258,26 +278,26 @@ def RP_check(target_rp='', target_c1='', paper_index=0, af_tokyo={}, af_phys={},
       #print "物理学科じゃありません"
       # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
       tmp_dep[paper_index] = stock_dep(target_rp.upper())
-      print "TMP_DEPです2~~~~~~~~~~~~~~~~~~"
-      print tmp_dep[paper_index]
+      #print "TMP_DEPです2~~~~~~~~~~~~~~~~~~"
+      #print tmp_dep[paper_index]
       af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
 
       #print "こことおってる1"
       if af_tokyo_dep[paper_index] == []:
-        print "こことおってだめぽ"
+        #print "こことおってだめぽ"
         RP_matching_flag[paper_index] = 0
         C1_check(target_c1, paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
         return
-      print "こことおってる2"
-      print "AF_TOKYO_DEPです2~~~~~~~~~~~~~~"
-      print af_tokyo_dep[paper_index]
+      #print "こことおってる2"
+      #print "AF_TOKYO_DEPです2~~~~~~~~~~~~~~"
+      #print af_tokyo_dep[paper_index]
       af_phys[paper_index] = 0
       RP_matching_flag[paper_index] = 1
 
 def departure_matching(author_dict={}, af_tokyo_dep={}, dep_match={}, paper_index=0):
   # unit_strign は D,M,C,S,Pなどなど
   for unit_string in author_dict['dep']:
-    print "UNIT_STRING: " + unit_string
+    #print "UNIT_STRING: " + unit_string
     for row in fdep_dict:
       if row[0] is unit_string:
         for unit_dep in row[1]:

@@ -11,6 +11,8 @@ from list_for_f_dep import f_dep_dict as fdep_dict
 from list_for_f_dep import grad_second_dep_list as grad_dep_list
 from list_for_f_dep import fac_second_dep_list as fac_dep_list
 from list_for_f_dep import liveral_second_dep_list as l_dep_list
+from list_for_f_dep import schsci_second_dep_list as schsci_dep_list
+from list_for_f_dep import geneduc_second_dep_list as geneduc_dep_list
 from collections import OrderedDict
 
 record_num       = 0
@@ -49,13 +51,13 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       if (re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper())):
         #print "RP_check1"
         RP_check(str(target['RP']), str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
-        #print "RP_matching_flag: " + str(RP_matching_flag[paper_index])
+        ##print "RP_matching_flag: " + str(RP_matching_flag[paper_index])
         if (not RP_matching_flag[paper_index] == 1) and (not C1_matching_flag[paper_index] == 1):
           return
       else:
         #print "C1_check1"
         C1_check(str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
-        #print "C1_matching_flag: " + str(C1_matching_flag[paper_index])
+        ##print "C1_matching_flag: " + str(C1_matching_flag[paper_index])
         if (not C1_matching_flag[paper_index] == 1):
           return
       full_match[paper_index] = 1
@@ -64,14 +66,14 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       if (re.search(author_dict['faculty_name'].upper(), str(target['RP']).upper())):
         #print "RP_check2"
         RP_check(str(target['RP']), str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
-        #print "RP_matching_flag: " + str(RP_matching_flag[paper_index])
+        ##print "RP_matching_flag: " + str(RP_matching_flag[paper_index])
         if (not RP_matching_flag[paper_index] == 1) and (not C1_matching_flag[paper_index] == 1):
           #print "だみだ"
           return
       else:
         #print "C1_check2"
         C1_check(str(target['C1']), paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
-        #print "C1_matching_flag: " + str(C1_matching_flag[paper_index])
+        ##print "C1_matching_flag: " + str(C1_matching_flag[paper_index])
         if (not C1_matching_flag[paper_index] == 1):
           #print "だみだみだ"
           return
@@ -81,14 +83,14 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
 
 
     # 論文執筆の時期によるマッチング==========================
-    #print "==========="
-    #print "AF_TOKYO_DEP: " + af_tokyo_dep[paper_index]
+    ##print "==========="
+    ##print "AF_TOKYO_DEP: " + af_tokyo_dep[paper_index]
     year_NA_flag[paper_index] = 0
     if author_dict['start_year'] == "" or author_dict['start_year'] == "NA" or author_dict['end_year'] == "" or author_dict['end_year'] == "NA":
       author_dict['start_year'] = 'NA'
       author_dict['end_year'] = 'NA'
       year_NA_flag[paper_index] = 1
-    #  print "NAでだめですた"
+    #  #print "NAでだめですた"
       wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index])
       os.system('python copy_result_to_list.py')
       return
@@ -98,24 +100,24 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       author_dict['end_year']   = '2015'
     
     if year_NA_flag[paper_index] == 0:
-    #  print "TimeSpanはとりますた"
+    #  #print "TimeSpanはとりますた"
       time_span = range(int(author_dict['start_year']), int(author_dict['end_year'])+1)
 
     # 著者が研究機関に所属した間に当該論文が出稿されたかのチェック==========================
     if int(target['PY']) not in time_span:
-    #  print "所属期間内に論文が出ていません"
+      #print "所属期間内に論文が出ていません"
       py_match[paper_index] = 0
-    #  print "TARGET_PY: " + target['PY']
+    #  #print "TARGET_PY: " + target['PY']
     #  print time_span
-    #  print "TARGET_TI: " + target['TI']
+    #  #print "TARGET_TI: " + target['TI']
       return
     else:
-    #  print "所属期間内に論文がでました"
+      #print "所属期間内に論文がでました"
       py_match[paper_index] = 1
       # 執筆されたタイミングで著者の所属機関が論文の在籍者の所属期間と一致するかのチェック==========================
-      #print "Author_dict['dep'] : "+author_dict['dep']
+      ##print "Author_dict['dep'] : "+author_dict['dep']
       if author_dict['dep'] == "" or author_dict['dep'] == "NA":
-        #print "Author_dictが空です。"
+        ##print "Author_dictが空です。"
         dep_units[paper_index] = None
         dep_match[paper_index] = 'NA' # 所属期間がマッチしたか如何ではなく、データの有無で判別する場合はNA
         wtwr.write_to_wos_result(author_dict['id'], target['PY'], target['SO'], year_NA_flag[paper_index], dep_match[paper_index])
@@ -123,13 +125,13 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
         return
       else:
         departure_matching(author_dict, af_tokyo_dep, dep_match, paper_index)
-        #print "dep_match: " + str(dep_match[paper_index])
-    #    print "TARGET_TI: " + target['TI']
-    #  print "==========="
+        ##print "dep_match: " + str(dep_match[paper_index])
+    #    #print "TARGET_TI: " + target['TI']
+    #  #print "==========="
       if dep_match[paper_index] == None:
         #print "論文執筆時の所属機関が不適切です"
         return
-       #print "論文執筆時の所属機関が適切です"
+      #print "論文執筆時の所属機関が適切です"
   if af_tokyo[paper_index] and py_match[paper_index] and (dep_match[paper_index] == "MATCHED"):
     global record_num
     record_num = record_num + 1
@@ -149,7 +151,7 @@ def return_conditions(target={}, author_dict={}, text_name='', paper_index=0):
       # alist2_second_factorが空の配列[]の時、cweightの処理が止まるから、固定値を返す。
       contribution_weight_calc_result = 1.0
     else:
-      #print "contribution_weight not 1.0"
+      ##print "contribution_weight not 1.0"
       alist2 = [[alist1[0]], alist2_second_factor]
 
       contribution_weight_calc_result = cw.cweight(cw.order_pattern(alist1), alist2, author_dict['faculty_name'].upper())
@@ -197,24 +199,37 @@ def stock_dep(target_c1=''):
   listed_c1 = target_c1.replace('.;', ',').split(',')
   for i,line in enumerate(listed_c1):
     if line.upper().find("UNIV TOKYO") >= 0:
+      print listed_c1[i+1].upper().lstrip().lstrip()
       for x in inst_list:
-        if x in listed_c1[i+1].upper():
+        if x in listed_c1[i+1].upper().lstrip().lstrip():
           dep_list = listed_c1[i+1].upper().lstrip().lstrip()
-        elif listed_c1[i+1].upper() == "FAC SCI":
+        elif listed_c1[i+1].upper().lstrip().lstrip() == "FAC SCI":
           for sci_dep in fac_dep_list:
             if sci_dep in listed_c1[i+2].upper():
               dep_list = listed_c1[i+2].upper().lstrip().lstrip()
-        #      print "FAC SCIがあった"
-        elif listed_c1[i+1].upper() == "GRAD SCH SCI":
+        #      #print "FAC SCIがあった"
+        elif listed_c1[i+1].upper().lstrip().lstrip() == "GRAD SCH SCI":
           for grad_dep in grad_dep_list:
             if grad_dep in listed_c1[i+2].upper():
               dep_list = listed_c1[i+2].upper().lstrip().lstrip()
-        #      print "GRAD SCH SCIがあった"
-        elif listed_c1[i+1].upper() == "COLL ARTS & SCI" or listed_c1[i+1].upper() == "COLL GEN EDUC":
+              #print "GRAD SCH SCIがあった"
+        elif listed_c1[i+1].upper().lstrip().lstrip() == "COLL ARTS & SCI" or listed_c1[i+1].upper().lstrip().lstrip() == "COLL GEN EDUC":
           for liveral_dep in l_dep_list:
             if liveral_dep in listed_c1[i+2].upper():
               dep_list = listed_c1[i+2].upper().lstrip().lstrip()
-              #print "Lの機関があった"
+              ##print "Lの機関があった"
+        elif listed_c1[i+1].upper() == "SCH SCI":
+          #print "listed_c1がSCH SCI"
+          for schsci_dep in schsci_dep_list:
+            if schsci_dep in listed_c1[i+2].upper():
+              dep_list = listed_c1[i+2].upper().lstrip().lstrip()
+              #print "あったよ"
+        elif listed_c1[i+1].upper() == "COLL GEN EDUC":
+          #print "listed_c1がCOLL GEN EDUC"
+          for geneduc_dep in geneduc_dep_list:
+            if geneduc_dep in listed_c1[i+2].upper():
+              dep_list = listed_c1[i+2].upper().lstrip().lstrip()
+              #print "あったよ"
   return dep_list
 
 # ブラックリストに入っている学部を除く   
@@ -226,70 +241,70 @@ def delete_dep(dep_list=[]):
   return dep_list
 
 def C1_check(target_c1='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep={}, tmp_dep={}):
-  #print "TARGET_C1: " + target_c1
+  ##print "TARGET_C1: " + target_c1
   #print target_c1
   if target_c1 == None or (not re.search('UNIV TOKYO', target_c1.upper())):
-    #print "東京大学じゃありませんでした"
+    ##print "東京大学じゃありませんでした"
     C1_matching_flag[paper_index] = 0
-    #print "だみでしたあああああああああああ"
+    ##print "だみでしたあああああああああああ"
     return
   else:
     af_tokyo[paper_index] = 1
     if re.search('UNIV TOKYO, DEPT PHYS', target_c1.upper()):
-      #print "物理学科でした"
+      ##print "物理学科でした"
       af_phys[paper_index] = 1
       af_tokyo_dep[paper_index] = 'DEPT PHYS'
       C1_matching_flag[paper_index] = 1
     else:
-      #print "物理学科じゃありません"
+      ##print "物理学科じゃありません"
       tmp_dep[paper_index] = stock_dep(target_c1.upper())
-      #print "TMP_DEPです~~~~~~~~~~~~~~~~~~"
+      ##print "TMP_DEPです~~~~~~~~~~~~~~~~~~"
       #print tmp_dep[paper_index]
       af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
       if af_tokyo_dep[paper_index] == []:
         C1_matching_flag[paper_index] = 0
-        #print "物理学科だけどC1マッチしなかった…"
+        ##print "物理学科だけどC1マッチしなかった…"
         return
-      #print "AF_TOKYO_DEPです~~~~~~~~~~~~~~"
+      ##print "AF_TOKYO_DEPです~~~~~~~~~~~~~~"
       #print af_tokyo_dep[paper_index]
       C1_matching_flag[paper_index] = 1
       af_phys[paper_index] = 0
         
 def RP_check(target_rp='', target_c1='', paper_index=0, af_tokyo={}, af_phys={}, af_tokyo_dep={}, tmp_dep={}):
   # 著者の所属によるマッチング==========================
-  #print "TARGET_RP: " + target_rp
+  ##print "TARGET_RP: " + target_rp
   #print target_rp
   if not re.search('UNIV TOKYO', target_rp.upper()):
     af_tokyo[paper_index] = 0
     RP_matching_flag[paper_index] = 0
     C1_check(target_c1, paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
     #　RPCHECK2は大抵ここ 
-    #print "だみでした"
+    ##print "だみでした"
     return
   else:
-    #print "東京大学でした"
+    ##print "東京大学でした"
     af_tokyo[paper_index] = 1
     if re.search('UNIV TOKYO, DEPT PHYS', target_rp.upper()):
-      #print "物理学科でした"
+      ##print "物理学科でした"
       af_phys[paper_index] = 1
       af_tokyo_dep[paper_index] = 'DEPT PHYS'
       RP_matching_flag[paper_index] = 1
     else:
-      #print "物理学科じゃありません"
+      ##print "物理学科じゃありません"
       # 適切な物理学研究機関かどうかを、学部・施設対応.xlsのリストから判別する
       tmp_dep[paper_index] = stock_dep(target_rp.upper())
-      #print "TMP_DEPです2~~~~~~~~~~~~~~~~~~"
+      ##print "TMP_DEPです2~~~~~~~~~~~~~~~~~~"
       #print tmp_dep[paper_index]
       af_tokyo_dep[paper_index] = delete_dep(tmp_dep[paper_index])
 
-      #print "こことおってる1"
+      ##print "こことおってる1"
       if af_tokyo_dep[paper_index] == []:
-        #print "こことおってだめぽ"
+        ##print "こことおってだめぽ"
         RP_matching_flag[paper_index] = 0
         C1_check(target_c1, paper_index, af_tokyo, af_phys, af_tokyo_dep, tmp_dep)
         return
-      #print "こことおってる2"
-      #print "AF_TOKYO_DEPです2~~~~~~~~~~~~~~"
+      ##print "こことおってる2"
+      ##print "AF_TOKYO_DEPです2~~~~~~~~~~~~~~"
       #print af_tokyo_dep[paper_index]
       af_phys[paper_index] = 0
       RP_matching_flag[paper_index] = 1
@@ -297,15 +312,15 @@ def RP_check(target_rp='', target_c1='', paper_index=0, af_tokyo={}, af_phys={},
 def departure_matching(author_dict={}, af_tokyo_dep={}, dep_match={}, paper_index=0):
   # unit_strign は D,M,C,S,Pなどなど
   for unit_string in author_dict['dep']:
-    #print "UNIT_STRING: " + unit_string
+    ##print "UNIT_STRING: " + unit_string
     for row in fdep_dict:
       if row[0] is unit_string:
         for unit_dep in row[1]:
-          #print "UNIT_DEP: " + unit_dep
+          ##print "UNIT_DEP: " + unit_dep
           if af_tokyo_dep[paper_index] == unit_dep:
             dep_match[paper_index] = "MATCHED"
-          #  print "所属機関がマッチしました。"
+          #  #print "所属機関がマッチしました。"
             return
           else:
             dep_match[paper_index] = None
-          #  print "所属機関がマッチしなかった"
+          #  #print "所属機関がマッチしなかった"

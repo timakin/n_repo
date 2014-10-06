@@ -12,7 +12,7 @@ def return_author_list(author_dict={}):
 		for row in reader:
 			for x in row:
 				unicode(x, 'utf-8')
-			author_dict[i] =	{'id': row[0], 'full_name': row[4].upper().replace(' ',', '), 'faculty_name': row[7].upper().replace(' ',', '), 'raw_name': row[7], 'start_year': row[14], 'end_year': row[15], 'dep': row[17]}
+			author_dict[i] =	{'id': row[0], 'full_name': row[4].upper().replace(' ',', '), 'faculty_name': row[7].upper().replace(' ',', '), 'raw_name': row[7], 'start_year': row[8], 'end_year': row[9], 'dep': row[15]}
 			i=i+1
 	del author_dict[-1]
 	return author_dict

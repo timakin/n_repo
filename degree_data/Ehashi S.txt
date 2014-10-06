@@ -1,0 +1,32 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU NISHI, H
+   EHASHI, S
+AF NISHI, H
+   EHASHI, S
+TI SYNTHESES OF ACRIDONE DERIVATIVES CONTAINING N-METHYLNAPHTHALIMIDE RING
+SO KOG KAGAKU ZASSHI
+LA Japanese
+DT Article
+CR BRADLEY W, 1954, J CHEM SOC, P4432, DOI 10.1039/jr9540004432
+   Rule HG, 1937, J CHEM SOC, P1764, DOI 10.1039/jr9370001764
+   1965, Patent No. 1405776
+NR 3
+TC 0
+Z9 0
+J9 KOG KAGAKU ZASSHI
+PY 1970
+VL 73
+IS 11
+BP 2425
+EP &
+PG 0
+WC Chemistry, Multidisciplinary; Engineering, Chemical; Instruments &
+   Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA H9413
+UT WOS:A1970H941300046
+ER
+
+EF

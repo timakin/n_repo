@@ -15,8 +15,8 @@ def copy_result_to_list():
 
   i = 0
   for row in read_written:
-    row_list = [row[0], row[1], row[2], row[3], row[4], row[5]]
-    copy_written.writerow([row[0], row[1], row[2], row[3], row[4], row[5]])
+    row_list = [row[0], row[1], row[2], row[3], row[4], row[5], row[6]]
+    copy_written.writerow([row[0], row[1], row[2], row[3], row[4], row[5], row[6]])
     i = i+1
 
 if __name__ == '__main__':

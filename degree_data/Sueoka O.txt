@@ -1,0 +1,3574 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Kato, H
+   Kobayashi, S
+   Makochekanwa, C
+   Hoshino, M
+   Shinohara, N
+   Sueoka, O
+   Cho, H
+   Tanaka, H
+AF Kato, H.
+   Kobayashi, S.
+   Makochekanwa, C.
+   Hoshino, M.
+   Shinohara, N.
+   Sueoka, O.
+   Cho, H.
+   Tanaka, H.
+TI Electron and positron scattering from the benzene derivative
+   benzotrifluoride: Total and vibrational excitation cross sections
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+DE electron impact excitation; molecule-electron collisions;
+   molecule-positron collisions; organic compounds; positron impact
+   excitation; vibrational states
+ID IMPACT SPECTROSCOPY; MOLECULES; COLLISIONS; ATTACHMENT; SPECTRA; STATES
+AB Electron and positron cross sections have been investigated experimentally for scattering from benzotrifluoride (C(6)H(5)CF(3)) molecules over the energy range 0.2-1000 eV. The current results have been compared with our previous results for C(6)H(6) molecules. Similar to C(6)H(6), a peak has been observed in electron total cross sections (TCS) centered at 8.0 and a shoulder at about 40 eV. Vibrational excitation cross section experiments were carried out to probe the origin and nature of the 8 eV peak. For positron TCS, a broad peak spanning the region 0.8-15 eV and a change in slope at about 40 eV are observed with the only difference between the current results and those of C(6)H(6) observed in the region 1-100 eV.
+C1 [Kato, H.; Kobayashi, S.; Makochekanwa, C.; Hoshino, M.; Tanaka, H.] Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+   [Makochekanwa, C.; Sueoka, O.] Yamaguchi Univ, Fac Engn, Yamaguchi 7558611, Japan.
+   [Shinohara, N.] Yamaguchi Univ, Sch Med, Yamaguchi 7558505, Japan.
+   [Cho, H.] Chungnam Natl Univ, Dept Phys, Taejon 305764, South Korea.
+RP Kato, H (reprint author), Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+FU Ministry of Education, Science, Technology, Sport and Culture, Japan;
+   Japan Society for the Promotion of Science (JSPS); National Institute
+   for Fusion Science (NIFS)
+FX This work was supported in part by a Grant-in-Aid from the Ministry of
+   Education, Science, Technology, Sport and Culture, Japan, the Japan
+   Society for the Promotion of Science (JSPS), and a Cooperative Research
+   Grant from the National Institute for Fusion Science (NIFS).
+CR ALLAN M, 1989, J ELECTRON SPECTROSC, V48, P219, DOI 10.1016/0368-2048(89)80018-0
+   BOESTEN L, 1992, ATOM DATA NUCL DATA, V52, P25, DOI 10.1016/0092-640X(92)90008-6
+   Cho H, 2001, J PHYS B-AT MOL OPT, V34, P1019, DOI 10.1088/0953-4075/34/6/304
+   CHRISTOP.LG, 1974, J CHEM PHYS, V60, P3779, DOI 10.1063/1.1680819
+   CHRISTOP.LG, 1973, CHEM PHYS LETT, V22, P41, DOI 10.1016/0009-2614(73)80530-5
+   GAL JF, 1985, J CHEM SOC PERK T 2, P103, DOI 10.1039/p29850000103
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Kato H, 2009, PHYS REV A, V79, DOI 10.1103/PhysRevA.79.062703
+   Kato H, 2007, PHYS REV A, V75, DOI 10.1103/PhysRevA.75.062705
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   LIDE DR, 2000, CRC HDB CHEM PHYS, P80601
+   Lunt SL, 1999, J PHYS B-AT MOL OPT, V32, P2707, DOI 10.1088/0953-4075/32/11/317
+   Makochekanwa C, 2004, J PHYS B-AT MOL OPT, V37, P1841, DOI 10.1088/0953-4075/37/9/006
+   Makochekanwa C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032707
+   Makochekanwa C, 2003, J CHEM PHYS, V119, P12257, DOI 10.1063/1.1626115
+   MATSUZAWA M, 1963, J PHYS SOC JPN, V18, P1473, DOI 10.1143/JPSJ.18.1473
+   NARASIMHAM NA, 1957, J CHEM PHYS, V27, P740, DOI 10.1063/1.1743824
+   OLTHOFF JK, 1985, J CHEM PHYS, V83, P5627, DOI 10.1063/1.449687
+   READ FH, 1965, P PHYS SOC LOND, V85, P71, DOI 10.1088/0370-1328/85/1/310
+   ROBIN MR, 1975, HIGHER EXCITED STATE, V2, P80601
+   SHIMAMORI H, 1993, J CHEM PHYS, V99, P7787, DOI 10.1063/1.465656
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   Sueoka O, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.042705
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   WENTWORTH WE, 1975, J PHYS CHEM-US, V79, P1161, DOI 10.1021/j100579a005
+NR 29
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUN
+PY 2009
+VL 79
+IS 6
+AR 062702
+DI 10.1103/PhysRevA.79.062702
+PG 7
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 466XZ
+UT WOS:000267700100082
+ER
+
+PT J
+AU Makochekanwa, C
+   Hoshino, M
+   Kato, H
+   Sueoka, O
+   Kimura, M
+   Tanaka, H
+AF Makochekanwa, C.
+   Hoshino, M.
+   Kato, H.
+   Sueoka, O.
+   Kimura, M.
+   Tanaka, H.
+TI Electron and positron scattering cross sections for propene and
+   cyclopropane
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID SIMPLE HYDROCARBON MOLECULES; VIBRATIONAL-EXCITATION;
+   POLYATOMIC-MOLECULES; ENERGY ELECTRONS; ETHYLENE-OXIDE; C3H6 ISOMERS;
+   IMPACT; DISTRIBUTIONS; SPECTROSCOPY; COLLISIONS
+AB In this paper we investigate electron and positron total and electron vibrational excitation scattering cross sections for propene and cyclopropane molecules. The electron and positron total cross sections were measured over the energy range 0.2-1000 eV using a retarding-potential time-of-flight method while the electron impact vibrational excitation cross sections were measured using a crossed-beam method. For both molecules, bending and stretching vibrational modes are studied at loss energies 0.12 and 0.37 eV, respectively, for propene, and 0.13 and 0.37 eV, respectively, for cyclopropane, at the scattering angle of 90 degrees and impact energy range 1-16 eV.
+C1 [Makochekanwa, C.; Hoshino, M.; Kato, H.; Tanaka, H.] Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+   [Makochekanwa, C.; Sueoka, O.] Yamaguchi Univ, Fac Engn, Yamaguchi 7558611, Japan.
+   [Kimura, M.] Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+RP Makochekanwa, C (reprint author), Australian Natl Univ, Atom & Mol Phys Labs, RSPhySE, GPO Box 4, Canberra, ACT 0200, Australia.
+CR Allan M, 1996, J CHEM PHYS, V105, P3559, DOI 10.1063/1.472819
+   ALLAN M, 1994, PHYS ATOMS, P105
+   ALLAN M, 1993, J AM CHEM SOC, V115, P6418, DOI 10.1021/ja00067a070
+   BANJAVCIC MP, 1991, CHEM PHYS, V155, P309, DOI 10.1016/0301-0104(91)87030-Y
+   BASCH H, 1969, J CHEM PHYS, V51, P52, DOI 10.1063/1.1671770
+   Beyer T, 1997, J PHYS B-AT MOL OPT, V30, P3431, DOI 10.1088/0953-4075/30/15/016
+   BOWMAN CR, 1965, J CHEM PHYS, V42, P681, DOI 10.1063/1.1695990
+   Brongersma HH, 1969, CHEM PHYS LETT, V3, P437, DOI 10.1016/0009-2614(69)80160-0
+   Curik R, 2002, J PHYS B-AT MOL OPT, V35, P717, DOI 10.1088/0953-4075/35/3/321
+   Curik R, 2002, J PHYS B-AT MOL OPT, V35, P1235, DOI 10.1088/0953-4075/35/5/310
+   Deutsch H, 2000, J PHYS B-AT MOL OPT, V33, pL865, DOI 10.1088/0953-4075/33/24/102
+   DUNCAN CW, 1974, J CHEM SOC FARAD T 2, V70, P577, DOI 10.1039/f29747000577
+   DURIC N, 1991, INT J MASS SPECTROM, V108, pR1, DOI 10.1016/0168-1176(91)87010-X
+   FLOEDER K, 1985, J PHYS B-AT MOL OPT, V18, P3347, DOI 10.1088/0022-3700/18/16/019
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Jiang YH, 1997, J PHYS B-AT MOL OPT, V30, P5025, DOI 10.1088/0953-4075/30/21/033
+   JOHNSON KE, 1979, J CHEM PHYS, V70, P3844, DOI 10.1063/1.437935
+   Kimura M, 2001, J CHEM PHYS, V115, P7442, DOI 10.1063/1.1402996
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   KOIZUMI H, 1985, J CHEM PHYS, V82, P4856, DOI 10.1063/1.448655
+   Makabe T, 2001, ADV ATOM MOL OPT PHY, V44, P127
+   Makochekanwa C, 2006, NUCL INSTRUM METH B, V247, P79, DOI 10.1016/j.nimb.2006.01.062
+   Makochekanwa C, 2006, J CHEM PHYS, V124, DOI 10.1063/1.2141950
+   Makochekanwa C, 2005, EUR PHYS J D, V35, P249, DOI 10.1140/epjd/e2005-00082-0
+   Nestmann BM, 1998, J PHYS B-AT MOL OPT, V31, P3929, DOI 10.1088/0953-4075/31/17/017
+   NISHIMURA H, 1994, J PHYS B-AT MOL OPT, V27, P2063, DOI 10.1088/0953-4075/27/10/016
+   NISHIMURA H, 1991, J PHYS B-AT MOL OPT, V24, pL363, DOI 10.1088/0953-4075/24/15/002
+   Panajotovic R, 2004, J CHEM PHYS, V121, P4559, DOI 10.1063/1.1778386
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B ATOM MOL PH, V27, P1452
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Surko CM, 2005, J PHYS B-AT MOL OPT, V38, pR57, DOI 10.1088/0953-4075/38/6/R01
+   SZE KH, 1991, J ELECTRON SPECTROSC, V57, P117, DOI 10.1016/0368-2048(91)85019-P
+   Szmytkowski C, 2002, J PHYS B-AT MOL OPT, V35, P2613, DOI 10.1088/0953-4075/35/11/319
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   Tanaka H, 1995, AIP CONF PROC, P279
+   TAWARA H, 1990, NIFSDATQA6, P54101
+   WINSTEAD C, 1992, J CHEM PHYS, V96, P4246, DOI 10.1063/1.462817
+NR 40
+TC 1
+Z9 1
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD APR
+PY 2008
+VL 77
+IS 4
+AR 042717
+DI 10.1103/PhysRevA.77.042717
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 295EF
+UT WOS:000255457100090
+ER
+
+PT J
+AU Kato, H
+   Makochekanwa, C
+   Shiroyama, Y
+   Hoshino, M
+   Shinohara, N
+   Sueoka, O
+   Kimura, M
+   Tanaka, H
+AF Kato, H.
+   Makochekanwa, C.
+   Shiroyama, Y.
+   Hoshino, M.
+   Shinohara, N.
+   Sueoka, O.
+   Kimura, M.
+   Tanaka, H.
+TI Electron and positron scattering from the benzene derivative: Toluene
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID TOTAL CROSS-SECTIONS; IMPACT SPECTROSCOPY; MOLECULES; STATES;
+   EXCITATION; COLLISIONS; ATTACHMENT; TRIPLET
+AB Electron and positron cross sections for scattering from toluene molecules have been investigated both experimentally and theoretically over the energy range 0.4-1000 eV. Peaks have been observed in the electron total cross sections (TCSs) at 1.4, 4.5, and 8.0 and a shoulder at about 40 eV. Vibrational and elastic differential cross section experiments were carried out to probe the origin and nature of these peaks. The continuum multiple scattering method was used to calculate elastic integral cross sections for electron impact. Although the 1.4 eV peak is dominated by the elastic channel, strong contributions from the CH3 asymmetric bending and stretching vibrational modes are also observed. The 4.5 eV feature is also observed to be strongly due to vibrational excitation. The broad 7-13 eV peak includes contributions from the CH3 asymmetric bending (peaked at 7 eV) and the CH3 stretching (peaked at 9.5 eV) vibrational modes. Positron TCSs are studied and compared to positron-benzene TCSs. The effect of the CH3 substitution is observed to make a significant contribution to both electron and positron TCSs below 20 eV.
+C1 Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+   Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+   Yamaguchi Univ, Grad Sch Med, Yamaguchi 7558505, Japan.
+   Yamaguchi Univ, Fac Engn, Yamaguchi 7558611, Japan.
+RP Kato, H (reprint author), Australian Natl Univ, Atom & Mol Phys Labs, RSPhySE, Canberra, ACT 0200, Australia.
+EM cxm107@rsphsse.anu.edu.au
+CR ALLAN M, 1989, J ELECTRON SPECTROSC, V48, P219, DOI 10.1016/0368-2048(89)80018-0
+   AZARIA R, 1975, J CHEM PHYS, V62, P573
+   Cho H, 2001, J PHYS B-AT MOL OPT, V34, P1019, DOI 10.1088/0953-4075/34/6/304
+   CHRISTOP.LG, 1974, J CHEM PHYS, V60, P3779, DOI 10.1063/1.1680819
+   CHRISTOP.LG, 1973, CHEM PHYS LETT, V22, P41, DOI 10.1016/0009-2614(73)80530-5
+   Chu PM, 1999, J RES NATL INST STAN, V104, P59, DOI 10.6028/jres.104.004
+   COMPTON RN, 1968, J CHEM PHYS, V48, P901, DOI 10.1063/1.1668733
+   GAL JF, 1985, J CHEM SOC P2, V2, P103
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Holst W., 1931, K NOR VIDENSK SELSK, V4, P89
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Lunt SL, 1999, J PHYS B-AT MOL OPT, V32, P2707, DOI 10.1088/0953-4075/32/11/317
+   Makochekanwa C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032707
+   MARTHUR D, 1975, J PHYS B ATOM MOL PH, V9, pL31
+   MATSUZAWA M, 1963, J PHYS SOC JPN, V18, P1273
+   OLTHOFF JK, 1985, J CHEM PHYS, V83, P5627, DOI 10.1063/1.449687
+   READ FH, 1965, P PHYS SOC LOND, V85, P71, DOI 10.1088/0370-1328/85/1/310
+   Ree J, 2003, B KOR CHEM SOC, V24, P1223
+   SHIMAMORI H, 1993, J CHEM PHYS, V99, P7787, DOI 10.1063/1.465656
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B ATOM MOL PH, V27, P1452
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   SUNCHE L, 1973, J CHEM PHYS, V58, P479
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   Teets DE, 1935, J CHEM PHYS, V3, P175, DOI 10.1063/1.1749628
+   WENTWORTH WE, 1975, J PHYS CHEM-US, V79, P1161, DOI 10.1021/j100579a005
+NR 29
+TC 3
+Z9 3
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD JUN
+PY 2007
+VL 75
+IS 6
+AR 062705
+DI 10.1103/PhysRevA.75.062705
+PG 7
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 184EQ
+UT WOS:000247624300093
+ER
+
+PT J
+AU Makochekanwa, C
+   Kato, H
+   Hoshino, M
+   Bettega, MHF
+   Lima, MAP
+   Sueoka, O
+   Tanaka, H
+AF Makochekanwa, C.
+   Kato, H.
+   Hoshino, M.
+   Bettega, M. H. F.
+   Lima, M. A. P.
+   Sueoka, O.
+   Tanaka, H.
+TI Electron and positron scattering from 1,1-C2H2F2
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID TOTAL CROSS-SECTIONS; VIBRATIONAL-EXCITATION; ELASTIC-SCATTERING; ENERGY
+   ELECTRONS; COLLISIONS; MOLECULES; FLUOROETHYLENES; IMPACT; ETHYLENE; GAS
+AB 1,1-difluoroethylene (1,1-C2H2F2) molecules have been studied for the first time experimentally and theoretically by electron and positron impact. 0.4-1000 eV electron and 0.2-1000 eV positron impact total cross sections (TCSs) were measured using a retarding potential time-of-flight apparatus. In order to probe the resonances observed in the electron TCSs, a crossed-beam method was used to investigate vibrational excitation cross sections over the energy range of 1.3-49 eV and scattering angles 90 degrees and 120 degrees for the two loss energies 0.115 and 0.381 eV corresponding to the dominant C-H (nu(2) and nu(9)) stretching and the combined C-F (nu(3)) stretching and CH2 (nu(11)) rocking vibrations, respectively. Electron impact elastic integral cross sections are also reported for calculations carried out using the Schwinger multichannel method with pseudopotentials for the energy range from 0.5 to 50 eV in the static-exchange approximation and from 0.5 to 20 eV in the static-exchange plus polarization approximation. Resonance peaks observed centered at about 2.3, 6.5, and 16 eV in the TCSs have been shown to be mainly due to the vibrational and elastic channels, and assigned to the B-2, B-1, and A(1) symmetries, respectively. The pi* resonance peak at 1.8 eV in C2H4 is observed shifted to 2.3 eV in 1,1-C2H2F2 and to 2.5 eV in C2F4; a phenomenon attributed to the decreasing C=C bond length from C2H4 to C2F4. For positron impact a conspicuous peak is observed below the positronium formation threshold at about 1 eV, and other less pronounced ones centered at about 5 and 20 eV. (c) 2007 American Institute of Physics.
+C1 Yamaguchi Univ, Fac Engn, Yamaguchi 7558611, Japan.
+   Sophia Univ, Dept Phys, Chiyoda Ku, Tokyo 102855, Japan.
+   Univ Fed Parana, Dept Fis, BR-81531990 Curitiba, Parana, Brazil.
+   Univ Estadual Campinas, Inst Fis Gleb Wataghin, BR-13083970 Campinas, SP, Brazil.
+RP Makochekanwa, C (reprint author), Australian Natl Univ, Atom & Mol Phys Labs, RSPhysSE, Canberra, ACT 0200, Australia.
+EM cxm107@rsphysse.anu.edu.au
+RI LIMA, MARCO/C-1216-2013; Bettega, Marcio/J-9776-2012
+CR Allan M, 2002, J PHYS B-AT MOL OPT, V35, P523, DOI 10.1088/0953-4075/35/3/307
+   BAUSCHLICHER CW, 1980, J CHEM PHYS, V72, P880, DOI 10.1063/1.439243
+   Bettega MHF, 2003, J PHYS B-AT MOL OPT, V36, P1263, DOI 10.1088/0953-4075/36/6/314
+   BETTEGA MHF, 1993, PHYS REV A, V47, P1111, DOI 10.1103/PhysRevA.47.1111
+   Brescansin LM, 1998, PHYS REV A, V57, P3504, DOI 10.1103/PhysRevA.57.3504
+   CARLOS JL, 1974, J CHEM SOC FARAD T 2, V70, P177, DOI 10.1039/f29747000177
+   CHIU NS, 1979, CHEM PHYS LETT, V68, P121, DOI 10.1016/0009-2614(79)80082-2
+   COGGIOLA MJ, 1976, J CHEM PHYS, V65, P2655, DOI 10.1063/1.433463
+   EDGELL WF, 1949, J CHEM PHYS, V17, P740, DOI 10.1063/1.1747380
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   JOYNER P, 1952, J CHEM PHYS, V20, P302, DOI 10.1063/1.1700398
+   Kato H, 2006, CHEM PHYS LETT, V425, P1, DOI 10.1016/j.cplett.2006.04.080
+   Kimura M, 2001, J CHEM PHYS, V115, P7442, DOI 10.1063/1.1402996
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   Lide DR, 1998, CRC HDB CHEM PHYS
+   Lopes AR, 2003, PHYS REV A, V67, DOI 10.1103/PhysRevA.67.032711
+   Mitroy J, 2002, J PHYS B-AT MOL OPT, V35, pR81, DOI 10.1088/0953-4075/35/13/201
+   Mitsui Y, 2004, J ELECTROCHEM SOC, V151, pG297, DOI 10.1149/1.1669010
+   Panajotovic R, 2003, J PHYS B-AT MOL OPT, V36, P1615, DOI 10.1088/0953-4075/36/8/314
+   Panajotovic R, 2004, J CHEM PHYS, V121, P4559, DOI 10.1063/1.1778386
+   RESCIGNO TN, 1989, PHYS REV LETT, V63, P248, DOI 10.1103/PhysRevLett.63.248
+   ROBERTS A, 1949, PHYS REV, V76, P178
+   ROBERTS A, 1949, J CHEM PHYS, V17, P742, DOI 10.1063/1.1747384
+   SCHULTZ PJ, 1988, REV MOD PHYS, V60, P701, DOI 10.1103/RevModPhys.60.701
+   SMITH DC, 1950, J CHEM PHYS, V18, P326, DOI 10.1063/1.1747626
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B ATOM MOL PH, V27, P1452
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1989, J PHYS B-AT MOL OPT, V22, P963, DOI 10.1088/0953-4075/22/6/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Szmytkowski C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032715
+   TAKATSUKA K, 1981, PHYS REV A, V24, P2473, DOI 10.1103/PhysRevA.24.2473
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   Varella MTD, 1999, J CHEM PHYS, V111, P6396, DOI 10.1063/1.480017
+   Wahl R. L., 2002, PRINCIPLES PRACTICE
+   Winstead C, 1998, PHYS REV A, V57, P3589, DOI 10.1103/PhysRevA.57.3589
+   WINSTEAD C, 1992, J CHEM PHYS, V96, P4246, DOI 10.1063/1.462817
+   Winstead C, 2002, J CHEM PHYS, V116, P1380, DOI 10.1063/1.1429649
+NR 38
+TC 3
+Z9 3
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD APR 28
+PY 2007
+VL 126
+IS 16
+AR 164309
+DI 10.1063/1.2723738
+PG 8
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 162FN
+UT WOS:000246072300025
+ER
+
+PT J
+AU Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+AF Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+TI Aspects of positronium formation in polyatomic molecules
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION B-BEAM
+   INTERACTIONS WITH MATERIALS AND ATOMS
+LA English
+DT Article; Proceedings Paper
+CT 13th International Workshop on Low-Energy Positron and Positronium
+   Physics
+CY JUL 24-30, 2005
+CL Campinas, BRAZIL
+DE positron scattering; positronium (Ps) formation; total cross-section;
+   positronium formation cross-section; polyatomic molecules
+ID FORMATION CROSS-SECTIONS; NOBLE-GASES; SCATTERING; ELECTRON; COLLISIONS;
+   ATOMS; H-2; IONIZATION; THRESHOLD; HYDROGEN
+AB Using a new simple experimental method for measurement of the positronium (Ps) formation cross-sections, the cross-sections, Q(Ps), for many polyatomic molecules have been studied and are presented at 2 eV above the threshold energy of Ps formation E-Ps. The experimental method for the Q(Ps) employed here is based on use of the stronger magnetic field of 31 G (compared to the 9 G used for our total cross-sections) to increase forward scattering effects, and thereby enable determination of Q(Ps). The Q(Ps) results are discussed in relation to the corresponding total cross sections (Q(t)) for each molecule, i.e. as Q(Ps)/Q(t), for about 50 different molecular gases. As for some of the characteristics of the ratio values observed (i) the ratios for alkane molecules decrease with increasing number of valence electrons, (ii) the ratios for fluoro-alkane molecules are notably lower than those for alkane molecules and (iii) the ratios for polar molecules are very low compared to other cases above. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Kyushu Univ, Dept Chem, Grad Sch Sci, Fukuoka 8128581, Japan.
+   Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+   Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Kyushu Univ, Dept Chem, Grad Sch Sci, Hakozaki 6-10-1, Fukuoka 8128581, Japan.
+EM casten@yamaguchi-u.ac.jp
+CR CAMPEANU RI, 1987, J PHYS B-AT MOL OPT, V20, P3557, DOI 10.1088/0022-3700/20/14/027
+   CHARLTON M, 1990, J PHYS B-AT MOL OPT, V23, P1045, DOI 10.1088/0953-4075/23/7/004
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, pL465, DOI 10.1088/0022-3700/16/15/008
+   CHARLTON M, 1980, J PHYS B-AT MOL OPT, V13, pL757, DOI 10.1088/0022-3700/13/24/005
+   DIANA, 1987, ATOMIC PHYS POSITRON, P55
+   DIANA LM, 1986, PHYS REV A, V34, P2731, DOI 10.1103/PhysRevA.34.2731
+   FORNARI LS, 1983, PHYS REV LETT, V51, P2276, DOI 10.1103/PhysRevLett.51.2276
+   FROMME D, 1988, J PHYS B-AT MOL OPT, V21, pL261, DOI 10.1088/0953-4075/21/10/005
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KAUPPILA WE, 1982, CAN J PHYS, V60, P471
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   KWAN CK, 1997, ICPEAC
+   Laricchia G, 2002, J PHYS B-AT MOL OPT, V35, P2525, DOI 10.1088/0953-4075/35/11/311
+   MAKOCHEKANWA C, 2001, THESIS YAMAGUCHI U U
+   MAKOCHEKANWA C, 2003, PHYS REV A, V68, P32707
+   Marler JP, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.022701
+   MCEACHRAN RP, 1978, J PHYS B-AT MOL OPT, V11, P551, DOI 10.1088/0022-3700/11/3/025
+   MCEACHRAN RP, 1980, J PHYS B-AT MOL OPT, V13, P1281, DOI 10.1088/0022-3700/13/6/030
+   Meyerhof WE, 1996, CAN J PHYS, V74, P427
+   MOXOM J, 1994, PHYS REV A, V50, P3129, DOI 10.1103/PhysRevA.50.3129
+   STEIN TS, 1982, PHYS ELECT ATOMIC CO, P315
+   Sueoka O, 2001, NEW DIRECTIONS IN ANTIMATTER CHEMISTRY AND PHYSICS, P367
+   Sueoka O, 2003, JPN J APPL PHYS 1, V42, P5799, DOI 10.1143/JJAP.42.5799
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1987, J PHYS B-AT MOL OPT, V20, P3237, DOI 10.1088/0022-3700/20/13/028
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2000, NUCL INSTRUM METH B, V171, P96, DOI 10.1016/S0168-583X(00)00242-1
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Surko CM, 2005, J PHYS B-AT MOL OPT, V38, pR57, DOI 10.1088/0953-4075/38/6/R01
+   Zhou S, 1997, PHYS REV A, V55, P361, DOI 10.1103/PhysRevA.55.361
+NR 31
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-583X
+J9 NUCL INSTRUM METH B
+JI Nucl. Instrum. Methods Phys. Res. Sect. B-Beam Interact. Mater. Atoms
+PD JUN
+PY 2006
+VL 247
+IS 1
+BP 79
+EP 86
+DI 10.1016/j.nimb.2006.01.062
+PG 8
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Atomic, Molecular & Chemical; Physics, Nuclear
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics
+GA 049HF
+UT WOS:000238006200016
+ER
+
+PT J
+AU Sueoka, O
+   Makochekanwa, C
+   Kimura, M
+AF Sueoka, O
+   Makochekanwa, C
+   Kimura, M
+TI Positron and electron scattering from alkane molecules
+SO EUROPEAN PHYSICAL JOURNAL D
+LA English
+DT Article
+ID CROSS-SECTION MEASUREMENTS; COLLISIONS
+AB Total cross-sections (TCSs) for 0.2-1000 eV positrons and 0.4-1000 eV electrons colliding with normal-octane and cyclo-octane molecules have been studied using a relative measurement method. The TCS curves for positron and electron vary smoothly and compare well with other alkane molecules; in order of increasing carbon numbers. For positron scattering, weak humps at 1.5-2.5 eV for both normal-and cyclo-octane were observed. In the energy range lower than 2.2 eV, positron TCSs are roughly equal to or larger than electron TCSs. For electron scattering, a resonance peak at 8 eV and a shoulder at 25.0 eV were observed for both molecules. Over all the energy range, the TCS values for normal-octane are larger than those of cyclo-octane. The positron and electron TCS data for normal- and cyclo-octane molecules are briefly compared with those for normal- and cyclo-hexane.
+C1 Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+   Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+   Sophia Univ, Dept Phys, Chiyoda Ku, Tokyo 1028554, Japan.
+RP Sueoka, O (reprint author), Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+EM casten@yamaguchi-u.ac.jp
+CR BOESTEN L, 1991, J PHYS B-AT MOL OPT, V24, P821, DOI 10.1088/0953-4075/24/4/009
+   BOESTEN L, 1994, J PHYS B-AT MOL OPT, V27, P1845, DOI 10.1088/0953-4075/27/9/020
+   CHRISTOPHERSEN ER, 1976, J PEDIATR PSYCHOL, V1, P38, DOI 10.1093/jpepsy/1.1.38
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   Hatano Y, 2000, ADV ATOM MOL OPT PHY, V43, P231
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Jelisavcic M, 2004, J CHEM PHYS, V121, P5272, DOI 10.1063/1.1782174
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   MAKOCHEKANWA C, IN PRESS J CHEM PHYS
+   MAKOCHEKANWA C, UNPUB NUCL I METH B
+   Miller TM, 2004, J CHEM PHYS, V120, P7024, DOI 10.1063/1.1683082
+   Morgan WL, 2000, ADV ATOM MOL OPT PHY, V43, P79
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   Sueoka O, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.042705
+   SUEOKA O, 1999, INT S EL MOL COLL SW, P195
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Surko CM, 2005, J PHYS B-AT MOL OPT, V38, pR57, DOI 10.1088/0953-4075/38/6/R01
+   TANAKA H, 1988, J PHYS B-AT MOL OPT, V21, P1255, DOI 10.1088/0953-4075/21/7/019
+NR 21
+TC 9
+Z9 10
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 1434-6060
+J9 EUR PHYS J D
+JI Eur. Phys. J. D
+PD MAR
+PY 2006
+VL 37
+IS 3
+BP 377
+EP 383
+DI 10.1140/epjd/e2005-00331-2
+PG 7
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 026FW
+UT WOS:000236325800009
+ER
+
+PT J
+AU Sueoka, O
+   Makochekanwa, C
+   Tanino, H
+   Kimura, M
+AF Sueoka, O
+   Makochekanwa, C
+   Tanino, H
+   Kimura, M
+TI Total cross-section measurements for positrons and electrons colliding
+   with alkane molecules: Normal hexane and cyclohexane
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID SCATTERING; IMPACT; DISSOCIATION; COLLISIONS; ATTACHMENT;
+   PERFLUOROALKANES; ETHANE; RANGE; CF4; CH4
+AB Total cross sections (TCSs) for 0.2-1000 eV positrons and 0.4-1000 eV electrons colliding with normal hexane and cyclohexane molecules are reported. For positron scattering, low-lying peaks at 0.8 eV for normal hexane and 1.6 eV for cyclohexane are observed. For both molecules, positron TCSs are larger than electron TCSs below 2.8 eV; for electron scattering, the main resonance peak in the TCS curve is at 7.5 eV, followed by a shoulder at about 22 eV. TCSs for normal hexane are larger than those for cyclohexane for both positrons and electrons over all the energy range. Striking similarities, more pronounced for electron impact, have been observed between c-hexane and benzene TCSs and are attributed to the similarity in molecular structure between these two molecules, whereby each has a hexagonal ring based on the six C atoms.
+C1 Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+RP Sueoka, O (reprint author), Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+CR BOESTEN L, 1991, J PHYS B-AT MOL OPT, V24, P821, DOI 10.1088/0953-4075/24/4/009
+   BOESTEN L, 1994, J PHYS B-AT MOL OPT, V27, P1845, DOI 10.1088/0953-4075/27/9/020
+   CHARLTON M, 1980, J PHYS B-AT MOL OPT, V13, pL757, DOI 10.1088/0022-3700/13/24/005
+   Curik R, 2002, J PHYS B-AT MOL OPT, V35, P717, DOI 10.1088/0953-4075/35/3/321
+   FLOEDER K, 1985, J PHYS B-AT MOL OPT, V18, P3347, DOI 10.1088/0022-3700/18/16/019
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HARTE RA, 1981, MOL 3 DIMENSIONS GUI, P1
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Hustrulid A, 1938, PHYS REV, V54, P1037, DOI 10.1103/PhysRev.54.1037
+   Jelisavcic M, 2004, J CHEM PHYS, V121, P5272, DOI 10.1063/1.1782174
+   KENNERLY RE, 1978, PHYS REV A, V17, P1844, DOI 10.1103/PhysRevA.17.1844
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   Lide D.R., 2000, CRC HDB CHEM PHYS
+   Makochekanwa C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032707
+   Miller TM, 2004, J CHEM PHYS, V120, P7024, DOI 10.1063/1.1683082
+   Morgan WL, 2000, ADV ATOM MOL OPT PHY, V43, P79
+   NAIDU MS, 1972, J PHYS D APPL PHYS, V5, P983, DOI 10.1088/0022-3727/5/5/316
+   NISHIMURA H, 1991, J PHYS B-AT MOL OPT, V24, pL363, DOI 10.1088/0953-4075/24/15/002
+   Panajotovic R, 2004, J CHEM PHYS, V121, P4559, DOI 10.1063/1.1778386
+   SAKAE T, 1989, J PHYS B-AT MOL OPT, V22, P1385, DOI 10.1088/0953-4075/22/9/011
+   SPYROU SM, 1983, J CHEM PHYS, V78, P7200, DOI 10.1063/1.444761
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2000, NUCL INSTRUM METH B, V171, P96, DOI 10.1016/S0168-583X(00)00242-1
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   SURKO CM, 2005, J PHYS B R, V57, pR126
+   TANAKA H, 1988, J PHYS B-AT MOL OPT, V21, P1255, DOI 10.1088/0953-4075/21/7/019
+   Tanaka H, 1999, PHYS REV A, V59, P2006, DOI 10.1103/PhysRevA.59.2006
+   WINTERS HF, 1975, J CHEM PHYS, V63, P3462, DOI 10.1063/1.431783
+   WINTERS HF, 1979, CHEM PHYS, V36, P353, DOI 10.1016/0301-0104(79)85019-3
+NR 31
+TC 18
+Z9 20
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD OCT
+PY 2005
+VL 72
+IS 4
+AR 042705
+DI 10.1103/PhysRevA.72.042705
+PG 8
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 979HA
+UT WOS:000232931800082
+ER
+
+PT J
+AU Makochekanwa, C
+   Kato, H
+   Hoshino, M
+   Cho, H
+   Kimura, M
+   Sueoka, O
+   Tanaka, H
+AF Makochekanwa, C
+   Kato, H
+   Hoshino, M
+   Cho, H
+   Kimura, M
+   Sueoka, O
+   Tanaka, H
+TI Probing the isomer, fluorination and bond effects in C3H6, cyclo-C3H6
+   and C3F6 molecules using electron impact
+SO EUROPEAN PHYSICAL JOURNAL D
+LA English
+DT Article
+ID CROSS-SECTION MEASUREMENTS; SIMPLE HYDROCARBON MOLECULES; POSITRON
+   SCATTERING; ETHYLENE-OXIDE; CYCLOPROPANE; COLLISIONS; SPECTROSCOPY;
+   HEXAFLUOROPROPENE; EXCITATION; SPECTRA
+AB We have carried out experimental and theoretical studies on electron scattering from the C3H6 isomers and C3F6 molecules and we report on total, differential as well as theoretical integral elastic cross-sections for these molecules. Vibrational excitation functions are also presented for the typical vibrational peaks in C3H6 and cyclo-C3H6 for the angle of 90 degrees, impact energy range of 1 - 16 eV and loss energies of 0.12 eV and 0.13 eV, respectively. In the cross-sections, clear differences in peak positions and magnitudes between the C3H6 isomers can be viewed as the isomer effect. The same is observed between C3H6 and C3F6 in a clear manifestation of the fluorination effect. The resemblance of the pi* shape resonance in the cross-sections, observed at about 2.2 eV for C3H6 and 3.5 eV for C3F6, to those in C2H4 and C2F4 clearly points to the effect of the double bond in the molecular structures for these molecules. Theoretical analysis is performed to provide rationales for the scattering dynamics.
+C1 Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+   Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+   Chungnam Natl Univ, Dept Phys, Taejon 305764, South Korea.
+   Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+EM c-makoch@sophia.ac.jp
+CR ALLAN M, 1994, ELECT COLLISIONS MOL
+   ALLAN M, 1993, J AM CHEM SOC, V115, P6418, DOI 10.1021/ja00067a070
+   BANJAVCIC MP, 1991, CHEM PHYS, V155, P309, DOI 10.1016/0301-0104(91)87030-Y
+   Bart M, 2001, PHYS CHEM CHEM PHYS, V3, P800, DOI 10.1039/b009243f
+   BASCH H, 1969, J CHEM PHYS, V51, P52, DOI 10.1063/1.1671770
+   Beyer T, 1997, J PHYS B-AT MOL OPT, V30, P3431, DOI 10.1088/0953-4075/30/15/016
+   BOWMAN CR, 1965, J CHEM PHYS, V42, P681, DOI 10.1063/1.1695990
+   Brongersma HH, 1969, CHEM PHYS LETT, V3, P437, DOI 10.1016/0009-2614(69)80160-0
+   Burke P.G., 1975, ADV ATOM MOL PHYS, V11, P143, DOI DOI 10.1016/S0065-2199(08)60030-5
+   Curik R, 2002, J PHYS B-AT MOL OPT, V35, P1235, DOI 10.1088/0953-4075/35/5/310
+   DANCE DF, 1973, PROC R SOC LON SER-A, V334, P259, DOI 10.1098/rspa.1973.0091
+   Deutsch H, 2000, J PHYS B-AT MOL OPT, V33, pL865, DOI 10.1088/0953-4075/33/24/102
+   Eden S, 2003, CHEM PHYS LETT, V379, P170, DOI 10.1016/j.cplett.2003.08.029
+   ENGELN R, 1991, CHEM PHYS, V156, P215, DOI 10.1016/0301-0104(91)80090-5
+   FLOEDER K, 1985, J PHYS B-AT MOL OPT, V18, P3347, DOI 10.1088/0022-3700/18/16/019
+   FRIDH C, 1979, J CHEM SOC FARAD T 2, V75, P993, DOI 10.1039/f29797500993
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   Harland P. W., 1972, International Journal of Mass Spectrometry and Ion Physics, V9, DOI 10.1016/0020-7381(72)80052-4
+   Hatano Y, 2000, ADV ATOM MOL OPT PHY, V43, P231
+   Jarvis GK, 1998, J PHYS CHEM A, V102, P3230, DOI 10.1021/jp971902y
+   Jiang YH, 2000, PHYS REV A, V62
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   KOIZUMI H, 1985, J CHEM PHYS, V82, P4856, DOI 10.1063/1.448655
+   LANE NF, 1980, REV MOD PHYS, V52, P29, DOI 10.1103/RevModPhys.52.29
+   Lide D.R., 2000, CRC HDB CHEM PHYS
+   Lifshitz C., 1972, International Journal of Mass Spectrometry and Ion Physics, V10, DOI 10.1016/0020-7381(72)80070-6
+   Longfellow CA, 1997, CHEM PHYS LETT, V271, P33, DOI 10.1016/S0009-2614(97)00445-4
+   Makochekanwa C, 2003, CHEM PHYS LETT, V368, P82, DOI 10.1016/S0009-2614(02)01823-7
+   Morgan WL, 2000, ADV ATOM MOL OPT PHY, V43, P79
+   Nestmann BM, 1998, J PHYS B-AT MOL OPT, V31, P3929, DOI 10.1088/0953-4075/31/17/017
+   NISHIMURA H, 1994, J PHYS B-AT MOL OPT, V27, P2063, DOI 10.1088/0953-4075/27/10/016
+   NISHIMURA H, 1991, J PHYS B-AT MOL OPT, V24, pL363, DOI 10.1088/0953-4075/24/15/002
+   Panajotovic R, 2003, J PHYS B-AT MOL OPT, V36, P1615, DOI 10.1088/0953-4075/36/8/314
+   Panajotovic R, 2004, J CHEM PHYS, V121, P4559, DOI 10.1063/1.1778386
+   Slater J. C., 1968, QUANTUM THEORY MATTE
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1989, J PHYS B-AT MOL OPT, V22, P963, DOI 10.1088/0953-4075/22/6/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   SZE KH, 1991, J ELECTRON SPECTROSC, V57, P117, DOI 10.1016/0368-2048(91)85019-P
+   Szmytkowski C, 2002, J PHYS B-AT MOL OPT, V35, P2613, DOI 10.1088/0953-4075/35/11/319
+   Szmytkowski C, 2002, J PHYS B-AT MOL OPT, V35, P1267, DOI 10.1088/0953-4075/35/5/312
+   Szmytkowski C, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.014701
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   WANG LP, 1991, J ELECTRON SPECTROSC, V56, P341, DOI 10.1016/0368-2048(91)85031-N
+   WINSTEAD C, 1992, J CHEM PHYS, V96, P4246, DOI 10.1063/1.462817
+   Winstead C, 2002, J CHEM PHYS, V116, P1380, DOI 10.1063/1.1429649
+NR 48
+TC 10
+Z9 10
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 1434-6060
+J9 EUR PHYS J D
+JI Eur. Phys. J. D
+PD AUG
+PY 2005
+VL 35
+IS 2
+BP 249
+EP 255
+DI 10.1140/epjd/e2005-00082-0
+PG 7
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 963MD
+UT WOS:000231807500010
+ER
+
+PT J
+AU Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+   Kitajima, M
+   Tanaka, H
+AF Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+   Kitajima, M
+   Tanaka, H
+TI Electron and positron scattering from perfluorocyclobutane (c-C4F8)
+   molecules
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID TOTAL CROSS-SECTIONS; ENERGY; COLLISIONS; OCTAFLUOROCYCLOBUTANE;
+   ATTACHMENT; DETACHMENT; CYCLO-C4F8; C2F6
+AB Total cross sections (TCSs) are experimentally investigated for 0.8-600-eV electron and 0.7-600-eV positron scattering from c-C4F8 molecules using a linear transmission time-of-flight method, and a comparative study of the results is carried out in this paper. Electron-scattering differential cross sections (DCS) measurements carried out for energies 1.5-100 eV are used for a combined TCS and DCS discussion. These DCS results help to offer a better understanding of some of the structures observed in the TCSs. Fingerprints of a low-energy resonance, consistent with large electron attachment cross sections near 0 eV, have been observed below 2 eV where TCSs show a continually rising trend. Another resonance peak at similar to 8.5 eV, attributed to dissociative electron attachment with the production of fragmented ions, and a broader one at 16-40 eV, have also been observed. Except for the pronounced shoulder at similar to 40 eV, there is good qualitative agreement between the TCS result and the integrated cross-section results. Although electron TCSs are found to be generally larger than positron TCSs in the 3-120-eV ranges, these two TCSs, however, show a tendency towards merging above 120 eV.
+C1 Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+   Univ Sofia, Dept Phys, Chiyoda Ku, Tokyo 1028554, Japan.
+   Yamaguchi Univ, Dept Appl Sci, Ube, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+CR BAUMAN RP, 1966, J CHEM PHYS, V45, P496, DOI 10.1063/1.1727596
+   BUTLER JN, 1962, J AM CHEM SOC, V84, P1393, DOI 10.1021/ja00867a012
+   CHRISTODOULIDES AA, 1979, J CHEM PHYS, V70, P1156, DOI 10.1063/1.437595
+   Christophorou LG, 2001, J PHYS CHEM REF DATA, V30, P449, DOI 10.1063/1.1372164
+   CHUTJIAN A, 1987, J PHYS B-AT MOL OPT, V20, P839, DOI 10.1088/0022-3700/20/4/023
+   HARLAND PW, 1974, J CHEM PHYS, V61, P1621, DOI 10.1063/1.1682155
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   ISHII I, 1988, CAN J CHEM, V66, P2104, DOI 10.1139/v88-336
+   Jelisavcic M, 2004, J CHEM PHYS, V121, P5272, DOI 10.1063/1.1782174
+   Jiao CQ, 1998, CHEM PHYS LETT, V297, P121, DOI 10.1016/S0009-2614(98)01107-5
+   KENNERLY RE, 1978, PHYS REV A, V17, P1844, DOI 10.1103/PhysRevA.17.1844
+   KIMURA H, 1995, JPN J APPL PHYS 1, V34, P2114, DOI 10.1143/JJAP.34.2114
+   Kimura M, 2004, J PHYS B-AT MOL OPT, V37, P1461, DOI 10.1088/0953-4075/37/7/007
+   LEMAIRE HP, 1952, J AM CHEM SOC, V74, P5732, DOI 10.1021/ja01142a048
+   MAKOCHEKANWA C, 2004, GASEOUS DIELECTRICS, V10, P181
+   MILLER TM, 1994, INT J MASS SPECTROM, V135, P195, DOI 10.1016/0168-1176(94)03999-2
+   Miller TM, 2004, J CHEM PHYS, V120, P7024, DOI 10.1063/1.1683082
+   NISHIMURA H, 1999, P INT S EL COLL SWAR, P103
+   OKAMOTO M, 1999, P INT S EL MOL COLL, P191
+   Panajotovic R, 2003, J PHYS B-AT MOL OPT, V36, P1615, DOI 10.1088/0953-4075/36/8/314
+   Panajotovic R, 2004, J CHEM PHYS, V121, P4559, DOI 10.1063/1.1778386
+   SAMUKAWA S, 1999, P INT S EL MOL COLL, P76
+   Sanabia JE, 1998, J CHEM PHYS, V108, P389, DOI 10.1063/1.475399
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B ATOM MOL PH, V27, P1452
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   THOMPSON DG, 1966, PROC R SOC LON SER-A, V294, P160, DOI 10.1098/rspa.1966.0201
+   Toyoda H, 1997, JPN J APPL PHYS 1, V36, P3730, DOI 10.1143/JJAP.36.3730
+   Winstead C, 2001, J CHEM PHYS, V114, P7407, DOI 10.1063/1.1361253
+NR 31
+TC 3
+Z9 3
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD MAR
+PY 2005
+VL 71
+IS 3
+AR 032717
+DI 10.1103/PhysRevA.71.032717
+PN A
+PG 6
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 919QH
+UT WOS:000228632100097
+ER
+
+PT J
+AU Makochekanwa, C
+   Kimura, M
+   Sueoka, O
+AF Makochekanwa, C
+   Kimura, M
+   Sueoka, O
+TI Experimental study of total cross sections for positron and electron
+   scattering by SF6 molecules
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID POLYATOMIC-MOLECULES; SULFUR-HEXAFLUORIDE; E-SF6 SCATTERING; ATTACHMENT;
+   TRANSPORT; ENERGIES; RANGE; CF4; CH4
+AB The total cross sections (TCSs) for 0.2-1000 eV positrons and for 0.8-1000 eV electrons colliding with SF6 molecules were measured by a relative method. In the present TCS investigation for electrons, peaks attributed to the a(1g), t(1g), t(2g), and e(g) shape resonances identified earlier were observed clearly at 2.2, 7.0, 12.5, and 30 eV. In positron TCSs, a hump centered at about 2.6 eV was observed, followed by a larger and broader peak at around 50 eV. These TCSs are compared with those for C2F6 molecules, a hexafluoro molecule showing roughly comparative structures at higher energies than 100 eV, a feature that is attributable to the similarity in molecular size and polarizability. Especially for positron scattering, the TCSs are quite similar to each other over all the energy range investigated. Possible rationales for this similarity are provided.
+C1 Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+   Sophia Univ, Dept Phys, Tokyo 1028554, Japan.
+   Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Kyushu Univ, Grad Sch Sci, Fukuoka 8128581, Japan.
+CR CHRISOPHOROU LG, ELECT INTERACTIONS S
+   CHRISTOPHOROU LG, 1997, 1425 NIST, P1
+   Christophorou LG, 2001, INT J MASS SPECTROM, V205, P27, DOI 10.1016/S1387-3806(00)00280-3
+   CHRISTOPHOROU LG, 1990, IEEE T ELECTR INSUL, V25, P55, DOI 10.1109/14.45234
+   DABABNEH MS, 1988, PHYS REV A, V38, P1207, DOI 10.1103/PhysRevA.38.1207
+   DEHMER JL, 1978, J CHEM PHYS, V69, P5205, DOI 10.1063/1.436471
+   FERCH J, 1982, J PHYS B-AT MOL OPT, V15, pL175, DOI 10.1088/0022-3700/15/5/008
+   GIANTURCO FA, 1995, J CHEM PHYS, V102, P5743, DOI 10.1063/1.469305
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HARTE RA, 1981, MOL 3 DIMENSIONS GUI, P1
+   HICKAM WM, 1956, J CHEM PHYS, V25, P642, DOI 10.1063/1.1743019
+   Kasperski G, 1997, Z PHYS D ATOM MOL CL, V42, P187, DOI 10.1007/s004600050353
+   Kauppila WE, 2002, NUCL INSTRUM METH B, V192, P162, DOI 10.1016/S0168-583X(02)00859-5
+   KENNERLY RE, 1979, J CHEM PHYS, V70, P2039, DOI 10.1063/1.437643
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Lide D. R., 2001, CRC HDB CHEM PHYS
+   MAKOCHEKANWA C, IN PRESS GASEOUS DIE, V10
+   PHELPS AV, 1988, J APPL PHYS, V64, P4269, DOI 10.1063/1.341300
+   ROMANYUK HI, 1984, ZH TEKH FIZ, V51, P2051
+   SAKAE T, 1989, J PHYS B-AT MOL OPT, V22, P1385, DOI 10.1088/0953-4075/22/9/011
+   SPENCE D, 1973, J CHEM PHYS, V58, P1800, DOI 10.1063/1.1679435
+   SRIVASTAVA SK, 1976, J CHEM PHYS, V64, P2767, DOI 10.1063/1.432600
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   Sueoka O, 2000, NUCL INSTRUM METH B, V171, P96, DOI 10.1016/S0168-583X(00)00242-1
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   Tanaka H, 2001, ADV ATOM MOL OPT PHY, V44, P1
+   XIOMERITAKIS G, 2003, J MEMBRANE SCI, V215, P225
+   ZECCA A, 1992, CHEM PHYS LETT, V199, P423, DOI 10.1016/0009-2614(92)87020-P
+NR 28
+TC 4
+Z9 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD AUG
+PY 2004
+VL 70
+IS 2
+AR 022702
+DI 10.1103/PhysRevA.70.022702
+PG 8
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 851WO
+UT WOS:000223717400065
+ER
+
+PT J
+AU Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+AF Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+TI Total cross sections for electron and positron scattering from
+   4-fluorobenzaldehyde (C6H4(CHO)F) molecules
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION B-BEAM
+   INTERACTIONS WITH MATERIALS AND ATOMS
+LA English
+DT Article; Proceedings Paper
+CT 12th International Workshop on Positron and Positronium Physics
+   (POSITRON03)
+CY JUL 19-21, 2003
+CL Sandbjerg, DENMARK
+SP Aarhus Univ, Fac Sci, Danish Nat Sci Res Council, Carlsberg Fdn, Knud Hojgaards Fond, Oticon Fonden, Toyota Fonden, Danfysik a/s
+HO Aarhus Univ, Inst Phys & Astron
+DE total cross section; positron scattering; electron scattering; benzene
+   derivatives
+ID BENZENE-DERIVATIVES; STATES
+AB A linear transmission time-of-flight method has been used to measure total cross sections (TCSs) for 0.4-1000 eV electron and 0.2-150 eV positron scattering from 4-fluorobenzaldehyde (C6H4(CHO)F) molecules. The disubstitution of the C6H6 parent molecule's two H atoms by the CHO radical and F atom in the 1- and 4-positions, on the benzene ring, has resulted in an electron TCS curve that shows that the original benzene ring symmetry has been partially preserved; a 1.6 eV peak corresponding to the 1.6 eV E-2(2u) C6H6 resonance peak, a 2.8 eV weak peak in contrast to a minimum for C6H6, a 4.6 eV shoulder corresponding to the 4.93 eV B-2(2g) resonance peak for C6H6, the main resonance peak centered at 8 eV corresponding to the 9.5 eV E-2(1u). main resonance peak for C6H6, and the characteristic change of the TCS slope producing a weak shoulder centered at 50 eV for both molecules. On the contrary the positron TCSs show low energy features that differ greatly from the parent C6H6 molecule; two relatively sharp peaks centered at I and 4 eV in contrast to the almost smooth and structureless 0.7-10 eV C6H6 peak. Nevertheless, these two positron TCSs resemble each other below I eV and above 6 eV. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+RP Kimura, M (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+EM mineo@rikvax.riken.go.jp
+CR CHRISTOP.LG, 1974, J CHEM PHYS, V60, P3779, DOI 10.1063/1.1680819
+   CHRISTOPHOROU LG, 1977, ADV CHEM PHYS, V36, P413, DOI 10.1002/9780470142554.ch6
+   CHRISTOP.LG, 1973, CHEM PHYS LETT, V22, P41, DOI 10.1016/0009-2614(73)80530-5
+   FRAZIER JR, 1978, J CHEM PHYS, V69, P3807, DOI 10.1063/1.437045
+   GAL JF, 1985, J CHEM SOC PERK T 2, P103, DOI 10.1039/p29850000103
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KENNERLY RE, 1978, PHYS REV A, V17, P1844, DOI 10.1103/PhysRevA.17.1844
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Lunt SL, 1999, J PHYS B-AT MOL OPT, V32, P2707, DOI 10.1088/0953-4075/32/11/317
+   Makochekanwa C, 2004, J PHYS B-AT MOL OPT, V37, P1841, DOI 10.1088/0953-4075/37/9/006
+   Makochekanwa C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032707
+   Makochekanwa C, 2003, J CHEM PHYS, V119, P12257, DOI 10.1063/1.1626115
+   MATHUR D, 1975, J PHY B, V9, pL31
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   WENTWORTH WE, 1975, J PHYS CHEM-US, V79, P1161, DOI 10.1021/j100579a005
+NR 16
+TC 1
+Z9 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-583X
+J9 NUCL INSTRUM METH B
+JI Nucl. Instrum. Methods Phys. Res. Sect. B-Beam Interact. Mater. Atoms
+PD JUL
+PY 2004
+VL 221
+BP 76
+EP 83
+DI 10.1016/j.nimb.2004.03.034
+PG 8
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Atomic, Molecular & Chemical; Physics, Nuclear
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics
+GA 828UE
+UT WOS:000221998000014
+ER
+
+PT J
+AU Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+AF Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+TI Experimental investigation of electron and positron interactions with
+   monosubstituted and disubstituted benzene derivatives: fluorobenzene,
+   1,3-difluorobenzene and 1,4-difluorobenzene molecules
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID TOTAL CROSS-SECTIONS; SCATTERING; ATTACHMENT; STATES
+AB Electron and positron scattering from fluorobenzene (C6H5F), 1, 3-difluorobenzene (1,3-C6H4F2) and 1,4-difluorobenzene (1,4-C6H4F2) molecules have been investigated experimentally using the linear transmission time-of-flight method. Total cross sections (TCSs) were measured and determined for 0.8-600 eV and 0.7-600 eV, respectively, for electron and positron scattering from 1, 3-C6H4F2 and 1, 4-C6H4F2 molecules, and 0.4-1000 eV and 0.2-1000 eV, respectively, for electron and positron scattering from C6H5F molecules. A broad resonance structure has been observed in the C6H5F electron TCSs at 0.8-1.6 eV, corresponding to the 1.6 eV E-2(2u) C6H6 resonance structure. This broad structure seems to be made of two structures at 0.8 eV and 1.4 eV, which should mean that the original single 1.6 eV resonance peak in. the CA parent molecule has split into two upon the monosubstitution of its H atom by the F atom. 1,3-C6H4F2 electron TCSs show a rising trend below 2 eV, a feature attributed to the polar nature of these molecules. Above 4 eV for all these three molecules, electron TCSs are greater than positron TCSs by a factor of similar to2 at energies up to 40 eV.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+CR Cho H, 2001, J PHYS B-AT MOL OPT, V34, P1019, DOI 10.1088/0953-4075/34/6/304
+   CHRISTOP.LG, 1974, J CHEM PHYS, V60, P3779, DOI 10.1063/1.1680819
+   CHRISTOPHOROU LG, 1977, ADV CHEM PHYS, V36, P413, DOI 10.1002/9780470142554.ch6
+   CHRISTOP.LG, 1973, CHEM PHYS LETT, V22, P41, DOI 10.1016/0009-2614(73)80530-5
+   FRAZIER JR, 1978, J CHEM PHYS, V69, P3807, DOI 10.1063/1.437045
+   GAL JF, 1985, J CHEM SOC PERK T 2, P103, DOI 10.1039/p29850000103
+   HARTE RA, 1981, MOL 3 DIMENSIONS GUI
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KENNERLY RE, 1978, PHYS REV A, V17, P1844, DOI 10.1103/PhysRevA.17.1844
+   Kimura M, 2001, J CHEM PHYS, V115, P7442, DOI 10.1063/1.1402996
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Lide D.R., 2000, CRC HDB CHEM PHYS
+   Lunt SL, 1999, J PHYS B-AT MOL OPT, V32, P2707, DOI 10.1088/0953-4075/32/11/317
+   Makochekanwa C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032707
+   Makochekanwa C, 2003, J CHEM PHYS, V119, P12257, DOI 10.1063/1.1626115
+   MATHUR D, 1976, J PHYS B-AT MOL OPT, V9, pL31, DOI 10.1088/0022-3700/9/3/003
+   MILHAUD J, 1985, CHEM PHYS LETT, V118, P167, DOI 10.1016/0009-2614(85)85291-X
+   OLTHOFF JK, 1985, J CHEM PHYS, V83, P5627, DOI 10.1063/1.449687
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   WENTWORTH WE, 1975, J PHYS CHEM-US, V79, P1161, DOI 10.1021/j100579a005
+NR 21
+TC 4
+Z9 4
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD MAY 14
+PY 2004
+VL 37
+IS 9
+BP 1841
+EP 1857
+DI 10.1088/0953-4075/37/9/006
+PG 17
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 826MR
+UT WOS:000221833700008
+ER
+
+PT J
+AU Kimura, M
+   Makochekanwa, C
+   Sueoka, O
+AF Kimura, M
+   Makochekanwa, C
+   Sueoka, O
+TI Contrasting low-energy behaviour in total cross sections for electron
+   and positron scattering from benzene molecules
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID SPECTROSCOPY; HCL
+AB Marked differences of a rise and a drop in total cross sections below 1 eV between electron and positron impacts, respectively, are experimentally observed for benzene. The present result for electron scattering becomes flat below I eV, and smoothly connects with that of Gulley et al (1998 J. Phys. B 31 2735), which shows a sharp rise below 500 meV. The present result for positron reaches a peak at around 1.5 eV and drops relatively sharply below this energy. These remarkably opposite characteristics, i.e., a sharp rise or drop with respect to decreasing incident energy, are attributable to the delicate balance between the attractive and repulsive interactions which results in a virtual state for electron impact, hence causing the sharp increase while the near-zero scattering for positron impact causes the sharp drop.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+   Yamaguchi Univ, Res Ctr Plasma Mat Sci, Ube, Yamaguchi 7558611, Japan.
+RP Kimura, M (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+CR ALLAN M, 1989, J ELECTRON SPECTROSC, V48, P219, DOI 10.1016/0368-2048(89)80018-0
+   [Anonymous], 2000, CRC HDB CHEM PHYS
+   Cho H, 2001, J PHYS B-AT MOL OPT, V34, P1019, DOI 10.1088/0953-4075/34/6/304
+   FABRIKANT II, 1984, J PHYS B-AT MOL OPT, V17, P4223, DOI 10.1088/0022-3700/17/20/020
+   Field D, 2001, J PHYS B-AT MOL OPT, V34, P4371, DOI 10.1088/0953-4075/34/22/308
+   Gilbert SJ, 1999, PHYS REV LETT, V82, P5032, DOI 10.1103/PhysRevLett.82.5032
+   Gulley RJ, 1998, J PHYS B-AT MOL OPT, V31, P2735, DOI 10.1088/0953-4075/31/12/010
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   KIMURA M, UNPUB
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   MORRISON MA, 1977, PHYS REV A, V15, P2186, DOI 10.1103/PhysRevA.15.2186
+   NESBET RK, 1977, J PHYS B-AT MOL OPT, V10, pL739, DOI 10.1088/0022-3700/10/18/013
+   SANCHE L, 1973, J CHEM PHYS, V58, P479, DOI 10.1063/1.1679228
+   Sueoka O, 2000, NUCL INSTRUM METH B, V171, P96, DOI 10.1016/S0168-583X(00)00242-1
+   SUEOKA O, 1988, J PHYS B-AT MOL OPT, V21, pL631, DOI 10.1088/0953-4075/21/20/003
+   Trajmar S., 1983, Physics Reports, V97, DOI 10.1016/0370-1573(83)90071-6
+   XU J, 1994, PHYS REV A, V49, pR3151
+NR 18
+TC 17
+Z9 17
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD APR 14
+PY 2004
+VL 37
+IS 7
+BP 1461
+EP 1466
+DI 10.1088/0953-4075/37/7/007
+PG 6
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 815WF
+UT WOS:000221071700034
+ER
+
+PT J
+AU Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+AF Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+TI A comparative study of electron and positron scattering from
+   chlorobenzene (C6H5Cl) and chloropentafluorobenzene (C6F5Cl) molecules
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID CROSS-SECTION MEASUREMENTS; NEGATIVE-ION STATES; PHOTOELECTRON-SPECTRA;
+   ORGANIC-MOLECULES; ATTACHMENT; C6F6; BR; BENZENE; CL
+AB Total cross sections (TCSs) for electron and positron scattering from chlorobezene (C6H5Cl) and chloropentafluorobenzene (C6F5Cl) molecules have been measured by using the linear transmission time-of-flight method. The impact energies are from 0.4 eV to 1000 eV and 0.2 to 1000 eV for positron and electron impacts, respectively, for scattering from C6H5Cl molecules, and 0.8 eV to 600 eV for electron and 0.4 to 600 eV for positron scattering from C6F5Cl molecules. Two resonance structures are observed in the C6H5Cl electron TCSs at 0.8 eV and 2.5 eV, which merge to the single resonance at 1.6 eV of the C6H6 molecule. This is an evidence of the splitting of the degenerate e(2u) orbital of the C6H6 molecule into two upon substitution of an H atom by the Cl atom. C6F5Cl electron TCSs are lower than the positron TCSs at 2-4 eV, otherwise elsewhere, electron TCSs for both C6H5Cl and C6F5Cl are greater than positron TCSs by a factor of 1-2 at energies up to 30 eV. In the comparative studies of TCSs for C6H5Cl with C6H6 and C6F5Cl and C6F6, the magnitude of TCSs is found to be in the order of the molecular size over all energy ranges, except positron TCSs for C6H5Cl and C6H6 below 600 eV. (C) 2003 American Institute of Physics.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Yamaguchi 7558611, Japan.
+CR BIERI G, 1982, J ELECTRON SPECTROSC, V27, P129, DOI 10.1016/0368-2048(82)85059-7
+   BURROW PD, 1987, J CHEM PHYS, V86, P9, DOI 10.1063/1.452598
+   CHRISTOP.LG, 1974, J CHEM PHYS, V60, P3779, DOI 10.1063/1.1680819
+   CHRISTOPHOROU LG, 1995, INT J MASS SPECTROM, V149, P59, DOI 10.1016/0168-1176(95)04229-E
+   DATSKOS PG, 1993, J CHEM PHYS, V98, P7875, DOI 10.1063/1.464595
+   FRAZIER JR, 1978, J CHEM PHYS, V69, P3807, DOI 10.1063/1.437045
+   GANT KS, 1976, J CHEM PHYS, V65, P2977, DOI 10.1063/1.433534
+   Gulley RJ, 1999, J PHYS B-AT MOL OPT, V32, pL405, DOI 10.1088/0953-4075/32/14/109
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   Hikida T, 1998, CHEM PHYS LETT, V292, P638, DOI 10.1016/S0009-2614(98)00715-5
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Jiang YH, 2000, PHYS REV A, V62
+   Kasperski G, 1997, Z PHYS D ATOM MOL CL, V42, P187, DOI 10.1007/s004600050353
+   KENNERLY RE, 1978, PHYS REV A, V17, P1844, DOI 10.1103/PhysRevA.17.1844
+   Kimura M, 2001, J CHEM PHYS, V115, P7442, DOI 10.1063/1.1402996
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   LEACH S, 1986, J ELECTRON SPECTROSC, V41, P427, DOI 10.1016/0368-2048(86)85020-4
+   Lunt SL, 1999, J PHYS B-AT MOL OPT, V32, P2707, DOI 10.1088/0953-4075/32/11/317
+   MA C, 1989, REV SCI INSTRUM, V60, P3661, DOI 10.1063/1.1140472
+   Makochekanwa C, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032707
+   MARAWAR RW, 1988, J CHEM PHYS, V88, P2853, DOI 10.1063/1.453972
+   MATHUR D, 1975, J PHY B, V9, pL31
+   MOHRAZ M, 1980, J ELECTRON SPECTROSC, V19, P429, DOI 10.1016/0368-2048(80)80063-6
+   OLTHOFF JK, 1985, J CHEM PHYS, V83, P5627, DOI 10.1063/1.449687
+   SHIMAMORI H, 1995, CHEM PHYS LETT, V232, P115, DOI 10.1016/0009-2614(94)01306-G
+   SHIMAMORI H, 1993, J CHEM PHYS, V99, P7787, DOI 10.1063/1.465656
+   SHIMAMORI H, 1994, CHEM PHYS LETT, V227, P609, DOI 10.1016/0009-2614(94)00867-1
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   TRUDELL BC, 1979, CAN J CHEM, V57, P2256, DOI 10.1139/v79-361
+   WAN HX, 1991, J CHEM PHYS, V94, P1868, DOI 10.1063/1.459960
+   WEIK F, 1995, J CHEM PHYS, V103, P1406, DOI 10.1063/1.469764
+NR 31
+TC 8
+Z9 8
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD DEC 15
+PY 2003
+VL 119
+IS 23
+BP 12257
+EP 12263
+DI 10.1063/1.1626115
+PG 7
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 750AW
+UT WOS:000186970000023
+ER
+
+PT J
+AU Sueoka, O
+   Makochekanwa, C
+   Miyamoto, S
+AF Sueoka, O
+   Makochekanwa, C
+   Miyamoto, S
+TI Reemission intensity and energy spectrum measurements of slow positron
+   beams for various moderators
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+DE slow positron beam; reemission intensity; moderator; scanning
+   transmission microscope (STM); atomic force microscope (AFM); energy
+   spectrum
+ID CROSS-SECTIONS; WORK FUNCTIONS; METALS; FOIL; EFFICIENCY; TRANSITION
+AB Various characteristics of moderators for slow positron beam experiments using a Na-22 source in non-ultra-high vacuum (UHV) were studied. Relative reemission intensities of slow positrons for various moderators: tungsten (W) annealed at various temperatures, rubbed by the polishing material SiC powder, etched chemically, covered by evaporation films of Cu metals, iridium (Ir) films and synthesized diamond films were relatively measured. Measurements of the beam energy spectrum of reemitted positrons just after annealing and after a long time in use are presented. By measurement of the energy spectrum, the value of the positron work function for W was found to be 2.1 +/- 0.3 eV. Intensity and spectrum studies for the ribbon, plate and mesh type W moderators were also carried out. An Ir moderator shows 20% stronger intensity than a W-ribbon moderator, but is not convenient for practical use. A W-mesh moderator is the best choice for gas scattering experiments in non-UHV. The scanning transmission microscope (STM) and atomic force microscope apparatus (AFM) were used to observe the surface state of the W moderator for slow positrons. The relationship between the surface state and the reemission intensity was analyzed in the atomic and sub-micron scales.
+C1 Yamaguchi Univ, Fac Engn, Dept Appl Sci, Ube, Yamaguchi 7558611, Japan.
+RP Sueoka, O (reprint author), Yamaguchi Univ, Fac Engn, Dept Appl Sci, Tokiwadai 2-16-1, Ube, Yamaguchi 7558611, Japan.
+CR Amarendra G, 1996, J APPL PHYS, V80, P4660, DOI 10.1063/1.363449
+   BELING CD, 1987, NATO ASI SER B-PHYS, V169, P175
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   COSTELLO DG, 1971, PHYS REV B, V5, P1433
+   EASTMAN DE, 1970, PHYS REV B, V2, P1, DOI 10.1103/PhysRevB.2.1
+   FUJIMURA K, 1993, THESIS YAMAGUCHI U Y
+   HODGES CH, 1973, SOLID STATE COMMUN, V12, P1153, DOI 10.1016/0038-1098(73)90133-6
+   HOPKINS BJ, 1963, P PHYS SOC LOND, V81, P590, DOI 10.1088/0370-1328/81/3/129
+   ITO Y, 1991, NUCL INSTRUM METH A, V305, P269, DOI 10.1016/0168-9002(91)90546-3
+   JIN B, 1994, JPN J APPL PHYS 2, V33, pL1493
+   CHEN DM, 1985, PHYS REV B, V31, P4123, DOI 10.1103/PhysRevB.31.4123
+   MILLS AP, 1980, APPL PHYS LETT, V37, P667, DOI 10.1063/1.92030
+   MILLS AP, 1986, APPL PHYS LETT, V49, P1121, DOI 10.1063/1.97441
+   MORI S, 1994, J PHYS B-AT MOL OPT, V27, P4349, DOI 10.1088/0953-4075/27/18/028
+   NAGASHIMA Y, 2002, JPN J APPL PHYS, V39, P5356
+   NIEMINEN R, 1974, SOLID STATE COMMUN, V15, P403, DOI 10.1016/0038-1098(74)90786-8
+   NIEMINEN RM, 1976, SOLID STATE COMMUN, V18, P1115, DOI 10.1016/0038-1098(76)91254-0
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1982, JPN J APPL PHYS 1, V21, P702, DOI 10.1143/JJAP.21.702
+   ZAFAR N, 1988, APPL PHYS A-MATER, V47, P409, DOI 10.1007/BF00615506
+NR 20
+TC 1
+Z9 1
+PU INST PURE APPLIED PHYSICS
+PI TOKYO
+PA TOYOKAIJI BLDG NO. 12, 6-9-6 SHINBASHI, MINATO-KU, TOKYO, 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PD SEP
+PY 2003
+VL 42
+IS 9A
+BP 5799
+EP 5806
+DI 10.1143/JJAP.42.5799
+PG 8
+WC Physics, Applied
+SC Physics
+GA 725WL
+UT WOS:000185565300086
+ER
+
+PT J
+AU Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+AF Makochekanwa, C
+   Sueoka, O
+   Kimura, M
+TI Comparative study of electron and positron scattering from benzene
+   (C6H6) and hexafluorobenzene (C6F6) molecules
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID CROSS-SECTION MEASUREMENTS; NEGATIVE-ION STATES; SLOW-ELECTRONS;
+   ATTACHMENT; TRANSMISSION; SPECTROSCOPY; HYDROCARBONS; RESONANCES;
+   IMPACT; C2F6
+AB Total cross sections (TCSs) for electron and positron scattering from hexafluorobezene (C6F6) molecules have been measured by the linear transmission time-of-flight method and are presented. In addition, new systematic measurements have been also carried out for benzene (C6H6)-molecule targets. The impact energies are 0.4-1000 eV and 0.2-1000 eV for electron and positron scattering, respectively. For the case of C6F6, two resonance peaks have been observed in C6F6 electron TCSs: one at 0.8 eV attributed to the resonant capture of the incident electron into the pi(*) orbital, with the formation of a transient C6F6- anion, and the broad one in the range above 7 eV showing weak spikes at 14 and 30 eV, of which the 14-eV one has been attributed to another negative-ion resonance formation with decomposition either through the reemission of the electron or through dissociative electron attachment leading to F-, C5F3-, and C6F5- fragmented ions. In contrast, the positron TCSs show no conspicuous strong structure but 2 to 3 weak shoulders overlaid on a broad (6-100)-eV peak arising from a series of electronic excitations, positronium formations, and ionizations. A close comparison with those for C6H6 sheds much light on better understanding of the underlying dynamics.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Yamaguchi 7558611, Japan.
+CR ALLAN M, 1989, J ELECTRON SPECTROSC, V48, P219, DOI 10.1016/0368-2048(89)80018-0
+   ALMLOF J, 1983, J CHEM PHYS, V79, P2284
+   AZRIA R, 1975, J CHEM PHYS, V62, P573, DOI 10.1063/1.430455
+   BURROW PD, 1987, J CHEM PHYS, V86, P9, DOI 10.1063/1.452598
+   CHALTRON M, 1985, REP PROG PHYS, V48, P737
+   Cho H, 2001, J PHYS B-AT MOL OPT, V34, P1019, DOI 10.1088/0953-4075/34/6/304
+   CHRISTOPHOROU LG, 1995, INT J MASS SPECTROM, V149, P59, DOI 10.1016/0168-1176(95)04229-E
+   DATSKOS PG, 1993, J CHEM PHYS, V98, P7875, DOI 10.1063/1.464595
+   FENZLAFF M, 1989, CHEM PHYS, V136, P443, DOI 10.1016/0301-0104(89)80066-7
+   FRAZIER JR, 1978, J CHEM PHYS, V69, P3807, DOI 10.1063/1.437045
+   GANT KS, 1976, J CHEM PHYS, V65, P2977, DOI 10.1063/1.433534
+   Gianturco FA, 1998, J CHEM PHYS, V108, P6144, DOI 10.1063/1.476024
+   Gulley RJ, 1998, J PHYS B-AT MOL OPT, V31, P2735, DOI 10.1088/0953-4075/31/12/010
+   Gulley RJ, 1999, J PHYS B-AT MOL OPT, V32, pL405, DOI 10.1088/0953-4075/32/14/109
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Jiang YH, 2000, PHYS REV A, V62
+   Karwasz GP, 1999, PHYS REV A, V59, P1341, DOI 10.1103/PhysRevA.59.1341
+   Kasperski G, 1997, Z PHYS D ATOM MOL CL, V42, P187, DOI 10.1007/s004600050353
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   KIMURA M, IN PRESS PHYS REV A
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   LEACH S, 1986, J ELECTRON SPECTROSC, V41, P427, DOI 10.1016/0368-2048(86)85020-4
+   MARAWAR RW, 1988, J CHEM PHYS, V88, P2853, DOI 10.1063/1.453972
+   MATHUR D, 1976, J PHYS B-AT MOL OPT, V9, pL31, DOI 10.1088/0022-3700/9/3/003
+   Mozejko P, 1996, CHEM PHYS LETT, V257, P309, DOI 10.1016/0009-2614(96)00557-X
+   Sanabia JE, 1998, J CHEM PHYS, V108, P389, DOI 10.1063/1.475399
+   SANCHE L, 1973, J CHEM PHYS, V58, P479, DOI 10.1063/1.1679228
+   SHIMAMORI H, 1994, CHEM PHYS LETT, V227, P609, DOI 10.1016/0009-2614(94)00867-1
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2000, NUCL INSTRUM METH B, V171, P96, DOI 10.1016/S0168-583X(00)00242-1
+   SUEOKA O, 1988, J PHYS B-AT MOL OPT, V21, pL631, DOI 10.1088/0953-4075/21/20/003
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   TACHIKAWA M, IN PRESS J CHEM PHYS
+   TAKAYANAGI K, 1967, J PHYS SOC JPN, V21, P837
+   WEIK F, 1995, J CHEM PHYS, V103, P1406, DOI 10.1063/1.469764
+   WINSTEAD C, 1999, B AM PHYS SOC, V44
+NR 37
+TC 22
+Z9 23
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD SEP
+PY 2003
+VL 68
+IS 3
+AR 032707
+DI 10.1103/PhysRevA.68.032707
+PG 8
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 728KQ
+UT WOS:000185716700055
+ER
+
+PT J
+AU Makochekanwa, C
+   Kawate, H
+   Sueoka, O
+   Kimura, M
+AF Makochekanwa, C
+   Kawate, H
+   Sueoka, O
+   Kimura, M
+TI Total cross section measurement for electron scattering from chlorine
+   molecules in the energy region from 0.8 to 600 eV
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID CL-2; ATTACHMENT; IONIZATION; COLLISIONS; POSITRONS; N-2
+AB Total scattering cross sections for chlorine molecules by electron impact are determined experimentally for impact energies from 0.8 to 600 eV. Elastic scattering cross sections are also determined theoretically. The results above 23 eV are the first rigorous report on these processes. The present results are compared, for the energy dependence and magnitude, with the previous measurements in the energy region they overlap. Well separated peaks are observed around 7.8 and 12 eV, with the one at 7.8 eV being attributed to dissociative electron attachment, while that at 12 eV is speculated to be due to ion-pair formation through direct dissociation. The present elastic cross sections are found to show a similar shape to the total cross section, although the magnitude is smaller by from a few per cent below 30 eV to a factor of two at 100 eV.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+RP Makochekanwa, C (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+CR Christophorou LG, 1999, J PHYS CHEM REF DATA, V28, P131, DOI 10.1063/1.556036
+   Cooper GD, 1999, J CHEM PHYS, V110, P682, DOI 10.1063/1.478124
+   Fisk JB, 1937, PHYS REV, V51, P25, DOI 10.1103/PhysRev.51.25
+   GOTE M, 1995, J PHYS B-AT MOL OPT, V28, P3957, DOI 10.1088/0953-4075/28/17/029
+   Graedel T.E., 1994, CHEM ATMOSPHARE, DOI Heidelberg
+   Gulley RJ, 1998, J PHYS B-AT MOL OPT, V31, P2971, DOI 10.1088/0953-4075/31/13/015
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KIMURA M, 2001, ADV ATOMIC MOL OPTIC, V44
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   KUREPA MV, 1978, J PHYS B-AT MOL OPT, V11, P3719, DOI 10.1088/0022-3700/11/21/017
+   LIDE DR, CRC HDB CHEM PHYSICS
+   MARIC D, 1993, J PHOTOCH PHOTOBIO A, V70, P205, DOI 10.1016/1010-6030(93)85045-A
+   RESCIGNO TN, 1994, PHYS REV A, V50, P1382, DOI 10.1103/PhysRevA.50.1382
+   SPENCE D, 1974, PHYS REV A, V10, P1045, DOI 10.1103/PhysRevA.10.1045
+   STEVIE FA, 1981, J CHEM PHYS, V74, P5106, DOI 10.1063/1.441718
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   Sueoka O, 2002, NUCL INSTRUM METH B, V192, P206, DOI 10.1016/S0168-583X(02)00870-4
+   TAM WC, 1978, J CHEM PHYS, V68, P5626, DOI 10.1063/1.435693
+NR 18
+TC 5
+Z9 5
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD MAY 14
+PY 2003
+VL 36
+IS 9
+BP 1673
+EP 1680
+DI 10.1088/0953-4075/36/9/301
+PG 8
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 698RN
+UT WOS:000184012700002
+ER
+
+PT J
+AU Makochekanwa, C
+   Kawate, H
+   Sueoka, O
+   Kimura, M
+   Kitajima, M
+   Hoshino, M
+   Tanaka, H
+AF Makochekanwa, C
+   Kawate, H
+   Sueoka, O
+   Kimura, M
+   Kitajima, M
+   Hoshino, M
+   Tanaka, H
+TI Total and elastic cross-sections of electron and positron scattering
+   from C3H4 molecules (allene and propyne)
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID SIMPLE HYDROCARBON MOLECULES; IMPACT; ENERGY; SPECTROSCOPY; EXCITATION;
+   ALKYNES
+AB Total cross-sections (TCSs) for electron and positron scattering from C3H4 isomers (allene and propyne) were measured using the linear transmission method in the range of 0.8-600 eV for electrons and 0.7-600 eV for positrons. Elastic cross-sections for electron scattering were also measured by a crossed-beam experiment in the range of 2-100 eV. Sharp resonance-like peaks were observed in the electron TCSs for propyne around 3.6 and 8 eV, and 2.5 and 11 eV for allene. The positron TCSs for these molecules were found to be smaller and much smoother than the electron TCSs. Clear differences in resonance positions and magnitudes between the two isomers can be viewed as an isomer effect. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+   Sophia Univ, Dept Phys, Tokyo 1028854, Japan.
+RP Kimura, M (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+CR CHRISOPHOROU LG, 1984, ELECT MOL INTERACTIO, V2
+   CHRISOPHOROU LG, 1984, ELECT MOL INTERACTIO, V1
+   DANCE DF, 1974, J CHEM SOC FARAD T 2, V70, P1426, DOI 10.1039/f29747001426
+   Deutsch H, 2000, J PHYS B-AT MOL OPT, V33, pL865, DOI 10.1088/0953-4075/33/24/102
+   FLICKER WM, 1978, J CHEM PHYS, V69, P3311, DOI 10.1063/1.436984
+   FLOEDER K, 1985, J PHYS B-AT MOL OPT, V18, P3347, DOI 10.1088/0022-3700/18/16/019
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Kimura M, 1998, PHYS REV LETT, V80, P3936, DOI 10.1103/PhysRevLett.80.3936
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Lide D. R., 2000, CRC HDB CHEM PHYS, P9
+   MORI S, 1994, J PHYS B-AT MOL OPT, V27, P4349, DOI 10.1088/0953-4075/27/18/028
+   MOSHER OA, 1975, J CHEM PHYS, V62, P2600, DOI 10.1063/1.430843
+   Nakano Y, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.032714
+   NISHIMURA H, 1994, J PHYS B-AT MOL OPT, V27, P2063, DOI 10.1088/0953-4075/27/10/016
+   NISHIMURA H, 1991, J PHYS B-AT MOL OPT, V24, pL363, DOI 10.1088/0953-4075/24/15/002
+   SRIVASTAVA SK, 1975, PHYS REV, V34, P138
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Szmytkowski C, 2002, J PHYS B-AT MOL OPT, V35, P2613, DOI 10.1088/0953-4075/35/11/319
+   Szmytkowski C, 2002, J PHYS B-AT MOL OPT, V35, P3781, DOI 10.1088/0953-4075/35/17/313
+   Tanaka H, 1998, PHYS REV A, V57, P1798, DOI 10.1103/PhysRevA.57.1798
+   VANVEEN EH, 1976, CHEM PHYS LETT, V38, P493, DOI 10.1016/0009-2614(76)80024-3
+NR 22
+TC 20
+Z9 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD JAN 14
+PY 2003
+VL 368
+IS 1-2
+BP 82
+EP 86
+DI 10.1016/S0009-2614(02)01823-7
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA 634BJ
+UT WOS:000180319900013
+ER
+
+PT J
+AU Sueoka, O
+   Makochekanwa, C
+   Kawate, H
+AF Sueoka, O
+   Makochekanwa, C
+   Kawate, H
+TI Positron and electron total cross sections for collisions with C2F6 and
+   C2H3F3 molecules
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION B-BEAM
+   INTERACTIONS WITH MATERIALS AND ATOMS
+LA English
+DT Article
+DE positron scattering; electron scattering; positronium (Ps) formation;
+   total cross section; ethane-related molecule
+ID SCATTERING; EXCITATION; H-2; HE; IMPACT; C3F8; CF4; AR
+AB The experimental total cross sections (TCSs) data for 0.7-600 eV positrons and 0.8-600 eV electrons colliding with hexafluoroethane (C2F6) and 1,1,1-trifluoroethane (C2H3F3) molecules are presented. These data are compared with the data of ethane (C2H6) measured previously. On the positron TCS data below 5 eV, the TCS curves are quite different from each other. For energies 7-25 eV, the data for these three kinds of molecules are comparable, though above 60 eV the C2F6 TCS data are roughly twice those of C2H6. The C2H3F3 TCS data have magnitudes almost midway between those of C2F6 and C2H6. The TCS curves for electrons show the same variation with energy as the positron data above 60 eV. In the low energy region, a few weak resonant peaks are observed in the C2F6 and C2H3F3 electron TCS curves. On the electron TCS data in the range 5.5-14 eV, the C2H6 data are lower than the C2H6 data. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Yamaguchi Univ, Fac Engn, Inst Appl Sci, Ube, Yamaguchi 7558611, Japan.
+RP Sueoka, O (reprint author), Yamaguchi Univ, Fac Engn, Inst Appl Sci, Tokiwadai 2-16-1, Ube, Yamaguchi 7558611, Japan.
+CR Christophorou LG, 1998, J PHYS CHEM REF DATA, V27, P1
+   Christophorou LG, 1996, J PHYS CHEM REF DATA, V25, P1341
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   DIANA LM, 1986, PHYS REV A, V34, P2731, DOI 10.1103/PhysRevA.34.2731
+   FORNARI LS, 1983, PHYS REV LETT, V51, P2276, DOI 10.1103/PhysRevLett.51.2276
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KIMURA M, 2001, ADV AT MOL OPT PHYS, V44
+   MORI S, 1994, J PHYS B-AT MOL OPT, V27, P4349, DOI 10.1088/0953-4075/27/18/028
+   Sanabia JE, 1998, J CHEM PHYS, V108, P389, DOI 10.1063/1.475399
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 2000, NUCL INSTRUM METH B, V171, P96, DOI 10.1016/S0168-583X(00)00242-1
+   SUEOKA O, 1997, 20 ICPEAC VIENN, V1
+   Szmytkowski C, 2000, J PHYS B-AT MOL OPT, V33, P15, DOI 10.1088/0953-4075/33/1/302
+   TAKAGI T, 1994, J PHYS B-AT MOL OPT, V27, P5389, DOI 10.1088/0953-4075/27/21/026
+   TANAKA H, 1988, J PHYS B-AT MOL OPT, V21, P1255, DOI 10.1088/0953-4075/21/7/019
+   Tanaka H, 1999, PHYS REV A, V59, P2006, DOI 10.1103/PhysRevA.59.2006
+   Zhou S, 1997, PHYS REV A, V55, P361, DOI 10.1103/PhysRevA.55.361
+NR 19
+TC 27
+Z9 27
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-583X
+J9 NUCL INSTRUM METH B
+JI Nucl. Instrum. Methods Phys. Res. Sect. B-Beam Interact. Mater. Atoms
+PD MAY
+PY 2002
+VL 192
+IS 1-2
+BP 206
+EP 214
+DI 10.1016/S0168-583X(02)00870-4
+PG 9
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Atomic, Molecular & Chemical; Physics, Nuclear
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics
+GA 569VX
+UT WOS:000176624100033
+ER
+
+PT J
+AU Kimura, M
+   Sueoka, O
+   Makochekanwa, C
+   Kawate, H
+   Kawada, M
+AF Kimura, M
+   Sueoka, O
+   Makochekanwa, C
+   Kawate, H
+   Kawada, M
+TI A comparative study of electron and positron scattering from molecules.
+   IV. CH3Cl, CH3Br, and CH3I molecules
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID CROSS-SECTION MEASUREMENTS; SIGMA-STAR ORBITALS; NEGATIVE-IONS;
+   CHLOROMETHANES; ATTACHMENT; STATES; IMPACT; MONOCHLOROALKANES;
+   TRANSMISSION; SPECTROSCOPY
+AB An experimental study of electron and positron scattering from CH3Cl, CH3Br, and CH3I molecules has been carried out, and total cross sections (TCSs) for both projectiles were determined. Several strong structures due to resonances in the TCSs have been observed for electron impact, while weak but not negligible structures have also been seen for positron impact. A strong variation for the dominant resonance peak seen at around 10 eV was found to depend on a type of halogen atoms, and a detailed study of this dependence on molecular species has been performed to understand the origin and nature of these resonances. The continuum multiple-scattering method has been employed for the analysis of experimental results in addition to the evaluation of the elastic cross section. For larger halogen atoms, TCSs tend to possess larger magnitudes at energies above 100 eV than for smaller halogen atoms suggesting that the halogen atoms in fact dominate the dynamics, and their magnitudes increase in the order of CH3I>CH3Br>CH3Cl. A comparative study of CH4 was also performed to provide insight on the effects of molecular geometrical structure and electronic state. (C) 2001 American Institute of Physics.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Yamaguchi 7558611, Japan.
+RP Kimura, M (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Yamaguchi 7558611, Japan.
+CR BENITEZ A, 1988, J CHEM PHYS, V88, P6691, DOI 10.1063/1.454413
+   BURROW PD, 1982, J CHEM PHYS, V77, P2699, DOI 10.1063/1.444103
+   Christophorou L. G., 1984, ELECT MOL INTERACTIO, V2
+   Christophorou L. G., 1984, ELECT MOL INTERACTIO, V1
+   *CRC, 2000, CRC HDB CHEM PHYS
+   DATSKOS PG, 1992, J CHEM PHYS, V97, P9031, DOI 10.1063/1.463329
+   GARRETT WR, 1980, J CHEM PHYS, V73, P5721, DOI 10.1063/1.440052
+   GUERRA M, 1991, J CHEM PHYS, V94, P484, DOI 10.1063/1.460364
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   Karwasz GP, 1999, PHYS REV A, V59, P1341, DOI 10.1103/PhysRevA.59.1341
+   Kawada MK, 2000, CHEM PHYS LETT, V330, P34, DOI 10.1016/S0009-2614(00)01095-2
+   Kim YH, 1999, PHYS REV A, V60, P3633, DOI 10.1103/PhysRevA.60.3633
+   Kimura K., 1981, HDB HE I PHOTOELECTR
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Kimura M, 2001, ADV ATOM MOL OPT PHY, V44, P33
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   KRZYSZTOFOWICZ AM, 1995, J PHYS B-AT MOL OPT, V28, P1593, DOI 10.1088/0953-4075/28/8/019
+   KRZYSZTOFOWICZ AM, 1994, CHEM PHYS LETT, V219, P86, DOI 10.1016/0009-2614(94)00063-8
+   MODELLI A, 1992, J CHEM PHYS, V96, P2061, DOI 10.1063/1.462058
+   PEARL DM, 1994, J CHEM PHYS, V101, P2940, DOI 10.1063/1.467606
+   ROBIN MB, 1985, CAN J CHEM, V63, P2032, DOI 10.1139/v85-336
+   Shi X, 1996, J CHEM PHYS, V104, P1855, DOI 10.1063/1.470982
+   STOCKDAL.JA, 1974, J CHEM PHYS, V60, P4279, DOI 10.1063/1.1680900
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SZMYTKOWSKI C, 1993, CHEM PHYS LETT, V209, P474, DOI 10.1016/0009-2614(93)80120-E
+   Tanaka H, 1999, PHYS REV A, V59, P2006, DOI 10.1103/PhysRevA.59.2006
+   Vallance C, 1997, J PHYS B-AT MOL OPT, V30, P2465, DOI 10.1088/0953-4075/30/10/019
+   ZECCA A, 1992, PHYS REV A, V45, P2777, DOI 10.1103/PhysRevA.45.2777
+NR 31
+TC 18
+Z9 19
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD OCT 22
+PY 2001
+VL 115
+IS 16
+BP 7442
+EP 7449
+DI 10.1063/1.1402996
+PG 8
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 484YT
+UT WOS:000171719200014
+ER
+
+PT J
+AU Kawada, MK
+   Sueoka, O
+   Kimura, M
+AF Kawada, MK
+   Sueoka, O
+   Kimura, M
+TI Electron and positron scattering from CF3I molecules below 600 eV: a
+   comparison with CF3H
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID CROSS-SECTION MEASUREMENTS; ENERGY; EXCITATION; IMPACT; SPECTROSCOPY;
+   COLLISIONS; CO2; CH4; CF4
+AB The total cross-sections (TCSs) for electron and positron scattering from CF,I molecules have been Studied experimentally. A theoretical analysis based on the continuum multiple-scattering (CMS) method has been performed to understand the origin of resonances and the elastic cross-sections. The present TCS for electron scattering is found to be larger by about 20% than that of T. Underwood-Lemons. D.C. Winkler, J.A. Tossel, J.H. Moore [J. Chem. Phys. 100 (1994) 9117] although the general shape agrees well in the entire energy studied. The difference in the cross-sections for CF3I and CF3H is explained by the sizes and the dipole moments of these molecules. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+RP Kimura, M (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+CR BERAN JA, 1969, J PHYS CHEM-US, V73, P3866, DOI 10.1021/j100845a050
+   Christophorou L. G., 1984, ELECT MOL INTERACTIO, V2
+   Christophorou L. G., 1984, ELECT MOL INTERACTIO, V1
+   GEDANKEN A, 1987, CHEM PHYS LETT, V137, P462, DOI 10.1016/0009-2614(87)80234-8
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   HWANG HJ, 1992, J PHYS CHEM-US, V96, P8728, DOI 10.1021/j100201a014
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   OSTER T, 1993, J CHEM PHYS, V99, P5141, DOI 10.1063/1.466015
+   ROBIN MB, 1985, CAN J CHEM, V63, P2032, DOI 10.1139/v85-336
+   SAMUKAWA S, 1999, P INT S EL MOL COLL, P76
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 2000, NUCL INSTRUM METHODS, V171, P99
+   Sueoka O, 1998, CHEM PHYS LETT, V288, P124, DOI 10.1016/S0009-2614(98)00247-4
+   TAATJES CA, 1993, J CHEM PHYS, V98, P4355, DOI 10.1063/1.464997
+   Tanaka H, 1999, PHYS REV A, V59, P2006, DOI 10.1103/PhysRevA.59.2006
+   UNDERWOODLEMONS T, 1994, J CHEM PHYS, V100, P9117, DOI 10.1063/1.466665
+   YATES BW, 1986, J CHEM PHYS, V85, P3840, DOI 10.1063/1.450904
+   Ying JF, 1996, PHYS REV A, V53, P1476, DOI 10.1103/PhysRevA.53.1476
+NR 21
+TC 10
+Z9 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD NOV 3
+PY 2000
+VL 330
+IS 1-2
+BP 34
+EP 40
+DI 10.1016/S0009-2614(00)01095-2
+PG 7
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA 372TA
+UT WOS:000165249100006
+ER
+
+PT J
+AU Sueoka, O
+   Kawada, MK
+   Kimura, M
+AF Sueoka, O
+   Kawada, MK
+   Kimura, M
+TI Total and positronium formation cross-sections in polyatomic molecules
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION B-BEAM
+   INTERACTIONS WITH MATERIALS AND ATOMS
+LA English
+DT Article; Proceedings Paper
+CT 10th Workshop on Low-Energy Positron and Positronium Physics (Positron
+   Workshop 99)
+CY JUL 28-31, 1999
+CL TSUKUBA, JAPAN
+HO HIGH ENERGY ACCELERATOR RES ORG
+DE electron scattering; positron scattering; positronium formation; total
+   cross-section; vibrational excitation
+ID ENERGY POSITRONS; ELECTRON; CH4
+AB Total cross-section (TCS) studies of positron and electron impacts in polyatomic molecules are presented experimentally and theoretically. The polarization interaction in the positron and electron scattering processes by polyatomic molecules is discussed. Positronium (Ps) formation cross-sections in many polyatomic molecules are also measured at 2 eV above the corresponding Ps formation thresholds. And the results are analyzed based on the physical properties of the positron-molecule interaction systematically. Comparative studies of the vibrational excitation cross-sections by positron and electron impacts are also briefly described. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Yamaguchi Univ, Inst Appl Sci, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+RP Sueoka, O (reprint author), Yamaguchi Univ, Inst Appl Sci, Fac Engn, Ube 2-16-1, Ube, Yamaguchi 7558611, Japan.
+CR CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, P323, DOI 10.1088/0022-3700/16/2/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KAUPPILA WE, 1982, CAN J PHYS, V60, P471
+   Kawada MK, 2000, J CHEM PHYS, V112, P7057, DOI 10.1063/1.481302
+   Kimura M, 2000, ADV CHEM PHYS, V111, P537
+   Kimura M, 1998, PHYS REV LETT, V80, P3936, DOI 10.1103/PhysRevLett.80.3936
+   KWAN CK, 1997, ICPEAC
+   SUEOKA O, UNPUB PHYS REV LETT
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1987, J PHYS B-AT MOL OPT, V20, P3237, DOI 10.1088/0022-3700/20/13/028
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   WALTERS HRJ, 1999, 10 WORKSH LOW EN POS, P13
+NR 12
+TC 21
+Z9 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-583X
+J9 NUCL INSTRUM METH B
+JI Nucl. Instrum. Methods Phys. Res. Sect. B-Beam Interact. Mater. Atoms
+PD AUG
+PY 2000
+VL 171
+IS 1-2
+BP 96
+EP 102
+DI 10.1016/S0168-583X(00)00242-1
+PG 7
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Atomic, Molecular & Chemical; Physics, Nuclear
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics
+GA 353UQ
+UT WOS:000089294200009
+ER
+
+PT J
+AU Kawada, MK
+   Sueoka, O
+   Kimura, M
+AF Kawada, MK
+   Sueoka, O
+   Kimura, M
+TI Vibrational excitation of carbon oxysulfide molecules by positron and
+   electron impacts
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID CROSS-SECTIONS; CO2
+AB Vibrational excitation to the symmetric stretching, bending and asymmetric stretching modes of OCS molecules by electron and positron impacts is investigated for impact energy from 2 to 6 eV theoretically and experimentally. Because the OCS molecule is a polar molecule, interactions that induce the vibrational excitation for the three modes are primarily long-range permanent dipole interactions. And hence, all excitation cross sections for three modes thus obtained are found to be similar in size both for electron and positron impacts, although for positron, the magnitude is generally slightly smaller by 25% than that of electron. This situation is markedly different from that of the CO2, where for the symmetric stretching mode, the difference between positron and electron impacts is a few orders of magnitude at 5 eV. Therefore, a comparative discussion of CO2 is useful for further understanding. (C) 2000 American Institute of Physics. [S0021-9606(00)00816-3].
+C1 Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+RP Kawada, MK (reprint author), Yamaguchi Univ, Grad Sch Sci & Engn, Ube, Yamaguchi 7558611, Japan.
+CR DILL D, 1974, J CHEM PHYS, V61, P692, DOI 10.1063/1.1681947
+   KATAYAMA Y, 1987, J PHYS B-AT MOL OPT, V20, P1645, DOI 10.1088/0022-3700/20/7/030
+   Kimura M, 1998, PHYS REV LETT, V80, P3936, DOI 10.1103/PhysRevLett.80.3936
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   MORI S, 1994, J PHYS B-AT MOL OPT, V27, P4349, DOI 10.1088/0953-4075/27/18/028
+   Przybyla DA, 1999, PHYS REV A, V60, P359, DOI 10.1103/PhysRevA.60.359
+   Sueoka O, 1999, J CHEM PHYS, V111, P245, DOI 10.1063/1.479270
+   VANDISHOECK EF, 1998, MOL ASTROPHYSICS STA
+NR 9
+TC 10
+Z9 10
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD APR 22
+PY 2000
+VL 112
+IS 16
+BP 7057
+EP 7061
+DI 10.1063/1.481302
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 303WU
+UT WOS:000086450300016
+ER
+
+PT J
+AU Tanimori, S
+   Ishida, K
+   Sueoka, O
+   Shimamura, S
+AF Tanimori, S
+   Ishida, K
+   Sueoka, O
+   Shimamura, S
+TI Monte Carlo simulation of breaking of gold nanowires
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE Au; nanowire; Monte Carlo simulation; mechanical property; plastic
+   deformation; yield; breaking
+ID CONDUCTANCE; CONTACTS
+AB We have simulated the breaking process of Au nanowires using the Monte Carlo method. Nanowires for the simulation consist of atomic layers perpendicular to the [001] axis cut out from the fee lattice. We have stretched the nanowires and have followed relaxation of atomic arrangements during elongation of the wires at 300 and 600 K. The Morse potential has been used as an interatomic potential. The simulations show that the elongation of nanowires proceeds in alternating elastic and yielding stages up to the last moment of breaking. Each elastic stage is the elongation due to an increase in interlayer spacings, and each yielding stage corresponds to an abrupt slipping event of several atoms on the {111} plane. Each slipping event causes an increase in the number of layers perpendicular to the wire axis. The nanowires break at a smaller strain at 600 K than at 300 K because of thermal atomic motions in the neck of the wire.
+C1 Yamaguchi Univ, Venture Business Lab, Ube, Yamaguchi 7558611, Japan.
+   Tokuyama Coll Technol, Tokuyama, Yamaguchi 7458585, Japan.
+   Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 7558611, Japan.
+RP Tanimori, S (reprint author), Yamaguchi Univ, Venture Business Lab, 2-16-1 Tokiwadai, Ube, Yamaguchi 7558611, Japan.
+CR AGRAIT N, 1995, PHYS REV LETT, V74, P3995, DOI 10.1103/PhysRevLett.74.3995
+   Brandes E. A., 1992, SMITHELLS METALS REF, P2
+   GIRIFALCO LA, 1959, PHYS REV, V114, P687, DOI 10.1103/PhysRev.114.687
+   Kittel C., 1996, INTRO SOLID STATE PH, P23
+   Kizuka T, 1997, PHYS REV B, V55, pR7398
+   Kondo Y, 1997, PHYS REV LETT, V79, P3455, DOI 10.1103/PhysRevLett.79.3455
+   LANDMAN U, 1990, SCIENCE, V248, P454, DOI 10.1126/science.248.4954.454
+   OLESEN L, 1994, PHYS REV LETT, V72, P2251, DOI 10.1103/PhysRevLett.72.2251
+   PASCUAL JI, 1995, SCIENCE, V267, P1793, DOI 10.1126/science.267.5205.1793
+   Rubio G, 1996, PHYS REV LETT, V76, P2302, DOI 10.1103/PhysRevLett.76.2302
+   Stalder A, 1996, APPL PHYS LETT, V68, P637, DOI 10.1063/1.116493
+   TODOROV TN, 1996, PHYS REV B, V54, pR1423
+NR 12
+TC 10
+Z9 10
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO, 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD NOV
+PY 1999
+VL 68
+IS 11
+BP 3556
+EP 3561
+DI 10.1143/JPSJ.68.3556
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 259HU
+UT WOS:000083889100017
+ER
+
+PT J
+AU Sueoka, O
+   Hamada, A
+   Kimura, M
+   Tanaka, H
+   Kitajima, M
+AF Sueoka, O
+   Hamada, A
+   Kimura, M
+   Tanaka, H
+   Kitajima, M
+TI Total and elastic cross-sections for electron and positron scattering
+   from OCS molecule: A comparative study with CO2
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID CS2
+AB We have carried out a joint experimental and theoretical study on determination of total and elastic cross-sections for electron and positron impact on OCS molecules. For total cross-section measurements, impact energies are from 0.7 to 600 eV for electron collisions and 0.8 to 600 eV for positron collisions. For elastic scattering, only electron impact has been studied from 1.5 to 100 eV. Our present measurements for total cross-sections for electron impact are found to agree extremely well with the measurements of Dababneh et al. (1982) in the entire energy region studied. The results by Szmytkowski et al. (1994) are consistently larger by 20% above 2 eV, and, in particular, are larger by a factor of two in the 1.2 eV resonance region. The present theory for elastic scattering is in good agreement with the present measurement, and has been employed for understanding the dynamics. The total cross-section recommended here is probably the best in accuracy as of today although further studies would be helpful. (C) 1999 American Institute of Physics. [S0021-9606(99)01725-0].
+C1 Yamaguchi Univ, Grad Sch Engn, Ube, Yamaguchi 755, Japan.
+   Sophia Univ, Dept Phys, Tokyo 102, Japan.
+RP Sueoka, O (reprint author), Yamaguchi Univ, Grad Sch Engn, Ube, Yamaguchi 755, Japan.
+CR BRINKMAN RT, 1979, J PHYS E, V14, P24
+   DABABNEH MS, 1985, 14 ICPEAC PAL ALT CA, P230
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KIMURA M, IN PRESS ADV CHEM PH
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   LYNCH MG, 1979, J CHEM PHYS, V71, P4249, DOI 10.1063/1.438232
+   SOHN W, 1987, J PHYS B-AT MOL OPT, V20, P3217, DOI 10.1088/0022-3700/20/13/027
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SZMYTKOWSKI C, 1989, J PHYS B-AT MOL OPT, V22, P525, DOI 10.1088/0953-4075/22/3/015
+   TANAKA H, 1988, J PHYS B-AT MOL OPT, V21, P1255, DOI 10.1088/0953-4075/21/7/019
+   ZECCA A, 1995, J PHYS B-AT MOL OPT, V28, P477, DOI 10.1088/0953-4075/28/3/018
+NR 14
+TC 11
+Z9 11
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+   USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JUL 1
+PY 1999
+VL 111
+IS 1
+BP 245
+EP 252
+DI 10.1063/1.479270
+PG 8
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA 208MQ
+UT WOS:000080995500031
+ER
+
+PT J
+AU Tanaka, H
+   Tachibana, Y
+   Kitajima, M
+   Sueoka, O
+   Takaki, H
+   Hamada, A
+   Kimura, M
+AF Tanaka, H
+   Tachibana, Y
+   Kitajima, M
+   Sueoka, O
+   Takaki, H
+   Hamada, A
+   Kimura, M
+TI Total cross sections of electron and positron collisions with C3F8 and
+   C3H8 molecules and differential elastic and vibrational excitation cross
+   sections by electron impact on these molecules
+SO PHYSICAL REVIEW A
+LA English
+DT Article
+ID SCATTERING; CF4; GEH4; CO2
+AB Total cross sections for electron (e(-)) and positron (e(+)) scattering from C3H8 and C3F8 have been measured from 0.8 to 600 eV and 0.7 to 600 eV, respectively. We have also investigated differential elastic cross sections by electron impact from 2.0 to 200 eV, and compared them with the present theoretical results. For e(-) scattering from C3H8, the cross sections are found to be larger by a factor of 2 than those of e(+) scattering below 20-30 eV. They show a large peak at 8 eV due to a shape resonance and a shoulderlike structure in the region of 20-40 eV. For e(-) scattering from C3F8, the cross sections are again larger by at least a factor of 2 than those of e(+) scattering below 50 eV, and they have two peaks at 4 and 8 eV, followed by a broad peak in the region of 20-40 eV. Some small structures overlie the broad hump. Both e(-) and e(+) impact cross sections for C3H8 and C3F8 quickly approach each other beyond 200 eV. From the differential cross section study, we have been able to provide more detailed information on shape resonances, and also we have carried out some analysis of resonances in vibrational excitation results. In general, the total and integrated elastic cross sections are in good qualitative and quantitative agreement. [S1050-2947(99)04403-0].
+C1 Sophia Univ, Dept Phys, Tokyo 102, Japan.
+   Yamaguchi Univ, Sch Med Sci, Ube, Yamaguchi 755, Japan.
+   Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 755, Japan.
+   Inst Space & Astronaut Sci, Sagamihara, Kanagawa 229, Japan.
+RP Tanaka, H (reprint author), Sophia Univ, Dept Phys, Chiyoda Ku, Tokyo 102, Japan.
+CR ANDRICK D, 1971, J PHYS PT B ATOM M P, V4, P389, DOI 10.1088/0022-3700/4/3/010
+   BALUJA KL, 1992, EUROPHYS LETT, V17, P139, DOI 10.1209/0295-5075/17/2/010
+   BOESTEN L, 1992, J PHYS B-AT MOL OPT, V25, P1607, DOI 10.1088/0953-4075/25/7/029
+   BRINKMAN RT, 1979, J PHYS E, V14, P24
+   Christophorou LG, 1997, J PHYS CHEM REF DATA, V26, P1
+   Christophorou LG, 1996, J PHYS CHEM REF DATA, V25, P1341
+   CUBRIC C, UNPUB
+   DILLON MA, 1993, J PHYS B-AT MOL OPT, V26, P3147, DOI 10.1088/0953-4075/26/18/021
+   Frisch M. J., 1992, GAUSSIAN 92 REVISION
+   Frolov AM, 1997, PHYS REV A, V55, P2662, DOI 10.1103/PhysRevA.55.2662
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   HUO WM, 1988, PHYS REV A, V38, P3303, DOI 10.1103/PhysRevA.38.3303
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   MACK HG, 1991, J PHYS CHEM-US, V95, P3136, DOI 10.1021/j100161a034
+   SCHMIDT MW, 1993, J COMPUT CHEM, V14, P1347, DOI 10.1002/jcc.540141112
+   Shimanouchi T, 1972, 39 NSRDSNBS, V1
+   SPYROU MB, 1983, J CHEM PHYS, V81, P4906
+   SRIVASTAVA SK, 1975, J CHEM PHYS, V63, P2659, DOI 10.1063/1.431659
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Sueoka O, 1998, CHEM PHYS LETT, V288, P124, DOI 10.1016/S0009-2614(98)00247-4
+   TAKAGI T, 1994, J PHYS B-AT MOL OPT, V27, P5389, DOI 10.1088/0953-4075/27/21/026
+   TANAKA H, 1988, J PHYS B-AT MOL OPT, V21, P1255, DOI 10.1088/0953-4075/21/7/019
+   TANAKA H, 1995, AIP C P, V360, P279
+   WINSTEAD C, 1993, J CHEM PHYS, V98, P1105, DOI 10.1063/1.464334
+NR 27
+TC 36
+Z9 36
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1050-2947
+J9 PHYS REV A
+JI Phys. Rev. A
+PD MAR
+PY 1999
+VL 59
+IS 3
+BP 2006
+EP 2015
+DI 10.1103/PhysRevA.59.2006
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA 177WC
+UT WOS:000079233200042
+ER
+
+PT J
+AU Sueoka, O
+   Takaki, H
+   Hamada, A
+   Sato, H
+   Kimura, M
+AF Sueoka, O
+   Takaki, H
+   Hamada, A
+   Sato, H
+   Kimura, M
+TI Total cross-sections of electron and positron collisions with CHF3
+   molecules: a comparative study with CH4 and CF4
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID SCATTERING
+AB Total cross-sections for electron (e(-)) and positron (e(+)) scattering from CHF? have been measured from 0.7 to 600 eV and compared with the theoretical elastic cross-section. For e(-) scattering, the cross-sections me found to be larger by 30% than the data compiled by Christophorou et al, [L.G. Christophorou. J.K. Olthoff, M.V.V.S. Rao, J. Phys. Chem. Ref. Data 26 (1997) 1] in the entire energy range measured, but their energy dependence is in good agreement, For e(+) scattering, the cross-sections are smaller by at least a factor of two than those for electron scattering below 20-30 eV. but quickly approach those of electron impact beyond 100 eV. A comparative study with CH4 and CF4 reported in our previous papers provides detailed information on the dynamics. (C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 755, Japan.
+   Yamaguchi Univ, Dept Phys, Yamaguchi 753, Japan.
+   Ochanomizu Univ, Dept Informat Sci, Tokyo 112, Japan.
+   Yamaguchi Univ, Sch Med Sci, Ube, Yamaguchi 755, Japan.
+   Inst Space & Astronaut Sci, Kanagawa, 229, Japan.
+RP Sueoka, O (reprint author), Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 755, Japan.
+CR Christophorou LG, 1997, J PHYS CHEM REF DATA, V26, P1
+   Christophorou LG, 1996, J PHYS CHEM REF DATA, V25, P1341
+   FERCH J, 1985, J PHYS B-AT MOL OPT, V18, pL445, DOI 10.1088/0022-3700/18/13/008
+   HAMADA A, 1994, J PHYS B-AT MOL OPT, V27, P5055, DOI 10.1088/0953-4075/27/20/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KAUPPILA WE, 1989, ADV ATOM MOL OPT PHY, V26, P1
+   KIMURA M, 1998, IN PRESS PHYS REV A
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   MANN A, 1992, J PHYS B-AT MOL OPT, V25, P533, DOI 10.1088/0953-4075/25/2/020
+   SCHMIDT MW, 1993, J COMPUT CHEM, V14, P1347, DOI 10.1002/jcc.540141112
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   Tanaka H, 1997, PHYS REV A, V56, pR3338
+NR 14
+TC 20
+Z9 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD MAY 15
+PY 1998
+VL 288
+IS 1
+BP 124
+EP 130
+DI 10.1016/S0009-2614(98)00247-4
+PG 7
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA ZP148
+UT WOS:000073721800020
+ER
+
+PT J
+AU Kimura, M
+   Takekawa, M
+   Itikawa, Y
+   Takaki, H
+   Sueoka, O
+AF Kimura, M
+   Takekawa, M
+   Itikawa, Y
+   Takaki, H
+   Sueoka, O
+TI Mode dependence in vibrational excitation of a CO2 molecule by electron
+   and positron impacts
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID CROSS-SECTIONS; SCATTERING; COLLISIONS
+AB We have found theoretically, for the first time, that vibrational excitations of a CO2 molecule by electron (e(-)) and positron (e(+)) impacts are strongly dependent on the charge of the projectile at impact energy below 6 eV. For the symmetric-stretching mode, the excitation cross section of e(-) impact is larger by 2 to 3 orders of magnitude than that of e(+) impact, while for bending and asymmetric-stretching modes the magnitude of both cross sections for e(-) and e(+) impacts is nearly comparable. These results are qualitatively confirmed experimentally, and are interpreted as the difference of interactions and incident e(-) or e(+) wave functions.
+C1 Yamaguchi Univ, Sch Med Sci, Ube, Yamaguchi 755, Japan.
+   Inst Space & Astronaut Sci, Sagamihara, Kanagawa 229, Japan.
+   Yamaguchi Univ, Fac Engn, Ube, Yamaguchi 755, Japan.
+RP Kimura, M (reprint author), Yamaguchi Univ, Sch Med Sci, Ube, Yamaguchi 755, Japan.
+CR Gianturco FA, 1997, PHYS REV A, V55, P1937, DOI 10.1103/PhysRevA.55.1937
+   Gianturco FA, 1997, PHYS REV A, V55, P3491, DOI 10.1103/PhysRevA.55.3491
+   Itikawa Y, 1997, INT REV PHYS CHEM, V16, P155, DOI 10.1080/014423597230253
+   KATAYAMA Y, 1987, J PHYS B-AT MOL OPT, V20, P1645, DOI 10.1088/0022-3700/20/7/030
+   KAUPPILA WE, 1986, POSITRON ELECT GAS S
+   KAUPPILA WE, 1989, ADV ATOM MOL OPT PHY, V26, P1
+   Kimura M., 1991, Comments on Atomic and Molecular Physics, V26
+   Kimura M, 1997, J CHEM PHYS, V107, P6616, DOI 10.1063/1.474903
+   LANE NF, 1980, REV MOD PHYS, V52, P29, DOI 10.1103/RevModPhys.52.29
+   MORI S, 1994, J PHYS B-AT MOL OPT, V27, P4349, DOI 10.1088/0953-4075/27/18/028
+   NAKAMURA Y, 1995, AUST J PHYS, V48, P357
+   SCHMIDT MW, 1993, J COMPUT CHEM, V14, P1347, DOI 10.1002/jcc.540141112
+   SEAGEL JM, 1979, THESIS BOSTON U
+   SHIMANOUCHI T, 1972, NBS NAT STANDARDS RE, V39
+   SUEOKA O, IN PRESS
+   TAKAYANAGI K, 1967, J PHYS SOC JPN, V23, P1424
+   Takekawa M, 1996, J PHYS B-AT MOL OPT, V29, P4227, DOI 10.1088/0953-4075/29/18/018
+   TAKEKAWA M, IN PRESS
+NR 18
+TC 32
+Z9 32
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD MAY 4
+PY 1998
+VL 80
+IS 18
+BP 3936
+EP 3939
+DI 10.1103/PhysRevLett.80.3936
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA ZK808
+UT WOS:000073365800012
+ER
+
+PT J
+AU Kimura, M
+   Sueoka, O
+   Hamada, A
+   Takekawa, M
+   Itikawa, Y
+   Tanaka, H
+   Boesten, L
+AF Kimura, M
+   Sueoka, O
+   Hamada, A
+   Takekawa, M
+   Itikawa, Y
+   Tanaka, H
+   Boesten, L
+TI Remarks on total and elastic cross sections for electron and positron
+   scattering from CO2
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID CLOSE-COUPLING CALCULATIONS; CARBON-DIOXIDE; MOLECULES; INTERMEDIATE;
+   COLLISIONS; EXCHANGE; STATES
+AB There remain discrepancies in the determination of the total and elastic cross sections for electron and positron collisions with carbon dioxide at impact energies from 0.3 to 100 eV. We have carried out a joint experimental and theoretical study in an attempt to resolve the differences. Our measurements for total cross sections for electron impact agree extremely well with those of Hoffman et al. [Phys. Rev. A 25, 1393 (1982)] above 2 eV, while those for positron impact agree to better than 15% in magnitude, and are in an excellent accord for the energy-dependence. The present observations, along with an analysis using a knowledge of the dominant inelastic processes, lead us to conclude that the total cross section determined in earlier studies is a considerable underestimate at intermediate energies, where inelastic processes are not negligible. The analysis provides a rationale for understanding the discrepancies. Furthermore, we present that the total cross section by positron impact below 2 eV becomes larger by 20% than that of electron impact, and provide a rationale as well as implication to a possible application. (C) 1997 American Institute of Physics. [S0021-9606(97)01841-2].
+C1 INST SPACE & ASTRONAUT SCI,SAGAMIHARA,KANAGAWA 229,JAPAN.
+   YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+   YAMAGUCHI UNIV,DEPT PHYS,YOSHIDA,YAMAGUCHI 753,JAPAN.
+   SOPHIA UNIV,DEPT PHYS,TOKYO 102,JAPAN.
+RP Kimura, M (reprint author), YAMAGUCHI UNIV,SCH MED SCI,UBE,YAMAGUCHI 755,JAPAN.
+CR BOTELHO LF, 1984, J PHYS B-AT MOL OPT, V17, pL641, DOI 10.1088/0022-3700/17/19/004
+   BUCKMAN SJ, 1987, J PHYS B-AT MOL OPT, V20, P5175, DOI 10.1088/0022-3700/20/19/027
+   CHAN WF, 1993, CHEM PHYS, V178, P401, DOI 10.1016/0301-0104(93)85079-N
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, P323, DOI 10.1088/0022-3700/16/2/019
+   CHRISTOPHOROU LG, 1984, ELECTRON MOL INTERAC, V1
+   Gianturco FA, 1996, J PHYS B-AT MOL OPT, V29, P3955, DOI 10.1088/0953-4075/29/17/017
+   Gianturco FA, 1996, J PHYS B-AT MOL OPT, V29, P3933, DOI 10.1088/0953-4075/29/17/016
+   HAKE RD, 1967, PHYS REV, V158, P70, DOI 10.1103/PhysRev.158.70
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   HORBATSCH M, 1983, J PHYS B-AT MOL OPT, V16, P4059, DOI 10.1088/0022-3700/16/21/026
+   IGA I, 1984, J PHYS B-AT MOL OPT, V17, pL185, DOI 10.1088/0022-3700/17/6/006
+   ITIKAWA Y, 1971, B I SPACE AERON SCI, V7, P64
+   KANIK I, 1989, J PHYS B-AT MOL OPT, V22, P1225, DOI 10.1088/0953-4075/22/8/015
+   KLUMP KN, 1978, J ELECTRON SPECTROSC, V14, P215, DOI 10.1016/0368-2048(78)85069-5
+   KWAN CK, 1983, PHYS REV A, V27, P1328, DOI 10.1103/PhysRevA.27.1328
+   LANE NF, 1980, REV MOD PHYS, V52, P29, DOI 10.1103/RevModPhys.52.29
+   LUCCHESE RR, 1982, PHYS REV A, V25, P1963, DOI 10.1103/PhysRevA.25.1963
+   MORRISON MA, 1977, PHYS REV A, V15, P2186, DOI 10.1103/PhysRevA.15.2186
+   NAKAMURA Y, 1995, AUST J PHYS, V48, P357
+   ONDA K, 1979, J PHYS B-AT MOL OPT, V12, P283, DOI 10.1088/0022-3700/12/2/018
+   REGISTER DF, 1980, J PHYS B-AT MOL OPT, V13, P1651, DOI 10.1088/0022-3700/13/8/019
+   Shimanouchi T., 1972, NATL STAND REF DATA, V39
+   SHYN TW, 1978, PHYS REV A, V17, P1855, DOI 10.1103/PhysRevA.17.1855
+   SPIELFIEDEL A, 1992, J CHEM PHYS, V97, P8382, DOI 10.1063/1.463408
+   STRAKELJAHN G, IN PRESS J PHYS B
+   SUEOKA O, 1993, J PHYS SOC JPN, V62, P2669, DOI 10.1143/JPSJ.62.2669
+   SUEOKA O, 1987, J PHYS B-AT MOL OPT, V20, P3237, DOI 10.1088/0022-3700/20/13/028
+   SZMYTKOWSKI C, 1987, J PHYS B-AT MOL OPT, V20, P5817, DOI 10.1088/0022-3700/20/21/027
+   TAKAYANAGI K, 1967, J PHYS SOC JPN, V21, P837
+   Takekawa M, 1996, J PHYS B-AT MOL OPT, V29, P4227, DOI 10.1088/0953-4075/29/18/018
+   TAKEKAWA M, 1996, THESIS TOKYO U
+   TANAKA H, IN PRESS PHYS REV A
+   THIRUMALAI D, 1981, J CHEM PHYS, V74, P6792, DOI 10.1063/1.441086
+NR 33
+TC 18
+Z9 18
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD NOV 1
+PY 1997
+VL 107
+IS 17
+BP 6616
+EP 6620
+DI 10.1063/1.474903
+PG 5
+WC Physics, Atomic, Molecular & Chemical
+SC Physics
+GA YC706
+UT WOS:A1997YC70600012
+ER
+
+PT J
+AU Kurisu, H
+   Yamamoto, S
+   Sueoka, O
+   Matsuura, M
+AF Kurisu, H
+   Yamamoto, S
+   Sueoka, O
+   Matsuura, M
+TI Preparation and quantum confinement effect of PbI2/CdI2 superlattices
+SO SOLID STATE COMMUNICATIONS
+LA English
+DT Article
+DE quantum well; epitaxy; optical properties; electronic states
+ID HOT WALL TECHNIQUE; THIN-FILMS; CRYSTALS; EXCITON; PBI2
+AB PbI2/CdI2 superlattices (multi-quantum well) have been grown by a hot wall epitaxy. Characteristic peaks due to a long period of superlattices appear on X-ray diffraction patterns. From the analysis of these patterns, thicknesses of both PbI2 and CdI2 layers of prepared samples are identified. Optical measurement shows that exciton transition energies in PbI2/CdI2 superlattices shift to the higher energy side with the decrease in thickness of PbI2 layer. The analysis of this shift by the variational calculation of exciton and the observation of strong exciton peaks indicate PbI2/CdI2 superlattices belong to the type I superlattice. Copyright (C) 1996 Elsevier Science Ltd
+C1 YAMAGUCHI UNIV,FAC ENGN,DEPT APPL SCI,UBE,YAMAGUCHI 755,JAPAN.
+RP Kurisu, H (reprint author), YAMAGUCHI UNIV,FAC ENGN,DEPT ADV MAT SCI & ENGN,UBE,YAMAGUCHI 755,JAPAN.
+CR BRAHMS S, 1965, PHYS LETT, V19, P272, DOI 10.1016/0031-9163(65)90981-9
+   DANDREA A, 1990, PHYS REV B, V41, P1413, DOI 10.1103/PhysRevB.41.1413
+   DUGAN AE, 1967, J PHYS CHEM SOLIDS, V28, P971, DOI 10.1016/0022-3697(67)90213-2
+   FUJIYASU H, 1984, SURF SCI, V142, P579, DOI 10.1016/0039-6028(84)90364-9
+   GOTO T, 1982, J PHYS SOC JPN, V51, P3, DOI 10.1143/JPSJ.51.3
+   GOTO T, 1987, J PHYS SOC JPN, V56, P3710, DOI 10.1143/JPSJ.56.3710
+   JIN BY, 1989, ADV PHYS, V38, P189, DOI 10.1080/00018738900101112
+   LUCOVSKY G, 1976, SOLID STATE COMMUN, V18, P811, DOI 10.1016/0038-1098(76)90211-8
+   MATSUURA M, 1988, J PHY SOC JPN, V53, P338
+   NAGAMUNE Y, 1987, APPL PHYS LETT, V50, P1337, DOI 10.1063/1.97899
+   TAKEYAMA S, 1992, P INT NAT C PHYS SEM, P1553
+   TAKEYAMA S, 1990, J APPL PHYS, V68, P2735, DOI 10.1063/1.346449
+   THANH LC, 1975, J PHYS CHEM SOLIDS, V36, P699, DOI 10.1016/0022-3697(75)90090-6
+   WATANABE K, 1994, J PHYS SOC JPN, V63, P4213, DOI 10.1143/JPSJ.63.4213
+   WATANABE K, 1990, SOLID STATE COMMUN, V74, P37, DOI 10.1016/0038-1098(90)90205-P
+   WYCKOFF RWG, 1964, CRYST STRUCT, V1, P266
+NR 16
+TC 0
+Z9 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0038-1098
+J9 SOLID STATE COMMUN
+JI Solid State Commun.
+PD AUG
+PY 1996
+VL 99
+IS 8
+BP 541
+EP 545
+DI 10.1016/0038-1098(96)00352-3
+PG 5
+WC Physics, Condensed Matter
+SC Physics
+GA UY608
+UT WOS:A1996UY60800004
+ER
+
+PT J
+AU SUEOKA, O
+   JIN, B
+   HAMADA, A
+AF SUEOKA, O
+   JIN, B
+   HAMADA, A
+TI THRESHOLD BEHAVIOR OF IONIZATION AND EXCITATION CROSS-SECTIONS OF HE AND
+   AR BY POSITRON-IMPACT
+SO APPLIED SURFACE SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 6th International Workshop on Slow-Positron Beam Techniques for Solids
+   and Surfaces
+CY MAY 18-22, 1994
+CL MAKUHARI, JAPAN
+SP JAPAN INST MET, JAPAN SOC ANAL CHEM, JAPAN SOC APPL PHYS, MAT RES SOC JAPAN
+ID HELIUM; ATOMS
+AB Ionization cross section, Q(ion), measurements by positron impact on He and Ar atoms have been performed using a time-of-flight method, and analyzed with interest in their threshold behavior. The experimental data of this work and our previous ionization cross section data are compared with those of Knudsen et al. and other data. The exponent (n) of the excess energy, E-E(ion), is 1.0-1.3, which differs from the theoretical value n = 2.651. The threshold behavior of excitation cross sections, Q(ex), by positron impact on the same atoms, is also discussed.
+C1 YAMAGUCHI UNIV,FAC SCI,DEPT PHYS,YAMAGUCHI 753,JAPAN.
+RP SUEOKA, O (reprint author), YAMAGUCHI UNIV,FAC ENGN,INST APPL SCI,UBE,YAMAGUCHI 755,JAPAN.
+CR COLEMAN PG, 1982, CAN J PHYS, V60, P584
+   COLEMAN PG, 1980, PHYS REV LETT, V45, P2017, DOI 10.1103/PhysRevLett.45.2017
+   CVEJANOV.S, 1974, J PHYS B-AT MOL OPT, V7, P1841, DOI 10.1088/0022-3700/7/14/008
+   FROMME D, 1986, PHYS REV LETT, V57, P3031, DOI 10.1103/PhysRevLett.57.3031
+   GRUJIC P, 1982, J PHYS B-AT MOL OPT, V15, P1913, DOI 10.1088/0022-3700/15/12/015
+   KLAR H, 1981, J PHYS B-AT MOL OPT, V14, P4165, DOI 10.1088/0022-3700/14/21/027
+   KNUDSEN H, 1990, J PHYS B-AT MOL OPT, V23, P3955, DOI 10.1088/0953-4075/23/21/026
+   MARCHAND P, 1969, PHYS REV, V180, P123, DOI 10.1103/PhysRev.180.123
+   MORI S, 1994, IN PRESS J PHYS B, V27
+   MORI S, 1984, AT COL RES JPN, V10, P8
+   SUEOKA O, 1982, J PHYS SOC JPN, V51, P3757, DOI 10.1143/JPSJ.51.3757
+   VARRACCHIO EF, 1990, J PHYS B-AT MOL OPT, V23, pL779, DOI 10.1088/0953-4075/23/22/008
+   WANNIER GH, 1953, PHYS REV, V90, P817, DOI 10.1103/PhysRev.90.817
+   WETZEL RC, 1987, PHYS REV A, V35, P559, DOI 10.1103/PhysRevA.35.559
+NR 14
+TC 4
+Z9 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-4332
+J9 APPL SURF SCI
+JI Appl. Surf. Sci.
+PD JAN
+PY 1995
+VL 85
+IS 1-4
+BP 59
+EP 63
+DI 10.1016/0169-4332(94)00309-2
+PG 5
+WC Chemistry, Physical; Materials Science, Coatings & Films; Physics,
+   Applied; Physics, Condensed Matter
+SC Chemistry; Materials Science; Physics
+GA QD950
+UT WOS:A1995QD95000012
+ER
+
+PT J
+AU HAMADA, A
+   SUEOKA, O
+AF HAMADA, A
+   SUEOKA, O
+TI TOTAL CROSS-SECTION MEASUREMENTS FOR POSITRONS AND ELECTRONS COLLIDING
+   WITH MOLECULES - CCL4
+SO APPLIED SURFACE SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 6th International Workshop on Slow-Positron Beam Techniques for Solids
+   and Surfaces
+CY MAY 18-22, 1994
+CL MAKUHARI, JAPAN
+SP JAPAN INST MET, JAPAN SOC ANAL CHEM, JAPAN SOC APPL PHYS, MAT RES SOC JAPAN
+ID LOW-ENERGY ELECTRONS; SCATTERING; CF4; CCL2F2; N-2; CO2
+AB Total cross sections for 0.7-400 eV positrons colliding with CCl4 have been first measured by a time-of-flight (TOF) experiment. The measured data were corrected for the effect of forward scattering. The electron scattering measurements have also been performed for comparison with the positron scattering data. The electron results were compared with other experimental data and theoretical results.
+C1 YAMAGUCHI UNIV,FAC ENGN,INST APPL SCI,UBE,YAMAGUCHI 755,JAPAN.
+RP HAMADA, A (reprint author), YAMAGUCHI UNIV,FAC SCI,DEPT PHYS,YAMAGUCHI 753,JAPAN.
+CR DAIMON H, 1983, J PHYS SOC JPN, V52, P84, DOI 10.1143/JPSJ.52.84
+   HAMADA A, 1994, IN PRESS J PHYS B, V27
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   JONES RK, 1986, J CHEM PHYS, V84, P813, DOI 10.1063/1.450580
+   KATAYAMA Y, 1987, J PHYS B-AT MOL OPT, V20, P1645, DOI 10.1088/0022-3700/20/7/030
+   POLICASTRO AP, COMMUNICATION
+   SUEOKA O, 1990, AT COLL RES JPN, V16, P21
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SZMYTKOWSKI C, 1992, CHEM PHYS LETT, V199, P191, DOI 10.1016/0009-2614(92)80068-M
+   ZECCA A, 1992, PHYS REV A, V46, P3877, DOI 10.1103/PhysRevA.46.3877
+NR 12
+TC 11
+Z9 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-4332
+J9 APPL SURF SCI
+JI Appl. Surf. Sci.
+PD JAN
+PY 1995
+VL 85
+IS 1-4
+BP 64
+EP 68
+DI 10.1016/0169-4332(94)00310-6
+PG 5
+WC Chemistry, Physical; Materials Science, Coatings & Films; Physics,
+   Applied; Physics, Condensed Matter
+SC Chemistry; Materials Science; Physics
+GA QD950
+UT WOS:A1995QD95000013
+ER
+
+PT J
+AU KANAZAWA, I
+   ITO, Y
+   HIROSE, M
+   ABE, H
+   SUEOKA, O
+   TAKAMURA, S
+   ICHIMIYA, A
+   MURATA, Y
+   KOMORI, F
+   FUKUTANI, K
+   OKADA, S
+   HATTORI, T
+AF KANAZAWA, I
+   ITO, Y
+   HIROSE, M
+   ABE, H
+   SUEOKA, O
+   TAKAMURA, S
+   ICHIMIYA, A
+   MURATA, Y
+   KOMORI, F
+   FUKUTANI, K
+   OKADA, S
+   HATTORI, T
+TI PRODUCTION OF AN INTENSE SLOW POSITRON BEAM BY USING AN ELECTRON LINAC
+   AND ITS APPLICATIONS
+SO APPLIED SURFACE SCIENCE
+LA English
+DT Article; Proceedings Paper
+CT 6th International Workshop on Slow-Positron Beam Techniques for Solids
+   and Surfaces
+CY MAY 18-22, 1994
+CL MAKUHARI, JAPAN
+SP JAPAN INST MET, JAPAN SOC ANAL CHEM, JAPAN SOC APPL PHYS, MAT RES SOC JAPAN
+AB An image of reemitted positrons has been produced in a proto-type positron transmission-type reemission microscope by using the electrostatic intense slow positron beam from an electron LINAC. RHEPD experiments have then been performed on H-terminated Si(111).
+C1 UNIV TOKYO,NUCL SCI & TECHNOL RES CTR,TOKAI,IBARAKI 31911,JAPAN.
+   TOKAI UNIV,FAC ENGN,HIRATSUKA,KANAGAWA 25912,JAPAN.
+   YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+   JAPAN ATOM ENERGY RES INST,TOKAI ESTAB,DEPT PHYS,TOKAI,IBARAKI 31911,JAPAN.
+   NAGOYA UNIV,FAC ENGN,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+   UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+   JAPAN ATOM ERERGY RES INST,TAKASAKI RADIAT CHEM RES ESTAB,GUNMA 37012,JAPAN.
+   MUSASHI INST TECHNOL,FAC ENGN,TOKYO 158,JAPAN.
+RP KANAZAWA, I (reprint author), TOKYO GAKUGEI UNIV,DEPT PHYS,KOGANEI,TOKYO 184,JAPAN.
+CR AKAHANE T, 1990, APPL PHYS A-MATER, V51, P146, DOI 10.1007/BF00324279
+   BRANDES GR, 1988, PHYS REV LETT, V61, P492, DOI 10.1103/PhysRevLett.61.492
+   GRAFF G, 1984, APPL PHYS A-MATER, V33, P59, DOI 10.1007/BF01197087
+   HOUSE JV, 1988, PHYS REV LETT, V61, P488
+   HOWELL RH, 1982, APPL PHYS LETT, V40, P751, DOI 10.1063/1.93215
+   HULETT LD, COMMUNICATION
+   HULLETT LD, 1989, 8TH P INT C POS ANN, P586
+   HUMBERSTON JW, 1984, POSITRON SCATTERING
+   ITO Y, 1991, NUCL INSTRUM METH A, V305, P269, DOI 10.1016/0168-9002(91)90546-3
+   ITOH Y, IN PRESS
+   SUEOKA O, 1985, JPN J APPL PHYS 1, V24, P222, DOI 10.1143/JJAP.24.222
+   VALKEALAHTI S, 1984, APPL PHYS A-MATER, V35, P51, DOI 10.1007/BF00620300
+   VEHANEN A, 1987, PHYS REV B, V35, P4606, DOI 10.1103/PhysRevB.35.4606
+NR 13
+TC 23
+Z9 23
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-4332
+J9 APPL SURF SCI
+JI Appl. Surf. Sci.
+PD JAN
+PY 1995
+VL 85
+IS 1-4
+BP 124
+EP 131
+DI 10.1016/0169-4332(94)00320-3
+PG 8
+WC Chemistry, Physical; Materials Science, Coatings & Films; Physics,
+   Applied; Physics, Condensed Matter
+SC Chemistry; Materials Science; Physics
+GA QD950
+UT WOS:A1995QD95000023
+ER
+
+PT J
+AU HAMADA, A
+   SUEOKA, O
+AF HAMADA, A
+   SUEOKA, O
+TI TOTAL CROSS-SECTION MEASUREMENTS FOR POSITRONS AND ELECTRONS COLLIDING
+   WITH MOLECULES .2. HCL
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID VIBRATIONAL-EXCITATION; ROVIBRATIONAL EXCITATION; INELASTIC PROCESSES;
+   H2O MOLECULES; SCATTERING; THRESHOLD; IMPACT; COLLISIONS; HF; CO2
+AB Total cross sections (TCSs) for 0.7-400 eV positrons and 0.8-400 eV electrons colliding with hydrogen chloride (HCl) have been measured using a linear transmission method. The data were corrected for the effects of forward scattering using the differential cross section (DCS). The magnitude of the correction was very large in the low energy region. The method of the correction is given in detail. The TCS curve of electrons has a small hump near 3 eV. The TCS for positrons is somewhat lower than that for electrons in the low energy region. In the intermediate energy region, the values of the TCSs for positrons and electrons approach each other.
+C1 YAMAGUCHI JR COLL,YAMAGUCHI 74712,JAPAN.
+   YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+CR ALLEN M, 1981, J CHEM PHYS, V74, P1687
+   Bruche E, 1927, ANN PHYS-BERLIN, V82, P0025
+   FABRIKANT II, 1991, J CHEM PHYS, V95, P4966, DOI 10.1063/1.461713
+   FABRIKANT II, 1991, PHYS REV A, V43, P3478, DOI 10.1103/PhysRevA.43.3478
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   ITIKAWA Y, 1969, J PHYS SOC JPN, V26, P1254, DOI 10.1143/JPSJ.26.1254
+   JAIN A, 1992, PHYS REV A, V45, P202, DOI 10.1103/PhysRevA.45.202
+   KNOTH G, 1989, J PHYS B-AT MOL OPT, V22, P299, DOI 10.1088/0953-4075/22/2/017
+   MENGONI A, 1991, PHYS REV A, V44, P7258, DOI 10.1103/PhysRevA.44.7258
+   MORGAN LA, 1990, J PHYS B-AT MOL OPT, V23, P99, DOI 10.1088/0953-4075/23/1/011
+   OKAMOTO Y, 1993, J PHYS B-AT MOL OPT, V26, P745, DOI 10.1088/0953-4075/26/4/013
+   PADIAL NT, 1983, PHYS REV A, V27, P141, DOI 10.1103/PhysRevA.27.141
+   PADIAL NT, 1984, PHYS REV A, V29, P1590, DOI 10.1103/PhysRevA.29.1590
+   PFINGST K, 1992, J PHYS B-AT MOL OPT, V25, P2107, DOI 10.1088/0953-4075/25/9/016
+   RADLE M, 1989, J PHYS B-AT MOL OPT, V22, P1455, DOI 10.1088/0953-4075/22/9/018
+   ROHR K, 1975, J PHYS B-AT MOL OPT, V8, pL200, DOI 10.1088/0022-3700/8/10/009
+   ROHR K, 1976, J PHYS B-AT MOL OPT, V9, P2521, DOI 10.1088/0022-3700/9/14/020
+   SCHAFER O, 1991, J PHYS B-AT MOL OPT, V24, P3069, DOI 10.1088/0953-4075/24/13/020
+   SUEOKA O, 1990, AT MOL COLL JAPAN, V16, P18
+   SUEOKA O, 1994, J PHYS B-AT MOL OPT, V27, P1453, DOI 10.1088/0953-4075/27/7/019
+   SUEOKA O, 1987, J PHYS B-AT MOL OPT, V20, P3237, DOI 10.1088/0022-3700/20/13/028
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, pL373, DOI 10.1088/0022-3700/19/10/008
+   YUAN JM, 1992, PHYS REV A, V45, P4565, DOI 10.1103/PhysRevA.45.4565
+NR 24
+TC 61
+Z9 61
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD OCT 28
+PY 1994
+VL 27
+IS 20
+BP 5055
+EP 5064
+DI 10.1088/0953-4075/27/20/019
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA PQ117
+UT WOS:A1994PQ11700019
+ER
+
+PT J
+AU SUEOKA, O
+   MORI, S
+AF SUEOKA, O
+   MORI, S
+TI PARTITIONING OF THE TOTAL CROSS-SECTIONS OF POSITRONS SCATTERED FROM HE,
+   NE AND AR ATOMS
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID INTERMEDIATE ENERGIES; NOBLE-GASES; HELIUM; COLLISIONS; ELECTRONS;
+   ARGON; H-2; IONIZATION; IMPACT
+AB The total cross sections (TCSs) of positrons scattered from He, Ne and Ar atoms below 100 eV have been satisfactorily analysed from the partial cross sections. For He, the sum of the partial cross sections coincides with the TCS within a few per cent below 45 eV and 5% above this energy, though the sum has around 11% error. However, for Ne, the sum is in good agreement with the TCS above 30 eV. For Ar, the sum coincides well with the TCS below 30 eV, above this energy the difference of the sum from the TCS increases with increasing energy. A simple analysis of the elastic cross section curve for He was attempted, employing the data used in the partitioning. The presence of cusp in the Q(el) curve is not clear just above the threshold of positronium formation.
+RP SUEOKA, O (reprint author), YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+CR BARTSCHAT K, 1990, J PHYS B-AT MOL OPT, V23, P2349, DOI 10.1088/0953-4075/23/14/022
+   CAMPEANU RI, 1987, J PHYS B-AT MOL OPT, V20, P3557, DOI 10.1088/0022-3700/20/14/027
+   COLEMAN PG, 1992, J PHYS B-AT MOL OPT, V25, pL585, DOI 10.1088/0953-4075/25/22/006
+   COLEMAN PG, 1985, 7TH P INT C POS ANN, P344
+   Diana L. M., 1985, Positron Annihilation. Proceedings of the Seventh International Conference
+   DIANA LM, 1986, PHYS REV A, V34, P2731, DOI 10.1103/PhysRevA.34.2731
+   FORNARI LS, 1983, PHYS REV LETT, V51, P2276, DOI 10.1103/PhysRevLett.51.2276
+   FROMME D, 1986, PHYS REV LETT, V57, P3031, DOI 10.1103/PhysRevLett.57.3031
+   GRIFFITH TC, 1979, J PHYS B-AT MOL OPT, V12, pL747, DOI 10.1088/0022-3700/12/23/009
+   HEWITT RN, 1992, J PHYS B-AT MOL OPT, V25, P557, DOI 10.1088/0953-4075/25/2/022
+   KAUPPILA WE, 1976, PHYS REV LETT, V36, P580, DOI 10.1103/PhysRevLett.36.580
+   KAUPPILA WE, 1981, PHYS REV A, V24, P725, DOI 10.1103/PhysRevA.24.725
+   KHAN P, 1984, PHYS REV A, V29, P3129, DOI 10.1103/PhysRevA.29.3129
+   MANDAL P, 1979, J PHYS B-AT MOL OPT, V12, P2913, DOI 10.1088/0022-3700/12/17/019
+   MCALINDEN MT, 1992, HYPERFINE INTERACT, V73, P65
+   MCEACHRAN RP, 1977, J PHYS B-AT MOL OPT, V10, P663, DOI 10.1088/0022-3700/10/4/018
+   MORI S, 1994, J PHYS B-AT MOL OPT, V27, P4349, DOI 10.1088/0953-4075/27/18/028
+   MOXOM J, 1993, J PHYS B-AT MOL OPT, V26, pL367, DOI 10.1088/0953-4075/26/13/009
+   NAKANISHI H, 1986, PHYS REV A, V34, P1823, DOI 10.1103/PhysRevA.34.1823
+   OVERTON N, 1993, J PHYS B-AT MOL OPT, V26, P3951, DOI 10.1088/0953-4075/26/21/027
+   STEIN TS, 1978, PHYS REV A, V17, P1600, DOI 10.1103/PhysRevA.17.1600
+NR 21
+TC 3
+Z9 3
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD OCT 28
+PY 1994
+VL 27
+IS 20
+BP 5083
+EP 5088
+DI 10.1088/0953-4075/27/20/021
+PG 6
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA PQ117
+UT WOS:A1994PQ11700021
+ER
+
+PT J
+AU JIN, B
+   SUEOKA, O
+   HAMADA, A
+AF JIN, B
+   SUEOKA, O
+   HAMADA, A
+TI POSITRON REEMISSION FROM THIN W(100) FOIL IN 10(-6)-TORR PRESSURE
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+DE POSITRON REEMISSION; POSITRON WORK FUNCTION; POSITRON BEAM; TUNGSTEN
+   POSITRON MODERATOR
+ID ENERGY
+AB The production of low-energy positron beams for positron-gas scattering experiments has been tested using thin W(100) foils in high-vacuum pressure (10(-6) Torr). The W foil was baked for cleaning and used as a positron moderator in Situ. The efficiency of positrons reemitted from the thin foil was 14 +/- 2% for a 1000-Angstrom-thick foil and 10 +/- 2% for a 2000-Angstrom-thick one. The positron work function of the W(100) surface in 10(-6) Torr was -1.9 +/- 0.3 eV. The energy width in situ was 1.5 +/- 0.2 eV, narrower than that exposed to air. The feasibility of the brightness-enhancement method in 10(-6) Torr for positron-gas scattering experiments was discussed.
+C1 YAMAGUCHI UNIV,FAC SCI,DEPT PHYS,YAMAGUCHI 753,JAPAN.
+RP JIN, B (reprint author), YAMAGUCHI UNIV,FAC ENGN,INST APPL SCI,UBE,YAMAGUCHI 755,JAPAN.
+CR FRIEZE WE, 1985, PHYS REV B, V31, P5628, DOI 10.1103/PhysRevB.31.5628
+   CHEN DM, 1985, PHYS REV B, V31, P4123, DOI 10.1103/PhysRevB.31.4123
+   Miyamoto S., COMMUNICATION
+   NIEMINEN RM, 1976, SOLID STATE COMMUN, V18, P1115, DOI 10.1016/0038-1098(76)91254-0
+   SCHULTZ PJ, 1983, PHYS REV B, V27, P6626, DOI 10.1103/PhysRevB.27.6626
+   SNEOKA O, 1990, AT COL RES JPN, V16, P127
+   WILSON RJ, 1983, PHYS REV B, V27, P3949, DOI 10.1103/PhysRevB.27.3949
+   ZAFAR N, 1988, APPL PHYS A-MATER, V47, P409, DOI 10.1007/BF00615506
+NR 8
+TC 4
+Z9 4
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD OCT 15
+PY 1994
+VL 33
+IS 10B
+BP L1493
+EP L1495
+PG 3
+WC Physics, Applied
+SC Physics
+GA PN819
+UT WOS:A1994PN81900018
+ER
+
+PT J
+AU MORI, S
+   SUEOKA, O
+AF MORI, S
+   SUEOKA, O
+TI EXCITATION AND IONIZATION CROSS-SECTIONS OF HE, NE AND AR BY
+   POSITRON-IMPACT
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID INTERMEDIATE ENERGIES; INELASTIC-SCATTERING; HELIUM-ATOMS; ELECTRONS;
+   ARGON; COLLISIONS; H-2; STATE; N-2; CO2
+AB Excitation and ionization cross sections of He, Ne and Ar atoms by positron impact have been presented in the energy range from the respective thresholds up to 100 eV using a time-of-flight (TOF) method. These data were compared with the theoretical and experimental data. For excitation, the present data for Ar in the whole range and for Ne in the range 50-100 eV coincide roughly with the electron impact data of de Heer and co-workers. However, for He the present data are much smaller than the electron data above 30 eV, but in good agreement with the theoretical data of Varracchio below 35 eV. The present data for the ionization cross section for He coincide well with the experimental data of Fromme et al in the range less than 100 eV.
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR BASU M, 1985, J PHYS B-AT MOL OPT, V18, P369, DOI 10.1088/0022-3700/18/2/022
+   CAMPEANU RI, 1987, J PHYS B-AT MOL OPT, V20, P3557, DOI 10.1088/0022-3700/20/14/027
+   CAMPEANU RI, 1987, J PHYS B-AT MOL OPT, V20, P1635, DOI 10.1088/0022-3700/20/7/029
+   COLEMAN PG, 1982, CAN J PHYS, V60, P584
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   COLEMAN PG, 1980, PHYS REV LETT, V45, P2017, DOI 10.1103/PhysRevLett.45.2017
+   de Heer F. J., 1979, Journal of Physics B (Atomic and Molecular Physics), V12, DOI 10.1088/0022-3700/12/6/016
+   DEHEER FJ, 1977, J PHYS B-AT MOL OPT, V10, P3741, DOI 10.1088/0022-3700/10/18/030
+   DIANA LM, 1985, 7TH P INT C POS ANN, P342
+   FROMME D, 1986, PHYS REV LETT, V57, P3031, DOI 10.1103/PhysRevLett.57.3031
+   GRIFFITH TC, 1979, J PHYS B-AT MOL OPT, V12, pL747, DOI 10.1088/0022-3700/12/23/009
+   HAMADA A, 1994, IN PRESS J PHYS B, V27
+   HEWITT RN, 1992, J PHYS B-AT MOL OPT, V25, P557, DOI 10.1088/0953-4075/25/2/022
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KATAYAMA Y, 1987, J PHYS B-AT MOL OPT, V20, P1645, DOI 10.1088/0022-3700/20/7/030
+   KAUPPILA WE, 1976, PHYS REV LETT, V36, P580, DOI 10.1103/PhysRevLett.36.580
+   KAUPPILA WE, 1981, PHYS REV A, V24, P725, DOI 10.1103/PhysRevA.24.725
+   KNUDSEN H, 1990, J PHYS B-AT MOL OPT, V23, P3955, DOI 10.1088/0953-4075/23/21/026
+   KRISHNAKUMAR E, 1988, J PHYS B-AT MOL OPT, V21, P1055, DOI 10.1088/0953-4075/21/6/014
+   MCEACHRAN RP, 1986, POSITRON ELECTRON GA, P122
+   MORI S, 1984, AT COL RES JPN, V10, P8
+   MOXOM J, 1993, J PHYS B-AT MOL OPT, V26, pL367, DOI 10.1088/0953-4075/26/13/009
+   NAKANISHI H, 1986, PHYS REV A, V34, P1823, DOI 10.1103/PhysRevA.34.1823
+   PARCELL LA, 1987, J PHYS B-AT MOL OPT, V20, P2307, DOI 10.1088/0022-3700/20/10/023
+   PARCELL LA, 1983, J PHYS B-AT MOL OPT, V16, P4249, DOI 10.1088/0022-3700/16/22/014
+   STEIN TS, 1978, PHYS REV A, V17, P1600, DOI 10.1103/PhysRevA.17.1600
+   SUEOKA O, 1994, 6TH P INT WORKSH SLO, P3
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1982, J PHYS SOC JPN, V51, P3757, DOI 10.1143/JPSJ.51.3757
+   VARRACCHIO EF, 1990, J PHYS B-AT MOL OPT, V23, pL779, DOI 10.1088/0953-4075/23/22/008
+   WILLIS SL, 1982, J PHYS B-AT MOL OPT, V15, pL31, DOI 10.1088/0022-3700/15/1/007
+NR 31
+TC 55
+Z9 56
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD SEP 28
+PY 1994
+VL 27
+IS 18
+BP 4349
+EP 4364
+DI 10.1088/0953-4075/27/18/028
+PG 16
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA PK928
+UT WOS:A1994PK92800028
+ER
+
+PT J
+AU SUEOKA, O
+   MORI, S
+   HAMADA, A
+AF SUEOKA, O
+   MORI, S
+   HAMADA, A
+TI TOTAL CROSS-SECTION MEASUREMENTS FOR POSITRONS AND ELECTRONS COLLIDING
+   WITH MOLECULES .1. SIH4 AND CF4
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID LOW-ENERGY ELECTRONS; SCATTERING; COLLISIONS; CH4; INTERMEDIATE; CCL4;
+   NH3; CO2; SYSTEMS; CCL2F2
+AB Total cross sections (TCSs) for 0.7-400 eV positrons and 1.0-400 eV electrons colliding with mono-silane (SiH4) and tetrafluouromcthane (CF4) molecules have been obtained by relative measurements. The TCS curve of e+-SiH4 with a broad minimum around 3.5 eV is fundamentally similar to that of e+-CH4. TCSs of e+-SiH4 below 20 eV are higher than the theoretical values. The Tcs curve of e+-CF4 is different from the curve of e+-SiH4. The TCS data of e--SiH4 from 3 to 20 eV are lower than the theoretical data from 3 to 20 eV. The TCS curve of e--SiH4 shows the shape resonance at 3.1 eV, and is also similar to that of CH4. Also, the TCS curve of e--CF4 has more complicated structures.
+C1 YOYOGI PREPARATORY SCH,SHIBUYA KU,TOKYO 151,JAPAN.
+   YAMAGUCHI JR COLL,HOUFU,YAMAGUCHI 74712,JAPAN.
+   UNIV TOKYO,COLL ARTS & SCI,INST PHYS,TOKYO 113,JAPAN.
+RP SUEOKA, O (reprint author), YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+CR BALUJA KL, 1992, PHYS REV A, V45, P7838, DOI 10.1103/PhysRevA.45.7838
+   BOESTEN L, 1992, J PHYS B-AT MOL OPT, V25, P1607, DOI 10.1088/0953-4075/25/7/029
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   GIANTURCO FA, 1987, PHYS REV A, V36, P4637, DOI 10.1103/PhysRevA.36.4637
+   HAMADA A, 1994, UNPUB J PHYS B
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   HUO WM, 1988, PHYS REV A, V38, P3303, DOI 10.1103/PhysRevA.38.3303
+   JAIN A, 1987, J CHEM PHYS, V86, P1289, DOI 10.1063/1.452218
+   JAIN A, 1991, J PHYS B-AT MOL OPT, V24, P2387, DOI 10.1088/0953-4075/24/9/018
+   JAIN A, 1986, J PHYS B-AT MOL OPT, V19, pL807, DOI 10.1088/0022-3700/19/22/008
+   JAIN A, 1992, PHYS REV A, V45, P202, DOI 10.1103/PhysRevA.45.202
+   JAIN A, 1983, J PHYS B-AT MOL OPT, V16, P1113, DOI 10.1088/0022-3700/16/6/024
+   JAIN AK, 1987, J PHYS B-AT MOL OPT, V20, pL389, DOI 10.1088/0022-3700/20/12/009
+   JONES RK, 1986, J CHEM PHYS, V84, P813, DOI 10.1063/1.450580
+   KATAYAMA Y, 1987, J PHYS B-AT MOL OPT, V20, P1645, DOI 10.1088/0022-3700/20/7/030
+   MANN A, 1992, J PHYS B-AT MOL OPT, V25, P533, DOI 10.1088/0953-4075/25/2/020
+   Mori S., 1985, AT COLLISIONS RES JP, V11, P19
+   SAKAE T, 1989, J PHYS B-AT MOL OPT, V22, P1385, DOI 10.1088/0953-4075/22/9/011
+   Sueoka O., 1987, Atomic Physics with Positrons. Proceedings of a NATO Advanced Research Workshop
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1992, AT COL RES JAPAN, V18, P18
+   SZMYTKOWSKI C, 1992, CHEM PHYS LETT, V199, P191, DOI 10.1016/0009-2614(92)80068-M
+   TANAKA H, 1990, J PHYS B-AT MOL OPT, V23, P577, DOI 10.1088/0953-4075/23/3/024
+   TOSSELL JA, 1984, J CHEM PHYS, V80, P813, DOI 10.1063/1.446735
+   TRONC M, 1989, J PHYS B-AT MOL OPT, V22, pL207, DOI 10.1088/0953-4075/22/8/005
+   WINSTEAD C, 1993, J CHEM PHYS, V98, P1105, DOI 10.1063/1.464334
+   YUAN JM, 1989, J PHYS B-AT MOL OPT, V22, P2589, DOI 10.1088/0953-4075/22/16/016
+   ZECCA A, 1992, PHYS REV A, V45, P2777, DOI 10.1103/PhysRevA.45.2777
+   ZECCA A, 1992, PHYS REV A, V46, P3877, DOI 10.1103/PhysRevA.46.3877
+NR 29
+TC 65
+Z9 64
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD APR 14
+PY 1994
+VL 27
+IS 7
+BP 1453
+EP 1465
+DI 10.1088/0953-4075/27/7/019
+PG 13
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA NH053
+UT WOS:A1994NH05300019
+ER
+
+PT J
+AU SUEOKA, O
+   HAMADA, A
+AF SUEOKA, O
+   HAMADA, A
+TI TOTAL CROSS-SECTION MEASUREMENTS FOR 0.3-10 EV POSITRON SCATTERING ON
+   N2, CO, AND CO2 MOLECULES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID LOW-ENERGY POSITRONS; ELECTRONS; GASES; N-2; CH4
+AB Total cross-sections (TCS) for 0.3-10 eV positrons scattered by N2, CO, and CO2 molecules have been measured using a beam transmission technique. For TCS measurements in the very low energy range, an apparatus adapted for use in a low magnetic field for beam transportation was used. Although the data in an extended energy region from one already measured did not show drastic variations from the data already presented, small variations were shown in three TCS-curves.
+C1 YAMAGUCHI JR COLL, YAMAGUCHI 74712, JAPAN.
+RP SUEOKA, O (reprint author), YAMAGUCHI UNIV, FAC ENGN, UBE, YAMAGUCHI 755, JAPAN.
+CR ARMOUR EAG, 1991, J PHYS B-AT MOL OPT, V24, P4463, DOI 10.1088/0953-4075/24/20/016
+   CHARLTON M, 1985, REP PROG PHYS, V48, P737, DOI 10.1088/0034-4885/48/6/001
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, P323, DOI 10.1088/0022-3700/16/2/019
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   DANBY G, 1991, J PHYS B-AT MOL OPT, V24, P3517, DOI 10.1088/0953-4075/24/15/019
+   DAREWYCH JW, 1982, J PHYS B-AT MOL OPT, V15, pL415, DOI 10.1088/0022-3700/15/12/003
+   FRIEZE WE, 1985, PHYS REV B, V31, P56
+   GILESPIE ES, 1975, J PHYS B ATOM MOL PH, V8, P2858
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   JAIN A, 1990, J PHYS B-AT MOL OPT, V23, P863, DOI 10.1088/0953-4075/23/5/011
+   JAIN A, 1986, J PHYS B-AT MOL OPT, V19, pL105, DOI 10.1088/0022-3700/19/4/002
+   KAUPPILA WE, 1982, CAN J PHYS, V60, P471
+   KWAN CK, 1983, PHYS REV A, V27, P1328, DOI 10.1103/PhysRevA.27.1328
+   SUEOKA O, 1991, ATOMIC COL RES JPN, V17, P12
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1989, J PHYS B-AT MOL OPT, V22, P963, DOI 10.1088/0953-4075/22/6/021
+   TENNYSON J, 1987, J PHYS B-AT MOL OPT, V20, pL641, DOI 10.1088/0022-3700/20/19/006
+NR 18
+TC 24
+Z9 24
+PU PHYSICAL SOC JAPAN
+PI TOKYO
+PA YUSHIMA URBAN BUILDING 5F, 2-31-22 YUSHIMA, BUNKYO-KU, TOKYO, 113-0034,
+   JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD AUG
+PY 1993
+VL 62
+IS 8
+BP 2669
+EP 2674
+DI 10.1143/JPSJ.62.2669
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA LU485
+UT WOS:A1993LU48500027
+ER
+
+PT J
+AU OKAMOTO, K
+   TANAKA, K
+   KATSUBE, M
+   SUEOKA, O
+   ITO, Y
+AF OKAMOTO, K
+   TANAKA, K
+   KATSUBE, M
+   SUEOKA, O
+   ITO, Y
+TI POSITRONIUM FORMATION IN VARIOUS POLYIMIDES
+SO RADIATION PHYSICS AND CHEMISTRY
+LA English
+DT Article
+ID BENZENE SOLUTIONS; INHIBITION; LIQUIDS
+AB Positronium (Ps) formation in various polyimides has been studied. It has been found that Ps yield is zero or small in the polyimides having pyromellitic dianhydride (PMDA) and 3,3',4,4'-benzophenonetetracarboxylic dianhydride (BTDA) as acid anhydride moiety, while those having 3,3',4,4'-biphenyltetracarboxylic dianhydride (BPDA) and 2,2-bis(3,4-dicarboxyphenyl)hexafluoropropane dianhydride (6FDA) form Ps with intensities up to about 20%. This difference is well correlated with the electron affinity of these moieties: PMDA > BTDA > BPDA approximately 6FDA. In another experiment o-Ps yields and its lifetimes were measured in benzene solutions of monomeric model compounds (imide compounds prepared from n-butylamine and the acid anhydrides). It has been found that the model compounds from PMDA and BTDA both inhibit Ps formation and quench o-Ps lifetimes but that those from BPDA and 6FDA have neither the inhibition nor the quenching effects. The results show that the spur model is applicable for Ps formation in the polyimides.
+C1 UNIV TOKYO,NUCL SCI & TECHNOL RES CTR,TOKAI,IBARAKI 31911,JAPAN.
+   YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+CR ITO Y, 1984, J PHYS CHEM-US, V88, P1921, DOI 10.1021/j150653a051
+   JEAN YC, 1976, J PHYS CHEM-US, V80, P1693, DOI 10.1021/j100556a009
+   KIMOTO M, 1985, J PHYS CHEM-US, V89, P1682, DOI 10.1021/j100255a027
+   KIRKEGAARD P, 1988, PATFIT88
+   LEVAY B, 1977, J PHYS CHEM-US, V81, P373, DOI 10.1021/j100520a001
+   MAGALHAES WF, 1989, CHEM PHYS, V136, P141, DOI 10.1016/0301-0104(89)80135-1
+   Mogensen O. E., 1974, Journal of Chemical Physics, V60, DOI 10.1063/1.1681180
+   Nakanishi H., 1988, POSITRON POSITRONIUM
+   SVETLICHNYI VM, 1977, DOKL AKAD NAUK SSSR+, V237, P612
+   TANAKA K, 1992, POLYMER, V33, P585, DOI 10.1016/0032-3861(92)90736-G
+   TANAKA K, 1992, B CHEM SOC JPN, V65, P1891, DOI 10.1246/bcsj.65.1891
+   TAO SJ, 1970, J CHEM PHYS, V52, P752, DOI 10.1063/1.1673050
+   VIEHBECK A, 1990, J ELECTROCHEM SOC, V137, P1460, DOI 10.1149/1.2086690
+   WIKANDER G, 1982, CHEM PHYS, V72, P407, DOI 10.1016/0301-0104(82)85137-9
+   WIKANDER G, 1979, CHEM  PHYS, V39, P3093
+   WIKANDER G, 1979, CHEM PHYS, V38, P181, DOI 10.1016/0301-0104(79)85061-2
+   1988, POSITRON POSITRONIUM, pCH4
+NR 17
+TC 35
+Z9 36
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0146-5724
+J9 RADIAT PHYS CHEM
+JI Radiat. Phys. Chem.
+PD MAR
+PY 1993
+VL 41
+IS 3
+BP 497
+EP 502
+DI 10.1016/0969-806X(93)90011-I
+PG 6
+WC Chemistry, Physical; Nuclear Science & Technology; Physics, Atomic,
+   Molecular & Chemical
+SC Chemistry; Nuclear Science & Technology; Physics
+GA KZ538
+UT WOS:A1993KZ53800011
+ER
+
+PT J
+AU OKAMOTO, K
+   TANAKA, K
+   KATSUBE, M
+   KITA, H
+   SUEOKA, O
+   ITO, Y
+AF OKAMOTO, K
+   TANAKA, K
+   KATSUBE, M
+   KITA, H
+   SUEOKA, O
+   ITO, Y
+TI CORRELATION BETWEEN POSITRON-ANNIHILATION AND GAS-DIFFUSION PROPERTIES
+   OF VARIOUS RUBBERY POLYMERS
+SO POLYMER JOURNAL
+LA English
+DT Article
+DE DIFFUSION COEFFICIENT; RUBBERY POLYMER; FREE VOLUME; POSITRON
+   ANNIHILATION; ORTHO-POSITRONIUM; CARBON DIOXIDE; FREE VOLUME
+   DISTRIBUTION
+ID FREE-VOLUME; MEMBRANES
+AB Diffusion coefficients D for CO2 and CH4, their activation energies, E(D), and lifetime and intensity of ortho-positronium (o-Ps), tau3 and I3 respectively, were measured for nine polymers at temperatures T from glass transition temperature T(g) up to T(g) + 70 K. For semicrystalline polymers, D and I3 are corrected to give those in 100% amorphous samples, D(a) and I3,a, respectively. Average size of free volume holes probed by o-Ps, upsilon(h,Ps), is evaluated from tau3 using an empirical equation. According to the free volume model of diffusion, correlations between log(D(a)/T) and fractional free volume f and between E(D)/RT and Tf-2(df/dt) are tested, using WLF fractional free volume f(WLF), upsilon(h,Ps)I3, and upsilon(h,Ps) for f. The correlations are better for upsilon(h,Ps) than for upsilon(h,Ps)I3. There is no correlation for f(WLF). The volume fraction of free volume holes larger than the effective size of the penetrants, V(F,dif), are evaluated by a proposed model from upsilon(h,Ps) and volume fraction of 'free space,' V(F), estimated by the method of van Kreveran and Bondi. The correlations are better for V(F,dif) than for V(F) and also for upsilon(h,Ps). The apparent good correlations for upsilon(h,Ps) are ascribed to the correlation of it with V(F,dif).
+C1 YAMAGUCHI UNIV,FAC ENGN,DEPT APPL SCI,YAMAGUCHI 753,JAPAN.
+   UNIV TOKYO,NUCL SCI & TECHNOL RES CTR,TOKAI,IBARAKI 31911,JAPAN.
+RP OKAMOTO, K (reprint author), YAMAGUCHI UNIV,FAC ENGN,DEPT ADV MAT SCI & ENGN,UBE,YAMAGUCHI 755,JAPAN.
+CR BERENS AR, 1982, J MEMBRANE SCI, V10, P283, DOI 10.1016/S0376-7388(00)81415-5
+   Bondi A., 1968, PHYSICAL PROPERTIES, P450
+   ELDRUP M, 1981, CHEM PHYS, V63, P51, DOI 10.1016/0301-0104(81)80307-2
+   FRISCH HL, 1971, MACROMOLECULES, V4, P237, DOI 10.1021/ma60020a019
+   Fujita H., 1961, FORTSCHR HOCHPOLYM F, V3/1, P1, DOI DOI 10.1007/BFB0050514
+   HAWARD RN, 1970, J MACROMOL SCI-REV M, VC  4, P191
+   JEAN YC, 1990, POSITRON POSITRONIUM, P1
+   KIRKEGAAD P, PATFITT 88 RISO M 27
+   Kumins C. A., 1968, DIFFUSION POLYM
+   MICHAELS AS, 1961, J POLYM SCI, V50, P413, DOI 10.1002/pol.1961.1205015412
+   MICHAELS AS, 1964, J APPL PHYS, V35, P3165, DOI 10.1063/1.1713195
+   NAKANISHI H, 1989, J POLYM SCI POL PHYS, V27, P1419, DOI 10.1002/polb.1989.090270704
+   OKAMOTO K, 1993, B CHEM SOC JPN, V66, P61, DOI 10.1246/bcsj.66.61
+   OKAMOTO K, 1992, POLYM J, V24, P451, DOI 10.1295/polymj.24.451
+   STANNETT VT, 1980, STRUCTURAL ORDER POL, P244
+   SUZUKI T, 1988, INT J APPL RADIAT IS, V39, P53, DOI 10.1016/0883-2889(88)90092-5
+   TANAKA K, 1992, POLYMER, V33, P585, DOI 10.1016/0032-3861(92)90736-G
+   TANAKA K, 1992, B CHEM SOC JPN, V65, P1891, DOI 10.1246/bcsj.65.1891
+   TANAKA K, 1989, POLYM J, V21, P127, DOI 10.1295/polymj.21.127
+   TAO SJ, 1972, J CHEM PHYS, V56, P5499, DOI 10.1063/1.1677067
+   TERADA K, 1992, J POLYM SCI POL PHYS, V30, P539, DOI 10.1002/polb.1992.090300604
+   TROHALAKI S, 1990, MACROMOLECULES, V23, P813, DOI 10.1021/ma00205a020
+   VANKREVELEN DW, 1976, PROPERTIES POLYM, P65
+   VOLKOV VV, 1987, VYSOKOMOL SOEDIN A, V29, P217
+   VOLKOV VV, 1991, POLYM J, V23, P457, DOI 10.1295/polymj.23.457
+   WILLIAMS ML, 1955, J AM CHEM SOC, V77, P3701, DOI 10.1021/ja01619a008
+NR 26
+TC 35
+Z9 35
+PU SOC POLYMER SCIENCE JAPAN
+PI TOKYO
+PA TSUKIJI DAISAN NAGAOKA BLDG, 2-4-2 TSUKIJI, CHUO-KU, TOKYO 104, JAPAN
+SN 0032-3896
+J9 POLYM J
+JI Polym. J.
+PY 1993
+VL 25
+IS 3
+BP 275
+EP 284
+DI 10.1295/polymj.25.275
+PG 10
+WC Polymer Science
+SC Polymer Science
+GA KT532
+UT WOS:A1993KT53200006
+ER
+
+PT J
+AU TANAKA, K
+   KATSUBE, M
+   OKAMOTO, K
+   KITA, H
+   SUEOKA, O
+   ITO, Y
+AF TANAKA, K
+   KATSUBE, M
+   OKAMOTO, K
+   KITA, H
+   SUEOKA, O
+   ITO, Y
+TI CORRELATION BETWEEN POSITRON-ANNIHILATION AND GAS-DIFFUSION PROPERTIES
+   OF A SERIES OF POLYIMIDES
+SO BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+LA English
+DT Article
+ID STRUCTURE PERMEABILITY RELATIONSHIPS; MEMBRANES; SEPARATION; DEPENDENCE;
+   TRANSPORT; POLYMERS
+AB The lifetime and the intensity of ortho-positronium (o-Ps), tau-3 and I3, respectively, were measured for a series of polyimides prepared from 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphthalic dianhydride. Average size of free space holes probed by o-Ps, upsilon(h,Ps), was evaluated from tau-3 using an empirical equation. There was a clear correlation between logarithm of diffusion coefficients, DBAR, of CO2 and CH4 and upsilon(h,Ps) for the polyimides. Large differences in DBAR among the polyimides having the same fractional free space, V(F), were attributed to differences in upsilon(h,Ps). There was a fairly good correlation between log DBAR and (upsilon(h,Ps)I3)-1, suggesting that I3 is a measure of the concentration of free space holes which can accommodate o-Ps, at least for the polyimides with the similar chemical structure. Correlation between V(F) and upsilon(h,Ps)I3 was rather poor.
+C1 YAMAGUCHI UNIV, FAC ENGN, DEPT ADV MAT SCI & ENGN, UBE, YAMAGUCHI 755, JAPAN.
+   YAMAGUCHI UNIV, FAC ENGN, DEPT APPL SCI, UBE, YAMAGUCHI 755, JAPAN.
+   UNIV TOKYO, NUCL SCI & TECHNOL RES CTR, TOKAI, IBARAKI 31911, JAPAN.
+CR Bondi A., 1968, PHYSICAL PROPERTIES, P450
+   CHENG KL, 1989, CRIT REV ANAL CHEM, V21, P209, DOI 10.1080/10408348908050844
+   COLEMAN MR, 1990, J MEMBRANE SCI, V50, P285, DOI 10.1016/S0376-7388(00)80626-2
+   DOLVECK JY, 1990, 1990 P INT C MEMBR M, P1422
+   ELDRUP M, 1981, CHEM PHYS, V63, P51, DOI 10.1016/0301-0104(81)80307-2
+   Fujita H., 1961, FORTSCHR HOCHPOLYM F, V3/1, P1, DOI DOI 10.1007/BFB0050514
+   HAWARD RN, 1970, J MACROMOL SCI-REV M, VC  4, P191
+   HILL AJ, 1988, J POLYM SCI POL CHEM, V26, P1541, DOI 10.1002/pola.1988.080260605
+   ITO Y, UNPUB J PHYS CHEM
+   JEAN YC, 1990, POSITRON POSITRONIUM, P1
+   KASBEKAR AD, 1989, J POLYM SCI POL CHEM, V27, P1373, DOI 10.1002/pola.1989.080270420
+   KIM TH, 1988, SEPAR SCI TECHNOL, V23, P1611, DOI 10.1080/01496398808075652
+   KIRKEGAARD P, PATFIT88
+   KOBAYASHI Y, 1992, B CHEM SOC JPN, V65, P160, DOI 10.1246/bcsj.65.160
+   MAEDA Y, 1987, J POLYM SCI POL PHYS, V25, P1005, DOI 10.1002/polb.1987.090250503
+   MALHOTRA BD, 1983, MACROMOLECULES, V16, P1175, DOI 10.1021/ma00241a025
+   NAKANISHI H, 1989, J POLYM SCI POL PHYS, V27, P1419, DOI 10.1002/polb.1989.090270704
+   OKAMOTO K, J PHYS CHEM
+   PENG Q, 1992, J PHYS CHEM-US, V96, P492
+   STERN SA, 1989, J POLYM SCI POL PHYS, V27, P1887, DOI 10.1002/polb.1989.090270908
+   SUZUKI T, 1988, INT J APPL RADIAT IS, V39, P53, DOI 10.1016/0883-2889(88)90092-5
+   TANAKA K, 1992, POLYMER, V33, P585, DOI 10.1016/0032-3861(92)90736-G
+   TANAKA K, 1990, SEN-I GAKKAISHI, V46, P541
+   TANAKA K, 1991, POLYM PREPR JPN, V40, P3407
+   TANAKA K, IN PRESS J POLYM PP
+   TANAKA K, 1991, POLYM PREPR-JAPAN, V40, P3411
+   TANAKA K, 1989, J MEMBRANE SCI, V47, P203, DOI 10.1016/S0376-7388(00)80868-6
+   TAO SJ, 1972, J CHEM PHYS, V56, P5499, DOI 10.1063/1.1677067
+   VANKREVELEN DW, 1976, PROPERTIES POLYM, P65
+   VOLKOV VV, 1987, VYSOKOMOL SOEDIN A, V29, P217
+   VOLKOV VV, 1991, POLYM J, V23, P457, DOI 10.1295/polymj.23.457
+   WANG YY, 1990, J POLYM SCI POL PHYS, V28, P1431, DOI 10.1002/polb.1990.090280902
+   YAMAMOTO H, 1990, J POLYM SCI POL PHYS, V28, P2291, DOI 10.1002/polb.1990.090281210
+NR 33
+TC 35
+Z9 36
+PU CHEMICAL SOC JAPAN
+PI TOKYO
+PA 1-5 KANDA-SURUGADAI CHIYODA-KU, TOKYO, 101-8307, JAPAN
+SN 0009-2673
+EI 1348-0634
+J9 B CHEM SOC JPN
+JI Bull. Chem. Soc. Jpn.
+PD JUL
+PY 1992
+VL 65
+IS 7
+BP 1891
+EP 1897
+DI 10.1246/bcsj.65.1891
+PG 7
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA JG239
+UT WOS:A1992JG23900023
+ER
+
+PT J
+AU ITO, Y
+   HIROSE, M
+   TAKAMURA, S
+   SUEOKA, O
+   KANAZAWA, I
+   MASHIKO, K
+   ICHIMIYA, A
+   MURATA, Y
+   OKADA, S
+   HASEGAWA, M
+   HYODO, T
+AF ITO, Y
+   HIROSE, M
+   TAKAMURA, S
+   SUEOKA, O
+   KANAZAWA, I
+   MASHIKO, K
+   ICHIMIYA, A
+   MURATA, Y
+   OKADA, S
+   HASEGAWA, M
+   HYODO, T
+TI BRIGHTNESS ENHANCED INTENSE SLOW POSITRON BEAM PRODUCED USING AN
+   ELECTRON LINAC
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+ID LOW-ENERGY; FIELD
+AB An intense pulsed slow positron beam was produced from a 100 MeV electron linac of the Japan Atomic Energy Research institute and was extracted using solenoid transport tubes. The intensity of the obtained slow positron beam was 2-3 x lO(7) e+/s at 1/10 of the full power operation (at 10-mu-A average electron beam current).
+   In order to use the beam for positron scattering, diffraction and microscope experiments, it was transferred from the solenoid magnetic field to a field-free region, and was then brightness-enhanced. The final beam size was reduced from 10 mm empty set in the solenoid magnetic field to 0.5 mm empty set after two stages of remoderation.
+C1 UNIV TOKYO,INST SOLID STATE PHYS,MINATO KU,TOKYO 106,JAPAN.
+   JAPAN ATOM ENERGY RES INST,TAKASAKI RADIAT CHEM ESTAB,TAKASAKI,GUNMA 37012,JAPAN.
+   TOHOKU UNIV,INST MAT RES,SENDAI,MIYAGI 980,JAPAN.
+   UNIV TOKYO,COLL ARTS & SCI,MEGURO KU,TOKYO 153,JAPAN.
+   JAPAN ATOM ENERGY RES INST,TOKAI ESTAB,DEPT PHYS,TOKAI,IBARAKI 31911,JAPAN.
+   YAMAGUCHI UNIV,FAC ENGN,UBE,YAMAGUCHI 755,JAPAN.
+   TOKYO GAKUGEI UNIV,FAC EDUC,KOGANEI,TOKYO 184,JAPAN.
+   NAGOYA UNIV,FAC ENGN,CHIKUSA KU,NAGOYA,AICHI 464,JAPAN.
+RP ITO, Y (reprint author), UNIV TOKYO,NUCL SCI & TECHNOL RES CTR,TOKAI,IBARAKI 31911,JAPAN.
+CR AKAHANE T, 1990, APPL PHYS A-MATER, V51, P146, DOI 10.1007/BF00324279
+   BELING CD, 1987, APPL PHYS A-MATER, V42, P111, DOI 10.1007/BF00616719
+   CANTER KF, COMMUNICATION
+   EBEL F, 1989, NUCL INSTRUM METH A, V274, P1, DOI 10.1016/0168-9002(89)90357-4
+   GRAFF G, 1984, APPL PHYS A-MATER, V33, P59, DOI 10.1007/BF01197087
+   HOWELL RH, 1987, APPL PHYS A-MATER, V43, P247, DOI 10.1007/BF00635179
+   HULETT LD, 1989, 8TH P INT C POS ANN, P586
+   HUTCHINS SM, 1986, J PHYS E SCI INSTRUM, V19, P282, DOI 10.1088/0022-3735/19/4/007
+   ITO Y, 1989, 8TH P INT C POS ANN, P583
+   MILLS AP, 1980, APPL PHYS, V23, P189, DOI 10.1007/BF00899716
+   Mills Jr A P, 1983, POSITRON SOLID STATE, P432
+   PARIDAENS J, 1990, NUCL INSTRUM METH A, V287, P359, DOI 10.1016/0168-9002(90)91548-P
+   SUEOKA O, 1985, JPN J APPL PHYS 1, V24, P222, DOI 10.1143/JJAP.24.222
+   SUEOKA O, 1989, JPN J APPL PHYS 2, V28, pL1663
+NR 14
+TC 17
+Z9 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD JUL 20
+PY 1991
+VL 305
+IS 2
+BP 269
+EP 274
+DI 10.1016/0168-9002(91)90546-3
+PG 6
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA FY031
+UT WOS:A1991FY03100006
+ER
+
+PT J
+AU SUEOKA, O
+   YAMAZAKI, M
+AF SUEOKA, O
+   YAMAZAKI, M
+TI METHOD FOR NARROWING ENERGY WIDTH OF E+ AND E- BEAMS IN A TOF SYSTEM
+SO JOURNAL OF PHYSICS E-SCIENTIFIC INSTRUMENTS
+LA English
+DT Article
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,3-8-1 KOMABA,MEGURO KU,TOKYO 153,JAPAN.
+CR CAMPEANU RI, 1987, J PHYS B-AT MOL OPT, V20, P3557, DOI 10.1088/0022-3700/20/14/027
+   CHARLTON M, 1985, REP PROG PHYS, V48, P737, DOI 10.1088/0034-4885/48/6/001
+   COLEMAN PG, 1982, PHYS REV LETT, V45, P2017
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   FRIEZE WE, 1985, PHYS REV B, V31, P5628, DOI 10.1103/PhysRevB.31.5628
+   FROMME D, 1986, PHYS REV LETT, V57, P3031, DOI 10.1103/PhysRevLett.57.3031
+   KATAYAMA Y, 1987, J PHYS B-AT MOL OPT, V20, P1645, DOI 10.1088/0022-3700/20/7/030
+   MILLS AP, 1980, APPL PHYS, V23, P189, DOI 10.1007/BF00899716
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1987, 4TH INT WORKSH AT PH, P41
+   SUEOKA O, 1982, J PHYS SOC JPN, V51, P3757, DOI 10.1143/JPSJ.51.3757
+   WILLIS SL, 1981, J PHYS B-AT MOL OPT, V14, P2687, DOI 10.1088/0022-3700/14/15/028
+NR 13
+TC 1
+Z9 1
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0022-3735
+J9 J PHYS E SCI INSTRUM
+PD OCT
+PY 1989
+VL 22
+IS 10
+BP 852
+EP 855
+DI 10.1088/0022-3735/22/10/010
+PG 4
+WC Instruments & Instrumentation
+SC Instruments & Instrumentation
+GA AU373
+UT WOS:A1989AU37300011
+ER
+
+PT J
+AU SUEOKA, O
+   YAMAZAKI, M
+   ITO, Y
+AF SUEOKA, O
+   YAMAZAKI, M
+   ITO, Y
+TI TRANSPORT OF E+ BEAMS FROM A MAGNETIC-FIELD INTO A NON MAGNETIC-FIELD
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+   UNIV TOKYO,NUCL SCI & TECHNOL RES CTR,TOKAI,IBARAKI 31911,JAPAN.
+CR AKAHANE T, 1989, 8TH P INT C POS ANN, P592
+   BEGEMANN M, 1982, NUCL INSTRUM METHODS, V201, P287, DOI 10.1016/0167-5087(82)90554-3
+   CANTER KF, 1989, POSITRON STUDIES SOL, P207
+   EBEL F, 1987, APPL PHYS A-MATER, V44, P119, DOI 10.1007/BF00626411
+   FRIEZE WE, 1985, PHYS REV B, V31, P5628, DOI 10.1103/PhysRevB.31.5628
+   Harting E., 1976, ELECTROSTATIC LENSES
+   HOWELL RH, 1982, APPL PHYS LETT, V40, P751, DOI 10.1063/1.93215
+   ITO Y, 1989, 8TH P INT C POS ANN, P583
+   MILLS AP, 1980, APPL PHYS, V23, P189, DOI 10.1007/BF00899716
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1985, JPN J APPL PHYS 1, V24, P222, DOI 10.1143/JJAP.24.222
+NR 11
+TC 5
+Z9 5
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+J9 JPN J APPL PHYS 2
+JI Jpn. J. Appl. Phys. Part 2 - Lett.
+PD SEP
+PY 1989
+VL 28
+IS 9
+BP L1663
+EP L1664
+PG 2
+WC Physics, Applied
+SC Physics
+GA AR476
+UT WOS:A1989AR47600055
+ER
+
+PT J
+AU SUEOKA, O
+   MORI, S
+AF SUEOKA, O
+   MORI, S
+TI TOTAL CROSS-SECTION MEASUREMENTS FOR 1-400-EV POSITRONS AND ELECTRONS IN
+   C2H2
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,3-8-1 KOMABA,TOKYO 153,JAPAN.
+CR Bruche E, 1929, ANN PHYS-BERLIN, V2, P909
+   FINK M, 1975, J CHEM PHYS, V63, P1985, DOI 10.1063/1.431533
+   FLOEDER K, 1985, J PHYS B-AT MOL OPT, V18, P3347, DOI 10.1088/0022-3700/18/16/019
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   JAIN A, 1983, J PHYS B-AT MOL OPT, V16, pL99, DOI 10.1088/0022-3700/16/4/003
+   Sueoka O., 1987, Atomic Physics with Positrons. Proceedings of a NATO Advanced Research Workshop
+   SUEOKA O, 1987, J PHYS B-AT MOL OPT, V20, P3237, DOI 10.1088/0022-3700/20/13/028
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1988, AT COLLISION RES JAP, V12, P16
+   TOSSELL JA, 1985, J PHYS B-AT MOL OPT, V18, P387, DOI 10.1088/0022-3700/18/3/014
+   VANVEEN EH, 1976, CHEM PHYS LETT, V38, P493, DOI 10.1016/0009-2614(76)80024-3
+NR 12
+TC 53
+Z9 53
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD MAR 28
+PY 1989
+VL 22
+IS 6
+BP 963
+EP 970
+DI 10.1088/0953-4075/22/6/021
+PG 8
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA U0626
+UT WOS:A1989U062600021
+ER
+
+PT J
+AU SUEOKA, O
+   MORI, S
+   KATAYAMA, Y
+AF SUEOKA, O
+   MORI, S
+   KATAYAMA, Y
+TI TOTAL CROSS-SECTIONS FOR POSITRON AND ELECTRON COLLISIONS WITH NH3 AND
+   H2O MOLECULES
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,3-8-1 KOMABA,MEGURO KU,TOKYO 153,JAPAN.
+CR Bruche E, 1929, ANN PHYS-BERLIN, V1, P93
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   Dale J. M., 1980, Surface and Interface Analysis, V2, DOI 10.1002/sia.740020602
+   GOLDANSK.VI, 1968, ATOM ENERGY REV, V6, P3
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   ITIKAWA Y, 1978, PHYS REP, V46, P117, DOI 10.1016/0370-1573(78)90164-3
+   JAIN A, 1983, J PHYS B-AT MOL OPT, V16, P3077, DOI 10.1088/0022-3700/16/16/027
+   JAIN A, 1986, 3RD INT WORKSH POS E
+   JAIN A, 1983, J PHYS B-AT MOL OPT, V16, P1113, DOI 10.1088/0022-3700/16/6/024
+   KANAZAWA H, 1965, PHYS REV, V138, P1155
+   STEIN TS, 1982, ADV ATOM MOL PHYS, V18, P53, DOI 10.1016/S0065-2199(08)60239-0
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, pL373, DOI 10.1088/0022-3700/19/10/008
+   SUEOKA O, 1984, AT COLL RES JAPAN, V10, P17
+NR 15
+TC 60
+Z9 61
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD JUL 14
+PY 1987
+VL 20
+IS 13
+BP 3237
+EP 3246
+DI 10.1088/0022-3700/20/13/028
+PG 10
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA J1893
+UT WOS:A1987J189300028
+ER
+
+PT J
+AU KATAYAMA, Y
+   SUEOKA, O
+   MORI, S
+AF KATAYAMA, Y
+   SUEOKA, O
+   MORI, S
+TI INELASTIC CROSS-SECTION MEASUREMENTS FOR SLOW-POSITRON-O-2 COLLISIONS
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR CARTWRIGHT DC, 1976, J PHYS B-AT MOL OPT, V9, pL419, DOI 10.1088/0022-3700/9/14/003
+   CHARLTON M, 1985, REP PROG PHYS, V48, P737, DOI 10.1088/0034-4885/48/6/001
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, P323, DOI 10.1088/0022-3700/16/2/019
+   COLEMAN PG, 1982, CAN J PHYS, V60, P584
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   FORNARI LS, 1983, PHYS REV LETT, V51, P2276, DOI 10.1103/PhysRevLett.51.2276
+   GELTMAN J, 1983, J PHYS B, V16, pL525
+   GRIFFITH TC, 1983, POSITRON SCATTERING, P53
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   INOKUTI M, 1971, REV MOD PHYS, V43, P297, DOI 10.1103/RevModPhys.43.297
+   KATAYAMA K, 1985, AT COLL RES JAPAN, V11, P22
+   MORI S, 1984, AT COLL RES JAPAN, V10, P9
+   RAPP D, 1965, J CHEM PHYS, V43, P1464, DOI 10.1063/1.1696957
+   SUEOKA O, 1986, J PHYS B-AT MOL OPT, V19, P4035, DOI 10.1088/0022-3700/19/23/021
+   SUEOKA O, 1982, J PHYS SOC JPN, V51, P3757, DOI 10.1143/JPSJ.51.3757
+   Trajmar S., 1983, Physics Reports, V97, DOI 10.1016/0370-1573(83)90071-6
+   TRAJMAR S, 1971, PHYS REV A, V4, P1482, DOI 10.1103/PhysRevA.4.1482
+   WAKIYA K, 1978, J PHYS B-AT MOL OPT, V11, P3913, DOI 10.1088/0022-3700/11/22/019
+NR 18
+TC 23
+Z9 23
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TECHNO HOUSE, REDCLIFFE WAY, BRISTOL, ENGLAND BS1 6NX
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD APR 14
+PY 1987
+VL 20
+IS 7
+BP 1645
+EP 1657
+DI 10.1088/0022-3700/20/7/030
+PG 13
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA G8748
+UT WOS:A1987G874800030
+ER
+
+PT J
+AU SUEOKA, O
+   MORI, S
+AF SUEOKA, O
+   MORI, S
+TI TOTAL CROSS-SECTIONS FOR LOW AND INTERMEDIATE ENERGY POSITRONS AND
+   ELECTRONS COLLIDING WITH CH4, C2H4 AND C2H6 MOLECULES
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,3-8-1 KOMABA,MEGURO KU,TOKYO 153,JAPAN.
+CR BARBARITO E, 1979, J CHEM PHYS, V71, P54, DOI 10.1063/1.438135
+   Brode RB, 1925, PHYS REV, V25, P636, DOI 10.1103/PhysRev.25.636
+   Bruche E, 1929, ANN PHYS-BERLIN, V2, P909
+   Bruche E, 1927, ANN PHYS-BERLIN, V83, P1065
+   Bruche E, 1930, ANN PHYS-BERLIN, V4, P387
+   BURKE PG, 1972, J PHYS PT B ATOM M P, V5, P1696, DOI 10.1088/0022-3700/5/9/013
+   Charlton M., 1980, Journal of Physics B (Atomic and Molecular Physics), V13, DOI 10.1088/0022-3700/13/11/006
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, P323, DOI 10.1088/0022-3700/16/2/019
+   DUNCAN CW, 1972, J CHEM SOC FARAD T 2, V68, P1514, DOI 10.1039/f29726801514
+   FERCH J, 1985, J PHYS B-AT MOL OPT, V18, pL445, DOI 10.1088/0022-3700/18/13/008
+   FLOEDER K, 1985, J PHYS B-AT MOL OPT, V18, P3347, DOI 10.1088/0022-3700/18/16/019
+   GIANTURCO FA, 1976, J PHYS B-AT MOL OPT, V9, pL383, DOI 10.1088/0022-3700/9/12/010
+   Griffith T. C., 1984, POSITRON SCATTERING, P53
+   GRIFFITH TC, 1979, ADV ATOM MOL PHYS, V15, P135, DOI 10.1016/S0065-2199(08)60297-3
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   JAIN A, 1982, J PHYS B-AT MOL OPT, V15, pL631, DOI 10.1088/0022-3700/15/17/012
+   JAIN A, 1983, J CHEM PHYS, V78, P6579, DOI 10.1063/1.444652
+   JAIN A, 1983, J PHYS B-AT MOL OPT, V16, P1113, DOI 10.1088/0022-3700/16/6/024
+   JONES RK, 1985, J CHEM PHYS, V82, P5424, DOI 10.1063/1.448575
+   KAUPPILA WE, 1982, CAN J PHYS, V60, P471
+   KAUPPILA WE, 1983, 13TH P INT C PHYS EL, P303
+   KAUPPILA WE, 1981, PHYS REV A, V24, P725, DOI 10.1103/PhysRevA.24.725
+   MIZOGAWA T, 1985, PHYS REV A, V31, P2171, DOI 10.1103/PhysRevA.31.2171
+   MULLER R, 1985, J PHYS B-AT MOL OPT, V18, P3971, DOI 10.1088/0022-3700/18/19/018
+   Ramsauer C., 1930, Annalen der Physik, V4
+   SOHN W, 1983, J PHYS B-AT MOL OPT, V16, P891, DOI 10.1088/0022-3700/16/5/020
+   SUEOKA O, 1984, AT COLLISIONS RES JA, V10, P12
+   SUEOKA O, 1984, J PHYS SOC JPN, V53, P2491, DOI 10.1143/JPSJ.53.2491
+   SUEOKA O, 1982, J PHYS SOC JPN, V51, P2381, DOI 10.1143/JPSJ.51.2381
+   TANAKA H, 1982, J PHYS B-AT MOL OPT, V15, P3305, DOI 10.1088/0022-3700/15/18/024
+   TANAKA H, 1983, J PHYS B-AT MOL OPT, V16, P2861, DOI 10.1088/0022-3700/16/15/026
+   WALKER IC, 1978, J CHEM PHYS, V69, P5532, DOI 10.1063/1.436547
+   WINTERS HF, 1975, J CHEM PHYS, V63, P3462, DOI 10.1063/1.431783
+NR 33
+TC 140
+Z9 140
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL, ENGLAND BS1 6BE
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD DEC 14
+PY 1986
+VL 19
+IS 23
+BP 4035
+EP 4050
+DI 10.1088/0022-3700/19/23/021
+PG 16
+WC Optics; Physics, Atomic, Molecular & Chemical
+SC Optics; Physics
+GA F2808
+UT WOS:A1986F280800021
+ER
+
+PT J
+AU EJIRI, A
+   SUEOKA, O
+AF EJIRI, A
+   SUEOKA, O
+TI AN EXTREME ULTRAVIOLET MONOCHROMATOR FOR ENHANCING THE POLARIZATION OF
+   SYNCHROTRON RADIATION
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article
+RP EJIRI, A (reprint author), UNIV TOKYO,COLL GEN EDUC,KOMABA 3-8-1,TOKYO 153,JAPAN.
+CR ABELES F, 1950, CR HEBD ACAD SCI, V230, P1942
+   BEUTLER HG, 1945, J OPT SOC AM, V35, P311, DOI 10.1364/JOSA.35.000311
+   CANFIELD LR, 1964, J PHYS-PARIS, V25, P124, DOI 10.1051/jphys:01964002501-2012401
+   CODLING K, 1980, NUCL INSTRUM METHODS, V172, P107, DOI 10.1016/0029-554X(80)90620-5
+   Ejiri A., 1984, Annals of the Israel Physical Society, V6
+   NAMIOKA T, 1962, J QUANT SPECTROSC RA, V2, P697, DOI 10.1016/0022-4073(62)90056-0
+   RABINOVITCH K, 1965, APPL OPT, V4, P124
+   Rehfeld N., 1973, Applied Physics, V1, DOI 10.1007/BF00884674
+   RENSE WA, 1959, J OPT SOC AM, V49, P139, DOI 10.1364/JOSA.49.000139
+   SAILE V, 1978, NUCL INSTRUM METHODS, V152, P59, DOI 10.1016/0029-554X(78)90238-0
+   Seya M., 1952, SCI LIGHT, V2, P8
+   SHCHEPTKIN IUP, 1959, OPT SPECTROSC, V6, P538
+   SONODA H, 1979, THESIS OSAKA CITY U
+NR 13
+TC 3
+Z9 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD MAY 15
+PY 1986
+VL 246
+IS 1-3
+BP 282
+EP 285
+DI 10.1016/0168-9002(86)90091-4
+PG 4
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Particles & Fields; Spectroscopy
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics;
+   Spectroscopy
+GA C7999
+UT WOS:A1986C799900060
+ER
+
+PT J
+AU HISHINUMA, N
+   SUEOKA, O
+AF HISHINUMA, N
+   SUEOKA, O
+TI MEASUREMENTS OF THE ANISOTROPIC INTERACTION POTENTIAL FOR GA-AR, GA-KR,
+   GA-XE, IN-AR, AND IN-KR SYSTEMS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+C1 UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR BERKLING K, 1962, Z PHYS, V168, P81, DOI 10.1007/BF01418961
+   Bethe H. A., 1957, HDB PHYSIK, V35, P88
+   Clementi E., 1974, Atomic Data and Nuclear Data Tables, V14, DOI 10.1016/S0092-640X(74)80016-1
+   HISHINUMA N, 1982, AT COLLISION RES JAP, V8, P139
+   HISHINUMA N, 1981, J CHEM PHYS, V75, P4960, DOI 10.1063/1.441884
+   HISHINUMA N, 1983, CHEM PHYS LETT, V98, P414, DOI 10.1016/0009-2614(83)80078-5
+   HISHINUMA N, UNPUB
+   KUSCH P, 1964, J CHEM PHYS, V40, P1, DOI 10.1063/1.1724829
+   Margenau H, 1939, REV MOD PHYS, V11, P0001, DOI 10.1103/RevModPhys.11.1
+NR 9
+TC 12
+Z9 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1985
+VL 121
+IS 4-5
+BP 293
+EP 296
+DI 10.1016/0009-2614(85)87181-5
+PG 4
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA AVR14
+UT WOS:A1985AVR1400003
+ER
+
+PT J
+AU SUEOKA, O
+   ITO, Y
+   AZUMA, T
+   MORI, S
+   KATSUMURA, Y
+   KOBAYASHI, H
+   TABATA, Y
+AF SUEOKA, O
+   ITO, Y
+   AZUMA, T
+   MORI, S
+   KATSUMURA, Y
+   KOBAYASHI, H
+   TABATA, Y
+TI PRODUCTION OF SLOW POSITRONS USING AN ELECTRON LINAC
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+C1 UNIV TOKYO,NUCL SCI & TECHNOL RES CTR,TOKAI,IBARAKI 31911,JAPAN.
+   UNIV TOKYO,FAC ENGN,NUCL ENGN RES LAB,TOKAI,IBARAKI 31911,JAPAN.
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,KOMABA 3-8-1,MEGURO KU,TOKYO 153,JAPAN.
+CR BEGEMANN M, 1982, NUCL INSTRUM METHODS, V201, P287, DOI 10.1016/0167-5087(82)90554-3
+   CANTER KF, 1972, J PHYS PT B ATOM M P, V5, pL167, DOI 10.1088/0022-3700/5/8/007
+   CHARLTON M, 1983, NATO ADV RES WORKSHI
+   COLEMAN PG, 1982, POSITRON ANNIHILATIO, P860
+   COSTELLO DG, 1972, PHYS REV B, V4, P1433
+   GRAFF G, 1984, APPL PHYS A-MATER, V33, P59, DOI 10.1007/BF01197087
+   Groce D. E., 1969, 6th International conference on the physics of electronic and atomic collisions (abstracts)
+   GROCE DE, 1968, B AM PHYS SOC, V13, P1397
+   HOWELL RH, 1982, APPL PHYS LETT, V40, P751, DOI 10.1063/1.93215
+   HOWELL RH, 1983, NATO ADV RES WORKSHO
+   MILLS AP, 1980, APPL PHYS LETT, V37, P667, DOI 10.1063/1.92030
+NR 11
+TC 8
+Z9 8
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PY 1985
+VL 24
+IS 2
+BP 222
+EP 224
+DI 10.1143/JJAP.24.222
+PG 3
+WC Physics, Applied
+SC Physics
+GA ADG79
+UT WOS:A1985ADG7900021
+ER
+
+PT J
+AU SUEOKA, O
+   MORI, S
+AF SUEOKA, O
+   MORI, S
+TI TOTAL CROSS-SECTIONS FOR POSITRONS AND ELECTRONS COLLIDING WITH N-2, CO
+   AND CO2 MOLECULES
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL ARTS & SCI,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR BLAAUW HJ, 1980, J PHYS B-AT MOL OPT, V13, P359, DOI 10.1088/0022-3700/13/2/023
+   CANTER KF, 1972, J PHYS PT B ATOM M P, V5, pL167, DOI 10.1088/0022-3700/5/8/007
+   CHANDRA N, 1976, PHYS REV A, V13, P188, DOI 10.1103/PhysRevA.13.188
+   CHANDRA N, 1977, PHYS REV A, V16, P80, DOI 10.1103/PhysRevA.16.80
+   Charlton M., 1980, Journal of Physics B (Atomic and Molecular Physics), V13, DOI 10.1088/0022-3700/13/11/006
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, pL465, DOI 10.1088/0022-3700/16/15/008
+   CHARLTON M, 1980, J PHYS B-AT MOL OPT, V13, pL757, DOI 10.1088/0022-3700/13/24/005
+   CHARLTON M, 1983, J PHYS B-AT MOL OPT, V16, P323, DOI 10.1088/0022-3700/16/2/019
+   COLEMAN PG, 1976, APPL PHYS, V11, P321, DOI 10.1007/BF00919360
+   COLEMAN PG, 1974, APPL PHYS, V5, P223, DOI 10.1007/BF00928133
+   COLEMAN PG, 1974, APPL PHYS, V4, P89, DOI 10.1007/BF00884160
+   Costello D. G., 1972, Physical Review B (Solid State), V5, DOI 10.1103/PhysRevB.5.1433
+   DABABNEH MS, 1980, PHYS REV A, V22, P1872, DOI 10.1103/PhysRevA.22.1872
+   DALBA G, 1980, J PHYS B-AT MOL OPT, V13, P4695, DOI 10.1088/0022-3700/13/23/025
+   Dale J. M., 1980, Surface and Interface Analysis, V2, DOI 10.1002/sia.740020602
+   DAREWYCH JW, 1982, J PHYS B-AT MOL OPT, V15, pL415, DOI 10.1088/0022-3700/15/12/003
+   DAREWYCH JW, 1974, J PHYS B-AT MOL OPT, V7, pL1, DOI 10.1088/0022-3700/7/1/001
+   DUTTON J, 1982, 6TH INT C POS ANN, P82
+   FERCH J, 1981, J PHYS B-AT MOL OPT, V14, pL97, DOI 10.1088/0022-3700/14/3/012
+   GILLESPIE ES, 1975, J PHYS B-AT MOL OPT, V8, P2858, DOI 10.1088/0022-3700/8/17/018
+   GRIFFITH TC, 1979, ADV ATOM MOL PHYS, V15, P135, DOI 10.1016/S0065-2199(08)60297-3
+   GRIFFITH TC, 1978, PHYS REP, V39, P170
+   HOFFMAN KR, 1982, PHYS REV A, V25, P1393, DOI 10.1103/PhysRevA.25.1393
+   KAUPPILA WE, 1982, CAN J PHYS, V60, P471
+   KENNERLY RE, 1980, PHYS REV A, V21, P1876, DOI 10.1103/PhysRevA.21.1876
+   KWAN CK, 1983, PHYS REV A, V27, P1328, DOI 10.1103/PhysRevA.27.1328
+   MORRISON MA, 1977, PHYS REV A, V15, P2186, DOI 10.1103/PhysRevA.15.2186
+   SINAPIUS G, 1980, J PHYS B-AT MOL OPT, V13, P4079, DOI 10.1088/0022-3700/13/20/020
+   STEIN TS, 1982, ADV ATOM MOL PHYS, V18, P53, DOI 10.1016/S0065-2199(08)60239-0
+   SUEOKA O, 1982, J PHYS SOC JPN, V51, P2381, DOI 10.1143/JPSJ.51.2381
+   SUEOKA O, 1982, JPN J APPL PHYS 1, V21, P702, DOI 10.1143/JJAP.21.702
+   SZMYTKOWSKI C, 1978, CHEM PHYS LETT, V57, P105, DOI 10.1016/0009-2614(78)80360-1
+NR 32
+TC 78
+Z9 78
+PU PHYSICAL SOCIETY JAPAN
+PI TOKYO
+PA KIKAI-SHINKO BUILDING, 3-5-8 SHIBA-KOEN, MINATO-KU, TOKYO 105, JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PY 1984
+VL 53
+IS 8
+BP 2491
+EP 2500
+DI 10.1143/JPSJ.53.2491
+PG 10
+WC Physics, Multidisciplinary
+SC Physics
+GA TN780
+UT WOS:A1984TN78000016
+ER
+
+PT J
+AU HISHINUMA, N
+   SUEOKA, O
+AF HISHINUMA, N
+   SUEOKA, O
+TI GLORY UNDULATIONS IN SCATTERING OF ORIENTED GA(2P3/2) ATOMS BY RARE-GAS
+   ATOMS
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+RP HISHINUMA, N (reprint author), UNIV TOKYO,COLL GEN EDUC,INST PHYS,MEGURO KU,TOKYO 153,JAPAN.
+CR AQUILANTI V, 1980, J CHEM PHYS, V73, P1173, DOI 10.1063/1.440281
+   BERKLING K, 1962, Z PHYS, V168, P81, DOI 10.1007/BF01418961
+   BERNSTEI.RB, 1973, J CHEM PHYS, V58, P1109, DOI 10.1063/1.1679292
+   CHILD MS, 1974, MOL COLLISION THEORY, P174
+   DUREN R, 1981, J CHEM PHYS, V74, P6806
+   DUREN R, 1982, Z PHYS A-HADRON NUCL, V307, P1, DOI 10.1007/BF01416066
+   DUREN R, 1981, CHEM PHYS LETT, V79, P481, DOI 10.1016/0009-2614(81)85018-X
+   GREENE EF, 1972, J CHEM PHYS, V57, P2065, DOI 10.1063/1.1678530
+   HISHINUMA N, 1982, AT COLLISION RES JAP, V8, P139
+   HISHINUMA N, 1983, UNPUB 9TH INT S MOL
+   HUWEL L, 1980, CHEM PHYS LETT, V74, P459, DOI 10.1016/0009-2614(80)85252-3
+   LACKSCHEWITZ U, 1982, CHEM PHYS LETT, V88, P233, DOI 10.1016/0009-2614(82)83374-5
+   MIES FH, 1973, PHYS REV A, V7, P942, DOI 10.1103/PhysRevA.7.942
+   REID RHG, 1973, J PHYS B-AT MOL OPT, V6, P2018, DOI 10.1088/0022-3700/6/10/018
+   REUSS J, 1975, ADV CHEM PHYS, V30, P389
+   TOSCHEK P, 1965, Z PHYS, V187, P52, DOI 10.1007/BF01380904
+   ZANDEE L, 1977, CHEM PHYS, V26, P345, DOI 10.1016/0301-0104(77)85159-8
+NR 17
+TC 13
+Z9 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PY 1983
+VL 98
+IS 5
+BP 414
+EP 418
+DI 10.1016/0009-2614(83)80078-5
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA RA503
+UT WOS:A1983RA50300002
+ER
+
+PT J
+AU SUEOKA, O
+AF SUEOKA, O
+TI DETECTION EFFICIENCY OF A CONTINUOUS DYNODE ELECTRON MULTIPLIER
+   (CERATRON) FOR POSITRONS
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES &
+   REVIEW PAPERS
+LA English
+DT Article
+RP SUEOKA, O (reprint author), UNIV TOKYO,COLL GEN EDUC,INST PHYS,TOKYO 153,JAPAN.
+CR ARNOLDY RL, 1973, REV SCI INSTRUM, V44, P172, DOI 10.1063/1.1686075
+   BORDONI F, 1971, NUCL INSTRUM METHODS, V97, P405, DOI 10.1016/0029-554X(71)90300-4
+   BOSQUED JM, 1967, NUCL INSTRUM METHODS, V57, P6, DOI 10.1016/0029-554X(67)90489-2
+   COLEMAN PG, 1975, J PHYS B, V8, P1454
+   Dale J. M., 1980, Surface and Interface Analysis, V2, DOI 10.1002/sia.740020602
+   EGIDI A, 1969, REV SCI INSTRUM, V40, P88, DOI 10.1063/1.1683757
+   FRANK LA, 1969, REV SCI INSTRUM, V40, P685, DOI 10.1063/1.1684037
+   KURZ EA, 1979, AM LAB, V11
+   PASCHMAN.G, 1970, REV SCI INSTRUM, V41, P1706, DOI 10.1063/1.1684393
+   SHARBER JR, 1968, IEEE T NUCL SCI, VNS15, P536, DOI 10.1109/TNS.1968.4324979
+   Toyoda M., 1975, Transactions of the Society of Instrument and Control Engineers, V11
+   YAMAMOTO H, 1974, SINKUU, V17, P235
+NR 12
+TC 5
+Z9 5
+PU JAPAN J APPLIED PHYSICS
+PI MINATO-KU TOKYO
+PA DAINI TOYOKAIJI BLDG 24-8 SHINBASHI 4-CHOME, MINATO-KU TOKYO 105, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Short Notes Rev. Pap.
+PY 1982
+VL 21
+IS 5
+BP 702
+EP 705
+DI 10.1143/JJAP.21.702
+PG 4
+WC Physics, Applied
+SC Physics
+GA NW823
+UT WOS:A1982NW82300005
+ER
+
+EF

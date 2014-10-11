@@ -15,7 +15,7 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 14,藤井保彦,Fujii,Yasuhiko,Fujii Yasuhiko,Yasuhiko Fujii,Y Fujii,Fujii Y,1992,2004,,,1992,2004,1943,S,,,,,,,,,,,,,,,,,,,,,,,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,
 15,藤井保憲,Fujii,Yasunori,Fujii Yasunori,Yasunori Fujii,Y Fujii,Fujii Y,LC,1991,1970,1977,1978,1991,1932,L,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,継続先,日本福祉大学教授,
 16,藤川和男,Fujikawa,Kazuo,Fujikawa Kazuo,Kazuo Fujikawa,K Fujikawa,Fujikawa K,1977,2003,1977,1983,1992,2003,1942,DN,,,,,,,,A,A,A,A,A,A,A,,,,,,,,,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,2003,,,,,,一時異動,広島大,
-17,藤森淳,Fujimori,Atsushi,Fujimori Atsushi,Atsushi Fujimori,A Fujimori,Fujimori A,1989,RC,1990,1998,1999,2013,1953,D,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,
+17,藤森淳,Fujimori,Jun,Fujimori Jun,Jun Fujimori,J Fujimori,Fujimori J,1989,RC,1990,1998,1999,2013,1953,D,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,
 18,藤本文範,Fujimoto,Fuminori,Fujimoto Fuminori,Fuminori Fujimoto,F Fujimoto,Fujimoto F,LC,1988,1970,1971,1972,1985,1928,L,A,A,P,,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,学生一人、英文タイトルなし
 19,藤原邦男,Fujiwara,Kunio,Fujiwara Kunio,Kunio Fujiwara,K Fujiwara,Fujiwara K,LC,1991,1970,1981,1982,1991,1932,L,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
 20,深井有,Fukai,Yuh,Fukai Yuh,Yuh Fukai,Y Fukai,Fukai Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,情報なし,,論文博士
@@ -107,7 +107,7 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 106,小林孝嘉,Kobayashi,Takayoshi,Kobayashi Takayoshi,Takayoshi Kobayashi,T Kobayashi,Kobayashi T,1981,2005,1981,1993,1994,2005,1944,D,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,1,,,,,,,継続先,電通大,
 107,小林富雄,Kobayashi,Tomio,Kobayashi Tomio,Tomio Kobayashi,T Kobayashi,Kobayashi T,1989,RC,1989,1992,1993,2013,1950,P,,,,,,,,,,,,,,,,,,,,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,
 108,甲元真人,Kohmoto,Mahito,Kohmoto Mahito,Mahito Kohmoto,M Kohmoto,Kohmoto M,1989,RC,1990,2013,,,1950,S,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,,,,,,,,,
-109,河野公俊,Kono,Kimitoshi,Kono Kimitoshi,Kimitoshi Kono,K Kono,Kono K,1992,1999,1992,1999,,,1955,S,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,,,,,,,,,,,,,,,,1,,,,,,,継続先,理研,学生は二人いるが、英文タイトルなし
+109,河野公俊,Kohno,Kimitoshi,Kohno Kimitoshi,Kimitoshi Kohno,K Kohno,Kohno K,1992,1999,1992,1999,,,1955,S,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,,,,,,,,,,,,,,,,1,,,,,,,継続先,理研,学生は二人いるが、英文タイトルなし
 110,小牧研一郎,Komaki,Kenichiro,Komaki Kenichiro,Kenichiro Komaki,K Komaki,Komaki K,1981,2005,1981,1990,1991,20054,1944,L,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,1,,,,,1,,継続先,入試センター,
 111,駒宮幸男,Komamiya,Sachio,Komamiya Sachio,Sachio Komamiya,S Komamiya,Komamiya S,1991,RC,1991,1994,1995,2013,1950,PD,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,P,P,P,P,P,P,P,P,P,P,Ｐ,Ｐ,Ｐ,Ｐ,Ｐ,Ｐ,Ｐ,Ｐ,Ｐ,,,,,,,,,,,
 112,小森文夫,Komori,Fumio,Komori Fumio,Fumio Komori,F Komori,Komori F,1991,RC,1991,2008,2009,2013,1956,SD,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,,,,,,,,,,,
@@ -131,7 +131,7 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 130,松本浩,Matsumoto,Hiroshi,Matsumoto Hiroshi,Hiroshi Matsumoto,H Matsumoto,Matsumoto H,,,,,,,1970,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,助手のみ,,学生一人
 131,松尾泰,Matsuo,Yutaka,Matsuo Yutaka,Yutaka Matsuo,Y Matsuo,Matsuo Y,1998,RC,1998,2013,,,1960,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,,,,,,,,,
 132,松岡正浩,Matsuoka,Masahiro,Matsuoka Masahiro,Masahiro Matsuoka,M Matsuoka,Matsuoka M,1986,1994,,,1986,1994,1935,S,,,,,,,,,,,,,,,,,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-133,末岡修,Sueoka,Osamu,Sueoka Osamu,Osamu Sueoka,O Sueoka,Sueoka O,1971,1989,1971,1989,,,1937,L,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,継続先,山口大,学生一人
+133,末岡修,Matsuoka,Osamu,Matsuoka Osamu,Osamu Matsuoka,O Matsuoka,Matsuoka O,1971,1989,1971,1989,,,1937,L,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,継続先,山口大,学生一人
 134,蓑輪眞,Minowa,Makoto,Minowa Makoto,Makoto Minowa,M Minowa,Minowa M,1987,RC,1987,2001,2002,2013,1951,D,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,
 135,満田和久,Mitsuda,Kazuhisa,Mitsuda Kazuhisa,Kazuhisa Mitsuda,K Mitsuda,Mitsuda K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,他施設所属,宇宙科学研究所,
 136,三浦登,Miura,Noboru,Miura Noboru,Noboru Miura,N Miura,Miura N,1974,2002,1974,1987,1988,2002,1941,S,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,学生一人
@@ -149,7 +149,7 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 148,森垣和夫,Morigaki,Kazuo,Morigaki Kazuo,Kazuo Morigaki,K Morigaki,Morigaki K,LC,1991,1970,1983,1984,1991,1932,S,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 149,森松治,Morimatsu,Osamu,Morimatsu Osamu,Osamu Morimatsu,O Morimatsu,Morimatsu O,,,,,,,1958,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,助手のみ,,学生一人
 150,森永晴彦,Morinaga,Haruhiko,Morinaga Haruhiko,Haruhiko Morinaga,H Morinaga,Morinaga H,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,情報なし,1970以前,1970年以前の教員なので、学生を1970以降に一人も取っていない
-151,守谷亨,Moriya,Toru,Moriya Toru,Toru Moriya,T Moriya,Moriya T,LC,1990,1970,1973,1974,1990,1930,S,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,守谷亨,Moriya,Ryo,Moriya Ryo,Ryo Moriya,R Moriya,Moriya R,LC,1990,1970,1973,1974,1990,1930,S,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,村尾美緒,Murao,Mio,Murao Mio,Mio Murao,M Murao,Murao M,2002,RC,2002,2013,,,1968,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,,,,,,,,,,,学生一人
 153,永江知文,Nagae,Tomofumi,Nagae Tomofumi,Tomofumi Nagae,T Nagae,Nagae T,1996,1996,1996,1996,,,1958,N,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,1,,,,1,,,継続先,高エネ研,
 154,永嶺謙忠,Nagamine,Kanetada,Nagamine Kanetada,Kanetada Nagamine,K Nagamine,Nagamine K,1981,1996,1981,1989,1990,1996,1941,CM,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,1,,,,1,,,継続先,高エネ研,
@@ -241,7 +241,7 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 240,伴野雄三,Tomono,Yuzo,Tomono Yuzo,Yuzo Tomono,Y Tomono,Tomono Y,LC,1974,,,1970,1974,1919,S,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,継続先,上智大,学生一人、正確には、博士学生は1970以前に数人いるが、博論が英文タイトルでない。
 241,戸塚洋二,Totsuka,Yoji,Totsuka Yoji,Yoji Totsuka,Y Totsuka,Totsuka Y,1980,2002,1980,1988,1989,2002,1942,PC,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,
 242,遠山濶志,Toyama,Hiroshi,Toyama Hiroshi,Hiroshi Toyama,H Toyama,Toyama H,1977,1998,1981,1992,1993,1998,1938,D,,,,,,,,L,L,L,L,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,
-243,豊沢豊,Toyozawa,Yutaka,Toyozawa Yutaka,Yutaka Toyozawa,Y Toyozawa,Toyozawa Y,LC,1987,,,1970,1987,1926,S,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+243,豊沢豊,Toyosawa,Yutaka,Toyosawa Yutaka,Yutaka Toyosawa,Y Toyosawa,Toyosawa Y,LC,1987,,,1970,1987,1926,S,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 244,坪野公夫,Tsubono,Kimio,Tsubono Kimio,Kimio Tsubono,K Tsubono,Tsubono K,1989,RC,1989,1999,2000,2013,1948,D,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,
 245,塚田捷,Tsukada,Masaru,Tsukada Masaru,Masaru Tsukada,M Tsukada,Tsukada M,1983,2004,1983,1991,1992,2004,1943,D,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,1,,,,,,,継続先,早大,
 246,常行真司,Tsuneyuki,Shinji,Tsuneyuki Shinji,Shinji Tsuneyuki,S Tsuneyuki,Tsuneyuki S,1992,RC,1992,2006,2007,2013,1961,SD,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,,,,,,,,,,,
@@ -255,7 +255,7 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 254,和田昭允,Wada,Akiyoshi,Wada Akiyoshi,Akiyoshi Wada,A Wada,Wada A,LC,1989,1970,1972,1973,1989,1929,D,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 255,和田純夫,Wada,Sumio,Wada Sumio,Sumio Wada,S Wada,Wada S,1990,RC,,,,,1949,L,,,,,,,,,,,,,,,,,,,,,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,,,,,,,1,,,,
 256,和田靖,Wada,Yasushi,Wada Yasushi,Yasushi Wada,Y Wada,Wada Y,LC,1991,1970,1980,1981,1991,1932,D,A,A,A,A,A,A,P,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-257,和達三樹,Wadati,Miki,Wadati Miki,Miki Wadati,M Wadati,Wadati M,1981,2007,1981,1989,1990,2007,1945,LD,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,1,,,,,,,継続先,理科大,
+257,和達三樹,Wadachi,Miki,Wadachi Miki,Miki Wadachi,M Wadachi,Wadachi M,1981,2007,1981,1989,1990,2007,1945,LD,,,,,,,,,,,,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,1,,,,,,,継続先,理科大,
 258,若林健之,Wakabayashi,Takeyuki,Wakabayashi Takeyuki,Takeyuki Wakabayashi,T Wakabayashi,Wakabayashi T,1980,2000,1983,1989,1990,2000,1941,D,,,,,,,,,,,L,L,L,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,1,,,,,,,継続先,帝京大,
 259,矢島達夫,Yajima,Tatsuo,Yajima Tatsuo,Tatsuo Yajima,T Yajima,Yajima T,LC,1989,1970,1983,1984,1989,1928,S,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 260,山田作衛,Yamada,Sakue,Yamada Sakue,Sakue Yamada,S Yamada,Yamada S,1979,1996,1979,1986,1987,1996,1941,PN,,,,,,,,,,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,,,1,,,,1,,,継続先,高エネ研,
@@ -279,10 +279,10 @@ f_id,f_name,f_family_name,f_first_name,f_name1,f_name2,f_name3,f_name4,f_from_ye
 278,吉森昭夫,Yoshimori,Akio,Yoshimori Akio,Akio Yoshimori,A Yoshimori,Yoshimori A,LC,1977,1970,1977,,,1927,S,A,A,A,A,A,A,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,継続先,阪大,博士一人
 279,吉岡大二郎,Yoshioka,Daijiro,Yoshioka Daijiro,Daijiro Yoshioka,D Yoshioka,Yoshioka D,1991,RC,1991,1994,1995,2013,1949,L,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,
 280,吉澤徴,Yoshizawa,Akira,Yoshizawa Akira,Akira Yoshizawa,A Yoshizawa,Yoshizawa A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,他施設所属,高エネ研,二人以上学生がいる
-281,久保野茂,Kubono,Shigeru,Kubono Shigeru,Shigeru Kubono,S Kubono,Kubono S,1998,2012,,,1998,2012,1947,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,学生なし
-282,永野元彦,Nagano,Motohiko,Nagano Motohiko,Motohiko Nagano,M Nagano,Nagano M,1974,1998,1974,1988,1989,1998,1938,C,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,1,,,,,,,継続先,福井工大,学生なし
-283,和田信雄,Wada,Nobuo,Wada Nobuo,Nobuo Wada,N Wada,Wada N,1993,2001,1993,1994,1995,2001,,L,,,,,,,,,,,,,,,,,,,,,,,,A,A,P,P,P,P,P,P,P,,,,,,,,,,,,,,1,,,,,,,継続先,名古屋大,学生なし
-284,関口真木,Sekiguchi,Maki,Sekiguchi Maki,Maki Sekiguchi,M Sekiguchi,Sekiguchi M,1999,2002,1999,2002,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,,,,,,,,,,,,,,,,,,,,要調査,,学生なし
+281,久保野茂,,,,,,,1998,2012,,,1998,2012,1947,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,学生なし
+282,永野元彦,,,,,,,1974,1998,1974,1988,1989,1998,1938,C,,,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,P,P,P,P,P,P,P,P,P,P,,,,,,,,,,,,,,,,,1,,,,,,,継続先,福井工大,学生なし
+283,和田信雄,,,,,,,1993,2001,1993,1994,1995,2001,,L,,,,,,,,,,,,,,,,,,,,,,,,A,A,P,P,P,P,P,P,P,,,,,,,,,,,,,,1,,,,,,,継続先,名古屋大,学生なし
+284,関口真木,,,,,,,1999,2002,1999,2002,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,,,,,,,,,,,,,,,,,,,,要調査,,学生なし
 285,井上信幸,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,他学部所属,工学部,学生なし
 286,中村健蔵,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,他施設所属,高エネ研,学生なし
 287,井上信幸,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,データ重複,,学生なし
